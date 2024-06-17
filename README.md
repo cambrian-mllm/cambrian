@@ -229,9 +229,9 @@ To begin, please visit our [Hugging Face alignment data page](https://huggingfac
 
 We provide sample training scripts in:
 
-- [cambrian/scripts/cambrian/pretrain_cambrian_8b.sh](cambrian/scripts/cambrian/pretrain_cambrian_8b.sh)
-- [cambrian/scripts/cambrian/pretrain_cambrian_13b.sh](cambrian/scripts/cambrian/pretrain_cambrian_13b.sh)
-- [cambrian/scripts/cambrian/pretrain_cambrian_34b.sh](cambrian/scripts/cambrian/pretrain_cambrian_34b.sh)
+- [scripts/cambrian/pretrain_cambrian_8b.sh](scripts/cambrian/pretrain_cambrian_8b.sh)
+- [scripts/cambrian/pretrain_cambrian_13b.sh](scripts/cambrian/pretrain_cambrian_13b.sh)
+- [scripts/cambrian/pretrain_cambrian_34b.sh](scripts/cambrian/pretrain_cambrian_34b.sh)
 
 #### Using Custom Data
 
@@ -249,9 +249,9 @@ Similar to Training SVA, please visit our [Cambrian-10M data](https://huggingfac
 
 We provide sample training scripts in:
 
-- [cambrian/scripts/cambrian/finetune_cambrian_8b.sh](cambrian/scripts/cambrian/finetune_cambrian_8b.sh)
-- [cambrian/scripts/cambrian/finetune_cambrian_13b.sh](cambrian/scripts/cambrian/finetune_cambrian_13b.sh)
-- [cambrian/scripts/cambrian/finetune_cambrian_34b.sh](cambrian/scripts/cambrian/finetune_cambrian_34b.sh)
+- [scripts/cambrian/finetune_cambrian_8b.sh](scripts/cambrian/finetune_cambrian_8b.sh)
+- [scripts/cambrian/finetune_cambrian_13b.sh](scripts/cambrian/finetune_cambrian_13b.sh)
+- [scripts/cambrian/finetune_cambrian_34b.sh](scripts/cambrian/finetune_cambrian_34b.sh)
 
 ### Options to note:
 
