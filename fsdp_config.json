@@ -1,0 +1,12 @@
+{
+    "fsdp_transformer_layer_cls_to_wrap": [
+        "LlamaDecoderLayer"
+    ],
+    "xla": true,
+    "xla_fsdp_settings": {
+        "compute_dtype": "bfloat16",
+        "shard_param_on_dim_0": true,
+        "pin_layout_in_collective_ops": true
+    },
+   "xla_fsdp_grad_ckpt": true
+}
