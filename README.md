@@ -110,7 +110,7 @@ To use the model weights, download them from Hugging Face:
 - [Cambrian-1-13B](https://huggingface.co/nyu-visionx/cambrian-13b)
 - [Cambrian-1-34B](https://huggingface.co/nyu-visionx/cambrian-34b)
 
-We provide a sample model loading and generation script in `inference.py`.
+We provide a sample model loading and generation script in [`inference.py`](inference.py).
 
 
 
