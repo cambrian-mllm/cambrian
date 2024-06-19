@@ -1,6 +1,9 @@
 #  *Cambrian-1*: A Fully Open, Vision-Centric Exploration of Multimodal LLMs
+
+<div align="center" style="font-family: charter;">
+
 <a href="" target="_blank">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/Arxiv-Cambrian-blue&logo=arxiv" />
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Arxiv-Cambrian-red?logo=arxiv" />
   </a>
 <a href="https://cambrian-mllm.github.io/" target="_blank">
     <img alt="Hugging Face" src="https://img.shields.io/badge/🌎Website-Cambrian-blue.svg" />
@@ -11,9 +14,14 @@
   <a href="https://huggingface.co/collections/nyu-visionx/cambrian-data-6667ce801e179b4fbe774e11" target="_blank">
     <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Data-Cambrian-ffc107?color=ffc107&logoColor=white" />
   </a>
-   
+   </div>
+
  
 
+
+<p align="center">
+    <img src="images/cambrian.png" alt="Cambrian">
+</p>
 
 <div align="center" style="font-family: charter;">
     <a href="https://tsb0601.github.io/petertongsb/" target="_blank">Shengbang Tong*</a>,</span>
@@ -35,12 +43,9 @@
     <a href="https://www.sainingxie.com/" target="_blank">Saining Xie</a>,</span>
 </div>
 
-<p align="center">
-    <img src="images/cambrian.png" alt="Cambrian">
-</p>
 
 
-Fun fact, animals start to see in the Cambrian period! This part of the reason we name this project Cambrian.
+*Fun fact, animals start to see in the Cambrian period! This is part of the reason we name this project Cambrian.*
 
 
 ## Release
