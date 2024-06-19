@@ -1,4 +1,19 @@
 #  *Cambrian-1*: A Fully Open, Vision-Centric Exploration of Multimodal LLMs
+<a href="" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Arxiv-Cambrian-blue&logo=arxiv" />
+  </a>
+<a href="https://cambrian-mllm.github.io/" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/🌎Website-Cambrian-blue.svg" />
+  </a>
+ <a href="https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-Cambrian-ffc107?color=ffc107&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/collections/nyu-visionx/cambrian-data-6667ce801e179b4fbe774e11" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Data-Cambrian-ffc107?color=ffc107&logoColor=white" />
+  </a>
+   
+ 
+
 
 <div align="center" style="font-family: charter;">
     <a href="https://tsb0601.github.io/petertongsb/" target="_blank">Shengbang Tong*</a>,</span>
