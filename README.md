@@ -1,61 +1,61 @@
-#  *Cambrian-1*: A Fully Open, Vision-Centric Exploration of Multimodal LLMs
+<div align="center">
 
-<div align="center" style="font-family: charter;">
-
-<a href="" target="_blank">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/Arxiv-Cambrian-red?logo=arxiv" />
-  </a>
-<a href="https://cambrian-mllm.github.io/" target="_blank">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/🌎Website-Cambrian-blue.svg" />
-  </a>
- <a href="https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c" target="_blank">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-Cambrian-ffc107?color=ffc107&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/collections/nyu-visionx/cambrian-data-6667ce801e179b4fbe774e11" target="_blank">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Data-Cambrian-ffc107?color=ffc107&logoColor=white" />
-  </a>
-   </div>
-
- 
+#  *Cambrian-1*:<br> A Fully Open, Vision-Centric Exploration of Multimodal LLMs
 
 
-<p align="center">
-    <img src="images/cambrian.png" alt="Cambrian">
+<p>
+    <img src="images/cambrian.png" alt="Cambrian" width="500" height="auto">
 </p>
 
-<div align="center" style="font-family: charter;">
-    <a href="https://tsb0601.github.io/petertongsb/" target="_blank">Shengbang Tong*</a>,</span>
-    <a href="https://ellisbrown.github.io/" target="_blank">Ellis Brown*</a>,</span>
-    <a href="https://penghao-wu.github.io/" target="_blank">Penghao Wu*</a>,</span>
+
+
+<a href="" target="_blank">
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-Cambrian--1-red?logo=arxiv" height="25" />
+</a>
+<a href="https://cambrian-mllm.github.io/" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/🌎_Website-cambrian--mllm.github.io-blue.svg" height="25" />
+</a>
+<br>
+<a href="https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Model-Cambrian--1-ffc107?color=ffc107&logoColor=white" height="25" />
+</a>
+<a href="https://huggingface.co/collections/nyu-visionx/cambrian-data-6667ce801e179b4fbe774e11" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Data-Cambrian--10M-ffc107?color=ffc107&logoColor=white" height="25" />
+</a>
+<a href="https://huggingface.co/datasets/nyu-visionx/CV-Bench" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-CV--Bench-ffc107?color=ffc107&logoColor=white" height="25" />
+</a>
+
+
+
+<div style="font-family: charter;">
+    <a href="https://tsb0601.github.io/petertongsb/" target="_blank">Shengbang Tong*</a>,
+    <a href="https://ellisbrown.github.io/" target="_blank">Ellis Brown*</a>,
+    <a href="https://penghao-wu.github.io/" target="_blank">Penghao Wu*</a>,
 </div>
-<div align="center" style="font-family: charter;">
-    <a href="https://sites.google.com/view/sanghyunwoo/" target="_blank">Sanghyun Woo</a>,</span>  
-    <a href="https://www.linkedin.com/in/sai-charitha-akula-32574887/" target="_blank">Sai Charitha Akula</a>,</span>
-    <a href="https://jihanyang.github.io/" target="_blank">Jihan Yang</a>,</span>
-    <a href="https://github.com/vealocia" target="_blank">Shusheng Yang</a>,</span>
-    <a href="https://adithyaiyer1999.github.io/" target="_blank">Adithya Iyer</a>,</span>
-    <a href="https://xichenpan.com/" target="_blank">Xichen Pan</a>,</span>
-    <a href="https://www.linkedin.com/in/ziteng-wang-694b8b227/" target="_blank">Austin Wang</a>,</span>
+<div style="font-family: charter;">
+    <a href="https://sites.google.com/view/sanghyunwoo/" target="_blank">Sanghyun Woo</a>,
+    <a href="https://www.linkedin.com/in/manoj-middepogu/" target="_blank">Manoj Middepogu</a>,
+    <a href="https://www.linkedin.com/in/sai-charitha-akula-32574887/" target="_blank">Sai Charitha Akula</a>,
+    <a href="https://jihanyang.github.io/" target="_blank">Jihan Yang</a>,
+    <a href="https://github.com/vealocia" target="_blank">Shusheng Yang</a>,
+    <a href="https://adithyaiyer1999.github.io/" target="_blank">Adithya Iyer</a>,
+    <a href="https://xichenpan.com/" target="_blank">Xichen Pan</a>,
+    <a href="https://www.linkedin.com/in/ziteng-wang-694b8b227/" target="_blank">Austin Wang</a>,
 </div>
-<div align="center" style="font-family: charter;">
-    <a href="https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php" target="_blank">Rob Fergus</a>,</span>
-    <a href="http://yann.lecun.com/" target="_blank">Yann LeCun</a>,</span>
-    <a href="https://www.sainingxie.com/" target="_blank">Saining Xie</a>,</span>
+<div style="font-family: charter;">
+    <a href="http://cs.nyu.edu/~fergus" target="_blank">Rob Fergus</a>,
+    <a href="http://yann.lecun.com/" target="_blank">Yann LeCun</a>,
+    <a href="https://www.sainingxie.com/" target="_blank">Saining Xie</a>
 </div>
 
+</div>
+<br>
 
-
-*Fun fact, animals start to see in the Cambrian period! This is part of the reason we name this project Cambrian.*
-
+> *Fun fact: vision emerged in animals during the Cambrian period! This was the inspiration for the name of our project, Cambrian.*
 
 ## Release
-- [6/18] 🔥 We released Cambrian-1! A family of multimodal LLMs (MLLMs) designed with a vision-centric approach. We are gradually releasing three sizes of model (8B, 13B and 34B), training data, TPU training scripts. We will release GPU training script and evaluation code very soon. 
-
-
-
-
-[![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
-**Usage and License Notices**: This project utilizes certain datasets and checkpoints that are subject to their respective original licenses. Users must comply with all terms and conditions of these original licenses, including but not limited to the [OpenAI Terms of Use](https://openai.com/policies/terms-of-use) for the dataset and the specific licenses for base language models for checkpoints trained using the dataset (e.g. [Llama community license](https://ai.meta.com/llama/license/) for LLaMA-3,and Vicuna-1.5). This project does not impose any additional constraints beyond those stipulated in the original licenses. Furthermore, users are reminded to ensure that their use of the dataset and checkpoints is in compliance with all applicable laws and regulations.
+- [6/24] 🔥 We released Cambrian-1! A family of multimodal LLMs (MLLMs) designed with a vision-centric approach. We are gradually releasing three sizes of model (8B, 13B and 34B), training data, TPU training scripts. We will release GPU training script and evaluation code very soon. 
 
 
 ## Contents
@@ -65,7 +65,7 @@
 - [Train](#train)
 - [Evaluation](#evaluation)
 
-## Install
+## Installation
 Current, we support training on TPU using TorchXLA
 
 1. Clone this repository and navigate to LLaVA folder
@@ -134,13 +134,14 @@ We provide a sample model loading and generation script in [`inference.py`](infe
 
 
 
-## Cambrian Instruction Tuning Data
+## Cambrian-10M Instruction Tuning Data
 <p align="center">
     <img src="images/cambrian7m.png" alt="Cambrian-7M">
 </p>
 
 
-In this work, we curated a very large pool of instruction tuning data, which we refer to as Cambrian-10M for us and future works to study data in training MLLMs. We uploaded all of the data we collected, generated and distilled from GPT-4 to our [huggingface page](https://huggingface.co/datasets/nyu-visionx/Cambrian-10M). 
+In this work, we collect a very large pool of instruction tuning data, Cambrian-10M, for us and future work to study data in training MLLMs. In our preliminary study, we filter the data down to a high quality set of 7M curated data points, which we call Cambrian-7M.
+Both of these datasets are available in the following Hugging Face Dataset: [Cambrian-10M](https://huggingface.co/datasets/nyu-visionx/Cambrian-10M).
 
 ### Data Collection
 We collected a diverse range of visual instruction tuning data from various sources, including VQA, visual conversation, and embodied visual interaction. To ensure high-quality, reliable, and large-scale knowledge data, we designed an Internet Data Engine.
@@ -186,11 +187,10 @@ Compared to the previous LLaVA-665K model, scaling up and improved data curation
 
 While training with Cambrian-7M provides competitive benchmark results, we observed that the model tends to output shorter responses and act like a question-answer machine. This behavior, which we refer as the "Answer Machine" phenomenon, can limit the model's usefulness in more complex interactions.
 
-To mitigate this issue, we found that adding a system prompt such as *"Answer the question using a single word or phrase."* can help. This approach encourages the model to provide more concise and contextually appropriate answers.
-
-For more details, please refer to our paper.
+We found that adding a system prompt such as *"Answer the question using a single word or phrase."* can help mitigate the issue. This approach encourages the model to provide such concise answers only when it is contextually appropriate. For more details, please refer to our paper.
 
 We have also curated a dataset, [Cambrian-7M *with* system prompt](https://huggingface.co/datasets/nyu-visionx/Cambrian-10M/blob/main/jsons/Cambrian7M_withsystemprompt.jsonl), which includes the system prompt to enhance the model's creativity and chat ability.
+
 ## Train
 
 Below is the latest training configuration for Cambrian-1.
@@ -296,8 +296,12 @@ We will release this part of code very soon.
 
 If you find Cambrian useful for your research and applications, please cite using this BibTeX:
 ```bibtex
-
-
+@article{tong2024cambrian,
+  title={Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs},
+  author={Tong, Shengbang and Brown, Ellis and Wu, Penghao and Woo, Sanghyun and Middepogu, Manoj and Akula, Sai Charitha and Yang, Jihan and Yang, Shusheng, and Iyer, Adithya and Pan, Xichen and Wang, Austin and LeCun, Yann and Xie, Saining},
+  journal={arXiv preprint arXiv:2406.TBD},
+  year={2024}
+}
 ```
 
 ## Acknowledgement
@@ -313,3 +317,10 @@ If you find Cambrian useful for your research and applications, please cite usin
 - [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://tsb0601.github.io/mmvp_blog/)
 - [V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://vstar-seal.github.io/)
 - [V-IRL: Grounding Virtual Intelligence in Real Life](https://virl-platform.github.io/)
+
+
+
+## License
+
+[![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/cambrian-mllm/cambrian/blob/main/LICENSE)<br>
+**Usage and License Notices**: This project utilizes certain datasets and checkpoints that are subject to their respective original licenses. Users must comply with all terms and conditions of these original licenses, including but not limited to the [OpenAI Terms of Use](https://openai.com/policies/terms-of-use) for the dataset and the specific licenses for base language models for checkpoints trained using the dataset (e.g. [Llama community license](https://ai.meta.com/llama/license/) for LLaMA-3,and Vicuna-1.5). This project does not impose any additional constraints beyond those stipulated in the original licenses. Furthermore, users are reminded to ensure that their use of the dataset and checkpoints is in compliance with all applicable laws and regulations.
