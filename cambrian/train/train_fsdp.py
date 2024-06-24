@@ -830,6 +830,9 @@ def preprocess_phi3(
             if i != 0 and not getattr(tokenizer, 'legacy', False) and IS_TOKENIZER_GREATER_THAN_0_14:
                 round_len -= 1
                 instruction_len -= 1
+            if i != 0: # remove the first \n token
+                round_len -= 1
+                instruction_len -= 1
 
             target[cur_len : cur_len + instruction_len] = IGNORE_INDEX
 
@@ -1019,15 +1022,16 @@ class LazySupervisedDataset(Dataset):
         if isinstance(i, int):
             data_dict = dict(input_ids=data_dict["input_ids"][0],
                              labels=data_dict["labels"][0])
+        if (data_dict['labels']!=IGNORE_INDEX).sum()==0:
+            return self.__getitem__(0)
         # image exist in the data
         if has_image:
             data_dict['image_aux_list'] = image_aux_list
         elif self.data_args.is_multimodal:
             # image does not exist in the data, but the model is multimodal
             crop_size = 336
-            if self.data_args.image_aspect_ratio == 'multi_scale':
-                processor_aux_list = self.data_args.image_processor_aux_list
-                data_dict['image_aux_list'] = [torch.zeros(3, processor_aux.crop_size['height'], processor_aux.crop_size['width']) for processor_aux in processor_aux_list]
+            processor_aux_list = self.data_args.image_processor_aux_list
+            data_dict['image_aux_list'] = [torch.zeros(3, processor_aux.crop_size['height'], processor_aux.crop_size['width']) for processor_aux in processor_aux_list]
             image_size = (crop_size, crop_size)
         data_dict['image_size'] = image_size
         return data_dict
