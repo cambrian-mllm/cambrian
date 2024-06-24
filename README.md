@@ -32,22 +32,22 @@
     <a href="https://tsb0601.github.io/petertongsb/" target="_blank">Shengbang Tong*</a>,
     <a href="https://ellisbrown.github.io/" target="_blank">Ellis Brown*</a>,
     <a href="https://penghao-wu.github.io/" target="_blank">Penghao Wu*</a>,
-</div>
-<div style="font-family: charter;">
+    <br>
     <a href="https://sites.google.com/view/sanghyunwoo/" target="_blank">Sanghyun Woo</a>,
     <a href="https://www.linkedin.com/in/manoj-middepogu/" target="_blank">Manoj Middepogu</a>,
     <a href="https://www.linkedin.com/in/sai-charitha-akula-32574887/" target="_blank">Sai Charitha Akula</a>,
     <a href="https://jihanyang.github.io/" target="_blank">Jihan Yang</a>,
+    <br>
     <a href="https://github.com/vealocia" target="_blank">Shusheng Yang</a>,
     <a href="https://adithyaiyer1999.github.io/" target="_blank">Adithya Iyer</a>,
     <a href="https://xichenpan.com/" target="_blank">Xichen Pan</a>,
     <a href="https://www.linkedin.com/in/ziteng-wang-694b8b227/" target="_blank">Austin Wang</a>,
-</div>
-<div style="font-family: charter;">
+    <br>
     <a href="http://cs.nyu.edu/~fergus" target="_blank">Rob Fergus</a>,
     <a href="http://yann.lecun.com/" target="_blank">Yann LeCun</a>,
     <a href="https://www.sainingxie.com/" target="_blank">Saining Xie</a>
 </div>
+
 
 </div>
 <br>
@@ -323,4 +323,4 @@ If you find Cambrian useful for your research and applications, please cite usin
 ## License
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/cambrian-mllm/cambrian/blob/main/LICENSE)<br>
-**Usage and License Notices**: This project utilizes certain datasets and checkpoints that are subject to their respective original licenses. Users must comply with all terms and conditions of these original licenses, including but not limited to the [OpenAI Terms of Use](https://openai.com/policies/terms-of-use) for the dataset and the specific licenses for base language models for checkpoints trained using the dataset (e.g. [Llama community license](https://ai.meta.com/llama/license/) for LLaMA-3,and Vicuna-1.5). This project does not impose any additional constraints beyond those stipulated in the original licenses. Furthermore, users are reminded to ensure that their use of the dataset and checkpoints is in compliance with all applicable laws and regulations.
+**Usage and License Notices**: This project utilizes certain datasets and checkpoints that are subject to their respective original licenses. Users must comply with all terms and conditions of these original licenses, including but not limited to the [OpenAI Terms of Use](https://openai.com/policies/terms-of-use) for the dataset and the specific licenses for base language models for checkpoints trained using the dataset (e.g. [Llama community license](https://ai.meta.com/llama/license/) for LLaMA-3, and Vicuna-1.5). This project does not impose any additional constraints beyond those stipulated in the original licenses. Furthermore, users are reminded to ensure that their use of the dataset and checkpoints is in compliance with all applicable laws and regulations.
