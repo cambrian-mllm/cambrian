@@ -6,22 +6,22 @@ import time
 
 import gradio as gr
 import requests
+import hashlib
+
+from ezcolorlog import root_logger as logger
 
 from cambrian.conversation import (default_conversation, conv_templates,
                                    SeparatorStyle)
 from cambrian.constants import LOGDIR
-from cambrian.utils import (build_logger, server_error_msg,
+from cambrian.utils import (server_error_msg,
     violates_moderation, moderation_msg)
-import hashlib
 
 
-logger = build_logger("gradio_web_server", "gradio_web_server.log")
+headers = {"User-Agent": "Cambrian-1 Client"}
 
-headers = {"User-Agent": "LLaVA Client"}
-
-no_change_btn = gr.Button.update()
-enable_btn = gr.Button.update(interactive=True)
-disable_btn = gr.Button.update(interactive=False)
+no_change_btn = gr.Button()
+enable_btn = gr.Button(interactive=True)
+disable_btn = gr.Button(interactive=False)
 
 priority = {
     "vicuna-13b": "aaaaaaa",
@@ -58,12 +58,11 @@ function() {
 def load_demo(url_params, request: gr.Request):
     logger.info(f"load_demo. ip: {request.client.host}. params: {url_params}")
 
-    dropdown_update = gr.Dropdown.update(visible=True)
+    dropdown_update = gr.Dropdown(visible=True)
     if "model" in url_params:
         model = url_params["model"]
         if model in models:
-            dropdown_update = gr.Dropdown.update(
-                value=model, visible=True)
+            dropdown_update = gr.Dropdown(value=model, visible=True)
 
     state = default_conversation.copy()
     return state, dropdown_update
@@ -73,7 +72,7 @@ def load_demo_refresh_model_list(request: gr.Request):
     logger.info(f"load_demo. ip: {request.client.host}")
     models = get_model_list()
     state = default_conversation.copy()
-    dropdown_update = gr.Dropdown.update(
+    dropdown_update = gr.Dropdown(
         choices=models,
         value=models[0] if len(models) > 0 else ""
     )
@@ -145,8 +144,7 @@ def add_text(state, text, image, image_process_mode, request: gr.Request):
             # text = '<Image><image></Image>' + text
             text = text + '\n<image>'
         text = (text, image, image_process_mode)
-        if len(state.get_images(return_pil=True)) > 0:
-            state = default_conversation.copy()
+        state = default_conversation.copy()
     state.append_message(state.roles[0], text)
     state.append_message(state.roles[1], None)
     state.skip_next = False
@@ -288,8 +286,22 @@ def http_bot(state, model_selector, temperature, top_p, max_new_tokens, request:
         fout.write(json.dumps(data) + "\n")
 
 title_markdown = ("""
-# 🌋 LLaVA: Large Language and Vision Assistant
-[[Project Page](https://cambrian-vl.github.io)] [[Code](https://github.com/haotian-liu/LLaVA)] [[Model](https://github.com/haotian-liu/LLaVA/blob/main/docs/MODEL_ZOO.md)] | 📚 [[LLaVA](https://arxiv.org/abs/2304.08485)] [[LLaVA-v1.5](https://arxiv.org/abs/2310.03744)] [[LLaVA-v1.6](https://cambrian-vl.github.io/blog/2024-01-30-cambrian-1-6/)]
+# 🪼 Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs
+<a href="" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-Cambrian--1-red?logo=arxiv" height="30" />
+</a>
+<a href="https://cambrian-mllm.github.io/" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/🌎_Website-cambrian--mllm.github.io-blue.svg" height="30" />
+</a>
+<a href="https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Model-Cambrian--1-ffc107?color=ffc107&logoColor=white" height="30" />
+</a>
+<a href="https://huggingface.co/collections/nyu-visionx/cambrian-data-6667ce801e179b4fbe774e11" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Data-Cambrian--10M-ffc107?color=ffc107&logoColor=white" height="30" />
+</a>
+<a href="https://huggingface.co/datasets/nyu-visionx/CV-Bench" target="_blank" style="display: inline-block;">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-CV--Bench-ffc107?color=ffc107&logoColor=white" height="30" />
+</a>
 """)
 
 tos_markdown = ("""
@@ -314,9 +326,9 @@ block_css = """
 
 """
 
-def build_demo(embed_mode):
+def build_demo(embed_mode, cur_dir=None, concurrency_count=10):
     textbox = gr.Textbox(show_label=False, placeholder="Enter text and press ENTER", container=False)
-    with gr.Blocks(title="LLaVA", theme=gr.themes.Default(), css=block_css) as demo:
+    with gr.Blocks(title="Cambrian-1", theme=gr.themes.Default(), css=block_css) as demo:
         state = gr.State()
 
         if not embed_mode:
@@ -338,10 +350,12 @@ def build_demo(embed_mode):
                     value="Default",
                     label="Preprocess for non-square image", visible=False)
 
-                cur_dir = os.path.dirname(os.path.abspath(__file__))
+                if cur_dir is None:
+                    cur_dir = os.path.dirname(os.path.abspath(__file__))
                 gr.Examples(examples=[
-                    [f"{cur_dir}/examples/extreme_ironing.jpg", "What is unusual about this image?"],
-                    [f"{cur_dir}/examples/waterview.jpg", "What are the things I should be cautious about when I visit here?"],
+                    [f"{cur_dir}/examples/chicken_world.webp", "What does this image remind you of"],
+                    [f"{cur_dir}/examples/math.png", "Please solve this question step by step."],
+
                 ], inputs=[imagebox, textbox])
 
                 with gr.Accordion("Parameters", open=False) as parameter_row:
@@ -350,7 +364,12 @@ def build_demo(embed_mode):
                     max_output_tokens = gr.Slider(minimum=0, maximum=1024, value=512, step=64, interactive=True, label="Max output tokens",)
 
             with gr.Column(scale=8):
-                chatbot = gr.Chatbot(elem_id="chatbot", label="LLaVA Chatbot", height=550)
+                chatbot = gr.Chatbot(
+                    elem_id="chatbot",
+                    label="Cambrian-1 Chatbot",
+                    # height=650,
+                    layout="panel",
+                )
                 with gr.Row():
                     with gr.Column(scale=8):
                         textbox.render()
@@ -374,31 +393,28 @@ def build_demo(embed_mode):
         upvote_btn.click(
             upvote_last_response,
             [state, model_selector],
-            [textbox, upvote_btn, downvote_btn, flag_btn],
-            queue=False
+            [textbox, upvote_btn, downvote_btn, flag_btn]
         )
         downvote_btn.click(
             downvote_last_response,
             [state, model_selector],
-            [textbox, upvote_btn, downvote_btn, flag_btn],
-            queue=False
+            [textbox, upvote_btn, downvote_btn, flag_btn]
         )
         flag_btn.click(
             flag_last_response,
             [state, model_selector],
-            [textbox, upvote_btn, downvote_btn, flag_btn],
-            queue=False
+            [textbox, upvote_btn, downvote_btn, flag_btn]
         )
 
         regenerate_btn.click(
             regenerate,
             [state, image_process_mode],
-            [state, chatbot, textbox, imagebox] + btn_list,
-            queue=False
+            [state, chatbot, textbox, imagebox] + btn_list
         ).then(
             http_bot,
             [state, model_selector, temperature, top_p, max_output_tokens],
-            [state, chatbot] + btn_list
+            [state, chatbot] + btn_list,
+            concurrency_limit=concurrency_count
         )
 
         clear_btn.click(
@@ -416,18 +432,19 @@ def build_demo(embed_mode):
         ).then(
             http_bot,
             [state, model_selector, temperature, top_p, max_output_tokens],
-            [state, chatbot] + btn_list
+            [state, chatbot] + btn_list,
+            concurrency_limit=concurrency_count
         )
 
         submit_btn.click(
             add_text,
             [state, textbox, imagebox, image_process_mode],
-            [state, chatbot, textbox, imagebox] + btn_list,
-            queue=False
+            [state, chatbot, textbox, imagebox] + btn_list
         ).then(
             http_bot,
             [state, model_selector, temperature, top_p, max_output_tokens],
-            [state, chatbot] + btn_list
+            [state, chatbot] + btn_list,
+            concurrency_limit=concurrency_count
         )
 
         if args.model_list_mode == "once":
@@ -435,8 +452,7 @@ def build_demo(embed_mode):
                 load_demo,
                 [url_params],
                 [state, model_selector],
-                _js=get_window_url_params,
-                queue=False
+                js=get_window_url_params
             )
         elif args.model_list_mode == "reload":
             demo.load(
@@ -456,7 +472,7 @@ if __name__ == "__main__":
     parser.add_argument("--host", type=str, default="0.0.0.0")
     parser.add_argument("--port", type=int)
     parser.add_argument("--controller-url", type=str, default="http://localhost:21001")
-    parser.add_argument("--concurrency-count", type=int, default=10)
+    parser.add_argument("--concurrency-count", type=int, default=16)
     parser.add_argument("--model-list-mode", type=str, default="once",
         choices=["once", "reload"])
     parser.add_argument("--share", action="store_true")
@@ -468,9 +484,8 @@ if __name__ == "__main__":
     models = get_model_list()
 
     logger.info(args)
-    demo = build_demo(args.embed)
+    demo = build_demo(args.embed, concurrency_count=args.concurrency_count)
     demo.queue(
-        concurrency_count=args.concurrency_count,
         api_open=False
     ).launch(
         server_name=args.host,

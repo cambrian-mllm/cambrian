@@ -16,7 +16,7 @@ import uvicorn
 from functools import partial
 
 from cambrian.constants import WORKER_HEART_BEAT_INTERVAL
-from cambrian.utils import (build_logger, server_error_msg,
+from cambrian.utils import (server_error_msg,
     pretty_print_semaphore)
 from cambrian.model.builder import load_pretrained_model
 from cambrian.mm_utils import process_images, load_image_from_base64, tokenizer_image_token, KeywordsStoppingCriteria
@@ -24,11 +24,13 @@ from cambrian.constants import IMAGE_TOKEN_INDEX, DEFAULT_IMAGE_TOKEN, DEFAULT_I
 from transformers import TextIteratorStreamer
 from threading import Thread
 
+from ezcolorlog import root_logger as logger
+
 
 GB = 1 << 30
 
 worker_id = str(uuid.uuid4())[:6]
-logger = build_logger("model_worker", f"model_worker_{worker_id}.log")
+# logger = build_logger("model_worker", f"model_worker_{worker_id}.log")
 global_counter = 0
 
 model_semaphore = None
@@ -146,7 +148,8 @@ class ModelWorker:
                     replace_token = DEFAULT_IM_START_TOKEN + replace_token + DEFAULT_IM_END_TOKEN
                 prompt = prompt.replace(DEFAULT_IMAGE_TOKEN, replace_token)
 
-                num_image_tokens = prompt.count(replace_token) * model.get_vision_tower().num_patches
+                # num_image_tokens = prompt.count(replace_token) * model.get_model().get_vision_tower().num_patches
+                num_image_tokens = 512
             else:
                 images = None
                 image_sizes = None

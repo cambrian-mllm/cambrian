@@ -17,12 +17,11 @@ from fastapi.responses import StreamingResponse
 import numpy as np
 import requests
 import uvicorn
+from ezcolorlog import root_logger as logger
 
 from cambrian.constants import CONTROLLER_HEART_BEAT_EXPIRATION
-from cambrian.utils import build_logger, server_error_msg
-
-
-logger = build_logger("controller", "controller.log")
+from cambrian.utils import server_error_msg
+# logger = build_logger("controller", "controller.log")
 
 
 class DispatchMethod(Enum):
@@ -56,6 +55,8 @@ def heart_beat_controller(controller):
 
 class Controller:
     def __init__(self, dispatch_method: str):
+        logger.info("Init controller")
+
         # Dict[str -> WorkerInfo]
         self.worker_info = {}
         self.dispatch_method = DispatchMethod.from_str(dispatch_method)
@@ -132,14 +133,14 @@ class Controller:
             worker_speeds = worker_speeds / norm
             if True:  # Directly return address
                 pt = np.random.choice(np.arange(len(worker_names)),
-                    p=worker_speeds)
+                                      p=worker_speeds)
                 worker_name = worker_names[pt]
                 return worker_name
 
             # Check status before returning
             while True:
                 pt = np.random.choice(np.arange(len(worker_names)),
-                    p=worker_speeds)
+                                      p=worker_speeds)
                 worker_name = worker_names[pt]
 
                 if self.get_worker_status(worker_name):
@@ -153,6 +154,7 @@ class Controller:
                     worker_speeds = worker_speeds / norm
                     continue
             return worker_name
+
         elif self.dispatch_method == DispatchMethod.SHORTEST_QUEUE:
             worker_names = []
             worker_qlen = []
@@ -165,10 +167,12 @@ class Controller:
             min_index = np.argmin(worker_qlen)
             w_name = worker_names[min_index]
             self.worker_info[w_name].queue_length += 1
-            logger.info(f"names: {worker_names}, queue_lens: {worker_qlen}, ret: {w_name}")
+            logger.info(
+                f"names: {worker_names}, queue_lens: {worker_qlen}, ret: {w_name}")
             return w_name
         else:
-            raise ValueError(f"Invalid dispatch method: {self.dispatch_method}")
+            raise ValueError(
+                f"Invalid dispatch method: {self.dispatch_method}")
 
     def receive_heart_beat(self, worker_name: str, queue_length: int):
         if worker_name not in self.worker_info:
@@ -202,7 +206,7 @@ class Controller:
 
         try:
             response = requests.post(worker_addr + "/worker_generate_stream",
-                json=params, stream=True, timeout=5)
+                                     json=params, stream=True, timeout=5)
             for chunk in response.iter_lines(decode_unicode=False, delimiter=b"\0"):
                 if chunk:
                     yield chunk + b"\0"
@@ -214,9 +218,9 @@ class Controller:
             }
             yield json.dumps(ret).encode() + b"\0"
 
-
     # Let the controller act as a worker to achieve hierarchical
     # management. This can be used to connect isolated sub networks.
+
     def worker_api_get_status(self):
         model_names = set()
         speed = 0
