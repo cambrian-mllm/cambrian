@@ -432,7 +432,6 @@ class CambrianMetaForCausalLM(ABC):
                 cur_image_feature = unpad_image(cur_image_feature.unsqueeze(0), image_size)
 
                 cur_h, cur_w = cur_image_feature.shape[1:3]
-                print((cur_h, cur_w))
                 final_size.append((cur_h, cur_w))
                 cur_image_feature = cur_image_feature.view(1, cur_h, cur_w, -1)
                 cur_image_feature = torch.cat((

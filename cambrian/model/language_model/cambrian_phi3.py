@@ -111,22 +111,41 @@ class CambrianPhi3ForCausalLM(Phi3ForCausalLM, CambrianMetaForCausalLM):
         )
         return_dict = return_dict if return_dict is not None else self.config.use_return_dict
 
-        output = super().forward(
-            input_ids=input_ids,
-            attention_mask=attention_mask,
-            position_ids=position_ids,
-            past_key_values=past_key_values,
-            inputs_embeds=inputs_embeds,
-            labels=labels,
-            use_cache=use_cache,
-            output_attentions=output_attentions,
-            output_hidden_states=output_hidden_states,
-            return_dict=return_dict,
-            vision_tower_aux_feature_list=vision_tower_aux_feature_list,
-            vision_tower_aux_attention_masks_list=vision_tower_aux_attention_masks_list, 
-            final_vision_feature_size=final_vision_feature_size,
-            global_context_feature=global_context_feature,
-        )
+        if IS_XLA_AVAILABLE:
+            output = super().forward(
+                input_ids=input_ids,
+                attention_mask=attention_mask,
+                position_ids=position_ids,
+                past_key_values=past_key_values,
+                inputs_embeds=inputs_embeds,
+                labels=labels,
+                use_cache=use_cache,
+                output_attentions=output_attentions,
+                output_hidden_states=output_hidden_states,
+                return_dict=return_dict,
+                vision_tower_aux_feature_list=vision_tower_aux_feature_list,
+                vision_tower_aux_attention_masks_list=vision_tower_aux_attention_masks_list, 
+                final_vision_feature_size=final_vision_feature_size,
+                global_context_feature=global_context_feature,
+            )
+
+        else:
+            output = super().forward(
+                input_ids=input_ids,
+                attention_mask=attention_mask,
+                position_ids=position_ids,
+                past_key_values=past_key_values,
+                inputs_embeds=inputs_embeds,
+                labels=labels,
+                use_cache=use_cache,
+                output_attentions=output_attentions,
+                output_hidden_states=output_hidden_states,
+                return_dict=return_dict,
+                vision_tower_aux_feature_list=vision_tower_aux_feature_list if inputs_embeds is None else self.vision_tower_aux_feature_list,
+                vision_tower_aux_attention_masks_list=vision_tower_aux_attention_masks_list if inputs_embeds is None else self.vision_tower_aux_attention_masks_list, 
+                final_vision_feature_size=final_vision_feature_size if inputs_embeds is None else self.final_vision_feature_size,
+                global_context_feature=global_context_feature if inputs_embeds is None else self.global_context_feature,
+            )
 
         return output
 

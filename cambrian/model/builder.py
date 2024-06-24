@@ -115,6 +115,14 @@ def load_pretrained_model(model_path, model_base, model_name, load_8bit=False, l
                     use_flash_attention_2=False,
                     **kwargs
                 )
+            elif 'phi3' in model_name.lower():
+                tokenizer = AutoTokenizer.from_pretrained(model_path)
+                model = CambrianPhi3ForCausalLM.from_pretrained(
+                    model_path,
+                    low_cpu_mem_usage=True,
+                    use_flash_attention_2=False,
+                    **kwargs
+                )
             else:
                 logger.info(f'Loading LLaVA from {model_path}')
                 tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=False)

@@ -1,2 +1,3 @@
 from .language_model.cambrian_llama import CambrianLlamaForCausalLM, CambrianConfig
 from .language_model.cambrian_mistral import CambrianMistralForCausalLM, CambrianMistralConfig
+from .language_model.cambrian_phi3 import CambrianPhi3ForCausalLM

@@ -18,6 +18,9 @@ from torch.utils.data import Dataset, DataLoader
 from PIL import Image
 import math
 
+# cambrian-phi3-3b
+# conv_mode = "phi3"
+
 # cambrian-8b
 conv_mode = "llama_3" 
 
@@ -39,7 +42,6 @@ def process(image, question, tokenizer, image_processor, model_config):
     conv.append_message(conv.roles[0], qs)
     conv.append_message(conv.roles[1], None)
     prompt = conv.get_prompt()
-
     
     image_size = [image.size]
     image_tensor = process_images([image], image_processor, model_config)
@@ -85,5 +87,3 @@ while True:
     outputs = tokenizer.batch_decode(output_ids, skip_special_tokens=True)[0].strip()
 
     print(outputs)
-
-    break
