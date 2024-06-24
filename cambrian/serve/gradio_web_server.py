@@ -293,6 +293,9 @@ title_markdown = ("""
 <a href="https://cambrian-mllm.github.io/" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img alt="Hugging Face" src="https://img.shields.io/badge/🌎_Website-cambrian--mllm.github.io-blue.svg" height="30" />
 </a>
+<a href="https://github.com/cambrian-mllm/cambrian" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img alt="GitHub Code" src="https://img.shields.io/badge/Code-cambrian--mllm/cambrian-white?&logo=github&logoColor=white" height="25" />
+</a>
 <a href="https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Model-Cambrian--1-ffc107?color=ffc107&logoColor=white" height="30" />
 </a>
