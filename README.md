@@ -1,6 +1,6 @@
 <div align="center">
 
-#  *Cambrian-1*:<br> A Fully Open, Vision-Centric Exploration of Multimodal LLMs
+#  🪼 *Cambrian-1*:<br> A Fully Open, Vision-Centric Exploration of Multimodal LLMs
 
 
 <p>
