@@ -58,7 +58,7 @@
 
 
 ## Contents
-- [Install](#install)
+- [Installation](#installation)
 - [Cambrian Weights](#cambrian-weights)
 - [Cambrian Instruction Tuning Data](#cambrian-instruction-tuning-data)
 - [Train](#train)
@@ -76,7 +76,7 @@ git clone https://github.com/cambrian-mllm/cambrian
 cd cambrian
 ```
 
-2. Install Package
+2. Install Packages
 ```Shell
 conda create -n cambrian python=3.10 -y
 conda activate cambrian
@@ -96,7 +96,7 @@ git clone https://github.com/cambrian-mllm/cambrian
 cd cambrian
 ```
 
-2. Install Package
+2. Install Packages
 ```Shell
 conda create -n cambrian python=3.10 -y
 conda activate cambrian
