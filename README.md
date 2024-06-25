@@ -9,7 +9,7 @@
 
 
 
-<a href="" target="_blank">
+<a href="https://arxiv.org/abs/2406.16860" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-Cambrian--1-red?logo=arxiv" height="25" />
 </a>
 <a href="https://cambrian-mllm.github.io/" target="_blank">
@@ -296,11 +296,13 @@ We will release this part of code very soon.
 
 If you find Cambrian useful for your research and applications, please cite using this BibTeX:
 ```bibtex
-@article{tong2024cambrian,
-  title={Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs},
-  author={Tong, Shengbang and Brown, Ellis and Wu, Penghao and Woo, Sanghyun and Middepogu, Manoj and Akula, Sai Charitha and Yang, Jihan and Yang, Shusheng, and Iyer, Adithya and Pan, Xichen and Wang, Austin and LeCun, Yann and Xie, Saining},
-  journal={arXiv preprint arXiv:2406.TBD},
-  year={2024}
+@misc{tong2024cambrian1,
+      title={Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs}, 
+      author={Shengbang Tong and Ellis Brown and Penghao Wu and Sanghyun Woo and Manoj Middepogu and Sai Charitha Akula and Jihan Yang and Shusheng Yang and Adithya Iyer and Xichen Pan and Austin Wang and Rob Fergus and Yann LeCun and Saining Xie},
+      year={2024},
+      eprint={2406.16860},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CV' full_name='Computer Vision and Pattern Recognition' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers image processing, computer vision, pattern recognition, and scene understanding. Roughly includes material in ACM Subject Classes I.2.10, I.4, and I.5.'}
 }
 ```
 
