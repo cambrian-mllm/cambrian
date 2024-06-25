@@ -287,7 +287,7 @@ def http_bot(state, model_selector, temperature, top_p, max_new_tokens, request:
 
 title_markdown = ("""
 # 🪼 Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs
-<a href="" target="_blank" style="display: inline-block; margin-right: 10px;">
+<a href="https://arxiv.org/abs/2406.16860" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-Cambrian--1-red?logo=arxiv" height="30" />
 </a>
 <a href="https://cambrian-mllm.github.io/" target="_blank" style="display: inline-block; margin-right: 10px;">
