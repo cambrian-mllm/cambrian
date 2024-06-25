@@ -149,7 +149,7 @@ class ModelWorker:
                 prompt = prompt.replace(DEFAULT_IMAGE_TOKEN, replace_token)
 
                 # num_image_tokens = prompt.count(replace_token) * model.get_model().get_vision_tower().num_patches
-                num_image_tokens = 512
+                num_image_tokens = 576
             else:
                 images = None
                 image_sizes = None
@@ -164,9 +164,8 @@ class ModelWorker:
         max_new_tokens = min(int(params.get("max_new_tokens", 256)), 1024)
         stop_str = params.get("stop", None)
         do_sample = True if temperature > 0.001 else False
-
         input_ids = tokenizer_image_token(prompt, tokenizer, IMAGE_TOKEN_INDEX, return_tensors='pt').unsqueeze(0).to(self.device)
-        keywords = [stop_str]
+        keywords = [stop_str] if stop_str is not None else []
         stopping_criteria = KeywordsStoppingCriteria(keywords, tokenizer, input_ids)
         streamer = TextIteratorStreamer(tokenizer, skip_prompt=True, skip_special_tokens=True, timeout=15)
 
@@ -175,7 +174,6 @@ class ModelWorker:
         if max_new_tokens < 1:
             yield json.dumps({"text": ori_prompt + "Exceeds max token length. Please start a new conversation, thanks.", "error_code": 0}).encode() + b"\0"
             return
-
         thread = Thread(target=model.generate, kwargs=dict(
             inputs=input_ids,
             do_sample=do_sample,
@@ -192,8 +190,9 @@ class ModelWorker:
         generated_text = ori_prompt
         for new_text in streamer:
             generated_text += new_text
-            if generated_text.endswith(stop_str):
-                generated_text = generated_text[:-len(stop_str)]
+            if stop_str is not None:
+                if generated_text.endswith(stop_str):
+                    generated_text = generated_text[:-len(stop_str)]
             yield json.dumps({"text": generated_text, "error_code": 0}).encode() + b"\0"
 
     def generate_stream_gate(self, params):

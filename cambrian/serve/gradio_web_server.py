@@ -161,36 +161,15 @@ def http_bot(state, model_selector, temperature, top_p, max_new_tokens, request:
         yield (state, state.to_gradio_chatbot()) + (no_change_btn,) * 5
         return
 
+    cambrian_conv_template_map = {"cambrian-phi3-3b":"phi3", "cambrian-8b":"llama_3", "cambrian-13b":"vicuna_v1", "cambrian-34b":"chatml_direct"}
+
     if len(state.messages) == state.offset + 2:
         # First round of conversation
         if "cambrian" in model_name.lower():
-            if 'llama-2' in model_name.lower():
-                template_name = "cambrian_llama_2"
-            elif "mistral" in model_name.lower() or "mixtral" in model_name.lower():
-                if 'orca' in model_name.lower():
-                    template_name = "mistral_orca"
-                elif 'hermes' in model_name.lower():
-                    template_name = "chatml_direct"
-                else:
-                    template_name = "mistral_instruct"
-            elif 'cambrian-v1.6-34b' in model_name.lower():
-                template_name = "chatml_direct"
-            elif "v1" in model_name.lower():
-                if 'mmtag' in model_name.lower():
-                    template_name = "v1_mmtag"
-                elif 'plain' in model_name.lower() and 'finetune' not in model_name.lower():
-                    template_name = "v1_mmtag"
-                else:
-                    template_name = "cambrian_v1"
-            elif "mpt" in model_name.lower():
-                template_name = "mpt"
-            else:
-                if 'mmtag' in model_name.lower():
-                    template_name = "v0_mmtag"
-                elif 'plain' in model_name.lower() and 'finetune' not in model_name.lower():
-                    template_name = "v0_mmtag"
-                else:
-                    template_name = "cambrian_v0"
+            template_name = "vicuna_v1"
+            for cambrian_name, cambrian_template in cambrian_conv_template_map.items():
+                if cambrian_name in model_name.lower():
+                    template_name = cambrian_template
         elif "mpt" in model_name:
             template_name = "mpt_text"
         elif "llama-2" in model_name:
