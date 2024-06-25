@@ -70,7 +70,7 @@
 ### TPU Training
 Currently, we support training on TPU using TorchXLA
 
-1. Clone this repository and navigate to LLaVA folder
+1. Clone this repository and navigate to into the codebase
 ```bash
 git clone https://github.com/cambrian-mllm/cambrian
 cd cambrian
@@ -90,7 +90,7 @@ pip install torch~=2.2.0 torch_xla[tpu]~=2.2.0 -f https://storage.googleapis.com
 ```
 
 ### GPU Inference
-1. Clone this repository and navigate to LLaVA folder
+1. Clone this repository and navigate to into the codebase
 ```bash
 git clone https://github.com/cambrian-mllm/cambrian
 cd cambrian
