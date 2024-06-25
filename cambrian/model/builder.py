@@ -15,14 +15,15 @@
 
 import os
 import warnings
-import shutil
 
 from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig, BitsAndBytesConfig
 import torch
-from cambrian.model import *
 from cambrian.constants import DEFAULT_IMAGE_PATCH_TOKEN, DEFAULT_IM_START_TOKEN, DEFAULT_IM_END_TOKEN
 
 from ezcolorlog import root_logger as logger
+
+from cambrian.model.language_model.cambrian_llama import CambrianLlamaForCausalLM
+from cambrian.model.language_model.cambrian_mistral import CambrianMistralForCausalLM
 
 
 def load_pretrained_model(model_path, model_base, model_name, load_8bit=False, load_4bit=False, device_map="auto", device="cuda", use_flash_attn=False, **kwargs):
@@ -48,21 +49,21 @@ def load_pretrained_model(model_path, model_base, model_name, load_8bit=False, l
         kwargs['attn_implementation'] = 'flash_attention_2'
 
     if 'cambrian' in model_name.lower():
-        # Load LLaVA model
+        # Load Cambrian model
         if 'lora' in model_name.lower() and model_base is None:
             warnings.warn('There is `lora` in model name but no `model_base` is provided. If you are loading a LoRA model, please provide the `model_base` argument. Detailed instruction: https://github.com/haotian-liu/LLaVA#launch-a-model-worker-lora-weights-unmerged.')
         if 'lora' in model_name.lower() and model_base is not None:
             from cambrian.model.language_model.cambrian_llama import CambrianConfig
             lora_cfg_pretrained = CambrianConfig.from_pretrained(model_path)
             tokenizer = AutoTokenizer.from_pretrained(model_base, use_fast=False)
-            logger.info('Loading LLaVA from base model...')
+            logger.info('Loading Cambrian from base model...')
             model = CambrianLlamaForCausalLM.from_pretrained(model_base, low_cpu_mem_usage=True, config=lora_cfg_pretrained, **kwargs)
             token_num, tokem_dim = model.lm_head.out_features, model.lm_head.in_features
             if model.lm_head.weight.shape[0] != token_num:
                 model.lm_head.weight = torch.nn.Parameter(torch.empty(token_num, tokem_dim, device=model.device, dtype=model.dtype))
                 model.model.embed_tokens.weight = torch.nn.Parameter(torch.empty(token_num, tokem_dim, device=model.device, dtype=model.dtype))
 
-            logger.info('Loading additional LLaVA weights...')
+            logger.info('Loading additional Cambrian weights...')
             if os.path.exists(os.path.join(model_path, 'non_lora_trainables.bin')):
                 non_lora_trainables = torch.load(os.path.join(model_path, 'non_lora_trainables.bin'), map_location='cpu')
             else:
@@ -88,26 +89,16 @@ def load_pretrained_model(model_path, model_base, model_name, load_8bit=False, l
             logger.info('Model is loaded...')
         elif model_base is not None:
             # this may be mm projector only
-            logger.info(f'Loading LLaVA from base model... {model_base}')
-            if 'mpt' in model_name.lower():
-                if not os.path.isfile(os.path.join(model_path, 'configuration_mpt.py')):
-                    shutil.copyfile(os.path.join(model_base, 'configuration_mpt.py'), os.path.join(model_path, 'configuration_mpt.py'))
-                tokenizer = AutoTokenizer.from_pretrained(model_base, use_fast=True)
-                cfg_pretrained = AutoConfig.from_pretrained(model_path, trust_remote_code=True)
-                model = CambrianMptForCausalLM.from_pretrained(model_base, low_cpu_mem_usage=True, config=cfg_pretrained, **kwargs)
-            else:
-                tokenizer = AutoTokenizer.from_pretrained(model_base, use_fast=False)
-                cfg_pretrained = AutoConfig.from_pretrained(model_path)
-                model = CambrianLlamaForCausalLM.from_pretrained(model_base, low_cpu_mem_usage=True, config=cfg_pretrained, **kwargs)
+            logger.info(f'Loading Cambrian-1 from base model... {model_base}')
+            tokenizer = AutoTokenizer.from_pretrained(model_base, use_fast=False)
+            cfg_pretrained = AutoConfig.from_pretrained(model_path)
+            model = CambrianLlamaForCausalLM.from_pretrained(model_base, low_cpu_mem_usage=True, config=cfg_pretrained, **kwargs)
 
             mm_projector_weights = torch.load(os.path.join(model_path, 'mm_projector.bin'), map_location='cpu')
             mm_projector_weights = {k: v.to(torch.float16) for k, v in mm_projector_weights.items()}
             model.load_state_dict(mm_projector_weights, strict=False)
         else:
-            if 'mpt' in model_name.lower():
-                tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=True)
-                model = CambrianMptForCausalLM.from_pretrained(model_path, low_cpu_mem_usage=True, **kwargs)
-            elif 'mistral' in model_name.lower():
+            if 'mistral' in model_name.lower():
                 tokenizer = AutoTokenizer.from_pretrained(model_path)
                 model = CambrianMistralForCausalLM.from_pretrained(
                     model_path,
@@ -116,6 +107,7 @@ def load_pretrained_model(model_path, model_base, model_name, load_8bit=False, l
                     **kwargs
                 )
             elif 'phi3' in model_name.lower():
+                from cambrian.model.language_model.cambrian_phi3 import CambrianPhi3ForCausalLM
                 tokenizer = AutoTokenizer.from_pretrained(model_path)
                 model = CambrianPhi3ForCausalLM.from_pretrained(
                     model_path,
@@ -124,7 +116,7 @@ def load_pretrained_model(model_path, model_base, model_name, load_8bit=False, l
                     **kwargs
                 )
             else:
-                logger.info(f'Loading LLaVA from {model_path}')
+                logger.info(f'Loading Cambrian from {model_path}')
                 tokenizer = AutoTokenizer.from_pretrained(model_path, use_fast=False)
                 model = CambrianLlamaForCausalLM.from_pretrained(
                     model_path,

@@ -13,19 +13,18 @@
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-Cambrian--1-red?logo=arxiv" height="25" />
 </a>
 <a href="https://cambrian-mllm.github.io/" target="_blank">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/🌎_Website-cambrian--mllm.github.io-blue.svg" height="25" />
+    <img alt="Website" src="https://img.shields.io/badge/🌎_Website-cambrian--mllm.github.io-blue.svg" height="25" />
 </a>
 <br>
 <a href="https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c" target="_blank">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Model-Cambrian--1-ffc107?color=ffc107&logoColor=white" height="25" />
+    <img alt="HF Model: Cambrian-1" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Model-Cambrian--1-ffc107?color=ffc107&logoColor=white" height="25" />
 </a>
 <a href="https://huggingface.co/collections/nyu-visionx/cambrian-data-6667ce801e179b4fbe774e11" target="_blank">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Data-Cambrian--10M-ffc107?color=ffc107&logoColor=white" height="25" />
+    <img alt="HF Dataset: Cambrian 10M" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Data-Cambrian--10M-ffc107?color=ffc107&logoColor=white" height="25" />
 </a>
 <a href="https://huggingface.co/datasets/nyu-visionx/CV-Bench" target="_blank">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-CV--Bench-ffc107?color=ffc107&logoColor=white" height="25" />
+    <img alt="HF Dataset: CV-Bench" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-CV--Bench-ffc107?color=ffc107&logoColor=white" height="25" />
 </a>
-
 
 
 <div style="font-family: charter;">
@@ -64,9 +63,12 @@
 - [Cambrian Instruction Tuning Data](#cambrian-instruction-tuning-data)
 - [Train](#train)
 - [Evaluation](#evaluation)
+- [Demo](#demo)
 
 ## Installation
-Current, we support training on TPU using TorchXLA
+
+### TPU Training
+Currently, we support training on TPU using TorchXLA
 
 1. Clone this repository and navigate to LLaVA folder
 ```bash
@@ -79,12 +81,27 @@ cd cambrian
 conda create -n cambrian python=3.10 -y
 conda activate cambrian
 pip install --upgrade pip  # enable PEP 660 support
-pip install -e .
+pip install -e ".[tpu]"
 ```
 
 3. Install TPU specific packages for training cases
 ```
 pip install torch~=2.2.0 torch_xla[tpu]~=2.2.0 -f https://storage.googleapis.com/libtpu-releases/index.html
+```
+
+### GPU Inference
+1. Clone this repository and navigate to LLaVA folder
+```bash
+git clone https://github.com/cambrian-mllm/cambrian
+cd cambrian
+```
+
+2. Install Package
+```Shell
+conda create -n cambrian python=3.10 -y
+conda activate cambrian
+pip install --upgrade pip  # enable PEP 660 support
+pip install ".[gpu]"
 ```
 
 ## Cambrian Weights
@@ -291,6 +308,88 @@ The arguments below are only meaningful for SVA projector
 
 ## Evaluation
 We will release this part of code very soon.
+
+## Demo
+The following instructions will guide you through launching a local Gradio demo with Cambrian. We provide a simple web interface for you to interact with the model. You can also use the CLI for inference. This setup is heavily inspired by [LLaVA](https://github.com/haotian-liu/LLaVA).
+
+### Gradio Web UI
+Please follow the steps below to launch a local Gradio demo. A diagram of the local serving code is below[^1].
+
+[^1]: Copied from [LLaVA's diagram](https://github.com/haotian-liu/LLaVA?tab=readme-ov-file#gradio-web-ui).
+
+```mermaid
+%%{init: {"theme": "base"}}%%
+flowchart BT
+    %% Declare Nodes
+    style gws fill:#f9f,stroke:#333,stroke-width:2px
+    style c fill:#bbf,stroke:#333,stroke-width:2px
+    style mw8b fill:#aff,stroke:#333,stroke-width:2px
+    style mw13b fill:#aff,stroke:#333,stroke-width:2px
+    %% style sglw13b fill:#ffa,stroke:#333,stroke-width:2px
+    %% style lsglw13b fill:#ffa,stroke:#333,stroke-width:2px
+
+    gws["Gradio (UI Server)"]
+    c["Controller (API Server):<br/>PORT: 10000"]
+    mw8b["Model Worker:<br/><b>Cambrian-1-8B</b><br/>PORT: 40000"]
+    mw13b["Model Worker:<br/><b>Cambrian-1-13B</b><br/>PORT: 40001"]
+    %% sglw13b["SGLang Backend:<br/><b>Cambrian-1-34B</b><br/>http://localhost:30000"]
+    %% lsglw13b["SGLang Worker:<br/><b>Cambrian-1-34B<b><br/>PORT: 40002"]
+
+    subgraph "Demo Architecture"
+        direction BT
+        c <--> gws
+        
+        mw8b <--> c
+        mw13b <--> c
+        %% lsglw13b <--> c
+        %% sglw13b <--> lsglw13b
+    end
+```
+<!-- TODO: add SGWorker -->
+
+#### 1. Launch a controller
+```Shell
+python -m cambrian.serve.controller --host 0.0.0.0 --port 10000
+```
+
+#### 2. Launch a gradio web server.
+```Shell
+python -m cambrian.serve.gradio_web_server --controller http://localhost:10000 --model-list-mode reload
+```
+You just launched the Gradio web interface. Now, you can open the web interface with the URL printed on the screen. You may notice that there is no model in the model list. Do not worry, as we have not launched any model worker yet. It will be automatically updated when you launch a model worker.
+
+#### Launch a SGLang worker
+
+Coming soon.
+
+#### Launch a model worker
+
+This is the actual *worker* that performs the inference on the GPU.  Each worker is responsible for a single model specified in `--model-path`.
+
+```Shell
+python -m cambrian.serve.model_worker --host 0.0.0.0 --controller http://localhost:10000 --port 40000 --worker http://localhost:40000 --model-path nyu-visionx/cambrian-8b
+```
+Wait until the process finishes loading the model and you see "Uvicorn running on ...".  Now, refresh your Gradio web UI, and you will see the model you just launched in the model list.
+
+You can launch as many workers as you want, and compare between different model checkpoints in the same Gradio interface. Please keep the `--controller` the same, and modify the `--port` and `--worker` to a different port number for each worker.
+```Shell
+python -m cambrian.serve.model_worker --host 0.0.0.0 --controller http://localhost:10000 --port <different from 40000, say 40001> --worker http://localhost:<change accordingly, i.e. 40001> --model-path <ckpt2>
+```
+
+If you are using an Apple device with an M1 or M2 chip, you can specify the mps device by using the `--device` flag: `--device mps`.
+
+#### Launch a model worker (Multiple GPUs, when GPU VRAM <= 24GB)
+
+If the VRAM of your GPU is less than 24GB (e.g., RTX 3090, RTX 4090, etc.), you may try running it with multiple GPUs. Our latest code base will automatically try to use multiple GPUs if you have more than one GPU. You can specify which GPUs to use with `CUDA_VISIBLE_DEVICES`. Below is an example of running with the first two GPUs.
+
+```Shell
+CUDA_VISIBLE_DEVICES=0,1 python -m cambrian.serve.model_worker --host 0.0.0.0 --controller http://localhost:10000 --port 40000 --worker http://localhost:40000 --model-path nyu-visionx/cambrian-8b
+```
+
+### CLI Inference
+
+TODO
+
 
 ## Citation
 
