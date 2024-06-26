@@ -122,7 +122,7 @@ class ModelWorker:
             "queue_length": self.get_queue_length(),
         }
 
-    @spaces.GPU
+    @spaces.GPU(duration=20)
     @torch.inference_mode()
     def generate_stream(self, params):
         tokenizer, model, image_processor = self.tokenizer, self.model, self.image_processor
