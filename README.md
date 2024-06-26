@@ -101,7 +101,7 @@ cd cambrian
 conda create -n cambrian python=3.10 -y
 conda activate cambrian
 pip install --upgrade pip  # enable PEP 660 support
-pip install ".[gpu]"
+pip install ".[gpu,demo]"
 ```
 
 ## Cambrian Weights
