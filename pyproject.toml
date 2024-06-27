@@ -14,11 +14,11 @@ classifiers = [
 ]
 dependencies = [
     "torch==2.2.0", "torchvision==0.17.0",
-    "transformers==4.37.0", "tokenizers==0.15.0", "sentencepiece==0.1.99", "shortuuid",
+    "transformers==4.37.0", "tokenizers==0.15.0", "sentencepiece==0.1.99", "shortuuid==1.0.13",
     "accelerate==0.23.0", "peft==0.4.0",
-    "pydantic", "markdown2[all]", "numpy==1.26.4", "scikit-learn==1.2.2",
+    "pydantic==2.7.4", "markdown2[all]==2.4.13", "numpy==1.26.4", "scikit-learn==1.2.2",
     "einops==0.6.1", "einops-exts==0.0.4", "timm==0.9.16",
-    "open_clip_torch", "diffusers[torch]", "torchtext==0.17.0",
+    "open_clip_torch==2.24.0", "diffusers[torch]==0.27.2", "torchtext==0.17.0",
     "ezcolorlog", "gcsfs",
 ]
 
