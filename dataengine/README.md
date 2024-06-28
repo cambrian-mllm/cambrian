@@ -1,23 +1,24 @@
+# Overall Workflow
+- `python generate_topics.py`
+- `python wikiflow.py`
+- `python generate_qa.py`
+- `python generate_vqa.py`
 
-Overall flow:
-python generate_topics.py
-python wikiflow.py
-python generate_qa.py
-python generate_vqa.py
+## Explanation
 
-Explanation:
-1. Give inputs in input_fields_subfields.txt in the form of {Field}: {Subfields list}. We have generated our fields and subfields list using GPT-4 but this can be manually given
+### 1. Input Specification
+Provide inputs in `input_fields_subfields.txt` in the format `{Field}: {Subfields list}`. These can be generated using GPT-4 or manually specified.
 
-Topics generation:
-2. Run generate_topics.py to generate topics. Don’t forget to replace the openai key with yours
- 3. We noticed that gpt output needs postprocessing sometimes, in that case, you can use topics_postprocess1.py to clean it and store to post_x file. We tried handling multiple formats in this. Then run topics_postprocess2.py to store to original file if you think the file looks good to do. We wantedly kept it separate so that
-you can view the file before overriding and maybe tweak the postprocessing as necessary so that it becomes easier for future.
-5. Post this, we will have a topics folder with two jsons files, each for one field. {field}.json is dictionary of {subfield}:{topics list}
+### Topics Generation
+2. Execute `generate_topics.py` to generate topics. Remember to replace the OpenAI key with your own.
+3. GPT output sometimes requires postprocessing. In such cases, use `topics_postprocess1.py` to clean the data and store it in `post_x` files. Multiple formats can be handled.
+4. Optionally, run `topics_postprocess2.py` to save the cleaned data back to the original file if the modifications are satisfactory.
+5. After processing, the topics will be saved in a folder with two JSON files, each for one field. The format is `{field}.json` containing a dictionary of `{subfield}:{topics list}`.
 
-Wikidata Generation:
-6. We now generate wikidata based on topics from field.json using wikiflow.py. While generating wiki data, make sure to replace the GOOGLE_API_KEY and GOOGLE_SE_ID in get_google_search_results function. Post this, we will have {subfield}.json files in wikilinks, each with dictoniary of {topic}: {list of wikilinks}. We also have data folder with underlying folders, each folder for a subfield and inside each folder, we have one file per topic, containing the data extracted from the wiki links for that topic.
+### Wikidata Generation
+6. Use `wikiflow.py` to generate wikidata based on topics from `field.json`. Be sure to update the `GOOGLE_API_KEY` and `GOOGLE_SE_ID` in the `get_google_search_results` function.
+7. The output will be `{subfield}.json` files containing dictionaries of `{topic}: {list of wikilinks}`. Each subfield will have its folder with individual files for each topic, containing data extracted from the wiki links.
 
-Dataset Generation:
-8. First we generate_qa.py. Create your own user agent and openapi key.  It's multi processing code and can handle large no. of processes. I only ran 30 examples per field for the demo, but you can run the full set. Post this, we have images folder with one folder for each field and qadata folder, with one file for each field. 
-9. Post process using generate_vqa.py to ensure that the image_id and the json data are matched, this sits in this vqa folder and the images in images folder. 
-
+### Dataset Generation
+8. Start by running `generate_qa.py` with your own user agent and OpenAI key. This script is designed for multiprocessing and can handle a large number of processes. Initially, 30 examples per field were run for demonstration, but it can be scaled up.
+9. Post-processing is done with `generate_vqa.py` to ensure that `image_id` and JSON data are correctly matched. This data is stored in the `vqa` folder, with associated images in the `images` folder.
