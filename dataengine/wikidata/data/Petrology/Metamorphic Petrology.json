@@ -1,0 +1,383 @@
+[
+    {
+        "section": "Mineralogical changes",
+        "text": "Metasomatism can change the bulk composition of a rock. Hot fluids circulating through pore space in the rock can dissolve existing minerals and precipitate new minerals. Dissolved substances are transported out of the rock by the fluids while new substances are brought in by fresh fluids. This can obviously change the mineral makeup of the rock. [10] However, changes in the mineral composition can take place even when the bulk composition of the rock does not change. This is possible because all minerals are stable only within certain limits of temperature, pressure, and chemical environment. For example, at atmospheric pressure, the mineral kyanite transforms to andalusite at a temperature of about 190 °C (374 °F). Andalusite, in turn, transforms to sillimanite when the temperature reaches about 800 °C (1,470 °F). All three have the identical composition, Al 2 SiO 5 . Likewise, forsterite is stable over a broad range of pressure and temperature in marble , but is converted to pyroxene at elevated pressure and temperature in more silicate-rich rock containing plagioclase , with which the forsterite reacts chemically. [11] Many complex high-temperature reactions may take place between minerals without them melting, and each mineral assemblage produced indicates the temperatures and pressures at the time of metamorphism. These reactions are possible because of rapid diffusion of atoms at elevated temperature. Pore fluid between mineral grains can be an important medium through which atoms are exchanged. [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Basalt-hand-sample.tif/lossy-page1-330px-Basalt-hand-sample.tif.jpg",
+                "caption": "Basalt hand-sized sample showing fine-grained texture"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Amphibolite_%28Archean%2C_3.1-3.2_Ga%3B_Norris_South_roadcut%2C_Madison_County%2C_Montana%2C_USA%29_1_%2845574881922%29.jpg/330px-Amphibolite_%28Archean%2C_3.1-3.2_Ga%3B_Norris_South_roadcut%2C_Madison_County%2C_Montana%2C_USA%29_1_%2845574881922%29.jpg",
+                "caption": "Amphibolite formed by metamorphism of basalt"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphic_rock",
+        "title": "Metamorphic rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Description",
+        "text": "Metamorphic rocks are characterized by their distinctive mineral composition and texture.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Staurolite-Almandine-36948.jpg/220px-Staurolite-Almandine-36948.jpg",
+                "caption": "Metamorphic rock containing staurolite and almandine garnet"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphic_rock",
+        "title": "Metamorphic rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Texture",
+        "text": "Metamorphic rocks are typically more coarsely crystalline than the protolith from which they formed. Atoms in the interior of a crystal are surrounded by a stable arrangement of neighboring atoms. This is partially missing at the surface of the crystal, producing a surface energy that makes the surface thermodynamically unstable. Recrystallization to coarser crystals reduces the surface area and so minimizes the surface energy. [17] Although grain coarsening is a common result of metamorphism, rock that is intensely deformed may eliminate strain energy by recrystallizing as a fine-grained rock called mylonite . Certain kinds of rock, such as those rich in quartz, carbonate minerals , or olivine, are particularly prone to form mylonites, while feldspar and garnet are resistant to mylonitization. [18]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mylonite_Strona.jpg/220px-Mylonite_Strona.jpg",
+                "caption": "A mylonite (through a petrographic microscope )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphic_rock",
+        "title": "Metamorphic rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Foliation",
+        "text": "Many kinds of metamorphic rocks show a distinctive layering called foliation (derived from the Latin word folia , meaning \"leaves\"). Foliation develops when a rock is being shortened along one axis during recrystallization. This causes crystals of platy minerals, such as mica and chlorite , to become rotated such that their short axes are parallel to the direction of shortening. This results in a banded, or foliated, rock, with the bands showing the colors of the minerals that formed them. Foliated rock often develops planes of cleavage . Slate is an example of a foliated metamorphic rock, originating from shale , and it typically shows well-developed cleavage that allows slate to be split into thin plates. [19] The type of foliation that develops depends on the metamorphic grade. For instance, starting with a mudstone , the following sequence develops with increasing temperature: The mudstone is first converted to slate, which is a very fine-grained, foliated metamorphic rock, characteristic of very low grade metamorphism. Slate in turn is converted to phyllite , which is fine-grained and found in areas of low grade metamorphism. Schist is medium to coarse-grained and found in areas of medium grade metamorphism. High-grade metamorphism transforms the rock to gneiss , which is coarse to very coarse-grained. [20] Rocks that were subjected to uniform pressure from all sides, or those that lack minerals with distinctive growth habits, will not be foliated. Marble lacks platy minerals and is generally not foliated, which allows its use as a material for sculpture and architecture.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Migma_ss_2006.jpg/250px-Migma_ss_2006.jpg",
+                "caption": "Folded foliation in a metamorphic rock from near Geirangerfjord , Norway"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphic_rock",
+        "title": "Metamorphic rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Classification",
+        "text": "Metamorphic rocks are one of the three great divisions of all rock types, and so there is a great variety of metamorphic rock types. In general, if the protolith of a metamorphic rock can be determined, the rock is described by adding the prefix meta- to the protolith rock name. For example, if the protolith is known to be basalt , the rock will be described as a metabasalt. Likewise, a metamorphic rock whose protolith is known to be a conglomerate will be described as a metaconglomerate . For a metamorphic rock to be classified in this manner, the protolith should be identifiable from the characteristics of the metamorphic rock itself, and not inferred from other information. [21] [22] [23] Under the British Geological Survey's classification system, if all that can be determined about the protolith is its general type, such as sedimentary or volcanic, the classification is based on the mineral mode (the volume percentages of different minerals in the rock). Metasedimentary rocks are divided into carbonate-rich rock (metacarbonates or calcsilicate-rocks) or carbonate-poor rocks, and the latter are further classified by the relative abundance of mica in their composition. This ranges from low-mica psammite through semipelite to high-mica pelite . Psammites composed mostly of quartz are classified as quartzite. Metaigneous rocks are classified similarly to igneous rocks, by silica content, from meta-ultramafic-rock (which is very low in silica) to metafelsic-rock (with a high silica content). [22] Where the mineral mode cannot be determined, as is often the case when rock is first examined in the field , then classification must be based on texture. The textural types are: A hornfels is a granofels that is known to result from contact metamorphism. A slate is a fine-grained metamorphic rock that easily splits into thin plates but shows no obvious compositional layering. The term is used only when very little else is known about the rock that would allow a more definite classification. Textural classifications may be prefixed to indicate a sedimentary protolith ( para- , such as paraschist) or igneous protolith ( ortho- , such as orthogneiss). When nothing is known about the protolith, the textural name is used without a prefix. For example, a schist is a rock with schistose texture whose protolith is uncertain. [22] Special classifications exist for metamorphic rocks with a volcaniclastic protolith or formed along a fault or through hydrothermal circulation . A few special names are used for rocks of unknown protolith but known modal composition, such as marble, eclogite , or amphibolite . [22] Special names may also be applied more generally to rocks dominated by a single mineral, or with a distinctive composition or mode or origin. Special names still in wide use include amphibolite, greenschist , phyllite, marble, serpentinite , eclogite, migmatite , skarn , granulite , mylonite, and slate. [23] The basic classification can be supplemented by terms describing mineral content or texture. For example, a metabasalt showing weak schistosity might be described as a gneissic metabasalt, and a pelite containing abundant staurolite might be described as a staurolite pelite. [22] [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/MississippianMarbleUT.JPG/220px-MississippianMarbleUT.JPG",
+                "caption": "Mississippian marble in Big Cottonwood Canyon, Wasatch Mountains , Utah"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphic_rock",
+        "title": "Metamorphic rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Contact aureoles",
+        "text": "Contact metamorphism takes place when magma is injected into the surrounding solid rock ( country rock ). [29] The changes that occur are greatest wherever the magma comes into contact with the rock because the temperatures are highest at this boundary and decrease with distance from it. Around the igneous rock that forms from the cooling magma is a metamorphosed zone called a contact aureole . Aureoles may show all degrees of metamorphism from the contact area to unmetamorphosed (unchanged) country rock some distance away. The formation of important ore minerals may occur by the process of metasomatism at or near the contact zone. [39] Contact aureoles around large plutons may be as much as several kilometers wide. [40] The term hornfels is often used by geologists to signify those fine grained, compact, non-foliated products of contact metamorphism. [41] The contact aureole typically shows little deformation, and so hornfels is usually devoid of schistosity and forms a tough, equigranular rock. If the rock was originally banded or foliated (as, for example, a laminated sandstone or a foliated calc- schist ) this character may not be obliterated, and a banded hornfels is the product. [41] Contact metamorphism close to the surface produces distinctive low-pressure metamorphic minerals, [29] such as spinel , andalusite, vesuvianite , or wollastonite . [42] Similar changes may be induced in shales by the burning of coal seams. [41] This produces a rock type named clinker . [43] There is also a tendency for metasomatism between the igneous magma and sedimentary country rock, whereby the chemicals in each are exchanged or introduced into the other.  In that case, hybrid rocks called skarn arise. [41] [44]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Eozoon01.jpg/220px-Eozoon01.jpg",
+                "caption": "A contact metamorphic rock made of interlayered calcite and serpentine from the Precambrian of Canada. Once thought to be a pseudofossil called Eozoön canadense .  Scale in mm."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Rock_contact_metamorphism_eng_big_text.jpg/220px-Rock_contact_metamorphism_eng_big_text.jpg",
+                "caption": ""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphic_rock",
+        "title": "Metamorphic rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Methodology",
+        "text": "Petrology utilizes the fields of mineralogy , petrography, optical mineralogy , and chemical analysis to describe the composition and texture of rocks. Petrologists also include the principles of geochemistry and geophysics through the study of geochemical trends and cycles and the use of thermodynamic data and experiments in order to better understand the origins of rocks.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ljudmila_Dolar_Mantuani.jpg/170px-Ljudmila_Dolar_Mantuani.jpg",
+                "caption": "Ljudmila Dolar Mantuani (1906–1988), first female professor of petrography in Yugoslavia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Petrology",
+        "title": "Petrology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Historic definition",
+        "text": "The name facies was first used for specific sedimentary environments in sedimentary rocks by Swiss geologist Amanz Gressly in 1838. Analogous with these sedimentary facies a number of metamorphic facies were proposed in 1920 by Finnish petrologist Pentti Eskola . Eskola's classification was refined by New-Zealand geologist Francis John Turner throughout his career. A classic work of Turner's was the book he published in 1948 titled Mineralogical and Structural Evolution of Metamorphic Rocks . [2] Turner continued to work in the field, refining the metamorphic facies classifications through the end of his career in the early 1970s.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ACF_triangles_EN.svg/350px-ACF_triangles_EN.svg.png",
+                "caption": "Triangular diagrams showing the aluminium (A), calcium (C) and iron (F) content of the main phases (dark dots) in metamorphic rocks in various facies. Thin grey lines are stable phase equilibria ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/AFM_triangles_EN.svg/350px-AFM_triangles_EN.svg.png",
+                "caption": "Triangular diagrams showing the aluminium (A), iron (F) and magnesium (M) content of the main phases (dark dots and, when the composition can vary, stripes). Thin grey lines represent equilibria between phases."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphic_facies",
+        "title": "Metamorphic facies",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Metamorphic processes",
+        "text": "Metamorphism is the set of processes by which existing rock is transformed physically or chemically at elevated temperature, without actually melting to any great degree. The importance of heating in the formation of metamorphic rock was first recognized by the pioneering Scottish naturalist, James Hutton , who is often described as the father of modern geology. Hutton wrote in 1795 that some rock beds of the Scottish Highlands had originally been sedimentary rock , but had been transformed by great heat. [3] Hutton also speculated that pressure was important in metamorphism. This hypothesis was tested by his friend, James Hall , who sealed chalk into a makeshift pressure vessel constructed from a cannon barrel and heated it in an iron foundry furnace. Hall found that this produced a material strongly resembling marble , rather than the usual quicklime produced by heating of chalk in the open air. French geologists subsequently added metasomatism , the circulation of fluids through buried rock, to the list of processes that help bring about metamorphism. However, metamorphism can take place without metasomatism (isochemical metamorphism) or at depths of just a few hundred meters where pressures are relatively low (for example, in contact metamorphism). [3] Rock can be transformed without melting because heat causes atomic bonds to break, freeing the atoms to move and form new bonds with other atoms . Pore fluid present between mineral grains is an important medium through which atoms are exchanged. [4] This permits recrystallization of existing minerals or crystallization of new minerals with different crystalline structures or chemical compositions (neocrystallization). [1] The transformation converts the minerals in the protolith into forms that are more stable (closer to chemical equilibrium ) under the conditions of pressure and temperature at which metamorphism takes place. [5] [6] Metamorphism is generally regarded to begin at temperatures of 100 to 200 °C (212 to 392 °F). This excludes diagenetic changes due to compaction and lithification , which result in the formation of sedimentary rocks. [7] The upper boundary of metamorphic conditions lies at the solidus of the rock, which is the temperature at which the rock begins to melt. At this point, the process becomes an igneous process. [8] The solidus temperature depends on the composition of the rock, the pressure, and whether the rock is saturated with water. Typical solidus temperatures range from 650 °C (1,202 °F) for wet granite at a few hundred megapascals (MPa) of pressure [9] to about 1,080 °C (1,980 °F) for wet basalt at atmospheric pressure. [10] Migmatites are rocks formed at this upper limit, which contains pods and veins of material that has started to melt but has not fully segregated from the refractory residue. [11] The metamorphic process can occur at almost any pressure, from near surface pressure (for contact metamorphism) to pressures in excess of 16 kbar (1600 MPa). [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Metamorphic_Pressure_alignment-white.png/260px-Metamorphic_Pressure_alignment-white.png",
+                "caption": "(Left) Randomly-orientated grains in a rock before metamorphism. (Right) Grains align orthogonal to the applied stress if a rock is subjected to stress during metamorphism"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphism",
+        "title": "Metamorphism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Recrystallization",
+        "text": "The change in the grain size and orientation in the rock during the process of metamorphism is called recrystallization . For instance, the small calcite crystals in the sedimentary rocks limestone and chalk change into larger crystals in the metamorphic rock marble . [13] In metamorphosed sandstone , recrystallization of the original quartz sand grains results in very compact quartzite , also known as metaquartzite, in which the often larger quartz crystals are interlocked. [14] Both high temperatures and pressures contribute to recrystallization. High temperatures allow the atoms and ions in solid crystals to migrate, thus reorganizing the crystals, while high pressures cause solution of the crystals within the rock at their points of contact ( pressure solution ) and redeposition in pore space. [15] During recrystallization, the identity of the mineral does not change, only its texture. Recrystallization generally begins when temperatures reach above half the melting point of the mineral on the Kelvin scale. [16] Pressure solution begins during diagenesis (the process of lithification of sediments into sedimentary rock) but is completed during early stages of metamorphism. For a sandstone protolith, the dividing line between diagenesis and metamorphism can be placed at the point where strained quartz grains begin to be replaced by new, unstrained, small quartz grains, producing a mortar texture that can be identified in thin sections under a polarizing microscope. With increasing grade of metamorphism, further recrystallization produces foam texture , characterized by polygonal grains meeting at triple junctions, and then porphyroblastic texture , characterized by coarse, irregular grains, including some larger grains ( porphyroblasts .) [17] Metamorphic rocks are typically more coarsely crystalline than the protolith from which they formed. Atoms in the interior of a crystal are surrounded by a stable arrangement of neighboring atoms. This is partially missing at the surface of the crystal, producing a surface energy that makes the surface thermodynamically unstable. Recrystallization to coarser crystals reduces the surface area and so minimizes the surface energy. [18] Although grain coarsening is a common result of metamorphism, rock that is intensely deformed may eliminate strain energy by recrystallizing as a fine-grained rock called mylonite . Certain kinds of rock, such as those rich in quartz, carbonate minerals , or olivine, are particularly prone to form mylonites, while feldspar and garnet are resistant to mylonitization. [19]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Basalt-hand-sample.tif/lossy-page1-300px-Basalt-hand-sample.tif.jpg",
+                "caption": "Basalt hand sample showing fine texture"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Amphibolite_%28Archean%2C_3.1-3.2_Ga%3B_Norris_South_roadcut%2C_Madison_County%2C_Montana%2C_USA%29_1_%2845574881922%29.jpg/300px-Amphibolite_%28Archean%2C_3.1-3.2_Ga%3B_Norris_South_roadcut%2C_Madison_County%2C_Montana%2C_USA%29_1_%2845574881922%29.jpg",
+                "caption": "Amphibolite formed by metamorphism of basalt showing coarse texture"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mylonite_Strona.jpg/300px-Mylonite_Strona.jpg",
+                "caption": "A mylonite (through a petrographic microscope )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphism",
+        "title": "Metamorphism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Phase change",
+        "text": "Phase change metamorphism is the creating of a new mineral with the same chemical formula as a mineral of the protolith. This involves a rearrangement of the atoms in the crystals. An example is provided by the aluminium silicate minerals, kyanite , andalusite , and sillimanite . All three have the identical composition, Al 2 SiO 5 . Kyanite is stable at surface conditions. However, at atmospheric pressure, kyanite transforms to andalusite at a temperature of about 190 °C (374 °F). Andalusite, in turn, transforms to sillimanite when the temperature reaches about 800 °C (1,470 °F). At pressures above about 4 kbar (400 MPa), kyanite transforms directly to sillimanite as the temperature increases. [20] A similar phase change is sometimes seen between calcite and aragonite , with calcite transforming to aragonite at elevated pressure and relatively low temperature. [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Al2SiO5_phase_diagram.svg/210px-Al2SiO5_phase_diagram.svg.png",
+                "caption": "Phase diagram of Al 2 SiO 5 ( nesosilicates )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphism",
+        "title": "Metamorphism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Dynamothermal",
+        "text": "To many geologists, regional metamorphism is practically synonymous with dynamothermal metamorphism. [30] This form of metamorphism takes place at convergent plate boundaries , where two continental plates or a continental plate and an island arc collide. The collision zone becomes a belt of mountain formation called an orogeny . The orogenic belt is characterized by thickening of the Earth's crust, during which the deeply buried crustal rock is subjected to high temperatures and pressures and is intensely deformed. [33] [34] Subsequent erosion of the mountains exposes the roots of the orogenic belt as extensive outcrops of metamorphic rock, [35] characteristic of mountain chains. [33] Metamorphic rock formed in these settings tends to shown well-developed foliation . [33] Foliation develops when a rock is being shortened along one axis during metamorphism. This causes crystals of platy minerals, such as mica and chlorite , to become rotated such that their short axes are parallel to the direction of shortening. This results in a banded, or foliated, rock, with the bands showing the colors of the minerals that formed them. Foliated rock often develops planes of cleavage . Slate is an example of a foliated metamorphic rock, originating from shale , and it typically shows well-developed cleavage that allows slate to be split into thin plates. [36] The type of foliation that develops depends on the metamorphic grade. For instance, starting with a mudstone , the following sequence develops with increasing temperature: The mudstone is first converted to slate, which is a very fine-grained, foliated metamorphic rock, characteristic of very low grade metamorphism. Slate in turn is converted to phyllite , which is fine-grained and found in areas of low grade metamorphism. Schist is medium to coarse-grained and found in areas of medium grade metamorphism. High-grade metamorphism transforms the rock to gneiss , which is coarse to very coarse-grained. [37] Rocks that were subjected to uniform pressure from all sides, or those that lack minerals with distinctive growth habits, will not be foliated. Marble lacks platy minerals and is generally not foliated, which allows its use as a material for sculpture and architecture. Collisional orogenies are preceded by subduction of oceanic crust. [38] The conditions within the subducting slab as it plunges toward the mantle in a subduction zone produce their own distinctive regional metamorphic effects , characterized by paired metamorphic belts . [39] The pioneering work of George Barrow on regional metamorphism in the Scottish Highlands showed that some regional metamorphism produces well-defined, mappable zones of increasing metamorphic grade. This Barrovian metamorphism is the most recognized metamorphic series in the world. However, Barrovian metamorphism is specific to pelitic rock, formed from mudstone or siltstone , and it is not unique even in pelitic rock. A different sequence in the northeast of Scotland defines Buchan metamorphism , which took place at lower pressure than the Barrovian. [40]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/The_stones_of_the_Dutch_-_Lleida_Pyrenees_04.JPG/220px-The_stones_of_the_Dutch_-_Lleida_Pyrenees_04.JPG",
+                "caption": "A metamorphic rock, deformed during the Variscan orogeny , at Vall de Cardós , Lérida , Spain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphism",
+        "title": "Metamorphism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Burial",
+        "text": "Burial metamorphism takes place simply through rock being buried to great depths below the Earth's surface in a subsiding basin. [33] Here the rock is subjected to high temperatures and the great pressure caused by the immense weight of the rock layers above. Burial metamorphism tends to produce low-grade metamorphic rock. This shows none of the effects of deformation and folding so characteristic of dynamothermal metamorphism. [41] Examples of metamorphic rocks formed by burial metamorphism include some of the rocks of the Midcontinent Rift System of North America, such as the Sioux Quartzite , [42] and in the Hamersley Basin of Australia. [43]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sioux_Quartzite_%28Paleoproterozoic%2C_1.65_to_1.70_Ga%3B_Transcontinental_Arch%2C_USA%29_4.jpg/220px-Sioux_Quartzite_%28Paleoproterozoic%2C_1.65_to_1.70_Ga%3B_Transcontinental_Arch%2C_USA%29_4.jpg",
+                "caption": "Sioux Quartzite, a product of burial metamorphism"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphism",
+        "title": "Metamorphism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Contact",
+        "text": "Contact metamorphism occurs typically around intrusive igneous rocks as a result of the temperature increase caused by the intrusion of magma into cooler country rock . The area surrounding the intrusion where the contact metamorphism effects are present is called the metamorphic aureole , [44] the contact aureole , or simply the aureole. [45] Contact metamorphic rocks are usually known as hornfels . Rocks formed by contact metamorphism may not present signs of strong deformation and are often fine-grained [46] [47] and extremely tough. [48] The Yule Marble used on the Lincoln Memorial exterior and the Tomb of the Unknown Soldier in Arlington National Cemetery was formed by contact metamorphism. [49] Contact metamorphism is greater adjacent to the intrusion and dissipates with distance from the contact. [50] The size of the aureole depends on the heat of the intrusion, its size, and the temperature difference with the wall rocks. Dikes generally have small aureoles with minimal metamorphism, extending not more than one or two dike thicknesses into the surrounding rock, [51] whereas the aureoles around batholiths can be up to several kilometers wide. [52] [53] The metamorphic grade of an aureole is measured by the peak metamorphic mineral which forms in the aureole. This is usually related to the metamorphic temperatures of pelitic or aluminosilicate rocks and the minerals they form. The metamorphic grades of aureoles at shallow depth are albite - epidote hornfels, hornblende hornfels, pyroxene hornfels, and sillimanite hornfels, in increasing order of temperature of formation. However, the albite-epidote hornfels is often not formed, even though it is the lowest temperature grade. [54] Magmatic fluids coming from the intrusive rock may also take part in the metamorphic reactions . An extensive addition of magmatic fluids can significantly modify the chemistry of the affected rocks. In this case the metamorphism grades into metasomatism . If the intruded rock is rich in carbonate the result is a skarn . [55] Fluorine -rich magmatic waters which leave a cooling granite may often form greisens within and adjacent to the contact of the granite. [56] Metasomatic altered aureoles can localize the deposition of metallic ore minerals and thus are of economic interest. [57] [58] Fenitization , or Na-metasomatism , is a distinctive form of contact metamorphism accompanied by metasomatism. It takes place around intrusions of a rare type of magma called a carbonatite that is highly enriched in carbonates and low in silica . Cooling bodies of carbonatite magma give off highly alkaline fluids rich in sodium as they solidify, and the hot, reactive fluid replaces much of the mineral content in the aureole with sodium-rich minerals. [59] A special type of contact metamorphism, associated with fossil fuel fires, is known as pyrometamorphism . [60] [61]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Metamorphic_Aureole_in_the_Henry_Mountains.JPG/220px-Metamorphic_Aureole_in_the_Henry_Mountains.JPG",
+                "caption": "A metamorphic aureole in the Henry Mountains, Utah. The greyish rock on top is the igneous intrusion, consisting of porphyritic granodiorite from the Henry Mountains laccolith , and the pinkish rock on the bottom is the sedimentary country rock, a siltstone. In between, the metamorphosed siltstone is visible as both the dark layer (~5  cm thick) and the pale layer below it."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Rock_contact_metamorphism_eng_big_text.jpg/220px-Rock_contact_metamorphism_eng_big_text.jpg",
+                "caption": ""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphism",
+        "title": "Metamorphism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Metamorphic facies",
+        "text": "Metamorphic facies are recognizable terranes or zones with an assemblage of key minerals that were in equilibrium under specific range of temperature and pressure during a metamorphic event. The facies are named after the metamorphic rock formed under those facies conditions from basalt . [79] The particular mineral assemblage is somewhat dependent on the composition of that protolith, so that (for example) the amphibolite facies of a marble will not be identical with the amphibolite facies of a pellite. However, the facies are defined such that metamorphic rock with as broad a range of compositions as is practical can be assigned to a particular facies. The present definition of metamorphic facies is largely based on the work of the Finnish geologist, Pentti Eskola in 1921, with refinements based on subsequent experimental work. Eskola drew upon the zonal schemes, based on index minerals, that were pioneered by the British geologist, George Barrow . [12] The metamorphic facies is not usually considered when classifying metamorphic rock based on protolith, mineral mode, or texture. However, a few metamorphic facies produce rock of such distinctive character that the facies name is used for the rock when more precise classification is not possible. The chief examples are amphibolite and eclogite . The British Geological Survey strongly discourages use of granulite as a classification for rock metamorphosed to the granulite facies. Instead, such rock will often be classified as a granofels. [76] However, this is not universally accepted. [77] See diagram for more detail.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Metamorphic_Facies.jpg/330px-Metamorphic_Facies.jpg",
+                "caption": "Temperatures and pressures of metamorphic facies"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphism",
+        "title": "Metamorphism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Equilibrium mineral assemblages",
+        "text": "Metamorphic processes act to bring the protolith closer to thermodynamic equilibrium , which is its state of maximum stability. For example, shear stress (nonhydrodynamic stress) is incompatible with thermodynamic equilibrium, so sheared rock will tend to deform in ways that relieve the shear stress. [81] The most stable assemblage of minerals for a rock of a given composition is that which minimizes the Gibbs free energy [82] G ( p , T ) = U + p V − T S {\\displaystyle G(p,T)=U+pV-TS} where: In other words, a metamorphic reaction will take place only if it lowers the total Gibbs free energy of the protolith. Recrystallization to coarser crystals lowers the Gibbs free energy by reducing surface energy, [18] while phase changes and neocrystallization reduce the bulk Gibbs free energy. A reaction will begin at the temperature and pressure where the Gibbs free energy of the reagents becomes greater than that of the products. [83] A  mineral phase will generally be more stable if it has a lower internal energy, reflecting tighter binding between its atoms. Phases with a higher density (expressed as a lower molar volume V ) are more stable at higher pressure, while minerals with a less ordered structure (expressed as a higher entropy S ) are favored at high temperature. Thus andalusite is stable only at low pressure, since it has the lowest density of any aluminium silicate polymorph, while sillimanite is the stable form at higher temperatures, since it has the least ordered structure. [84] The Gibbs free energy of a particular mineral at a specified temperature and pressure can be expressed by various analytic formulas. These are calibrated against experimentally measured properties and phase boundaries of mineral assemblages. The equilibrium mineral assemblage for a given bulk composition of rock at a specified temperature and pressure can then be calculated on a computer. [85] [86] However, it is often very useful to represent equilibrium mineral assemblages using various kinds of diagrams. [87] These include petrogenetic grids [88] [89] and compatibility diagrams (compositional phase diagrams.) [90] [91]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/P-T_diagram_showing_aluminium_silicate-muscovite-quartz-K_feldspar_phases.png/220px-P-T_diagram_showing_aluminium_silicate-muscovite-quartz-K_feldspar_phases.png",
+                "caption": "Petrogenetic grid showing aluminium silicate-muscovite-quartz-K feldspar phase boundaries"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ACF_triangles_EN.svg/220px-ACF_triangles_EN.svg.png",
+                "caption": "ACF compatibility diagrams (aluminium-calcium-iron) showing phase equilibria in metamorphic mafic rocks at different P-T circumstances (metamorphic facies). Dots represent mineral phases, thin grey lines are equilibria between two phases. Mineral abbreviations: act = actinolite ; cc = calcite ; chl = chlorite ; di = diopside ; ep = epidote ; glau = glaucophane ; gt = garnet ; hbl = hornblende ; ky = kyanite ; law = lawsonite ; plag = plagioclase ; om = omphacite ; opx = orthopyroxene ; zo = zoisite"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphism",
+        "title": "Metamorphism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Classification",
+        "text": "Rocks are composed primarily of grains of minerals, which are crystalline solids formed from atoms chemically bonded into an orderly structure. [4] : 3 Some rocks also contain mineraloids , which are rigid, mineral-like substances, such as volcanic glass , [5] : 55, 79 that lacks crystalline structure. The types and abundance of minerals in a rock are determined by the manner in which it was formed. Most rocks contain silicate minerals , compounds that include silica tetrahedra in their crystal lattice , and account for about one-third of all known mineral species and about 95% of the earth's crust . [6] The proportion of silica in rocks and minerals is a major factor in determining their names and properties. [7] Rocks are classified according to characteristics such as mineral and chemical composition, permeability , texture of the constituent particles, and particle size . These physical properties are the result of the processes that formed the rocks. [5] Over the course of time, rocks can be transformed from one type into another, as described by a geological model called the rock cycle . This transformation produces three general classes of rock: igneous , sedimentary and metamorphic . Those three classes are subdivided into many groups. There are, however, no hard-and-fast boundaries between allied rocks. By increase or decrease in the proportions of their minerals, they pass through gradations from one to the other; the distinctive structures of one kind of rock may thus be traced, gradually merging into those of another. Hence the definitions adopted in rock names simply correspond to selected points in a continuously graduated series. [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kummakivi_balancing_rock_in_Ruokolahti%2C_Finland.jpg/220px-Kummakivi_balancing_rock_in_Ruokolahti%2C_Finland.jpg",
+                "caption": "A balancing rock called Kummakivi (literally \"strange stone\" ) [3]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/DirkvdM_rocks.jpg/220px-DirkvdM_rocks.jpg",
+                "caption": "Rock outcrop along a mountain creek near Orosí , Costa Rica ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Rock_(geology)",
+        "title": "Rock (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Igneous rock",
+        "text": "Igneous rock (derived from the Latin word igneus, meaning of fire, from ignis meaning fire) [9] is formed through the cooling and solidification of magma or lava . This magma may be derived from partial melts of pre-existing rocks in either a planet 's mantle or crust . Typically, the melting of rocks is caused by one or more of three processes: an increase in temperature, a decrease in pressure, or a change in composition. [10] : 591–599 Igneous rocks are divided into two main categories: Magmas tend to become richer in silica as they rise towards the Earth's surface, a process called magma differentiation . This occurs both because minerals low in silica crystallize out of the magma as it begins to cool ( Bowen's reaction series ) and because the magma assimilates some of the crustal rock through which it ascends ( country rock ), and crustal rock tends to be high in silica. Silica content is thus the most important chemical criterion for classifying igneous rock. [7] The content of alkali metal oxides is next in importance. [11] About 65% of the Earth's crust by volume consists of igneous rocks. Of these, 66% are basalt and gabbro , 16% are granite, and 17% granodiorite and diorite . Only 0.6% are syenite and 0.3% are ultramafic . The oceanic crust is 99% basalt, which is an igneous rock of mafic composition. Granite and similar rocks, known as granitoids , dominate the continental crust . [12] [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/GabbroRockCreek1.jpg/220px-GabbroRockCreek1.jpg",
+                "caption": "Sample of igneous gabbro"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Rock_(geology)",
+        "title": "Rock (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Sedimentary rock",
+        "text": "Sedimentary rocks are formed at the earth's surface by the accumulation and cementation of fragments of earlier rocks, minerals, and organisms [14] or as chemical precipitates and organic growths in water ( sedimentation ). This process causes clastic sediments (pieces of rock) or organic particles ( detritus ) to settle and accumulate or for minerals to chemically precipitate ( evaporite ) from a solution . The particulate matter then undergoes compaction and cementation at moderate temperatures and pressures ( diagenesis ). [5] : 265–280 [15] : 147–154 Before being deposited, sediments are formed by weathering of earlier rocks by erosion in a source area and then transported to the place of deposition by water , wind , ice , mass movement or glaciers (agents of denudation ). [5] About 7.9% of the crust by volume is composed of sedimentary rocks, with 82% of those being shales, while the remainder consists of 6% limestone and 12% sandstone and arkoses . [13] Sedimentary rocks often contain fossils . Sedimentary rocks form under the influence of gravity and typically are deposited in horizontal or near horizontal layers or strata , and may be referred to as stratified rocks. [16] Sediment and the particles of clastic sedimentary rocks can be further classified by grain size . The smallest sediments are clay , followed by silt , sand , and gravel . Some systems include cobbles and boulders as measurements. [17]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/%22Liesegang_banding%22_in_quartzose_sandstone_%28Upper_Paleozoic%3B_quarry_near_Crossville%2C_Tennessee%2C_USA%29_2_%2840280403530%29.jpg/220px-%22Liesegang_banding%22_in_quartzose_sandstone_%28Upper_Paleozoic%3B_quarry_near_Crossville%2C_Tennessee%2C_USA%29_2_%2840280403530%29.jpg",
+                "caption": "Sedimentary sandstone with iron oxide bands"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Rock_(geology)",
+        "title": "Rock (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Metamorphic rock",
+        "text": "Metamorphic rocks are formed by subjecting any rock type—sedimentary rock, igneous rock or another older metamorphic rock—to different temperature and pressure conditions than those in which the original rock was formed. This process is called metamorphism , meaning to \"change in form\". The result is a profound change in physical properties and chemistry of the stone. The original rock, known as the protolith , transforms into other mineral types or other forms of the same minerals, by recrystallization . [5] The temperatures and pressures required for this process are always higher than those found at the Earth's surface: temperatures greater than 150 to 200 °C and pressures greater than 1500 bars. [18] This occurs, for example, when continental plates collide. [19] : 31–33, 134–139 Metamorphic rocks compose 27.4% of the crust by volume. [13] The three major classes of metamorphic rock are based upon the formation mechanism. An intrusion of magma that heats the surrounding rock causes contact metamorphism—a temperature-dominated transformation. Pressure metamorphism occurs when sediments are buried deep under the ground; pressure is dominant, and temperature plays a smaller role. This is termed burial metamorphism, and it can result in rocks such as jade . Where both heat and pressure play a role, the mechanism is termed regional metamorphism. This is typically found in mountain-building regions. [7] Depending on the structure, metamorphic rocks are divided into two general categories. Those that possess a texture are referred to as foliated ; the remainders are termed non-foliated. The name of the rock is then determined based on the types of minerals present. Schists are foliated rocks that are primarily composed of lamellar minerals such as micas . A gneiss has visible bands of differing lightness , with a common example being the granite gneiss. Other varieties of foliated rock include slates , phyllites , and mylonite . Familiar examples of non-foliated metamorphic rocks include marble , soapstone , and serpentine . This branch contains quartzite —a metamorphosed form of sandstone —and hornfels . [7]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Skagit-gneiss-Cascades.jpg",
+                "caption": "Metamorphic banded gneiss"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Rock_(geology)",
+        "title": "Rock (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Human use",
+        "text": "The use of rock has had a huge impact on the cultural and technological development of the human race. Rock has been used by humans and other hominids for at least 2.5 million years . [22] Lithic technology marks some of the oldest and continuously used technologies. The mining of rock for its metal content has been one of the most important factors of human advancement, and has progressed at different rates in different places, in part because of the kind of metals available from the rock of a region.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/TallOvoo.JPG/220px-TallOvoo.JPG",
+                "caption": "Ceremonial cairn of rocks, an ovoo , from Mongolia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Rock_(geology)",
+        "title": "Rock (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Building",
+        "text": "Rock varies greatly in strength, from quartzites having a tensile strength in excess of 300 MPa [27] to sedimentary rock so soft it can be crumbled with bare fingers (that is, it is friable ). [28] (For comparison, structural steel has a tensile strength of around 350 MPa. [29] ) Relatively soft, easily worked sedimentary rock was quarried for construction as early as 4000 BCE in Egypt, [30] and stone was used to build fortifications in Inner Mongolia as early as 2800 BCE. [31] The soft rock, tuff , is common in Italy, and the Romans used it for many buildings and bridges. [32] Limestone was widely used in construction in the Middle Ages in Europe [33] and remained popular into the 20th century. [34]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pirunvuoren_kivilinna.jpg/220px-Pirunvuoren_kivilinna.jpg",
+                "caption": "A stonehouse on the hill in Sastamala , Finland"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hochbeet_aus_Naturstein.jpg/220px-Hochbeet_aus_Naturstein.jpg",
+                "caption": "Raised garden bed with natural stones"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Rock_(geology)",
+        "title": "Rock (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    },
+    {
+        "section": "Mining",
+        "text": "Mining is the extraction of valuable minerals or other geological materials from the earth, from an ore body, vein or seam . [35] The term also includes the removal of soil. Materials recovered by mining include base metals , precious metals , iron , uranium , coal , diamonds , limestone , oil shale , rock salt , potash , construction aggregate and dimension stone . Mining is required to obtain any material that cannot be grown through agricultural processes, or created artificially in a laboratory or factory . Mining in a wider sense comprises extraction of any resource (e.g. petroleum , natural gas , salt or even water ) from the earth. [36] Mining of rock and metals has been done since prehistoric times. Modern mining processes involve prospecting for mineral deposits, analysis of the profit potential of a proposed mine, extraction of the desired materials, and finally reclamation of the land to prepare it for other uses once mining ceases. [37] Mining processes may create negative impacts on the environment both during the mining operations and for years after mining has ceased. These potential impacts have led to most of the world's nations adopting regulations to manage negative effects of mining operations. [38]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/UraniumMineUtah.JPG/220px-UraniumMineUtah.JPG",
+                "caption": "Mi Vida uranium mine near Moab, Utah"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Rock_(geology)",
+        "title": "Rock (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Metamorphic Petrology"
+    }
+]

@@ -1,0 +1,639 @@
+[
+    {
+        "section": "Clockwise P-T-t paths",
+        "text": "Metamorphic rocks with clockwise P-T-t paths are commonly associated with a near- isothermal decompressional P-T trajectory . [5] [6] Clockwise P-T-t path normally consists of three parts: [2] One might expect that the rock reaches its peak metamorphism at the peak temperature and pressure at similar time, and near- isothermal decompression P-T-t path is observed at its stage 1 metamorphism. [2] However, in reality, the rocks commonly experience the peak pressure prior to the peak temperature. [2] This is due to the relative insensitivity of rocks to thermal events, i.e. poor conductivity of rock upon external thermal changes, whereas the rocks instantaneously experience pressure changes. [1] Examples of metamorphic rocks that consist of clockwise P-T-t paths can be found at:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Clockwise_ptt_path.png/330px-Clockwise_ptt_path.png",
+                "caption": "A typical clockwise P-T-t path (ideal case)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Anticlockwise P-T-t paths",
+        "text": "Metamorphic rocks with anticlockwise P-T-t paths are commonly associated with a near- isobaric cooling P-T trajectory. [11] Anticlockwise P-T-t path normally consists of two parts: [2] It is commonly observed that the peak temperature is reached prior to the peak pressure in anticlockwise P-T-t paths, as the rocks usually experienced the heat from the heat source before being extensively pressurized. [12] Examples of metamorphic rocks that consist of anticlockwise P-T-t paths can be found at:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Anticlockwise_ptt_path1.png/339px-Anticlockwise_ptt_path1.png",
+                "caption": "A common anticlockwise P-T-t path."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Geothermobarometry",
+        "text": "Geothermobarometry is a quantitative measurement of the P-T conditions, which is widely used in analyzing the P-T conditions of metamorphic and intrusive igneous rocks . [20] The underlying principle of geothermobarometry is by utilizing the equilibrium constants of mineral assemblages in a rock to infer the metamorphic P-T conditions. [1] [20] An electron microprobe is usually used in geothermobarometry to measure the distribution of components in the minerals and give precise determination of the chemical equilibrium within the specimen. [20] Geothermobarometry is a combination of: Geothermometers are usually represented by exchange reactions , which are sensitive to temperature but with little effect under changing pressure, such as exchange of Fe 2+ and Mg 2+ between garnet - biotite reaction: [1] Geobarometers are typically occurred as net-transfer reactions , which are sensitive to pressure but have little change with temperature, such as garnet - plagioclase - muscovite - biotite reaction that involves a significant volume reduction upon high pressure: [1] Since mineral assemblages at equilibrium are dependent on pressures and temperatures, by measuring the composition of the coexisting minerals, together with using suitable activity models, the P-T conditions experienced by the rock can be determined. [1] After one equilibrium constant is found, a line would be plotted on the P-T diagram. [20] As different equilibrium constants of mineral assemblages would occur as lines with different slopes in the P-T diagram, therefore, by finding the intersection of at least two lines in the P-T diagram, the P-T condition of the specimen can be obtained. [1] Despite the usefulness of geothermobarometry, special attention should be paid to whether the mineral assemblages represent an equilibrium, any occurrence of retrograde equilibrium in the rock, and appropriateness of calibration of the results. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Geothermobarometry1.png/376px-Geothermobarometry1.png",
+                "caption": "An illustration of geothermobarometry . A line of temperature equilibrium (orange) and a line of pressure equilibrium (blue) of selected mineral assemblages found in the specimen are plotted on the P-T diagram. The intersection represents the likely P-T condition experienced by rock in its metamorphic history."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Garnet growth zoning",
+        "text": "Garnet growth zoning is a special type of geothermobarometry that focuses on the composition variations in garnet. [21] Zoning is a texture in solid-solution minerals which the minerals form concentric rings from core to rim upon changing P-T conditions. [21] In a changing environment, minerals would be unstable and alter itself to reduce its Gibbs free energy to achieve stable states. [21] However, sometimes the mineral core has not reached equilibrium upon the environmental change and zoning occurs. [21] Zoning is also found in other minerals such as plagioclase and fluorite . [1] In practice, garnet is commonly used in the study of metamorphic rocks due to its refractory nature. [22] In past studies, garnet is found to be a mineral that is stable under a wide range of P-T conditions, meanwhile chemically displays responses (e.g. ions exchange ) to the P-T variations throughout its metamorphic history without reaching complete equilibrium. [22] The non-equilibriated garnet formed previously are often zoned by younger garnet. [1] Therefore, many past P-T characteristics are preserved in the zoned areas. Electron microprobes are used to measure the composition of the garnet zones. [22] However, melting within garnet sometimes occurs or diffusion rate is too rapid at high temperature, some garnet zones are merged and cannot provide sufficient information about the complete metamorphic history of the rocks. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/PTt_garnet_zones.gif/250px-PTt_garnet_zones.gif",
+                "caption": "Garnet zones grow from core to rim. Each concentric garnet zone displays different chemical compositions, indicating different P-T conditions."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Pseudosection",
+        "text": "Pseudosection is an equilibrium phase diagram which shows all the stable mineral assemblages of a rock at different P-T ranges for a single whole-rock chemical composition (bulk-rock composition). [25] The stable mineral assemblages are marked as different areas in the P-T graph. [25] Unlike geothermobarometry , which focuses only on single chemical equilibrium equations, pseudosections make use of multiple equilibrium equations to search for the past P-T conditions. [1] [25] It is widely used in metamorphic rock analysis due to its consideration of multiple reactions which resemble metamorphic processes of multiple minerals in reality. [25] (Pseudosection is different from petrogenetic grid . Pseudosection shows different mineral phases for a single rock chemical composition, [25] while petrogenetic grid shows a set of reactions under different P-T conditions that would occur for a phase diagram. [1] ) In the construction of pseudosections, the bulk-rock composition is firstly determined using geochemical techniques, then inserted into computer programs for calculations based on thermodynamics equations to generate pseudosection diagrams. [25] There are two geochemical methods in determining the bulk-rock composition: Both methods have their advantages and limitations. The XRF method provides a non-biased estimation, but may neglect the proportion of existing minerals in the rock. [25] Meanwhile, the point-counting method takes into account of mineral proportions, but is based on human judgement and may be biased. [25] Common computer programs for computing pseudosections: The results from a single pseudosection is not completely reliable, since in reality the rock specimen is not always in equilibrium. [27] However, analysis can be done on fractions of the P-T-t path e.g. at boundaries of mineral inclusions, or on local bulk composition analysis would improve precision and accuracy of the P-T-t path. [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pseudosection.png/496px-Pseudosection.png",
+                "caption": "An example of a pseudosection. The above shows the areas of stable mineral assemblages at different P-T ranges for a single bulk-rock composition (red dot) of the CaO-SiO 2 -Al 2 O 3 rock composition ternary diagram (white triangle)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Monazite geochronology",
+        "text": "In the study of metamorphic petrology, uranium–thorium–lead dating of monazite ( monazite geochronology ) is an effective method to determine the P-T history. [29] [30] Monazite is a phosphate mineral containing light rare-earth-elements (LREE) that occurs in a wide range of rock types. [31] It usually incorporates radioactive thorium (Th) during its crystal formation, making age determination possible. [31] Monazite has characteristics of high closure temperature (>1000 °C), variable composition, and robustness under a large temperature range, which help in the record of geological history in metamorphic rocks. [32] An electron microprobe is usually used for the measurement of monazite composition. [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Monazite_in_zoned_garnet.png/270px-Monazite_in_zoned_garnet.png",
+                "caption": "Monazite crystals (white dots) are often included in a concentrically zoned garnet (each colored ring represents a zone). Dating of monazite inclusions can therefore allow estimation of the age of each garnet zone."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Forward approach (Thermal modeling)",
+        "text": "Unlike using traditional petrological investigation methods (e.g. optical microscopy , geothermobarometry ) to inversely infer the metamorphic events from rock samples, thermal modeling is a forward method that attempts to work on the geological evolution of rocks. [1] Thermal modeling applies numerical modeling techniques based on heat transfer equations , different tectonics models and reactions of metamorphic minerals in the simulation of the possible metamorphic events. [1] [39] It works on the temperature variation of the earth crust over time based on rate of heat transfer and diffusion along the disturbed geothermal gradient (normal heat distribution in the ground). [1] [2] Thermal modeling does not give the actual geological time. [1] However, it provides accurate estimation of the duration of the thermal events. [1] [2] An advantage of thermal modeling is that it provides a holistic estimation of the duration of different stages of metamorphism, which is somehow difficult to completely extract from geochronological methods. [1] The model simulation involves solving the continuous time-dependent differential heat transfer equation by its approximate discrete finite difference form using computer programs such as FORTRAN . [1] [26] After the equations are set, a grid of nodes is generated for calculation of each point. [1] [40] Boundary conditions (normally temperature of the geothermal gradients) are input into the equations to calculate the temperature at boundaries. [1] Results are compared with petrological experimental results for validation. [1] By combining petrological methods and thermal modeling techniques, the understanding of metamorphic processes due to tectonic events is facilitated. [1] [39] Petrological results provide realistic variables to be plugged into a model simulation, while numerical modeling techniques often place constraints on the possible tectonic environments. [1] [2] The two methods complement the limitations of each other, and formulate a comprehensive evolutionary history of the metamorphic and tectonic events. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Thermal_evolution_ptt_path.png/389px-Thermal_evolution_ptt_path.png",
+                "caption": "An example of using thermal modeling in P-T-t path reconstruction. The above diagram shows the calculated geothermal gradients upon crustal thickening at 0 million year (m.y.) followed by an immediate uplift event at a rate of 1 mm per year. The P-T-t evolution of a rock originally at 40 km below ground is marked as red dots on the diagram. The corresponding P-T-t path trajectory is also inferred (blue dotted line). Edited from Peacock(1989). [1]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Collision setting",
+        "text": "Areas with collision-related tectonic events or under subduction zones commonly produce metamorphic rocks with clockwise P-T-t paths with near-isothermal decompressional P-T trajectories, [5] [6] and the reason is as follows: In addition, recent studies based on mechanical analysis reveal that peak pressure recorded in clockwise P-T paths does not necessarily represent the maximum depth of burial, but can also represent a change in the tectonic pattern. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Continental_collision.png/508px-Continental_collision.png",
+                "caption": "In continental collision setting, crustal thickening takes place, which brings about prograde metamorphism of underlying rocks. Continuous compression results in the development of thrust belts, which leads to a great drop in pressure experienced by originally underlying rocks and results in near-isothermal decompression (Stage 1 retrograde metamorphism). Exhumation and erosion further promote a decrease in P-T condition (Stage 2 retrograde metamorphism)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Paired metamorphic belts",
+        "text": "Both clockwise and anticlockwise metamorphic P-T-t paths are found in paired metamorphic belts at convergent plate boundaries . [42] Paired metamorphic belts display two contrasting mineral assemblages sets: [42] [43] The HPLT metamorphic belt is located along subduction zones, and commonly associated with a clockwise P-T-t path. [42] [44] The HPLT condition is resulted from crustal thickening due to convergence meanwhile without being heated by magma . [42] The LPHT metamorphic belt is observed at volcanic arcs or back-arc basins , [45] which is attributed to magma intrusion derived from partial melting of the subducting slab , and the melt rises to the crust . [42] This area is associated with an anticlockwise P-T-t path. [42] The P-T-t paths provide in-depth investigations and implications of the mechanisms in the lithosphere, and further support the plate tectonic theory [42] [46] and the formation of supercontinents . [47] [46] [48]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sumatra-subduction.jpg/455px-Sumatra-subduction.jpg",
+                "caption": "Convergent plate boundaries with subduction zones and volcanic arcs , where paired metamorphic belts with contrasting metamorphic mineral assemblages are found. Clockwise P-T-t paths are commonly found in the forearc , while anticlockwise P-T-t paths are found in the volcanic arc or back-arc basin ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Plume tectonics",
+        "text": "P-T-t paths play an important role in the development of plume tectonics, supported by anticlockwise P-T paths. [11] [49] Plume tectonics are considered to be the dominant process forming the Archean crust with evidence from the study of the Archean cratonic blocks in the North China Craton . [11] [49] Anticlockwise P-T paths with near-isobaric cooling after the peak are normally found in the Archean rocks, suggesting an intrusion origin. [11] The lack of a paired metamorphic belt as well as a paired clockwise P-T path in the Archean rocks eliminates the possibility of the volcanic arc formation. [11] [50] Evidenced together by a large doming structure , widespread of komatiites and bimodal volcanism , it is proposed that plume tectonics is the major crust-forming process in the Archean. [11] This has led to further research on the beginning of plate tectonics and numerical modeling of the early Earth condition. [50] [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mantle_Plume.jpg/341px-Mantle_Plume.jpg",
+                "caption": "A diagram of plume tectonics. A mantle plume rises from the core to the surface."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Structural deformation",
+        "text": "P-T-t paths can be used to estimate possible structures in the field as heat would transfer in small scale advective heat flow during thrusting and folding of metamorphic rocks. [1] [3] For example, during the formation of fault-bend-fold , the rocks in the lower segment (footwall) are heated due to contact with the hotter upper thrust sheet (hanging wall), while the upper thrust sheet is cooling because of losing heat in a downward direction. [52] [53] Thus, the lower segment and the upper thrust sheet are undergoing prograde metamorphism and retrograde metamorphism respectively. [53] Nevertheless, special attention should be taken to the effect of multiple thrusting such as duplexes, where the initial lower plate in an earlier thrust would become the upper plate in a later thrusting event. [52] Depending on the location of the rock, a variety of complex P-T trajectories can be found, which may make interpretation of a terrain challenging. [52]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Faultbendfold.png/240px-Faultbendfold.png",
+                "caption": "During the formation of a fault-bend-fold, the lower segment (footwall) is heated while the upper thrust sheet (hanging wall) is cooled because of thrusting."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Chemical composition and phase transition",
+        "text": "The major elements composition of pyrolite is about 44.71 molar percent (mol%) SiO 2 , 3.98 % Al 2 O 3 , 8.18 % FeO, 3.17 % CaO, 38.73 % MgO, 0.13 % Na 2 O. [9] 1) A pyrolitic Upper Mantle is mainly composed of olivine (~60 volume percent (vol%)), clinopyroxene , orthopyroxene , and garnet . [7] Pyroxene would gradually dissolved into garnet and form majoritic garnet. [10] 2) A pyrolitic Mantle Transition Zone is mainly composed of 60 vol% olivine-polymorphs ( wadsleyite , ringwoodite ) and ~40 vol% majoritic garnet. The top and bottom boundary of the Mantle Transition zone are mainly marked by olivine-wadsleyite transition and ringwoodite-perovskite transition, respectively. 3) A pyrolitic Lower Mantle is mainly composed of magnesium perovskite (~80 vol%), ferroperclase (~13 vol%), and calcium perovskite (~7%). In addition, post-perovskite may present at the bottom of the Lower Mantle.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Phase_diagram_of_pyrolite_.jpg/376px-Phase_diagram_of_pyrolite_.jpg",
+                "caption": "Fig.1 The mineral volume fraction in a pyrolitic mantle up to 1000 km depth. [7] [8] Ol: olivine; Opx: orthopyroxene; Cpx: clinopyroxene; Gt: garnet; Wad: wadsleyite; Ring: ringwoodite; Pv: perovskite; Fp: ferropericlase; Ca-Pv: calcium perovskite."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pyrolite",
+        "title": "Pyrolite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Seismic velocity and density properties",
+        "text": "The P-wave and S-wave velocities (Vp and Vs) of pyrolite along the 1600 K adiabatic geotherm are shown in Fig. 2, [2] and its density profile is shown in Fig. 3. [2] At the boundary between the Upper Mantle and the Mantle Transition Zone (~410 km), Vp, Vs, and density jump by ~6%, ~6%, and ~4% in a pyrolite model, [2] respectively, which are mainly attributed to the olivine-wadsleyite phase transition . [11] At the boundary between the Mantle Transition Zone and the Lower Mantle, Vp, Vs, and density jump by ~3%, ~6%, and ~6% in a pyrolite model, respectively. [2] With more elasticity parameters available, the Vp, Vs, and density profiles of pyrolite would be updated.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Seismic_velocities_of_pyrolite_along_the_1600_K_adiabatic_geotherm_.jpg/262px-Seismic_velocities_of_pyrolite_along_the_1600_K_adiabatic_geotherm_.jpg",
+                "caption": "Fig. 2 Vp and Vs profiles of pyrolite along the 1600 K adiabatic geotherm [2]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Densities_of_pyrolite.jpg/262px-Densities_of_pyrolite.jpg",
+                "caption": "Fig. 3 Density profile of pyrolite along the 1600 K adiabatic geotherm [2]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pyrolite",
+        "title": "Pyrolite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Other Mantle Rock models",
+        "text": "There are other rock models for the Earth's mantle: (1) Piclogite: by contrast to the olivine-enriched pyrolite, piclogite is an olivine-poor model (~20% olivine) proposed to provide a better match to the seismic velocity observations in the transition zone. [15] [16] The piclogite phase composition is similar as 20% olivine + 80% eclogite. [17] (2) Eclogite , it is transformed from the Mid-Ocean Ridge Basalt at a depth of ~60 km, [ citation needed ] exists in the Earth's mantle mainly within the subducted slabs. It is mainly composed of garnet and clinopyroxene (mainly omphacite ) up to ~500 km depth (Fig. 4). (3) Harzburgite, it mainly exists under the Mid-Ocean Ridge basalt layer of the oceanic lithosphere , and can enter into the deep mantle along with the subducted oceanic lithosphere. Its phase composition is similar as pyrolite, but shows higher olivine proportion (~70 vol%) than pyrolite. [18] Overall, pyrolite and piclogite are both rock models for the ambient mantle, eclogite and harzburgite are rock models for subducted oceanic lithosphere . Formed from partial melting of pyrolite, the oceanic lithosphere is mainly composed of the basalt layer, harzburgite layer, and depleted pyrolite from top to bottom. [19] The subducted oceanic lithospheres contribute to the heterogeneity in the Earth's mantle because they have different composition (eclogite and harzburgite) from the ambient mantle (pyrolite). [2] [14]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Eclogite_phase_proportion.jpg/261px-Eclogite_phase_proportion.jpg",
+                "caption": "Fig. 4. Mineral proportion of a MORB-transformed eclogite at 250-500 km depth [14]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pyrolite",
+        "title": "Pyrolite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Microscopic characteristics",
+        "text": "When dealing with unfamiliar types or with rocks so fine grained that their component minerals cannot be determined with the aid of a hand lens, a microscope is used. Characteristics observed under the microscope include colour, colour variation under plane polarised light ( pleochroism , produced by the lower Nicol prism , or more recently polarising films ), fracture characteristics of the grains, refractive index (in comparison to the mounting adhesive, typically Canada balsam ), and optical symmetry ( birefringent or isotropic ). In toto , these characteristics are sufficient to identify the mineral, and often to quite tightly estimate its major element composition.\nThe process of identifying minerals under the microscope is fairly subtle, but also mechanistic - it would be possible to develop an identification key that would allow a computer to do it. The more difficult and skilful part of optical petrography is identifying the interrelationships between grains and relating them to features seen in hand-sized specimen, at outcrop, or in mapping.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/LvMS-Lvm.jpg/220px-LvMS-Lvm.jpg",
+                "caption": "Photomicrograph of a volcanic sand grain ; upper picture is plane-polarized light, bottom picture is cross-polarized light, scale box at left-center is 0.25 millimeter."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Petrography",
+        "title": "Petrography",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Definition and characteristics",
+        "text": "Basalt is composed mostly of oxides of silicon, iron, magnesium, potassium, aluminum, titanium, and calcium. Geologists classify igneous rock by its mineral content whenever possible, with the relative volume percentages of quartz (crystalline silica (SiO 2 )), alkali feldspar , plagioclase , and feldspathoid ( QAPF ) being particularly important. An aphanitic (fine-grained) igneous rock is classified as basalt when its QAPF fraction is composed of less than 10% feldspathoid and less than 20% quartz, with plagioclase making up at least 65% of its feldspar content. This places basalt in the basalt/andesite field of the QAPF diagram. Basalt is further distinguished from andesite by its silica content of under 52%. [3] [4] [5] [6] It is often not practical to determine the mineral composition of volcanic rocks, due to their very fine grain size, and geologists then classify the rocks chemically, with the total content of alkali metal oxides and silica ( TAS ) being particularly important. Basalt is then defined as volcanic rock with a content of 45% to 52% silica and not more than 5% alkali metal oxides. This places basalt in the B field of the TAS diagram. [3] [4] [6] Such a composition is described as mafic . [7] Basalt is usually dark grey to black in colour, due to its high content of augite or other dark-coloured pyroxene minerals, [8] [9] [10] but can exhibit a wide range of shading. Some basalts are quite light-coloured due to a high content of plagioclase, and these are sometimes described as leucobasalts . [11] [12] Lighter basalt can be difficult to distinguish from andesite , but a common rule of thumb , used in field research , is that basalt has a color index of 35 or greater. [13] The physical properties of basalt reflect its relatively low silica content and typically high iron and magnesium content. [14] The average density of basalt is 2.9 g/cm 3 , compared with a typical density for granite of 2.7 g/cm 3 . [15] The viscosity of basaltic magma is relatively low, around 10 4 to 10 5 cP , although this is still many orders of magnitude higher than water (which has a viscosity of about 1 cP). The viscosity of basaltic magma is similar to that of ketchup . [16] Basalt is often porphyritic , containing larger crystals ( phenocrysts ) formed prior to the extrusion that brought the magma to the surface, embedded in a finer-grained matrix . These phenocrysts usually are of augite, olivine , or a calcium-rich plagioclase, [9] which have the highest melting temperatures of the typical minerals that can crystallize from the melt and are therefore the first to form solid crystals. [17] [18] Basalt often contains vesicles , formed when dissolved gases bubble out of the magma as it decompresses during its approach to the surface, and the erupted lava then solidifies before the gases can escape. When vesicles make up a substantial fraction of the volume of the rock, the rock is described as scoria . [19] [20] The term basalt is at times applied to shallow intrusive rocks with a composition typical of basalt, but rocks of this composition with a phaneritic (coarser) groundmass are more properly referred to as diabase (also called dolerite) or, when more coarse-grained (crystals over 2 mm across), as gabbro . Diabase and gabbro are thus the hypabyssal and plutonic equivalents of basalt. [4] [21] In the Hadean , Archean , and early Proterozoic eons of Earth's history, the chemistry of erupted magmas was significantly different from today's, due to immature crustal and asthenosphere differentiation. These ultramafic volcanic rocks, with silica (SiO 2 ) contents below 45% are usually classified as komatiites . [22] [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Basalt_qapf.jpg/220px-Basalt_qapf.jpg",
+                "caption": "QAPF diagram with basalt/andesite field highlighted in yellow. Basalt is distinguished from andesite by SiO 2 < 52%."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TAS-Diagramm-basalt.png/300px-TAS-Diagramm-basalt.png",
+                "caption": "Basalt is field B in the TAS classification ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/VesicularBasalt1.jpg/220px-VesicularBasalt1.jpg",
+                "caption": "Vesicular basalt at Sunset Crater , Arizona. US quarter (24mm) for scale."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Basalt_columns_in_yellowstone_2.jpg/220px-Basalt_columns_in_yellowstone_2.jpg",
+                "caption": "Columnar basalt flows in Yellowstone National Park , USA"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Szentgy%C3%B6rgyhegy03.jpg/170px-Szentgy%C3%B6rgyhegy03.jpg",
+                "caption": "Columnar basalt at Szent György Hill, Hungary"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Types",
+        "text": "On Earth, most basalt forms by decompression melting of the mantle . [26] The high pressure in the upper mantle (due to the weight of the overlying rock ) raises the melting point of mantle rock, so that almost all of the upper mantle is solid. However, mantle rock is ductile (the solid rock slowly deforms under high stress). When tectonic forces cause hot mantle rock to creep upwards, the decrease of the pressure on the ascending rock can cause its melting point to drop enough for the rock to partially melt . This produces basaltic magma. [27] Decompression melting can occur in a variety of tectonic settings. These include continental rift zones, at mid-ocean ridges , above hotspots , [28] [29] and in back-arc basins . [30] Basalt is also produced in subduction zones , where mantle rock rises into a mantle wedge above the descending slab. Decompression melting in this setting is enhanced by further lowering of the melting point by water vapor and other volatiles released from the slab. [31] Each such setting produces basalt with distinctive characteristics. [32]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Causeway23.jpg/220px-Causeway23.jpg",
+                "caption": "Large masses must cool slowly to form a polygonal joint pattern, as here at the Giant's Causeway in Northern Ireland"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%D0%91%D0%B0%D0%B7%D0%B0%D0%BB%D1%8C%D1%82%D0%BE%D0%B2%D0%B5.jpg/220px-%D0%91%D0%B0%D0%B7%D0%B0%D0%BB%D1%8C%D1%82%D0%BE%D0%B2%D0%B5.jpg",
+                "caption": "Columns of basalt near Bazaltove , Ukraine"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Petrology",
+        "text": "The mineralogy of basalt is characterized by a preponderance of calcic plagioclase feldspar and pyroxene . Olivine can also be a significant constituent. [46] Accessory minerals present in relatively minor amounts include iron oxides and iron-titanium oxides, such as magnetite , ulvöspinel , and ilmenite . [41] Because of the presence of such oxide minerals, basalt can acquire strong magnetic signatures as it cools, and paleomagnetic studies have made extensive use of basalt. [47] In tholeiitic basalt , pyroxene ( augite and orthopyroxene or pigeonite ) and calcium -rich plagioclase are common phenocryst minerals. Olivine may also be a phenocryst, and when present, may have rims of pigeonite. The groundmass contains interstitial quartz or tridymite or cristobalite . Olivine tholeiitic basalt has augite and orthopyroxene or pigeonite with abundant olivine, but olivine may have rims of pyroxene and is unlikely to be present in the groundmass . [41] Alkali basalts typically have mineral assemblages that lack orthopyroxene but contain olivine. Feldspar phenocrysts typically are labradorite to andesine in composition. Augite is rich in titanium compared to augite in tholeiitic basalt. Minerals such as alkali feldspar , leucite , nepheline , sodalite , phlogopite mica, and apatite may be present in the groundmass. [41] Basalt has high liquidus and solidus temperatures—values at the Earth's surface are near or above 1200 °C (liquidus) [48] and near or below 1000 °C (solidus); these values are higher than those of other common igneous rocks. [49] The majority of tholeiitic basalts are formed at approximately 50–100 km depth within the mantle. Many alkali basalts may be formed at greater depths, perhaps as deep as 150–200 km. [50] [51] The origin of high-alumina basalt continues to be controversial, with disagreement over whether it is a primary melt or derived from other basalt types by fractionation. [52] : 65",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%D0%9C%D1%96%D0%BA%D1%80%D0%BE%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%8F_%D1%88%D0%BB%D1%96%D1%84%D0%B0_%D0%B1%D0%B0%D0%B7%D0%B0%D0%BB%D1%8C%D1%82%D1%83_%D1%96%D0%B7_%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%BD%D0%B8%D0%BA%D0%B0_%D0%91%D0%B0%D0%B7%D0%B0%D0%BB%D1%8C%D1%82%D0%BE%D0%B2%D1%96_%D1%81%D1%82%D0%BE%D0%B2%D0%BF%D0%B8_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BE%D0%BC%D1%83_%D1%81%D0%B2%D1%96%D1%82%D0%BB%D1%96.jpg/220px-thumbnail.jpg",
+                "caption": "Photomicrograph of a thin section of basalt from Bazaltove , Ukraine"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Morphology and textures",
+        "text": "The shape, structure and texture of a basalt is diagnostic of how and where it erupted—for example, whether into the sea, in an explosive cinder eruption or as creeping pāhoehoe lava flows, the classic image of Hawaiian basalt eruptions. [61]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20011005-0039_DAS_large.jpg/220px-20011005-0039_DAS_large.jpg",
+                "caption": "An active basalt lava flow"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Columnar basalt",
+        "text": "During the cooling of a thick lava flow, contractional joints or fractures form. [68] If a flow cools relatively rapidly, significant contraction forces build up. While a flow can shrink in the vertical dimension without fracturing, it cannot easily accommodate shrinking in the horizontal direction unless cracks form; the extensive fracture network that develops results in the formation of columns . These structures are predominantly hexagonal in cross-section, but polygons with three to twelve or more sides can be observed. [69] The size of the columns depends loosely on the rate of cooling; very rapid cooling may result in very small (<1 cm diameter) columns, while slow cooling is more likely to produce large columns. [70]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Causeway-code_poet-4.jpg/220px-Causeway-code_poet-4.jpg",
+                "caption": "The Giant's Causeway in Northern Ireland"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Boyabat.jpg/220px-Boyabat.jpg",
+                "caption": "Columnar jointed basalt in Turkey"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/%D0%9C%D1%8B%D1%81_%D0%A1%D1%82%D0%BE%D0%BB%D0%B1%D1%87%D0%B0%D1%82%D1%8B%D0%B9._%D0%9F%D0%BE%D1%81%D0%BB%D0%B5_%D0%B7%D0%B0%D0%BA%D0%B0%D1%82%D0%B0.jpg/220px-%D0%9C%D1%8B%D1%81_%D0%A1%D1%82%D0%BE%D0%BB%D0%B1%D1%87%D0%B0%D1%82%D1%8B%D0%B9._%D0%9F%D0%BE%D1%81%D0%BB%D0%B5_%D0%B7%D0%B0%D0%BA%D0%B0%D1%82%D0%B0.jpg",
+                "caption": "Columnar basalt at Cape Stolbchaty , Russia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Submarine eruptions",
+        "text": "The character of submarine basalt eruptions is largely determined by depth of water, since increased pressure restricts the release of volatile gases and results in effusive eruptions. [71] It has been estimated that at depths greater than 500 metres (1,600 ft), explosive activity associated with basaltic magma is suppressed. [72] Above this depth, submarine eruptions are often explosive, tending to produce pyroclastic rock rather than basalt flows. [73] These eruptions, described as Surtseyan, are characterised by large quantities of steam and gas and the creation of large amounts of pumice . [74]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pillow_basalt_crop_l.jpg/220px-Pillow_basalt_crop_l.jpg",
+                "caption": "Pillow basalts on the Pacific seafloor"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Earth",
+        "text": "Basalt is the most common volcanic rock type on Earth, making up over 90% of all volcanic rock on the planet. [80] The crustal portions of oceanic tectonic plates are composed predominantly of basalt, produced from upwelling mantle below the ocean ridges . [81] Basalt is also the principal volcanic rock in many oceanic islands , including the islands of Hawaiʻi , [34] the Faroe Islands , [82] and Réunion . [83] The eruption of basalt lava is observed by geologists at about 20 volcanoes per year. [84] Basalt is the rock most typical of large igneous provinces . These include continental flood basalts , the most voluminous basalts found on land. [35] Examples of continental flood basalts included the Deccan Traps in India , [85] the Chilcotin Group in British Columbia , [86] Canada , the Paraná Traps in Brazil, [87] the Siberian Traps in Russia , [88] the Karoo flood basalt province in South Africa, [89] and the Columbia River Plateau of Washington and Oregon . [90] Basalt is also prevalent across extensive regions of the Eastern Galilee , Golan , and Bashan in Israel and Syria . [91] Basalt also is common around volcanic arcs, specially those on thin crust . [92] Ancient Precambrian basalts are usually only found in fold and thrust belts, and are often heavily metamorphosed. These are known as greenstone belts , [93] [94] because low-grade metamorphism of basalt produces chlorite , actinolite , epidote and other green minerals. [95]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Parana_traps.JPG/220px-Parana_traps.JPG",
+                "caption": "Paraná Traps , Brazil"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "The Moon",
+        "text": "The dark areas visible on Earth's moon , the lunar maria , are plains of flood basaltic lava flows. These rocks were sampled both by the crewed American Apollo program and the robotic Russian Luna program , and are represented among the lunar meteorites . [97] Lunar basalts differ from their Earth counterparts principally in their high iron contents, which typically range from about 17 to 22 wt% FeO. They also possess a wide range of titanium concentrations (present in the mineral ilmenite ), [98] [99] ranging from less than 1 wt% TiO 2 , to about 13 wt.%. Traditionally, lunar basalts have been classified according to their titanium content, with classes being named high-Ti, low-Ti, and very-low-Ti. Nevertheless, global geochemical maps of titanium obtained from the Clementine mission demonstrate that the lunar maria possess a continuum of titanium concentrations, and that the highest concentrations are the least abundant. [100] Lunar basalts show exotic textures and mineralogy, particularly shock metamorphism , lack of the oxidation typical of terrestrial basalts, and a complete lack of hydration . [101] Most of the Moon 's basalts erupted between about 3 and 3.5 billion years ago, but the oldest samples are 4.2 billion years old, and the youngest flows, based on the age dating method of crater counting , are estimated to have erupted only 1.2 billion years ago. [102]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lunar_Olivine_Basalt_15555_from_Apollo_15_in_National_Museum_of_Natural_History.jpg/220px-Lunar_Olivine_Basalt_15555_from_Apollo_15_in_National_Museum_of_Natural_History.jpg",
+                "caption": "Lunar olivine basalt collected by Apollo 15 astronauts"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Weathering",
+        "text": "Compared to granitic rocks exposed at the Earth's surface, basalt outcrops weather relatively rapidly. This reflects their content of minerals that crystallized at higher temperatures and in an environment poorer in water vapor than granite. These minerals are less stable in the colder, wetter environment at the Earth's surface. The finer grain size of basalt and the volcanic glass sometimes found between the grains also hasten weathering. The high iron content of basalt causes weathered surfaces in humid climates to accumulate a thick crust of hematite or other iron oxides and hydroxides, staining the rock a brown to rust-red colour. [115] [116] [117] [118] Because of the low potassium content of most basalts, weathering converts the basalt to calcium-rich clay ( montmorillonite ) rather than potassium-rich clay ( illite ). Further weathering, particularly in tropical climates, converts the montmorillonite to kaolinite or gibbsite . This produces the distinctive tropical soil known as laterite . [115] The ultimate weathering product is bauxite , the principal ore of aluminium. [119] Chemical weathering also releases readily water-soluble cations such as calcium , sodium and magnesium , which give basaltic areas a strong buffer capacity against acidification . [120] Calcium released by basalts binds CO 2 from the atmosphere forming CaCO 3 acting thus as a CO 2 trap. [121]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Absolute_iron_accumulation_in_kaolinized_basalt._C_015.jpg/220px-Absolute_iron_accumulation_in_kaolinized_basalt._C_015.jpg",
+                "caption": "Kaolinized basalt near Hungen, Vogelsberg, Germany"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Metamorphism",
+        "text": "Intense heat or great pressure transforms basalt into its metamorphic rock equivalents. Depending on the temperature and pressure of metamorphism, these may include greenschist , amphibolite , or eclogite . Basalts are important rocks within metamorphic regions because they can provide vital information on the conditions of metamorphism that have affected the region. [122] Metamorphosed basalts are important hosts for a variety of hydrothermal ores , including deposits of gold, copper and volcanogenic massive sulfides . [123]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Archean_Greenstone_Pillow_Lava_in_Michigan_USA_3.jpg/220px-Archean_Greenstone_Pillow_Lava_in_Michigan_USA_3.jpg",
+                "caption": "Metamorphosed basalt from an Archean greenstone belt in Michigan, US. The minerals that gave the original basalt its black colour have been metamorphosed into green minerals."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Uses",
+        "text": "Basalt is used in construction (e.g. as building blocks or in the groundwork ), [127] making cobblestones (from columnar basalt) [128] and in making statues . [129] [130] Heating and extruding basalt yields stone wool , which has potential to be an excellent thermal insulator . [131] [132] [133] [134] Carbon sequestration in basalt has been studied as a means of removing carbon dioxide, produced by human industrialization, from the atmosphere. Underwater basalt deposits, scattered in seas around the globe, have the added benefit of the water serving as a barrier to the re-release of CO 2 into the atmosphere. [135] [136]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/P1050763_Louvre_code_Hammurabi_face_rwk.JPG/220px-P1050763_Louvre_code_Hammurabi_face_rwk.JPG",
+                "caption": "The Code of Hammurabi was engraved on a 2.25 m (7 ft 4 + 1 ⁄ 2 in) tall basalt stele in around 1750 BC."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Characteristics",
+        "text": "Prominent among the components present in chondrites are the enigmatic chondrules , millimetre-sized spherical objects that originated as freely floating, molten or partially molten droplets in space; most chondrules are rich in the silicate minerals olivine and pyroxene . Chondrites also contain refractory inclusions (including Ca–Al inclusions ), which are among the oldest objects to form in the Solar System, particles rich in metallic Fe-Ni and sulfides , and isolated grains of silicate minerals . The remainder of chondrites consists of fine-grained (micrometre-sized or smaller) dust, which may either be present as the matrix of the rock or may form rims or mantles around individual chondrules and refractory inclusions. Embedded in this dust are presolar grains , which predate the formation of our solar system and originated elsewhere in the galaxy. The chondrules have distinct texture, composition and mineralogy , and their origin continues to be the object of some debate. [11] The scientific community generally accepts that these spheres were formed by the action of a shock wave that passed through the Solar System, although there is little agreement as to the cause of this shock wave. [12] An article published in 2005 proposed that the gravitational instability of the gaseous disk that formed Jupiter generated a shock wave with a velocity of more than 10 km/s, which resulted in the formation of the chondrules. [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/NWA_Chondrite.jpg/317px-NWA_Chondrite.jpg",
+                "caption": "Shiny Ni/Fe metal is prominently displayed in this ordinary chondrite found in Northwest Africa"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Chondrite",
+        "title": "Chondrite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Enstatite chondrites",
+        "text": "Enstatite chondrites (also known as E-type chondrites) are a rare form of meteorite thought to comprise only about 2% of the chondrites that fall to Earth. [19] Only about 200 E-Type chondrites are currently known. [19] The majority of enstatite chondrites have either been recovered in Antarctica or have been collected by the American National Weather Association . They tend to be high in the mineral enstatite (MgSiO 3 ), from which they derive their name. [19] E-type chondrites are among the most chemically reduced rocks known, with most of their iron taking the form of metal or sulfide rather than as an oxide. This suggests that they were formed in an area that lacked oxygen , probably within the orbit of Mercury . [20]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/M%C3%A9t%C3%A9orite_de_Saint_Sauveur_MHNT2.jpg/225px-M%C3%A9t%C3%A9orite_de_Saint_Sauveur_MHNT2.jpg",
+                "caption": "The Saint Sauveur enstatite chondrite (EH5)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Chondrite",
+        "title": "Chondrite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Ordinary chondrites",
+        "text": "Ordinary chondrites are by far the most common type of meteorite to fall to Earth: about 80% of all meteorites and over 90% of chondrites are ordinary chondrites. [11] They contain abundant chondrules, sparse matrix (10–15% of the rock), few refractory inclusions, and variable amounts of Fe–Ni metal and troilite (FeS). Their chondrules are generally in the range of 0.5 to 1 mm in diameter. Ordinary chondrites are distinguished chemically by their depletions in refractory lithophile elements, such as Ca, Al, Ti, and rare earths , relative to Si, and isotopically by their unusually high 17 O/ 16 O ratios relative to 18 O/ 16 O compared to Earth rocks. Most, but not all, ordinary chondrites have experienced significant degrees of metamorphism, having reached temperatures well above 500 °C on the parent asteroids. They are divided into three groups, which have different amounts of metal and different amounts of total iron: An example of this group is the NWA 869 meteorite.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/NWA_778_El_Mahbes_meteorite_-_200705.jpg/167px-NWA_778_El_Mahbes_meteorite_-_200705.jpg",
+                "caption": "Ordinary chondrite LL6"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Chondrite",
+        "title": "Chondrite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Carbonaceous chondrites",
+        "text": "Carbonaceous chondrites (also known as C-type chondrites) make up less than 5% of the chondrites that fall on Earth. [22] They are characterized by the presence of carbon compounds, including amino acids . [23] They are thought to have been formed the farthest from the sun of any of the chondrites as they have the highest proportion of volatile compounds. [2] Another of their main characteristics is the presence of water or of minerals that have been altered by the presence of water. There are many groups of carbonaceous chondrites, but most of them are distinguished chemically by enrichments in refractory lithophile elements relative to Si and isotopically by unusually low ratios of 17 O/ 16 O relative to 18 O/ 16 O, when compared to Earth rocks. All groups of carbonaceous chondrites except the CH group are named for a characteristic type specimen:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/AllendeMeteorite.jpg/200px-AllendeMeteorite.jpg",
+                "caption": "Carbonaceous chondrite CV3 that fell in Mexico in 1969"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Chondrite",
+        "title": "Chondrite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Origin of life",
+        "text": "Carbonaceous chondrites contain more than 600 organic compounds that were synthesized in distinct places and at distinct times. These organic compounds include: hydrocarbons , carboxylic acids , alcohols , ketones , aldehydes , amines , amides , sulfonic acids , phosphonic acids , amino acids , nitrogenous bases , etc. [31] These compounds can be divided into three main groups: a fraction that is not soluble in chloroform or methanol , chloroform soluble hydrocarbons and a fraction that is soluble in methanol (which includes the amino acids). The first fraction appears to originate from interstellar space and the compounds belonging to the other fractions derive from a planetoid . It has been proposed that the amino acids were synthesized close to the surface of a planetoid by the radiolysis (dissociation of molecules caused by radiation ) of hydrocarbons and ammonium carbonate in the presence of liquid water. In addition, the hydrocarbons could have formed deep within a planetoid by a process similar to the Fischer–Tropsch process . These conditions could be analogous to the events that caused the origin of life on Earth. [32] The Murchison meteorite has been thoroughly studied; it fell in Australia close to the town that bears its name on 28 September 1969. It is a CM2 and it contains common amino acids such as glycine , alanine and glutamic acid as well as other less common ones such as isovaline and pseudo-leucine. [33] Two meteorites that were collected in Antarctica in 1992 and 1995 were found to be abundant in amino acids, which are present at concentrations of 180 and 249 ppm (carbonaceous chondrites normally contain concentrations of 15 ppm or less). This could indicate that organic material is more abundant in the Solar System than was previously believed, and it reinforces the idea that the organic compounds present in the primordial soup could have had an extraterrestrial origin. [34]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Amino_acid.svg/170px-Amino_acid.svg.png",
+                "caption": "Amino acid general structure"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Murchison_crop.jpg/220px-Murchison_crop.jpg",
+                "caption": "The Murchison meteorite is on display at the Smithsonian 's NMNH ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Chondrite",
+        "title": "Chondrite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Description",
+        "text": "The word \"granite\" comes from the Latin granum , a grain, in reference to the coarse-grained structure of such a completely crystalline rock. [1] Granitic rocks mainly consist of feldspar , quartz , mica , and amphibole minerals , which form an interlocking, somewhat equigranular matrix of feldspar and quartz with scattered darker biotite mica and amphibole (often hornblende ) peppering the lighter color minerals. Occasionally some individual crystals ( phenocrysts ) are larger than the groundmass , in which case the texture is known as porphyritic . A granitic rock with a porphyritic texture is known as a granite porphyry . Granitoid is a general, descriptive field term for lighter-colored, coarse-grained igneous rocks. Petrographic examination is required for identification of specific types of granitoids.  Granites can be predominantly white, pink, or gray in color, depending on their mineralogy . [2] The alkali feldspar in granites is typically orthoclase or microcline and is often perthitic . The plagioclase is typically sodium-rich oligoclase . Phenocrysts are usually alkali feldspar. [3] Granitic rocks are classified according to the QAPF diagram for coarse grained plutonic rocks and are named according to the percentage of quartz , alkali feldspar ( orthoclase , sanidine , or microcline ) and plagioclase feldspar on the A-Q-P half of the diagram. True granite (according to modern petrologic convention) contains between 20% and 60% quartz by volume, with 35% to 90% of the total feldspar consisting of alkali feldspar . Granitic rocks poorer in quartz are classified as syenites or monzonites , while granitic rocks dominated by plagioclase are classified as granodiorites or tonalites . Granitic rocks with over 90% alkali feldspar are classified as alkali feldspar granites . Granitic rock with more than 60% quartz, which is uncommon, is classified simply as quartz-rich granitoid or, if composed almost entirely of quartz, as quartzolite . [4] [5] [6] True granites are further classified by the percentage of their total feldspar that is alkali feldspar. Granites whose feldspar is 65% to 90% alkali feldspar are syenogranites , while the feldspar in monzogranite is 35% to 65% alkali feldspar. [5] [6] A granite containing both muscovite and biotite micas is called a binary or two-mica granite. Two-mica granites are typically high in potassium and low in plagioclase, and are usually S-type granites or A-type granites, as described below . [7] [8] Another aspect of granite classification is the ratios of metals that potentially form feldspars. Most granites have a composition such that almost all their aluminum and alkali metals (sodium and potassium) are combined as feldspar. This is the case when K 2 O + Na 2 O + CaO > Al 2 O 3 > K 2 O + Na 2 O. Such granites are described as normal or metaluminous . Granites in which there is not enough aluminum to combine with all the alkali oxides as feldspar (Al 2 O 3 < K 2 O + Na 2 O) are described as peralkaline , and they contain unusual sodium amphiboles such as riebeckite . Granites in which there is an excess of aluminum beyond what can be taken up in feldspars (Al 2 O 3 > CaO + K 2 O + Na 2 O) are described as peraluminous , and they contain aluminum-rich minerals such as muscovite . [9]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/QAPF_diagram_granite.svg/310px-QAPF_diagram_granite.svg.png",
+                "caption": "QAPF diagram with granite field highlighted"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mineralogy_igneous_rocks_EN.svg/310px-Mineralogy_igneous_rocks_EN.svg.png",
+                "caption": "Mineral assemblage of igneous rocks"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Occurrence",
+        "text": "Granitic rock is widely distributed throughout the continental crust . [17] Much of it was intruded during the Precambrian age; it is the most abundant basement rock that underlies the relatively thin sedimentary veneer of the continents. Outcrops of granite tend to form tors , domes or bornhardts , and rounded massifs . Granites sometimes occur in circular depressions surrounded by a range of hills, formed by the metamorphic aureole or hornfels . Granite often occurs as relatively small, less than 100 km 2 stock masses ( stocks ) and in batholiths that are often associated with orogenic mountain ranges. Small dikes of granitic composition called aplites are often associated with the margins of granitic intrusions . In some locations, very coarse-grained pegmatite masses occur with granite. [18]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/The_Cheesewring.jpg/170px-The_Cheesewring.jpg",
+                "caption": "The Cheesewring , a granite tor in England"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HuangShan.JPG/220px-HuangShan.JPG",
+                "caption": "A granite peak at Huangshan , China"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hiltaba_pink_granite.jpg/220px-Hiltaba_pink_granite.jpg",
+                "caption": "Pink granite at Hiltaba , South Australia (part of the Hiltaba Suite )"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/ArideGranite1.jpg/170px-ArideGranite1.jpg",
+                "caption": "Granite with quartz veins at Gros la Tête cliff, Aride Island , Seychelles"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Weathering",
+        "text": "Physical weathering occurs on a large scale in the form of exfoliation joints , which are the result of granite's expanding and fracturing as pressure is relieved when overlying material is removed by erosion or other processes. Chemical weathering of granite occurs when dilute carbonic acid , and other acids present in rain and soil waters, alter feldspar in a process called hydrolysis . [49] [50] As demonstrated in the following reaction, this causes potassium feldspar to form kaolinite , with potassium ions, bicarbonate, and silica in solution as byproducts. An end product of granite weathering is grus , which is often made up of coarse-grained fragments of disintegrated granite. Climatic variations also influence the weathering rate of granites. For about two thousand years, the relief engravings on Cleopatra's Needle obelisk had survived the arid conditions of its origin before its transfer to London. Within two hundred years, the red granite has drastically deteriorated in the damp and polluted air there. [51] Soil development on granite reflects the rock's high quartz content and dearth of available bases, with the base-poor status predisposing the soil to acidification and podzolization in cool humid climates as the weather-resistant quartz yields much sand. [52] Feldspars also weather slowly in cool climes, allowing sand to dominate the fine-earth fraction. In warm humid regions, the weathering of feldspar as described above is accelerated so as to allow a much higher proportion of clay with the Cecil soil series a prime example of the consequent Ultisol great soil group. [53]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GrusSand.JPG/220px-GrusSand.JPG",
+                "caption": "Grus sand and granitoid from which it derived"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Industry",
+        "text": "Granite and related marble industries are considered one of the oldest industries in the world, existing as far back as Ancient Egypt . [61] Major modern exporters of granite include China, India, Italy, Brazil, Canada, Germany, Sweden, Spain and the United States. [62]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hilloinen_2017_2.jpg/220px-Hilloinen_2017_2.jpg",
+                "caption": "Granite dimension stone quarry in Taivassalo , Finland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Antiquity",
+        "text": "The Red Pyramid of Egypt ( c. 2590 BC ), named for the light crimson hue of its exposed limestone surfaces, is the third largest of Egyptian pyramids . Pyramid of Menkaure , likely dating 2510 BC, was constructed of limestone and granite blocks. The Great Pyramid of Giza (c. 2580 BC ) contains a huge granite sarcophagus fashioned of \"Red Aswan Granite\". The mostly ruined Black Pyramid dating from the reign of Amenemhat III once had a polished granite pyramidion or capstone, which is now on display in the main hall of the Egyptian Museum in Cairo (see Dahshur ). Other uses in Ancient Egypt include columns , door lintels , sills , jambs , and wall and floor veneer. [63] How the Egyptians worked the solid granite is still a matter of debate. Patrick Hunt [64] has postulated that the Egyptians used emery , which has greater hardness on the Mohs scale . The Seokguram Grotto in Korea is a Buddhist shrine and part of the Bulguksa temple complex. Completed in 774 AD, it is an artificial grotto constructed entirely of granite. The main Buddha of the grotto is a highly regarded piece of Buddhist art , [65] and along with the temple complex to which it belongs, Seokguram was added to the UNESCO World Heritage List in 1995. [66] Rajaraja Chola I of the Chola Dynasty in South India built the world's first temple entirely of granite in the 11th century AD in Tanjore , India . The Brihadeeswarar Temple dedicated to Lord Shiva was built in 1010. The massive Gopuram (ornate, upper section of shrine) is believed to have a mass of around 81 tonnes. It was the tallest temple in south India. [67] Imperial Roman granite was quarried mainly in Egypt, and also in Turkey, and on the islands of Elba and Giglio . Granite became \"an integral part of the Roman language of monumental architecture\". [68] The quarrying ceased around the third century AD. Beginning in Late Antiquity the granite was reused, which since at least the early 16th century became known as spolia . Through the process of case-hardening , granite becomes harder with age. The technology required to make tempered metal chisels was largely forgotten during the Middle Ages. As a result, Medieval stoneworkers were forced to use saws or emery to shorten ancient columns or hack them into discs. Giorgio Vasari noted in the 16th century that granite in quarries was \"far softer and easier to work than after it has lain exposed\" while ancient columns, because of their \"hardness and solidity have nothing to fear from fire or sword, and time itself, that drives everything to ruin, not only has not destroyed them but has not even altered their colour.\" [68]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cleopatra%27s_Needle_%28London%29_inscriptions.jpg/170px-Cleopatra%27s_Needle_%28London%29_inscriptions.jpg",
+                "caption": "Cleopatra's Needle, London"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Sculpture and memorials",
+        "text": "In some areas, granite is used for gravestones and memorials. Granite is a hard stone and requires skill to carve by hand. Until the early 18th century, in the Western world, granite could be carved only by hand tools with generally poor results. A key breakthrough was the invention of steam-powered cutting and dressing tools by Alexander MacDonald of Aberdeen , inspired by seeing ancient Egyptian granite carvings. In 1832, the first polished tombstone of Aberdeen granite to be erected in an English cemetery was installed at Kensal Green Cemetery . It caused a sensation in the London monumental trade and for some years all polished granite ordered came from MacDonald's. [69] As a result of the work of sculptor William Leslie, and later Sidney Field, granite memorials became a major status symbol in Victorian Britain. The royal sarcophagus at Frogmore was probably the pinnacle of its work, and at 30 tons one of the largest. It was not until the 1880s that rival machinery and works could compete with the MacDonald works. Modern methods of carving include using computer-controlled rotary bits and sandblasting over a rubber stencil. Leaving the letters, numbers, and emblems exposed and the remainder of the stone covered with rubber, the blaster can create virtually any kind of artwork or epitaph. The stone known as \"black granite\" is usually gabbro , which has a completely different chemical composition. [70]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Various_granites.jpg/330px-Various_granites.jpg",
+                "caption": "Granites (cut and polished surfaces)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Buildings",
+        "text": "Granite has been extensively used as a dimension stone and as flooring tiles in public and commercial buildings and monuments. Aberdeen in Scotland, which is constructed principally from local granite, is known as \"The Granite City\". Because of its abundance in New England , granite was commonly used to build foundations for homes there. The Granite Railway , America's first railroad, was built to haul granite from the quarries in Quincy, Massachusetts , to the Neponset River in the 1820s. [71]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Graniittilinna.jpg/220px-Graniittilinna.jpg",
+                "caption": "The granite castle of Aulanko in Hämeenlinna , Finland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    },
+    {
+        "section": "Curling stones",
+        "text": "Curling stones are traditionally fashioned of Ailsa Craig granite. The first stones were made in the 1750s, the original source being Ailsa Craig in Scotland . Because of the rarity of this granite, the best stones can cost as much as US$1,500. Between 60 and 70 percent of the stones used today are made from Ailsa Craig granite. Although the island is now a wildlife reserve, it is still quarried under license for Ailsa granite by Kays of Scotland for curling stones. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Curling_stones_yellow.jpg/220px-Curling_stones_yellow.jpg",
+                "caption": "Curling stones"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrological Modelling"
+    }
+]

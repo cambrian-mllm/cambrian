@@ -1,0 +1,732 @@
+[
+    {
+        "section": "Wind conditions",
+        "text": "The faster the average wind speed, the more electricity the wind turbine will generate, so faster winds are generally economically better for wind farm developments. [7] The balancing factor is that strong gusts and high turbulence require stronger more expensive turbines, otherwise there is a risk of damage. The average power in the wind is not proportional to the average wind speed. For this reason, the ideal wind conditions would be strong but consistent winds with low turbulence coming from a single direction. Mountain passes are ideal locations for wind farms under these conditions. Mountain passes channel wind, blocked by mountains, through a tunnel like pass towards areas of lower pressure and flatter land. [8] Passes used for wind farms like the San Gorgonio Pass and Altamont Pass are known for their abundant wind resource capacity and capability for large-scale wind farms. These types of passes were the first places in the 1980s to have heavily invested large-scale wind farms after approval for wind energy development by the U.S. Bureau of Land Management. From these wind farms, developers learned much about turbulence and crowding effects of large-scale wind projects, which were previously unresearched, in the U.S. due to the lack of operational wind farms large enough to conduct these types of studies. [9] Usually sites are screened on the basis of a wind atlas , and validated with on-site wind measurements via long term or permanent meteorological-tower data using anemometers and wind vanes . Meteorological wind data alone is usually not sufficient for accurate siting of a large wind power project. Collection of site specific data for wind speed and direction is crucial to determining site potential [10] [11] in order to finance the project. [12] Local winds are often monitored for a year or more, detailed wind maps are constructed, along with rigorous grid capability studies conducted, before any wind generators are installed. The wind blows faster at higher altitudes because of the reduced influence of drag. The increase in velocity with altitude is most dramatic near the surface and is affected by topography, surface roughness, and upwind obstacles such as trees or buildings. At altitudes of thousands of feet/hundreds of metres above sea level, the power in the wind decreases proportional to the decrease in air density. [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/United_States_Wind_Resources_and_Transmission_Lines_map.jpg/660px-United_States_Wind_Resources_and_Transmission_Lines_map.jpg",
+                "caption": "Map of available wind power over the United States. Colour codes indicate wind power density class."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Electricity grid considerations",
+        "text": "Often in heavily saturated energy markets, the first step in site selection for large-scale wind projects, before wind resource data collection, is finding areas with adequate available transfer capability (ATC). ATC is the measure of the remaining capacity in a transmission system available for further integration of two interconnected areas without significant upgrades to existing transmission lines and substations. Significant equipment upgrades have substantial costs, potentially undermining the viability of a project within a location, regardless of wind resource availability. [14] Once a list of capable areas is constructed, the list is refined based on long term wind measurements, among other environmental or technical limiting factors such as proximity to load and land procurement. Many independent system operators (ISOs) in the United States such as the California ISO and Midcontinent ISO use interconnection request queues to allow developers to propose a new generation for a specific given area and grid interconnection. [15] These request queues have both deposit costs at the time of request and ongoing costs for the studies the ISO will make for up to years after the request was submitted to ascertain the viability of the interconnection due to factors such as ATC. [16] Larger corporations who can afford to bid the most queues will most likely have market power as to which sites with the most resource and opportunity are eventually developed. After the deadline to request a place in the queue has passed, many firms will withdraw their requests after gauging the competition in order to make back some of the deposit for each request that is determined too risky in comparison to other larger firms' requests.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Biglow_Canyon_Wind_Farm_under_construction.jpg/350px-Biglow_Canyon_Wind_Farm_under_construction.jpg",
+                "caption": "Part of the Biglow Canyon Wind Farm , Oregon , United States with a turbine under construction"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Onshore",
+        "text": "The capacity of the world's first wind farm was 0.6 MW, produced by 20 wind turbines rated at 30 kilowatts each, installed on the shoulder of Crotched Mountain in southern New Hampshire in December 1980. [19] [20] Onshore turbine installations in hilly or mountainous regions tend to be on ridges generally three kilometres or more inland from the nearest shoreline. This is done to exploit the topographic acceleration as the wind accelerates over a ridge. The additional wind speeds gained in this way can increase energy produced because more wind goes through the turbines. The exact position of each turbine matters, because a difference of 30 metres could potentially double output. This careful placement is referred to as 'micro-siting'.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Lochgoin_from_the_air_%28geograph_6051696%29.jpg/330px-Lochgoin_from_the_air_%28geograph_6051696%29.jpg",
+                "caption": "An aerial view of Whitelee Wind Farm , the largest onshore wind farm in the UK and second-largest in Europe"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Roscoe_Wind_Farm_in_West_Texas.jpg/330px-Roscoe_Wind_Farm_in_West_Texas.jpg",
+                "caption": "Roscoe Wind Farm , an onshore wind farm, in West Texas"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Offshore",
+        "text": "Europe is the leader in offshore wind energy, with the first offshore wind farm (Vindeby) being installed in Denmark in 1991. As of 2010, there were 39 offshore wind farms in waters off Belgium, Denmark, Finland, Germany, Ireland, the Netherlands, Norway, Sweden and the United Kingdom, with a combined operating capacity of 2,396 MW. More than 100 GW (or 100,000 MW) of offshore projects are proposed or under development in Europe. The European Wind Energy Association set a target of 40 GW installed by 2020 and 150 GW by 2030. [38] As of 2017 [update] , The Walney Wind Farm in the United Kingdom is the largest offshore wind farm in the world at 659 MW , followed by the London Array (630 MW) also in the UK. Offshore wind turbines are less obtrusive than turbines on land, as their apparent size and noise is mitigated by distance. Because water has less surface roughness than land (especially deeper water), the average wind speed is usually considerably higher over open water. Capacity factors (utilisation rates) are considerably higher than for onshore locations. [39] The province of Ontario, Canada is pursuing several proposed locations in the Great Lakes , including the suspended [40] Trillium Power Wind 1 approximately 20 km from shore and over 400 MW in size. [41] Other Canadian projects include one on the Pacific west coast. [42] In 2010, there were no offshore wind farms in the United States, but projects were under development in wind-rich areas of the East Coast, Great Lakes, and Pacific coast; [38] and in late 2016 the Block Island Wind Farm was commissioned. Installation and service / maintenance of off-shore wind farms are a challenge for technology and economic operation of a wind farm. As of 2015 [update] , there are 20 jackup vessels for lifting components, but few can lift sizes above 5 MW. [44] Service vessels have to be operated nearly 24/7 (availability higher than 80% of time) to get sufficient amortisation from the wind turbines. [ citation needed ] Therefore, special fast service vehicles for installation (like Wind Turbine Shuttle) as well as for maintenance (including heave compensation and heave compensated working platforms to allow the service staff to enter the wind turbine also at difficult weather conditions) are required. So-called inertial and optical based Ship Stabilization and Motion Control systems (iSSMC) are used for that.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Windmills_and_Sailboats_on_the_Ocean_4890300941.jpg/260px-Windmills_and_Sailboats_on_the_Ocean_4890300941.jpg",
+                "caption": "Offshore wind turbines near Copenhagen , Denmark."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20210830_Windfarm_power_generation_capacity_-_offshore_capacity%2C_and_total_needed.svg/260px-20210830_Windfarm_power_generation_capacity_-_offshore_capacity%2C_and_total_needed.svg.png",
+                "caption": "Offshore windfarms, including floating windfarms, provide a small but growing fraction of total windfarm power generation. Such power generation capacity must grow substantially to help meet the IEA 's Net Zero by 2050 pathway to combat climate change. [43]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Australia",
+        "text": "The Australian Greens have been significant supporters of Australian wind farms, however the party's previous leader Bob Brown and former leader Richard Di Natale have now both expressed concerns about environmental aspects of wind turbines, particularly the potential danger they impose for birds. [66] [67]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Canunda_wind_farm_DKC1.jpg/220px-Canunda_wind_farm_DKC1.jpg",
+                "caption": "The Australian Canunda Wind Farm , South Australia at sunrise"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "China",
+        "text": "In just five years, China leapfrogged the rest of the world in wind energy production, going from 2,599 MW of capacity in 2006 to 62,733 MW at the end of 2011. [74] [75] [76] However, the rapid growth outpaced China's infrastructure and new construction slowed significantly in 2012. [77] At the end of 2009, wind power in China accounted for 25.1 gigawatts (GW) of electricity generating capacity, [78] and China has identified wind power as a key growth component of the country's economy. [79] With its large land mass and long coastline, China has exceptional wind resources. [80] Researchers from Harvard and Tsinghua University have found that China could meet all of their electricity demands from wind power by 2030. [81] By the end of 2008, at least 15 Chinese companies were commercially producing wind turbines and several dozen more were producing components. [82] Turbine sizes of 1.5 MW to 3 MW became common. Leading wind power companies in China were Goldwind , Dongfang Electric , and Sinovel [83] along with most major foreign wind turbine manufacturers. [84] China also increased production of small-scale wind turbines to about 80,000 turbines (80 MW) in 2008. Through all these developments, the Chinese wind industry appeared unaffected by the financial crisis of 2007–2008 , according to industry observers. [83] According to the Global Wind Energy Council , the development of wind energy in China, in terms of scale and rhythm, is unparalleled in the world. The National People's Congress permanent committee passed a law that requires the Chinese energy companies to purchase all the electricity produced by the renewable energy sector. [85]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Beach_Point-Lower_East_Pubnico_%28wind_farm%29.jpg/440px-Beach_Point-Lower_East_Pubnico_%28wind_farm%29.jpg",
+                "caption": "The Pubnico Wind Farm taken from Beach Point, Lower East Pubnico, Nova Scotia"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wind_farm_xinjiang.jpg/220px-Wind_farm_xinjiang.jpg",
+                "caption": "Wind farm in Xinjiang , China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Europe",
+        "text": "In 2011 the European Union had a total installed wind capacity of 93,957 MW. Germany had the third-largest capacity in the world (after China and the United States), with an installed capacity of 29,060 MW at the end of 2011. Spain had 21,674 MW, and Italy and France each had between 6,000 and 7,000 MW. [86] [87] By January 2014, the UK installed capacity was 10,495 MW. [88] But energy production can be different from capacity – in 2010, Spain had the highest European wind power production with 43 TWh compared to Germany's 35 TWh. [89] In addition to the ' London Array ', an off-shore wind farm in the Thames Estuary in the United Kingdom , with a capacity of 630 MW (the world's largest off-shore wind farm when built), other large wind farms in Europe include Fântânele-Cogealac Wind Farm near Constanța , Romania with 600 MW capacity, [90] [91] and Whitelee Wind Farm near Glasgow , Scotland which has a total capacity of 539 MW. An important limiting factor of wind power is variable power generated by wind farms. In most locations the wind blows only part of the time, which means that there has to be back-up capacity of dispatchable generation capacity to cover periods that the wind is not blowing. To address this issue it has been proposed to create a \" supergrid \" to connect national grids together [92] across western Europe , ranging from Denmark across the southern North Sea to England and the Celtic Sea to Ireland, and further south to France and Spain especially in Higueruela which was for some time the biggest wind farm in the world. [93] The idea is that by the time a low pressure area has moved away from Denmark to the Baltic Sea the next low appears off the coast of Ireland. Therefore, while it is true that the wind is not blowing everywhere all of the time, it will tend to be blowing somewhere. In July 2022, Seagreen , the world's deepest fixed-bottom wind farm, became operative. Located 26 miles off the Angus coastline, in Scotland, it has 114 turbines that generate 1.1 gigawatts (GW) of electricity. [94] [95]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Windpark_Galicia.jpg/330px-Windpark_Galicia.jpg",
+                "caption": "A wind farm in a mountainous area in Galicia , Spain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "India",
+        "text": "India has the fifth largest installed wind power capacity in the world. [96] As of 31 March 2014, the installed capacity of wind power was 21136.3 MW mainly spread across Tamil Nadu state (7253 MW). [97] [98] Wind power accounts nearly 8.5% of India's total installed power generation capacity, and it generates 1.6% of the country's power.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/A_Wind_Energy_farm_and_the_Cenotaphs%2C_the_ancient_and_the_modern%2C_Jaisalmer_Rajasthan_India.jpg/220px-A_Wind_Energy_farm_and_the_Cenotaphs%2C_the_ancient_and_the_modern%2C_Jaisalmer_Rajasthan_India.jpg",
+                "caption": "A wind farm overlooking Bada Bagh , India"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Jordan",
+        "text": "The 117 MW Tafila Wind Farm in Jordan was inaugurated in December 2015, and is the first large scale wind farm project in the region. [102]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tafila_Wind_Farm_3.jpg/220px-Tafila_Wind_Farm_3.jpg",
+                "caption": "The Tafila Wind Farm in Jordan , is the first large scale wind farm in the region."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Pakistan",
+        "text": "Pakistan has wind corridors in Jhimpir, Gharo and Keti Bundar in Sindh province and is currently developing wind power plants in Jhimpir and Mirpur Sakro (District Thatta). The government of Pakistan decided to develop wind power energy sources due to problems supplying energy to the southern coastal regions of Sindh and Balochistan. The Zorlu Energy Putin Power Plant is the first wind power plant in Pakistan. The wind farm is being developed in Jhimpir, by Zorlu Energy Pakistan the local subsidiary of a Turkish company. The total cost of the project is $136 million.[3] Completed in 2012, it has a total capacity of around 56MW. Fauji Fertilizer Company Energy Limited, has built a 49.5 MW wind Energy Farm at Jhimpir. Contract of supply of mechanical design was awarded to Nordex and Descon Engineering Limited. Nordex is a German wind turbine manufacturer. In the end of 2011 49.6 MW was expected to be completed. The Pakistani government also issued a Letter Of Interest in a 100 MW Wind power plant to FFCEL. The Pakistani government had plans to achieve electric power  generation of up to 2500 MW by the end of 2015 from wind energy to bring down an energy shortage. Currently four wind farms are operational (Fauji Fertilizer 49.5 MW (subsidiary of Fauji Foundation), Three Gorges 49.5 MW, Zorlu Energy Pakistan 56 MW, Sapphire Wind Power Company Limited 52.6 MW) and six are under construction phase ( Master Wind Energy Limited 52.6 MW, Sachal Energy Development Limited 49.5 MW, Yunus Energy Limited 49.5 MW, Gul Energy 49.5 MW, Metro Energy 49.5 MW, Tapal Energy) and were expected to achieve COD in 2017. In the Gharo wind corridor, two wind farms (Foundation Energy 1 & II each 49.5 MW) are operational while two wind farms Tenaga Generasi Limited 49.5 MW and HydroChina Dawood Power Pvt. Limited 49.5 are under construction and expected to achieve COD in 2017. According to a USAID report, Pakistan has the potential of producing 150,000 megawatts of wind energy, of which the Sindh corridor can produce 40,000 megawatts.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jhimpir_Wind_Farm_2012.jpg/220px-Jhimpir_Wind_Farm_2012.jpg",
+                "caption": "Jhimpir Wind Farm, Pakistan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "South Africa",
+        "text": "As of September 2015, a number of sizable wind farms have been constructed in South Africa mostly in the Western Cape region. These include the 100 MW Sere Wind Farm and the 138 MW Gouda Wind Facility . Most future wind farms in South Africa are earmarked for locations along the Eastern Cape coastline. [106] [107] [108] Eskom has constructed one small scale prototype windfarm at Klipheuwel in the Western Cape and another demonstrator site is near Darling with phase 1 completed. The first commercial wind farm, Coega Wind Farm in Port Elisabeth, was developed by the Belgian company Electrawinds.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gouda_Wind_Farm_2015.JPG/220px-Gouda_Wind_Farm_2015.JPG",
+                "caption": "Gouda Wind Facility , South Africa"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "United States",
+        "text": "U.S. wind power installed capacity in September 2019 exceeded 100,125 MW and supplies 6.94% of the nation's electricity. [109] The majority of wind farms in the United States are located in the Central Plains , with slow expansion into other regions of the country. New installations place the U.S. on a trajectory to generate 20% of the nation's electricity by 2030 from wind energy. [110] Growth in 2008 channeled some $17 billion into the economy, positioning wind power as one of the leading sources of new power generation in the country, along with natural gas . Wind projects completed in 2008 accounted for about 42% of the entire new power-producing capacity added in the U.S. during the year. [111] Texas , with 27,036 MW of capacity, has the most installed wind power capacity of any U.S. state, followed by Iowa with 8,965 MW and Oklahoma with 8,072 MW. [112] Iowa is the leading state in terms of wind energy accounting for nearly 40% of total energy production in 2019. The Alta Wind Energy Center (1,020 MW) in California is the nation's largest wind farm in terms of capacity. Altamont Pass Wind Farm is the largest wind farm in the U.S. in terms of the number of individual turbines. [113] At the end of 2019, about 114,000 people were employed in the U.S. wind industry, [114] and GE Energy was the largest domestic wind turbine manufacturer. [115] In 2018, US wind power provided enough electricity to power approximately 25 million homes, avoiding the emissions of 200 million tons of carbon. [116] [111]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/San_Gorgonio_Pass_Wind_Power_Plants.jpg/220px-San_Gorgonio_Pass_Wind_Power_Plants.jpg",
+                "caption": "San Gorgonio Pass wind farm , California"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Iowa_wind_farms-2.jpg/220px-Iowa_wind_farms-2.jpg",
+                "caption": "Northern Iowa wind farm"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Ground radar interference",
+        "text": "Wind farms can interfere with ground radar systems used for military , weather and air traffic control . The large, rapidly moving blades of the turbines can return signals to the radar that can be mistaken as an aircraft or weather pattern. [160] Actual aircraft and weather patterns around wind farms can be accurately detected, as there is no fundamental physical constraint preventing that, but aging radar infrastructure is significantly challenged with the task. [161] [162] The US military is using wind turbines on some bases, including Barstow near the radar test facility . [163] [164]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/NOAA_windturbine-radar-interference.gif/400px-NOAA_windturbine-radar-interference.gif",
+                "caption": "Wind farm interference (in yellow circle) on radar map"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Future development",
+        "text": "The Organisation for Economic Co-operation and Development (OECD) predicted in 2016 that offshore wind power will grow to 8% of ocean economy by 2030, and that its industry will employ 435,000 people, adding $230 billion of value. [47] The European Commission expects that offshore wind energy will be of increasing importance in the future, as offshore wind is part of its Green Deal . [48] The development of the full potential of Europe's offshore wind energy is one of the key actions in the Clean Energy section of the Green Deal. [48] By 2050, the expectation is that the installed offshore wind power capacity will reach 1550 GW on a worldwide scale. [31] Compared to the capacity of 2017 that corresponds to an 80-fold increase. [31] One of the advancements that characterises the current development within the offshore industry are technologies that allow for offshore wind projects further off the shore where wind availability is higher. In particular, the adoption of floating foundation technologies has proved to be a promising technology for unlocking the wind potential on deeper waters. [49] A main investor for Europe has been the European Investment Bank. The EIB has been investing in offshore renewable energy, co-financing around 40% of all capacity in Europe. Since 2003, the EIB has sponsored 34 offshore wind projects in Europe, including facilities in Belgium, Denmark, Germany, France, the Netherlands, Portugal, and the United Kingdom, totaling more over €10 billion in loans. The EIB funded €3.7 billion in maritime renewable energy between 2019 and 2023 and has future plans for financing of wind farms. [50] [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20210830_Windfarm_power_generation_capacity_-_offshore_capacity%2C_and_total_needed.svg/220px-20210830_Windfarm_power_generation_capacity_-_offshore_capacity%2C_and_total_needed.svg.png",
+                "caption": "Offshore windfarms, including floating windfarms, provide a small but growing fraction of total windfarm power generation. Such power generation capacity must grow substantially to help meet the IEA 's Net Zero by 2050 pathway to combat climate change . [46]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Offshore_wind_power",
+        "title": "Offshore wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Economics",
+        "text": "The advantage of locating wind turbines offshore is that the wind is much stronger off the coasts, and unlike wind over land, offshore breezes can be strong in the afternoon, matching the time when people are using the most electricity. Offshore turbines can also be located close to the load centers along the coasts, such as large cities, eliminating the need for new long-distance transmission lines. [53] However, there are several disadvantages of offshore installations, related to more expensive installation, difficulty of access, and harsher conditions for the units. Locating wind turbines offshore exposes the units to high humidity, salt water and salt water spray which negatively affect service life, cause corrosion and oxidation, increase maintenance and repair costs and in general make every aspect of installation and operation much more difficult, time-consuming, more dangerous and far more expensive than sites on land. \nThe humidity and temperature is controlled by air conditioning the sealed nacelle. [54] Sustained high-speed operation and generation also increases wear, maintenance and repair requirements proportionally. The cost of the turbine represents just one third to one half [36] of total costs in offshore projects today, the rest comes from infrastructure, maintenance, and oversight. \nCosts for foundations, installation, electrical connections and operation and maintenance (O&M) are a large share of the total for offshore installations compared to onshore wind farms.\nThe cost of installation and electrical connection also increases rapidly with distance from shore and water depth. [55] Other limitations of offshore wind power are related to the still limited number of installations. \nThe offshore wind industry is not yet fully industrialized, as supply bottlenecks still exist as of 2017. [56]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Levelized_cost_of_electricity_Germany_2018_ISE.png/220px-Levelized_cost_of_electricity_Germany_2018_ISE.png",
+                "caption": "Comparison of the levelized cost of electricity of offshore wind power compared to other sources in Germany in 2018 [52]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Offshore_wind_power",
+        "title": "Offshore wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Offshore wind resources",
+        "text": "Offshore wind resources are by their nature both huge in scale and highly dispersed, considering the ratio of the planet's surface area that is covered by oceans and seas compared to land mass. Wind speeds offshore are known to be considerably higher than for the equivalent location onshore due to the absence of land mass obstacles and the lower surface roughness of water compared to land features such as forests and savannah, a fact that is illustrated by global wind speed maps that cover both onshore and offshore areas using the same input data and methodology.  \nFor the North Sea , wind turbine energy is around 30 kWh /m 2 of sea area, per year, delivered to grid. The energy per sea area is roughly independent of turbine size. [67] The technical exploitable resource potential for offshore wind is a factor of the average wind speed and water depth, as it is only possible to generate electricity from offshore wind resources where turbines can be anchored. Currently, fixed foundation offshore wind turbines can be installed up to around 50 metres (160 ft) of sea depth. Beyond that, floating foundation turbines would be required, potentially allowing installation at depths of up to one kilometre (3,300 ft) based on currently proposed technologies. [68] Based on an analysis of viable water depths and wind speeds over seven metres per second (23 ft/s), it has been estimated that there is over 17 terawatt (TW) of offshore wind technical potential in just the 50 countries studied, not including most OECD countries such as Australia, Japan, the United States or Western Europe. Well-endowed countries such as Argentina and China have almost 2 TW and 3 TW of potential respectively, illustrating the vast potential of offshore wind in such locations. [69]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Global-Offshore-Wind-Potential-WBG-ESMAP.png/440px-Global-Offshore-Wind-Potential-WBG-ESMAP.png",
+                "caption": "Map of Global Offshore Wind Speeds ( Global Wind Atlas 3.0)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Offshore_wind_power",
+        "title": "Offshore wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Planning and permitting",
+        "text": "It is necessary to obtain several types of information in order to plan the commissioning of an offshore wind farm. These include: Existing hardware for measurements includes Light Detection and Ranging ( LIDAR ), Sonic Detection and Ranging ( SODAR ), radar , autonomous underwater vehicles (AUV), and remote satellite sensing, although these technologies should be assessed and refined, according to a report from a coalition of researchers from universities, industry, and government, supported by the Atkinson Center for a Sustainable Future . [70] Because of the many factors involved, one of the biggest difficulties with offshore wind farms is the ability to predict loads. Analysis must account for the dynamic coupling between translational (surge, sway, and heave) and rotational (roll, pitch, and yaw ) platform motions and turbine motions, as well as the dynamic characterization of mooring lines for floating systems. Foundations and substructures make up a large fraction of offshore wind systems, and must take into account every single one of these factors. [70] Load transfer in the grout between tower and foundation may stress the grout, and elastomeric bearings are used in several British sea turbines. [71] Corrosion is also a serious problem and requires detailed design considerations. The prospect of remote monitoring of corrosion looks very promising, using expertise utilised by the offshore oil/gas industry and other large industrial plants. Moreover, as power generation efficiency of wind farms downwind of offshore wind farms was found to decrease, strategic decision-making may need to consider – cross-national – limits and potentials for optimization. [72] [73] Some of the guidelines for designing offshore wind farms are set out in IEC 61400 -3, [74] [75] [76] but in the US several other standards are necessary. [77] In the European Union (EU), different national standards are to be streamlined into more cohesive guidelines to lower costs. [78] The standards require that a loads analysis is based on site-specific external conditions such as wind, wave and currents. [79] The planning and permitting phase can cost more than $10 million, take 5–7 years and have an uncertain outcome. The industry is putting pressure on governments to improve the processes. [80] [81] In Denmark , many of these phases have been deliberately streamlined by authorities in order to minimize hurdles, [82] and this policy has been extended for coastal wind farms with a concept called ’one-stop-shop’. [83] The United States introduced a similar model called \"Smart from the Start\" in 2012. [84] In the EU, the revised Renewable Energy Directive of 2018 has simplified the permitting process to help initiate wind projects. [30]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Thames_Estuary_and_Wind_Farms_from_Space_NASA_with_annotations.jpg/350px-Thames_Estuary_and_Wind_Farms_from_Space_NASA_with_annotations.jpg",
+                "caption": "Four offshore wind farms are in the Thames Estuary area: Kentish Flats , Gunfleet Sands , Thanet and London Array . The latter was the largest in the world until September 2018."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Offshore_wind_power",
+        "title": "Offshore wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Types",
+        "text": "As a general rule, fixed foundation offshore wind turbines are considered technically viable in areas with water depth less than 50 metres (160 ft) and average wind speeds over 7 metres per second (23 ft/s). [68] Floating offshore wind turbines are considered technically viable with water depths from 50 to 1,000 metres (160 to 3,280 ft). The displayed map of Vietnam provides an estimate of technical potential for that country for both fixed foundation and floating offshore wind turbines according to the water depth.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Foundations_NREL.jpg/330px-Foundations_NREL.jpg",
+                "caption": "Progression of expected wind turbine evolution to deeper water"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Vietnam_Offshore_Wind_Technical_Potential.pdf/page1-290px-Vietnam_Offshore_Wind_Technical_Potential.pdf.jpg",
+                "caption": "Estimated technical potential for fixed and floating offshore wind in Vietnam in terms of installed power capacity in megawatts (MW) within 200 kilometers of the shoreline"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ankunft_der_Tripods_in_Wilhelmshaven.jpg/220px-Ankunft_der_Tripods_in_Wilhelmshaven.jpg",
+                "caption": "Tripods foundation for offshore wind farms in 2008 in Wilhelmshaven , Germany"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Offshore_wind_power",
+        "title": "Offshore wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Fixed foundation",
+        "text": "Almost all currently operating offshore wind farms employ fixed foundation turbines, with the exception of a few pilot projects.\nFixed foundation offshore wind turbines have fixed foundations underwater, and are installed in relatively shallow waters of up to 50 to 60 metres (160 to 200 ft). [88] Types of underwater structures include monopile , tripod, and jacketed, with various foundations at the sea floor including monopile or multiple piles, gravity base , and caissons . [88] Offshore turbines require different types of bases for stability, according to the depth of water. \nTo date a number of different solutions exist: [16] [89] Monopiles up to 11 metres (36 ft) diameter at 2,000 tonnes can be made, but the largest so far are 1,300 tons which is below the 1,500 tonnes limit of some crane vessels. \nThe other turbine components are much smaller. [90] The tripod pile substructure system is a more recent concept developed to reach deeper waters than monopile systems, with depths up to 60 m possible. This technology consists of three monopiles linked together through a joint piece at the top. The main advantage of this solution is the simplicity of the installation, which is done by installing the three monopiles and then adding the upper joint. The larger base also decreases the risk of getting overturned. [91] A steel jacket structure comes from an adaptation to the offshore wind industry of concepts that have been in use in the oil and gas industry for decades. Their main advantage lies in the possibility of reaching higher depths (up to 80m). Their main limitations are due to the high construction and installation costs. [91]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Offshore_wind_foundation_types.svg/220px-Offshore_wind_foundation_types.svg.png",
+                "caption": "Most common types of fixed offshore wind foundations"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Offshore_wind_power",
+        "title": "Offshore wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Floating",
+        "text": "For locations with depths over about 60–80 m, fixed foundations are uneconomical or technically unfeasible, and floating wind turbines anchored to the ocean floor are needed. [92] [93] [94] Blue H Technologies , which was ultimately acquired by Seawind Ocean Technology , installed the world's first floating wind turbine in 2007. [95] [96] [97] Hywind is the world's first full-scale floating wind turbine, installed in the North Sea off Norway in 2009. [98] Hywind Scotland , commissioned in October 2017, is the first operational floating wind farm, with a capacity of 30 MW. Other kinds of floating turbines have been deployed, and more projects are planned.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Blue_H_Technologies_-_World%27s_First_Floating_Wind_Turbine.jpg/220px-Blue_H_Technologies_-_World%27s_First_Floating_Wind_Turbine.jpg",
+                "caption": "Blue H Technologies - World's First Floating Wind Turbine"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Offshore_wind_power",
+        "title": "Offshore wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Installation",
+        "text": "Specialized jackup rigs ( wind turbine installation vessels ) are used to install foundation and turbine. As of 2019 [update] the next generation of vessels are being built, capable of lifting 3–5,000 tons to 160 metres (520 ft). [101] The large components can be difficult to install, and gyroscopes can improve handling precision. [102] Dynamic positioning has also been used to keep the vibrating pile driver steady when installing foundations. [103] A large number of monopile foundations have been used in recent years for economically constructing fixed-bottom offshore wind farms in shallow-water locations. [104] [105] Each uses a single, generally large-diameter, foundation structural element to support all the loads (weight, wind, etc.) of a large above-surface structure. Other types are tripods (steel) and gravity base foundations (concrete). The typical construction process for a wind turbine sub-sea monopile foundation in sand includes using a pile driver to drive a large hollow steel pile 25 metres (82 ft) deep into the seabed, through a 0.5-metre (20 in) layer of larger stone and gravel to minimize erosion around the pile. These piles can be four metres (13 ft) in diameter with approximately 50-millimetre (2.0 in) thick walls. \nA transition piece (complete with pre-installed features such as boat-landing arrangement, cathodic protection , cable ducts for sub-marine cables, turbine tower flange, etc.) is attached to the now deeply driven pile, the sand and water are removed from the centre of the pile and replaced with concrete . An additional layer of even larger stone, up to 0.5 m diameter, is applied to the surface of the seabed for longer-term erosion protection. [105] For the ease of installing the towers and connecting them to the seabed, they are installed in two parts, the portion below the water surface and the portion above the water. [99] The two portions of the tower are joined by a transition piece which is filled with a grouted connection. The grouted connection helps transfer the loads experienced by the turbine tower to the more stable monopile foundation of the turbine. One technique for strengthening the grout used in the connections is to include weld beads known as shear keys along the length of the grout connection to prevent any sliding between the monopile and the tower. [106] Offshore wind turbine components are large. Transporting of components between manufacturing and assembling facilities before the installation is to be minimized. As a result, offshore wind port facilities have been specifically built in the regions with high concentration of offshore wind developments. [107] For large offshore wind farm projects, offshore wind ports become strategic hubs of the supply chain for the installations. [108]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2012-02-22-Fotoflugkurs_Cuxhaven-Einsamer_Sch%C3%BCtze_140.JPG/220px-2012-02-22-Fotoflugkurs_Cuxhaven-Einsamer_Sch%C3%BCtze_140.JPG",
+                "caption": "Several foundation structures for offshore wind turbines in the port of Bremerhaven"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Offshore_wind_power",
+        "title": "Offshore wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Grid connection",
+        "text": "There are several different types of technologies that are being explored as viable options for integrating offshore wind power into the onshore grid. The most conventional method is through high-voltage alternating current (HVAC) transmission lines. HVAC transmission lines are currently the most commonly used form of grid connections for offshore wind turbines. [113] However, there are significant limitations that prevent HVAC from being practical, especially as the distance to offshore turbines increases. First, HVAC is limited by cable charging currents, [113] which are a result of capacitance in the cables. Undersea AC cables have a much higher capacitance than overhead AC cables, so losses due to capacitance become much more significant, and the voltage magnitude at the receiving end of the transmission line can be significantly different from the magnitude at the generating end. In order to compensate for these losses, either more cables or reactive compensation must be added to the system. Both of these add costs to the system. [113] Additionally, because HVAC cables have both real and reactive power flowing through them, there can be additional losses. [114] Because of these losses, underground HVAC lines are limited in how far they can extend. The maximum appropriate distance for HVAC transmission for offshore wind power is considered to be around 80 kilometres (50 mi). [113] Using high-voltage direct current (HVDC) cables has been a proposed alternative to using HVAC cables. HVDC transmission cables are not affected by the cable charging currents and experience less power loss because HVDC does not transmit reactive power. [115] With less losses, undersea HVDC lines can extend much farther than HVAC. This makes HVDC preferable for siting wind turbines very far offshore. However, HVDC requires power converters in order to connect to the AC grid. Both line commutated converters (LCCs) and voltage source converters (VSCs) have been considered for this. Although LCCs are a much more widespread technology and cheaper, VSCs have many more benefits, including independent active power and reactive power control . [115] New research has been put into developing hybrid HVDC technologies that have a LCC connected to a VSC through a DC cable. [115] In order to transport the energy from offshore wind turbines to onshore energy plants, cabling has to be placed along the ocean floor. The cabling has to be able to transfer large amounts of current efficiently which requires optimization of the materials used for the cabling as well as determining cable paths for the use of a minimal amount of cable materials. [99] One way to reduce the cost of the cables used in these applications is to convert the copper conductors to aluminum conductors, however the suggested replacement brings up an issue of increased cable motion and potential damage since aluminum is less dense than copper.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dolwin_Beta_%2814823021740%29.jpg/220px-Dolwin_Beta_%2814823021740%29.jpg",
+                "caption": "An offshore structure for housing an HVDC converter station for offshore wind parks is being moved by a heavy-lift ship in Norway."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Offshore_wind_power",
+        "title": "Offshore wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Maintenance",
+        "text": "Turbines are much less accessible when offshore (requiring the use of a service vessel or helicopter for routine access, and a jackup rig for heavy service such as gearbox replacement), and thus reliability is more important than for an onshore turbine. [1] Some wind farms located far from possible onshore bases have service teams living on site in offshore accommodation units . [117] To limit the effects of corrosion on the blades of a wind turbine, a protective tape of elastomeric materials is applied, though the droplet erosion protection coatings provide better protection from the elements. [118] Impressed current cathodic protection (ICCP) is used to protect wind turbine monopiles and floating wind turbine platforms. ICCP systems are increasingly popular as a solution against corrosion, as they do not require on-site monitoring, and are more eco-friendly and cost-effective than traditional galvanic systems. While traditional galvanic anode cathodic protection (GACP) systems operate on the natural driving force between two metals, ICCP systems use a continuous external power source. [ citation needed ] A maintenance organization performs maintenance and repairs of the components, spending almost all its resources on the turbines. The conventional way of inspecting the blades is for workers to rappel down the blade, taking a day per turbine. Some farms inspect the blades of three turbines per day by photographing them from the monopile through a 600mm telephoto lens , avoiding to go up. [119] Others use camera drones . [120] Because of their remote nature, prognosis and health-monitoring systems on offshore wind turbines will become much more necessary. They would enable better planning just-in-time maintenance, thereby reducing the operations and maintenance costs. According to a report from a coalition of researchers from universities, industry, and government (supported by the Atkinson Center for a Sustainable Future ), [70] making field data from these turbines available would be invaluable in validating complex analysis codes used for turbine design. Reducing this barrier would contribute to the education of engineers specializing in wind energy.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/P1280269_-_R%C3%B8dsand_I_Offshore_Wind_Farm_in_Fehmarn_Belt.jpg/220px-P1280269_-_R%C3%B8dsand_I_Offshore_Wind_Farm_in_Fehmarn_Belt.jpg",
+                "caption": "Offshore wind turbines of the Rødsand Wind Farm in the Fehmarn Belt , the western part of the Baltic Sea between Germany and Denmark (2010)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Offshore_wind_power",
+        "title": "Offshore wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Projects",
+        "text": "Most of the current projects are in European and East Asian waters. There are also several proposed developments in North America.\nProjects are under development in the United States in wind-rich areas of the East Coast, Great Lakes, and Pacific coast. \nIn January 2012, a \"Smart for the Start\" regulatory approach was introduced, designed to expedite the siting process while incorporating strong environmental protections. \nSpecifically, the Department of Interior approved “wind energy areas” off the coast where projects can move through the regulatory approval process more quickly. [175] The first offshore wind farm in the USA is the 30-megawatt, 5 turbine Block Island Wind Farm which was commissioned in December 2016. [176] [177] Many sportfishermen and marine biologists believe the bases of the five, 6-megawatt wind turbines off of Block Island are acting as an artificial reef. [178] Another offshore wind farm that is in the planning phase is off the coast of Virginia Beach . On 3 August 2018, Dominion Energy announced its two wind turbine pilot program that will be 27 miles offshore from Virginia Beach. The area is undergoing a survey that will last for 4–6 weeks. [179] Canadian wind power in the province of Ontario is pursuing several proposed locations in the Great Lakes , including the suspended [180] Trillium Power Wind 1 approximately 20 km from shore and over 400 MW in capacity. [181] Other Canadian projects include one on the Pacific west coast. [182] India is looking at the potential of offshore wind power plants, with a 100 MW demonstration plant being planned off the coast of Gujarat (2014). [183] In 2013, a group of organizations, led by Global Wind Energy Council (GWEC) started project FOWIND (Facilitating Offshore Wind in India) to identify potential zones for development of off-shore wind power in India and to stimulate R & D activities in this area. In 2014 FOWIND commissioned Center for Study of Science, Technology and Policy (CSTEP) to undertake pre-feasibility studies in eight zones in Tamil Nadu which have been identified as having potential. [184] The Netherlands announced on 11 February 2022 that the government increased its offshore wind target to 21 GW by 2030. That would meet approximately 75% of the countries electricity needs. With this, offshore wind energy makes an important contribution to achieving the increased climate target of 55% less CO 2 -emissions. [185]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/DanishWindTurbines.jpg/440px-DanishWindTurbines.jpg",
+                "caption": "Middelgrunden offshore wind farm, 3.5 km outside Copenhagen , Denmark"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Offshore_wind_power",
+        "title": "Offshore wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Siemens Healthineers",
+        "text": "Siemens Healthineers AG is a publicly listed company that was spun off from Siemens in 2017. As of 2022, Siemens retains a 75% majority stake in Siemens Healthineers. [6] As a global provider of healthcare solutions [ buzzword ] and services, its range of offerings includes the manufacture and sale of diagnostic and therapeutic products, clinical consulting, and a variety of training services. Its operations are divided into four main sectors: imaging , diagnostics , Varian Medical Systems , and advanced therapies. Imaging includes magnetic resonance , computed tomography , X-ray , molecular imaging , and ultrasound devices. The diagnostics segment offers in-vitro diagnostic products for laboratory and point-of-care settings. Varian, an American company acquired by Siemens Healthineers in 2021, covers technologies related to cancer care , and advanced therapies focus on image-guided minimally invasive procedures . [6]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SPECT_CT.JPG/220px-SPECT_CT.JPG",
+                "caption": "A Siemens SPECT/CT scanner in operation"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Siemens",
+        "title": "Siemens",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Location and access",
+        "text": "The Port of Paulsboro is one of several in the Delaware Valley metro area and is situated on the east banks of the Delaware River in Gloucester County, New Jersey , across from Philadelphia International Airport . The  96-acre (38.8 ha) site of Fort Billingsport was the first land purchase by the United States government, made by the Continental Congress on July 5, 1776. [10] The port was first developed to handle petroleum products in 1917 by the Vacuum Oil Company . [11] The Port of Paulsboro has been used to refer to the marine transfer operations at Thompson Point in Greenwich Township , Gibbstown ( Greenwich Township ), Billingsport , Mantua Creek , Eagle Point in West Deptford Township , and Westville . [12] It is a port of entry in United States Citizenship and Immigration Services (USCIS) District 21, which covers New Jersey. [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tinicum_island_rear_light.JPG/220px-Tinicum_island_rear_light.JPG",
+                "caption": "Tinicum Island Rear Range Light"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Port_of_Paulsboro",
+        "title": "Port of Paulsboro",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Petroleum",
+        "text": "As of 2010, crude oil accounted for more than half of all annual cargo tonnage on the Delaware River. [18] [27] Several refineries and oil depots in Paulsboro, Greenwich Township , and West Deptford Township have operated at the port since the first was developed in 1917. At various times, Citgo , Mobil , BP , Sun Oil , Valero , PBF Energy , and NuStar Energy have maintained facilities adjacent to the port, as has General American Transportation Corporation (GATX). [28] [29] [30] In addition to maritime transfer operations, the petroleum facilities are also served by tanker trucks , rail transport , and pipelines , including one to the Philadelphia Airport across the river [31] and one to nearby junction with the Colonial Pipeline system. [32]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/MOBIL_OIL_AT_PAULSBORO%2C_NEW_JERSEY_ON_THE_DELAWARE_RIVER_SEEN_FROM_PHILADELPHIA_-_NARA_-_552717.tif/lossy-page1-220px-MOBIL_OIL_AT_PAULSBORO%2C_NEW_JERSEY_ON_THE_DELAWARE_RIVER_SEEN_FROM_PHILADELPHIA_-_NARA_-_552717.tif.jpg",
+                "caption": "View across Delaware River to Paulsboro Refinery"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/%22Mobil_Valiant%22PaulsboroNJ.jpg/220px-%22Mobil_Valiant%22PaulsboroNJ.jpg",
+                "caption": "Mobil Valiant, 1965"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Port_of_Paulsboro",
+        "title": "Port of Paulsboro",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Facilities",
+        "text": "The Paulsboro Refinery is a 950-acre (380 ha) facility abutting Paulsboro in adjacent Gibbstown [11] (Greenwich Township) and processes medium-to-heavy sour crude oils to produce unbranded gasoline, heating oil, and jet fuel. It is one of only two facilities on the East Coast able to process petroleum coke . [33] It became a Special Purpose Subzone 142A of Foreign Trade Zone (FTZ) No. 142 in 1995. [28] [34] In 1998, Valero Energy Corporation purchased the facility from Mobil [35] and in 2010 sold it to PBF [36] [37] with backing from Blackstone Group and First Reserve Corporation . [38] Construction of a new tanker berth was completed in 2010 by Weeks Marine . [39] In 2019, PDF received special permission to receive liquified natural gas to the plant via rail. [40] The Eagle Point Refinery in West Deptford Township was a 1,000-acre (400 ha) oil refinery that had once been a tomato-processing factory and became a U.S. Army munitions depot during World Wars I and II. The property was acquired by Texaco and began refining operations in 1949. [41] It was purchased by Coastal Oil in May 1985 [42] and in 1997 became foreign trade Special Purpose Subzone 142C. [28] In January 2004, it was bought by Sunoco , which announced its permanent closure in 2010. [42] The plant is being disassembled by 2015 so that a new facility can be planned by Sunoco. [43] Its adjacent tank farm, with tanker truck, rail, pipeline, and marine transfer operations, remain active. [44] [45] The Paulsboro Terminal started as an oil depot during World War I. In 1929, Patterson Oil further developed the property as an oil storage and fueling terminal. Eastern Gas & Fuels took over in 1954 and completed the terminal expansion. It sold the terminal in 1960 to Sinclair Refining Corporation . In 1969, after Sinclair and Atlantic Richfield Company merged, BP bought the property. The 130-acre (53 ha) facility stopped operations in 1996 and is being redeveloped as part of the new omniport. [46] [47] The Citgo Asphalt Refining Company (CARCO) asphalt refinery on the east side of Mantua Creek was purchased by NuStar Energy in 2007. [48] It became foreign trade Special Purpose Subzone 142B in 1996. [28] [49] NuStar also owned a small tank farm with a truck transport terminal in Billingsport . [50] In 2008 NuStar sold half its business to Lindsay Goldberg, which bought the company outright in February 2014, renaming it Axeon Specialty Products. The asphalt refinery, ranked as America's largest, was scheduled to close in 2017. [51] [52] The Plains Terminal [53] is a petroleum products storage and marine transfer facility in Billingsport which expanded its tank farm with eight new storage tanks in 2009. [54] [55] It has been owned by ExxonMobil , GATX Terminals Corporation , which was taken over by Kinder Morgan , and by Support Terminals Operating Partnership (a NuStar subsidiary). [56] In 2012, Plains All American Pipeline and previous owners settled with NJ DEP to remediate hazardous substances in the soil at the site. [57] [58] It has been part of a foreign trade Special Purpose Subzone 142A since 1995. [28] [34] In 2019, the New Jersey Attorney General announced it would sue ExxonMobil for releasing toxic waste into Mantua Creek. [59]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Athos1_Delaware_River.tiff/lossless-page1-220px-Athos1_Delaware_River.tiff.png",
+                "caption": "Athos 1 oil spill"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Port_of_Paulsboro",
+        "title": "Port of Paulsboro",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Paulsboro Marine Terminal",
+        "text": "The South Jersey Port Corporation (SJPC) operates three terminals at the Port of Camden and one at the Port of Salem . [69] The agency is working with Gloucester County Improvement Authority (GCIA) to develop a deep water omniport at the confluence of the Delaware River and Mantua Creek . Estimated to cost $274 million, construction began in the fall of 2009 for the marine terminal on brownfield sites at 130 acres (53 ha) of a former BP crude oil and petrochemical storage facility and 60 acres (24 ha) of a former chemical plant of Dow Chemical . [68] [70] [71] [72] [73] The Paulsboro Marine Terminal will include an industrial park and is designed to integrate changing needs for industrial manufacturing, value-added processing, and distribution space, and to provide complete intermodal freight transport capabilities. [70] [74] [75] The terminal will handle a diversity of bulk and break bulk cargo , as well as shipping containers . [76] New infrastructure includes a wharf , warehouse space, sewers with storm water retention, roadway access, and rail infrastructure. [70] [74] [76] [77] It will include facility connections to the adjacent solar power facility. [76] Originally scheduled to be opened in 2012, it was later postponed to 2013. [76] [78] Infrastructure construction work is being completed in phases and installation of the terminal facilities has been delayed further by a lack of commercial clients. [77] The SJPC has preliminary Memoranda of Understanding with a number of companies. [75] Dole Food Company considered relocating import operations, [73] [79] but in August 2013 decided to remain at the Port of Wilmington (Delaware) . [80] In July 2014, SJPC and Holt Logistics announced that the company would possibly move some of their operations to Paulsboro as part of land exchange deal in the Port of Camden . [81] [82] The first tenant, NMLK Steel , will occupy approximately 40 acres of the port to bring steel slabs and transload them onto rail cars for distribution throughout the country. [82]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wind_turbine_%28xndr%29.jpg/220px-Wind_turbine_%28xndr%29.jpg",
+                "caption": "The port is slated to become a wind turbine manufacturing and staging area, such as above"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Port_of_Paulsboro",
+        "title": "Port of Paulsboro",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Docks",
+        "text": "Planned dock capacity would allow for a 550 feet (170 m) long barge mooring and 2,400 feet (730 m) of deep water berths of 40 feet (12 m) at Mean Low Water (MLW) that would also accommodate three Handymax size vessels. [74] [76] [77] [94] Construction of bulkheads is designed to protect submerged aquatic vegetation . [74] The final wharf construction, which had been previously bid by three companies in 2012, may be delayed until 2016, pending signed lease agreements by South Jersey Port Corporation with companies that will use the port. Shippers and industrial companies can require a different range of wharf specifications, depending on the finished goods, materials, and commodities they handle. [77]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Doric_Warrior_-_IMO_9453511_photo-1.JPG/220px-Doric_Warrior_-_IMO_9453511_photo-1.JPG",
+                "caption": "Doric Warrior (as seen in the Netherlands) was the first ship to arrive at new marine terminal"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Port_of_Paulsboro",
+        "title": "Port of Paulsboro",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Modes",
+        "text": "A mode of transport is a solution that makes use of a certain type of vehicle, infrastructure, and operation. The transport of a person or of cargo may involve one mode or several of the modes, with the latter case being called inter-modal or multi-modal transport. Each mode has its own advantages and disadvantages, and will be chosen on the basis of cost, capability, and route. Governments deal with the way the vehicles are operated, and the procedures set for this purpose, including financing, legalities, and policies. In the transport industry, operations and ownership of infrastructure can be either public or private, depending on the country and mode. Passenger transport may be public , where operators provide scheduled services, or private . Freight transport has become focused on containerization , although bulk transport is used for large volumes of durable items. Transport plays an important part in economic growth and globalization , but most types cause air pollution and use large amounts of land . While it is heavily subsidized by governments, good planning of transport is essential to make traffic flow and restrain urban sprawl .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Manchester_Transport_Montage.jpg/220px-Manchester_Transport_Montage.jpg",
+                "caption": "Various modes of transport in Manchester, England"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Transport",
+        "title": "Transport",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Human-powered",
+        "text": "Human-powered transport, a form of sustainable transport , is the transport of people or goods using human muscle-power, in the form of walking , running , and swimming . Modern technology has allowed machines to enhance human power. Human-powered transport remains popular for reasons of cost-saving, leisure , physical exercise , and environmentalism ; it is sometimes the only type available, especially in underdeveloped or inaccessible regions. Although humans are able to walk without infrastructure, the transport can be enhanced through the use of roads, especially when using the human power with vehicles, such as bicycles and inline skates . Human-powered vehicles have also been developed for difficult environments, such as snow and water, by watercraft rowing and skiing ; even the air can be entered with human-powered aircraft .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sherpa_carrying_woods.JPG/170px-Sherpa_carrying_woods.JPG",
+                "caption": "Human-powered transport remains common in developing countries."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Transport",
+        "title": "Transport",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Air",
+        "text": "A fixed-wing aircraft , commonly called an airplane, is a heavier-than-air craft where movement of the air in relation to the wings is used to generate lift. The term is used to distinguish this from rotary-wing aircraft , where the movement of the lift surfaces relative to the air generates lift. A gyroplane is both fixed-wing and rotary wing. Fixed-wing aircraft range from small trainers and recreational aircraft to large airliners and military cargo aircraft. Two things necessary for aircraft are air flow over the wings for lift and an area for landing . The majority of aircraft also need an airport with the infrastructure for maintenance, restocking, and refueling and for the loading and unloading of crew, cargo, and passengers. [1] While the vast majority of aircraft land and take off on land, some are capable of take-off and landing on ice, snow, and calm water. The aircraft is the second fastest method of transport, after the rocket . Commercial jets can reach up to 955 kilometres per hour (593 mph), single-engine aircraft 555 kilometres per hour (345 mph). Aviation is able to quickly transport people and limited amounts of cargo over longer distances, but incurs high costs and energy use; for short distances or in inaccessible places, helicopters can be used. [2] As of April 28, 2009, The Guardian article notes that \"the WHO estimates that up to 500,000 people are on planes at any time.\" [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Airfrance.a318-100.f-guga.arp.jpg/220px-Airfrance.a318-100.f-guga.arp.jpg",
+                "caption": "An Air France Airbus A318 landing at London Heathrow Airport"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Transport",
+        "title": "Transport",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Rail",
+        "text": "Rail transport is where a train runs along a set of two parallel steel rails, known as a railway or railroad. The rails are anchored perpendicular to ties (or sleepers) of timber, concrete, or steel, to maintain a consistent distance apart, or gauge . The rails and perpendicular beams are placed on a foundation made of concrete or compressed earth and gravel in a bed of ballast. Alternative methods include monorail and maglev . A train consists of one or more connected vehicles that operate on the rails. Propulsion is commonly provided by a locomotive , that hauls a series of unpowered cars, that can carry passengers or freight. The locomotive can be powered by steam , by diesel , or by electricity supplied by trackside systems . Alternatively, some or all the cars can be powered, known as a multiple unit . Also, a train can be powered by horses , cables , gravity , pneumatics , and gas turbines . Railed vehicles move with much less friction than rubber tires on paved roads, making trains more energy efficient , though not as efficient as ships. Intercity trains are long-haul services connecting cities; [4] modern high-speed rail is capable of speeds up to 350 km/h (220 mph), but this requires specially built track. Regional and commuter trains feed cities from suburbs and surrounding areas, while intra-urban transport is performed by high-capacity tramways and rapid transits , often making up the backbone of a city's public transport. Freight trains traditionally used box cars , requiring manual loading and unloading of the cargo . Since the 1960s, container trains have become the dominant solution for general freight, while large quantities of bulk are transported by dedicated trains.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ICE1_Schellenberg.jpg/220px-ICE1_Schellenberg.jpg",
+                "caption": "Intercity Express , a German high-speed passenger train"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Monday_morning_rush_at_Xi%27erqi_Station%2C_southbound_%2820170904084423%29.jpg/220px-Monday_morning_rush_at_Xi%27erqi_Station%2C_southbound_%2820170904084423%29.jpg",
+                "caption": "The Beijing Subway is one of the world's largest and busiest rapid transit networks."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Transport",
+        "title": "Transport",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Road",
+        "text": "A road is an identifiable route , way, or path between two or more places . [5] Roads are typically smoothed, paved , or otherwise prepared to allow easy travel; [6] though they need not be, and historically many roads were simply recognizable routes without any formal construction or maintenance . [7] In urban areas , roads may pass through a city or village and be named as streets , serving a dual function as urban space easement and route. [8] The most common road vehicle is the automobile; a wheeled passenger vehicle that carries its own motor . Other users of roads include buses , trucks , motorcycles , bicycles , and pedestrians . As of 2010, there were 1.015 billion automobiles worldwide.\nRoad transport offers complete freedom to road users to transfer the vehicle from one lane to the other and from one road to another according to the need and convenience. This flexibility of changes in location, direction, speed, and timings of travel is not available to other modes of transport. It is possible to provide door-to-door service only by road transport. Automobiles provide high flexibility with low capacity, but require high energy and area use, and are the main source of harmful noise and air pollution in cities; [9] buses allow for more efficient travel at the cost of reduced flexibility. [4] Road transport by truck is often the initial and final stage of freight transport.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/High_Five.jpg/220px-High_Five.jpg",
+                "caption": "Road transport"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Transport",
+        "title": "Transport",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Water",
+        "text": "Water transport is movement by means of a watercraft —such as a barge , boat , ship , or sailboat —over a body of water, such as a sea , ocean , lake , canal , or river . The need for buoyancy is common to watercraft, making the hull a dominant aspect of its construction, maintenance, and appearance. In the 19th century, the first steam ships were developed, using a steam engine to drive a paddle wheel or propeller to move the ship. The steam was produced in a boiler using wood or coal and fed through a steam external combustion engine . Now most ships have an internal combustion engine using a slightly refined type of petroleum called bunker fuel . Some ships, such as submarines , use nuclear power to produce the steam. Recreational or educational craft still use wind power, while some smaller craft use internal combustion engines to drive one or more propellers or, in the case of jet boats, an inboard water jet. In shallow draft areas, hovercraft are propelled by large pusher-prop fans. (See Marine propulsion .) Although it is slow compared to other transport, modern sea transport is a highly efficient method of transporting large quantities of goods. Commercial vessels , nearly 35,000 in number, carried 7.4 billion tons of cargo in 2007. [10] Transport by water is significantly less costly than air transport for transcontinental shipping ; [11] short sea shipping and ferries remain viable in coastal areas. [12] [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Jadrolinija_supetar_ferry.JPG/220px-Jadrolinija_supetar_ferry.JPG",
+                "caption": "Automobile ferry in Croatia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Transport",
+        "title": "Transport",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Other modes",
+        "text": "Pipeline transport sends goods through a pipe ; most commonly liquid and gases are sent, but pneumatic tubes can also send solid capsules using compressed air. For liquids/gases, any chemically stable liquid or gas can be sent through a pipeline. Short-distance systems exist for sewage , slurry , water , and beer , while long-distance networks are used for petroleum and natural gas . Cable transport is a broad mode where vehicles are pulled by cables instead of an internal power source. It is most commonly used at steep gradient . Typical solutions include aerial tramways , elevators , and ski lifts ; some of these are also categorized as conveyor transport. Spaceflight is transport outside Earth's atmosphere by means of a spacecraft . It is most frequently used for satellites placed in Earth orbit. However, human spaceflight mission have landed on the Moon and are occasionally used to rotate crew-members to space stations . Uncrewed spacecraft have also been sent to all the planets of the Solar System. Suborbital spaceflight is the fastest of the existing and planned transport systems from a place on Earth to a distant \"other place\" on Earth. Faster transport could be achieved through part of a low Earth orbit or by following that trajectory even faster, using the propulsion of the rocket to steer it.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Trans-Alaska_Pipeline_System_Luca_Galuzzi_2005.jpg/220px-Trans-Alaska_Pipeline_System_Luca_Galuzzi_2005.jpg",
+                "caption": "Trans-Alaska Pipeline for crude oil"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Transport",
+        "title": "Transport",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Infrastructure",
+        "text": "Infrastructure is the fixed installations that allow a vehicle to operate. It consists of a roadway, a terminal, and facilities for parking and maintenance. For rail, pipeline, road, and cable transport, the entire way the vehicle travels must be constructed. Air and watercraft are able to avoid this, since the airway and seaway do not need to be constructed. However, they require fixed infrastructure at terminals. Terminals such as airports, ports, and stations, are locations where passengers and freight can be transferred from one vehicle or mode to another. For passenger transport, terminals are integrating different modes to allow riders, who are interchanging between modes, to take advantage of each mode's benefits. For instance, airport rail links connect airports to the city centres and suburbs. The terminals for automobiles are parking lots , while buses and coaches can operate from simple stops. [14] For freight, terminals act as transshipment points, though some cargo is transported directly from the point of production to the point of use. The financing of infrastructure can either be public or private . Transport is often a natural monopoly and a necessity for the public; roads, and in some countries railways and airports, are funded through taxation . New infrastructure projects can have high costs and are often financed through debt . Many infrastructure owners, therefore, impose usage fees, such as landing fees at airports or toll plazas on roads. Independent of this, authorities may impose taxes on the purchase or use of vehicles. Because of poor forecasting and overestimation of passenger numbers by planners, there is frequently a benefits shortfall for transport infrastructure projects. [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GoldenGateBridge_BakerBeach_MC.jpg/220px-GoldenGateBridge_BakerBeach_MC.jpg",
+                "caption": "Bridges, such as Golden Gate Bridge , allow roads and railways to cross bodies of water."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tampereen_rantatunneli.jpg/220px-Tampereen_rantatunneli.jpg",
+                "caption": "Tunnels, such as the Tampere Tunnel , allow traffic to pass underground or through rock formations."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Transport",
+        "title": "Transport",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Vehicles",
+        "text": "A vehicle is a non-living device that is used to move people and goods. Unlike the infrastructure, the vehicle moves along with the cargo and riders. Unless being pulled/pushed by a cable or muscle-power, the vehicle must provide its own propulsion; this is most commonly done through a steam engine , combustion engine , electric motor , jet engine , or rocket , though other means of propulsion also exist. Vehicles also need a system of converting the energy into movement; this is most commonly done through wheels , propellers , and pressure . Vehicles are most commonly staffed by a driver . However, some systems, such as people movers and some rapid transits, are fully automated . For passenger transport, the vehicle must have a compartment, seat, or platform for the passengers. Simple vehicles, such as automobiles, bicycles, or simple aircraft, may have one of the passengers as a driver. Recently, the progress related to the Fourth Industrial Revolution has brought a lot of new emerging technologies for transportation and automotive fields such as Connected Vehicles and Autonomous Driving. These innovations are said to form future mobility, but concerns remain on safety and cybersecurity, particularly concerning connected and autonomous mobility. [16]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/1992_Fiat_Uno_IE_1.0_Front.jpg/220px-1992_Fiat_Uno_IE_1.0_Front.jpg",
+                "caption": "A Fiat Uno in 2018"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Transport",
+        "title": "Transport",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Operation",
+        "text": "Private transport is only subject to the owner of the vehicle, who operates the vehicle themselves. For public transport and freight transport, operations are done through private enterprise or by governments . The infrastructure and vehicles may be owned and operated by the same company, or they may be operated by different entities. Traditionally, many countries have had a national airline and national railway . Since the 1980s, many of these have been privatized . International shipping remains a highly competitive industry with little regulation, [17] but ports can be public-owned. [18]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Incheon_International_Airport.jpg/220px-Incheon_International_Airport.jpg",
+                "caption": "Incheon International Airport , South Korea"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Transport",
+        "title": "Transport",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Passenger",
+        "text": "Passenger transport, or travel, is divided into public and private transport . Public transport is scheduled services on fixed routes, while private is vehicles that provide ad hoc services at the riders desire. The latter offers better flexibility, but has lower capacity and a higher environmental impact. Travel may be as part of daily commuting or for business , leisure, or migration . Short-haul transport is dominated by the automobile and mass transit. The latter consists of buses in rural and small cities, supplemented with commuter rail, trams, and rapid transit in larger cities. Long-haul transport involves the use of the automobile, trains, coaches , and aircraft, the last of which have become predominantly used for the longest, including intercontinental, travel. Intermodal passenger transport is where a journey is performed through the use of several modes of transport; since all human transport normally starts and ends with walking, all passenger transport can be considered intermodal. Public transport may also involve the intermediate change of vehicle, within or across modes, at a transport hub , such as a bus or railway station . Taxis and buses can be found on both ends of the public transport spectrum. Buses are the cheapest mode of transport but are not necessarily flexible, and taxis are very flexible but more expensive. In the middle is demand-responsive transport , offering flexibility whilst remaining affordable. International travel may be restricted for some individuals due to legislation and visa requirements.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ACTION_Bus-467.jpg/220px-ACTION_Bus-467.jpg",
+                "caption": "A local transit bus operated by ACTION in Canberra , Australia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Transport",
+        "title": "Transport",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Medical",
+        "text": "An ambulance is a vehicle used to transport people from or between places of treatment, [21] and in some instances will also provide out-of-hospital medical care to the patient. The word is often associated with road-going \"emergency ambulances\", which form part of emergency medical services , administering emergency care to those with acute medical problems. Air medical services is a comprehensive term covering the use of air transport to move patients to and from healthcare facilities and accident scenes. Personnel provide comprehensive prehospital and emergency and critical care to all types of patients during aeromedical evacuation or rescue operations, aboard helicopters, propeller aircraft, or jet aircraft. [22] [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/World_War_I_ambulance_Pittsburgh_20th_Century_Club.png/220px-World_War_I_ambulance_Pittsburgh_20th_Century_Club.png",
+                "caption": "An ambulance from World War I"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Transport",
+        "title": "Transport",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Freight",
+        "text": "Freight transport, or shipping, is a key in the value chain in manufacturing. [24] With increased specialization and globalization , production is being located further away from consumption, rapidly increasing the demand for transport. [25] Transport creates place utility by moving the goods from the place of production to the place of consumption. [26] While all modes of transport are used for cargo transport, there is high differentiation between the nature of the cargo transport, in which mode is chosen. [27] Logistics refers to the entire process of transferring products from producer to consumer, including storage, transport, transshipment, warehousing, material-handling, and packaging, with associated exchange of information. [28] Incoterm deals with the handling of payment and responsibility of risk during transport. [29] Containerization , with the standardization of ISO containers on all vehicles and at all ports, has revolutionized international and domestic trade , offering a huge reduction in transshipment costs. Traditionally, all cargo had to be manually loaded and unloaded into the haul of any ship or car; containerization allows for automated handling and transfer between modes, and the standardized sizes allow for gains in economy of scale in vehicle operation. This has been one of the key driving factors in international trade and globalization since the 1950s. [30] Bulk transport is common with cargo that can be handled roughly without deterioration; typical examples are ore , coal, cereals , and petroleum . Because of the uniformity of the product, mechanical handling can allow enormous quantities to be handled quickly and efficiently. The low value of the cargo combined with high volume also means that economies of scale become essential in transport, and gigantic ships and whole trains are commonly used to transport bulk. Liquid products with sufficient volume may also be transported by pipeline. Air freight has become more common for products of high value; while less than one percent of world transport by volume is by airline, it amounts to forty percent of the value. Time has become especially important in regards to principles such as postponement and just-in-time within the value chain, resulting in a high willingness to pay for quick delivery of key components or items of high value-to-weight ratio. [31] In addition to mail, common items sent by air include electronics and fashion clothing.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BW_Fjord_an_Glameyer_Stack_2007-12-15.JPG/220px-BW_Fjord_an_Glameyer_Stack_2007-12-15.JPG",
+                "caption": "A bulk carrier , BW Fjord"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WCML_freight_train.jpg/220px-WCML_freight_train.jpg",
+                "caption": "Freight train with shipping containers in the United Kingdom"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Transport",
+        "title": "Transport",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Economic",
+        "text": "Transport is a key necessity for specialization —allowing production and consumption of products to occur at different locations. Throughout history, transport has been a spur to expansion; better transport allows more trade and a greater spread of people. Economic growth has always been dependent on increasing the capacity and rationality of transport. [32] But the infrastructure and operation of transport have a great impact on the land, and transport is the largest drainer of energy, making transport sustainability a major issue. Due to the way modern cities and communities are planned and operated, a physical distinction between home and work is usually created, forcing people to transport themselves to places of work, study, or leisure, as well as to temporarily relocate for other daily activities. Passenger transport is also the essence of tourism , a major part of recreational transport. Commerce requires the transport of people to conduct business, either to allow face-to-face communication for important decisions or to move specialists from their regular place of work to sites where they are needed. In lean thinking , transporting materials or work in process from one location to another is seen as one of the seven wastes (Japanese term: muda ) which do not add value to a product. [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SeattleI5Skyline.jpg/220px-SeattleI5Skyline.jpg",
+                "caption": "Transport is a key component of growth and globalization, such as in Seattle, Washington , United States."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Transport",
+        "title": "Transport",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Planning",
+        "text": "Transport planning allows for high use and less impact regarding new infrastructure. Using models of transport forecasting , planners are able to predict future transport patterns. On the operative level, logistics allows owners of cargo to plan transport as part of the supply chain . Transport as a field is also studied through transport economics , a component for the creation of regulation policy by authorities. Transport engineering , a sub-discipline of civil engineering , must take into account trip generation , trip distribution , mode choice , and route assignment , while the operative level is handled through traffic engineering . Because of the negative impacts incurred, transport often becomes the subject of controversy related to choice of mode, as well as increased capacity. Automotive transport can be seen as a tragedy of the commons , where the flexibility and comfort for the individual deteriorate the natural and urban environment for all. Density of development depends on mode of transport, with public transport allowing for better spatial use. Good land use keeps common activities close to people's homes and places higher-density development closer to transport lines and hubs, to minimize the need for transport. There are economies of agglomeration . Beyond transport, some land uses are more efficient when clustered. Transport facilities consume land, and in cities pavement (devoted to streets and parking) can easily exceed 20 percent of the total land use. An efficient transport system can reduce land waste. Too much infrastructure and too much smoothing for maximum vehicle throughput mean that in many cities there is too much traffic and many—if not all—of the negative impacts that come with it. It is only in recent years that traditional practices have started to be questioned in many places; as a result of new types of analysis which bring in a much broader range of skills than those traditionally relied on—spanning such areas as environmental impact analysis, public health, sociology, and economics—the viability of the old mobility solutions is increasingly being questioned.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Old_Market_Roundabout%2C_Bristol.jpg/220px-Old_Market_Roundabout%2C_Bristol.jpg",
+                "caption": "The engineering of this roundabout in Bristol , United Kingdom, attempts to make traffic flow free-moving."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Transport",
+        "title": "Transport",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    },
+    {
+        "section": "Environment",
+        "text": "Transport is a major use of energy and burns most of the world's petroleum . This creates air pollution, including nitrous oxides and particulates , and is a significant contributor to global warming through emission of carbon dioxide , [35] for which transport is the fastest-growing emission sector. [36] By sub-sector, road transport is the largest contributor to global warming. [37] Environmental regulations in developed countries have reduced individual vehicles' emissions; however, this has been offset by increases in the numbers of vehicles and in the use of each vehicle. [35] Some pathways to reduce the carbon emissions of road vehicles considerably have been studied. [38] [39] Energy use and emissions vary largely between modes, causing environmentalists to call for a transition from air and road to rail and human-powered transport, as well as increased transport electrification and energy efficiency . Other environmental impacts of transport systems include traffic congestion and automobile-oriented urban sprawl , which can consume natural habitat and agricultural lands. By reducing transport emissions globally, it is predicted that there will be significant positive effects on Earth's air quality , acid rain , smog , and climate change. [40] While electric cars are being built to cut down CO 2 emission at the point of use, an approach that is becoming popular among cities worldwide is to prioritize public transport, bicycles, and pedestrian movement . Redirecting vehicle movement to create 20-minute neighbourhoods [41] that promotes exercise while greatly reducing vehicle dependency and pollution. Some policies are levying a congestion charge [42] to cars for travelling within congested areas during peak time. Airplane emissions change depending on the flight distance. It takes a lot of energy to take off and land, so longer flights are more efficient per mile traveled. However, longer flights naturally use more fuel in total. Short flights produce the most CO 2 per passenger mile, while long flights produce slightly less. [43] [44] Things get worse when planes fly high in the atmosphere . [45] [46] Their emissions trap much more heat than those released at ground level. This isn't just because of CO 2 , but a mix of other greenhouse gases in the exhaust. [47] [48] City buses produce about 0.3 kg of CO 2 for every mile traveled per passenger. For long-distance bus trips (over 20 miles), that pollution drops to about 0.08 kg of CO 2 per passenger mile. [49] [50] On average, commuter trains produce around 0.17 kg of CO 2 for each mile traveled per passenger. Long-distance trains are slightly higher at about 0.19 kg of CO 2 per passenger mile. [51] [52] > [53] The fleet emission average for delivery vans, trucks and big rigs is 10.17 kg (22.4 lb) CO 2 per gallon of diesel consumed. Delivery vans and trucks average about 7.8 mpg (or 1.3 kg of CO 2 per mile) while big rigs average about 5.3 mpg (or 1.92 kg of CO 2 per mile). [54] [55]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Traffic_jam_Sao_Paulo_09_2006_30.JPG/220px-Traffic_jam_Sao_Paulo_09_2006_30.JPG",
+                "caption": "Traffic congestion persists in São Paulo , Brazil, despite the no-drive days based on license numbers."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Transport",
+        "title": "Transport",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind turbine installation and logistics"
+    }
+]

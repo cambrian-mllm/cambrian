@@ -1,0 +1,344 @@
+[
+    {
+        "section": "Chemical reactions",
+        "text": "In a gasifier, the carbonaceous material undergoes several different processes: In essence, a limited amount of oxygen or air is introduced into the reactor to allow some of the organic material to be \"burned\" to produce carbon dioxide and energy, which drives a second reaction that converts further organic material to hydrogen and additional carbon dioxide. Further reactions occur when the formed carbon monoxide and residual water from the organic material react to form methane and excess carbon dioxide (4CO + 2H 2 O → CH 4 + 3CO 2 ). This third reaction occurs more abundantly in reactors that increase the residence time of the reactive gases and organic materials, as well as heat and pressure. Catalysts are used in more sophisticated reactors to improve reaction rates, thus moving the system closer to the reaction equilibrium  for a fixed residence time.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Pyrolysis.svg/150px-Pyrolysis.svg.png",
+                "caption": "Pyrolysis of carbonaceous fuels"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Gasification.gif",
+                "caption": "Gasification of char"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gasification",
+        "title": "Gasification",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Processes",
+        "text": "Several types of gasifiers are currently available for commercial use: counter-current fixed bed, co-current fixed bed, fluidized bed , entrained flow, plasma, and free radical. [1] [10] [11] [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gasifier_types.svg/500px-Gasifier_types.svg.png",
+                "caption": "Main gasifier types"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gasification",
+        "title": "Gasification",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Fluidized bed reactor",
+        "text": "The fuel is fluidized in oxygen and steam or air. The ash is removed dry or as heavy agglomerates that defluidize. The temperatures are relatively low in dry ash gasifiers, so the fuel must be highly reactive; low-grade coals are particularly suitable. The agglomerating gasifiers have slightly higher temperatures, and are suitable for higher rank coals. Fuel throughput is higher than for the fixed bed, but not as high as for the entrained flow gasifier. The conversion efficiency can be rather low due to elutriation of carbonaceous material.  Recycle or subsequent combustion of solids can be used to increase conversion. Fluidized bed gasifiers are most useful for fuels that form highly corrosive ash that would damage the walls of slagging gasifiers. Biomass fuels generally contain high levels of corrosive ash. Fluidized bed gasifiers uses inert bed material at a fluidized state which enhance the heat and biomass distribution inside a gasifier.  At a fluidized state, the superficial fluid velocity is greater than the minimum fluidization velocity required to lift the bed material against the weight of the bed. Fluidized bed gasifiers are divided into Bubbling Fluidized Bed (BFB), Circulating Fluidized Bed (CFB) and Dual Fluidized Bed (DFB) gasifiers.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gasification_facility_%22Advanced_Methanol_Amsterdam%22.jpg/371px-Gasification_facility_%22Advanced_Methanol_Amsterdam%22.jpg",
+                "caption": "Visualisation of proposed fluidized bed gasification facility in Amsterdam designed to convert waste materials into biofuels. [15]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gasification",
+        "title": "Gasification",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Waste disposal",
+        "text": "Waste gasification has several advantages over incineration: A major challenge for waste gasification technologies is to reach an acceptable (positive) gross electric efficiency. The high efficiency of converting syngas to electric power is counteracted by significant power consumption in the waste preprocessing, the consumption of large amounts of pure oxygen (which is often used as gasification agent), and gas cleaning. Another challenge becoming apparent when implementing the processes in real life is to obtain long service intervals in the plants, so that it is not necessary to close down the plant every few months for cleaning the reactor. Environmental advocates have called gasification \"incineration in disguise\" and argue that the technology is still dangerous to air quality and public health.  \"Since 2003 numerous proposals for waste treatment facilities hoping to use... gasification technologies failed to receive final approval to operate when the claims of project proponents did not withstand public and governmental scrutiny of key claims,\" according to the Global Alliance for Incinerator Alternatives. [17] One facility which operated from 2009–2011 in Ottawa had 29 \"emissions incidents\" and 13 \"spills\" over those three years.  It was also only able to operate roughly 25% of the time. [18] Several waste gasification processes have been proposed, but few have yet been built and tested, and only a handful have been implemented as plants processing real waste, and most of the time in combination with fossil fuels. [19] One plant (in Chiba , Japan using the Thermoselect process [20] ) has been processing industrial waste with natural gas and purified oxygen since year 2000, but has not yet documented positive net energy production from the process. In 2007 Ze-gen erected a waste gasification demonstration facility in New Bedford, Massachusetts . The facility was designed to demonstrate gasification of specific non-MSW waste streams using liquid metal gasification . [21] This facility came after widespread public opposition shelved plans for a similar plant in Attleboro, Massachusetts . [22] Today Ze-gen appears to be defunct, and the company website was taken down in 2014. [23] Also in the US, in 2011 a plasma system delivered by PyroGenesis Canada Inc. was tested to gasify municipal solid waste, hazardous waste and biomedical waste at the Hurlburt Field Florida Special Operations Command Air Force base. The plant, which cost $7.4 million to construct, [24] was closed and sold at a government liquidation auction in May 2013. [25] [26] The opening bid was $25.  The winning bid was sealed. In December 2022, the Sierra BioFuels Plant opened in Reno, Nevada, converting landfill waste to synthetic crude oil. [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/HTCW_reactor.jpg/150px-HTCW_reactor.jpg",
+                "caption": "HTCW reactor, one of several proposed waste gasification processes."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gasification",
+        "title": "Gasification",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Renewable energy and fuels",
+        "text": "In principle, gasification can proceed from just about any organic material, including biomass and plastic waste . The resulting syngas can be combusted. Alternatively, if the syngas is clean enough, it may be used for power production in gas engines, gas turbines or even fuel cells, or converted efficiently to dimethyl ether (DME) by methanol dehydration, methane via the Sabatier reaction , or diesel-like synthetic fuel via the Fischer–Tropsch process . In many gasification processes most of the inorganic components of the input material, such as metals and minerals, are retained in the ash. In some gasification processes (slagging gasification) this ash has the form of a glassy solid with low leaching properties, but the net power production in slagging gasification is low (sometimes negative) and costs are higher. Regardless of the final fuel form, gasification itself and subsequent processing neither directly emits nor traps greenhouse gases such as carbon dioxide. Power consumption in the gasification and syngas conversion processes may be significant though, and may indirectly cause CO 2 emissions; in slagging and plasma gasification, the electricity consumption may even exceed any power production from the syngas. Combustion of syngas or derived fuels emits exactly the same amount of carbon dioxide as would have been emitted from direct combustion of the initial fuel. Biomass gasification and combustion could play a significant role in a renewable energy economy, because biomass production removes the same amount of CO 2 from the atmosphere as is emitted from gasification and combustion. While other biofuel technologies such as biogas and biodiesel are carbon neutral , gasification in principle may run on a wider variety of input materials and can be used to produce a wider variety of output fuels. There are at present a few industrial scale biomass gasification plants. Since 2008 in Svenljunga, Sweden, a biomass gasification plant generates up to 14 MW th , supplying industries and citizens of Svenljunga with process steam and district heating , respectively. The gasifier uses biomass fuels such as CCA or creosote impregnated waste wood and other kinds of recycled wood to produces syngas that is combusted on site. [33] [34] Examples of demonstration projects include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Holzvergaser_G%C3%BCssing.jpg/230px-Holzvergaser_G%C3%BCssing.jpg",
+                "caption": "Gasification plant Güssing, Austria (2001–2015)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gasification",
+        "title": "Gasification",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Production",
+        "text": "A wood gasifier takes wood chips, sawdust, charcoal, coal, rubber or similar materials as fuel and burns these incompletely in a fire box, producing wood gas, solid ash and soot , the latter of which have to be removed periodically from the gasifier. The wood gas can then be filtered for tars and soot/ash particles, cooled and directed to an engine or fuel cell . [6] Most of these engines have strict purity requirements of the wood gas, so the gas often has to pass through extensive gas cleaning in order to remove or convert, i.e. , \" crack \", tars and particles. The removal of tar is often accomplished by using a water scrubber . Running wood gas in an unmodified gasoline-burning internal combustion engine may lead to problematic accumulation of unburned compounds. The quality of the gas from different \"gasifiers\" varies a great deal. Staged gasifiers, where pyrolysis and gasification occur separately instead of in the same reaction zone as was the case in the World War II gasifiers, can be engineered to produce essentially tar-free gas (less than 1 mg/m 3 ), while single-reactor fluidized bed gasifiers may exceed 50,000 mg/m³ tar. The fluidized bed reactors have the advantage of being much more compact, with more capacity per unit volume and price. Depending on the intended use of the gas, tar can be beneficial, as well by increasing the heating value of the gas. The heat of combustion of \"producer gas\" – a term used in the United States, meaning wood gas produced for use in a combustion engine – is rather low compared to other fuels. Taylor (1985) [7] reports that producer gas has a lower heat of combustion of 5.7 MJ/kg versus 55.9 MJ/kg for natural gas and 44.1 MJ/kg for gasoline. The heat of combustion of wood is typically 15–18 MJ/kg. Presumably, these values can vary somewhat from sample to sample. The same source reports the following chemical composition by volume which most likely is also variable: The composition of the gas is strongly dependent on the gasification process, the gasification medium (air, oxygen or steam), and the fuel moisture. Steam-gasification processes typically yield high hydrogen contents, downdraft fixed bed gasifiers yield high nitrogen concentrations and low tar loads, while updraft fixed bed gasifiers yield high tar loads. [6] [8] During the production of charcoal for blackpowder , the volatile wood gas is vented. Extremely-high-surface-area carbon results, suitable for use as a fuel in black powder.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Holzvergaser_G%C3%BCssing.jpg/220px-Holzvergaser_G%C3%BCssing.jpg",
+                "caption": "Fluidized bed gasifier in Güssing , Austria , operated on wood chips"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Nambassa_1981_Alt_Energy_centre_Gas_Producer_Photographer_Michael_Bennetts.jpg/220px-Nambassa_1981_Alt_Energy_centre_Gas_Producer_Photographer_Michael_Bennetts.jpg",
+                "caption": "A charcoal gas producer at the Nambassa alternative festival in New Zealand in 1981"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wood_gas",
+        "title": "Wood gas",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Overview",
+        "text": "Molecular hydrogen was discovered in the Kola Superdeep Borehole . It is unclear how much molecular hydrogen is available in natural reservoirs, but at least one company [14] specializes in drilling wells to extract hydrogen. Most hydrogen in the lithosphere is bonded to oxygen in water. Manufacturing elemental hydrogen requires the consumption of a hydrogen carrier such as a fossil fuel or water. The former carrier consumes the fossil resource and in the steam methane reforming (SMR) process produces greenhouse gas carbon dioxide. However, in the newer methane pyrolysis process no greenhouse gas carbon dioxide is produced. These processes typically require no further energy input beyond the fossil fuel. Decomposing water, the latter carrier, requires electrical or heat input, generated from some primary energy source (fossil fuel, nuclear power or a renewable energy ). Hydrogen produced by electrolysis of water using renewable energy sources such as wind and solar power , referred to as green hydrogen . [15] When derived from natural gas by zero greenhouse emission methane pyrolysis, it is referred to as turquoise hydrogen. [16] When fossil fuel derived with greenhouse gas emissions , is generally referred to as grey hydrogen . If most of the carbon dioxide emission is captured, it is referred to as blue hydrogen. [17] Hydrogen produced from coal may be referred to as brown or black hydrogen. [18]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/SMR%2BWGS-1.png/220px-SMR%2BWGS-1.png",
+                "caption": "Illustrating inputs and outputs of steam reforming of natural gas, a process to produce hydrogen. As of 2020 [update] , the carbon sequestrastion step is not in commercial use."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Steam reforming – gray or blue",
+        "text": "Hydrogen is industrially produced from steam reforming (SMR), which uses natural gas. [29] The energy content of the produced hydrogen is around 74% of the energy content of the original fuel, [30] as some energy is lost as excess heat during production. In general, steam reforming emits carbon dioxide, a greenhouse gas, and is known as gray hydrogen. If the carbon dioxide is  captured and stored, the hydrogen produced is known as blue hydrogen. Steam methane reforming (SMR) produces hydrogen from natural gas, mostly methane (CH 4 ), and water. It is the cheapest source of industrial hydrogen, being the source of nearly 50% of the world's hydrogen. [31] The process consists of heating the gas to 700–1,100 °C (1,300–2,000 °F) in the presence of steam over a nickel catalyst . The resulting endothermic reaction forms carbon monoxide and molecular hydrogen (H 2 ). [32] In the water-gas shift reaction , the carbon monoxide reacts with steam  to obtain further quantities of H 2 .  The WGSR also requires a catalyst, typically over iron oxide or other oxides . The byproduct is CO 2 . [32] Depending on the quality of the feedstock (natural gas, naphtha , etc.), one ton of hydrogen produced will also produce 9 to 12 tons of CO 2 , a greenhouse gas that may be captured . [33] For this process, high temperature steam (H 2 O) reacts with methane (CH 4 ) in an endothermic reaction to yield syngas . [34] In a second stage, additional hydrogen is generated through the lower-temperature, exothermic , water-gas shift reaction, performed at about 360 °C (680 °F): Essentially, the oxygen (O) atom is stripped from the additional water (steam) to oxidize CO to CO 2 . This oxidation also provides energy to maintain the reaction.  Additional heat required to drive the process is generally supplied by burning some portion of the methane.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/SMR%2BWGS-1.png/390px-SMR%2BWGS-1.png",
+                "caption": "Illustrating inputs and outputs of steam reforming of natural gas, a process to produce hydrogen and CO 2 greenhouse gas that may be captured with CCS"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Electrolysis of water – green, pink or yellow",
+        "text": "Hydrogen can be made via high pressure electrolysis , low pressure electrolysis of water, or a range of other emerging electrochemical processes such as high temperature electrolysis or carbon assisted electrolysis. [35] However, current best processes for water electrolysis have an effective electrical efficiency of 70-80%, [36] [37] [38] so that producing 1 kg of hydrogen (which has a specific energy of 143 MJ/kg or about 40 kWh/kg) requires 50–55 kWh of electricity. In parts of the world, steam methane reforming is between $1–3/kg on average excluding hydrogen gas pressurization cost. This makes production of hydrogen via electrolysis cost competitive in many regions already, as outlined by Nel Hydrogen [39] and others, including an article by the IEA [40] examining the conditions which could lead to a competitive advantage for electrolysis. A small part (2% in 2019 [41] ) is produced by electrolysis using electricity and water, consuming approximately 50 to 55 kilowatt-hours of electricity per kilogram of hydrogen produced. [42] Water electrolysis is using electricity to split water into hydrogen and oxygen. \nAs of 2020, less than 0.1% of hydrogen production comes from water electrolysis. [43] Electrolysis of water is 70–80% efficient (a 20–30% conversion loss) [44] [45] while steam reforming of natural gas has a thermal efficiency between 70 and 85%. [46] The electrical efficiency of electrolysis is expected to reach 82–86% [47] before 2030, while also maintaining durability as progress in this area continues apace. [48] Water electrolysis can operate at 50–80 °C (120–180 °F), while steam methane reforming requires temperatures at 700–1,100 °C (1,300–2,000 °F). [49] The difference between the two methods is the primary energy used; either electricity (for electrolysis) or natural gas (for steam methane reforming).  Due to their use of water, a readily available resource, electrolysis and similar water-splitting methods have attracted the interest of the scientific community. With the objective of reducing the cost of hydrogen production, renewable sources of energy have been targeted to allow electrolysis. [50] There are three main types of electrolytic cells , solid oxide electrolyser cells (SOECs), polymer electrolyte membrane cells (PEM) and alkaline electrolysis cells (AECs). [51] Traditionally, alkaline electrolysers are cheaper in terms of investment (they generally use nickel catalysts), but less-efficient; PEM electrolysers, conversely, are more expensive (they generally use expensive platinum group metal catalysts) but are more efficient and can operate at higher current densities , and can therefore be possibly cheaper if the hydrogen production is large enough. [52] SOECs operate at high temperatures, typically around 800 °C (1,500 °F). At these high temperatures, a significant amount of the energy required can be provided as thermal energy (heat), and as such is termed high-temperature electrolysis . The heat energy can be provided from a number of different sources, including waste industrial heat, nuclear power stations or concentrated solar thermal plants . This has the potential to reduce the overall cost of the hydrogen produced by reducing the amount of electrical energy required for electrolysis. [53] [54] [55] [56] PEM electrolysis cells typically operate below 100 °C (212 °F). [53] These cells have the advantage of being comparatively simple and can be designed to accept widely varying voltage inputs, which makes them ideal for use with renewable sources of energy such as photovoltaic solar panels . [57] AECs optimally operate at high concentrations of electrolyte (KOH or potassium carbonate ) and at high temperatures, often near 200 °C (392 °F).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hydrogen_production_via_Electrolysis.png/300px-Hydrogen_production_via_Electrolysis.png",
+                "caption": "Illustrating inputs and outputs of electrolysis of water, for production of hydrogen and no greenhouse gas"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Industrial output and efficiency",
+        "text": "Efficiency of modern hydrogen generators is measured by energy consumed per standard volume of hydrogen (MJ/m 3 ), assuming standard temperature and pressure of the H 2 . The lower the energy used by a generator, the higher would be its efficiency; a 100%-efficient electrolyser would consume 39.4 kilowatt-hours per kilogram (142 MJ/kg) of hydrogen, [58] 12,749 joules per litre (12.75 MJ/m 3 ).  Practical electrolysis typically uses a rotating electrolyser, where centrifugal force helps separate gas bubbles from water. [59] Such an electrolyser at 15 bar pressure may consume 50 kilowatt-hours per kilogram (180 MJ/kg), and a further 15 kilowatt-hours (54 MJ) if the hydrogen is compressed for use in hydrogen cars. [60] Conventional alkaline electrolysis has an efficiency of about 70%, [61] however advanced alkaline water electrolysers with efficiency of up to 82% are available. [62] Accounting for the use of the higher heat value (because inefficiency via heat can be redirected back into the system to create the steam required by the catalyst), average working efficiencies for PEM electrolysis are around 80%, or 82% using the most modern alkaline electrolysers. [63] PEM efficiency is expected to increase to approximately 86% [64] before 2030. Theoretical efficiency for PEM electrolysers is predicted up to 94%. [65] As of 2020, the cost of hydrogen by electrolysis is around $3–8/kg. [66] Considering the industrial production of hydrogen, and using current best processes for water electrolysis (PEM or alkaline electrolysis) which have an effective electrical efficiency of 70–82%, [67] [68] [69] producing 1 kg of hydrogen (which has a specific energy of 143 MJ/kg or about 40 kWh/kg) requires 50–55 kWh of electricity. At an electricity cost of $0.06/kWh, as set out in the Department of Energy hydrogen production targets for 2015, [70] the hydrogen cost is $3/kg. The US DOE target price for hydrogen in 2020 is $2.30/kg, requiring an electricity cost of $0.037/kWh, which is achievable given recent PPA tenders for wind and solar in many regions. [71] The report by IRENA.ORG is an extensive factual report of present-day industrial hydrogen production consuming about 53 to 70  kWh per kg could go down to about 45 kWh/kg H 2 . [72] The thermodynamic energy required for hydrogen by electrolysis  translates to 33 kWh/kg, which is higher than steam reforming with carbon capture and higher than methane pyrolysis.\nOne of the advantages of electrolysis over hydrogen from steam methane reforming (SMR) is that the hydrogen can be produced on-site, meaning that the costly process of delivery via truck or pipeline is avoided.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/H2_production_cost_%28%24-gge_untaxed%29_at_varying_natural_gas_prices.jpg/400px-H2_production_cost_%28%24-gge_untaxed%29_at_varying_natural_gas_prices.jpg",
+                "caption": "H 2 production cost ($-gge untaxed) at varying natural gas prices"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Photobiological water splitting",
+        "text": "Biological hydrogen can be produced in an algae bioreactor . [108] In the late 1990s it was discovered that if the algae are deprived of sulfur it will switch from the production of oxygen , i.e. normal photosynthesis , to the production of hydrogen. It seems that the production is now economically feasible by surpassing the 7–10 percent energy efficiency (the conversion of sunlight into hydrogen) barrier. [109] with a hydrogen production rate of 10–12 ml per liter culture per hour. [110]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Algae_hydrogen_production.jpg",
+                "caption": "An algae bioreactor for hydrogen production."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Biocatalysed electrolysis",
+        "text": "Besides dark fermentation, electrohydrogenesis (electrolysis using microbes) is another possibility. Using microbial fuel cells , wastewater or plants can be used to generate power. Biocatalysed electrolysis should not be confused with biological hydrogen production , as the latter only uses algae and with the latter, the algae itself generates the hydrogen instantly, where with biocatalysed electrolysis, this happens after running through the microbial fuel cell and a variety of aquatic plants [123] can be used. These include reed sweetgrass , cordgrass, rice, tomatoes, lupines and algae. [124]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Microbial_electrolysis_cell.png/220px-Microbial_electrolysis_cell.png",
+                "caption": "A microbial electrolysis cell"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Nanogalvanic_powder.jpg/220px-Nanogalvanic_powder.jpg",
+                "caption": "Nano-galvanic aluminum-based powder developed by the U.S. Army Research Laboratory"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Natural hydrogen",
+        "text": "Hydrogen is also present naturally underground. This natural hydrogen , also called white hydrogen or gold hydrogen, can be extracted from wells in a similar manner as fossil fuels such as oil and natural gas. [127] [128] [10] White hydrogen could be found or produced in the Mid-continental Rift System at scale for a renewable hydrogen economy . Water could be pumped down to hot iron-rich rock to extract the hydrogen. [129]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mid-continental_Rift_System.webp/220px-Mid-continental_Rift_System.webp.png",
+                "caption": "Mid-continental Rift System"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Methane pyrolysis – turquoise",
+        "text": "Pyrolysis of methane (natural gas) with a one-step process [130] bubbling methane through a molten metal catalyst is a \"no greenhouse gas\" approach to produce hydrogen that was demonstrated in laboratory conditions in 2017 and now being tested at larger scales. [131] [132] The process is conducted at high temperatures (1065 °C). [133] [134] [135] [136] Producing 1 kg of hydrogen requires about 18 kWh of electricity for process heat. [137] The pyrolysis of methane can be expressed by the following reaction equation. [138] The industrial quality solid carbon may be sold as manufacturing feedstock or landfilled. Methane pyrolysis technologies are in the early development stages as of 2023.  They have numerous obstacles to overcome before commercialization. [139]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Methane_Pyrolysis-1.png/220px-Methane_Pyrolysis-1.png",
+                "caption": "Illustrating inputs and outputs of methane pyrolysis, a process to produce Hydrogen"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Extraction of naturally-occurring hydrogen – White Hydrogen",
+        "text": "As of 2019 [update] , hydrogen is mainly used as an industrial feedstock, primarily for the production of ammonia and methanol , and in petroleum refining. Although initially hydrogen gas was thought not to occur naturally in convenient reservoirs, it is now demonstrated that this is not the case; a hydrogen system is currently being exploited near Bourakebougou, Koulikoro Region in Mali, producing electricity for the surrounding villages. [163] More discoveries of naturally occurring hydrogen in continental, on-shore geological environments have been made in recent years [164] and open the way to the novel field of natural or native hydrogen, supporting energy transition efforts. [165] [166] White hydrogen could be found or produced in the Mid-continental Rift System at scale for a renewable hydrogen economy.  Water could be pumped down to hot iron-rich rock to produce hydrogen and the hydrogen could be extracted. [167]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mid-continental_Rift_System.webp/220px-Mid-continental_Rift_System.webp.png",
+                "caption": "Mid-continental Rift System"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Design",
+        "text": "There is a rich literature on gas-works, town-gas, gas-generation, wood-gas, and producer gas, that is now in the public domain due to its age. [8] Most successful wood gas generators in use in Europe and the United States are some variation of the earlier Imbert design. Wood gas generators often use wood; however, charcoal can also be used as a fuel.  It is denser and produces a cleaner gas without the tarry volatiles and excessive water content of wood. The FEMA wood gas generator is (by definition of the FEMA manual) an emergency gasifier. It is designed to be rapidly assembled in a true fuel crisis. This simplified design has distinct benefits over the earlier European units such as easier refueling and construction but is less popular than the earlier Imbert design because of significant new problems, which include a lack of a fixed oxidization zone and allows the oxidization zone to creep to a larger area, causing a drop in temperature; a lower operating temperature leads to tar production and it lacks a true reduction zone further increasing this design's propensity to produce tar. Tar in the wood gas stream is considered a dirty gas and tar will gum up a motor quickly, possibly leading to stuck valves and rings. A new design known as the Keith gasifier improves on the FEMA unit, incorporating extensive heat recovery and eliminating the tar problem. Testing at Auburn University has shown it to be 37% more efficient than running gasoline. [9] This system set the world speed record for biomass powered vehicles [10] and has made several cross country tours. [11] [12] The United Nations produced the FOA 72 document [13] with details about their wood gas generator design and construction, as does World Bank technical paper 296. [14]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Planet_Mechanics_wood_gasifier.png/220px-Planet_Mechanics_wood_gasifier.png",
+                "caption": "Diagram of a gas generator"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wood_gas_generator",
+        "title": "Wood gas generator",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Media coverage",
+        "text": "In 2008, an example of designing and constructing a working wood gas generator powered truck was shown on the National Geographic Channel's Planet Mechanics in the eighth episode, \"Tree Powered Car\". [15] [16] In 2009, another example of designing and constructing a working wood gas powered generator engine was in the TV series The Colony in the second episode of the first season \"Power Struggle\". Also used in the tenth episode \"Exodus\" to power an escape vehicle. A 2010, Mother Earth News article discussed and showed pictures of a wood gas powered engine installed in a pickup truck. [17] As part of the BBC science series \"Bang Goes The Theory\", a Volkswagen Scirocco was converted to a design by Martin Bacon to run on used coffee grounds , and after its build in 2010 was driven solely on coffee from London to Manchester successfully. Part of the team are now working on a more advanced design leaning towards top speed as opposed to range. On September 14, 2011, at the Bonneville Salt Flats a truck modified with a wood gas powered engine set a new world speed record for vehicles powered by wood gas with a speed of 73 mph. [18] On the popular US radio program Car Talk , a caller in episode 1201 (which aired on January 7, 2012, and was subsequently named \"20 Miles Per Woodchip\"), described a wood gas generating vehicle he rode in as a boy during World War II in Germany.  The hosts were not familiar with the technology, likely because it was never widely adopted in the US. On March 12, 2012, on a season 2 episode of Doomsday Preppers , a wood gas generator is shown running a Ford truck and a house electric generator by prepper Scott Hunt on his multi-acre woodland property in South Carolina. Serbian TV sitcom \"Truckdrivers 2\" (=\"Kamiondzije II\") from 1983. talks, as a part of plot, about a gas generator affixed to a chassis of a lorry. An article appeared in Mother Earth News in April 2012 featuring the Keith gasifier, showing pictures and talking with inventor Wayne Keith. [19] In the BBC documentary Wartime Farm , Episode 5 (aired October 2012) they built a coal gas powered ambulance according to the specifications of a 1943 gas powered vehicle. [20] In Season 3 Of Mountain Men On The History Channel, Eustice Conway is shown operating a wood gasified Toyota pickup for hauling goods The Finnish prime minister Juha Sipilä has received some media attention also for the wood gas powered car he built as a hobby prior to his political career. [21] The \"El Kamina\", model year 1987 Chevrolet El Camino , is the fastest wood-gas powered car, 140 km/h, 87 mph. [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Woodgas_speed_record.jpg/220px-Woodgas_speed_record.jpg",
+                "caption": "This truck set the land speed record for biomass powered vehicles in September 2011"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wood_gas_generator",
+        "title": "Wood gas generator",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Operation",
+        "text": "Biomass gasification uses high temperatures in a low-oxygen environment to covert woody feedstocks into a Syngas fuel composed predominantly of flammable hydrogen (H2) and carbon monoxide (CO) gases. When waste biomass is used as the feedstock and the biochar byproduct is sequestered, such as when used as a soil amendment, the operation results in Negative carbon dioxide emission . [15] [4] [16] APL's gasifiers can use a variety of lignocellulosic biomass (woody biomass) such as wood chips, nut shells, and other agricultural bi-products as feedstock, [4] at the rate of approximately 1 kg/kWh.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/GEK_Gasifier_Process_Flows.jpg/220px-GEK_Gasifier_Process_Flows.jpg",
+                "caption": "Material and Process Flows in a GEK Gasifier"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/All_Power_Labs",
+        "title": "All Power Labs",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Reaction mechanism",
+        "text": "The Fischer–Tropsch process involves a series of chemical reactions that produce a variety of hydrocarbons, ideally having the formula (C n H 2 n +2 ). The more useful reactions produce alkanes as follows: [7] where n is typically 10–20. The formation of methane ( n = 1) is unwanted. Most of the alkanes produced tend to be straight-chain, suitable as diesel fuel . In addition to alkane formation, competing reactions give small amounts of alkenes , as well as alcohols and other oxygenated hydrocarbons. [8] The reaction is a highly exothermic reaction due to a standard reaction enthalpy (ΔH) of −165 kJ/mol CO combined. [9]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/HCCo3%28CO%299.png/144px-HCCo3%28CO%299.png",
+                "caption": "Methylidyne­tricobalt­nonacarbonyl is a molecule that illustrates the kind of reduced carbon species speculated to occur in the Fischer–Tropsch process."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fischer%E2%80%93Tropsch_process",
+        "title": "Fischer–Tropsch process",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Sasol",
+        "text": "The world's largest scale implementation of Fischer–Tropsch technology is a series of plants operated by Sasol in South Africa , a country with large coal reserves, but little oil. With a capacity of 165000 Bpd at its Secunda plant. [30] The first commercial plant opened in 1952. [31] Sasol uses coal and natural gas as feedstocks and produces a variety of synthetic petroleum products, including most of the country's diesel fuel . [32]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Sasol_Garage_in_Boksburg.jpg/220px-Sasol_Garage_in_Boksburg.jpg",
+                "caption": "A SASOL garage in Gauteng"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fischer%E2%80%93Tropsch_process",
+        "title": "Fischer–Tropsch process",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Process",
+        "text": "During gasification, the coal is blown through with oxygen and steam (water vapor) while also being heated (and in some cases pressurized). If the coal is heated by external heat sources the process is called \"allothermal\", while \"autothermal\" process assumes heating of the coal via exothermal chemical reactions occurring inside the gasifier itself. It is essential that the oxidizer supplied is insufficient for complete oxidizing (combustion) of the fuel. During the reactions mentioned, oxygen and water molecules oxidize the coal and produce a gaseous mixture of carbon dioxide (CO 2 ), carbon monoxide (CO), water vapour (H 2 O), and molecular hydrogen (H 2 ). (Some by-products like tar, phenols, etc. are also possible end products, depending on the specific gasification technology utilized.) This process has been conducted in-situ within natural coal seams (referred to as underground coal gasification ) and in coal refineries. The desired end product is usually syngas (i.e., a combination of H 2 + CO), but the produced coal gas may also be further refined to produce additional quantities of H 2 : If the refiner wants to produce alkanes (i.e., hydrocarbons present in natural gas , gasoline , and diesel fuel ), the coal gas is collected at this state and routed to a Fischer–Tropsch reactor. If, however, hydrogen is the desired end-product, the coal gas (primarily the CO product) undergoes the water gas shift reaction where more hydrogen is produced by additional reaction with water vapor: Although other technologies for coal gasification currently exist, all employ, in general, the same chemical processes. For low-grade coals (i.e., lignite or other \"brown coals\") which contain significant amounts of water, there are technologies in which no steam is required during the reaction, with coal (carbon) and oxygen being the only reactants. As well, some coal gasification technologies do not require high pressures. Some utilize pulverized coal as fuel while others work with relatively large fractions of coal. Gasification technologies also vary in the way the blowing is supplied. \"Direct blowing\" assumes the coal and the oxidizer being supplied towards each other from the opposite sides of the reactor channel. In this case the oxidizer passes through coke and (more likely) ashes to the reaction zone where it interacts with coal. The hot gas produced then passes fresh fuel and heats it while absorbing some products of thermal destruction of the fuel, such as tars and phenols. Thus, the gas requires significant refining before being used in the Fischer–Tropsch reaction. Products of the refinement are highly toxic and require special facilities for their utilization. As a result, the plant utilizing the described technologies has to be very large to be economically efficient. One of such plants called SASOL is situated in the Republic of South Africa (RSA). It was built due to embargo applied to the country preventing it from importing oil and natural gas. RSA is rich in Bituminous coal and Anthracite and was able to arrange the use of the well known high pressure \"Lurgi\" gasification process developed in Germany in the first half of 20th century. \"Reversed blowing\" (as compared to the previous type described which was invented first) assumes the coal and the oxidizer being supplied from the same side of the reactor. In this case there is no chemical interaction between coal and oxidizer before the reaction zone. The gas produced in the reaction zone passes solid products of gasification (coke and ashes), and CO 2 and H 2 O contained in the gas are additionally chemically restored to CO and H 2 . As compared to the \"direct blowing\" technology, no toxic by-products are present in the gas: those are disabled in the reaction zone. This type of gasification has been developed in the first half of 20th century, along with the \"direct blowing\", but the rate of gas production in it is significantly lower than that in \"direct blowing\" and there were no further efforts of developing the \"reversed blowing\" processes until 1980-s when a Soviet research facility KATEKNIIUgol' (R&D Institute for developing Kansk-Achinsk coal field) began R&D activities to produce the technology now known as \"TERMOKOKS-S\" process. The reason for reviving the interest in this type of gasification process is that it is ecologically clean and able to produce two types of useful products (simultaneously or separately): gas (either combustible or syngas) and middle-temperature coke. The former may be used as a fuel for gas boilers and diesel-generators or as syngas for producing gasoline, etc., the latter - as a technological fuel in metallurgy, as a chemical absorbent or as raw material for household fuel briquettes. Combustion of the product gas in gas boilers is ecologically cleaner than combustion of initial coal. Thus, a plant utilizing gasification technology with the \"reversed blowing\" is able to produce two valuable products of which one has relatively zero production cost since the latter is covered by competitive market price of the other. As the Soviet Union and its KATEKNIIUgol' ceased to exist, the technology was adopted by the individual scientists who originally developed it and is now being further researched in Russia and commercially distributed worldwide. Industrial plants utilizing it are now known to function in Ulaan-Baatar (Mongolia) and Krasnoyarsk (Russia). Pressurized airflow bed gasification technology created through the joint development between Wison Group and Shell (Hybrid). For example: Hybrid is an advanced pulverized coal gasification technology, this technology combined with the existing advantages of Shell SCGP waste heat boiler, includes more than just a conveying system, pulverized coal pressurized gasification burner arrangement, lateral jet burner membrane type water wall, and the intermittent discharge has been fully validated in the existing SCGP plant such as mature and reliable technology, at the same time, it removed the existing process complications and  in the syngas cooler (waste pan) and [fly ash] filters which easily failed, and combined the current existing gasification technology that is widely used in synthetic gas quench process. It not only retains the original Shell SCGP waste heat boiler of coal characteristics of strong adaptability, and ability to scale up easily, but also absorb the advantages of the existing quench technology.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lurgi_Druckvergaser.svg/220px-Lurgi_Druckvergaser.svg.png",
+                "caption": "Scheme of a Lurgi gasifier"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Coal_gasification",
+        "title": "Coal gasification",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    },
+    {
+        "section": "Environmental impact of manufactured coal gas industry",
+        "text": "From its original development until the wide-scale adoption of natural gas, more than 50,000 manufactured gas plants were in existence in the United States alone. The process of manufacturing gas usually produced a number of by-products that contaminated the soil and groundwater in and around the manufacturing plant, so many former town gas plants are a serious environmental concern, and cleanup and remediation costs are often high. Manufactured gas plants (MGPs) were typically sited near or adjacent to waterways that were used to transport in coal and for the discharge of wastewater contaminated with tar, ammonia and/or drip oils, as well as outright waste tars and tar-water emulsions. In the earliest days of MGP operations, coal tar was considered a waste and often disposed into the environment in and around the plant locations. While uses for coal tar developed by the late-19th century, the market for tar varied and plants that could not sell tar at a given time could store tar for future use, attempt to burn it as boiler fuel, or dump the tar as waste. Commonly, waste tars were disposed of in old gas holders, adits or even mine shafts (if present). Over time, the waste tars degrade with phenols , benzene (and other mono-aromatics— BTEX ) and polycyclic aromatic hydrocarbons released as pollutant plumes that can escape into the surrounding environment. Other wastes included \" blue billy \", [9] which is a ferroferricyanide compound—the blue colour is from Prussian blue , which was commercially used as a dye . Blue billy is typically a granular material and was sometimes sold locally with the strap line \"guaranteed weed free drives\". The presence of blue billy can give gas plant waste a characteristic musty/ bitter almonds or marzipan smell which is associated with cyanide gas. The shift to the Carburetted Water Gas process initially resulted in a reduced output of water gas tar as compared to the volume of coal tars. The advent of automobiles reduced the availability of naphtha for carburetion oil, as that fraction was desirable as motor fuel. MGPs that shifted to heavier grades of oil often experienced problems with the production of tar-water emulsions, which were difficult, time-consuming, and costly to break. (The cause of tar change water emulsions is complex and was related to several factors, including free carbon in the carburetion oil and the substitution of bituminous coal as a feedstock instead of coke.) The production of large volumes of tar-water emulsions quickly filled up available storage capacity at MGPs and plant management often dumped the emulsions in pits, from which they may or may not have been later reclaimed. Even if the emulsions were reclaimed, the environmental damage from placing tars in unlined pits remained. The dumping of emulsions (and other tarry residues such as tar sludges, tank bottoms, and off-spec tars) into the soil and waters around MGPs is a significant factor in the pollution found at former manufactured gas plants (known as \"FMGPs\" in environmental remediation ) today. Contaminants commonly associated with FMGPs include: Coal tar and coal tar sludges are frequently denser than water and are present in the environment as a dense non-aqueous phase liquid . In the UK, a number of former gasworks sites have been redeveloped for residential and other uses (including the Millennium Dome ), being seen as prime developable land within the confines of city boundaries. Such development opportunities are now leading to problems associated with planning and the Contaminated Land Regime and have recently [ when? ] been debated in the House of Commons.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gasometer_in_East_London.jpg/220px-Gasometer_in_East_London.jpg",
+                "caption": "Gasometer at West Ham , United Kingdom"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Coal_gasification",
+        "title": "Coal gasification",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass gasification"
+    }
+]

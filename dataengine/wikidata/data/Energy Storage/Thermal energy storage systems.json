@@ -1,0 +1,318 @@
+[
+    {
+        "section": "Pumped hydro",
+        "text": "Worldwide, pumped-storage hydroelectricity (PSH) is the largest-capacity form of active grid energy storage available, and, as of March 2012, the Electric Power Research Institute (EPRI) reports that PSH accounts for more than 99% of bulk storage capacity worldwide, representing around 127,000 MW . [6] PSH energy efficiency varies in practice between 70% and 80%, [6] [7] [8] [9] with claims of up to 87%. [10] At times of low electrical demand, excess generation capacity is used to pump water from a lower source into a higher reservoir. When demand grows, water is released back into a lower reservoir (or waterway or body of water) through a turbine , generating electricity. Reversible turbine-generator assemblies act as both a pump and turbine (usually a Francis turbine design). Nearly all facilities use the height difference between two water bodies. Pure pumped-storage plants shift the water between reservoirs, while the \"pump-back\" approach is a combination of pumped storage and conventional hydroelectric plants that use natural stream-flow.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adam_Beck_Complex.jpg/300px-Adam_Beck_Complex.jpg",
+                "caption": "The Sir Adam Beck Generating Complex at Niagara Falls, Canada , which includes a large pumped storage hydroelectricity reservoir to provide an extra 174 MW of electricity during periods of peak demand."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Compressed air",
+        "text": "Compressed-air energy storage (CAES) uses surplus energy to compress air for subsequent electricity generation. [11] Small-scale systems have long been used in such applications as propulsion of mine locomotives. The compressed air is stored in an underground reservoir , such as a salt dome . Compressed-air energy storage (CAES) plants can bridge the gap between production volatility and load. CAES storage addresses the energy needs of consumers by effectively providing readily available energy to meet demand. Renewable energy sources like wind and solar energy vary. So at times when they provide little power, they need to be supplemented with other forms of energy to meet energy demand. Compressed-air energy storage plants can take in the surplus energy output of renewable energy sources during times of energy over-production. This stored energy can be used at a later time when demand for electricity increases or energy resource availability decreases. [12] Compression of air creates heat; the air is warmer after compression. Expansion requires heat. If no extra heat is added, the air will be much colder after expansion. If the heat generated during compression can be stored and used during expansion, efficiency improves considerably. [13] A CAES system can deal with the heat in three ways. Air storage can be adiabatic , diabatic , or isothermal . Another approach uses compressed air to power vehicles. [14] [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Compressed_Air_Loco.jpg/300px-Compressed_Air_Loco.jpg",
+                "caption": "A compressed air locomotive used inside a mine between 1928 and 1961."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Flywheel",
+        "text": "Flywheel energy storage (FES) works by accelerating a rotor (a flywheel ) to a very high speed, holding energy as rotational energy . When energy is added the rotational speed of the flywheel increases, and when energy is extracted, the speed declines, due to conservation of energy . Most FES systems use electricity to accelerate and decelerate the flywheel, but devices that directly use mechanical energy are under consideration. [16] FES systems have rotors made of high strength carbon-fiber composites, suspended by magnetic bearings and spinning at speeds from 20,000 to over 50,000 revolutions per minute (rpm) in a vacuum enclosure. [17] Such flywheels can reach maximum speed (\"charge\") in a matter of minutes. The flywheel system is connected to a combination electric motor / generator . FES systems have relatively long lifetimes (lasting decades with little or no maintenance; [17] full-cycle lifetimes quoted for flywheels range from in excess of 10 5 , up to 10 7 , cycles of use), [18] high specific energy (100–130 W·h/kg, or 360–500 kJ/kg) [18] [19] and power density .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Example_of_cylindrical_flywheel_rotor_assembly.png/220px-Example_of_cylindrical_flywheel_rotor_assembly.png",
+                "caption": "The main components of a typical flywheel."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg/220px-Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg",
+                "caption": "A Flybrid Kinetic Energy Recovery System flywheel . Built for use on Formula 1 racing cars , it is employed to recover and reuse kinetic energy captured during braking."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Solid mass gravitational ",
+        "text": "Changing the altitude of solid masses can store or release energy via an elevating system driven by an electric motor/generator. Studies suggest energy can begin to be released with as little as 1 second warning, making  the method a useful supplemental feed into an electricity grid to balance load surges. [20] Efficiencies can be as high as 85% recovery of stored energy. [21] This can be achieved by siting the masses inside old vertical  mine shafts or in specially constructed towers where the heavy weights are winched up to store energy and allowed a controlled descent to release it. At 2020 a prototype vertical store is being built in Edinburgh, Scotland [22] Potential energy storage or gravity energy storage was under active development in 2013 in association with the California Independent System Operator . [23] [24] [25] It examined the movement of earth-filled hopper rail cars driven by electric locomotives from lower to higher elevations. [26] Other proposed methods include:-",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fernw%C3%A4rmespeicher_Theiss.jpg/220px-Fernw%C3%A4rmespeicher_Theiss.jpg",
+                "caption": "District heating accumulation tower from Theiss near Krems an der Donau in Lower Austria with a thermal capacity of 2 GWh"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Rechargeable battery",
+        "text": "A rechargeable battery comprises one or more electrochemical cells . It is known as a 'secondary cell' because its electrochemical reactions are electrically reversible. Rechargeable batteries come in many shapes and sizes, ranging from button cells to megawatt grid systems. Rechargeable batteries have lower total cost of use and environmental impact than non-rechargeable (disposable) batteries. Some rechargeable battery types are available in the same form factors as disposables. Rechargeable batteries have higher initial cost but can be recharged very cheaply and used many times. Common rechargeable battery chemistries include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Datacenter_Backup_Batteries.jpg/220px-Datacenter_Backup_Batteries.jpg",
+                "caption": "A rechargeable battery bank used as an uninterruptible power supply in a data center"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Supercapacitor",
+        "text": "Supercapacitors , also called electric double-layer capacitors (EDLC) or ultracapacitors, are a family of electrochemical capacitors [47] that do not have conventional solid dielectrics . Capacitance is determined by two storage principles, double-layer capacitance and pseudocapacitance . [48] [49] Supercapacitors bridge the gap between conventional capacitors and rechargeable batteries . They store the most energy per unit volume or mass ( energy density ) among capacitors. They support up to 10,000 farads /1.2 Volt, [50] up to 10,000 times that of electrolytic capacitors , but deliver or accept less than half as much power per unit time ( power density ). [47] While supercapacitors have specific energy and energy densities that are approximately 10% of batteries, their power density is generally 10 to 100 times greater. This results in much shorter charge/discharge cycles. Also, they tolerate many more charge-discharge cycles than batteries. Supercapacitors have many applications, including:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Expo_2010_Electric_Bus.jpg/220px-Expo_2010_Electric_Bus.jpg",
+                "caption": "One of a fleet of electric capabuses powered by supercapacitors, at a quick-charge station-bus stop, in service during Expo 2010 Shanghai China . Charging rails can be seen suspended over the bus."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Power-to-gas",
+        "text": "Power-to-gas is the conversion of electricity to a gaseous fuel such as hydrogen or methane . The three commercial methods use electricity to reduce water into hydrogen and oxygen by means of electrolysis . In the first method, hydrogen is injected into the natural gas grid or is used for transportation. The second method is to combine the hydrogen with carbon dioxide to produce methane using a methanation reaction such as the Sabatier reaction , or biological methanation, resulting in an extra energy conversion loss of 8%. The methane may then be fed into the natural gas grid. The third method uses the output gas of a wood gas generator or a biogas plant, after the biogas upgrader is mixed with the hydrogen from the electrolyzer, to upgrade the quality of the biogas.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/World%E2%80%99s_1st_Low-Emission_Hybrid_Battery_Storage%2C_Gas_Turbine_Peaker_System.jpg/220px-World%E2%80%99s_1st_Low-Emission_Hybrid_Battery_Storage%2C_Gas_Turbine_Peaker_System.jpg",
+                "caption": "The new technology helps reduce greenhouse gases and operating costs at two existing peaker plants in Norwalk and Rancho Cucamonga . The 10-megawatt battery storage system, combined with the gas turbine, allows the peaker plant to more quickly respond to changing energy needs, thus increasing the reliability of the electrical grid."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Capacitor",
+        "text": "A capacitor (originally known as a 'condenser') is a passive two-terminal electrical component used to store energy electrostatically . Practical capacitors vary widely, but all contain at least two electrical conductors (plates) separated by a dielectric (i.e., insulator ). A capacitor can store electric energy when disconnected from its charging circuit, so it can be used like a temporary battery , or like other types of rechargeable energy storage system . [72] Capacitors are commonly used in electronic devices to maintain power supply while batteries change. (This prevents loss of information in volatile memory.) Conventional capacitors provide less than 360 joules per kilogram, while a conventional alkaline battery has a density of 590 kJ/kg. Capacitors store energy in an electrostatic field between their plates. Given a potential difference across the conductors (e.g., when a capacitor is attached across a battery), an electric field develops across the dielectric, causing positive charge (+Q) to collect on one plate and negative charge (-Q) to collect on the other plate. If a battery is attached to a capacitor for a sufficient amount of time, no current can flow through the capacitor. However, if an accelerating or alternating voltage is applied across the leads of the capacitor, a displacement current can flow. Besides capacitor plates, charge can also be stored in a dielectric layer. [73] Capacitance is greater given a narrower separation between conductors and when the conductors have a larger surface area. In practice, the dielectric between the plates emits a small amount of leakage current and has an electric field strength limit, known as the breakdown voltage . However, the effect of recovery of a dielectric after a high-voltage breakdown holds promise for a new generation of self-healing capacitors. [74] [75] The conductors and leads introduce undesired inductance and resistance . Research is assessing the quantum effects of nanoscale capacitors [76] for digital quantum batteries. [77] [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_%40_5000_VDC.jpg/175px-Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_%40_5000_VDC.jpg",
+                "caption": "This mylar-film, oil-filled capacitor has very low inductance and low resistance, to provide the high-power (70 megawatts) and the very high speed (1.2 microsecond) discharges needed to operate a dye laser ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Renewable energy",
+        "text": "The largest source and the greatest store of renewable energy is provided by hydroelectric dams. A large reservoir behind a dam can store enough water to average the annual flow of a river between dry and wet seasons, and a very large reservoir can store enough water to average the flow of a river between dry and wet years. While a hydroelectric dam does not directly store energy from intermittent sources, it does balance the grid by lowering its output and retaining its water when power is generated by solar or wind. If wind or solar generation exceeds the region's hydroelectric capacity, then some additional source of energy is needed. Many renewable energy sources (notably solar and wind) produce variable power . [96] Storage systems can level out the imbalances between supply and demand that this causes. Electricity must be used as it is generated or converted immediately into storable forms. [97] The main method of electrical grid storage is pumped-storage hydroelectricity . Areas of the world such as Norway, Wales, Japan and the US have used elevated geographic features for reservoirs , using electrically powered pumps to fill them. When needed, the water passes through generators and converts the gravitational potential of the falling water into electricity. [96] Pumped storage in Norway, which gets almost all its electricity from hydro, has currently a capacity of 1.4 GW but since the total installed capacity is nearly 32 GW and 75% of that is regulable, it can be expanded significantly. [98] Some forms of storage that produce electricity include pumped-storage hydroelectric dams , rechargeable batteries , thermal storage including molten salts which can efficiently store and release very large quantities of heat energy, [99] and compressed air energy storage , flywheels , cryogenic systems and superconducting magnetic coils . Surplus power can also be converted into methane ( sabatier process ) with stockage in the natural gas network. [100] [101] In 2011, the Bonneville Power Administration in the northwestern United States created an experimental program to absorb excess wind and hydro power generated at night or during stormy periods that are accompanied by high winds. Under central control, home appliances absorb surplus energy by heating ceramic bricks in special space heaters to hundreds of degrees and by boosting the temperature of modified hot water heater tanks . After charging, the appliances provide home heating and hot water as needed. The experimental system was created as a result of a severe 2010 storm that overproduced renewable energy to the extent that all conventional power sources were shut down, or in the case of a nuclear power plant, reduced to its lowest possible operating level, leaving a large area running almost completely on renewable energy. [102] [103] Another advanced method used at the former Solar Two project in the United States and the Solar Tres Power Tower in Spain uses molten salt to store thermal energy captured from the sun and then convert it and dispatch it as electrical power. The system pumps molten salt through a tower or other special conduits to be heated by the sun. Insulated tanks store the solution. Electricity is produced by turning water to steam that is fed to turbines . Since the early 21st century batteries have been applied to utility scale load-leveling and frequency regulation capabilities. [96] In vehicle-to-grid storage, electric vehicles that are plugged into the energy grid can deliver stored electrical energy from their batteries into the grid when needed.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Abengoa_Solar_%287336087392%29.jpg/220px-Abengoa_Solar_%287336087392%29.jpg",
+                "caption": "Construction of the Salt Tanks which provide efficient thermal energy storage [92] so that electricity can be generated after the sun goes down, and output can be scheduled to meet demand. [93] The 280 MW Solana Generating Station is designed to provide six hours of storage. This allows the plant to generate about 38% of its rated capacity over the course of a year. [94]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Andasol_3.jpg/220px-Andasol_3.jpg",
+                "caption": "The 150 MW Andasol solar power station in Spain is a parabolic trough solar thermal power plant that stores energy in tanks of molten salt so that it can continue generating electricity when the sun is not shining. [95]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Possible application",
+        "text": "The presence of ATES and chlorinated ethenes offers the potential for of integration of sustainable energy technology and sustainable groundwater management. [18] Increased temperature around the warm well can enhance reductive dechlorination of chlorinated ethenes. Although low temperature in cold well can hamper biodegradation, seasonal operation of ATES can transfer contaminant from cold well to hot well for faster remediation. Such seasonal groundwater transport can homogenize the environmental condition. ATES can be used as biostimulation, for example to inject electron donor or microorganisms needed for reductive dechlorination. The lifespan of ATES (30 years) fits the required duration of in situ bioremediation.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Illustration_of_relevant_processes_in_the_ATES-ENA_system.png/220px-Illustration_of_relevant_processes_in_the_ATES-ENA_system.png",
+                "caption": "Illustration of relevant processes in the ATES-ENA system."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Aquifer_thermal_energy_storage",
+        "title": "Aquifer thermal energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "System configuration",
+        "text": "A Carnot battery system can be divided into three parts: Power to Thermal (P2T), Thermal Energy Storage (TES), and Thermal to Power (T2P).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Carnot_Battery_02.jpg/220px-Carnot_Battery_02.jpg",
+                "caption": "Possible energy conversion and storage technologies"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Carnot_battery",
+        "title": "Carnot battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Parabolic trough",
+        "text": "A parabolic trough consists of a linear parabolic reflector that concentrates light onto a receiver positioned along the reflector's focal line. The receiver is a tube positioned at the longitudinal focal line of the parabolic mirror and filled with a working fluid. The reflector follows the sun during the daylight hours by tracking along a single axis. A working fluid (e.g. molten salt [43] ) is heated to 150–350 °C (302–662 °F) as it flows through the receiver and is then used as a heat source for a power generation system. [44] Trough systems are the most developed CSP technology. The Solar Energy Generating Systems (SEGS) plants in California, the world's first commercial parabolic trough plants, Acciona's Nevada Solar One near Boulder City, Nevada , and Andasol , Europe's first commercial parabolic trough plant are representative, along with Plataforma Solar de Almería 's SSPS-DCS test facilities in Spain . [45]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Parabolic_trough_at_Harper_Lake_in_California.jpg/220px-Parabolic_trough_at_Harper_Lake_in_California.jpg",
+                "caption": "Parabolic trough at a plant near Harper Lake, California"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Linear_Parabolic_Reflector_Diagram_%28Concentrated_Solar_Power%29.svg/220px-Linear_Parabolic_Reflector_Diagram_%28Concentrated_Solar_Power%29.svg.png",
+                "caption": "Diagram of linear parabolic reflector concentrating sun rays to heat working fluid"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Concentrated_solar_power",
+        "title": "Concentrated solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Solar power tower",
+        "text": "A solar power tower consists of an array of dual-axis tracking reflectors ( heliostats ) that concentrate sunlight on a central receiver atop a tower; the receiver contains a heat-transfer fluid, which can consist of water-steam or molten salt . Optically a solar power tower is the same as a circular Fresnel reflector. The working fluid in the receiver is heated to 500–1000 °C (773–1,273 K or 932–1,832 °F) and then used as a heat source for a power generation or energy storage system. [44] An advantage of the solar tower is the reflectors can be adjusted instead of the whole tower. Power-tower development is less advanced than trough systems, but they offer higher efficiency and better energy storage capability. Beam down tower application is also feasible with heliostats to heat the working fluid. [49] The Solar Two in Daggett , California and the CESA-1 in Plataforma Solar de Almeria Almeria, Spain, are the most representative demonstration plants. The Planta Solar 10 (PS10) in Sanlucar la Mayor , Spain, is the first commercial utility-scale solar power tower in the world. The 377 MW Ivanpah Solar Power Facility , located in the Mojave Desert , was the largest CSP facility in the world, and uses three power towers. [50] Ivanpah generated only 0.652 TWh (63%) of its energy from solar means, and the other 0.388 TWh (37%) was generated by burning natural gas . [51] [52] [53] Supercritical carbon dioxide can be used instead of steam as heat-transfer fluid for increased electricity production efficiency. However, because of the high temperatures in arid areas where solar power is usually located, it is impossible to cool down carbon dioxide below its critical temperature in the compressor inlet. Therefore, supercritical carbon dioxide blends with higher critical temperature are currently in development.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Brigthsource_Tower_Ashalim.jpg/170px-Brigthsource_Tower_Ashalim.jpg",
+                "caption": "Ashalim Power Station , Israel, on its completion the tallest solar tower in the world. It concentrates light from over 50,000 heliostats."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/PS10_solar_power_tower.jpg/220px-PS10_solar_power_tower.jpg",
+                "caption": "The PS10 solar power plant in Andalusia , Spain concentrates sunlight from a field of heliostats onto a central solar power tower."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Concentrated_solar_power",
+        "title": "Concentrated solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Dish Stirling",
+        "text": "A dish Stirling or dish engine system consists of a stand-alone parabolic reflector that concentrates light onto a receiver positioned at the reflector's focal point. The reflector tracks the Sun along two axes. The working fluid in the receiver is heated to 250–700 °C (482–1,292 °F) and then used by a Stirling engine to generate power. [44] Parabolic-dish systems provide high solar-to-electric efficiency (between 31% and 32%), and their modular nature provides scalability. The Stirling Energy Systems (SES), United Sun Systems (USS) and Science Applications International Corporation (SAIC) dishes at UNLV , and Australian National University 's Big Dish in Canberra , Australia are representative of this technology. A world record for solar to electric efficiency was set at 31.25% by SES dishes at the National Solar Thermal Test Facility (NSTTF) in New Mexico on 31 January 2008, a cold, bright day. [58] According to its developer, Ripasso Energy, a Swedish firm, in 2015 its Dish Sterling system being tested in the Kalahari Desert in South Africa showed 34% efficiency. [59] The SES installation in Maricopa, Phoenix was the largest Stirling Dish power installation in the world until it was sold to United Sun Systems . Subsequently, larger parts of the installation have been moved to China as part of the huge energy demand.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SolarStirlingEngine.jpg/220px-SolarStirlingEngine.jpg",
+                "caption": "A dish Stirling"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Concentrated_solar_power",
+        "title": "Concentrated solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Cost and value",
+        "text": "Bulk power from CSP today is much more expensive than solar PV or Wind power, however when including energy storage CSP can be a cheaper alternative. As early as 2011, the rapid decline of the price of photovoltaic systems lead to projections that CSP will no longer be economically viable. [90] As of 2020, the least expensive utility-scale concentrated solar power stations in the United States and worldwide are five times more expensive than utility-scale photovoltaic power stations , with a projected minimum price of 7 cents per kilowatt-hour for the most advanced CSP stations against record lows of 1.32 cents per kWh [91] for utility-scale PV. [92] This five-fold price difference has been maintained since 2018. [93] Even though overall deployment of CSP remains limited in the early 2020s, the levelized cost of power from commercial scale plants has decreased significantly since the 2010s. With a learning rate estimated at around 20% cost reduction of every doubling in capacity [94] the cost were approaching the upper end of the fossil fuel cost range at the beginning of the 2020s driven by support schemes in several countries, including Spain, the US, Morocco, South Africa, China, and the UAE: CSP deployment has slowed down considerably as most of the above-mentioned markets have cancelled their support, [95] as the technology turned out to be more expensive on a per kWH basis than solar PV and wind power. CSP in combination with Thermal Energy Storage (TES) is expected by some to remain cheaper than PV with lithium batteries for storage durations above 4 hours per day, [96] while NREL expects that by 2030 PV with 10-hour storage lithium batteries will cost the same as PV with 4-hour storage used to cost in 2020. [97] Combining the affordability of PV and the dispatchability of CSP is a promising avenue for high capacity factor solar power at low cost. Few PV-CSP plants in China are hoping to operate profitably on the regional coal tariff of US$50 per MWh in the year 2021. [98]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/LCOE_of_Concentrating_Solar_Power_from_2006-2019.jpg/500px-LCOE_of_Concentrating_Solar_Power_from_2006-2019.jpg",
+                "caption": "LCOE of Concentrating Solar Power from 2006 to 2019"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Concentrated_solar_power",
+        "title": "Concentrated solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Spain",
+        "text": "In 2008, Spain launched the first commercial scale CSP market in Europe. Until 2012, solar-thermal electricity generation was initially eligible for feed-in tariff payments (art. 2 RD 661/2007) – leading to the creation of the largest CSP fleet in the world which at 2.3 GW of installed capacity contributes about 5TWh of power to the Spanish grid every year. [99] The initial requirements for plants in the FiT were: The capacity limits for the different system types were re-defined during the review of the application conditions every quarter (art. 5 RD 1578/2008, Annex III RD 1578/2008). Prior to the end of an application period, the market caps specified for each system type are published on the website of the Ministry of Industry, Tourism and Trade (art. 5 RD 1578/2008). [100] Because of cost concerns Spain has halted acceptance of new projects for the feed-in-tariff on 27 January 2012 [101] [102] Already accepted projects were affected by a 6% \"solar-tax\" on feed-in-tariffs, effectively reducing the feed-in-tariff. [103] In this context, the Spanish Government enacted the Royal Decree-Law 9/2013 [104] in 2013, aimed at the adoption of urgent measures to guarantee the economic and financial stability of the electric system, laying the foundations of the new Law 24/2013 of the Spanish electricity sector. [105] This new retroactive legal-economic framework applied to all the renewable energy systems was developed in 2014 by the RD 413/2014, [106] which abolished the former regulatory frameworks set by the RD 661/2007 and the RD 1578/2008 and defined a new remuneration scheme for these assets. After a lost decade for CSP in Europe, Spain announced in its National Energy and Climate Plan the intention of adding 5GW of CSP capacity between 2021 and 2030. [107] Towards this end bi-annual auctions of 200 MW of CSP capacity starting in October 2022 are expected, but details are not yet known. [108]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Andasol_5.jpg/220px-Andasol_5.jpg",
+                "caption": "Andasol Solar Power Station in Spain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Concentrated_solar_power",
+        "title": "Concentrated solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "China",
+        "text": "In 2024, China is offering second generation CSP technology to compete with other on-demand electricity generation methods based on renewable or non-renewable fossil fuels without any  direct or indirect subsidies. [11] In the current 14th five-year plan CSP projects are developed in several provinces alongside large GW sized solar PV and wind projects. [98] [8] In 2016, China announced its intention to build a batch of 20 technologically diverse CSP demonstration projects in the context of the 13th five-year plan , with the intention of building up an internationally competitive CSP industry. [114] Since the first plants were completed in 2018, the generated electricity from the plants with thermal storage is supported with an administratively set FiT of RMB 1.5 per kWh. [115] At the end of 2020, China operated a total of 545 MW in 12 CSP plants, [116] [117] seven plants (320 MW) are molten-salt towers; another two plants (150 MW) use the proven Eurotrough 150 parabolic trough design, [118] three plants (75 MW) use linear Fresnel collectors. Plans to build a second batch of demonstration projects were never enacted and further technology specific support for CSP in the upcoming 14th five-year plan is unknown. Federal support projects from the demonstration batch ran out at the end of 2021. [119]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/50_MW_molten-salt_power_tower_in_hami.jpg/220px-50_MW_molten-salt_power_tower_in_hami.jpg",
+                "caption": "The China Energy Engineering Corporation  50 MW Hami power tower has 8 hours of molten-salt storage"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Concentrated_solar_power",
+        "title": "Concentrated solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Effects on wildlife",
+        "text": "Insects can be attracted to the bright light caused by concentrated solar technology, and as a result birds that hunt them can be killed by being burned if they fly near the point where light is being focused. This can also affect raptors who hunt the birds. [141] [142] [143] [144] Federal wildlife officials were quoted by opponents as calling the Ivanpah power towers \"mega traps\" for wildlife. [145] [146] [147] Some media sources have reported that concentrated solar power plants have injured or killed large numbers of birds due to intense heat from the concentrated sunrays. [148] [149] Some of the claims may have been overstated or exaggerated. [150] According to rigorous reporting, in over six months, 133 songbirds were counted at Ivanpah. [151] By focusing no more than four mirrors on any one place in the air during standby, at Crescent Dunes Solar Energy Project , in three months, the death rate dropped to zero. [152]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Warbler_burned_mid-air_by_solar_thermal_power_plant.jpg/220px-Warbler_burned_mid-air_by_solar_thermal_power_plant.jpg",
+                "caption": "Dead warbler burned in mid-air by solar thermal power plant"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Concentrated_solar_power",
+        "title": "Concentrated solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Nearly isothermal compression",
+        "text": "A number of methods of nearly isothermal compression are being developed. Fluid Mechanics has a system with a heat absorbing and releasing structure (HARS) attached to a reciprocating piston. [68] Light Sail injects a water spray into a reciprocating cylinder. [ citation needed ] SustainX uses an air-water foam mix inside a semi-custom, 120-rpm compressor/expander. [69] All these systems ensure that the air is compressed with high thermal diffusivity compared to the speed of compression. Typically these compressors can run at speeds up to 1000 rpm. To ensure high thermal diffusivity, the average distance a gas molecule is from a heat-absorbing surface is about 0.5 mm. These nearly-isothermal compressors can also be used as nearly-isothermal expanders and are being developed to improve the round-trip efficiency of CAES.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Crowley%27s_isothermal_compressor_%26_expander.jpg/330px-Crowley%27s_isothermal_compressor_%26_expander.jpg",
+                "caption": "Schematic views of a nearly isothermal compressor and expander. Left view with the piston fully retracted, right view with the piston fully inserted."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Compressed-air_energy_storage",
+        "title": "Compressed-air energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    },
+    {
+        "section": "Sodium–nickel chloride (Zebra) battery",
+        "text": "A lower-temperature [11] variant of molten-salt batteries was the development of the ZEBRA (originally, \"Zeolite Battery Research Africa\"; later, the \"Zero Emissions Batteries Research Activity\") battery in 1985, originally developed for electric vehicle applications. [12] [13] The battery uses NaNiCl 2 with Na + -beta-alumina ceramic electrolyte. [14] The NaNiCl 2 battery operates at 245 °C (473 °F) and uses molten sodium tetrachloroaluminate ( NaAlCl 4 ), which has a melting point of 157 °C (315 °F), as the electrolyte. The negative electrode is molten sodium. The positive electrode is nickel in the discharged state and nickel chloride in the charged state. Because nickel and nickel chloride are nearly insoluble in neutral and basic melts, contact is allowed, providing little resistance to charge transfer. Since both NaAlCl 4 and Na are liquid at the operating temperature, a sodium-conducting β-alumina ceramic is used to separate the liquid sodium from the molten NaAlCl 4 . The primary elements used in the manufacture of these batteries have much higher worldwide reserves and annual production than lithium. [15] It was invented in 1985 by the Zeolite Battery Research Africa Project (ZEBRA) group at the Council for Scientific and Industrial Research (CSIR) in Pretoria, South Africa . It can be assembled in the discharged state, using NaCl, Al, nickel and iron powder. The positive electrode is composed mostly of materials in the solid state, which reduces the likelihood of corrosion, improving safety. [16] Its specific energy is 100 Wh/kg; specific power is 150 W/kg. The β-alumina solid ceramic is unreactive to sodium metal and sodium aluminum chloride. Lifetimes of over 2,000 cycles and twenty years have been demonstrated with full-sized batteries, and over 4,500 cycles and fifteen years with 10- and 20-cell modules. For comparison, [ citation needed ] LiFePO 4 lithium iron phosphate batteries store 90–110 Wh/kg, and the more common LiCoO 2 lithium-ion batteries store 150–200 Wh/kg. A nano lithium-titanate battery stores 72 Wh/kg and can provide power of 760 W/kg. [17] The ZEBRA's liquid electrolyte freezes at 157 °C (315 °F), and the normal operating temperature range is 270–350 °C (520–660 °F). Adding iron to the cell increases its power response. [16] ZEBRA batteries are currently manufactured by FZSoNick [18] and used as a power backup in the telecommunication industries, Oil&Gas and Railways. It is also used in special electric vehicles used in mining. In the past it was adopted in the Modec Electric Van, [ citation needed ] the Iveco Daily 3.5-ton delivery vehicle, [ citation needed ] the prototype Smart ED , and the Th!nk City . [19] In 2011 the US Postal Service began testing all-electric delivery vans, one powered by a ZEBRA battery. [20] In 2010 General Electric announced a Na-NiCl 2 battery that it called a sodium–metal halide battery, with a 20-year lifetime. Its cathode structure consists of a conductive nickel network, molten salt electrolyte, metal current collector, carbon felt electrolyte reservoir and the active sodium–metal halide salts. [21] [22] In 2015, as a result of a global restructuring, the company abandoned the project. [23] In 2017 Chinese battery maker Chilwee Group (also known as Chaowei) created a new company with General Electric (GE) to bring to market a Na-NiCl battery for industrial and energy storage applications. [24] When not in use, Na-NiCl 2 batteries are typically kept molten and ready for use because if allowed to solidify they typically take twelve hours to reheat and charge. [25] This reheating time varies depending on the battery-pack temperature, and power available for reheating. After shutdown a fully charged battery pack loses enough energy to cool and solidify in five-to-seven days depending on the amount of insulation. [ citation needed ] Sodium metal chloride batteries are very safe; a thermal runaway can be activated only by piercing the battery and also, in this unlikely event, no fire or explosion will be generated. For this reason and also for the possibility to be installed outdoor without cooling systems, make the sodium metal chloride batteries very suitable for the industrial and commercial energy storage installations. Sumitomo studied a battery using a salt that is molten at 61 °C (142 °F), far lower than sodium based batteries, and operational at 90 °C (194 °F). It offers energy densities as high as 290 Wh/L and 224 Wh/kg and charge/discharge rates of 1C with a lifetime of 100–1000 charge cycles. The battery employs only nonflammable materials and neither ignites on contact with air nor risks thermal runaway. This eliminates waste-heat storage or fire- and explosion-proof equipment, and allows closer cell packing. The company claimed that the battery required half the volume of lithium-ion batteries and one quarter that of sodium–sulfur batteries. [26] The cell used a nickel cathode and a glassy carbon anode. [27] In 2014 researchers identified a liquid sodium–cesium alloy that operates at 50 °C (122 °F) and produced 420 milliampere-hours per gram. The new material was able to fully coat, or \"wet,\" the electrolyte. After 100 charge/discharge cycles, a test battery maintained about 97% of its initial storage capacity. The lower operating temperature allowed the use of a less-expensive polymer external casing instead of steel, offsetting some of the increased cost of cesium. [28] Innovenergy in Meiringen , Switzerland has further optimised this technology with the use of domestically sourced raw materials, except for the nickel powder component. Despite the reduced capacity compared with lithium-ion batteries , the ZEBRA technology is applicable for stationary energy storage from solar power . In 2022, the company operated a 540 kWh storage facility for solar cells on the roof of a shopping center, and currently produces over a million battery units per year from sustainable, non-toxic materials ( table salt ). [29]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Venturi_Global_Challenges%2C_Mission_02_%22Shanghai_to_Paris%22.JPG/220px-Venturi_Global_Challenges%2C_Mission_02_%22Shanghai_to_Paris%22.JPG",
+                "caption": "The Citroën Berlingo First Electric \"Powered by Venturi\" used a ZEBRA storage battery; a specially-prepared version was driven from Shanghai to Paris in 2010."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Molten-salt_battery",
+        "title": "Molten-salt battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Thermal energy storage systems"
+    }
+]

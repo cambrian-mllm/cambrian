@@ -1,0 +1,1097 @@
+[
+    {
+        "section": "Thermodynamic-efficiency limit and infinite-stack limit",
+        "text": "If one has a source of heat at temperature T s and cooler heat sink at temperature T c , the maximum theoretically possible value for the ratio of work (or electric power) obtained to heat supplied is 1- T c / T s , given by a Carnot heat engine . If we take 6000 K for the temperature of the sun and 300 K for ambient conditions on earth, this comes to 95%. In 1981, Alexis de Vos and Herman Pauwels showed that this is achievable with a stack of an infinite number of cells with band gaps ranging from infinity (the first cells encountered by the incoming photons) to zero, with a voltage in each cell very close to the open-circuit voltage, equal to 95% of the band gap of that cell, and with 6000 K blackbody radiation coming from all directions. However, the 95% efficiency thereby achieved means that the electric power is 95% of the net amount of light absorbed – the stack emits radiation as it has non-zero temperature, and this radiation has to be subtracted from the incoming radiation when calculating the amount of heat being transferred and the efficiency. They also considered the more relevant problem of maximizing the power output for a stack being illuminated from all directions by 6000 K blackbody radiation. In this case, the voltages must be lowered to less than 95% of the band gap (the percentage is not constant over all the cells). The maximum theoretical efficiency calculated is 86.8% for a stack of an infinite number of cells, using the incoming concentrated sunlight radiation. [12] When the incoming radiation comes only from an area of the sky the size of the sun, the efficiency limit drops to 68.7%. [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ShockleyQueisserFullCurve.svg/220px-ShockleyQueisserFullCurve.svg.png",
+                "caption": "The Shockley–Queisser limit for the efficiency of a single-junction solar cell under unconcentrated sunlight at 273 K. This calculated curve uses actual solar spectrum data, and therefore the curve is wiggly from IR absorption bands in the atmosphere. This efficiency limit of ~34% can be exceeded by multijunction solar cells ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar-cell_efficiency",
+        "title": "Solar-cell efficiency",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Maximum power point",
+        "text": "A solar cell may operate over a wide range of voltages (V) and currents (I). By increasing the resistive load on an irradiated cell continuously from zero (a short circuit ) to a very high value (an open circuit ) one can determine the maximum power point, the point that maximizes V×I; that is, the load for which the cell can deliver maximum electrical power at that level of irradiation. (The output power is zero in both the short circuit and open circuit extremes). The maximum power point of a solar cell is affected by its temperature. Knowing the technical data of certain solar cell, its power output at a certain temperature can be obtained by P ( T ) = P S T C + d P d T ( T c e l l − T S T C ) {\\displaystyle P(T)=P_{STC}+{\\frac {dP}{dT}}(T_{cell}-T_{STC})} , where P S T C {\\displaystyle P_{STC}} is the power generated at the standard testing condition; T c e l l {\\displaystyle T_{cell}} is the actual temperature of the solar cell. A high quality, monocrystalline silicon solar cell, at 25 °C cell temperature, may produce 0.60 V open-circuit ( V OC ). The cell temperature in full sunlight, even with 25 °C air temperature, will probably be close to 45 °C, reducing the open-circuit voltage to 0.55 V per cell. The voltage drops modestly, with this type of cell, until the short-circuit current is approached ( I SC ). Maximum power (with 45 °C cell temperature) is typically produced with 75% to 80% of the open-circuit voltage (0.43 V in this case) and 90% of the short-circuit current. This output can be up to 70% of the V OC x I SC product. The short-circuit current ( I SC ) from a cell is nearly proportional to the illumination, while the open-circuit voltage ( V OC ) may drop only 10% with an 80% drop in illumination. Lower-quality cells have a more rapid drop in voltage with increasing current and could produce only 1/2 V OC at 1/2 I SC . The usable power output could thus drop from 70% of the V OC x I SC product to 50% or even as little as 25%. Vendors who rate their solar cell \"power\" only as V OC x I SC , without giving load curves, can be seriously distorting their actual performance. The maximum power point of a photovoltaic varies with incident illumination. For example, accumulation of dust on photovoltaic panels reduces the maximum power point. [18] Recently, new research to remove dust from solar panels has been developed by utilizing electrostatic cleaning systems. In such systems, an applied electrostatic field at the surface of the solar panels causes the dust particles to move in a \"flip-flop\" manner. [19] Then, due to gravity and the fact that the solar panels are slightly slanted, the dust particles get pulled downward by gravity. [19] These systems only require a small power consumption and enhance the performance of the solar cells, especially when installed in the desert, where dust accumulation contributes to decreasing the solar panel's performance. Also, for systems large enough to justify the extra expense, a maximum power point tracker tracks the instantaneous power by continually measuring the voltage and current (and hence, power transfer), and uses this information to dynamically adjust the load so the maximum power is always transferred, regardless of the variation in lighting.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Dust_on_the_a_solar_panel.jpg/250px-Dust_on_the_a_solar_panel.jpg",
+                "caption": "Dust often accumulates on the glass of solar modules - highlighted in this negative image as black dots - which reduces the amount of light admitted to the solar cells"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar-cell_efficiency",
+        "title": "Solar-cell efficiency",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Promoting light scattering",
+        "text": "The inclusion of light-scattering effects in solar cells is a photonic strategy to increase the absorption for the lower-energy sunlight photons (chiefly in near-infrared range) for which the photovoltaic material presents reduced absorption coefficient. Such light-trapping scheme is accomplished by the deviation of the light rays from the incident direction, thereby increasing their path length in the cells' absorber. [38] Conventional approaches used to implement light diffusion are based on textured rear/front surfaces, but many alternative optical designs have been demonstrated with promising results based in diffraction gratings, arrays of metal or dielectric nano/micro particles, wave-optical micro-structuring, among others. [39] When applied in the devices' front these structures can act as geometric anti-reflective coatings, simultaneously reducing the reflection of out-going light. For instance, lining the light-receiving surface of the cell with nano-sized metallic studs can substantially increase the cell efficiency. Light reflects off these studs at an oblique angle to the cell, increasing the length of the light path through the cell. This increases the number of photons absorbed by the cell and the amount of current generated. [40] The main materials used for the nano-studs are silver , gold , and aluminium . Gold and silver are not very efficient, as they absorb much of the light in the visible spectrum, which contains most of the energy present in sunlight, reducing the amount of light reaching the cell. [40] Aluminium absorbs only ultraviolet radiation, and reflects both visible and infra-red light, so energy loss is minimized. Aluminium can increase cell efficiency up to 22% (in lab conditions). [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Light_Trapping_Diagram.png/220px-Light_Trapping_Diagram.png",
+                "caption": "Diagram of the characteristic E-field enhancement profiles experienced in thin photovoltaic films (thickness t_PV) patterned with front features. Two simultaneous optical mechanisms can cause light-trapping : anti-reflection and scattering; and two main spectral regions can be distinguished for each mechanism, at short and long wavelengths, thus leading to the 4 types of absorption enhancement profiles illustrated here across the absorber region. The main geometrical parameter of the photonic structures influencing the absorption enhancement in each profile is indicated by the black arrows. [37]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar-cell_efficiency",
+        "title": "Solar-cell efficiency",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Rear surface passivation",
+        "text": "Surface passivation is critical to solar cell efficiency. [47] Many improvements have been made to the front side of mass-produced solar cells, but the aluminium back-surface is impeding efficiency improvements. [48] The efficiency of many solar cells has benefitted by creating so-called passivated emitter and rear cells (PERCs). The chemical deposition of a rear-surface dielectric passivation layer stack that is also made of a thin silica or aluminium oxide film topped with a silicon nitride film helps to improve efficiency in silicon solar cells. This helped increase cell efficiency for commercial Cz-Si wafer material from just over 17% to over 21% by the mid-2010s, [49] and the cell efficiency for quasi-mono-Si to a record 19.9%. Concepts of the rear surface passivation for silicon solar cells has also been implemented for CIGS solar cells. [50] The rear surface passivation shows the potential to improve the efficiency. Al 2 O 3 and SiO 2 have been used as the passivation materials. Nano-sized point contacts on Al 2 O 3 layer [51] and line contacts on SiO2 layer [52] provide the electrical connection of CIGS absorber to the rear electrode Molybdenum . The point contacts on the Al 2 O 3 layer are created by e-beam lithography and the line contacts on the SiO 2 layer are created using photolithography . Also, the implementation of the passivation layers does not change the morphology of the CIGS layers.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tot_heat_flux_z.png/220px-Tot_heat_flux_z.png",
+                "caption": ""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar-cell_efficiency",
+        "title": "Solar-cell efficiency",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Theory and construction",
+        "text": "Photovoltaic modules consist of a large number of solar cells and use light energy ( photons ) from the Sun to generate electricity through the photovoltaic effect . Most modules use wafer -based crystalline silicon cells or thin-film cells . The structural ( load carrying ) member of a module can be either the top layer or the back layer. Cells must be protected from mechanical damage and moisture. Most modules are rigid, but semi-flexible ones based on thin-film cells are also available. The cells are usually connected electrically in series , one to another to the desired voltage, and then in parallel to increase current. The power (in watts ) of the module is the voltage (in volts ) multiplied by the current (in amperes ), and depends both on the amount of light and on the electrical load connected to the module. The manufacturing specifications on solar panels are obtained under standard conditions, which are usually not the true operating conditions the solar panels are exposed to on the installation site. [10] A PV junction box is attached to the back of the solar panel and functions as its output interface. External connections for most photovoltaic modules use MC4 connectors to facilitate easy weatherproof connections to the rest of the system. A USB power interface can also be used. [11] Solar panels also use metal frames consisting of racking components, brackets, reflector shapes, and troughs to better support the panel structure. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/From_a_solar_cell_to_a_PV_system.svg/280px-From_a_solar_cell_to_a_PV_system.svg.png",
+                "caption": "From a solar cell to a PV system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Smart solar modules",
+        "text": "Smart modules are different from traditional solar panels because the power electronics embedded in the module offers enhanced functionality such as panel-level maximum power point tracking , monitoring, and enhanced safety. [ citation needed ] Power electronics attached to the frame of a solar module, or connected to the photovoltaic circuit through a connector, are not properly considered smart modules. [14] Several companies have begun incorporating into each PV module various embedded power electronics such as:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Smart_Module.png/220px-Smart_Module.png",
+                "caption": "Smart module"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Technology",
+        "text": "Most solar modules are currently produced from crystalline silicon (c-Si) solar cells made of polycrystalline or monocrystalline silicon . In 2021, crystalline silicon accounted for 95% of worldwide PV production, [16] while the rest of the overall market is made up of thin-film technologies using cadmium telluride (CdTe), copper indium gallium selenide (CIGS) and amorphous silicon (a-Si) . [17] Emerging, third-generation solar technologies use advanced thin-film cells. They produce a relatively high-efficiency conversion for a lower cost compared with other solar technologies. Also, high-cost, high-efficiency, and close-packed rectangular multi-junction (MJ) cells are usually used in solar panels on spacecraft , as they offer the highest ratio of generated power per kilogram lifted into space. MJ-cells are compound semiconductors and made of gallium arsenide (GaAs) and other semiconductor materials. Another emerging PV technology using MJ-cells is concentrator photovoltaics (CPV).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Global_photovoltaics_market_share_by_technology_1980-2021.svg/280px-Global_photovoltaics_market_share_by_technology_1980-2021.svg.png",
+                "caption": "Market-share of PV technologies since 1980"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Ground",
+        "text": "Large utility-scale solar power plants frequently use ground-mounted photovoltaic systems. Their solar modules are held in place by racks or frames that are attached to ground-based mounting supports. [21] [22] Ground based mounting supports include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Solar_array-3.jpg/150px-Solar_array-3.jpg",
+                "caption": "Solar array ground mounting"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Vertical bifacial solar array",
+        "text": "Vertical bifacial solar cells oriented towards east and west to catch the sun's irradiance more efficiently in the morning and evening. Applications include agrivoltaics , solar fencing, highway and railroad noise dampeners and barricades . [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Agrivoltaic_installation_Foulum.jpg/220px-Agrivoltaic_installation_Foulum.jpg",
+                "caption": "Agrivoltaic vertical bifacial solar panels"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vertical_Bifacial_vs_South_facing_solar_array.webp/220px-Vertical_Bifacial_vs_South_facing_solar_array.webp.png",
+                "caption": "Vertical Bifacial vs south facing solar array power output Vertical Bifacial South facing solar array"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Vertical_solar_along_interstate.webp/220px-Vertical_solar_along_interstate.webp.png",
+                "caption": "Vertical bifacial solar along highway"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Solar Canopy",
+        "text": "Solar canopies are solar arrays which are installed on top of a traditional canopy . These canopies could be a parking lot canopy, carport , gazebo , Pergola , or patio cover .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Parking_under_Solar_Canopy_%2852937580768%29.jpg/220px-Parking_under_Solar_Canopy_%2852937580768%29.jpg",
+                "caption": "Solar canopy parking lot in New Haven at Hotel Marcel.  There are EV level 2 chargers underneath the canopy and a 12-stall Tesla Supercharger behind."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Portable",
+        "text": "Portable solar panels can ensure electric current, enough to charge devices (mobile, radio, ...) via USB-port or to charge a powerbank f.e. Special features of the panels include high flexibility, high durability & waterproof characteristics. They are good for travel or camping.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Portable_solar_panel2.jpg/220px-Portable_solar_panel2.jpg",
+                "caption": "A 5V, 2A, 10W solar panel with USB port"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Power curve",
+        "text": "In general with individual solar panels, if not enough current is taken, then power isn't maximised. If too much current is taken then the voltage collapses. The optimum current draw is roughly proportional to the amount of sunlight striking the panel. Solar panel capacity is specified by the MPP (maximum power point) value of solar panels in full sunlight.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Solar-Cell-IV-curve-with-MPP.png/220px-Solar-Cell-IV-curve-with-MPP.png",
+                "caption": "A typical voltage/current curve for individual unshadowed solar panels. Maximum power point tracking ensures that as much power as possible is collected."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Inverters",
+        "text": "Solar inverters convert the DC power provided by panels to AC power. MPP (Maximum power point) of the solar panel consists of MPP voltage (V mpp ) and MPP current (I mpp ). Performing maximum power point tracking (MPPT), a solar inverter samples the output (I-V curve) from the solar cell and applies the proper electrical load to obtain maximum power. An AC ( alternating current ) solar panel has a small DC to AC microinverter on the back and produces AC power with no external DC connector . AC modules are defined by Underwriters Laboratories as the smallest and most complete system for harvesting solar energy. [32] [ need quotation to verify ] Micro-inverters work independently to enable each panel to contribute its maximum possible output for a given amount of sunlight, but can be more expensive. [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UP-curve_of_partially_shaded_solar_generator.png/220px-UP-curve_of_partially_shaded_solar_generator.png",
+                "caption": "Power/Voltage-curve of a partially shaded PV module, with marked local and global MPP"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Module interconnection",
+        "text": "Module electrical connections are made with conducting wires that take the current off the modules and are sized according to the current rating and fault conditions, and sometimes include in-line fuses. Panels are typically connected in series of one or more panels to form strings to achieve a desired output voltage, and strings can be connected in parallel to provide the desired current capability (amperes) of the PV system. In string connections the voltages of the modules add, but the current is determined by the lowest performing panel. This is known as the \"Christmas light effect\". In parallel connections the voltages will be the same, but the currents add. Arrays are connected up to meet the voltage requirements of the inverters and to not greatly exceed the current limits. Blocking and bypass diodes may be incorporated within the module or used externally to deal with partial array shading, in order to maximize output. For series connections, bypass diodes are placed in parallel with modules to allow current to bypass shaded modules which would otherwise severely limit the current. For paralleled connections, a blocking diode may be placed in series with each module's string to prevent current flowing backwards through shaded strings thus short-circuiting other strings.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Photovoltaic_Diode_Connections.png/220px-Photovoltaic_Diode_Connections.png",
+                "caption": "A connection example, a blocking diode is placed in series with each module string, whereas bypass diodes are placed in parallel with modules."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Efficiency",
+        "text": "Each module is rated by its DC output power under standard test conditions (STC) and hence the on field output power might vary. Power typically ranges from 100 to 365 Watts (W). The efficiency of a module determines the area of a module given the same rated output –  an 8% efficient 230 W module will have twice the area of a 16% efficient 230 W module. Some commercially available solar modules exceed 24% efficiency. [35] [36] Currently, [ needs update ] the best achieved sunlight conversion rate (solar module efficiency) is around 21.5% in new commercial products [37] typically lower than the efficiencies of their cells in isolation. The most efficient mass-produced solar modules have power density values of up to 175 W/m 2 (16.22 W/ft 2 ). [38] The current versus voltage curve of a module provides useful information about its electrical performance. [39] Manufacturing processes often cause differences in the electrical parameters of different modules photovoltaic, even in cells of the same type. Therefore, only the experimental measurement of the I–V curve allows us to accurately establish the electrical parameters of a photovoltaic device. This measurement provides highly relevant information for the design, installation and maintenance of photovoltaic systems. Generally, the electrical parameters of photovoltaic modules are measured by indoor tests. However, outdoor testing has important advantages such as no expensive artificial light source required, no sample size limitation, and more homogeneous sample illumination. Capacity factor of solar panels is limited primarily by geographic latitude and varies significantly depending on cloud cover, dust, day length and other factors. In the United Kingdom , seasonal capacity factor ranges from 2% (December) to 20% (July), with average annual capacity factor of 10–11%, while in Spain the value reaches 18%. [40] Globally, capacity factor for utility-scale PV farms was 16.1% in 2019. [41] [ unreliable source? ] Overheating is the most important factor for the efficiency of the solar panel. [42]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/NREL_PV_Module_Record_Efficiency_Chart.png/280px-NREL_PV_Module_Record_Efficiency_Chart.png",
+                "caption": "Reported timeline of champion solar module energy conversion efficiencies since 1988 ( National Renewable Energy Laboratory ) [34]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Performance and degradation",
+        "text": "Module performance is generally rated under standard test conditions (STC): irradiance of 1,000 W/m 2 , solar spectrum of AM 1.5 and module temperature at 25 °C. [44] The actual voltage and current output of the module changes as lighting, temperature and load conditions change, so there is never one specific voltage at which the module operates. Performance varies depending on geographic location, time of day, the day of the year, amount of solar irradiance , direction and tilt of modules, cloud cover, shading, soiling , state of charge, and temperature. Performance of a module or panel can be measured at different time intervals with a DC clamp meter or shunt and logged, graphed, or charted with a chart recorder or data logger. For optimum performance, a solar panel needs to be made of similar modules oriented in the same direction perpendicular to direct sunlight. Bypass diodes are used to circumvent broken or shaded panels and optimize output. These bypass diodes are usually placed along groups of solar cells to create a continuous flow. [45] Electrical characteristics include nominal power (P MAX , measured in W ), open-circuit voltage (V OC ), short-circuit current (I SC , measured in amperes ), maximum power voltage (V MPP ), maximum power current (I MPP ), peak power, ( watt-peak , W p ), and module efficiency (%). Open-circuit voltage or V OC is the maximum voltage the module can produce when not connected to an electrical circuit or system. [46] V OC can be measured with a voltmeter directly on an illuminated module's terminals or on its disconnected cable. The peak power rating, W p , is the maximum output under standard test conditions (not the maximum possible output). Typical modules, which could measure approximately 1 by 2 metres (3 ft × 7 ft), will be rated from as low as 75 W to as high as 600 W, depending on their efficiency. At the time of testing, the test modules are binned according to their test results, and a typical manufacturer might rate their modules in 5 W increments, and either rate them at +/- 3%, +/-5%, +3/-0% or +5/-0%. [47] [48] [49]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Actual_output_in_volts%2C_amps%2C_and_wattage_from_a_100_Watt_Solar_module_in_August.jpg/280px-Actual_output_in_volts%2C_amps%2C_and_wattage_from_a_100_Watt_Solar_module_in_August.jpg",
+                "caption": ""
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Variability_of_Solar_Energy.jpg/280px-Variability_of_Solar_Energy.jpg",
+                "caption": "This chart illustrates the effect of clouds on solar energy production."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Maintenance",
+        "text": "Solar panel conversion efficiency, typically in the 20% range, is reduced by the accumulation of dust, grime, pollen, and other particulates on the solar panels, collectively referred to as soiling . \"A dirty solar panel can reduce its power capabilities by up to 30% in high dust/pollen or desert areas\", says Seamus Curran, associate professor of physics at the University of Houston and director of the Institute for NanoEnergy, which specializes in the design, engineering, and assembly of nanostructures. [59] The average soiling loss in the world in 2018 is estimated to be at least 3% – 4%. [60] Paying to have solar panels cleaned is a good investment in many regions, as of 2019. [60] However, in some regions, cleaning is not cost-effective. In California as of 2013 soiling-induced financial losses were rarely enough to warrant the cost of washing the panels. On average, panels in California lost a little less than 0.05% of their overall efficiency per day. [61] There are also occupational hazards with solar panel installation and maintenance. A 2015–2018 study in the UK investigated 80 PV-related incidents of fire, with over 20 \"serious fires\" directly caused by PV installation, including 37 domestic buildings and 6 solar farms. In 1 ⁄ 3 of the incidents a root cause was not established and in a majority of others was caused by poor installation, faulty product or design issues. The most frequent single element causing fires was the DC isolators. [62] A 2021 study by kWh Analytics determined median annual degradation of PV systems at 1.09% for residential and 0.8% for non-residential ones, almost twice that previously assumed. [63] A 2021 module reliability study found an increasing trend in solar module failure rates with 30% of manufacturers experiencing safety failures related to junction boxes (growth from 20%) and 26% bill-of-materials failures (growth from 20%). [64] Cleaning methods for solar panels can be divided into 5 groups: manual tools, mechanized tools (such as tractor mounted brushes), installed hydraulic systems (such as sprinklers), installed robotic systems, and deployable robots. Manual cleaning tools are by far the most prevalent method of cleaning, most likely because of the low purchase cost. However, in a Saudi Arabian study done in 2014, it was found that \"installed robotic systems, mechanized systems, and installed hydraulic systems are likely the three most promising technologies for use in cleaning solar panels\". [65]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cleaning_solar_panel.jpg/220px-Cleaning_solar_panel.jpg",
+                "caption": "General cleaning of ground-based solar panels at the Shanta Gold mine in Tanzania"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Googleplex_Solar_panels.jpg/220px-Googleplex_Solar_panels.jpg",
+                "caption": "Deeper level of cleaning with pressure washing of the car port solar panels at Googleplex, Mountain View, California"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Price",
+        "text": "The price of solar electrical power has continued to fall so that in many countries it has become cheaper than fossil fuel electricity from the electricity grid since 2012, a phenomenon known as grid parity . [89] With the rise of global awareness, institutions such as the IRS have adopted a tax credit format, refunding a portion of any solar panel array for private use. [90] The price of a solar array only continues to fall. Average pricing information divides in three pricing categories: those buying small quantities (modules of all sizes in the kilowatt range annually), mid-range buyers (typically up to 10 MWp annually), and large quantity buyers (self-explanatory—and with access to the lowest prices). Over the long term there is clearly a systematic reduction in the price of cells and modules. For example, in 2012 it was estimated that the quantity cost per watt was about US$0.60, which was 250 times lower than the cost in 1970 of US$150. [91] [92] A 2015 study shows price/kWh dropping by 10% per year since 1980, and predicts that solar could contribute 20% of total electricity consumption by 2030, whereas the International Energy Agency predicts 16% by 2050. [93] Real-world energy production costs depend a great deal on local weather conditions. In a cloudy country such as the United Kingdom, the cost per produced kWh is higher than in sunnier countries like Spain. Following to RMI , Balance-of-System (BoS) elements, this is, non-module cost of non- microinverter solar modules (as wiring, converters, racking systems and various components) make up about half of the total costs of installations. For merchant solar power stations, where the electricity is being sold into the electricity transmission network, the cost of solar energy will need to match the wholesale electricity price. This point is sometimes called 'wholesale grid parity' or 'busbar parity'. [89]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg/280px-1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg.png",
+                "caption": "Swanson's law –stating that solar module prices have dropped about 20% for each doubling of installed capacity—defines the \" learning rate \" of solar photovoltaics . [87] [88]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Energy_pricing.png/280px-Energy_pricing.png",
+                "caption": "Short term normalized cost comparisons demonstrating value of various electric generation technologies [94]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Energy_pricing_longterm.png/280px-Energy_pricing_longterm.png",
+                "caption": "Long term normalized cost comparisons demonstrating value of various electric generation technologies [94]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Vehicular applications",
+        "text": "Application of solar cells as an alternative energy source for vehicular applications is a growing industry. Electric vehicles that operate off of solar energy and/or sunlight are commonly referred to as solar cars. [ citation needed ] These vehicles use solar panels to convert absorbed light into electrical energy that is then stored in batteries . [ citation needed ] There are multiple input factors that affect the output power of solar cells such as temperature , material properties, weather conditions, solar irradiance and more. [4] The first instance of photovoltaic cells within vehicular applications was around midway through the second half of the 1900's. In an effort to increase publicity and awareness in solar powered transportation Hans Tholstrup decided to set up the first edition of the World Solar Challenge in 1987. [ citation needed ] It was a 3000 km race across the Australian outback where competitors from industry research groups and top universities around the globe were invited to compete. [ citation needed ] General Motors ended up winning the event by a significant margin with their Sunraycer vehicle that achieved speeds of over 40 mph. [ citation needed ] Contrary to popular belief however solar powered cars are one of the oldest alternative energy vehicles. [5] Current solar vehicles harness energy from the Sun via Solar panels which are a collected group of solar cells working in tandem towards a common goal. [6] These solid-state devices use quantum mechanical transitions in order to convert a given amount of solar power into electrical power. [6] The electricity produced as a result is then stored in the vehicle's battery in order to run the motor of the vehicle. [6] Batteries in solar-powered vehicles differ from those in standard ICE cars because they are fashioned in a way to impart more power towards the electrical components of the vehicle for a longer duration. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/GM_Sunraycer.JPG/220px-GM_Sunraycer.JPG",
+                "caption": "The Sunraycer vehicle developed by GM ( General Motors )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_cell",
+        "title": "Solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Cells, modules, panels and systems",
+        "text": "Multiple solar cells in an integrated group, all oriented in one plane, constitute a solar photovoltaic panel or module . Photovoltaic modules often have a sheet of glass on the sun-facing side, allowing light to pass while protecting the semiconductor wafers . Solar cells are usually connected in series creating additive voltage. Connecting cells in parallel yields a higher current. However, problems in paralleled cells such as shadow effects can shut down the weaker (less illuminated) parallel string (a number of series connected cells) causing substantial power loss and possible damage because of the reverse bias applied to the shadowed cells by their illuminated partners. [ citation needed ] Although modules can be interconnected to create an array with the desired peak DC voltage and loading current capacity, which can be done with or without using independent MPPTs ( maximum power point trackers ) or, specific to each module, with or without module level power electronic (MLPE) units such as microinverters or DC-DC optimizers . Shunt diodes can reduce shadowing power loss in arrays with series/parallel connected cells. By 2020, the United States cost per watt for a utility scale system had declined to $0.94. [9]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/From_a_solar_cell_to_a_PV_system.svg/300px-From_a_solar_cell_to_a_PV_system.svg.png",
+                "caption": "From a solar cell to a PV system. Diagram of the possible components of a photovoltaic system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_cell",
+        "title": "Solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Declining costs and exponential growth",
+        "text": "Adjusting for inflation, it cost $96 per watt for a solar module in the mid-1970s. Process improvements and a very large boost in production have brought that figure down more than 99%, to 30¢ per watt in 2018 [34] and as low as 20¢ per watt in 2020. [35] Swanson's law is an observation similar to Moore's Law that states that solar cell prices fall 20% for every doubling of industry capacity. It was featured in an article in the British weekly newspaper The Economist in late 2012. [36] Balance of system costs were then higher than those of the panels. Large commercial arrays could be built, as of 2018, at below $1.00 a watt, fully commissioned. [9] As the semiconductor industry moved to ever-larger boules , older equipment became inexpensive. Cell sizes grew as equipment became available on the surplus market; ARCO Solar's original panels used cells 2 to 4 inches (50 to 100 mm) in diameter. Panels in the 1990s and early 2000s generally used 125 mm wafers; since 2008, almost all new panels use 156 mm cells. The widespread introduction of flat screen televisions in the late 1990s and early 2000s led to the wide availability of large, high-quality glass sheets to cover the panels. During the 1990s, polysilicon (\"poly\") cells became increasingly popular. These cells offer less efficiency than their monosilicon (\"mono\") counterparts, but they are grown in large vats that reduce cost. By the mid-2000s, poly was dominant in the low-cost panel market, but more recently the mono returned to widespread use. Manufacturers of wafer-based cells responded to high silicon prices in 2004–2008 with rapid reductions in silicon consumption. In 2008, according to Jef Poortmans, director of IMEC 's organic and solar department, current cells use 8–9 grams (0.28–0.32 oz) of silicon per watt of power generation, with wafer thicknesses in the neighborhood of 200 microns . Crystalline silicon panels dominate worldwide markets and are mostly manufactured in China and Taiwan. By late 2011, a drop in European demand dropped prices for crystalline solar modules to about $1.09 [37] per watt down sharply from 2010. Prices continued to fall in 2012, reaching $0.62/watt by 4Q2012. [38] Solar PV is growing fastest in Asia, with China and Japan currently accounting for half of worldwide deployment . [39] Global installed PV capacity reached at least 301 gigawatts in 2016, and grew to supply 1.3% of global power by 2016. [40] It was anticipated that electricity from PV will be competitive with wholesale electricity costs all across Europe and the energy payback time of crystalline silicon modules can be reduced to below 0.5 years by 2020. [41] Falling costs are considered one of the biggest factors in the rapid growth of renewable energy, with the cost of solar photovoltaic electricity falling by ~85% between 2010 (when solar and wind made up 1.7% of global electricity generation) and 2021 (where they made up 8.7%). [42] In 2019 solar cells accounted for ~3 % of the world's electricity generation. [43]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Price_history_of_silicon_PV_cells_since_1977.svg/250px-Price_history_of_silicon_PV_cells_since_1977.svg.png",
+                "caption": "Price per watt history for conventional ( c-Si ) solar cells since 1977"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_cell",
+        "title": "Solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Theory",
+        "text": "A solar cell is made of semiconducting materials , such as silicon , that have been fabricated into a p–n junction . Such junctions are made by doping one side of the device p-type and the other n-type, for example in the case of silicon by introducing small concentrations of boron or phosphorus respectively. In operation, photons in sunlight hit the solar cell and are absorbed by the semiconductor.  When the photons are absorbed, electrons are excited from the valence band to the conduction band (or from occupied to unoccupied molecular orbitals in the case of an organic solar cell ), producing electron-hole pairs . \nIf the electron-hole pairs are created near the junction between p-type and n-type materials the local electric field sweeps them apart to opposite electrodes, producing an excess of electrons on one side and an excess of holes on the other. When the solar cell is unconnected (or the external electrical load is very high) the electrons and holes will ultimately restore equilibrium by diffusing back across the junction against the field and recombine with each other giving off heat, but if the load is small enough then it is easier for equilibrium to be restored by the excess electrons going around the external circuit, doing useful work along the way. An array of solar cells converts solar energy into a usable amount of direct current (DC) electricity. An inverter can convert the power to alternating current (AC). The most commonly known solar cell is configured as a large-area p–n junction made from silicon. Other possible solar cell types are organic solar cells, dye sensitized solar cells, perovskite solar cells, quantum dot solar cells etc. The illuminated side of a solar cell generally has a transparent conducting film for allowing light to enter into the active material and to collect the generated charge carriers. Typically, films with high transmittance and high electrical conductance such as indium tin oxide , conducting polymers or conducting nanowire networks are used for the purpose. [53]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Solartce3.gif/220px-Solartce3.gif",
+                "caption": "Schematic of charge collection by solar cells. Light transmits through transparent conducting electrode creating electron hole pairs, which are collected by both the electrodes. [53]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Silicon_Solar_cell_structure_and_mechanism.svg/220px-Silicon_Solar_cell_structure_and_mechanism.svg.png",
+                "caption": "Working mechanism of a solar cell"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_cell",
+        "title": "Solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Efficiency",
+        "text": "Solar cell efficiency may be broken down into reflectance efficiency, thermodynamic efficiency, charge carrier separation efficiency and conductive efficiency. The overall efficiency is the product of these individual metrics. The power conversion efficiency of a solar cell is a parameter which is defined by the fraction of incident power converted into electricity. [54] A solar cell has a voltage dependent efficiency curve, temperature coefficients, and allowable shadow angles. Due to the difficulty in measuring these parameters directly, other parameters are substituted: thermodynamic efficiency, quantum efficiency , integrated quantum efficiency , V OC ratio, and fill factor. Reflectance losses are a portion of quantum efficiency under \" external quantum efficiency \". Recombination losses make up another portion of quantum efficiency, V OC ratio, and fill factor. Resistive losses are predominantly categorized under fill factor, but also make up minor portions of quantum efficiency, V OC ratio. The fill factor is the ratio of the actual maximum obtainable power to the product of the open-circuit voltage and short-circuit current . This is a key parameter in evaluating performance. In 2009, typical commercial solar cells had a fill factor > 0.70. Grade B cells were usually between 0.4 and 0.7. [55] Cells with a high fill factor have a low equivalent series resistance and a high equivalent shunt resistance , so less of the current produced by the cell is dissipated in internal losses. Single p–n junction crystalline silicon devices are now approaching the theoretical limiting power efficiency of 33.16%, [56] noted as the Shockley–Queisser limit in 1961. In the extreme, with an infinite number of layers, the corresponding limit is 86% using concentrated sunlight. [57] In 2014, three companies broke the record of 25.6% for a silicon solar cell. Panasonic's was the most efficient. The company moved the front contacts to the rear of the panel, eliminating shaded areas. In addition they applied thin silicon films to the (high quality silicon) wafer's front and back to eliminate defects at or near the wafer surface. [58] In 2015, a 4-junction GaInP/GaAs//GaInAsP/GaInAs solar cell achieved a new laboratory record efficiency of 46.1% (concentration ratio of sunlight = 312) in a French-German collaboration between the Fraunhofer Institute for Solar Energy Systems (Fraunhofer ISE) , CEA-LETI and SOITEC. [59] In September 2015, Fraunhofer ISE announced the achievement of an efficiency above 20% for epitaxial wafer cells. The work on optimizing the atmospheric-pressure chemical vapor deposition (APCVD) in-line production chain was done in collaboration with NexWafe GmbH, a company spun off from Fraunhofer ISE to commercialize production. [60] [61] For triple-junction thin-film solar cells, the world record is 13.6%, set in June 2015. [62] In 2016, researchers at Fraunhofer ISE announced a GaInP/GaAs/Si triple-junction solar cell with two terminals reaching 30.2% efficiency without concentration. [63] In 2017, a team of researchers at National Renewable Energy Laboratory (NREL), EPFL and CSEM ( Switzerland ) reported record one-sun efficiencies of 32.8% for dual-junction GaInP/GaAs solar cell devices. In addition, the dual-junction device was mechanically stacked with a Si solar cell, to achieve a record one-sun efficiency of 35.9% for triple-junction solar cells. [64]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ShockleyQueisserFullCurve.svg/220px-ShockleyQueisserFullCurve.svg.png",
+                "caption": "The Shockley-Queisser limit for the theoretical maximum efficiency of a solar cell. Semiconductors with band gap between 1 and 1.5 eV (827 nm to 1240 nm; near-infrared) have the greatest potential to form an efficient single-junction cell. (The efficiency \"limit\" shown here can be exceeded by multijunction solar cells .)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NREL_PV_Cell_Record_Efficiency_Chart.png/300px-NREL_PV_Cell_Record_Efficiency_Chart.png",
+                "caption": "Reported timeline of research solar cell energy conversion efficiencies ( National Renewable Energy Laboratory )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_cell",
+        "title": "Solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Materials",
+        "text": "Solar cells are typically named after the semiconducting material they are made of. These materials must have certain characteristics in order to absorb sunlight . Some cells are designed to handle sunlight that reaches the Earth's surface, while others are optimized for use in space . Solar cells can be made of a single layer of light-absorbing material ( single-junction ) or use multiple physical configurations ( multi-junctions ) to take advantage of various absorption and charge separation mechanisms. Solar cells can be classified into first, second and third generation cells. The first generation cells—also called conventional, traditional or wafer -based cells—are made of crystalline silicon , the commercially predominant PV technology, that includes materials such as polysilicon and monocrystalline silicon . Second generation cells are thin film solar cells , that include amorphous silicon , CdTe and CIGS cells and are commercially significant in utility-scale photovoltaic power stations , building integrated photovoltaics or in small stand-alone power system . The third generation of solar cells includes a number of thin-film technologies often described as emerging photovoltaics—most of them have not yet been commercially applied and are still in the research or development phase. Many use organic materials, often organometallic compounds as well as inorganic substances. Despite the fact that their efficiencies had been low and the stability of the absorber material was often too short for commercial applications, there is research into these technologies as they promise to achieve the goal of producing low-cost, high-efficiency solar cells. [66] As of 2016, the most popular and efficient solar cells were those made from thin wafers of silicon which are also the oldest solar cell technology. [67]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Global_photovoltaics_market_share_by_technology_1980-2021.svg/220px-Global_photovoltaics_market_share_by_technology_1980-2021.svg.png",
+                "caption": "Global photovoltaics market share by technology 1980-2021. [65] : 24, 25"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_cell",
+        "title": "Solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Monocrystalline silicon",
+        "text": "Monocrystalline silicon (mono-Si) solar cells feature a single-crystal composition that enables electrons to move more freely than in a multi-crystal configuration. Consequently, monocrystalline solar panels deliver a higher efficiency than their multicrystalline counterparts. [69] The corners of the cells look clipped, like an octagon, because the wafer material is cut from cylindrical ingots, that are typically grown by the Czochralski process . Solar panels using mono-Si cells display a distinctive pattern of small white diamonds.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Sono_Sion_Front_Back.jpg/220px-Sono_Sion_Front_Back.jpg",
+                "caption": "The roof, bonnet and large parts of the outer shell of the Sion are equipped with highly efficient monocrystalline silicon cells"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_cell",
+        "title": "Solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Multijunction cells",
+        "text": "Multi-junction cells consist of multiple thin films, each essentially a solar cell grown on top of another, typically using metalorganic vapour phase epitaxy . Each layer has a different band gap energy to allow it to absorb electromagnetic radiation over a different portion of the spectrum. Multi-junction cells were originally developed for special applications such as satellites and space exploration , but are now used increasingly in terrestrial concentrator photovoltaics (CPV), an emerging technology that uses lenses and curved mirrors to concentrate sunlight onto small, highly efficient multi-junction solar cells. By concentrating sunlight up to a thousand times, High concentration photovoltaics (HCPV) has the potential to outcompete conventional solar PV in the future. [84] : 21, 26 Tandem solar cells based on monolithic, series connected, gallium indium phosphide (GaInP), gallium arsenide (GaAs), and germanium (Ge) p–n junctions, are increasing sales, despite cost pressures. [85] Between December 2006 and December 2007, the cost of 4N gallium metal rose from about $350 per kg to $680 per kg. Additionally, germanium metal prices have risen substantially to $1000–1200 per kg this year. Those materials include gallium (4N, 6N and 7N Ga), arsenic (4N, 6N and 7N) and germanium, pyrolitic boron nitride (pBN) crucibles for growing crystals, and boron oxide, these products are critical to the entire substrate manufacturing industry. [ citation needed ] A triple-junction cell, for example, may consist of the semiconductors: GaAs , Ge , and GaInP 2 . [86] Triple-junction GaAs solar cells were used as the power source of the Dutch four-time World Solar Challenge winners Nuna in 2003, 2005 and 2007 and by the Dutch solar cars Solutra (2005) , Twente One (2007) and 21Revolution (2009). [ citation needed ] GaAs based multi-junction devices are the most efficient solar cells to date. On 15 October 2012, triple junction metamorphic cells reached a record high of 44%. [87]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dawn_solar_panel.jpg/220px-Dawn_solar_panel.jpg",
+                "caption": "Dawn 's 10 kW triple-junction gallium arsenide solar array at full extension"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_cell",
+        "title": "Solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Bifacial solar cells",
+        "text": "With a transparent rear side, bifacial solar cells can absorb light from both the front and rear sides. Hence, they can produce more electricity than conventional monofacial solar cells. The first patent of bifacial solar cells was filed by Japanese researcher Hiroshi Mori, in 1966. [101] Later, it is said that Russia was the first to deploy bifacial solar cells in their space program in the 1970s. [ citation needed ] In 1976, the Institute for Solar Energy of the Technical University of Madrid , began a research program for the development of bifacial solar cells led by Prof. Antonio Luque . Based on 1977 US and Spanish patents by Luque, a practical bifacial cell was proposed with a front face as anode and a rear face as cathode; in previously reported proposals and attempts both faces were anodic and interconnection between cells was complicated and expensive. [102] [103] [104] In 1980, Andrés Cuevas, a PhD student in Luque's team, demonstrated experimentally a 50% increase in output power of bifacial solar cells, relative to identically oriented and tilted monofacial ones, when a white background was provided. [105] In 1981 the company Isofoton was founded in Málaga to produce the developed bifacial cells, thus becoming the first industrialization of this PV cell technology. With an initial production capacity of 300 kW/yr of bifacial solar cells, early landmarks of Isofoton's production were the 20kWp power plant in San Agustín de Guadalix , built in 1986 for Iberdrola , and an off grid installation by 1988 also of 20kWp in the village of Noto Gouye Diama ( Senegal ) funded by the Spanish international aid and cooperation programs . Due to the reduced manufacturing cost, companies have again started to produce commercial bifacial modules since 2010. By 2017, there were at least eight certified PV manufacturers providing bifacial modules in North America. The International Technology Roadmap for Photovoltaics (ITRPV) predicted that the global market share of bifacial technology will expand from less than 5% in 2016 to 30% in 2027. [106] Due to the significant interest in the bifacial technology, a recent study has investigated the performance and optimization of bifacial solar modules worldwide. [107] [108] The results indicate that, across the globe, ground-mounted bifacial modules can only offer ~10% gain in annual electricity yields compared to the monofacial counterparts for a ground albedo coefficient of 25% (typical for concrete and vegetation groundcovers). However, the gain can be increased to ~30% by elevating the module 1 m above the ground and enhancing the ground albedo coefficient to 50%. Sun et al. also derived a set of empirical equations that can optimize bifacial solar modules analytically. [107] In addition, there is evidence that bifacial panels work better than traditional panels in snowy environments as bifacials on dual-axis trackers made 14% more electricity in a year than their monofacial counterparts and 40% during the peak winter months. [109] An online simulation tool is available to model the performance of bifacial modules in any arbitrary location across the entire world. It can also optimize bifacial modules as a function of tilt angle, azimuth angle, and elevation above the ground. [110]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Noto_Bifacial_Plant.png/220px-Noto_Bifacial_Plant.png",
+                "caption": "Bifacial solar cell plant in Noto (Senegal), 1988 - Floor painted in white to enhance albedo."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_cell",
+        "title": "Solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Surface texturing",
+        "text": "For the past years, researchers have been trying to reduce the price of solar cells while maximizing efficiency. Thin-film solar cell is a cost-effective second generation solar cell with much reduced thickness at the expense of light absorption efficiency. Efforts to maximize light absorption efficiency with reduced thickness have been made. Surface texturing is one of techniques used to reduce optical losses to maximize light absorbed. Currently, surface texturing techniques on silicon photovoltaics are drawing much attention. Surface texturing could be done in multiple ways. Etching single crystalline silicon substrate can produce randomly distributed square based pyramids on the surface using anisotropic etchants. [139] Recent studies show that c-Si wafers could be etched down to form nano-scale inverted pyramids. Multicrystalline silicon solar cells, due to poorer crystallographic quality, are less effective than single crystal solar cells, but mc-Si solar cells are still being used widely due to less manufacturing difficulties. It is reported that multicrystalline solar cells can be surface-textured to yield solar energy conversion efficiency comparable to that of monocrystalline silicon cells, through isotropic etching or photolithography techniques. [140] [141] Incident light rays onto a textured surface do not reflect back out to the air as opposed to rays onto a flat surface. Rather some light rays are bounced back onto the other surface again due to the geometry of the surface. This process significantly improves light to electricity conversion efficiency, due to increased light absorption. This texture effect as well as the interaction with other interfaces in the PV module is a challenging optical simulation task. A particularly efficient method for modeling and optimization is the OPTOS formalism . [142] In 2012, researchers at MIT reported that c-Si films textured with nanoscale inverted pyramids could achieve light absorption comparable to 30 times thicker planar c-Si. [143] In combination with anti-reflective coating , surface texturing technique can effectively trap light rays within a thin film silicon solar cell. Consequently, required thickness for solar cells decreases with the increased absorption of light rays.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/SolarImpulse_HB-SIA_landing_Brussels_Airport_3-crop.jpg/240px-SolarImpulse_HB-SIA_landing_Brussels_Airport_3-crop.jpg",
+                "caption": "Solar Impulse aircraft are Swiss-designed single-seat monoplanes powered entirely from photovoltaic cells"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_cell",
+        "title": "Solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Manufacture",
+        "text": "Solar cells share some of the same processing and manufacturing techniques as other semiconductor devices. However, the strict requirements for cleanliness and quality control of semiconductor fabrication are more relaxed for solar cells, lowering costs. Polycrystalline silicon wafers are made by wire-sawing block-cast silicon ingots into 180 to 350 micrometer wafers. The wafers are usually lightly p-type -doped. A surface diffusion of n-type dopants is performed on the front side of the wafer. This forms a p–n junction a few hundred nanometers below the surface. Anti-reflection coatings are then typically applied to increase the amount of light coupled into the solar cell. Silicon nitride has gradually replaced titanium dioxide as the preferred material, because of its excellent surface passivation qualities. It prevents carrier recombination at the cell surface. A layer several hundred nanometers thick is applied using plasma-enhanced chemical vapor deposition . Some solar cells have textured front surfaces that, like anti-reflection coatings, increase the amount of light reaching the wafer. Such surfaces were first applied to single-crystal silicon, followed by multicrystalline silicon somewhat later. A full area metal contact is made on the back surface, and a grid-like metal contact made up of fine \"fingers\" and larger \"bus bars\" are screen-printed onto the front surface using a silver paste. This is an evolution of the so-called \"wet\" process for applying electrodes, first described in a US patent filed in 1981 by Bayer AG . [158] The rear contact is formed by screen-printing a metal paste, typically aluminium. Usually this contact covers the entire rear, though some designs employ a grid pattern. The paste is then fired at several hundred degrees Celsius to form metal electrodes in ohmic contact with the silicon. Some companies use an additional electroplating step to increase efficiency. After the metal contacts are made, the solar cells are interconnected by flat wires or metal ribbons, and assembled into modules or \"solar panels\". Solar panels have a sheet of tempered glass on the front, and a polymer encapsulation on the back. Different types of manufacturing and recycling partly determine how effective it is in decreasing emissions and having a positive environmental effect. [43] Such differences and effectiveness could be quantified [43] for production of the most optimal types of products for different purposes in different regions across time.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/FX-77.JPG/170px-FX-77.JPG",
+                "caption": "Early solar-powered calculator"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_cell",
+        "title": "Solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Manufacturers and certification",
+        "text": "National Renewable Energy Laboratory tests and validates solar technologies. Three reliable groups certify solar equipment: UL and IEEE (both U.S. standards) and IEC [ citation needed ] . The IEA 's 2022 Special Report highlights China's dominance over the solar PV supply chain , with an investment exceeding USD 50 billion and the creation of around 300,000 jobs since 2011. China commands over 80% of all manufacturing stages for solar panels. This control has drastically cut costs but also led to issues like supply-demand imbalances and polysilicon production constraints. Nevertheless, China's strategic policies have reduced solar PV costs by more than 80%, increasing global affordability. In 2021, China's solar PV exports were over USD 30 billion. [160] Meeting global energy and climate targets necessitates a major expansion in solar PV manufacturing, aiming for over 630 GW by 2030 according to the IEA’s \"Roadmap to Net Zero Emissions by 2050\". China's dominance, controlling nearly 95% of key solar PV components and 40% of the world's polysilicon production in Xinjiang, poses risks of supply shortages and cost surges. Critical mineral demand, like silver, may exceed 30% of 2020's global production by 2030. [160] In 2021, China's share of solar PV module production reached approximately 70%, an increase from 50% in 2010. Other key producers included Vietnam (5%), Malaysia (4%), Korea (4%), and Thailand (2%), with much of their production capacity developed by Chinese companies aimed at exports, notably to the United States. [160]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SolarCellProduction-E.PNG/280px-SolarCellProduction-E.PNG",
+                "caption": "Solar cell production by region [159]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_cell",
+        "title": "Solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Solar cells",
+        "text": "Photovoltaics are best known as a method for generating electric power by using solar cells to convert energy from the sun into a flow of electrons by the photovoltaic effect . [15] [16] Solar cells produce direct current electricity from sunlight which can be used to power equipment or to recharge batteries . The first practical application of photovoltaics was to power orbiting satellites and other spacecraft , but today the majority of photovoltaic modules are used for grid-connected systems for power generation. In this case an inverter is required to convert the DC to AC . There is also a smaller market for stand alone systems for remote dwellings, boats , recreational vehicles , electric cars , roadside emergency telephones, remote sensing , and cathodic protection of pipelines . Photovoltaic power generation employs solar modules composed of a number of solar cells containing a semiconductor material. [17] Copper solar cables connect modules (module cable), arrays (array cable), and sub-fields. Because of the growing demand for renewable energy sources, the manufacturing of solar cells and photovoltaic arrays has advanced considerably in recent years. [18] [19] [20] Cells require protection from the environment and are usually packaged tightly in solar modules. Photovoltaic module power is measured under standard test conditions (STC) in \"W p \" ( watts peak ). [21] The actual power output at a particular place may be less than or greater than this rated value, depending on geographical location, time of day, weather conditions, and other factors. [22] Solar photovoltaic array capacity factors are typically under 25% when not coupled with storage, which is lower than many other industrial sources of electricity. [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Solar_cell.png/260px-Solar_cell.png",
+                "caption": "Solar cells generate electricity directly from sunlight ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/World_PVOUT_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png/260px-World_PVOUT_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png",
+                "caption": "Photovoltaic power potential map estimates, how many kWh of electricity can be produced from a 1 kWp free-standing c-Si modules, optimally inclined towards the Equator. The resulting long-term average is calculated based on weather data of at least 10 recent years."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaics",
+        "title": "Photovoltaics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Performance and degradation",
+        "text": "Module performance is generally rated under standard test conditions (STC): irradiance of 1,000 W/m 2 , solar spectrum of AM 1.5 and module temperature at 25 °C. [34] The actual voltage and current output of the module changes as lighting, temperature and load conditions change, so there is never one specific voltage at which the module operates. Performance varies depending on geographic location, time of day, the day of the year, amount of solar irradiance , direction and tilt of modules, cloud cover, shading, soiling , state of charge, and temperature. Performance of a module or panel can be measured at different time intervals with a DC clamp meter or shunt and logged, graphed, or charted with a chart recorder or data logger. For optimum performance, a solar panel needs to be made of similar modules oriented in the same direction perpendicular to direct sunlight. Bypass diodes are used to circumvent broken or shaded panels and optimize output. These bypass diodes are usually placed along groups of solar cells to create a continuous flow. [35] Electrical characteristics include nominal power (P MAX , measured in W ), open-circuit voltage (V OC ), short-circuit current (I SC , measured in amperes ), maximum power voltage (V MPP ), maximum power current (I MPP ), peak power ( watt-peak , W p ), and module efficiency (%). Open-circuit voltage or V OC is the maximum voltage the module can produce when not connected to an electrical circuit or system. [36] V OC can be measured with a voltmeter directly on an illuminated module's terminals or on its disconnected cable. The peak power rating, W p , is the maximum output under standard test conditions (not the maximum possible output). Typical modules, which could measure approximately 1 by 2 metres (3 ft × 7 ft), will be rated from as low as 75 W to as high as 600 W, depending on their efficiency. At the time of testing, the test modules are binned according to their test results, and a typical manufacturer might rate their modules in 5 W increments, and either rate them at +/- 3%, +/-5%, +3/-0% or +5/-0%. [37] [38] [39]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Variability_of_Solar_Energy.jpg/220px-Variability_of_Solar_Energy.jpg",
+                "caption": "This chart illustrates the effect of clouds on solar energy production."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaics",
+        "title": "Photovoltaics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Hardware costs",
+        "text": "In 1977 crystalline silicon solar cell prices were at $76.67/W. [83] Although wholesale module prices remained flat at around $3.50 to $4.00/W in the early 2000s due to high demand in Germany and Spain afforded by generous subsidies and shortage of polysilicon, demand crashed with the abrupt ending of Spanish subsidies after the market crash of 2008, and the price dropped rapidly to $2.00/W. Manufacturers were able to maintain a positive operating margin despite a 50% drop in income due to innovation and reductions in costs. In late 2011, factory-gate prices for crystalline-silicon photovoltaic modules suddenly dropped below the $1.00/W mark, taking many in the industry by surprise, and has caused a number of solar manufacturing companies to go bankrupt throughout the world. The $1.00/W cost is often regarded in the PV industry as marking the achievement of grid parity for PV, but most experts do not believe this price point is sustainable. Technological advancements, manufacturing process improvements, and industry re-structuring, may mean that further price reductions are possible. [3] The average retail price of solar cells as monitored by the Solarbuzz group fell from $3.50/watt to $2.43/watt over the course of 2011. [84] In 2013 wholesale prices had fallen to $0.74/W. [83] This has been cited as evidence supporting ' Swanson's law ', an observation similar to the famous Moore's Law , which claims that solar cell prices fall 20% for every doubling of industry capacity. [83] The Fraunhofer Institute defines the 'learning rate' as the drop in prices as the cumulative production doubles, some 25% between 1980 and 2010. Although the prices for modules have dropped quickly, current inverter prices have dropped at a much lower rate, and in 2019 constitute over 61% of the cost per kWp, from a quarter in the early 2000s. [55] Note that the prices mentioned above are for bare modules, another way of looking at module prices is to include installation costs. In the US, according to the Solar Energy Industries Association, the price of installed rooftop PV modules for homeowners fell from $9.00/W in 2006 to $5.46/W in 2011. Including the prices paid by industrial installations, the national installed price drops to $3.45/W. This is markedly higher than elsewhere in the world, in Germany homeowner rooftop installations averaged at $2.24/W. The cost differences are thought to be primarily based on the higher regulatory burden and lack of a national solar policy in the US. [85] By the end of 2012 Chinese manufacturers had production costs of $0.50/W in the cheapest modules. [86] In some markets distributors of these modules can earn a considerable margin, buying at factory-gate price and selling at the highest price the market can support ('value-based pricing'). [3] In California PV reached grid parity in 2011, which is usually defined as PV production costs at or below retail electricity prices (though often still above the power station prices for coal or gas-fired generation without their distribution and other costs). [87] Grid parity had been reached in 19 markets in 2014. [88] [89]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg/220px-1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg.png",
+                "caption": "Swanson's law –stating that solar module prices have dropped about 20% for each doubling of installed capacity—defines the \" learning rate \" of solar photovoltaics. [82]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaics",
+        "title": "Photovoltaics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Levelised cost of electricity",
+        "text": "The levelised cost of electricity (LCOE) is the cost per kWh based on the costs distributed over the project lifetime, and is thought to be a better metric for calculating viability than price per wattage. LCOEs vary dramatically depending on the location. [3] The LCOE can be considered the minimum price customers will have to pay the utility company in order for it to break even on the investment in a new power station. [5] Grid parity is roughly achieved when the LCOE falls to a similar price as conventional local grid prices, although in actuality the calculations are not directly comparable. [90] Large industrial PV installations had reached grid parity in California in 2011. [80] [90] Grid parity for rooftop systems was still believed to be much farther away at this time. [90] Many LCOE calculations are not thought to be accurate, and a large amount of assumptions are required. [3] [90] Module prices may drop further, and the LCOE for solar may correspondingly drop in the future. [91] Because energy demands rise and fall over the course of the day, and solar power is limited by the fact that the sun sets, solar power companies must also factor in the additional costs of supplying a more stable alternative energy supplies to the grid in order to stabilize the system, or storing the energy somehow (current battery technology cannot store enough power). These costs are not factored into LCOE calculations, nor are special subsidies or premiums that may make buying solar power more attractive. [5] The unreliability and temporal variation in generation of solar and wind power is a major problem. Too much of these volatile power sources can cause instability of the entire grid. [92] As of 2017 power-purchase agreement prices for solar farms below $0.05/kWh are common in the United States, and the lowest bids in some Persian Gulf countries were about $0.03/kWh. [93] The goal of the United States Department of Energy is to achieve a levelised cost of energy for solar PV of $0.03/kWh for utility companies. [94]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/AWM-Munich-ETFE-Cushions-Photovoltaic.jpg/260px-AWM-Munich-ETFE-Cushions-Photovoltaic.jpg",
+                "caption": "AWM Munich ETFE Cushions-Photovoltaics"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaics",
+        "title": "Photovoltaics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Growth",
+        "text": "Solar photovoltaics formed the largest body of research among the seven sustainable energy types examined in a global bibliometric study, with the annual scientific output growing from 9,094 publications in 2011 to 14,447 publications in 2019. [100] Likewise, the application of solar photovoltaics is growing rapidly and the worldwide installed capacity reached one terawatt in April 2022. [101] The total power output of the world's PV capacity in a calendar year is now beyond 500 TWh of electricity. This represents 2% of worldwide electricity demand. More than 100 countries , such as Brazil and India , use solar PV. [102] [103] China is followed by the United States and Japan , while installations in Germany , once the world's largest producer, have been slowing down. Honduras generated the highest percentage of its energy from solar in 2019, 14.8%. [104] As of 2019, Vietnam has the highest installed capacity in Southeast Asia, about 4.5 GW. [105] The annualized installation rate of about 90 W per capita per annum places Vietnam among world leaders. [105] Generous Feed-in tariff (FIT) and government supporting policies such as tax exemptions were the key to enable Vietnam's solar PV boom. Underlying drivers include the government's desire to enhance energy self-sufficiency and the public's demand for local environmental quality. [105] A key barrier is limited transmission grid capacity. [105] China has the world's largest solar power capacity, with 390 GW of installed capacity in 2022 compared with about 200 GW in the European Union, according to International Energy Agency data. [106] Other countries with the world's largest solar power capacities include the United States, Japan and Germany.  In 2017, it was thought probable that by 2030 global PV installed capacities could be between 3,000 and 10,000 GW. [93] Greenpeace in 2010 claimed that 1,845 GW of PV systems worldwide could be generating approximately 2,646 TWh/year of electricity by 2030, and by 2050 over 20% of all electricity could be provided by PV. [108]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PV_cume_semi_log_chart_2014_estimate.svg/260px-PV_cume_semi_log_chart_2014_estimate.svg.png",
+                "caption": "Worldwide growth of photovoltaics on a semi-log plot since 1992"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaics",
+        "title": "Photovoltaics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Efficiency",
+        "text": "In 2019, the world record for solar cell efficiency at 47.1% was achieved by using multi-junction concentrator solar cells, developed at National Renewable Energy Laboratory, Colorado, US. [141] The highest efficiencies achieved without concentration include a material by Sharp Corporation at 35.8% using a proprietary triple-junction manufacturing technology in 2009, [142] and Boeing Spectrolab (40.7% also using a triple-layer design). There is an ongoing effort to increase the conversion efficiency of PV cells and modules, primarily for competitive advantage. In order to increase the efficiency of solar cells, it is important to choose a semiconductor material with an appropriate band gap that matches the solar spectrum. This will enhance the electrical and optical properties. Improving the method of charge collection is also useful for increasing the efficiency. There are several groups of materials that are being developed. Ultrahigh-efficiency devices (η>30%) [143] are made by using GaAs and GaInP2 semiconductors with multijunction tandem cells. High-quality, single-crystal silicon materials are used to achieve high-efficiency, low cost cells (η>20%). Recent developments in organic photovoltaic cells (OPVs) have made significant advancements in power conversion efficiency from 3% to over 15% since their introduction in the 1980s. [144] To date, the highest reported power conversion efficiency ranges 6.7–8.94% for small molecule, 8.4–10.6% for polymer OPVs, and 7–21% for perovskite OPVs. [145] [146] OPVs are expected to play a major role in the PV market. Recent improvements have increased the efficiency and lowered cost, while remaining environmentally-benign and renewable. Several companies have begun embedding power optimizers into PV modules called smart modules . These modules perform maximum power point tracking (MPPT) for each module individually, measure performance data for monitoring, and provide additional safety features. Such modules can also compensate for shading effects, wherein a shadow falling across a section of a module causes the electrical output of one or more strings of cells in the module to decrease. [147] One of the major causes for the decreased performance of cells is overheating. The efficiency of a solar cell declines by about 0.5% for every 1 degree Celsius increase in temperature. This means that a 100 degree increase in surface temperature could decrease the efficiency of a solar cell by about half. Self-cooling solar cells are one solution to this problem. Rather than using energy to cool the surface, pyramid and cone shapes can be formed from silica , and attached to the surface of a solar panel. Doing so allows visible light to reach the solar cells , but reflects infrared rays (which carry heat). [148]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Best_Research-Cell_Efficiencies.png/330px-Best_Research-Cell_Efficiencies.png",
+                "caption": "Best research-cell efficiencies"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaics",
+        "title": "Photovoltaics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Disadvantages",
+        "text": "For behind-the-meter rooftop photovoltaic systems, the energy flow becomes two-way. When there is more local generation than consumption, electricity is exported to the grid, allowing for net metering . However, electricity networks traditionally are not designed to deal with two-way energy transfer, which may introduce technical issues. An over-voltage issue may come out as the electricity flows from these PV households back to the network. [162] There are solutions to manage the over-voltage issue, such as regulating PV inverter power factor, new voltage and energy control equipment at electricity distributor level, re-conductor the electricity wires, demand side management, etc. There are often limitations and costs related to these solutions. High generation during the middle of the day reduces the net generation demand, but higher peak net demand as the sun goes down can require rapid ramping of utility generating stations, producing a load profile called the duck curve . There is no silver bullet in electricity or energy demand and bill management, because customers (sites) have different specific situations, e.g. different comfort/convenience needs, different electricity tariffs, or different usage patterns. Electricity tariff may have a few elements, such as daily access and metering charge, energy charge (based on kWh, MWh) or peak demand charge (e.g. a price for the highest 30min energy consumption in a month). PV is a promising option for reducing energy charges when electricity prices are reasonably high and continuously increasing, such as in Australia and Germany. However, for sites with peak demand charge in place, PV may be less attractive if peak demands mostly occur in the late afternoon to early evening, for example in residential communities. Overall, energy investment is largely an economic decision and it is better to make investment decisions based on systematic evaluation of options in operational improvement, energy efficiency, onsite generation and energy storage. [163] [164]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Renewables_need_flexible_backup_not_baseload.png/220px-Renewables_need_flexible_backup_not_baseload.png",
+                "caption": "Grids with high penetration of renewable energy sources generally need more flexible generation rather than baseload generation."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaics",
+        "title": "Photovoltaics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Uses",
+        "text": "Solar panels on spacecraft supply power for two main uses: For both uses, a key figure of merit of the solar panels is the specific power (watts generated divided by solar array mass), which indicates on a relative basis how much power one array will generate for a given launch mass relative to another.  Another key metric is stowed packing efficiency (deployed watts produced divided by stowed volume), which indicates how easily the array will fit into a launch vehicle.  Yet another key metric is cost (dollars per watt). [7] To increase the specific power, typical solar panels on spacecraft use close-packed solar cell rectangles that cover nearly 100% of the Sun-visible area of the solar panels, rather than the solar wafer circles which, even though close-packed, cover about 90% of the Sun-visible area of typical solar panels on Earth. However, some solar panels on spacecraft have solar cells that cover only 30% of the Sun-visible area. [6]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Capturing_the_Solar_Maximum_Mission_satellite.jpg/220px-Capturing_the_Solar_Maximum_Mission_satellite.jpg",
+                "caption": "The solar panels on the SMM satellite provided electrical power. Here it is being captured by an astronaut using the Manned Maneuvering Unit ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panels_on_spacecraft",
+        "title": "Solar panels on spacecraft",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Implementation",
+        "text": "Solar panels need to have a lot of surface area that can be pointed towards the Sun as the spacecraft moves. More exposed surface area means more electricity can be converted from light energy from the Sun. Since spacecraft have to be small, this limits the amount of power that can be produced. [1] All electrical circuits generate waste heat ; in addition, solar arrays act as optical and thermal as well as electrical collectors. Heat must be radiated from their surfaces.  High-power spacecraft may have solar arrays that compete with the active payload itself for thermal dissipation. The innermost panel of arrays may be \"blank\" to reduce the overlap of views to space.  Such spacecraft include the higher-power communications satellites (e.g., later-generation TDRS ) and Venus Express , not high-powered but closer to the Sun. [ citation needed ] Spacecraft are built so that the solar panels can be pivoted as the spacecraft moves. Thus, they can always stay in the direct path of the light rays no matter how the spacecraft is pointed. Spacecraft are usually designed with solar panels that can always be pointed at the Sun, even as the rest of the body of the spacecraft moves around, much as a tank turret can be aimed independently of where the tank is going. A tracking mechanism is often incorporated into the solar arrays to keep the array pointed towards the sun. [1] Sometimes, satellite operators purposefully orient the solar panels to \"off point,\" or out of direct alignment from the Sun. This happens if the batteries are completely charged and the amount of electricity needed is lower than the amount of electricity made; off-pointing is also sometimes used on the International Space Station for orbital drag reduction . [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/SpacecraftBus-model.jpg/220px-SpacecraftBus-model.jpg",
+                "caption": "Diagram of the spacecraft bus on the James Webb Space Telescope , which is powered by solar panels (coloured green in this 3/4 view). Note that shorter light purple extensions are radiator shades not solar panels. [8]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panels_on_spacecraft",
+        "title": "Solar panels on spacecraft",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Ionizing radiation issues and mitigation",
+        "text": "Space contains varying levels of great electromagnetic radiation as well as ionizing radiation . There are 4 sources of radiations: the Earth's radiation belts (also called Van Allen belts), galactic cosmic rays (GCR), solar wind and solar flares . The Van Allen belts and the solar wind contain mostly protons and electrons, while GCR are in majority very high energy protons, alpha particles and heavier ions. [9] Solar panels will experience efficiency degradation over time as a result of these types of radiation, but the degradation rate will depend strongly on the solar cell technology and on the location of the spacecraft. With borosilicate glass panel coverings, this may be between 5-10% efficiency loss per year. Other glass coverings, such as fused silica and lead glasses, may reduce this efficiency loss to less than 1% per year. The degradation rate is a function of the differential flux spectrum and the total ionizing dose. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Illumination_test_on_one_of_Juno%27s_solar_panels.jpg/220px-Illumination_test_on_one_of_Juno%27s_solar_panels.jpg",
+                "caption": "Juno is the second spacecraft to orbit Jupiter and the first solar-powered craft to do so."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panels_on_spacecraft",
+        "title": "Solar panels on spacecraft",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Spacecraft that have used solar power",
+        "text": "To date, solar power, other than for propulsion, has been practical for spacecraft operating no farther from the Sun than the orbit of Jupiter . For example, Juno , Magellan , Mars Global Surveyor , and Mars Observer used solar power as does the Earth-orbiting, Hubble Space Telescope . The Rosetta space probe , launched 2 March 2004, used its 64 square metres (690 sq ft) of solar panels [11] as far as the orbit of Jupiter (5.25 AU ); previously the furthest use was the Stardust spacecraft at 2 AU. Solar power for propulsion was also used on the European lunar mission SMART-1 with a Hall effect thruster . [12] The Juno mission, launched in 2011, is the first mission to Jupiter (arrived at Jupiter on July 4, 2016) to use solar panels instead of the traditional RTGs that are used by previous outer Solar System missions, making it the furthest spacecraft to use solar panels to date. [13] [14] It has 50 square metres (540 sq ft) of panels. [15] [16] The InSight lander , Ingenuity helicopter , Tianwen-1 orbiter , and Zhurong rover all currently operating on Mars also utilize solar panels. Another spacecraft of interest was Dawn which went into orbit around 4 Vesta in 2011. It used ion thrusters to get to Ceres . [17] The potential for solar powered spacecraft beyond Jupiter has been studied. [18] The International Space Station also uses solar arrays to power everything on the station. The 262,400 solar cells cover around 27,000 square feet (2,500 m 2 ) of space. There are four sets of solar arrays that power the station and the fourth set of arrays were installed in March 2009. 240 kilowatts of electricity can be generated from these solar arrays. That comes to 120 kilowatts average system power, including 50% ISS time in Earth's shadow. [19]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Skylab_IV-view_of_telescope.jpg/250px-Skylab_IV-view_of_telescope.jpg",
+                "caption": "Solar panels extended out from the Apollo Telescope Mount, power solar observatory instruments on the Skylab station, which also had an additional array on the main spacecraft"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/ISS-52_Roll_Out_Solar_Array_%28ROSA%29_%284%29.jpg/220px-ISS-52_Roll_Out_Solar_Array_%28ROSA%29_%284%29.jpg",
+                "caption": "Flexible solar arrays are being investigated for use in space. The Roll Out Solar Array (ROSA) was deployed on the International Space Station in July 2017."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panels_on_spacecraft",
+        "title": "Solar panels on spacecraft",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Materials used",
+        "text": "The name \"perovskite solar cell\" is derived from the ABX 3 crystal structure of the absorber materials, referred to as perovskite structure , where A and B are cations and X is an anion . A cations with radii between 1.60 Å and 2.50 Å have been found to form perovskite structures. [14] The most commonly studied perovskite absorber is methylammonium lead trihalide (CH 3 NH 3 PbX 3 , where X is a halogen ion such as iodide , bromide , or chloride ), which has an optical bandgap between ~1.55 and 2.3 eV, depending on halide content. Formamidinium lead trihalide (H 2 NCHNH 2 PbX 3 ) has also shown promise, with bandgaps between 1.48 and 2.2 eV. Its minimum bandgap is closer to the optimal for a single-junction cell than methylammonium lead trihalide, so it should be capable of higher efficiencies. [15] The first use of perovskite in a solid-state solar cell was in a dye-sensitized cell using CsSnI 3 as a p-type hole transport layer and absorber. [16] A common concern is the inclusion of lead as a component of perovskite materials; solar cells composed from tin -based perovskite absorbers such as CH 3 NH 3 SnI 3 have also been reported, though with lower power-conversion efficiencies. [17] [18] [19] [20]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/CH3NH3PbI3_structure.png/220px-CH3NH3PbI3_structure.png",
+                "caption": "Crystal structure of CH 3 NH 3 PbX 3 perovskites (X=I, Br and/or Cl). The methylammonium cation (CH 3 NH 3 + ) is surrounded by PbX 6 octahedra. [13]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Perovskite_solar_cell",
+        "title": "Perovskite solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Inorganic perovskites",
+        "text": "The highest performing perovskites solar cells suffer from chemical instability. The organic components such as methylammonium or formamidinium are the basis of the weakness. Encapsulation to prevent this decay is expensive. Fully inorganic perovskites could miminize these problems. Fully inorganic perovskites have PCE over 17%.  These  high performing fully inorganic perovskite cells are created using CsPbI 3 , which has a band gap similar to that of high performing OIHPs (~1.7 eV), as well as excellent optoelectrical properties. Although chemically stable, these perovskite materials face significant issues with phase stability that prevent its broad industrial application. In high efficiency CsPbI 3 , for example, the photoactive black α-phase is prone to transform into the inactive yellow δ-phase seriously inhibiting the performance, especially when exposed to moisture. [25] This also made them difficult to synthesize at ambient temperatures as the black α-phase is thermodynamically unstable with respect to the yellow δ-phase, although this has been recently tackled by Hei Ming Lai 's group, who is a psychiatrist. [26] The challenge of stabilizing the photoactive black α-phase of inorganic perovskite materials has been tackled in a variety of strategies, including octahedral anchoring and secondary crystal growth. [27] [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Efficiency_history_of_inorganic_perovskites%2C_basic_structure.jpg/300px-Efficiency_history_of_inorganic_perovskites%2C_basic_structure.jpg",
+                "caption": "Improvement in the power conversion efficiency of Inorganic Perovskites over the past decade of development, basic structure [25]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Perovskite_solar_cell",
+        "title": "Perovskite solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "One-step solution deposition",
+        "text": "In one-step solution processing, a lead halide and a methylammonium halide can be dissolved in a solvent and spin coated onto a substrate. Subsequent evaporation and convective self-assembly during spinning results in dense layers of well crystallized perovskite material, due to the strong ionic interactions within the material (The organic component also contributes to a lower crystallization temperature). However, simple spin-coating does not yield homogenous layers, instead requiring the addition of other chemicals such as GBL , DMSO , and toluene drips. [50] Simple solution processing results in the presence of voids, platelets, and other defects in the layer, which would hinder the efficiency of a solar cell. Another technique using room temperature solvent-solvent extraction produces high-quality crystalline films with precise control over thickness down to 20 nanometers across areas several centimeters square without generating pinholes. In this method \"perovskite precursors are dissolved in a solvent called NMP and coated onto a substrate. Then, instead of heating, the substrate is bathed in diethyl ether , a second solvent that selectively grabs the NMP solvent and whisks it away. What's left is an ultra-smooth film of perovskite crystals.\" [51] In another solution processed method, the mixture of lead iodide and methylammonium halide dissolved in DMF is preheated. Then the mixture is spin coated on a substrate maintained at higher temperature. This method produces uniform films of up to 1 mm grain size. [52] Pb halide perovskites can be fabricated from a PbI 2 precursor, [53] or non-PbI 2 precursors, such as PbCl 2 , Pb(Ac) 2 , and Pb(SCN) 2 , giving films different properties. [47]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/One-two_step.jpg/220px-One-two_step.jpg",
+                "caption": "One-step solution deposition vs two-step solution deposition"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Perovskite_solar_cell",
+        "title": "Perovskite solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Architectures",
+        "text": "Perovskite solar cells function efficiently in a number of somewhat different architectures depending either on the role of the perovskite material in the device, or the nature of the top and bottom electrode. Devices in which positive charges are extracted by the transparent bottom electrode (cathode), can predominantly be divided into 'sensitized', where the perovskite functions mainly as a light absorber, and charge transport occurs in other materials, or 'thin-film', where most electron or hole transport occurs in the bulk of the perovskite itself. Similar to the sensitization in dye-sensitized solar cells , the perovskite material is coated onto a charge-conducting mesoporous scaffold – most commonly TiO 2 – as light-absorber. The photogenerated electrons are transferred from the perovskite layer to the mesoporous sensitized layer through which they are transported to the electrode and extracted into the circuit. The thin film solar cell architecture is based on the finding that perovskite materials can also act as highly efficient, ambipolar charge-conductor. [100] After light absorption and the subsequent charge-generation, both negative and positive charge carrier are transported through the perovskite to charge selective contacts. Perovskite solar cells emerged from the field of dye-sensitized solar cells, so the sensitized architecture was that initially used, but over time it has become apparent that they function well, if not ultimately better, in a thin-film architecture. [119] More recently, some researchers also successfully demonstrated the possibility of fabricating flexible devices with perovskites, [120] [121] [122] which makes it more promising for flexible energy demand. Certainly, the aspect of UV-induced degradation in the sensitized architecture may be detrimental for the important aspect of long-term stability . There is another different class of architectures, in which the transparent electrode at the bottom acts as cathode by collecting the photogenerated p-type charge carriers. [123]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Perovskite_solar_cell_architectures_1.png/300px-Perovskite_solar_cell_architectures_1.png",
+                "caption": "Schematic of a sensitized perovskite solar cell in which the active layer consist of a layer of mesoporous TiO 2 which is coated with the perovskite absorber. The active layer is contacted with an n-type material for electron extraction and a p-type material for hole extraction. b) Schematic of a thin-film perovskite solar cell. In this architecture in which just a flat layer of perovskite is sandwiched between two selective contacts. c) Charge generation and extraction in the sensitized architecture. After light absorption in the perovskite absorber the photogenerated electron is injected into the mesoporous TiO 2 through which it is extracted. The concomitantly generated hole is transferred to the p-type material. d) Charge generation and extraction in the thin-film architecture. After light absorption both charge generation as well as charge extraction occurs in the perovskite layer."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Perovskite_solar_cell",
+        "title": "Perovskite solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Research and development tools and methods",
+        "text": "The Perovskite Database is a database and analysis tool of perovskite solar cells research data which systematically integrates over 15,000 publications, in particular device-data about \"over 42,400\" perovskite devices. Authors described the FAIR open database site – which as of January 2022 requires signing up to access the data and uses software that is partly open source but not marked as having a free software license on GitHub [124] – as a participative \"Wikipedia for perovskite solar cell research\". It allows data to be filtered and displayed according to various criteria such as material compositions or component type and could thereby support the development of optimal architecture designs (including the used materials). [125] [126] High-throughput screening of mixtures and contact layers is one development mechanism that has been used to develop relatively stable perovskite solar cells. [127]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Expanding_the_standard_research_cycle_in_experimental_material_science.webp/300px-Expanding_the_standard_research_cycle_in_experimental_material_science.webp.png",
+                "caption": "Schema of how the open database, interactive visualization tools, protocols and a metadata ontology for reporting device data, open-source code for data analysis, etc. can support PSC development"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Perovskite_solar_cell",
+        "title": "Perovskite solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Materials",
+        "text": "Thin-film technologies reduce the amount of active material in a cell. The active layer may be placed on a rigid substrate made from glass, plastic, or metal or the cell may be made with a flexible substrate like cloth. Thin-film solar cells tend to be cheaper than crystalline silicon cells and have a smaller ecological impact (determined from life cycle analysis ). [31] Their thin and flexible nature also makes them ideal for applications like building-integrated photovoltaics. The majority of film panels have 2-3 percentage points lower conversion efficiencies than crystalline silicon, [32] though some thin-film materials outperform crystalline silicon panels in terms of efficiency. Cadmium telluride (CdTe), copper indium gallium selenide (CIGS) and amorphous silicon (a-Si) are three of the most prominent thin-film technologies.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Illust_poly_thinfilm.svg/170px-Illust_poly_thinfilm.svg.png",
+                "caption": "Cross-section of a TF cell"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Thin-film_solar_cell",
+        "title": "Thin-film solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Copper indium gallium selenide (CIGS)",
+        "text": "Like CdTe, copper indium gallium selenide (CIGS) and its variations are chalcogenide compound semiconductors. CIGS solar cells reached a lab-efficiency above 23 percent (see table) and a share of 0.8 percent in the overall PV market in 2021. [45] Numerous companies have produced CIGS solar cells and modules, however, some of them have significantly reduced or ceased production during the last years. Actual research aims at improving properties related to fabrication and functionality by modifying or replacing the individual layers, for example: Apart from the development potential of the other layers in the solar cell, the absorber material CIGS has the remarkable property, that its band gap can be tuned by adjusting the ratio of indium and gallium in the compound. By tuning the band gap, the fraction of the solar spectrum which is absorbed by the solar cell can be changed, making CIGS cells especially interesting as constituents of multi-junction solar cells . [48] It is also possible to partially replace copper by silver and selenium by sulfur yielding the compound (Ag z Cu 1-z )(In 1-x Ga x )(Se 1-y S y ) 2 . In order to distinguish the sulfur-free compound, it is sometimes abbrievated CIGSe, while the acronym CIGS can refer to both sulfur and selenium containing compounds. The silver containing compound is sometimes referred to as ACIGS. Variations of the CIGS composition are subject to current research and in part also fabricated in industry.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CIGS_Cross_Section.png/220px-CIGS_Cross_Section.png",
+                "caption": "Setup of a typical CIGS solar cell in an SEM cross section image"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Cigsep.jpg/220px-Cigsep.jpg",
+                "caption": "Flexible CIGS solar cell, produced at Solarion AG (substrate: polyimid)"
+            },
+            {
+                "url": "https:https://wikimedia.org/api/rest_v1/media/math/render/svg/1b06b564922c67f291d0d0bf6daf1224bc6597f9",
+                "caption": "Possible combinations of Group-( XI , XIII , XVI ) elements in the periodic table that yield a compound showing the photovoltaic effect : Cu , Ag , Au – Al , Ga , In – S , Se , Te ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Thin-film_solar_cell",
+        "title": "Thin-film solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Silicon",
+        "text": "There are three prominent silicon thin-film architectures:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Schematic_of_allotropic_forms_of_silcon.svg/220px-Schematic_of_allotropic_forms_of_silcon.svg.png",
+                "caption": "Possible crystal structures of silicon."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Thin-film_solar_cell",
+        "title": "Thin-film solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Amorphous silicon",
+        "text": "Amorphous silicon (a-Si) is a non-crystalline, allotropic form of silicon and the most well-developed thin film technology to-date. Thin-film silicon is an alternative to conventional wafer (or bulk ) crystalline silicon . While chalcogenide -based CdTe and CIS thin films cells have been developed in the lab with great success, there is still industry interest in silicon-based thin film cells. Silicon-based devices exhibit fewer problems than their CdTe and CIS counterparts such as toxicity and humidity issues with CdTe cells and low manufacturing yields of CIS due to material complexity. Additionally, due to political resistance to the use non-\"green\" materials in solar energy production, there is no stigma in the use of standard silicon. This type of thin-film cell is mostly fabricated by a technique called plasma-enhanced chemical vapor deposition . It uses a gaseous mixture of silane (SiH 4 ) and hydrogen to deposit a very thin layer of only 1 micrometre (μm) of silicon on a substrate, such as glass, plastic or metal, that has already been coated with a layer of transparent conducting oxide . Other methods used to deposit amorphous silicon on a substrate include sputtering and hot wire chemical vapor deposition techniques. [50] a-Si is attractive as a solar cell material because it's an abundant, non-toxic material. It requires a low processing temperature and enables a scalable production upon a flexible, low-cost substrate with little silicon material required. Due to its bandgap of 1.7 eV, amorphous silicon also absorbs a very broad range of the light spectrum , that includes infrared and even some ultraviolet and performs very well at weak light. This allows the cell to generate power in the early morning, or late afternoon and on cloudy and rainy days, contrary to crystalline silicon cells, that are significantly less efficient when exposed at diffuse and indirect daylight . [ citation needed ] However, the efficiency of an a-Si cell suffers a significant drop of about 10 to 30 percent during the first six months of operation. This is called the Staebler-Wronski effect (SWE) – a typical loss in electrical output due to changes in photoconductivity and dark conductivity caused by prolonged exposure to sunlight. Although this degradation is perfectly reversible upon annealing at or above 150 °C, conventional c-Si solar cells do not exhibit this effect in the first place. Its basic electronic structure is the p-i-n junction. The amorphous structure of a-Si implies high inherent disorder and dangling bonds, making it a bad conductor for charge carriers. These dangling bonds act as recombination centers that severely reduce carrier lifetime. A p-i-n structure is usually used, as opposed to an n-i-p structure. This is because the mobility of electrons in a-Si:H is roughly 1 or 2 orders of magnitude larger than that of holes, and thus the collection rate of electrons moving from the n- to p-type contact is better than holes moving from p- to n-type contact. Therefore, the p-type layer should be placed at the top where the light intensity is stronger, so that the majority of the charge carriers crossing the junction are electrons. [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aerospace_Product-Flexible_Thin-Film_Solar_PV-United_Solar_Ovonic.jpg/220px-Aerospace_Product-Flexible_Thin-Film_Solar_PV-United_Solar_Ovonic.jpg",
+                "caption": "Aerospace product with flexible thin-film solar PV from United Solar Ovonic"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Thin-film_solar_cell",
+        "title": "Thin-film solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Tandem-cell using a-Si/μc-Si",
+        "text": "A layer of amorphous silicon can be combined with layers of other allotropic forms of silicon to produce a multi-junction solar cell . When only two layers (two p-n junctions) are combined, it is called a tandem-cell . By stacking these layers on top of one other, a broader range of the light spectra is absorbed, improving the cell's overall efficiency. In micromorphous silicon, a layer of microcrystalline silicon (μc-Si) is combined with amorphous silicon, creating a tandem cell. The top a-Si layer absorbs the visible light, leaving the infrared part to the bottom μc-Si layer. The micromorph stacked-cell concept was pioneered and patented at the Institute of Microtechnology (IMT) of the Neuchâtel University in Switzerland, [52] and was licensed to TEL Solar . A new world record PV module based on the micromorph concept with 12.24% module efficiency was independently certified in July 2014. [53] Because all layers are made of silicon, they can be manufactured using PECVD. The band gap of a-Si is 1.7 eV and that of c-Si is 1.1 eV. The c-Si layer can absorb red and infrared light. The best efficiency can be achieved at transition between a-Si and c-Si. As nanocrystalline silicon (nc-Si) has about the same bandgap as c-Si, nc-Si can replace c-Si. [54]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/United_Solar_Ovonic_roll-to-roll_solar_photovoltaic_production_line_with_30_MW_annual_capacity.jpg/220px-United_Solar_Ovonic_roll-to-roll_solar_photovoltaic_production_line_with_30_MW_annual_capacity.jpg",
+                "caption": "United Solar Ovonic roll-to-roll solar photovoltaic production line with 30 MW annual capacity"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Thin-film_solar_cell",
+        "title": "Thin-film solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Gallium arsenide",
+        "text": "Gallium arsenide (GaAs) is a III-V direct bandgap semiconductor and is a very common material used for single-crystalline thin-film solar cells. GaAs solar cells have continued to be one of the highest performing thin-film solar cells due to their exceptional heat resistant properties and high efficiencies. [56] As of 2019, single-crystalline GaAs cells have shown the highest solar cell efficiency of any single-junction solar cell with an efficiency of 29.1%. [57] This record-holding cell achieved this high efficiency by implementing a back mirror on the rear surface to increase photon absorption which allowed the cell to attain an impressive short-circuit current density and an open-circuit voltage value near the Shockley–Queisser limit . [58] As a result, GaAs solar cells have nearly reached their maximum efficiency although improvements can still be made by employing light trapping strategies. [59] GaAs thin-films are most commonly fabricated using epitaxial growth of the semiconductor on a substrate material. The epitaxial lift-off (ELO) technique, first demonstrated in 1978, has proven to be the most promising and effective. In this method, the thin film layer is peeled off of the substrate by selectively etching a sacrificial layer that was placed between the epitaxial film and substrate. [60] The GaAs film and the substrate remain minimally damaged through the separation process, allowing for the reuse of the host substrate. [61] With reuse of the substrate the fabrication costs can be reduced, but not completely forgone, since the substrate can only be reused a limited number of times. [59] This process is still relatively costly and research is still being done to find more cost-effective ways of growing the epitaxial film layer onto a substrate. Despite the high performance of GaAs thin-film cells, the expensive material costs hinder their ability for wide-scale adoption in the solar cell industry. GaAs is more commonly used in multi-junction solar cells for solar panels on spacecraft , as the larger power to weight ratio lowers the launch costs in space-based solar power ( InGaP / (In)GaAs / Ge cells). They are also used in concentrator photovoltaics , an emerging technology best suited for locations that receive much sunlight, using lenses to focus sunlight on a much smaller, thus less expensive GaAs concentrator solar cell.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Glitter-Sized_Solar_Cells_%288230058366%29.jpg/180px-Glitter-Sized_Solar_Cells_%288230058366%29.jpg",
+                "caption": "An experimental silicon based solar cell developed at the Sandia National Laboratories"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Thin-film_solar_cell",
+        "title": "Thin-film solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Calculation of efficiency",
+        "text": "The efficiency of a solar cell quantifies the percentage of incident light on the solar cell that is converted into usable electricity. There are many factors that affect the efficiency of a solar cell, so the efficiency may be further parametrized by additional numerical quantities including the short-circuit current, open-circuit voltage , maximum power point, fill factor, and quantum efficiency . The short-circuit current is the maximum current the cell can flow with no voltage load. Similarly, the open-circuit voltage is the voltage across the device with no current or, alternatively, the voltage required for no current to flow. On a current vs. voltage (IV) curve, the open-circuit voltage is the horizontal intercept of the curve with the voltage axis and the short-circuit current is the vertical intercept of the curve with the current axis. The maximum power point is the point along the curve where the maximum power output of the solar cell is achieved and the area of the rectangle with side lengths equal to the current and voltage coordinates of the maximum power point is called the fill factor. The fill factor is a measure of how much power the solar cell achieves at this maximum power point. Intuitively, IV curves with a more square shape and a flatter top and side will have a larger fill factor and therefore a higher efficiency. [84] Whereas these parameters characterize the efficiency of the solar cell based mostly on its macroscopic electrical properties, the quantum efficiency measures either the ratio of the number of photons incident on the cell to the number of charge carriers extracted (external quantum efficiency) or the ratio of the number of photons absorbed by the cell to the number of charge carriers extracted (internal quantum efficiency). Either way, the quantum efficiency is a more direct probe of the microscopic structure of the solar cell. [85]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Best_Research-Cell_Efficiencies.png/220px-Best_Research-Cell_Efficiencies.png",
+                "caption": "Solar cell efficiencies of various cell technologies (including both single-crystal and thin film technologies) as tracked by NREL"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Solar_Cell_I-V_Curve_Schematic.svg/220px-Solar_Cell_I-V_Curve_Schematic.svg.png",
+                "caption": "Schematic of a solar cell I-V curve."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Thin-film_solar_cell",
+        "title": "Thin-film solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Thin film solar on metal roofs",
+        "text": "With the increasing efficiencies of thin film solar, installing them on standing seam metal roofs has become cost competitive with traditional Monocrystalline and Polycrystalline solar cells .  The thin film panels are flexible and run down the standing seam metal roofs and stick to the metal roof with Adhesive , so no holes are needed to install. The connection wires run under the ridge cap at the top of the roof. Efficiency ranges from 10-18% but only costs about $2.00-$3.00 per watt of installed capacity, compared to Monocrystalline which is 17-22% efficient and costs $3.00-$3.50 per watt of installed capacity.  Thin film solar is light weight at 7-10 ounces per square foot.  Thin film solar panels last 10–20 years [118] but have a quicker ROI than traditional solar panels, the metal roofs last 40–70 years before replacement compared to 12–20 years for an asphalt shingle roof. [119] [120]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Thin_film_solar_on_standing_seam_metal_roof.jpg/340px-Thin_film_solar_on_standing_seam_metal_roof.jpg",
+                "caption": "No caption"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Thin-film_solar_cell",
+        "title": "Thin-film solar cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Locations with PACE legislation",
+        "text": "PACE is enabled in 37 states and the District of Columbia , covering more than 80% of the U.S. population.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/PACE_Financing_Map_2020_copy.jpg/220px-PACE_Financing_Map_2020_copy.jpg",
+                "caption": "Original Map with updated PACE Financing Location Information"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/PACE_financing",
+        "title": "PACE financing",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Potential",
+        "text": "The Earth receives 174 petawatts (PW) of incoming solar radiation ( insolation ) at the upper atmosphere . [6] Approximately 30% is reflected back to space while the rest, 122 PW, is absorbed by clouds, oceans and land masses. The spectrum of solar light at the Earth's surface is mostly spread across the visible and near-infrared ranges with a small part in the near-ultraviolet . [7] Most of the world's population live in areas with insolation levels of 150–300 watts/m 2 , or 3.5–7.0 kWh /m 2 per day. [8] Solar radiation is absorbed by the Earth's land surface, oceans – which cover about 71% of the globe – and atmosphere. Warm air containing evaporated water from the oceans rises, causing atmospheric circulation or convection . When the air reaches a high altitude, where the temperature is low, water vapor condenses into clouds, which rain onto the Earth's surface, completing the water cycle . The latent heat of water condensation amplifies convection, producing atmospheric phenomena such as wind, cyclones and anticyclones . [9] Sunlight absorbed by the oceans and land masses keeps the surface at an average temperature of 14 °C. [10] By photosynthesis , green plants convert solar energy into chemically stored energy, which produces food, wood and the biomass from which fossil fuels are derived. [11] The total solar energy absorbed by Earth's atmosphere, oceans and land masses is approximately 122 PW·year = 3,850,000 exajoules (EJ) per year. [12] In 2002 (2019), this was more energy in one hour (one hour and 25 minutes) than the world used in one year. [13] [14] Photosynthesis captures approximately 3,000 EJ per year in biomass. [15] The potential solar energy that could be used by humans differs from the amount of solar energy present near the surface of the planet because factors such as geography, time variation, cloud cover, and the land available to humans limit the amount of solar energy that we can acquire. In 2021, Carbon Tracker Initiative estimated the land area needed to generate all our energy from solar alone was 450,000 km 2 — or about the same as the area of Sweden , or the area of Morocco , or the area of California (0.3% of the Earth's total land area). [20] Solar technologies are categorized as either passive or active depending on the way they capture, convert and distribute sunlight and enable solar energy to be harnessed at different levels around the world, mostly depending on the distance from the Equator. Although solar energy refers primarily to the use of solar radiation for practical ends, all types of renewable energy, other than geothermal power and tidal power , are derived either directly or indirectly from the Sun. Active solar techniques use photovoltaics, concentrated solar power , solar thermal collectors , pumps, and fans to convert sunlight into useful output. Passive solar techniques include selecting materials with favorable thermal properties, designing spaces that naturally circulate air, and referencing [ clarification needed ] the position of a building to the Sun. Active solar technologies increase the supply of energy and are considered supply side technologies, while passive solar technologies reduce the need for alternative resources and are generally considered demand-side technologies. [21] In 2000, the United Nations Development Programme , UN Department of Economic and Social Affairs, and World Energy Council published an estimate of the potential solar energy that could be used by humans each year. This took into account factors such as insolation, cloud cover, and the land that is usable by humans. It was stated that solar energy has a global potential of 1,600 to 49,800 exajoules (4.4 × 10 14 to 1.4 × 10 16 kWh) per year (see table below) . [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Breakdown_of_the_incoming_solar_energy.svg/225px-Breakdown_of_the_incoming_solar_energy.svg.png",
+                "caption": "About half the incoming solar energy reaches the Earth's surface."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/World_GHI_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png/330px-World_GHI_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png",
+                "caption": "Global map of horizontal irradiation [5]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Early commercial adaptation",
+        "text": "In 1878, at the Universal Exposition in Paris, Augustin Mouchot successfully demonstrated a solar steam engine but could not continue development because of cheap coal and other factors. In 1897, Frank Shuman , a US inventor, engineer and solar energy pioneer built a small demonstration solar engine that worked by reflecting solar energy onto square boxes filled with ether, which has a lower boiling point than water and were fitted internally with black pipes which in turn powered a steam engine. In 1908 Shuman formed the Sun Power Company with the intent of building larger solar power plants. He, along with his technical advisor A.S.E. Ackermann and British physicist Sir Charles Vernon Boys , [24] developed an improved system using mirrors to reflect solar energy upon collector boxes, increasing heating capacity to the extent that water could now be used instead of ether. Shuman then constructed a full-scale steam engine powered by low-pressure water, enabling him to patent the entire solar engine system by 1912. Shuman built the world's first solar thermal power station in Maadi , Egypt , between 1912 and 1913. His plant used parabolic troughs to power a 45–52 kilowatts (60–70 hp ) engine that pumped more than 22,000 litres (4,800 imp gal; 5,800 US gal) of water per minute from the Nile River to adjacent cotton fields. Although the outbreak of World War I and the discovery of cheap oil in the 1930s discouraged the advancement of solar energy, Shuman's vision, and basic design were resurrected in the 1970s with a new wave of interest in solar thermal energy. [25] In 1916 Shuman was quoted in the media advocating solar energy's utilization, saying:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/US_Patent_1240890.pdf/page1-180px-US_Patent_1240890.pdf.jpg",
+                "caption": "1917 patent drawing of Shuman's solar collector"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Water heating",
+        "text": "Solar hot water systems use sunlight to heat water. In middle geographical latitudes (between 40 degrees north and 40 degrees south), 60 to 70% of the domestic hot water use, with water temperatures up to 60 °C (140 °F), can be provided by solar heating systems. [27] The most common types of solar water heaters are evacuated tube collectors (44%) and glazed flat plate collectors (34%) generally used for domestic hot water; and unglazed plastic collectors (21%) used mainly to heat swimming pools. [28] As of 2015, the total installed capacity of solar hot water systems was approximately 436 thermal gigawatt (GW th ), and China is the world leader in their deployment with 309 GW th installed, taken up 71% of the market. [29] Israel and Cyprus are the per capita leaders in the use of solar hot water systems with over 90% of homes using them. [30] In the United States, Canada, and Australia, heating swimming pools is the dominant application of solar hot water with an installed capacity of 18 GW th as of 2005. [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Twice_Cropped_Zonnecollectoren.JPG/170px-Twice_Cropped_Zonnecollectoren.JPG",
+                "caption": "Solar water heaters facing the Sun to maximize gain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Heating, cooling and ventilation",
+        "text": "In the United States, heating, ventilation and air conditioning (HVAC) systems account for 30% (4.65 EJ/yr) of the energy used in commercial buildings and nearly 50% (10.1 EJ/yr) of the energy used in residential buildings. [31] [32] Solar heating, cooling and ventilation technologies can be used to offset a portion of this energy.  Use of solar for heating can roughly be divided into passive solar concepts and active solar concepts, depending on whether active elements such as sun tracking and solar concentrator optics are used. Thermal mass is any material that can be used to store heat—heat from the Sun in the case of solar energy. Common thermal mass materials include stone, cement, and water. Historically they have been used in arid climates or warm temperate regions to keep buildings cool by absorbing solar energy during the day and radiating stored heat to the cooler atmosphere at night. However, they can be used in cold temperate areas to maintain warmth as well. The size and placement of thermal mass depend on several factors such as climate, daylighting, and shading conditions. When duly incorporated, thermal mass maintains space temperatures in a comfortable range and reduces the need for auxiliary heating and cooling equipment. [33] A solar chimney (or thermal chimney, in this context) is a passive solar ventilation system composed of a vertical shaft connecting the interior and exterior of a building. As the chimney warms, the air inside is heated, causing an updraft that pulls air through the building. Performance can be improved by using glazing and thermal mass materials [34] in a way that mimics greenhouses. Deciduous trees and plants have been promoted as a means of controlling solar heating and cooling. When planted on the southern side of a building in the northern hemisphere or the northern side in the southern hemisphere, their leaves provide shade during the summer, while the bare limbs allow light to pass during the winter. [35] Since bare, leafless trees shade 1/3 to 1/2 of incident solar radiation, there is a balance between the benefits of summer shading and the corresponding loss of winter heating. [36] In climates with significant heating loads, deciduous trees should not be planted on the Equator-facing side of a building because they will interfere with winter solar availability. They can, however, be used on the east and west sides to provide a degree of summer shading without appreciably affecting winter solar gain . [37]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Flipped_MIT_Solar_One_house.png/220px-Flipped_MIT_Solar_One_house.png",
+                "caption": "MIT 's Solar House #1, built in 1939 in the US, used seasonal thermal energy storage for year-round heating."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Cooking",
+        "text": "Solar cookers use sunlight for cooking, drying, and pasteurization . They can be grouped into three broad categories: box cookers, panel cookers, and reflector cookers. [38] The simplest solar cooker is the box cooker first built by Horace de Saussure in 1767. [39] A basic box cooker consists of an insulated container with a transparent lid. It can be used effectively with partially overcast skies and will typically reach temperatures of 90–150 °C (194–302 °F). [40] Panel cookers use a reflective panel to direct sunlight onto an insulated container and reach temperatures comparable to box cookers. Reflector cookers use various concentrating geometries (dish, trough, Fresnel mirrors) to focus light on a cooking container. These cookers reach temperatures of 315 °C (599 °F) and above but require direct light to function properly and must be repositioned to track the Sun. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Auroville_Solar_Bowl.JPG/220px-Auroville_Solar_Bowl.JPG",
+                "caption": "Parabolic dish produces steam for cooking, in Auroville , India."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Water treatment",
+        "text": "Solar distillation can be used to make saline or brackish water potable. The first recorded instance of this was by 16th-century Arab alchemists. [47] A large-scale solar distillation project was first constructed in 1872 in the Chilean mining town of Las Salinas. [48] The plant, which had solar collection area of 4,700 m 2 (51,000 sq ft), could produce up to 22,700 L (5,000 imp gal; 6,000 US gal) per day and operate for 40 years. [48] Individual still designs include single-slope, double-slope (or greenhouse type), vertical, conical, inverted absorber, multi-wick, and multiple effect. These stills can operate in passive, active, or hybrid modes. Double-slope stills are the most economical for decentralized domestic purposes, while active multiple effect units are more suitable for large-scale applications. [47] Solar water disinfection (SODIS) involves exposing water-filled plastic polyethylene terephthalate (PET) bottles to sunlight for several hours. [49] Exposure times vary depending on weather and climate from a minimum of six hours to two days during fully overcast conditions. [50] It is recommended by the World Health Organization as a viable method for household water treatment and safe storage. [51] Over two million people in developing countries use this method for their daily drinking water. [50] Solar energy may be used in a water stabilization pond to treat waste water without chemicals or electricity. A further environmental advantage is that algae grow in such ponds and consume carbon dioxide in photosynthesis, although algae may produce toxic chemicals that make the water unusable. [52] [53]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Indonesia-sodis-gross.jpg/220px-Indonesia-sodis-gross.jpg",
+                "caption": "Solar water disinfection in Indonesia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Architecture and urban planning",
+        "text": "Sunlight has influenced building design since the beginning of architectural history. [73] Advanced solar architecture and urban planning methods were first employed by the Greeks and Chinese , who oriented their buildings toward the south to provide light and warmth. [74] The common features of passive solar architecture are orientation relative to the Sun, compact proportion (a low surface area to volume ratio), selective shading (overhangs) and thermal mass . [73] When these features are tailored to the local climate and environment, they can produce well-lit spaces that stay in a comfortable temperature range. Socrates ' Megaron House is a classic example of passive solar design. [73] The most recent approaches to solar design use computer modeling tying together solar lighting , heating and ventilation systems in an integrated solar design package. [75] Active solar equipment such as pumps, fans, and switchable windows can complement passive design and improve system performance. Urban heat islands (UHI) are metropolitan areas with higher temperatures than that of the surrounding environment. The higher temperatures result from increased absorption of solar energy by urban materials such as asphalt and concrete, which have lower albedos and higher heat capacities than those in the natural environment. A straightforward method of counteracting the UHI effect is to paint buildings and roads white and to plant trees in the area. Using these methods, a hypothetical \"cool communities\" program in Los Angeles has projected that urban temperatures could be reduced by approximately 3 °C at an estimated cost of US$1  billion, giving estimated total annual benefits of US$530  million from reduced air-conditioning costs and healthcare savings. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Technische_Universit%C3%A4t_Darmstadt_-_Solar_Decathlon_2007.jpg/220px-Technische_Universit%C3%A4t_Darmstadt_-_Solar_Decathlon_2007.jpg",
+                "caption": "Darmstadt University of Technology , Germany, won the 2007 Solar Decathlon in Washington, DC with this passive house designed for humid and hot subtropical climate. [72]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Agriculture and horticulture",
+        "text": "Agriculture and horticulture seek to optimize the capture of solar energy to optimize the productivity of plants. Techniques such as timed planting cycles, tailored row orientation, staggered heights between rows and the mixing of plant varieties can improve crop yields. [77] [78] [79] While sunlight is generally considered a plentiful resource, the exceptions highlight the importance of solar energy to agriculture. During the short growing seasons of the Little Ice Age , French and English farmers employed fruit walls to maximize the collection of solar energy. These walls acted as thermal masses and accelerated ripening by keeping plants warm. Early fruit walls were built perpendicular to the ground and facing south, but over time, sloping walls were developed to make better use of sunlight. In 1699, Nicolas Fatio de Duillier even suggested using a tracking mechanism which could pivot to follow the Sun. [80] Applications of solar energy in agriculture aside from growing crops include pumping water, drying crops, brooding chicks and drying chicken manure. [46] [81] More recently the technology has been embraced by vintners , who use the energy generated by solar panels to power grape presses. [82] Greenhouses convert solar light to heat, enabling year-round production and the growth (in enclosed environments) of specialty crops and other plants not naturally suited to the local climate. Primitive greenhouses were first used during Roman times to produce cucumbers year-round for the Roman emperor Tiberius . [83] The first modern greenhouses were built in Europe in the 16th century to keep exotic plants brought back from explorations abroad. [84] Greenhouses remain an important part of horticulture today. Plastic transparent materials have also been used to similar effect in polytunnels and row covers .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Westland_kassen.jpg/220px-Westland_kassen.jpg",
+                "caption": "Greenhouses like these in the Westland municipality of the Netherlands grow vegetables, fruits and flowers."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Transport",
+        "text": "Development of a solar-powered car has been an engineering goal since the 1980s. The World Solar Challenge is a biannual solar-powered car race, where teams from universities and enterprises compete over 3,021 kilometres (1,877 mi) across central Australia from Darwin to Adelaide . In 1987, when it was founded, the winner's average speed was 67 kilometres per hour (42 mph) and by 2007 the winner's average speed had improved to 90.87 kilometres per hour (56.46 mph). [85] The North American Solar Challenge and the planned South African Solar Challenge are comparable competitions that reflect an international interest in the engineering and development of solar powered vehicles. [86] [87] Some vehicles use solar panels for auxiliary power, such as for air conditioning, to keep the interior cool, thus reducing fuel consumption. [88] [89] In 1975, the first practical solar boat was constructed in England. [90] By 1995, passenger boats incorporating PV panels began appearing and are now used extensively. [91] In 1996, Kenichi Horie made the first solar-powered crossing of the Pacific Ocean, and the Sun21 catamaran made the first solar-powered crossing of the Atlantic Ocean in the winter of 2006–2007. [92] There were plans to circumnavigate the globe in 2010. [93] In 1974, the unmanned AstroFlight Sunrise airplane made the first solar flight. On 29 April 1979, the Solar Riser made the first flight in a solar-powered, fully controlled, man-carrying flying machine, reaching an altitude of 40 ft (12 m). In 1980, the Gossamer Penguin made the first piloted flights powered solely by photovoltaics. This was quickly followed by the Solar Challenger which crossed the English Channel in July 1981. In 1990 Eric Scott Raymond in 21 hops flew from California to North Carolina using solar power. [94] Developments then turned back to unmanned aerial vehicles (UAV) with the Pathfinder (1997) and subsequent designs, culminating in the Helios which set the altitude record for a non-rocket-propelled aircraft at 29,524 metres (96,864 ft) in 2001. [95] The Zephyr , developed by BAE Systems , is the latest in a line of record-breaking solar aircraft, making a 54-hour flight in 2007, and month-long flights were envisioned by 2010. [96] From March 2015 to July 2016, Solar Impulse , an electric aircraft , successfully circumnavigated the globe. It is a single-seat plane powered by solar cells and capable of taking off under its own power. The design allows the aircraft to remain airborne for several days. [97] A solar balloon is a black balloon that is filled with ordinary air. As sunlight shines on the balloon, the air inside is heated and expands, causing an upward buoyancy force, much like an artificially heated hot air balloon . Some solar balloons are large enough for human flight, but usage is generally limited to the toy market as the surface-area to payload-weight ratio is relatively high. [98]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nuna_7.jpg/225px-Nuna_7.jpg",
+                "caption": "Winner of the 2013 World Solar Challenge in Australia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Squad Solar vehicle",
+        "text": "The Squad Solar is a Neighborhood Electric Vehicle that has a solar roof and can be plugged into a normal 120 volt outlet to be charged. [99]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Squad_Solar_Car_%28Fully_Charged_2022%29.jpg/220px-Squad_Solar_Car_%28Fully_Charged_2022%29.jpg",
+                "caption": "Squad Solar"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Fuel production",
+        "text": "Solar chemical processes use solar energy to drive chemical reactions. These processes offset energy that would otherwise come from a fossil fuel source and can also convert solar energy into storable and transportable fuels. Solar induced chemical reactions can be divided into thermochemical or photochemical . [100] A variety of fuels can be produced by artificial photosynthesis . [101] The multielectron catalytic chemistry involved in making carbon-based fuels (such as methanol ) from reduction of carbon dioxide is challenging; a feasible alternative is hydrogen production from protons, though use of water as the source of electrons (as plants do) requires mastering the multielectron oxidation of two water molecules to molecular oxygen. [102] Some have envisaged working solar fuel plants in coastal metropolitan areas by 2050 –  the splitting of seawater providing hydrogen to be run through adjacent fuel-cell electric power plants and the pure water by-product going directly into the municipal water system. [103] In addition, chemical energy storage is another solution to solar energy storage. [104] Hydrogen production technologies have been a significant area of solar chemical research since the 1970s. Aside from electrolysis driven by photovoltaic or photochemical cells, several thermochemical processes have also been explored. One such route uses concentrators to split water into oxygen and hydrogen at high temperatures (2,300–2,600 °C or 4,200–4,700 °F). [105] Another approach uses the heat from solar concentrators to drive the steam reformation of natural gas thereby increasing the overall hydrogen yield compared to conventional reforming methods. [106] Thermochemical cycles characterized by the decomposition and regeneration of reactants present another avenue for hydrogen production. The Solzinc process under development at the Weizmann Institute of Science uses a 1 MW solar furnace to decompose zinc oxide (ZnO) at temperatures above 1,200 °C (2,200 °F). This initial reaction produces pure zinc, which can subsequently be reacted with water to produce hydrogen. [107]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Photo_of_the_Week-_Boosting_Solar_Technology_%288722948189%29.jpg/220px-Photo_of_the_Week-_Boosting_Solar_Technology_%288722948189%29.jpg",
+                "caption": "Concentrated solar panels are getting a power boost. Pacific Northwest National Laboratory (PNNL) will be testing a new concentrated solar power system – one that can help natural gas power plants reduce their fuel usage by up to 20 percent. [ needs update ]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Energy storage methods",
+        "text": "Thermal mass systems can store solar energy in the form of heat at domestically useful temperatures for daily or interseasonal durations . Thermal storage systems generally use readily available materials with high specific heat capacities such as water, earth and stone. Well-designed systems can lower peak demand , shift time-of-use to off-peak hours and reduce overall heating and cooling requirements. [108] [109] Phase change materials such as paraffin wax and Glauber's salt are another thermal storage medium. These materials are inexpensive, readily available, and can deliver domestically useful temperatures (approximately 64 °C or 147 °F). The \"Dover House\" (in Dover, Massachusetts ) was the first to use a Glauber's salt heating system, in 1948. [110] Solar energy can also be stored at high temperatures using molten salts . Salts are an effective storage medium because they are low-cost, have a high specific heat capacity, and can deliver heat at temperatures compatible with conventional power systems. The Solar Two project used this method of energy storage, allowing it to store 1.44 terajoules (400,000 kWh) in its 68 m 3 storage tank with an annual storage efficiency of about 99%. [111] Off-grid PV systems have traditionally used rechargeable batteries to store excess electricity. With grid-tied systems, excess electricity can be sent to the transmission grid , while standard grid electricity can be used to meet shortfalls. Net metering programs give household systems credit for any electricity they deliver to the grid. This is handled by 'rolling back' the meter whenever the home produces more electricity than it consumes. If the net electricity use is below zero, the utility then rolls over the kilowatt-hour credit to the next month. [112] Other approaches involve the use of two meters, to measure electricity consumed vs. electricity produced. This is less common due to the increased installation cost of the second meter. Most standard meters accurately measure in both directions, making a second meter unnecessary. Pumped-storage hydroelectricity stores energy in the form of water pumped when energy is available from a lower elevation reservoir to a higher elevation one. The energy is recovered when demand is high by releasing the water, with the pump becoming a hydroelectric power generator. [113]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Andasol_3.jpg/220px-Andasol_3.jpg",
+                "caption": "Thermal energy storage . The Andasol CSP plant uses tanks of molten salt to store solar energy."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Development, deployment and economics",
+        "text": "Beginning with the surge in coal use, which accompanied the Industrial Revolution , energy consumption steadily transitioned from wood and biomass to fossil fuels . The early development of solar technologies starting in the 1860s was driven by an expectation that coal would soon become scarce. However, development of solar technologies stagnated in the early 20th  century in the face of the increasing availability, economy, and utility of coal and petroleum . [114] The 1973 oil embargo and 1979 energy crisis caused a reorganization of energy policies around the world. It brought renewed attention to developing solar technologies. [115] [116] Deployment strategies focused on incentive programs such as the Federal Photovoltaic Utilization Program in the US and the Sunshine Program in Japan. Other efforts included the formation of research facilities in the US (SERI, now NREL ), Japan ( NEDO ), and Germany ( Fraunhofer Institute for Solar Energy Systems ISE ). [117] Commercial solar water heaters began appearing in the United States in the 1890s. [118] These systems saw increasing use until the 1920s but were gradually replaced by cheaper and more reliable heating fuels. [119] As with photovoltaics, solar water heating attracted renewed attention as a result of the oil crises in the 1970s, but interest subsided in the 1980s due to falling petroleum prices. Development in the solar water heating sector progressed steadily throughout the 1990s, and annual growth rates have averaged 20% since 1999. [120] Although generally underestimated, solar water heating and cooling is by far the most widely deployed solar technology with an estimated capacity of 154  GW as of 2007. [120] The International Energy Agency has said that solar energy can make considerable contributions to solving some of the most urgent problems the world now faces: [1] In 2011, a report by the International Energy Agency found that solar energy technologies such as photovoltaics, solar hot water, and concentrated solar power could provide a third of the world's energy by 2060 if politicians commit to limiting climate change and transitioning to renewable energy . The energy from the Sun could play a key role in de-carbonizing the global economy alongside improvements in energy efficiency and imposing costs on greenhouse gas emitters. \"The strength of solar is the incredible variety and flexibility of applications, from small scale to big scale\". [121] In 2021 Lazard estimated the levelized cost of new build unsubsidized utility scale solar electricity at less than 37 dollars per MWh and existing coal-fired power above that amount. [122] [123] The 2021 report also said that new solar was also cheaper than new gas-fired power, but not generally existing gas power. [123]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/03242012Taller_sostenibilidad_lore060.jpg/220px-03242012Taller_sostenibilidad_lore060.jpg",
+                "caption": "Participants in a workshop on sustainable development inspect solar panels at Monterrey Institute of Technology and Higher Education, Mexico City on top of a building on campus."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Solar_PV_module_prices.svg/220px-Solar_PV_module_prices.svg.png",
+                "caption": "Cost development of solar PV modules per watt"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    },
+    {
+        "section": "Solar aircraft",
+        "text": "An electric aircraft is an aircraft that runs on electric motors rather than internal combustion engines , with electricity coming from fuel cells , solar cells , ultracapacitors , power beaming , [140] or batteries . Currently, flying manned electric aircraft are mostly experimental demonstrators, though many small unmanned aerial vehicles are powered by batteries. Electrically powered model aircraft have been flown since the 1970s, with one report in 1957. [141] [142] The first man-carrying electrically powered flights were made in 1973. [143] Between 2015 and 2016, a manned, solar-powered plane, Solar Impulse 2 , completed a circumnavigation of the Earth. [144]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Solar_Impulse_SI2_pilote_Bertrand_Piccard_Payerne_November_2014.jpg/220px-Solar_Impulse_SI2_pilote_Bertrand_Piccard_Payerne_November_2014.jpg",
+                "caption": "In 2016, Solar Impulse 2 was the first solar-powered aircraft to complete a circumnavigation of the world."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Improvements in solar efficiency"
+    }
+]

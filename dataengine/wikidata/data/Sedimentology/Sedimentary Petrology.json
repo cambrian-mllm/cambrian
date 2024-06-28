@@ -1,0 +1,598 @@
+[
+    {
+        "section": "Methodology",
+        "text": "Petrology utilizes the fields of mineralogy , petrography, optical mineralogy , and chemical analysis to describe the composition and texture of rocks. Petrologists also include the principles of geochemistry and geophysics through the study of geochemical trends and cycles and the use of thermodynamic data and experiments in order to better understand the origins of rocks.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ljudmila_Dolar_Mantuani.jpg/170px-Ljudmila_Dolar_Mantuani.jpg",
+                "caption": "Ljudmila Dolar Mantuani (1906–1988), first female professor of petrography in Yugoslavia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Petrology",
+        "title": "Petrology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Sedimentary rock types",
+        "text": "There are four primary types of sedimentary rocks : clastics, carbonates, evaporites, and chemical.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Triassic_Utah.JPG/220px-Triassic_Utah.JPG",
+                "caption": "Middle Triassic marginal marine sequence of siltstones and sandstones, southwestern Utah ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentology",
+        "title": "Sedimentology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Importance of sedimentary rocks",
+        "text": "Sedimentary rocks provide a multitude of products which modern and ancient society has come to utilise.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/UraniumMineUtah.JPG/220px-UraniumMineUtah.JPG",
+                "caption": "Mi Vida uranium mine in redox mudstones near Moab, Utah"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentology",
+        "title": "Sedimentology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Basic principles",
+        "text": "The aim of sedimentology, studying sediments, is to derive information on the depositional conditions which acted to deposit the rock unit, and the relation of the individual rock units in a basin into a coherent understanding of the evolution of the sedimentary sequences and basins, and thus, the Earth's geological history as a whole. [ citation needed ] The scientific basis of this is the principle of uniformitarianism, which states that the sediments within ancient sedimentary rocks were deposited in the same way as sediments which are being deposited at the Earth's surface today. [ citation needed ] Sedimentological conditions are recorded within the sediments as they are laid down; the form of the sediments at present reflects the events of the past and all events which affect the sediments, from the source of the sedimentary material to the stresses enacted upon them after diagenesis are available for study. [ citation needed ] The principle of superposition is critical to the interpretation of sedimentary sequences, and in older metamorphic terrains or fold and thrust belts where sediments are often intensely folded or deformed, recognising younging indicators or graded bedding is critical to interpretation of the sedimentary section and often the deformation and metamorphic structure of the region. [ citation needed ] Folding in sediments is analysed with the principle of original horizontality , which states that sediments are deposited at their angle of repose which, for most types of sediment, is essentially horizontal. Thus, when the younging direction is known, the rocks can be \"unfolded\" and interpreted according to the contained sedimentary information. The principle of lateral continuity states that layers of sediment initially extend laterally in all directions unless obstructed by a physical object or topography. The principle of cross-cutting relationships states that whatever cuts across or intrudes into the layers of strata is younger than the layers of strata.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/HeavyMineralsBeachSand.jpg/220px-HeavyMineralsBeachSand.jpg",
+                "caption": "Heavy minerals (dark) deposited in a quartz beach sand ( Chennai , India)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentology",
+        "title": "Sedimentology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Methodology",
+        "text": "The methods employed by sedimentologists to gather data and evidence on the nature and depositional conditions of sedimentary rocks include;",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MudcracksCentripetal.JPG/220px-MudcracksCentripetal.JPG",
+                "caption": "Centripetal desiccation cracks (with a dinosaur footprint in the center) in the Lower Jurassic Moenave Formation at the St. George Dinosaur Discovery Site at Johnson Farm, southwestern Utah."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentology",
+        "title": "Sedimentology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Classification based on origin",
+        "text": "Sedimentary rocks can be subdivided into four groups based on the processes responsible for their formation: clastic sedimentary rocks, biochemical (biogenic) sedimentary rocks, chemical sedimentary rocks, and a fourth category for \"other\" sedimentary rocks formed by impacts, volcanism , and other minor processes.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ulu%E1%B9%9Fu_%28Ayers_Rock%29%2C_Sunset.jpg/220px-Ulu%E1%B9%9Fu_%28Ayers_Rock%29%2C_Sunset.jpg",
+                "caption": "Uluru (Ayers Rock) is a large sandstone formation in Northern Territory , Australia ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Clastic sedimentary rocks",
+        "text": "Clastic sedimentary rocks are composed of rock fragments ( clasts ) that have been cemented together. The clasts are commonly individual grains of quartz , feldspar , clay minerals , or mica . However, any type of mineral may be present. Clasts may also be lithic fragments composed of more than one mineral. Clastic sedimentary rocks are subdivided according to the dominant particle size. Most geologists use the Udden-Wentworth grain size scale and divide unconsolidated sediment into three fractions: gravel (>2 mm diameter), sand (1/16 to 2 mm diameter), and mud (<1/16 mm diameter). Mud is further divided into silt (1/16 to 1/256 mm diameter) and clay (<1/256 mm diameter). The classification of clastic sedimentary rocks parallels this scheme; conglomerates and breccias are made mostly of gravel, sandstones are made mostly of sand , and mudrocks are made mostly of mud. This tripartite subdivision is mirrored by the broad categories of rudites , arenites , and lutites , respectively, in older literature. The subdivision of these three broad categories is based on differences in clast shape (conglomerates and breccias), composition (sandstones), or grain size or texture (mudrocks).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/GLMsed.jpg/260px-GLMsed.jpg",
+                "caption": "Claystone deposited in Glacial Lake Missoula , Montana , United States . Note the very fine and flat bedding, common for deposits coming from lake beds further away from the source of sediment."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Sandstones",
+        "text": "Sandstone classification schemes vary widely, but most geologists have adopted the Dott scheme, [3] which uses the relative abundance of quartz, feldspar, and lithic framework grains and the abundance of a muddy matrix between the larger grains. Six sandstone names are possible using the descriptors for grain composition (quartz-, feldspathic-, and lithic-) and the amount of matrix (wacke or arenite). For example, a quartz arenite would be composed of mostly (>90%) quartz grains and have little or no clayey matrix between the grains, a lithic wacke would have abundant lithic grains and abundant muddy matrix, etc. Although the Dott classification scheme [3] is widely used by sedimentologists, common names like greywacke , arkose , and quartz sandstone are still widely used by non-specialists and in popular literature.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sedimentgesteine_auf_Malta.JPG/240px-Sedimentgesteine_auf_Malta.JPG",
+                "caption": "Sedimentary rock with sandstone in Malta , southern Europe"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lower_antelope_3_md.jpg/260px-Lower_antelope_3_md.jpg",
+                "caption": "Lower Antelope Canyon was carved out of the surrounding sandstone by both mechanical weathering and chemical weathering. Wind, sand, and water from flash flooding are the primary weathering agents."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Biochemical sedimentary rocks",
+        "text": "Biochemical sedimentary rocks are created when organisms use materials dissolved in air or water to build their tissue. Examples include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/OilShaleEstonia.jpg/220px-OilShaleEstonia.jpg",
+                "caption": "Outcrop of Ordovician oil shale ( kukersite ), northern Estonia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Classification based on composition",
+        "text": "Alternatively, sedimentary rocks can be subdivided into compositional groups based on their mineralogy:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cretaceous_Gastropod_Fossils_Lebanon.jpg/260px-Cretaceous_Gastropod_Fossils_Lebanon.jpg",
+                "caption": "Fossils of Nerinea marine gastropods of Late Cretaceous ( Cenomanian ) age, in limestone in Lebanon"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Sediment transport and deposition",
+        "text": "Sedimentary rocks are formed when sediment is deposited out of air, ice, wind, gravity, or water flows carrying the particles in suspension . This sediment is often formed when weathering and erosion break down a rock into loose material in a source area. The material is then transported from the source area to the deposition area. The type of sediment transported depends on the geology of the hinterland (the source area of the sediment). However, some sedimentary rocks, such as evaporites , are composed of material that form at the place of deposition. The nature of a sedimentary rock, therefore, not only depends on the sediment supply, but also on the sedimentary depositional environment in which it formed.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Logan_Formation_Cross_Bedding_Scour.jpg/240px-Logan_Formation_Cross_Bedding_Scour.jpg",
+                "caption": "Cross-bedding and scour in a fine sandstone ; the Logan Formation ( Mississippian ) of Jackson County, Ohio"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Transformation (Diagenesis)",
+        "text": "As sediments accumulate in a depositional environment, older sediments are buried by younger sediments, and they undergo diagenesis. Diagenesis includes all the chemical, physical, and biological changes, exclusive of surface weathering, undergone by a sediment after its initial deposition. This includes compaction and lithification of the sediments. [8] Early stages of diagenesis, described as eogenesis , take place at shallow depths (a few tens of meters) and is characterized by bioturbation and mineralogical changes in the sediments, with only slight compaction. [9] The red hematite that gives red bed sandstones their color is likely formed during eogenesis. [10] [8] Some biochemical processes, like the activity of bacteria , can affect minerals in a rock and are therefore seen as part of diagenesis. [11] Deeper burial is accompanied by mesogenesis , during which most of the compaction and lithification takes place. Compaction takes place as the sediments come under increasing overburden (lithostatic) pressure from overlying sediments. Sediment grains move into more compact arrangements, grains of ductile minerals (such as mica ) are deformed, and pore space is reduced. Sediments are typically saturated with groundwater or seawater when originally deposited, and as pore space is reduced, much of these connate fluids are expelled. In addition to this physical compaction, chemical compaction may take place via pressure solution . Points of contact between grains are under the greatest strain, and the strained mineral is more soluble than the rest of the grain. As a result, the contact points are dissolved away, allowing the grains to come into closer contact. [8] The increased pressure and temperature stimulate further chemical reactions, such as the reactions by which organic material becomes lignite or coal. [12] Lithification follows closely on compaction, as increased temperatures at depth hasten the precipitation of cement that binds the grains together. Pressure solution contributes to this process of cementation , as the mineral dissolved from strained contact points is redeposited in the unstrained pore spaces. This further reduces porosity and makes the rock more compact and competent . [8] Unroofing of buried sedimentary rock is accompanied by telogenesis , the third and final stage of diagenesis. [9] As erosion reduces the depth of burial, renewed exposure to meteoric water produces additional changes to the sedimentary rock, such as leaching of some of the cement to produce secondary porosity . [8] At sufficiently high temperature and pressure, the realm of diagenesis makes way for metamorphism , the process that forms metamorphic rock . [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Pressure_solution_sandstone.svg/220px-Pressure_solution_sandstone.svg.png",
+                "caption": "Pressure solution at work in a clastic rock . While material dissolves at places where grains are in contact, that material may recrystallize from the solution and act as cement in open pore spaces. As a result, there is a net flow of material from areas under high stress to those under low stress, producing a sedimentary rock that is harder and more compact. Loose sand can become sandstone in this way."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Texture",
+        "text": "The size , form and orientation of clasts (the original pieces of rock) in a sediment is called its texture . The texture is a small-scale property of a rock, but determines many of its large-scale properties, such as the density , porosity or permeability . [16] The 3D orientation of the clasts is called the fabric of the rock. The size and form of clasts can be used to determine the velocity and direction of current in the sedimentary environment that moved the clasts from their origin; fine, calcareous mud only settles in quiet water while gravel and larger clasts are moved only by rapidly moving water. [17] [18] The grain size of a rock is usually expressed with the Wentworth scale, though alternative scales are sometimes used. The grain size can be expressed as a diameter or a volume, and is always an average value, since a rock is composed of clasts with different sizes. The statistical distribution of grain sizes is different for different rock types and is described in a property called the sorting of the rock. When all clasts are more or less of the same size, the rock is called 'well-sorted', and when there is a large spread in grain size, the rock is called 'poorly sorted'. [19] [20] The form of the clasts can reflect the origin of the rock. For example, coquina , a rock composed of clasts of broken shells, can only form in energetic water. The form of a clast can be described by using four parameters: [21] [22] Chemical sedimentary rocks have a non-clastic texture, consisting entirely of crystals. To describe such a texture, only the average size of the crystals and the fabric are necessary.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sorting_in_sediment.svg/220px-Sorting_in_sediment.svg.png",
+                "caption": "Diagram showing well-sorted (left) and poorly sorted (right) grains"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rounding_%26_sphericity_EN.svg/220px-Rounding_%26_sphericity_EN.svg.png",
+                "caption": "Diagram showing the rounding and sphericity of grains"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Mineralogy",
+        "text": "Most sedimentary rocks contain either quartz ( siliciclastic rocks) or calcite ( carbonate rocks ). In contrast to igneous and metamorphic rocks, a sedimentary rock usually contains very few different major minerals. However, the origin of the minerals in a sedimentary rock is often more complex than in an igneous rock. Minerals in a sedimentary rock may have been present in the original sediments or may formed by precipitation during diagenesis. In the second case, a mineral precipitate may have grown over an older generation of cement. [24] A complex diagenetic history can be established by optical mineralogy , using a petrographic microscope . Carbonate rocks predominantly consist of carbonate minerals such as calcite, aragonite or dolomite . Both the cement and the clasts (including fossils and ooids ) of a carbonate sedimentary rock usually consist of carbonate minerals. The mineralogy of a clastic rock is determined by the material supplied by the source area, the manner of its transport to the place of deposition and the stability of that particular mineral. The resistance of rock-forming minerals to weathering is expressed by the Goldich dissolution series . In this series, quartz is the most stable, followed by feldspar , micas , and finally other less stable minerals that are only present when little weathering has occurred. [25] The amount of weathering depends mainly on the distance to the source area, the local climate and the time it took for the sediment to be transported to the point where it is deposited. In most sedimentary rocks, mica, feldspar and less stable minerals have been weathered to clay minerals like kaolinite , illite or smectite .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/00065_sand_collage.jpg/220px-00065_sand_collage.jpg",
+                "caption": "Global collage of sand samples. There is one square centimeter of sand on every sample photo. Sand samples row by row from left to right: 1. Glass sand from Kauai, Hawaii 2. Dune sand from the Gobi Desert 3. Quartz sand with green glauconite from Estonia 4. Volcanic sand with reddish weathered basalt from Maui, Hawaii 5. Biogenic coral sand from Molokai, Hawaii 6. Coral pink sand dunes from Utah 7. Volcanic glass sand from California 8. Garnet sand from Emerald Creek, Idaho 9. Olivine sand from Papakolea, Hawaii. [1]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Fossils",
+        "text": "Among the three major types of rock, fossils are most commonly found in sedimentary rock. Unlike most igneous and metamorphic rocks, sedimentary rocks form at temperatures and pressures that do not destroy fossil remnants. Often these fossils may only be visible under magnification . Dead organisms in nature are usually quickly removed by scavengers , bacteria , rotting and erosion, but under exceptional circumstances, these natural processes are unable to take place, leading to fossilisation. The chance of fossilisation is higher when the sedimentation rate is high (so that a carcass is quickly buried), in anoxic environments (where little bacterial activity occurs) or when the organism had a particularly hard skeleton. Larger, well-preserved fossils are relatively rare. Fossils can be both the direct remains or imprints of organisms and their skeletons. Most commonly preserved are the harder parts of organisms such as bones, shells, and the woody tissue of plants. Soft tissue has a much smaller chance of being fossilized, and the preservation of soft tissue of animals older than 40 million years is very rare. [26] Imprints of organisms made while they were still alive are called trace fossils , examples of which are burrows , footprints , etc. As a part of a sedimentary rock, fossils undergo the same diagenetic processes as does the host rock. For example, a shell consisting of calcite can dissolve while a cement of silica then fills the cavity. In the same way, precipitating minerals can fill cavities formerly occupied by blood vessels , vascular tissue or other soft tissues. This preserves the form of the organism but changes the chemical composition, a process called permineralization . [27] [28] The most common minerals involved in permineralization are various forms of amorphous silica ( chalcedony , flint , chert ), carbonates (especially calcite), and pyrite . At high pressure and temperature, the organic material of a dead organism undergoes chemical reactions in which volatiles such as water and carbon dioxide are expulsed. The fossil, in the end, consists of a thin layer of pure carbon or its mineralized form, graphite . This form of fossilisation is called carbonisation . It is particularly important for plant fossils. [29] The same process is responsible for the formation of fossil fuels like lignite or coal.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fossils_in_a_beach_wall.JPG/260px-Fossils_in_a_beach_wall.JPG",
+                "caption": "Fossil-rich layers in a sedimentary rock, Año Nuevo State Reserve , California"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Graafgang.jpg/220px-Graafgang.jpg",
+                "caption": "Burrows in a turbidite , made by crustaceans , San Vincente Formation (early Eocene ) of the Ainsa Basin , southern foreland of the Pyrenees"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Primary sedimentary structures",
+        "text": "Structures in sedimentary rocks can be divided into primary structures (formed during deposition) and secondary structures (formed after deposition). Unlike textures, structures are always large-scale features that can easily be studied in the field. Sedimentary structures can indicate something about the sedimentary environment or can serve to tell which side originally faced up where tectonics have tilted or overturned sedimentary layers. Sedimentary rocks are laid down in layers called beds or strata . A bed is defined as a layer of rock that has a uniform lithology and texture. Beds form by the deposition of layers of sediment on top of each other. The sequence of beds that characterizes sedimentary rocks is called bedding . [30] [31] Single beds can be a couple of centimetres to several meters thick. Finer, less pronounced layers are called laminae, and the structure a lamina forms in a rock is called lamination . Laminae are usually less than a few centimetres thick. [32] Though bedding and lamination are often originally horizontal in nature, this is not always the case. In some environments, beds are deposited at a (usually small) angle. Sometimes multiple sets of layers with different orientations exist in the same rock, a structure called cross-bedding . [33] Cross-bedding is characteristic of deposition by a flowing medium (wind or water). The opposite of cross-bedding is parallel lamination, where all sedimentary layering is parallel. [34] Differences in laminations are generally caused by cyclic changes in the sediment supply, caused, for example, by seasonal changes in rainfall, temperature or biochemical activity. Laminae that represent seasonal changes (similar to tree rings ) are called varves . Any sedimentary rock composed of millimeter or finer scale layers can be named with the general term laminite . When sedimentary rocks have no lamination at all, their structural character is called massive bedding. Graded bedding is a structure where beds with a smaller grain size occur on top of beds with larger grains. This structure forms when fast flowing water stops flowing. Larger, heavier clasts in suspension settle first, then smaller clasts. Although graded bedding can form in many different environments, it is a characteristic of turbidity currents . [35] The surface of a particular bed, called the bedform , can also be indicative of a particular sedimentary environment. Examples of bed forms include dunes and ripple marks . Sole markings, such as tool marks and flute casts, are grooves eroded on a surface that are preserved by renewed sedimentation. These are often elongated structures and can be used to establish the direction of the flow during deposition. [36] [37] Ripple marks also form in flowing water. There can be symmetric or asymmetric. Asymmetric ripples form in environments where the current is in one direction, such as rivers. The longer flank of such ripples is on the upstream side of the current. [38] [39] [40] Symmetric wave ripples occur in environments where currents reverse directions, such as tidal flats. Mudcracks are a bed form caused by the dehydration of sediment that occasionally comes above the water surface. Such structures are commonly found at tidal flats or point bars along rivers.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Crossbeddingbressay.jpg/260px-Crossbeddingbressay.jpg",
+                "caption": "Cross-bedding in a fluviatile sandstone, Middle Old Red Sandstone ( Devonian ) on Bressay , Shetland Islands"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flute_cast_-_Triassic_-_Riba_de_Santiuste_-_Spain.JPG/220px-Flute_cast_-_Triassic_-_Riba_de_Santiuste_-_Spain.JPG",
+                "caption": "Flute casts , a type of sole marking on the base of a vertical layer of Triassic sandstone in Spain"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rippelmarken_Hassberge_ReiKi.jpg/220px-Rippelmarken_Hassberge_ReiKi.jpg",
+                "caption": "Ripple marks formed by a current in a sandstone that was later tilted ( Haßberge , Bavaria )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Secondary sedimentary structures",
+        "text": "Secondary sedimentary structures are those which formed after deposition. Such structures form by chemical, physical and biological processes within the sediment. They can be indicators of circumstances after deposition. Some can be used as way up criteria . Organic materials in a sediment can leave more traces than just fossils. Preserved tracks and burrows are examples of trace fossils (also called ichnofossils). [41] Such traces are relatively rare. Most trace fossils are burrows of molluscs or arthropods . This burrowing is called bioturbation by sedimentologists. It can be a valuable indicator of the biological and ecological environment that existed after the sediment was deposited. On the other hand, the burrowing activity of organisms can destroy other (primary) structures in the sediment, making a reconstruction more difficult. Secondary structures can also form by diagenesis or the formation of a soil ( pedogenesis ) when a sediment is exposed above the water level. An example of a diagenetic structure common in carbonate rocks is a stylolite . [42] Stylolites are irregular planes where material was dissolved into the pore fluids in the rock. This can result in the precipitation of a certain chemical species producing colouring and staining of the rock, or the formation of concretions . Concretions are roughly concentric bodies with a different composition from the host rock. Their formation can be the result of localized precipitation due to small differences in composition or porosity of the host rock, such as around fossils, inside burrows or around plant roots. [43] In carbonate rocks such as limestone or chalk , chert or flint concretions are common, while terrestrial sandstones sometimes contain iron concretions. Calcite concretions in clay containing angular cavities or cracks are called septarian concretions . After deposition, physical processes can deform the sediment, producing a third class of secondary structures. Density contrasts between different sedimentary layers, such as between sand and clay, can result in flame structures or load casts , formed by inverted diapirism . [44] While the clastic bed is still fluid, diapirism can cause a denser upper layer to sink into a lower layer. Sometimes, density contrasts occur or are enhanced when one of the lithologies dehydrates. Clay can be easily compressed as a result of dehydration, while sand retains the same volume and becomes relatively less dense. On the other hand, when the pore fluid pressure in a sand layer surpasses a critical point, the sand can break through overlying clay layers and flow through, forming discordant bodies of sedimentary rock called sedimentary dykes . The same process can form mud volcanoes on the surface where they broke through upper layers. Sedimentary dykes can also be formed in a cold climate where the soil is permanently frozen during a large part of the year. Frost weathering can form cracks in the soil that fill with rubble from above. Such structures can be used as climate indicators as well as way up structures. [45] Density contrasts can also cause small-scale faulting , even while sedimentation progresses (synchronous-sedimentary faulting). [46] Such faulting can also occur when large masses of non-lithified sediment are deposited on a slope, such as at the front side of a delta or the continental slope . Instabilities in such sediments can result in the deposited material to slump , producing fissures and folding. The resulting structures in the rock are syn-sedimentary folds and faults, which can be difficult to distinguish from folds and faults formed by tectonic forces acting on lithified rocks.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/HaliteCrystalMold.jpg/220px-HaliteCrystalMold.jpg",
+                "caption": "Halite crystal mold in dolomite, Paadla Formation ( Silurian ), Saaremaa , Estonia"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vuursteenknollen_in_krijtgesteente.jpg/220px-Vuursteenknollen_in_krijtgesteente.jpg",
+                "caption": "Chert concretions in chalk , Middle Lefkara Formation (upper Paleocene to middle Eocene ), Cyprus"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Depositional environments",
+        "text": "The setting in which a sedimentary rock forms is called the depositional environment . Every environment has a characteristic combination of geologic processes, and circumstances. The type of sediment that is deposited is not only dependent on the sediment that is transported to a place ( provenance ), but also on the environment itself. [47] A marine environment means that the rock was formed in a sea or ocean . Often, a distinction is made between deep and shallow marine environments. Deep marine usually refers to environments more than 200 m below the water surface (including the abyssal plain ). Shallow marine environments exist adjacent to coastlines and can extend to the boundaries of the continental shelf . The water movements in such environments have a generally higher energy than that in deep environments, as wave activity diminishes with depth. This means that coarser sediment particles can be transported and the deposited sediment can be coarser than in deeper environments. When the sediment is transported from the continent, an alternation of sand , clay and silt is deposited. When the continent is far away, the amount of such sediment deposited may be small, and biochemical processes dominate the type of rock that forms. Especially in warm climates, shallow marine environments far offshore mainly see deposition of carbonate rocks. The shallow, warm water is an ideal habitat for many small organisms that build carbonate skeletons. When these organisms die, their skeletons sink to the bottom, forming a thick layer of calcareous mud that may lithify into limestone. Warm shallow marine environments also are ideal environments for coral reefs , where the sediment consists mainly of the calcareous skeletons of larger organisms. [48] In deep marine environments, the water current working the sea bottom is small. Only fine particles can be transported to such places. Typically sediments depositing on the ocean floor are fine clay or small skeletons of micro-organisms. At 4 km depth, the solubility of carbonates increases dramatically (the depth zone where this happens is called the lysocline ). Calcareous sediment that sinks below the lysocline dissolves; as a result, no limestone can be formed below this depth. Skeletons of micro-organisms formed of silica (such as radiolarians ) are not as soluble and are still deposited. An example of a rock formed of silica skeletons is radiolarite . When the bottom of the sea has a small inclination, for example, at the continental slopes , the sedimentary cover can become unstable, causing turbidity currents . Turbidity currents are sudden disturbances of the normally quiet deep marine environment and can cause the near-instantaneous deposition of large amounts of sediment, such as sand and silt. The rock sequence formed by a turbidity current is called a turbidite . [49] The coast is an environment dominated by wave action. At a beach , dominantly denser sediment such as sand or gravel, often mingled with shell fragments, is deposited, while the silt and clay sized material is kept in mechanical suspension. Tidal flats and shoals are places that sometimes dry because of the tide . They are often cross-cut by gullies , where the current is strong and the grain size of the deposited sediment is larger. Where rivers enter the body of water, either on a sea or lake coast, deltas can form. These are large accumulations of sediment transported from the continent to places in front of the mouth of the river. Deltas are dominantly composed of clastic (rather than chemical) sediment. A continental sedimentary environment is an environment in the interior of a continent. Examples of continental environments are lagoons , lakes, swamps , floodplains and alluvial fans . In the quiet water of swamps, lakes and lagoons, fine sediment is deposited, mingled with organic material from dead plants and animals. In rivers, the energy of the water is much greater and can transport heavier clastic material. Besides transport by water, sediment can be transported by wind or glaciers. Sediment transported by wind is called aeolian and is almost always very well sorted , while sediment transported by a glacier is called glacial till and is characterized by very poor sorting. [50] Aeolian deposits can be quite striking. The depositional environment of the Touchet Formation , located in the Northwestern United States , had intervening periods of aridity which resulted in a series of rhythmite layers. Erosional cracks were later infilled with layers of soil material, especially from aeolian processes . The infilled sections formed vertical inclusions in the horizontally deposited layers, and thus provided evidence of the sequence of events during deposition of the forty-one layers of the formation. [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Main_depositional_environments.svg/350px-Main_depositional_environments.svg.png",
+                "caption": "Common types of depositional environments"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sediment_off_the_Yucatan_Peninsula.jpg/220px-Sediment_off_the_Yucatan_Peninsula.jpg",
+                "caption": "The swirls of tan, green, blue, and white are sediment in the shallow waters of the Gulf of Mexico off the Yucatan Peninsula . The blue-green cloud in this image roughly matches the extent of the shallow continental shelf west of the peninsula. This is a perfect example of a shallow marine depositional environment ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Sedimentary facies",
+        "text": "The kind of rock formed in a particular depositional environment is called its sedimentary facies . Sedimentary environments usually exist alongside each other in certain natural successions. A beach, where sand and gravel is deposited, is usually bounded by a deeper marine environment a little offshore, where finer sediments are deposited at the same time. Behind the beach, there can be dunes (where the dominant deposition is well sorted sand) or a lagoon (where fine clay and organic material is deposited). Every sedimentary environment has its own characteristic deposits. When sedimentary strata accumulate through time, the environment can shift, forming a change in facies in the subsurface at one location. On the other hand, when a rock layer with a certain age is followed laterally, the lithology (the type of rock) and facies eventually change. [52] Facies can be distinguished in a number of ways: the most common are by the lithology (for example: limestone, siltstone or sandstone) or by fossil content. Coral , for example, only lives in warm and shallow marine environments and fossils of coral are thus typical for shallow marine facies. Facies determined by lithology are called lithofacies ; facies determined by fossils are biofacies . [53] Sedimentary environments can shift their geographical positions through time. Coastlines can shift in the direction of the sea when the sea level drops ( regression ), when the surface rises ( transgression ) due to tectonic forces in the Earth's crust or when a river forms a large delta . In the subsurface, such geographic shifts of sedimentary environments of the past are recorded in shifts in sedimentary facies. This means that sedimentary facies can change either parallel or perpendicular to an imaginary layer of rock with a fixed age, a phenomenon described by Walther's Law . [54] The situation in which coastlines move in the direction of the continent is called transgression . In the case of transgression, deeper marine facies are deposited over shallower facies, a succession called onlap . Regression is the situation in which a coastline moves in the direction of the sea. With regression, shallower facies are deposited on top of deeper facies, a situation called offlap . [55] The facies of all rocks of a certain age can be plotted on a map to give an overview of the palaeogeography . A sequence of maps for different ages can give an insight in the development of the regional geography.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Offlap_%26_onlap_EN.svg/300px-Offlap_%26_onlap_EN.svg.png",
+                "caption": "Shifting sedimentary facies in the case of transgression (above) and regression of the sea (below)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Sedimentary basins",
+        "text": "Places where large-scale sedimentation takes place are called sedimentary basins . The amount of sediment that can be deposited in a basin depends on the depth of the basin, the so-called accommodation space . The depth, shape and size of a basin depend on tectonics , movements within the Earth's lithosphere . Where the lithosphere moves upward ( tectonic uplift ), land eventually rises above sea level and the area becomes a source for new sediment as erosion removes material. Where the lithosphere moves downward ( tectonic subsidence ), a basin forms and sediments are deposited. A type of basin formed by the moving apart of two pieces of a continent is called a rift basin . Rift basins are elongated, narrow and deep basins. Due to divergent movement, the lithosphere is stretched and thinned, so that the hot asthenosphere rises and heats the overlying rift basin. Apart from continental sediments, rift basins normally also have part of their infill consisting of volcanic deposits . When the basin grows due to continued stretching of the lithosphere, the rift grows and the sea can enter, forming marine deposits. When a piece of lithosphere that was heated and stretched cools again, its density rises, causing isostatic subsidence. If this subsidence continues long enough, the basin is called a sag basin . Examples of sag basins are the regions along passive continental margins , but sag basins can also be found in the interior of continents. In sag basins, the extra weight of the newly deposited sediments is enough to keep the subsidence going in a vicious circle . The total thickness of the sedimentary infill in a sag basin can thus exceed 10 km. A third type of basin exists along convergent plate boundaries – places where one tectonic plate moves under another into the asthenosphere. The subducting plate bends and forms a fore-arc basin in front of the overriding plate – an elongated, deep asymmetric basin. Fore-arc basins are filled with deep marine deposits and thick sequences of turbidites. Such infill is called flysch . When the convergent movement of the two plates results in continental collision , the basin becomes shallower and develops into a foreland basin . At the same time, tectonic uplift forms a mountain belt in the overriding plate, from which large amounts of material are eroded and transported to the basin. Such erosional material of a growing mountain chain is called molasse and has either a shallow marine or a continental facies. At the same time, the growing weight of the mountain belt can cause isostatic subsidence in the area of the overriding plate on the other side to the mountain belt. The basin type resulting from this subsidence is called a back-arc basin and is usually filled by shallow marine deposits and molasse. [56]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Volcanic_Arc_System_SVG_en.svg/360px-Volcanic_Arc_System_SVG_en.svg.png",
+                "caption": "Plate tectonics diagram showing convergence of an oceanic plate and a continental plate. Note the back-arc basin , forearc basin , and oceanic basin ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Blue_lias_cliffs_at_Lyme_Regis.jpg/220px-Blue_lias_cliffs_at_Lyme_Regis.jpg",
+                "caption": "Cyclic alternation of competent and less competent beds in the Blue Lias at Lyme Regis , southern England"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Sedimentation rates",
+        "text": "The rate at which sediment is deposited differs depending on the location. A channel in a tidal flat can see the deposition of a few metres of sediment in one day, while on the deep ocean floor each year only a few millimetres of sediment accumulate. A distinction can be made between normal sedimentation and sedimentation caused by catastrophic processes. The latter category includes all kinds of sudden exceptional processes like mass movements , rock slides or flooding . Catastrophic processes can see the sudden deposition of a large amount of sediment at once. In some sedimentary environments, most of the total column of sedimentary rock was formed by catastrophic processes, even though the environment is usually a quiet place. Other sedimentary environments are dominated by normal, ongoing sedimentation. [60] In many cases, sedimentation occurs slowly. In a desert , for example, the wind deposits siliciclastic material (sand or silt) in some spots, or catastrophic flooding of a wadi may cause sudden deposits of large quantities of detrital material, but in most places eolian erosion dominates. The amount of sedimentary rock that forms is not only dependent on the amount of supplied material, but also on how well the material consolidates. Erosion removes most deposited sediment shortly after deposition. [60]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/SEUtahStrat.JPG/310px-SEUtahStrat.JPG",
+                "caption": "The Permian through Jurassic stratigraphy of the Colorado Plateau area of southeastern Utah that makes up much of the famous prominent rock formations in protected areas such as Capitol Reef National Park and Canyonlands National Park . From top to bottom: Rounded tan domes of the Navajo Sandstone , layered red Kayenta Formation , cliff-forming, vertically jointed, red Wingate Sandstone , slope-forming, purplish Chinle Formation , layered, lighter-red Moenkopi Formation , and white, layered Cutler Formation sandstone. Picture from Glen Canyon National Recreation Area , Utah."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Provenance",
+        "text": "Provenance is the reconstruction of the origin of sediments. All rock exposed at Earth's surface is subjected to physical or chemical weathering and broken down into finer grained sediment. All three types of rocks ( igneous , sedimentary and metamorphic rocks) can be the source of sedimentary detritus. The purpose of sedimentary provenance studies is to reconstruct and interpret the history of sediment from the initial parent rocks at a source area to final detritus at a burial place. [61]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Distribution_of_detritus.png/220px-Distribution_of_detritus.png",
+                "caption": "Distribution of detritus"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+        "title": "Sedimentary rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Transportation of detritus",
+        "text": "Rocks are transported downstream from higher elevation to lower elevation. Source rocks and detritus are transported by gravity, water, wind or glacial movement. The transportation process breaks rocks into smaller particles by physical abrasion, from big boulder size into sand or even clay size. At the same time minerals within the sediment can also be changed chemically. Only minerals that are more resistant to chemical weathering can survive (e.g. ultrastable minerals zircon , tourmaline and rutile ). During the transportation, minerals can be sorted by their density, and as a result, light minerals like quartz and mica can be moved faster and further than heavy minerals (like zircon and tourmaline).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Distribution_of_detritus.png/220px-Distribution_of_detritus.png",
+                "caption": "Distribution of detritus"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Provenance_(geology)",
+        "title": "Provenance (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Resolving provenance problems by dating detrital minerals",
+        "text": "Geochronology and thermochronology are more and more applied to solve provenance and tectonic problems. [58] [16] [59] [60] [61] Detrital minerals used in this method include zircons, monazites , white micas and apatites. The age dated from these minerals indicate timing of crystallization and multiple tectono-thermal events. This method is based on the following considerations: \"(1) the source areas are characterized by rocks with different tectonic histories recorded by distinctive crystallization and cooling ages; (2) the source rocks contain the selected mineral;\" [62] (3) Detrital mineral like zircon is ultra-stable which means it is capable of surviving multiple phases of physical and chemical weathering, erosion and deposition. This property make these detrital mineral ideal to record long history of crystallization of tectonically complex source area. The figure to the right is an example of U–Pb relative age probability diagram. [16] The upper plot shows foreland basin detrital zircon age distribution. The lower plot shows hinterland (source area) zircon age distribution. In the plots, n is the number of analyzed zircon grains. So for foreland basin Amile formation, 74 grains are analyzed. For source area (divided into 3 tectonic level, Tethyan Himalaya, Greater Himalaya and Lesser Himalaya ), 962, 409 and 666 grains are analyzed respectively. To correlate hinterland and foreland data, let's see the source area record first, Tethyan sequence have age peak at ~500 Myr, 1000 Myr and 2600 Myr, Greater Himalaya has age peaks at ~1200 Myr and 2500 Myr, and Lesser Himalaya sequence has age peaks at ~1800 Ma and 2600 Ma. By simply comparing the foreland basin record with source area record, we cam see that Amile formation resemble age distribution of Lesser Himalaya. It has about 20 grains with age ~1800 Myr ( Paleoproterozoic ) and about 16 grains yield age of ~2600 Myr ( Archean ). Then we can interpret that sediments of Amile formation are mainly derived from the Lesser Himalaya, and rocks yield ago of Paleoproterozoic and Archean are from the Indian craton . So the story is: Indian plate collide with Tibet, rocks of Indian craton deformed and involved into Himalayan thrust belt (e.g. Lesser Himalaya sequence), then eroded and deposited at foreland basin. U–Pb geochronology of zircons was conducted by laser ablation multicollector inductively coupled plasma mass spectrometry ( LA-MC-ICPMS ).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/An_example_of_U%E2%80%93Pb_relative_age_probability_diagram.png/330px-An_example_of_U%E2%80%93Pb_relative_age_probability_diagram.png",
+                "caption": "An example of U–Pb relative age probability diagram [7]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Provenance_(geology)",
+        "title": "Provenance (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Bulk sediment Nd and Sr",
+        "text": "Depend on properties of Sm–Nd radioactive isotope system can provide age estimation of sedimentary source rocks. It has been used in provenance studies. [31] [33] [63] [64] 143 Nd is produced by α decay of 147 Sm and has a half life of 1.06×10 11 years. Variation of 143 Nd/ 144 Nd is caused by decay of 147 Sm. Now Sm/Nd ratio of the mantle is higher than that of the crust and 143 Nd/ 144 Nd ratio is also higher than in the mantle than in the crust. 143 Nd/ 144 Nd ratio is expressed in εNd notation (DePaolo and Wasserbur 1976). [64] ϵ N d = 10 4 [ 1 43 N d / 1 44 N d s a m p l e ( T ) 1 43 N d / 1 44 N d C H U R ( T ) − 1 ] {\\displaystyle \\epsilon Nd=10^{4}\\left[{\\frac {^{1}43Nd/^{1}44Nd_{sample}(T)}{^{1}43Nd/^{1}44Nd_{CHUR}(T)}}-1\\right]} . CHUR refer to Chondritic Uniform Reservoir. So ϵNd is a function of T (time). Nd isotope evolution in mantle and crust in shown in the figure to the right. The upper plot (a), bold line shows the evolution of the bulk earth or CHUR(chondritic uniform reservoir). The lower plot (b) shows evolution of bulk earth (CHUR) crust and mantle, 143Nd/144Nd is transformed to εNd. [65] Normally, the most rocks have εNd values in the range of -20 to +10. Calculated εNd value of rocks can be correlated to source rocks to perform provenance studies. In addition, Sr and Nd isotopes have been used to study both provenance and weathering intensity. [33] Nd is mainly unaffected by weathering process but 87Sr/86Sr value is more affected by chemical weathering. [66] [67]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Sm-Nd_plot.png/260px-Sm-Nd_plot.png",
+                "caption": "An example of Nd and Sr isotopic data plots which are used in provenance studies"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Provenance_(geology)",
+        "title": "Provenance (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Lab data acquisition and instruments",
+        "text": "To pick suitable lab data acquisition to sediment provenance, grain size should be taken into consideration. For conglomerates and boulders, as original mineral paragenesis is preserved, almost all analytical methods can be used to study the provenance. [68] For finer grained sediments, as they always lose paragenetic information, only a limited range of analytical methods can be used. Lab data acquisition approaches for provenance study fall into the following three categories: (1) analyzing bulk composition to extract petrographic, mineralogical and chemical information. (2) analyzing specific groups of minerals such as heavy minerals and (3) analyzing single mineral grains about morphological, chemical and isotopic properties. For bulk composition analysis, samples are crushed, powdered and disintegrated or melted. Then measurement of major and trace and rare-earth (REE) elements are conducted by using instruments like atomic absorption spectroscopy (AAS), X-ray fluorescence (XRF), neutron activation analysis (NAA) etc. Sand-sized sediments are able to be analyzed by single-grain methods. Single-grain methods can be divided into the following three groups: (1) Microscopic-morphological techniques, which are used to observe shape, color and internal structures in minerals. For example, scanning electron microscope (SEM) and cathodoluminescence (CL) detector. [69] [70] (2) Single grain geochemical techniques, which are used to acquire chemical composition and variations within minerals. For example, laser-ablation inductively coupled plasma mass spectrometry (ICP-MS) . [71] (3) Radiometric dating of single grain mineral, which can determine the geochronological and thermochronological properties of minerals. For example, U/Pb SHRIMP dating and 40Ar/39Ar laser-probe dating. [72]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/SHRIP_II.JPG/220px-SHRIP_II.JPG",
+                "caption": "Sensitive High Resolution Ion Microprobe (SHRIMP II) at Curtin University, Western Australia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Provenance_(geology)",
+        "title": "Provenance (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Problems and limitations of provenance studies",
+        "text": "During the pathway of detritus transported from source area to basin, the detritus is subject to weathering, transporting, mixing, deposition, diagenesis and recycling. The complicated process can modify parents lithology both compositionally and textually. All these factors pose certain limits on our capability to restore the characteristics of source rocks from the properties of the produced detrital record. The following paragraphs briefly introduce major problems and limitations of provenance studies. [73]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Source_to_basin.png/260px-Source_to_basin.png",
+                "caption": "Main steps (middle), modification processes (right) and controlling factors (left) of sediment evolution."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Provenance_(geology)",
+        "title": "Provenance (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Hinterland structural assumption",
+        "text": "As a provenance study tries to correlate detrital record (which is stored in basins) to hinterland stratigraphy , and hinterland stratigraphy is structurally controlled by fault systems, so hinterland structural setting is important to interpretation of the detrital record. Hinterland structural setting is estimated by field mapping work. Geologists work along river valleys and traverse mountain belts (thrust belt), locate major faults and describe major stratigraphy bounded by faults in the area. A geologic map is the product of field mapping work, and cross sections can be constructed by interpreting a geologic map. However, a lot of assumptions are made during this process, so the hinterland structural settings are always assumptions. And these assumptions can affect interpretation of detrital record. Here is an example, the right figure shows a classic thrust belt and foreland basin system, the thrust fault carries overlying rocks to the surface and rocks of various lithology are eroded and transported to deposit at the foreland basin. In structural assumption 1, the pink layer is assumed to exist above thrust 2 and thrust 3, but in the 2nd assumption, the pink layer is only carried by thrust 2. Detrital records are stored in foreland basin stratigraphy. Within the stratigraphy, the pink layer is correlated to the hinterland pink layer. If we use structural assumption 2, we can interpret that thrust 2 was active about 12 and 5 million years ago. But when using the other assumption, we couldn't know if the pink layer record indicates activity of thrust 2 or 3.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Structural_assumption.png/330px-Structural_assumption.png",
+                "caption": "Structural assumption influence on provenance interpretation, left two cross sections are two hinterland structural assumptions and the right column is a foreland basin stratigraphy which shows variations of detrital record. Ma = Million year"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Provenance_(geology)",
+        "title": "Provenance (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Framework grains",
+        "text": "Framework grains are sand-sized (0.0625-to-2-millimeter (0.00246 to 0.07874 in) diameter) detrital fragments that make up the bulk of a sandstone. [16] [17] Most framework grains are composed of quartz or feldspar , which are the common minerals most resistant to weathering processes at the Earth's surface, as seen in the Goldich dissolution series . [18] Framework grains can be classified into several different categories based on their mineral composition:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/%281%29Saunders_Quarry-1.jpg/240px-%281%29Saunders_Quarry-1.jpg",
+                "caption": "Paradise Quarry, Sydney , Australia"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GrusSand.JPG/220px-GrusSand.JPG",
+                "caption": "Grus sand and the granitoid from which it is derived"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/LvMS-Lvm.jpg/220px-LvMS-Lvm.jpg",
+                "caption": "Photomicrograph of a volcanic sand grain; upper picture is plane-polarised light, bottom picture is cross-polarised light, scale box at left-centre is 0.25 millimeter. This type of grain would be a main component of a lithic sandstone."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sandstone",
+        "title": "Sandstone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Types of sandstone",
+        "text": "Sandstones are typically classified by point-counting a thin section using a method like the Gazzi-Dickinson Method . This yields the relative percentages of quartz, feldspar, and lithic grains and the amount of clay matrix. The composition of a sandstone can provide important information on the genesis of the sediments when used with a triangular Q uartz, F eldspar, L ithic fragment ( QFL diagrams ). However, geologist have not been able to agree on a set of boundaries separating regions of the QFL triangle. [1] Visual aids are diagrams that allow geologists to interpret different characteristics of a sandstone. For example, a QFL chart can be marked with a provenance model that shows the likely tectonic origin of sandstones with various compositions of framework grains. Likewise, the stage of textural maturity chart illustrates the different stages that a sandstone goes through as the degree of kinetic processing of the sediments increases. [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/QFL_Ternary_Plot.jpg/220px-QFL_Ternary_Plot.jpg",
+                "caption": "Ternary plot showing the relative abundance of quartz, feldspar, and lithic grains in a sandstone"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/QFLtriangle.svg/220px-QFLtriangle.svg.png",
+                "caption": "Schematic QFL diagram showing tectonic provinces and sandstone provenance"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sandstone",
+        "title": "Sandstone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Dott's classification scheme",
+        "text": "Dott's (1964) sandstone classification scheme is one of many such schemes used by geologists for classifying sandstones. Dott's scheme is a modification of Gilbert's classification of silicate sandstones, and it incorporates R.L. Folk's dual textural and compositional maturity concepts into one classification system. [25] The philosophy behind combining Gilbert's and R. L. Folk's schemes is that it is better able to \"portray the continuous nature of textural variation from mudstone to arenite and from stable to unstable grain composition\". [25] Dott's classification scheme is based on the mineralogy of framework grains, and on the type of matrix present in between the framework grains. [ citation needed ] In this specific classification scheme, Dott has set the boundary between arenite and wackes at 15% matrix. In addition, Dott also breaks up the different types of framework grains that can be present in a sandstone into three major categories: quartz, feldspar, and lithic grains. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sandstone_Classification_modified_from_Dott%2C_1964.jpg/220px-Sandstone_Classification_modified_from_Dott%2C_1964.jpg",
+                "caption": "Diagram showing a slightly modified version of the Dott (1964) classification scheme"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sandstone",
+        "title": "Sandstone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Uses",
+        "text": "Sandstone has been used since prehistoric times for construction, [30] [31] decorative art works [32] and tools. [33] It has been widely employed around the world in constructing temples, [34] churches, [34] homes and other buildings, and in civil engineering . [35] Although its resistance to weathering varies, sandstone is easy to work. That makes it a common building and paving material, including in asphalt concrete . However, some types that have been used in the past, such as the Collyhurst sandstone used in North West England , have had poor long-term weather resistance, necessitating repair and replacement in older buildings. [36] Because of the hardness of individual grains, uniformity of grain size and friability of their structure, some types of sandstone are excellent materials from which to make grindstones , for sharpening blades and other implements. [37] Non-friable sandstone can be used to make grindstones for grinding grain, e.g., gritstone . A type of pure quartz sandstone, orthoquartzite, with more of 90–95 percent of quartz, [38] has been proposed for nomination to the Global Heritage Stone Resource . [39] In some regions of Argentina, the orthoquartzite-stoned facade is one of the main features of the Mar del Plata style bungalows. [39]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SydneyUniversity_MainBuilding_Panorama.jpg/310px-SydneyUniversity_MainBuilding_Panorama.jpg",
+                "caption": "The Main Quadrangle of the University of Sydney , a so-called sandstone university"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/MariaImmaculatal_Augustiner.jpg/110px-MariaImmaculatal_Augustiner.jpg",
+                "caption": "Sandstone statue Maria Immaculata by Fidelis Sporer, around 1770, in Freiburg , Germany"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Lampe_a_graisse_-_Lascaux.jpg/170px-Lampe_a_graisse_-_Lascaux.jpg",
+                "caption": "17,000 yr old sandstone oil lamp discovered at the caves of Lascaux , France"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sandstone",
+        "title": "Sandstone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Sedimentary clastic rocks",
+        "text": "Clastic sedimentary rocks are rocks composed predominantly of broken pieces or clasts of older weathered and eroded rocks. Clastic sediments or sedimentary rocks are classified based on grain size , clast and cementing material ( matrix ) composition, and texture. The classification factors are often useful in determining a sample's environment of deposition . An example of clastic environment would be a river system in which the full range of grains being transported by the moving water consist of pieces eroded from solid rock upstream. Grain size varies from clay in shales and claystones ; through silt in siltstones ; sand in sandstones ; and gravel , cobble , to boulder sized fragments in conglomerates and breccias . The Krumbein phi (φ) scale numerically orders these terms in a logarithmic size scale.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/GLMsed.jpg/250px-GLMsed.jpg",
+                "caption": "Claystone from Montana"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Clastic_rock",
+        "title": "Clastic rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Conglomerates and breccias",
+        "text": "Conglomerates are coarse grained rocks dominantly composed of gravel sized particles that are typically held together by a finer grained matrix. [4] These rocks are often subdivided into conglomerates and breccias. The major characteristic that divides these two categories is the amount of rounding. The gravel sized particles that make up conglomerates are well rounded while in breccias they are angular. Conglomerates are common in stratigraphic successions of most, if not all, ages but only make up one percent or less, by weight, of the total sedimentary rock mass. [3] In terms of origin and depositional mechanisms they are very similar to sandstones. As a result, the two categories often contain the same sedimentary structures. [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Conglom%C3%A9rat.jpg/220px-Conglom%C3%A9rat.jpg",
+                "caption": "Conglomerate"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Breccia_mcr1.jpg/220px-Breccia_mcr1.jpg",
+                "caption": "Breccia. Notice the angular nature of the large clasts"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Clastic_rock",
+        "title": "Clastic rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Sandstones",
+        "text": "Sandstones are medium-grained rocks composed of rounded or angular fragments of sand size, that often but not always have a cement uniting them together. These sand-size particles are often quartz but there are a few common categories and a wide variety of classification schemes that classify sandstones based on composition. Classification schemes vary widely, but most geologists have adopted the Dott scheme , [5] [ better source needed ] which uses the relative abundance of quartz, feldspar, and lithic framework grains and the abundance of muddy matrix between these larger grains.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lower_Antelope_Canyon_478.jpg/220px-Lower_Antelope_Canyon_478.jpg",
+                "caption": "Sandstone from Lower Antelope Canyon"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Clastic_rock",
+        "title": "Clastic rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    },
+    {
+        "section": "Igneous clastic rocks",
+        "text": "Clastic igneous rocks include pyroclastic volcanic rocks such as tuff , agglomerate and intrusive breccias , as well as some marginal eutaxitic and taxitic intrusive morphologies. Igneous clastic rocks are broken by flow, injection or explosive disruption of solid or semi-solid igneous rocks or lavas . Igneous clastic rocks can be divided into two classes:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Basalt_breccia.jpg/220px-Basalt_breccia.jpg",
+                "caption": "Basalt breccia, green groundmass is composed of epidote"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Clastic_rock",
+        "title": "Clastic rock",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sedimentary Petrology"
+    }
+]

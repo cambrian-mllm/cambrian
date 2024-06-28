@@ -1,0 +1,382 @@
+[
+    {
+        "section": "Planetary geophysics and space physics",
+        "text": "Space probes made it possible to collect data in not only the visible light region but in other areas of the electromagnetic spectrum. The planets can be characterized by their force fields: gravity and their magnetic fields, which are studied through geophysics and space physics. Measuring the changes in acceleration experienced by spacecraft as they orbit has allowed fine details of the gravity fields of the planets to be mapped. For example, in the 1970s, the gravity field disturbances above lunar maria were measured through lunar orbiters, which led to the discovery of concentrations of mass, mascons , beneath the Imbrium, Serenitatis, Crisium, Nectaris and Humorum basins. If a planet's magnetic field is sufficiently strong, its interaction with the solar wind forms a magnetosphere around a planet. Early space probes discovered the gross dimensions of the terrestrial magnetic field, which extends about 10 Earth radii towards the Sun. The solar wind , a stream of charged particles, streams out and around the terrestrial magnetic field, and continues behind the magnetic tail, hundreds of Earth radii downstream. Inside the magnetosphere, there are relatively dense regions of solar wind particles, the Van Allen radiation belts . Planetary geophysics includes, but is not limited to, seismology and tectonophysics , geophysical fluid dynamics , mineral physics , geodynamics , mathematical geophysics , and geophysical surveying .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Magnetosphere_rendition.jpg/220px-Magnetosphere_rendition.jpg",
+                "caption": "The solar wind is deflected by the magnetosphere (not to scale)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Planetary_science",
+        "title": "Planetary science",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Planetary atmospheric science",
+        "text": "An atmosphere is an important transitional zone between the solid planetary surface and the higher rarefied ionizing and radiation belts. Not all planets have atmospheres: their existence depends on the mass of the planet, and the planet's distance from the Sun – too distant and frozen atmospheres occur. Besides the four giant planets , three of the four terrestrial planets ( Earth , Venus , and Mars ) have significant atmospheres. Two moons have significant atmospheres: Saturn 's moon Titan and Neptune 's moon Triton . A tenuous atmosphere exists around Mercury . The effects of the rotation rate of a planet about its axis can be seen in atmospheric streams and currents. Seen from space, these features show as bands and eddies in the cloud system and are particularly visible on Jupiter and Saturn.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jupiter.jpg/220px-Jupiter.jpg",
+                "caption": "Cloud bands clearly visible on Jupiter ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Planetary_science",
+        "title": "Planetary science",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Formation",
+        "text": "It is not known with certainty how planets are formed. The prevailing theory is that they coalesce during the collapse of a nebula into a thin disk of gas and dust. A protostar forms at the core, surrounded by a rotating protoplanetary disk . Through accretion (a process of sticky collision) dust particles in the disk steadily accumulate mass to form ever-larger bodies. Local concentrations of mass known as planetesimals form, and these accelerate the accretion process by drawing in additional material by their gravitational attraction. These concentrations become ever denser until they collapse inward under gravity to form protoplanets . [6] After a planet reaches a mass somewhat larger than Mars's mass, it begins to accumulate an extended atmosphere , [7] greatly increasing the capture rate of the planetesimals by means of atmospheric drag . [8] [9] Depending on the accretion history of solids and gas, a giant planet , an ice giant , or a terrestrial planet may result. [10] [11] [12] It is thought that the regular satellites of Jupiter, Saturn, and Uranus formed in a similar way; [13] [14] however, Triton was likely captured by Neptune, [15] and Earth's Moon [16] and Pluto's Charon might have formed in collisions. [17] When the protostar has grown such that it ignites to form a star, the surviving disk is removed from the inside outward by photoevaporation , the solar wind , Poynting–Robertson drag and other effects. [18] [19] Thereafter there still may be many protoplanets orbiting the star or each other, but over time many will collide, either to form a larger, combined protoplanet or release material for other protoplanets to absorb. [20] Those objects that have become massive enough will capture most matter in their orbital neighbourhoods to become planets. Protoplanets that have avoided collisions may become natural satellites of planets through a process of gravitational capture, or remain in belts of other objects to become either dwarf planets or small bodies . [21] [22] The energetic impacts of the smaller planetesimals (as well as radioactive decay ) will heat up the growing planet, causing it to at least partially melt. The interior of the planet begins to differentiate by density, with higher density materials sinking toward the core . [23] Smaller terrestrial planets lose most of their atmospheres because of this accretion, but the lost gases can be replaced by outgassing from the mantle and from the subsequent impact of comets [24] (smaller planets will lose any atmosphere they gain through various escape mechanisms [25] ). With the discovery and observation of planetary systems around stars other than the Sun, it is becoming possible to elaborate, revise or even replace this account. The level of metallicity —an astronomical term describing the abundance of chemical elements with an atomic number greater than 2 ( helium )—appears to determine the likelihood that a star will have planets. [26] [27] Hence, a metal-rich population I star is more likely to have a substantial planetary system than a metal-poor, population II star . [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Mysterious_Case_of_the_Disappearing_Dust.jpg/165px-The_Mysterious_Case_of_the_Disappearing_Dust.jpg",
+                "caption": "A protoplanetary disk"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/15-044a-SuperNovaRemnant-PlanetFormation-SOFIA-20150319.jpg/200px-15-044a-SuperNovaRemnant-PlanetFormation-SOFIA-20150319.jpg",
+                "caption": "Supernova remnant ejecta producing planet-forming material"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Planet",
+        "title": "Planet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Planets in the Solar System",
+        "text": "According to the IAU definition , there are eight planets in the Solar System, which are (in increasing distance from the Sun): [2] Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Jupiter is the largest, at 318 Earth masses , whereas Mercury is the smallest, at 0.055 Earth masses. [29] The planets of the Solar System can be divided into categories based on their composition. Terrestrials are similar to Earth, with bodies largely composed of rock and metal: Mercury, Venus, Earth, and Mars. Earth is the largest terrestrial planet. [30] Giant planets are significantly more massive than the terrestrials: Jupiter, Saturn, Uranus, and Neptune. [30] They differ from the terrestrial planets in composition. The gas giants , Jupiter and Saturn, are primarily composed of hydrogen and helium and are the most massive planets in the Solar System. Saturn is one third as massive as Jupiter, at 95 Earth masses. [31] The ice giants , Uranus and Neptune, are primarily composed of low-boiling-point materials such as water, methane , and ammonia , with thick atmospheres of hydrogen and helium. They have a significantly lower mass than the gas giants (only 14 and 17 Earth masses). [31] Dwarf planets are gravitationally rounded, but have not cleared their orbits of other bodies . In increasing order of average distance from the Sun, the ones generally agreed among astronomers are Ceres , Orcus , Pluto , Haumea , Quaoar , Makemake , Gonggong , Eris , and Sedna . [32] [33] Ceres is the largest object in the asteroid belt , located between the orbits of Mars and Jupiter. The other eight all orbit beyond Neptune. Orcus, Pluto, Haumea, Quaoar, and Makemake orbit in the Kuiper belt , which is a second belt of small Solar System bodies beyond the orbit of Neptune. Gonggong and Eris orbit in the scattered disc , which is somewhat further out and, unlike the Kuiper belt, is unstable towards interactions with Neptune. Sedna is the largest known detached object , a population that never comes close enough to the Sun to interact with any of the classical planets; the origins of their orbits are still being debated. All nine are similar to terrestrial planets in having a solid surface, but they are made of ice and rock rather than rock and metal. Moreover, all of them are smaller than Mercury, with Pluto being the largest known dwarf planet and Eris being the most massive. [34] [35] There are at least nineteen planetary-mass moons or satellite planets—moons large enough to take on ellipsoidal shapes: [4] The Moon, Io, and Europa have compositions similar to the terrestrial planets; the others are made of ice and rock like the dwarf planets, with Tethys being made of almost pure ice. Europa is often considered an icy planet, though, because its surface ice layer makes it difficult to study its interior. [4] [36] Ganymede and Titan are larger than Mercury by radius, and Callisto almost equals it, but all three are much less massive. Mimas is the smallest object generally agreed to be a geophysical planet , at about six millionths of Earth's mass, though there are many larger bodies that may not be geophysical planets (e.g. Salacia ). [32]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Solar_System_true_color_%28captions%29.jpg/600px-Solar_System_true_color_%28captions%29.jpg",
+                "caption": "The Sun's, planets', dwarf planets' and moons' size to scale, labelled. Distance of objects is not to scale. The asteroid belt lies between the orbits of Mars and Jupiter, the Kuiper belt lies beyond Neptune's orbit."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Planet",
+        "title": "Planet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Exoplanets",
+        "text": "An exoplanet is a planet outside the Solar System. As of 18 June 2024, there are 6,140 confirmed exoplanets in 4,527 planetary systems , with 969 systems having more than one planet . [38] Known exoplanets range in size from gas giants about twice as large as Jupiter down to just over the size of the Moon . Analysis of gravitational microlensing data suggests a minimum average of 1.6 bound planets for every star in the Milky Way . [39] In early 1992, radio astronomers Aleksander Wolszczan and Dale Frail announced the discovery of two planets orbiting the pulsar PSR 1257+12 . [40] This discovery was confirmed and is generally considered to be the first definitive detection of exoplanets. Researchers suspect they formed from a disk remnant left over from the supernova that produced the pulsar. [41] The first confirmed discovery of an exoplanet orbiting an ordinary main-sequence star occurred on 6 October 1995, when Michel Mayor and Didier Queloz of the University of Geneva announced the detection of 51 Pegasi b , an exoplanet around 51 Pegasi . [42] From then until the Kepler mission , most of the known exoplanets were gas giants comparable in mass to Jupiter or larger as they were more easily detected. The catalog of Kepler candidate planets consists mostly of planets the size of Neptune and smaller, down to smaller than Mercury. [43] [44] In 2011, the Kepler Space Telescope team reported the discovery of the first Earth-sized exoplanets orbiting a Sun-like star , Kepler-20e and Kepler-20f . [45] [46] [47] Since that time, more than 100 planets have been identified that are approximately the same size as Earth , 20 of which orbit in the habitable zone of their star—the range of orbits where a terrestrial planet could sustain liquid water on its surface, given enough atmospheric pressure. [48] [49] [50] One in five Sun-like stars is thought to have an Earth-sized planet in its habitable zone, which suggests that the nearest would be expected to be within 12 light-years distance from Earth. [a] The frequency of occurrence of such terrestrial planets is one of the variables in the Drake equation , which estimates the number of intelligent, communicating civilizations that exist in the Milky Way. [53] There are types of planets that do not exist in the Solar System: super-Earths and mini-Neptunes , which have masses between that of Earth and Neptune. Objects less than about twice the mass of Earth are expected to be rocky like Earth; beyond that, they become a mixture of volatiles and gas like Neptune. [54] The planet Gliese 581c , with a mass 5.5–10.4 times the mass of Earth, [55] attracted attention upon its discovery for potentially being in the habitable zone, [56] though later studies concluded that it is actually too close to its star to be habitable. [57] Planets more massive than Jupiter are also known, extending seamlessly into the realm of brown dwarfs. [58] Exoplanets have been found that are much closer to their parent star than any planet in the Solar System is to the Sun. Mercury, the closest planet to the Sun at 0.4 AU , takes 88 days for an orbit, but ultra-short period planets can orbit in less than a day. The Kepler-11 system has five of its planets in shorter orbits than Mercury's, all of them much more massive than Mercury. There are hot Jupiters , such as 51 Pegasi b, [42] that orbit very close to their star and may evaporate to become chthonian planets , which are the leftover cores. There are also exoplanets that are much farther from their star. Neptune is 30 AU from the Sun and takes 165 years to orbit, but there are exoplanets that are thousands of AU from their star and take more than a million years to orbit (e.g. COCONUTS-2b ). [59]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exoplanet_detections_per_year.png/260px-Exoplanet_detections_per_year.png",
+                "caption": "Exoplanet detections per year as of August 2023 (by NASA Exoplanet Archive ) [37]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Planet",
+        "title": "Planet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Orbit",
+        "text": "In the Solar System, all the planets orbit the Sun in the same direction as the Sun rotates : counter-clockwise as seen from above the Sun's north pole. At least one exoplanet, WASP-17b , has been found to orbit in the opposite direction to its star's rotation. [61] The period of one revolution of a planet's orbit is known as its sidereal period or year . [62] A planet's year depends on its distance from its star; the farther a planet is from its star, the longer the distance it must travel and the slower its speed, since it is less affected by its star's gravity . No planet's orbit is perfectly circular, and hence the distance of each from the host star varies over the course of its year. The closest approach to its star is called its periastron , or perihelion in the Solar System, whereas its farthest separation from the star is called its apastron ( aphelion ). As a planet approaches periastron, its speed increases as it trades gravitational potential energy for kinetic energy , just as a falling object on Earth accelerates as it falls. As the planet nears apastron, its speed decreases, just as an object thrown upwards on Earth slows down as it reaches the apex of its trajectory . [63] Each planet's orbit is delineated by a set of elements:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TheKuiperBelt_Orbits_Pluto_Ecliptic.svg/300px-TheKuiperBelt_Orbits_Pluto_Ecliptic.svg.png",
+                "caption": "The orbit of the planet Neptune compared to that of Pluto . Note the elongation of Pluto's orbit in relation to Neptune's ( eccentricity ), as well as its large angle to the ecliptic ( inclination )."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Planet",
+        "title": "Planet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Axial tilt",
+        "text": "Planets have varying degrees of axial tilt; they spin at an angle to the plane of their stars' equators. This causes the amount of light received by each hemisphere to vary over the course of its year; when the northern hemisphere points away from its star, the southern hemisphere points towards it, and vice versa. Each planet therefore has seasons , resulting in changes to the climate over the course of its year. The time at which each hemisphere points farthest or nearest from its star is known as its solstice . Each planet has two in the course of its orbit; when one hemisphere has its summer solstice with its day being the longest, the other has its winter solstice when its day is shortest. The varying amount of light and heat received by each hemisphere creates annual changes in weather patterns for each half of the planet. Jupiter's axial tilt is very small, so its seasonal variation is minimal; Uranus, on the other hand, has an axial tilt so extreme it is virtually on its side, which means that its hemispheres are either continually in sunlight or continually in darkness around the time of its solstices . [69] In the Solar System, Mercury, Venus, Ceres, and Jupiter have very small tilts; Pallas, Uranus, and Pluto have extreme ones; and Earth, Mars, Vesta, Saturn, and Neptune have moderate ones. [70] [71] [72] [73] Among exoplanets, axial tilts are not known for certain, though most hot Jupiters are believed to have a negligible axial tilt as a result of their proximity to their stars. [74] Similarly, the axial tilts of the planetary-mass moons are near zero, [75] with Earth's Moon at 6.687° as the biggest exception; [76] additionally, Callisto's axial tilt varies between 0 and about 2 degrees on timescales of thousands of years. [77]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AxialTiltObliquity.png/220px-AxialTiltObliquity.png",
+                "caption": "Earth's axial tilt is about 23.4°. It oscillates between 22.1° and 24.5° on a 41,000-year cycle and is currently decreasing."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Planet",
+        "title": "Planet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Rotation",
+        "text": "The planets rotate around invisible axes through their centres. A planet's rotation period is known as a stellar day . Most of the planets in the Solar System rotate in the same direction as they orbit the Sun, which is counter-clockwise as seen from above the Sun's north pole . The exceptions are Venus [78] and Uranus, [79] which rotate clockwise, though Uranus's extreme axial tilt means there are differing conventions on which of its poles is \"north\", and therefore whether it is rotating clockwise or anti-clockwise. [80] Regardless of which convention is used, Uranus has a retrograde rotation relative to its orbit. [79] The rotation of a planet can be induced by several factors during formation. A net angular momentum can be induced by the individual angular momentum contributions of accreted objects. The accretion of gas by the giant planets contributes to the angular momentum. Finally, during the last stages of planet building, a stochastic process of protoplanetary accretion can randomly alter the spin axis of the planet. [81] There is great variation in the length of day between the planets, with Venus taking 243 days to rotate, and the giant planets only a few hours. [82] The rotational periods of exoplanets are not known, but for hot Jupiters , their proximity to their stars means that they are tidally locked (that is, their orbits are in sync with their rotations). This means, they always show one face to their stars, with one side in perpetual day, the other in perpetual night. [83] Mercury and Venus, the closest planets to the Sun, similarly exhibit very slow rotation: Mercury is tidally locked into a 3:2 spin–orbit resonance (rotating three times for every two revolutions around the Sun), [84] and Venus's rotation may be in equilibrium between tidal forces slowing it down and atmospheric tides created by solar heating speeding it up. [85] [86] All the large moons are tidally locked to their parent planets; [87] Pluto and Charon are tidally locked to each other, [88] as are Eris and Dysnomia, [89] and probably Orcus and its moon Vanth . [90] The other dwarf planets with known rotation periods rotate faster than Earth; Haumea rotates so fast that it has been distorted into a triaxial ellipsoid . [91] The exoplanet Tau Boötis b and its parent star Tau Boötis appear to be mutually tidally locked. [92] [93]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Solar_system_bodies_rotation_animation.svg/170px-Solar_system_bodies_rotation_animation.svg.png",
+                "caption": "Comparison of the rotation period (sped up 10 000 times, negative values denoting retrograde), flattening and axial tilt of the planets and the Moon (SVG animation)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Planet",
+        "title": "Planet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Internal differentiation",
+        "text": "Every planet began its existence in an entirely fluid state; in early formation, the denser, heavier materials sank to the centre, leaving the lighter materials near the surface. Each therefore has a differentiated interior consisting of a dense planetary core surrounded by a mantle that either is or was a fluid . The terrestrial planets' mantles are sealed within hard crusts , [111] but in the giant planets the mantle simply blends into the upper cloud layers. The terrestrial planets have cores of elements such as iron and nickel and mantles of silicates . Jupiter and Saturn are believed to have cores of rock and metal surrounded by mantles of metallic hydrogen . [112] Uranus and Neptune, which are smaller, have rocky cores surrounded by mantles of water, ammonia , methane , and other ices . [113] The fluid action within these planets' cores creates a geodynamo that generates a magnetic field . [111] Similar differentiation processes are believed to have occurred on some of the large moons and dwarf planets, [32] though the process may not always have been completed: Ceres, Callisto, and Titan appear to be incompletely differentiated. [114] [115] The asteroid Vesta, though not a dwarf planet because it was battered by impacts out of roundness, has a differentiated interior [116] similar to that of Venus, Earth, and Mars. [109]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Jupiter_interior.png/170px-Jupiter_interior.png",
+                "caption": "Illustration of the interior of Jupiter, with a rocky core overlaid by a deep layer of metallic hydrogen"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Planet",
+        "title": "Planet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Atmosphere",
+        "text": "All of the Solar System planets except Mercury [117] have substantial atmospheres because their gravity is strong enough to keep gases close to the surface. Saturn's largest moon Titan also has a substantial atmosphere thicker than that of Earth; [118] Neptune's largest moon Triton [119] and the dwarf planet Pluto have more tenuous atmospheres. [120] The larger giant planets are massive enough to keep large amounts of the light gases hydrogen and helium, whereas the smaller planets lose these gases into space . [121] Analysis of exoplanets suggests that the threshold for being able to hold on to these light gases occurs at about 2.0 +0.7 −0.6 M E , so that Earth and Venus are near the maximum size for rocky planets. [54] The composition of Earth's atmosphere is different from the other planets because the various life processes that have transpired on the planet have introduced free molecular oxygen . [122] The atmospheres of Mars and Venus are both dominated by carbon dioxide , but differ drastically in density: the average surface pressure of Mars's atmosphere is less than 1% that of Earth's (too low to allow liquid water to exist), [123] while the average surface pressure of Venus's atmosphere is about 92 times that of Earth's. [124] It is likely that Venus's atmosphere was the result of a runaway greenhouse effect in its history, which today makes it the hottest planet by surface temperature, hotter even than Mercury. [125] Despite hostile surface conditions, temperature, and pressure at about 50–55 km altitude in Venus's atmosphere are close to Earthlike conditions (the only place in the Solar System beyond Earth where this is so), and this region has been suggested as a plausible base for future human exploration . [126] Titan has the only nitrogen -rich planetary atmosphere in the Solar System other than Earth's. Just as Earth's conditions are close to the triple point of water, allowing it to exist in all three states on the planet's surface, so Titan's are to the triple point of methane . [127] Planetary atmospheres are affected by the varying insolation or internal energy, leading to the formation of dynamic weather systems such as hurricanes (on Earth), planet-wide dust storms (on Mars), a greater-than-Earth-sized anticyclone on Jupiter (called the Great Red Spot ), and holes in the atmosphere (on Neptune). [69] Weather patterns detected on exoplanets include a hot region on HD 189733 b twice the size of the Great Red Spot, [128] as well as clouds on the hot Jupiter Kepler-7b , [129] the super-Earth Gliese 1214 b , and others. [130] [131] Hot Jupiters, due to their extreme proximities to their host stars, have been shown to be losing their atmospheres into space due to stellar radiation, much like the tails of comets. [132] [133] These planets may have vast differences in temperature between their day and night sides that produce supersonic winds, [134] although multiple factors are involved and the details of the atmospheric dynamics that affect the day-night temperature difference are complex. [135] [136]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Top_of_Atmosphere.jpg/220px-Top_of_Atmosphere.jpg",
+                "caption": "Earth's atmosphere"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Planet",
+        "title": "Planet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Magnetosphere",
+        "text": "One important characteristic of the planets is their intrinsic magnetic moments , which in turn give rise to magnetospheres. The presence of a magnetic field indicates that the planet is still geologically alive. In other words, magnetized planets have flows of electrically conducting material in their interiors, which generate their magnetic fields. These fields significantly change the interaction of the planet and solar wind. A magnetized planet creates a cavity in the solar wind around itself called the magnetosphere, which the wind cannot penetrate. The magnetosphere can be much larger than the planet itself. In contrast, non-magnetized planets have only small magnetospheres induced by interaction of the ionosphere with the solar wind, which cannot effectively protect the planet. [137] Of the eight planets in the Solar System, only Venus and Mars lack such a magnetic field. [137] Of the magnetized planets, the magnetic field of Mercury is the weakest and is barely able to deflect the solar wind . Jupiter's moon Ganymede has a magnetic field several times stronger, and Jupiter's is the strongest in the Solar System (so intense in fact that it poses a serious health risk to future crewed missions to all its moons inward of Callisto [138] ). The magnetic fields of the other giant planets, measured at their surfaces, are roughly similar in strength to that of Earth, but their magnetic moments are significantly larger. The magnetic fields of Uranus and Neptune are strongly tilted relative to the planets' rotational axes and displaced from the planets' centres. [137] In 2003, a team of astronomers in Hawaii observing the star HD 179949 detected a bright spot on its surface, apparently created by the magnetosphere of an orbiting hot Jupiter. [139] [140]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Structure_of_the_magnetosphere_LanguageSwitch.svg/220px-Structure_of_the_magnetosphere_LanguageSwitch.svg.png",
+                "caption": "Earth's magnetosphere (diagram)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Planet",
+        "title": "Planet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Secondary characteristics",
+        "text": "Several planets or dwarf planets in the Solar System (such as Neptune and Pluto) have orbital periods that are in resonance with each other or with smaller bodies. This is common in satellite systems (e.g. the resonance between Io, Europa , and Ganymede around Jupiter, or between Enceladus and Dione around Saturn). All except Mercury and Venus have natural satellites , often called \"moons\". Earth has one, Mars has two, and the giant planets have numerous moons in complex planetary-type systems. Except for Ceres and Sedna, all the consensus dwarf planets are known to have at least one moon as well. Many moons of the giant planets have features similar to those on the terrestrial planets and dwarf planets, and some have been studied as possible abodes of life (especially Europa and Enceladus). [141] [142] [143] [144] [145] The four giant planets are orbited by planetary rings of varying size and complexity. The rings are composed primarily of dust or particulate matter, but can host tiny ' moonlets ' whose gravity shapes and maintains their structure. Although the origins of planetary rings are not precisely known, they are believed to be the result of natural satellites that fell below their parent planets' Roche limits and were torn apart by tidal forces . [146] [147] The dwarf planets Haumea [148] and Quaoar also have rings. [149] No secondary characteristics have been observed around exoplanets. The sub-brown dwarf Cha 110913−773444 , which has been described as a rogue planet , is believed to be orbited by a tiny protoplanetary disc , [150] and the sub-brown dwarf OTS 44 was shown to be surrounded by a substantial protoplanetary disk of at least 10 Earth masses. [151]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Voyager_2_-_Saturn_Rings_-_3085_7800_2.png/170px-Voyager_2_-_Saturn_Rings_-_3085_7800_2.png",
+                "caption": "The rings of Saturn"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Planet",
+        "title": "Planet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Mythology and naming",
+        "text": "The naming of planets differs between planets of the Solar System and exoplanets (planets of other planetary systems ). exoplanets are commonly named after their parent star and their order of discovery within its planetary system, such as Proxima Centauri b . The names for the planets of the Solar System (other than Earth ) in the English language are derived from naming practices developed consecutively by the Babylonians , Greeks , and Romans of antiquity . The practice of grafting the names of gods onto the planets was almost certainly borrowed from the Babylonians by the ancient Greeks, and thereafter from the Greeks by the Romans. The Babylonians named Venus after the Sumerian goddess of love with the Akkadian name Ishtar ; Mars after their god of war, Nergal ; Mercury after their god of wisdom Nabu ; and Jupiter after their chief god, Marduk . [221] There are too many concordances between Greek and Babylonian naming conventions for them to have arisen separately. [164] Given the differences in mythology, the correspondence was not perfect. For instance, the Babylonian Nergal was a god of war, and thus the Greeks identified him with Ares. Unlike Ares, Nergal was also a god of pestilence and ruler of the underworld. [222] [223] [224] In ancient Greece, the two great luminaries, the Sun and the Moon, were called Helios and Selene , two ancient Titanic deities; the slowest planet, Saturn, was called Phainon , the shiner; followed by Phaethon , Jupiter, \"bright\"; the red planet, Mars was known as Pyroeis , the \"fiery\"; the brightest, Venus, was known as Phosphoros , the light bringer; and the fleeting final planet, Mercury, was called Stilbon , the gleamer. The Greeks assigned each planet to one among their pantheon of gods, the Olympians and the earlier Titans: [164] Although modern Greeks still use their ancient names for the planets, other European languages, because of the influence of the Roman Empire and, later, the Catholic Church , use the Roman (Latin) names rather than the Greek ones. The Romans inherited Proto-Indo-European mythology as the Greeks did and shared with them a common pantheon under different names, but the Romans lacked the rich narrative traditions that Greek poetic culture had given their gods . During the later period of the Roman Republic , Roman writers borrowed much of the Greek narratives and applied them to their own pantheon, to the point where they became virtually indistinguishable. [225] When the Romans studied Greek astronomy, they gave the planets their own gods' names: Mercurius (for Hermes), Venus (Aphrodite), Mars (Ares), Iuppiter (Zeus), and Saturnus (Cronus). Some Romans, following a belief possibly originating in Mesopotamia but developed in Hellenistic Egypt , believed that the seven gods after whom the planets were named took hourly shifts in looking after affairs on Earth. The order of shifts went Saturn, Jupiter, Mars, Sun, Venus, Mercury, Moon (from the farthest to the closest planet). [226] Therefore, the first day was started by Saturn (1st hour), second day by Sun (25th hour), followed by Moon (49th hour), Mars, Mercury, Jupiter, and Venus. Because each day was named by the god that started it, this became the order of the days of the week in the Roman calendar . [227] In English, Saturday , Sunday , and Monday are straightforward translations of these Roman names. The other days were renamed after Tīw (Tuesday), Wōden (Wednesday), Þunor (Thursday), and Frīġ (Friday), the Anglo-Saxon gods considered similar or equivalent to Mars, Mercury, Jupiter, and Venus, respectively. [228] Earth's name in English is not derived from Greco-Roman mythology. Because it was only generally accepted as a planet in the 17th century, [181] there is no tradition of naming it after a god. (The same is true, in English at least, of the Sun and the Moon, though they are no longer generally considered planets.) The name originates from the Old English word eorþe , which was the word for \"ground\" and \"dirt\" as well as the world itself. [229] As with its equivalents in the other Germanic languages , it derives ultimately from the Proto-Germanic word erþō , as can be seen in the English earth , the German Erde , the Dutch aarde , and the Scandinavian jord . Many of the Romance languages retain the old Roman word terra (or some variation of it) that was used with the meaning of \"dry land\" as opposed to \"sea\". [230] The non-Romance languages use their own native words. The Greeks retain their original name, Γή (Ge) . [231] Non-European cultures use other planetary-naming systems. India uses a system based on the Navagraha , which incorporates the seven traditional planets and the ascending and descending lunar nodes Rahu and Ketu . The planets are Surya 'Sun', Chandra 'Moon', Budha for Mercury, Shukra ('bright') for Venus, Mangala (the god of war) for Mars, Bṛhaspati (councilor of the gods) for Jupiter, and Shani (symbolic of time) for Saturn. [232] The native Persian names of most of the planets are based on identifications of the Mesopotamian gods with Iranian gods, analogous to the Greek and Latin names. Mercury is Tir (Persian: تیر ) for the western Iranian god Tīriya (patron of scribes), analogous to Nabu; Venus is Nāhid ( ناهید ) for Anahita ; Mars is Bahrām ( بهرام ) for Verethragna ; and Jupiter is Hormoz ( هرمز ) for Ahura Mazda . The Persian name for Saturn, Keyvān ( کیوان ), is a borrowing from Akkadian kajamānu , meaning \"the permanent, steady\". [233] China and the countries of eastern Asia historically subject to Chinese cultural influence (such as Japan, Korea , and Vietnam ) use a naming system based on the five Chinese elements : water (Mercury 水 星 \"water star\"), metal (Venus 金 星 \"metal star\"), fire (Mars 火 星 \"fire star\"), wood (Jupiter 木 星 \"wood star\"), and earth (Saturn 土 星 \"earth star\"). [227] The names of Uranus ( 天 王星 \"sky king star\"), Neptune ( 海 王星 \"sea king star\"), and Pluto ( 冥 王星 \"underworld king star\") in Chinese, Korean, and Japanese are calques based on the roles of those gods in Roman and Greek mythology. [234] [235] [d] In the 19th century, Alexander Wylie and Li Shanlan calqued the names of the first 117 asteroids into Chinese, and many of their names are still used today, e.g. Ceres ( 穀 神星 \"grain goddess star\"), Pallas ( 智 神星 \"wisdom goddess star\"), Juno ( 婚 神星 \"marriage goddess star\"), Vesta ( 灶 神星 \"hearth goddess star\"), and Hygiea ( 健 神星 \"health goddess star\"). [237] Such translations were extended to some later minor planets, including some of the dwarf planets discovered in the 21st century, e.g. Haumea ( 妊 神星 \"pregnancy goddess star\"), Makemake ( 鳥 神星 \"bird goddess star\"), and Eris ( 鬩 神星 \"quarrel goddess star\"). However, except for the better-known asteroids and dwarf planets, many of them are rare outside Chinese astronomical dictionaries. [234] In traditional Hebrew astronomy , the seven traditional planets have (for the most part) descriptive names—the Sun is חמה Ḥammah or \"the hot one\", the Moon is לבנה Levanah or \"the white one\", Venus is כוכב נוגה Kokhav Nogah or \"the bright planet\", Mercury is כוכב Kokhav or \"the planet\" (given its lack of distinguishing features), Mars is מאדים Ma'adim or \"the red one\", and Saturn is שבתאי Shabbatai or \"the resting one\" (in reference to its slow movement compared to the other visible planets). [238] The odd one out is Jupiter, called צדק Tzedeq or \"justice\". [238] These names, first attested in the Babylonian Talmud , are not the original Hebrew names of the planets. In 377 Epiphanius of Salamis recorded another set of names that seem to have pagan or Canaanite associations: those names, since replaced for religious reasons, were probably the historical Semitic names, and may have much earlier roots going back to Babylonian astronomy. [238] Hebrew names were chosen for Uranus (אורון Oron , \"small light\") and Neptune (רהב Rahab , a Biblical sea monster) in 2009; [239] prior to that the names \"Uranus\" and \"Neptune\" had simply been borrowed. [240] The etymologies for the Arabic names of the planets are less well understood. Mostly agreed among scholars are Venus (Arabic: الزهرة , az-Zuhara , \"the bright one\" [241] ), Earth ( الأرض , al-ʾArḍ , from the same root as eretz ), and Saturn ( زُحَل , Zuḥal , \"withdrawer\" [242] ). Multiple suggested etymologies exist for Mercury ( عُطَارِد , ʿUṭārid ), Mars ( اَلْمِرِّيخ , al-Mirrīkh ), and Jupiter ( المشتري , al-Muštarī ), but there is no agreement among scholars. [243] [244] [245] [246] When subsequent planets were discovered in the 18th and 19th centuries, Uranus was named for a Greek deity and Neptune for a Roman one (the counterpart of Poseidon ). The asteroids were initially named from mythology as well— Ceres , Juno , and Vesta are major Roman goddesses, and Pallas is an epithet of the major Greek goddess Athena —but as more and more were discovered, they first started being named after more minor goddesses, and the mythological restriction was dropped starting from the twentieth asteroid Massalia in 1852. [247] Pluto (named after the Greek god of the underworld ) was given a classical name, as it was considered a major planet when it was discovered. After more objects were discovered beyond Neptune, naming conventions depending on their orbits were put in place: those in the 2:3 resonance with Neptune (the plutinos ) are given names from underworld myths, while others are given names from creation myths. Most of the trans-Neptunian planetoids are named after gods and goddesses from other cultures (e.g. Quaoar is named after a Tongva god). There are a few exceptions which continue the Roman and Greek scheme, notably including Eris as it had initially been considered a tenth planet. [248] [249] The moons (including the planetary-mass ones) are generally given names with some association with their parent planet. The planetary-mass moons of Jupiter are named after four of Zeus' lovers (or other sexual partners); those of Saturn are named after Cronus' brothers and sisters, the Titans; those of Uranus are named after characters from Shakespeare and Pope (originally specifically from fairy mythology, [250] but that ended with the naming of Miranda ). Neptune's planetary-mass moon Triton is named after the god's son ; Pluto's planetary-mass moon Charon is named after the ferryman of the dead , who carries the souls of the newly deceased to the underworld (Pluto's domain). [251]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Olympians.jpg/170px-Olympians.jpg",
+                "caption": "The Greek gods of Olympus , after whom the Solar System 's Roman names of the planets are derived"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Planet",
+        "title": "Planet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Nature of the work",
+        "text": "Theoretical planetologists, also known as theoretical planetary scientists, use modelling techniques to develop an understanding of the internal structure of planets by making assumptions about their chemical composition and the state of their materials, then calculating the radial distribution of various properties such as temperature , pressure , or density of material across the planet's internals. [4] Theoretical planetologists also use numerical models to understand how the Solar System planets were formed and develop in the future, their thermal evolution, their tectonics , how magnetic fields are formed in planetary interiors, how convection processes work in the cores and mantles of terrestrial planets and in the interiors of gas giants , how their lithospheres deform, the orbital dynamics of planetary satellites, how dust and ice are transported on the surface of some planets (such as Mars ), and how the atmospheric circulation takes place over a planet. [5] Theoretical planetologists may use laboratory experiments to understand various phenomena analogous to planetary processes, such as convection in rotating fluids. [5] Theoretical planetologists make extensive use of basic physics , particularly fluid dynamics and condensed matter physics , and much of their work involves interpretation of data returned by space missions , although they rarely get actively involved in them. [7]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/VFPt_Earths_Magnetic_Field_Confusion.svg/220px-VFPt_Earths_Magnetic_Field_Confusion.svg.png",
+                "caption": "Diagram showing Earth's magnetic field : theoretical planetologists study many aspects of planetary bodies, such as how their magnetic fields are generated in their cores. [5]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rayleigh-Taylor_instability.jpg/220px-Rayleigh-Taylor_instability.jpg",
+                "caption": "Scientific visualisation of an extremely large simulation of a Raleigh–Taylor instability caused by two mixing fluids. [6] Theoretical planetology uses computer graphics , scientific visualisation, and fluid dynamics extensively. [7] [8]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/AtmosphCirc2.png/220px-AtmosphCirc2.png",
+                "caption": "Theoretical planetologists study atmospheric circulation over planets."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Theoretical_planetology",
+        "title": "Theoretical planetology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Nomenclature",
+        "text": "The convention for naming exoplanets is an extension of the system used for designating multiple-star systems as adopted by the International Astronomical Union (IAU). For exoplanets orbiting a single star, the IAU designation is formed by taking the designated or proper name of its parent star, and adding a lower case letter. [42] Letters are given in order of each planet's discovery around the parent star, so that the first planet discovered in a system is designated \"b\" (the parent star is considered \"a\") and later planets are given subsequent letters. If several planets in the same system are discovered at the same time, the closest one to the star gets the next letter, followed by the other planets in order of orbital size. A provisional IAU-sanctioned standard exists to accommodate the designation of circumbinary planets . A limited number of exoplanets have IAU-sanctioned proper names . Other naming systems exist.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/The_unusual_exoplanet_HIP_65426b_%E2%80%94_SPHERE%27s_first.jpg/220px-The_unusual_exoplanet_HIP_65426b_%E2%80%94_SPHERE%27s_first.jpg",
+                "caption": "Exoplanet HIP 65426b is the first discovered planet around star HIP 65426 . [41]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Exoplanet",
+        "title": "Exoplanet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Direct imaging",
+        "text": "Planets are extremely faint compared to their parent stars. For example, a Sun-like star is about a billion times brighter than the reflected light from any exoplanet orbiting it. It is difficult to detect such a faint light source, and furthermore, the parent star causes a glare that tends to wash it out. It is necessary to block the light from the parent star to reduce the glare while leaving the light from the planet detectable; doing so is a major technical challenge which requires extreme optothermal stability . [88] All exoplanets that have been directly imaged are both large (more massive than Jupiter ) and widely separated from their parent stars. Specially designed direct-imaging instruments such as Gemini Planet Imager , VLT-SPHERE , and SCExAO will image dozens of gas giants, but the vast majority of known extrasolar planets have only been detected through indirect methods.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Beta_Pictoris.jpg/220px-Beta_Pictoris.jpg",
+                "caption": "Directly imaged planet Beta Pictoris b"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Exoplanet",
+        "title": "Exoplanet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Planet-hosting stars",
+        "text": "There is at least one planet on average per star. [7] About 1 in 5 Sun-like stars [a] have an \"Earth-sized\" [b] planet in the habitable zone . [117] Most known exoplanets orbit stars roughly similar to the Sun , i.e. main-sequence stars of spectral categories F, G, or K. Lower-mass stars ( red dwarfs , of spectral category M) are less likely to have planets massive enough to be detected by the radial-velocity method . [118] [119] Despite this, several tens of planets around red dwarfs have been discovered by the Kepler telescope , which uses the transit method to detect smaller planets. Using data from Kepler , a correlation has been found between the metallicity of a star and the probability that the star hosts a giant planet, similar to the size of Jupiter . Stars with higher metallicity are more likely to have planets, especially giant planets, than stars with lower metallicity. [120] Some planets orbit one member of a binary star system, [121] and several circumbinary planets have been discovered which orbit both members of a binary star. A few planets in triple star systems are known [122] and one in the quadruple system Kepler-64 .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Morgan-Keenan_spectral_classification.svg/220px-Morgan-Keenan_spectral_classification.svg.png",
+                "caption": "The Morgan-Keenan spectral classification"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/OGLE-2007-BLG-349.jpg/220px-OGLE-2007-BLG-349.jpg",
+                "caption": "Artist's impression of exoplanet orbiting two stars. [116]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Exoplanet",
+        "title": "Exoplanet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Color and brightness",
+        "text": "In 2013, the color of an exoplanet was determined for the first time. The best-fit albedo measurements of HD 189733b suggest that it is deep dark blue. [123] [124] Later that same year, the colors of several other exoplanets were determined, including GJ 504 b which visually has a magenta color, [125] and Kappa Andromedae b , which if seen up close would appear reddish in color. [126] Helium planets are expected to be white or grey in appearance. [127] The apparent brightness ( apparent magnitude ) of a planet depends on how far away the observer is, how reflective the planet is (albedo), and how much light the planet receives from its star, which depends on how far the planet is from the star and how bright the star is. So, a planet with a low albedo that is close to its star can appear brighter than a planet with a high albedo that is far from the star. [128] The darkest known planet in terms of geometric albedo is TrES-2b , a hot Jupiter that reflects less than 1% of the light from its star, making it less reflective than coal or black acrylic paint. Hot Jupiters are expected to be quite dark due to sodium and potassium in their atmospheres, but it is not known why TrES-2b is so dark—it could be due to an unknown chemical compound. [129] [130] [131] For gas giants , geometric albedo generally decreases with increasing metallicity or atmospheric temperature unless there are clouds to modify this effect. Increased cloud-column depth increases the albedo at optical wavelengths, but decreases it at some infrared wavelengths. Optical albedo increases with age, because older planets have higher cloud-column depths. Optical albedo decreases with increasing mass, because higher-mass giant planets have higher surface gravities, which produces lower cloud-column depths. Also, elliptical orbits can cause major fluctuations in atmospheric composition, which can have a significant effect. [132] There is more thermal emission than reflection at some near-infrared wavelengths for massive and/or young gas giants. So, although optical brightness is fully phase -dependent, this is not always the case in the near infrared. [132] Temperatures of gas giants reduce over time and with distance from their stars. Lowering the temperature increases optical albedo even without clouds. At a sufficiently low temperature, water clouds form, which further increase optical albedo. At even lower temperatures, ammonia clouds form, resulting in the highest albedos at most optical and near-infrared wavelengths. [132]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Color_HD_189733b_vs_solar_system.jpg/400px-Color_HD_189733b_vs_solar_system.jpg",
+                "caption": "This color–color diagram compares the colors of planets in the Solar System to exoplanet HD 189733b . The exoplanet's deep blue color is produced by silicate droplets, which scatter blue light in its atmosphere."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Exoplanet",
+        "title": "Exoplanet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Atmospheres",
+        "text": "Atmospheres have been detected around several exoplanets. The first to be observed was HD 209458 b in 2001. [161] As of February 2014, more than fifty transiting and five directly imaged exoplanet atmospheres have been observed, [162] resulting in detection of molecular spectral features; observation of day–night temperature gradients; and constraints on vertical atmospheric structure. [163] Also, an atmosphere has been detected on the non-transiting hot Jupiter Tau Boötis b . [164] [165] In May 2017, glints of light from Earth , seen as twinkling from an orbiting satellite a million miles away, were found to be reflected light from ice crystals in the atmosphere . [166] [167] The technology used to determine this may be useful in studying the atmospheres of distant worlds, including those of exoplanets.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cloudy_versus_clear_atmospheres_on_two_exoplanets.jpg/220px-Cloudy_versus_clear_atmospheres_on_two_exoplanets.jpg",
+                "caption": "Clear versus cloudy atmospheres on two exoplanets. [160]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/PIA18410-TitanSunsetStudies-CassiniSpacecraft-20140527.jpg/220px-PIA18410-TitanSunsetStudies-CassiniSpacecraft-20140527.jpg",
+                "caption": "Sunset studies on Titan by Cassini help understand exoplanet atmospheres (artist's concept)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Exoplanet",
+        "title": "Exoplanet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Surface temperature",
+        "text": "Measuring the intensity of the light it receives from its parent star can estimate the temperature of an exoplanet. For example, the planet OGLE-2005-BLG-390Lb is estimated to have a surface temperature of roughly −220 °C (50 K). However, such estimates may be substantially in error because they depend on the planet's usually unknown albedo , and because factors such as the greenhouse effect may introduce unknown complications. A few planets have had their temperature measured by observing the variation in infrared radiation as the planet moves around in its orbit and is eclipsed by its parent star. For example, the planet HD 189733b has been estimated to have an average temperature of 1,205 K (932 °C) on its dayside and 973 K (700 °C) on its nightside. [176]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/WASP-33b.jpg/220px-WASP-33b.jpg",
+                "caption": "Artist's illustration of temperature inversion in exoplanet's atmosphere. [175]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Exoplanet",
+        "title": "Exoplanet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "In the Solar System",
+        "text": "The migration of the outer planets is a scenario proposed to explain some of the orbital properties of the bodies in the Solar System's outermost regions. [43] Beyond Neptune , the Solar System continues into the Kuiper belt , the scattered disc , and the Oort cloud , three sparse populations of small icy bodies thought to be the points of origin for most observed comets . At their distance from the Sun, accretion was too slow to allow planets to form before the solar nebula dispersed, because the initial disc lacked enough mass density to consolidate into a planet. The Kuiper belt lies between 30 and 55 AU from the Sun, while the farther scattered disc extends to over 100 AU, [43] and the distant Oort cloud begins at about 50,000 AU. [44] According to this scenario the Kuiper belt was originally much denser and closer to the Sun: it contained millions of planetesimals, and had an outer edge at approximately 30 AU, the present distance of Neptune. After the formation of the Solar System , the orbits of all the giant planets continued to change slowly, influenced by their interaction with the large number of remaining planetesimals. After 500–600 million years (about 4 billion years ago) Jupiter and Saturn divergently crossed the 2:1 orbital resonance , in which Saturn orbited the Sun once for every two Jupiter orbits. [43] This resonance crossing increased the eccentricities of Jupiter and Saturn and destabilized the orbits of Uranus and Neptune. Encounters between the planets followed causing Neptune to surge past Uranus and plough into the dense planetesimal belt. The planets scattered the majority of the small icy bodies inwards, while moving outwards themselves. These planetesimals then scattered off the next planet they encountered in a similar manner, moving the planets' orbits outwards while they moved inwards. [45] This process continued until the planetesimals interacted with Jupiter, whose immense gravity sent them into highly elliptical orbits or even ejected them outright from the Solar System. This caused Jupiter to move slightly inward. This scattering scenario explains the trans-Neptunian populations' present low mass. In contrast to the outer planets, the inner planets are not believed to have migrated significantly over the age of the Solar System, because their orbits have remained stable following the period of giant impacts . [46]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lhborbits.png/440px-Lhborbits.png",
+                "caption": "Simulation showing outer planets and Kuiper belt: (a) Before Jupiter/Saturn 2:1 resonance. (b) Scattering of Kuiper belt objects into the Solar System after the orbital shift of Neptune. (c) After ejection of Kuiper belt bodies by Jupiter [22]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Planetary_migration",
+        "title": "Planetary migration",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Populations",
+        "text": "Hundreds of thousands of minor planets have been discovered within the Solar System and thousands more are discovered each month. The Minor Planet Center has documented over 213 million observations and 794,832 minor planets, of which 541,128 have orbits known well enough to be assigned permanent official numbers . [9] [10] Of these, 21,922 have official names. [9] As of 8 November 2021 [update] , the lowest-numbered unnamed minor planet is (4596) 1981 QB , [11] and the highest-numbered named minor planet is 594913 ꞌAylóꞌchaxnim . [12] There are various broad minor-planet populations:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Euler-Diagram_bodies_in_the_Solar_System.jpg/220px-Euler-Diagram_bodies_in_the_Solar_System.jpg",
+                "caption": "Euler diagram showing the types of bodies in the Solar System according to the IAU"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Minor_planet",
+        "title": "Minor planet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Naming conventions",
+        "text": "All astronomical bodies in the Solar System need a distinct designation. The naming of minor planets runs through a three-step process. First, a provisional designation is given upon discovery—because the object still may turn out to be a false positive or become lost later on —called a provisionally designated minor planet . After the observation arc is accurate enough to predict its future location, a minor planet is formally designated and receives a number. It is then a numbered minor planet . Finally, in the third step, it may be named by its discoverers. However, only a small fraction of all minor planets have been named. The vast majority are either numbered or have still only a provisional designation. Example of the naming process:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Minor_planet_count.svg/290px-Minor_planet_count.svg.png",
+                "caption": "Out of a total of more than 700,000 discovered minor planets, 66% have been numbered (green) and 34% remain unnumbered (red). Only a small fraction of 20,071 minor planets (3%) have been named (purple). [9] [19]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Minor_planet",
+        "title": "Minor planet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    },
+    {
+        "section": "Collision",
+        "text": "According to the giant impact hypothesis , Theia orbited the Sun , nearly along the orbit of the proto-Earth , by staying close to one or the other of the Sun-Earth system's two more stable Lagrangian points ( i.e. , either L 4 or L 5 ). [8] Theia was eventually perturbed away from that relationship by the gravitational influence of Jupiter , Venus , or both, resulting in a collision between Theia and Earth. [ citation needed ] Initially, the hypothesis supposed that Theia had struck Earth with a glancing blow [9] and ejected many pieces of both the proto-Earth and Theia, those pieces either forming one body that became the Moon or forming two moons that eventually merged to form the Moon. [10] [11] Such accounts assumed that a head-on impact would have destroyed both planets, creating a short-lived second asteroid belt between the orbits of Venus and Mars. In contrast, evidence published in January 2016 suggests that the impact was indeed a head-on collision and that Theia's remains are on Earth and the Moon. [12] [13] [14]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Big_Splash_Theia.gif/260px-Big_Splash_Theia.gif",
+                "caption": "Animation of collision between Earth (blue) and Theia (black), forming the Moon (red and gray). Bodies are not to scale."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Theia_(planet)",
+        "title": "Theia (planet)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Planetology"
+    }
+]

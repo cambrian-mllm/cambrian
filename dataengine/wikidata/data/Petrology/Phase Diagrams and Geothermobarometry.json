@@ -1,0 +1,759 @@
+[
+    {
+        "section": "Clockwise P-T-t paths",
+        "text": "Metamorphic rocks with clockwise P-T-t paths are commonly associated with a near- isothermal decompressional P-T trajectory . [5] [6] Clockwise P-T-t path normally consists of three parts: [2] One might expect that the rock reaches its peak metamorphism at the peak temperature and pressure at similar time, and near- isothermal decompression P-T-t path is observed at its stage 1 metamorphism. [2] However, in reality, the rocks commonly experience the peak pressure prior to the peak temperature. [2] This is due to the relative insensitivity of rocks to thermal events, i.e. poor conductivity of rock upon external thermal changes, whereas the rocks instantaneously experience pressure changes. [1] Examples of metamorphic rocks that consist of clockwise P-T-t paths can be found at:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Clockwise_ptt_path.png/330px-Clockwise_ptt_path.png",
+                "caption": "A typical clockwise P-T-t path (ideal case)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Anticlockwise P-T-t paths",
+        "text": "Metamorphic rocks with anticlockwise P-T-t paths are commonly associated with a near- isobaric cooling P-T trajectory. [11] Anticlockwise P-T-t path normally consists of two parts: [2] It is commonly observed that the peak temperature is reached prior to the peak pressure in anticlockwise P-T-t paths, as the rocks usually experienced the heat from the heat source before being extensively pressurized. [12] Examples of metamorphic rocks that consist of anticlockwise P-T-t paths can be found at:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Anticlockwise_ptt_path1.png/339px-Anticlockwise_ptt_path1.png",
+                "caption": "A common anticlockwise P-T-t path."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Geothermobarometry",
+        "text": "Geothermobarometry is a quantitative measurement of the P-T conditions, which is widely used in analyzing the P-T conditions of metamorphic and intrusive igneous rocks . [20] The underlying principle of geothermobarometry is by utilizing the equilibrium constants of mineral assemblages in a rock to infer the metamorphic P-T conditions. [1] [20] An electron microprobe is usually used in geothermobarometry to measure the distribution of components in the minerals and give precise determination of the chemical equilibrium within the specimen. [20] Geothermobarometry is a combination of: Geothermometers are usually represented by exchange reactions , which are sensitive to temperature but with little effect under changing pressure, such as exchange of Fe 2+ and Mg 2+ between garnet - biotite reaction: [1] Geobarometers are typically occurred as net-transfer reactions , which are sensitive to pressure but have little change with temperature, such as garnet - plagioclase - muscovite - biotite reaction that involves a significant volume reduction upon high pressure: [1] Since mineral assemblages at equilibrium are dependent on pressures and temperatures, by measuring the composition of the coexisting minerals, together with using suitable activity models, the P-T conditions experienced by the rock can be determined. [1] After one equilibrium constant is found, a line would be plotted on the P-T diagram. [20] As different equilibrium constants of mineral assemblages would occur as lines with different slopes in the P-T diagram, therefore, by finding the intersection of at least two lines in the P-T diagram, the P-T condition of the specimen can be obtained. [1] Despite the usefulness of geothermobarometry, special attention should be paid to whether the mineral assemblages represent an equilibrium, any occurrence of retrograde equilibrium in the rock, and appropriateness of calibration of the results. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Geothermobarometry1.png/376px-Geothermobarometry1.png",
+                "caption": "An illustration of geothermobarometry . A line of temperature equilibrium (orange) and a line of pressure equilibrium (blue) of selected mineral assemblages found in the specimen are plotted on the P-T diagram. The intersection represents the likely P-T condition experienced by rock in its metamorphic history."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Garnet growth zoning",
+        "text": "Garnet growth zoning is a special type of geothermobarometry that focuses on the composition variations in garnet. [21] Zoning is a texture in solid-solution minerals which the minerals form concentric rings from core to rim upon changing P-T conditions. [21] In a changing environment, minerals would be unstable and alter itself to reduce its Gibbs free energy to achieve stable states. [21] However, sometimes the mineral core has not reached equilibrium upon the environmental change and zoning occurs. [21] Zoning is also found in other minerals such as plagioclase and fluorite . [1] In practice, garnet is commonly used in the study of metamorphic rocks due to its refractory nature. [22] In past studies, garnet is found to be a mineral that is stable under a wide range of P-T conditions, meanwhile chemically displays responses (e.g. ions exchange ) to the P-T variations throughout its metamorphic history without reaching complete equilibrium. [22] The non-equilibriated garnet formed previously are often zoned by younger garnet. [1] Therefore, many past P-T characteristics are preserved in the zoned areas. Electron microprobes are used to measure the composition of the garnet zones. [22] However, melting within garnet sometimes occurs or diffusion rate is too rapid at high temperature, some garnet zones are merged and cannot provide sufficient information about the complete metamorphic history of the rocks. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/PTt_garnet_zones.gif/250px-PTt_garnet_zones.gif",
+                "caption": "Garnet zones grow from core to rim. Each concentric garnet zone displays different chemical compositions, indicating different P-T conditions."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Pseudosection",
+        "text": "Pseudosection is an equilibrium phase diagram which shows all the stable mineral assemblages of a rock at different P-T ranges for a single whole-rock chemical composition (bulk-rock composition). [25] The stable mineral assemblages are marked as different areas in the P-T graph. [25] Unlike geothermobarometry , which focuses only on single chemical equilibrium equations, pseudosections make use of multiple equilibrium equations to search for the past P-T conditions. [1] [25] It is widely used in metamorphic rock analysis due to its consideration of multiple reactions which resemble metamorphic processes of multiple minerals in reality. [25] (Pseudosection is different from petrogenetic grid . Pseudosection shows different mineral phases for a single rock chemical composition, [25] while petrogenetic grid shows a set of reactions under different P-T conditions that would occur for a phase diagram. [1] ) In the construction of pseudosections, the bulk-rock composition is firstly determined using geochemical techniques, then inserted into computer programs for calculations based on thermodynamics equations to generate pseudosection diagrams. [25] There are two geochemical methods in determining the bulk-rock composition: Both methods have their advantages and limitations. The XRF method provides a non-biased estimation, but may neglect the proportion of existing minerals in the rock. [25] Meanwhile, the point-counting method takes into account of mineral proportions, but is based on human judgement and may be biased. [25] Common computer programs for computing pseudosections: The results from a single pseudosection is not completely reliable, since in reality the rock specimen is not always in equilibrium. [27] However, analysis can be done on fractions of the P-T-t path e.g. at boundaries of mineral inclusions, or on local bulk composition analysis would improve precision and accuracy of the P-T-t path. [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pseudosection.png/496px-Pseudosection.png",
+                "caption": "An example of a pseudosection. The above shows the areas of stable mineral assemblages at different P-T ranges for a single bulk-rock composition (red dot) of the CaO-SiO 2 -Al 2 O 3 rock composition ternary diagram (white triangle)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Monazite geochronology",
+        "text": "In the study of metamorphic petrology, uranium–thorium–lead dating of monazite ( monazite geochronology ) is an effective method to determine the P-T history. [29] [30] Monazite is a phosphate mineral containing light rare-earth-elements (LREE) that occurs in a wide range of rock types. [31] It usually incorporates radioactive thorium (Th) during its crystal formation, making age determination possible. [31] Monazite has characteristics of high closure temperature (>1000 °C), variable composition, and robustness under a large temperature range, which help in the record of geological history in metamorphic rocks. [32] An electron microprobe is usually used for the measurement of monazite composition. [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Monazite_in_zoned_garnet.png/270px-Monazite_in_zoned_garnet.png",
+                "caption": "Monazite crystals (white dots) are often included in a concentrically zoned garnet (each colored ring represents a zone). Dating of monazite inclusions can therefore allow estimation of the age of each garnet zone."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Forward approach (Thermal modeling)",
+        "text": "Unlike using traditional petrological investigation methods (e.g. optical microscopy , geothermobarometry ) to inversely infer the metamorphic events from rock samples, thermal modeling is a forward method that attempts to work on the geological evolution of rocks. [1] Thermal modeling applies numerical modeling techniques based on heat transfer equations , different tectonics models and reactions of metamorphic minerals in the simulation of the possible metamorphic events. [1] [39] It works on the temperature variation of the earth crust over time based on rate of heat transfer and diffusion along the disturbed geothermal gradient (normal heat distribution in the ground). [1] [2] Thermal modeling does not give the actual geological time. [1] However, it provides accurate estimation of the duration of the thermal events. [1] [2] An advantage of thermal modeling is that it provides a holistic estimation of the duration of different stages of metamorphism, which is somehow difficult to completely extract from geochronological methods. [1] The model simulation involves solving the continuous time-dependent differential heat transfer equation by its approximate discrete finite difference form using computer programs such as FORTRAN . [1] [26] After the equations are set, a grid of nodes is generated for calculation of each point. [1] [40] Boundary conditions (normally temperature of the geothermal gradients) are input into the equations to calculate the temperature at boundaries. [1] Results are compared with petrological experimental results for validation. [1] By combining petrological methods and thermal modeling techniques, the understanding of metamorphic processes due to tectonic events is facilitated. [1] [39] Petrological results provide realistic variables to be plugged into a model simulation, while numerical modeling techniques often place constraints on the possible tectonic environments. [1] [2] The two methods complement the limitations of each other, and formulate a comprehensive evolutionary history of the metamorphic and tectonic events. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Thermal_evolution_ptt_path.png/389px-Thermal_evolution_ptt_path.png",
+                "caption": "An example of using thermal modeling in P-T-t path reconstruction. The above diagram shows the calculated geothermal gradients upon crustal thickening at 0 million year (m.y.) followed by an immediate uplift event at a rate of 1 mm per year. The P-T-t evolution of a rock originally at 40 km below ground is marked as red dots on the diagram. The corresponding P-T-t path trajectory is also inferred (blue dotted line). Edited from Peacock(1989). [1]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Collision setting",
+        "text": "Areas with collision-related tectonic events or under subduction zones commonly produce metamorphic rocks with clockwise P-T-t paths with near-isothermal decompressional P-T trajectories, [5] [6] and the reason is as follows: In addition, recent studies based on mechanical analysis reveal that peak pressure recorded in clockwise P-T paths does not necessarily represent the maximum depth of burial, but can also represent a change in the tectonic pattern. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Continental_collision.png/508px-Continental_collision.png",
+                "caption": "In continental collision setting, crustal thickening takes place, which brings about prograde metamorphism of underlying rocks. Continuous compression results in the development of thrust belts, which leads to a great drop in pressure experienced by originally underlying rocks and results in near-isothermal decompression (Stage 1 retrograde metamorphism). Exhumation and erosion further promote a decrease in P-T condition (Stage 2 retrograde metamorphism)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Paired metamorphic belts",
+        "text": "Both clockwise and anticlockwise metamorphic P-T-t paths are found in paired metamorphic belts at convergent plate boundaries . [42] Paired metamorphic belts display two contrasting mineral assemblages sets: [42] [43] The HPLT metamorphic belt is located along subduction zones, and commonly associated with a clockwise P-T-t path. [42] [44] The HPLT condition is resulted from crustal thickening due to convergence meanwhile without being heated by magma . [42] The LPHT metamorphic belt is observed at volcanic arcs or back-arc basins , [45] which is attributed to magma intrusion derived from partial melting of the subducting slab , and the melt rises to the crust . [42] This area is associated with an anticlockwise P-T-t path. [42] The P-T-t paths provide in-depth investigations and implications of the mechanisms in the lithosphere, and further support the plate tectonic theory [42] [46] and the formation of supercontinents . [47] [46] [48]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sumatra-subduction.jpg/455px-Sumatra-subduction.jpg",
+                "caption": "Convergent plate boundaries with subduction zones and volcanic arcs , where paired metamorphic belts with contrasting metamorphic mineral assemblages are found. Clockwise P-T-t paths are commonly found in the forearc , while anticlockwise P-T-t paths are found in the volcanic arc or back-arc basin ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Plume tectonics",
+        "text": "P-T-t paths play an important role in the development of plume tectonics, supported by anticlockwise P-T paths. [11] [49] Plume tectonics are considered to be the dominant process forming the Archean crust with evidence from the study of the Archean cratonic blocks in the North China Craton . [11] [49] Anticlockwise P-T paths with near-isobaric cooling after the peak are normally found in the Archean rocks, suggesting an intrusion origin. [11] The lack of a paired metamorphic belt as well as a paired clockwise P-T path in the Archean rocks eliminates the possibility of the volcanic arc formation. [11] [50] Evidenced together by a large doming structure , widespread of komatiites and bimodal volcanism , it is proposed that plume tectonics is the major crust-forming process in the Archean. [11] This has led to further research on the beginning of plate tectonics and numerical modeling of the early Earth condition. [50] [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mantle_Plume.jpg/341px-Mantle_Plume.jpg",
+                "caption": "A diagram of plume tectonics. A mantle plume rises from the core to the surface."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Structural deformation",
+        "text": "P-T-t paths can be used to estimate possible structures in the field as heat would transfer in small scale advective heat flow during thrusting and folding of metamorphic rocks. [1] [3] For example, during the formation of fault-bend-fold , the rocks in the lower segment (footwall) are heated due to contact with the hotter upper thrust sheet (hanging wall), while the upper thrust sheet is cooling because of losing heat in a downward direction. [52] [53] Thus, the lower segment and the upper thrust sheet are undergoing prograde metamorphism and retrograde metamorphism respectively. [53] Nevertheless, special attention should be taken to the effect of multiple thrusting such as duplexes, where the initial lower plate in an earlier thrust would become the upper plate in a later thrusting event. [52] Depending on the location of the rock, a variety of complex P-T trajectories can be found, which may make interpretation of a terrain challenging. [52]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Faultbendfold.png/240px-Faultbendfold.png",
+                "caption": "During the formation of a fault-bend-fold, the lower segment (footwall) is heated while the upper thrust sheet (hanging wall) is cooled because of thrusting."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pressure-temperature-time_path",
+        "title": "Pressure-temperature-time path",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Metamorphic processes",
+        "text": "Metamorphism is the set of processes by which existing rock is transformed physically or chemically at elevated temperature, without actually melting to any great degree. The importance of heating in the formation of metamorphic rock was first recognized by the pioneering Scottish naturalist, James Hutton , who is often described as the father of modern geology. Hutton wrote in 1795 that some rock beds of the Scottish Highlands had originally been sedimentary rock , but had been transformed by great heat. [3] Hutton also speculated that pressure was important in metamorphism. This hypothesis was tested by his friend, James Hall , who sealed chalk into a makeshift pressure vessel constructed from a cannon barrel and heated it in an iron foundry furnace. Hall found that this produced a material strongly resembling marble , rather than the usual quicklime produced by heating of chalk in the open air. French geologists subsequently added metasomatism , the circulation of fluids through buried rock, to the list of processes that help bring about metamorphism. However, metamorphism can take place without metasomatism (isochemical metamorphism) or at depths of just a few hundred meters where pressures are relatively low (for example, in contact metamorphism). [3] Rock can be transformed without melting because heat causes atomic bonds to break, freeing the atoms to move and form new bonds with other atoms . Pore fluid present between mineral grains is an important medium through which atoms are exchanged. [4] This permits recrystallization of existing minerals or crystallization of new minerals with different crystalline structures or chemical compositions (neocrystallization). [1] The transformation converts the minerals in the protolith into forms that are more stable (closer to chemical equilibrium ) under the conditions of pressure and temperature at which metamorphism takes place. [5] [6] Metamorphism is generally regarded to begin at temperatures of 100 to 200 °C (212 to 392 °F). This excludes diagenetic changes due to compaction and lithification , which result in the formation of sedimentary rocks. [7] The upper boundary of metamorphic conditions lies at the solidus of the rock, which is the temperature at which the rock begins to melt. At this point, the process becomes an igneous process. [8] The solidus temperature depends on the composition of the rock, the pressure, and whether the rock is saturated with water. Typical solidus temperatures range from 650 °C (1,202 °F) for wet granite at a few hundred megapascals (MPa) of pressure [9] to about 1,080 °C (1,980 °F) for wet basalt at atmospheric pressure. [10] Migmatites are rocks formed at this upper limit, which contains pods and veins of material that has started to melt but has not fully segregated from the refractory residue. [11] The metamorphic process can occur at almost any pressure, from near surface pressure (for contact metamorphism) to pressures in excess of 16 kbar (1600 MPa). [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Metamorphic_Pressure_alignment-white.png/260px-Metamorphic_Pressure_alignment-white.png",
+                "caption": "(Left) Randomly-orientated grains in a rock before metamorphism. (Right) Grains align orthogonal to the applied stress if a rock is subjected to stress during metamorphism"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphism",
+        "title": "Metamorphism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Recrystallization",
+        "text": "The change in the grain size and orientation in the rock during the process of metamorphism is called recrystallization . For instance, the small calcite crystals in the sedimentary rocks limestone and chalk change into larger crystals in the metamorphic rock marble . [13] In metamorphosed sandstone , recrystallization of the original quartz sand grains results in very compact quartzite , also known as metaquartzite, in which the often larger quartz crystals are interlocked. [14] Both high temperatures and pressures contribute to recrystallization. High temperatures allow the atoms and ions in solid crystals to migrate, thus reorganizing the crystals, while high pressures cause solution of the crystals within the rock at their points of contact ( pressure solution ) and redeposition in pore space. [15] During recrystallization, the identity of the mineral does not change, only its texture. Recrystallization generally begins when temperatures reach above half the melting point of the mineral on the Kelvin scale. [16] Pressure solution begins during diagenesis (the process of lithification of sediments into sedimentary rock) but is completed during early stages of metamorphism. For a sandstone protolith, the dividing line between diagenesis and metamorphism can be placed at the point where strained quartz grains begin to be replaced by new, unstrained, small quartz grains, producing a mortar texture that can be identified in thin sections under a polarizing microscope. With increasing grade of metamorphism, further recrystallization produces foam texture , characterized by polygonal grains meeting at triple junctions, and then porphyroblastic texture , characterized by coarse, irregular grains, including some larger grains ( porphyroblasts .) [17] Metamorphic rocks are typically more coarsely crystalline than the protolith from which they formed. Atoms in the interior of a crystal are surrounded by a stable arrangement of neighboring atoms. This is partially missing at the surface of the crystal, producing a surface energy that makes the surface thermodynamically unstable. Recrystallization to coarser crystals reduces the surface area and so minimizes the surface energy. [18] Although grain coarsening is a common result of metamorphism, rock that is intensely deformed may eliminate strain energy by recrystallizing as a fine-grained rock called mylonite . Certain kinds of rock, such as those rich in quartz, carbonate minerals , or olivine, are particularly prone to form mylonites, while feldspar and garnet are resistant to mylonitization. [19]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Basalt-hand-sample.tif/lossy-page1-300px-Basalt-hand-sample.tif.jpg",
+                "caption": "Basalt hand sample showing fine texture"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Amphibolite_%28Archean%2C_3.1-3.2_Ga%3B_Norris_South_roadcut%2C_Madison_County%2C_Montana%2C_USA%29_1_%2845574881922%29.jpg/300px-Amphibolite_%28Archean%2C_3.1-3.2_Ga%3B_Norris_South_roadcut%2C_Madison_County%2C_Montana%2C_USA%29_1_%2845574881922%29.jpg",
+                "caption": "Amphibolite formed by metamorphism of basalt showing coarse texture"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mylonite_Strona.jpg/300px-Mylonite_Strona.jpg",
+                "caption": "A mylonite (through a petrographic microscope )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphism",
+        "title": "Metamorphism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Phase change",
+        "text": "Phase change metamorphism is the creating of a new mineral with the same chemical formula as a mineral of the protolith. This involves a rearrangement of the atoms in the crystals. An example is provided by the aluminium silicate minerals, kyanite , andalusite , and sillimanite . All three have the identical composition, Al 2 SiO 5 . Kyanite is stable at surface conditions. However, at atmospheric pressure, kyanite transforms to andalusite at a temperature of about 190 °C (374 °F). Andalusite, in turn, transforms to sillimanite when the temperature reaches about 800 °C (1,470 °F). At pressures above about 4 kbar (400 MPa), kyanite transforms directly to sillimanite as the temperature increases. [20] A similar phase change is sometimes seen between calcite and aragonite , with calcite transforming to aragonite at elevated pressure and relatively low temperature. [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Al2SiO5_phase_diagram.svg/210px-Al2SiO5_phase_diagram.svg.png",
+                "caption": "Phase diagram of Al 2 SiO 5 ( nesosilicates )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphism",
+        "title": "Metamorphism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Dynamothermal",
+        "text": "To many geologists, regional metamorphism is practically synonymous with dynamothermal metamorphism. [30] This form of metamorphism takes place at convergent plate boundaries , where two continental plates or a continental plate and an island arc collide. The collision zone becomes a belt of mountain formation called an orogeny . The orogenic belt is characterized by thickening of the Earth's crust, during which the deeply buried crustal rock is subjected to high temperatures and pressures and is intensely deformed. [33] [34] Subsequent erosion of the mountains exposes the roots of the orogenic belt as extensive outcrops of metamorphic rock, [35] characteristic of mountain chains. [33] Metamorphic rock formed in these settings tends to shown well-developed foliation . [33] Foliation develops when a rock is being shortened along one axis during metamorphism. This causes crystals of platy minerals, such as mica and chlorite , to become rotated such that their short axes are parallel to the direction of shortening. This results in a banded, or foliated, rock, with the bands showing the colors of the minerals that formed them. Foliated rock often develops planes of cleavage . Slate is an example of a foliated metamorphic rock, originating from shale , and it typically shows well-developed cleavage that allows slate to be split into thin plates. [36] The type of foliation that develops depends on the metamorphic grade. For instance, starting with a mudstone , the following sequence develops with increasing temperature: The mudstone is first converted to slate, which is a very fine-grained, foliated metamorphic rock, characteristic of very low grade metamorphism. Slate in turn is converted to phyllite , which is fine-grained and found in areas of low grade metamorphism. Schist is medium to coarse-grained and found in areas of medium grade metamorphism. High-grade metamorphism transforms the rock to gneiss , which is coarse to very coarse-grained. [37] Rocks that were subjected to uniform pressure from all sides, or those that lack minerals with distinctive growth habits, will not be foliated. Marble lacks platy minerals and is generally not foliated, which allows its use as a material for sculpture and architecture. Collisional orogenies are preceded by subduction of oceanic crust. [38] The conditions within the subducting slab as it plunges toward the mantle in a subduction zone produce their own distinctive regional metamorphic effects , characterized by paired metamorphic belts . [39] The pioneering work of George Barrow on regional metamorphism in the Scottish Highlands showed that some regional metamorphism produces well-defined, mappable zones of increasing metamorphic grade. This Barrovian metamorphism is the most recognized metamorphic series in the world. However, Barrovian metamorphism is specific to pelitic rock, formed from mudstone or siltstone , and it is not unique even in pelitic rock. A different sequence in the northeast of Scotland defines Buchan metamorphism , which took place at lower pressure than the Barrovian. [40]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/The_stones_of_the_Dutch_-_Lleida_Pyrenees_04.JPG/220px-The_stones_of_the_Dutch_-_Lleida_Pyrenees_04.JPG",
+                "caption": "A metamorphic rock, deformed during the Variscan orogeny , at Vall de Cardós , Lérida , Spain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphism",
+        "title": "Metamorphism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Burial",
+        "text": "Burial metamorphism takes place simply through rock being buried to great depths below the Earth's surface in a subsiding basin. [33] Here the rock is subjected to high temperatures and the great pressure caused by the immense weight of the rock layers above. Burial metamorphism tends to produce low-grade metamorphic rock. This shows none of the effects of deformation and folding so characteristic of dynamothermal metamorphism. [41] Examples of metamorphic rocks formed by burial metamorphism include some of the rocks of the Midcontinent Rift System of North America, such as the Sioux Quartzite , [42] and in the Hamersley Basin of Australia. [43]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sioux_Quartzite_%28Paleoproterozoic%2C_1.65_to_1.70_Ga%3B_Transcontinental_Arch%2C_USA%29_4.jpg/220px-Sioux_Quartzite_%28Paleoproterozoic%2C_1.65_to_1.70_Ga%3B_Transcontinental_Arch%2C_USA%29_4.jpg",
+                "caption": "Sioux Quartzite, a product of burial metamorphism"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphism",
+        "title": "Metamorphism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Contact",
+        "text": "Contact metamorphism occurs typically around intrusive igneous rocks as a result of the temperature increase caused by the intrusion of magma into cooler country rock . The area surrounding the intrusion where the contact metamorphism effects are present is called the metamorphic aureole , [44] the contact aureole , or simply the aureole. [45] Contact metamorphic rocks are usually known as hornfels . Rocks formed by contact metamorphism may not present signs of strong deformation and are often fine-grained [46] [47] and extremely tough. [48] The Yule Marble used on the Lincoln Memorial exterior and the Tomb of the Unknown Soldier in Arlington National Cemetery was formed by contact metamorphism. [49] Contact metamorphism is greater adjacent to the intrusion and dissipates with distance from the contact. [50] The size of the aureole depends on the heat of the intrusion, its size, and the temperature difference with the wall rocks. Dikes generally have small aureoles with minimal metamorphism, extending not more than one or two dike thicknesses into the surrounding rock, [51] whereas the aureoles around batholiths can be up to several kilometers wide. [52] [53] The metamorphic grade of an aureole is measured by the peak metamorphic mineral which forms in the aureole. This is usually related to the metamorphic temperatures of pelitic or aluminosilicate rocks and the minerals they form. The metamorphic grades of aureoles at shallow depth are albite - epidote hornfels, hornblende hornfels, pyroxene hornfels, and sillimanite hornfels, in increasing order of temperature of formation. However, the albite-epidote hornfels is often not formed, even though it is the lowest temperature grade. [54] Magmatic fluids coming from the intrusive rock may also take part in the metamorphic reactions . An extensive addition of magmatic fluids can significantly modify the chemistry of the affected rocks. In this case the metamorphism grades into metasomatism . If the intruded rock is rich in carbonate the result is a skarn . [55] Fluorine -rich magmatic waters which leave a cooling granite may often form greisens within and adjacent to the contact of the granite. [56] Metasomatic altered aureoles can localize the deposition of metallic ore minerals and thus are of economic interest. [57] [58] Fenitization , or Na-metasomatism , is a distinctive form of contact metamorphism accompanied by metasomatism. It takes place around intrusions of a rare type of magma called a carbonatite that is highly enriched in carbonates and low in silica . Cooling bodies of carbonatite magma give off highly alkaline fluids rich in sodium as they solidify, and the hot, reactive fluid replaces much of the mineral content in the aureole with sodium-rich minerals. [59] A special type of contact metamorphism, associated with fossil fuel fires, is known as pyrometamorphism . [60] [61]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Metamorphic_Aureole_in_the_Henry_Mountains.JPG/220px-Metamorphic_Aureole_in_the_Henry_Mountains.JPG",
+                "caption": "A metamorphic aureole in the Henry Mountains, Utah. The greyish rock on top is the igneous intrusion, consisting of porphyritic granodiorite from the Henry Mountains laccolith , and the pinkish rock on the bottom is the sedimentary country rock, a siltstone. In between, the metamorphosed siltstone is visible as both the dark layer (~5  cm thick) and the pale layer below it."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Rock_contact_metamorphism_eng_big_text.jpg/220px-Rock_contact_metamorphism_eng_big_text.jpg",
+                "caption": ""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphism",
+        "title": "Metamorphism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Metamorphic facies",
+        "text": "Metamorphic facies are recognizable terranes or zones with an assemblage of key minerals that were in equilibrium under specific range of temperature and pressure during a metamorphic event. The facies are named after the metamorphic rock formed under those facies conditions from basalt . [79] The particular mineral assemblage is somewhat dependent on the composition of that protolith, so that (for example) the amphibolite facies of a marble will not be identical with the amphibolite facies of a pellite. However, the facies are defined such that metamorphic rock with as broad a range of compositions as is practical can be assigned to a particular facies. The present definition of metamorphic facies is largely based on the work of the Finnish geologist, Pentti Eskola in 1921, with refinements based on subsequent experimental work. Eskola drew upon the zonal schemes, based on index minerals, that were pioneered by the British geologist, George Barrow . [12] The metamorphic facies is not usually considered when classifying metamorphic rock based on protolith, mineral mode, or texture. However, a few metamorphic facies produce rock of such distinctive character that the facies name is used for the rock when more precise classification is not possible. The chief examples are amphibolite and eclogite . The British Geological Survey strongly discourages use of granulite as a classification for rock metamorphosed to the granulite facies. Instead, such rock will often be classified as a granofels. [76] However, this is not universally accepted. [77] See diagram for more detail.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Metamorphic_Facies.jpg/330px-Metamorphic_Facies.jpg",
+                "caption": "Temperatures and pressures of metamorphic facies"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphism",
+        "title": "Metamorphism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Equilibrium mineral assemblages",
+        "text": "Metamorphic processes act to bring the protolith closer to thermodynamic equilibrium , which is its state of maximum stability. For example, shear stress (nonhydrodynamic stress) is incompatible with thermodynamic equilibrium, so sheared rock will tend to deform in ways that relieve the shear stress. [81] The most stable assemblage of minerals for a rock of a given composition is that which minimizes the Gibbs free energy [82] G ( p , T ) = U + p V − T S {\\displaystyle G(p,T)=U+pV-TS} where: In other words, a metamorphic reaction will take place only if it lowers the total Gibbs free energy of the protolith. Recrystallization to coarser crystals lowers the Gibbs free energy by reducing surface energy, [18] while phase changes and neocrystallization reduce the bulk Gibbs free energy. A reaction will begin at the temperature and pressure where the Gibbs free energy of the reagents becomes greater than that of the products. [83] A  mineral phase will generally be more stable if it has a lower internal energy, reflecting tighter binding between its atoms. Phases with a higher density (expressed as a lower molar volume V ) are more stable at higher pressure, while minerals with a less ordered structure (expressed as a higher entropy S ) are favored at high temperature. Thus andalusite is stable only at low pressure, since it has the lowest density of any aluminium silicate polymorph, while sillimanite is the stable form at higher temperatures, since it has the least ordered structure. [84] The Gibbs free energy of a particular mineral at a specified temperature and pressure can be expressed by various analytic formulas. These are calibrated against experimentally measured properties and phase boundaries of mineral assemblages. The equilibrium mineral assemblage for a given bulk composition of rock at a specified temperature and pressure can then be calculated on a computer. [85] [86] However, it is often very useful to represent equilibrium mineral assemblages using various kinds of diagrams. [87] These include petrogenetic grids [88] [89] and compatibility diagrams (compositional phase diagrams.) [90] [91]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/P-T_diagram_showing_aluminium_silicate-muscovite-quartz-K_feldspar_phases.png/220px-P-T_diagram_showing_aluminium_silicate-muscovite-quartz-K_feldspar_phases.png",
+                "caption": "Petrogenetic grid showing aluminium silicate-muscovite-quartz-K feldspar phase boundaries"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ACF_triangles_EN.svg/220px-ACF_triangles_EN.svg.png",
+                "caption": "ACF compatibility diagrams (aluminium-calcium-iron) showing phase equilibria in metamorphic mafic rocks at different P-T circumstances (metamorphic facies). Dots represent mineral phases, thin grey lines are equilibria between two phases. Mineral abbreviations: act = actinolite ; cc = calcite ; chl = chlorite ; di = diopside ; ep = epidote ; glau = glaucophane ; gt = garnet ; hbl = hornblende ; ky = kyanite ; law = lawsonite ; plag = plagioclase ; om = omphacite ; opx = orthopyroxene ; zo = zoisite"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metamorphism",
+        "title": "Metamorphism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Methods",
+        "text": "Thermobarometry uses equilibrium constants to calculate information about the environmental conditions present during the rocks' formation. [2] While each rock is forming, it reacts with the surrounding elements until it cools down enough to become inert. Each mineral within the rock will cool and crystalize at different points; a petrogenetic grid is a useful way to visualize each mineral crystalizing in sequence. [2] Individual reactions of specific minerals can be used to calculate either the temperature or pressure. Therefore, two different reactions are needed to calculate both the temperature and pressure of the magma for a single rock. Some reactions are better for pressure and others are better for temperature, based on thermodynamics and Le Chatelier's Principle. This technique requires each reaction to be calibrated , which is done through experimentation and data analysis . Experimentation involves simulating the temperatures and pressures at which these rocks form and observing how the reaction proceeds at those conditions, while data analysis relies on amassing a large database of rock samples with pressure and temperature information. Experimental data tends to have significant variation , so using data from natural formations is more accurate , if it's available. [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Dendritic_clinopyroxene_textures_in_Winnipegosis_Komatiites.png/300px-Dendritic_clinopyroxene_textures_in_Winnipegosis_Komatiites.png",
+                "caption": "Magnified image of komatilites that have clinopyroxene crystals within. The crystals could be used for thermobarometry of the komatilite mineral. Cpx represents clinopyroxene, ol represents olivine , and gl represents glass ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Clinopyroxene_thermobarometry",
+        "title": "Clinopyroxene thermobarometry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Pressure",
+        "text": "The reactions best for pressure ( geobarometers ) are ones that have a large change in molar volume during the reaction. Higher pressures cause the reaction to decrease in total volume, and lighter pressures allow reaction to increase in total volume. Therefore, based on the proportion of minerals that have larger volumes versus the proportion of minerals that have smaller volumes, the pressure of the environment during the reaction can be calculated, as a function of temperature. Experiments must be done to calibrate each reaction and determine the rate at which the volume changes with changes in pressure. [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Diopside-pV.svg/300px-Diopside-pV.svg.png",
+                "caption": "This image shows an experiment that determines the calibration curve of the change in volume of diopside at different pressures . The equilibrium constant for this reaction can be calculated based on the data."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Clinopyroxene_thermobarometry",
+        "title": "Clinopyroxene thermobarometry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Thermodynamics",
+        "text": "The equilibrium pressure and temperature conditions for a transition between graphite and diamond are well established theoretically and experimentally. The equilibrium pressure varies linearly with temperature, between 1.7 GPa at 0 K and 12 GPa at 5000 K (the diamond/graphite/liquid triple point ). [10] [11] However, the phases have a wide region about this line where they can coexist. At normal temperature and pressure , 20 °C (293 K) and 1 standard atmosphere (0.10 MPa), the stable phase of carbon is graphite, but diamond is metastable and its rate of conversion to graphite is negligible. [7] However, at temperatures above about 4500 K , diamond rapidly converts to graphite. Rapid conversion of graphite to diamond requires pressures well above the equilibrium line: at 2000 K , a pressure of 35 GPa is needed. [10] Above the graphite–diamond–liquid carbon triple point, the melting point of diamond increases slowly with increasing pressure; but at pressures of hundreds of GPa, it decreases. [12] At high pressures, silicon and germanium have a BC8 body-centered cubic crystal structure, and a similar structure is predicted for carbon at high pressures. At 0 K , the transition is predicted to occur at 1100 GPa . [13] Research results published in an article in the scientific journal Nature Physics in 2010 suggest that at ultrahigh pressures and temperatures (about 10 million atmospheres or 1 TPa and 50,000 °C) diamond melts into a metallic fluid. The extreme conditions required for this to occur are present in the ice giants Neptune and Uranus . Both planets are made up of approximately 10 percent carbon and could hypothetically contain oceans of liquid carbon. Since large quantities of metallic fluid can affect the magnetic field, this could serve as an explanation as to why the geographic and magnetic poles of the two planets are unaligned. [14] [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Carbon-phase-diagramp.svg/220px-Carbon-phase-diagramp.svg.png",
+                "caption": "Theoretically predicted phase diagram of carbon"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Crystal structure",
+        "text": "The most common crystal structure of diamond is called diamond cubic . It is formed of unit cells (see the figure) stacked together. Although there are 18 atoms in the figure, each corner atom is shared by eight unit cells and each atom in the center of a face is shared by two, so there are a total of eight atoms per unit cell. [16] The length of each side of the unit cell is denoted by a and is 3.567 angstroms . [17] The nearest neighbor distance in the diamond lattice is 1.732 a /4 where a is the lattice constant, usually given in Angstrøms as a = 3.567 Å, which is 0.3567 nm. A diamond cubic lattice can be thought of as two interpenetrating face-centered cubic lattices with one displaced by 1 ⁄ 4 of the diagonal along a cubic cell, or as one lattice with two atoms associated with each lattice point. [17] Viewed from a <1 1 1> crystallographic direction , it is formed of layers stacked in a repeating ABCABC ... pattern. Diamonds can also form an ABAB ... structure, which is known as hexagonal diamond or lonsdaleite , but this is far less common and is formed under different conditions from cubic carbon. [18]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Diamond_structure.gif/220px-Diamond_structure.gif",
+                "caption": "Diamond unit cell, showing the tetrahedral structure"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Crystal habit",
+        "text": "Diamonds occur most often as euhedral or rounded octahedra and twinned octahedra known as macles . As diamond's crystal structure has a cubic arrangement of the atoms, they have many facets that belong to a cube , octahedron, rhombicosidodecahedron , tetrakis hexahedron , or disdyakis dodecahedron . The crystals can have rounded-off and unexpressive edges and can be elongated. Diamonds (especially those with rounded crystal faces) are commonly found coated in nyf , an opaque gum-like skin. [19] Some diamonds contain opaque fibers. They are referred to as opaque if the fibers grow from a clear substrate or fibrous if they occupy the entire crystal. Their colors range from yellow to green or gray, sometimes with cloud-like white to gray impurities. Their most common shape is cuboidal, but they can also form octahedra, dodecahedra, macles, or combined shapes. The structure is the result of numerous impurities with sizes between 1 and 5 microns. These diamonds probably formed in kimberlite magma and sampled the volatiles. [20] Diamonds can also form polycrystalline aggregates. There have been attempts to classify them into groups with names such as boart , ballas , stewartite, and framesite, but there is no widely accepted set of criteria. [20] Carbonado, a type in which the diamond grains were sintered (fused without melting by the application of heat and pressure), is black in color and tougher than single crystal diamond. [21] It has never been observed in a volcanic rock. There are many theories for its origin, including formation in a star, but no consensus. [20] [22] [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Diamond_face_trigons_scale.jpg/220px-Diamond_face_trigons_scale.jpg",
+                "caption": "One face of an uncut octahedral diamond, showing trigons (of positive and negative relief) formed by natural chemical etching"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Hardness",
+        "text": "Diamond is the hardest material on the qualitative Mohs scale . To conduct the quantitative Vickers hardness test , samples of materials are struck with a pyramid of standardized dimensions using a known force - a diamond crystal is used for the pyramid to permit a wide range of materials to be tested. From the size of the resulting indentation, a Vickers hardness value for the material can be determined. Diamond's great hardness relative to other materials has been known since antiquity, and is the source of its name. This does not mean that it is infinitely hard, indestructible, or unscratchable. [24] Indeed, diamonds can be scratched by other diamonds [25] and worn down over time even by softer materials, such as vinyl phonograph records . [26] Diamond hardness depends on its purity, crystalline perfection, and orientation: hardness is higher for flawless, pure crystals oriented to the <111> direction (along the longest diagonal of the cubic diamond lattice). [27] Therefore, whereas it might be possible to scratch some diamonds with other materials, such as boron nitride , the hardest diamonds can only be scratched by other diamonds and nanocrystalline diamond aggregates . The hardness of diamond contributes to its suitability as a gemstone. Because it can only be scratched by other diamonds, it maintains its polish extremely well. Unlike many other gems, it is well-suited to daily wear because of its resistance to scratching—perhaps contributing to its popularity as the preferred gem in engagement or wedding rings , which are often worn every day. The hardest natural diamonds mostly originate from the Copeton and Bingara fields located in the New England area in New South Wales , Australia. These diamonds are generally small, perfect to semiperfect octahedra, and are used to polish other diamonds. Their hardness is associated with the crystal growth form, which is single-stage crystal growth. Most other diamonds show more evidence of multiple growth stages, which produce inclusions, flaws, and defect planes in the crystal lattice, all of which affect their hardness. It is possible to treat regular diamonds under a combination of high pressure and high temperature to produce diamonds that are harder than the diamonds used in hardness gauges. [28] Diamonds cut glass, but this does not positively identify a diamond because other materials, such as quartz, also lie above glass on the Mohs scale and can also cut it. Diamonds can scratch other diamonds, but this can result in damage to one or both stones. Hardness tests are infrequently used in practical gemology because of their potentially destructive nature. [29] The extreme hardness and high value of diamond means that gems are typically polished slowly, using painstaking traditional techniques and greater attention to detail than is the case with most other gemstones; [30] these tend to result in extremely flat, highly polished facets with exceptionally sharp facet edges. Diamonds also possess an extremely high refractive index and fairly high dispersion. Taken together, these factors affect the overall appearance of a polished diamond and most diamantaires still rely upon skilled use of a loupe (magnifying glass) to identify diamonds \"by eye\". [31]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Vickers_anvil_diamons.jpg/220px-Vickers_anvil_diamons.jpg",
+                "caption": "The extreme hardness of diamond in certain orientations makes it useful in materials science, as in this pyramidal diamond embedded in the working surface of a Vickers hardness tester ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Color",
+        "text": "Diamond has a wide band gap of 5.5 eV corresponding to the deep ultraviolet wavelength of 225 nanometers. This means that pure diamond should transmit visible light and appear as a clear colorless crystal. Colors in diamond originate from lattice defects and impurities. The diamond crystal lattice is exceptionally strong, and only atoms of nitrogen , boron , and hydrogen can be introduced into diamond during the growth at significant concentrations (up to atomic percents). Transition metals nickel and cobalt , which are commonly used for growth of synthetic diamond by high-pressure high-temperature techniques, have been detected in diamond as individual atoms; the maximum concentration is 0.01% for nickel [53] and even less for cobalt. Virtually any element can be introduced to diamond by ion implantation. [54] Nitrogen is by far the most common impurity found in gem diamonds and is responsible for the yellow and brown color in diamonds. Boron is responsible for the blue color. [55] Color in diamond has two additional sources: irradiation (usually by alpha particles), that causes the color in green diamonds, and plastic deformation of the diamond crystal lattice. Plastic deformation is the cause of color in some brown [56] and perhaps pink and red diamonds. [57] In order of increasing rarity, yellow diamond is followed by brown, colorless, then by blue, green, black, pink, orange, purple, and red. [34] \"Black\", or carbonado , diamonds are not truly black, but rather contain numerous dark inclusions that give the gems their dark appearance. Colored diamonds contain impurities or structural defects that cause the coloration, while pure or nearly pure diamonds are transparent and colorless. Most diamond impurities replace a carbon atom in the crystal lattice , known as a carbon flaw . The most common impurity, nitrogen, causes a slight to intense yellow coloration depending upon the type and concentration of nitrogen present. [34] The Gemological Institute of America (GIA) classifies low saturation yellow and brown diamonds as diamonds in the normal color range , and applies a grading scale from \"D\" (colorless) to \"Z\" (light yellow). Yellow diamonds of high color saturation or a different color, such as pink or blue, are called fancy colored diamonds and fall under a different grading scale. [34] In 2008, the Wittelsbach Diamond , a 35.56-carat (7.112 g) blue diamond once belonging to the King of Spain, fetched over US$24 million at a Christie's auction. [58] In May 2009, a 7.03-carat (1.406 g) blue diamond fetched the highest price per carat ever paid for a diamond when it was sold at auction for 10.5 million Swiss francs (6.97 million euros, or US$9.5 million at the time). [59] That record was, however, beaten the same year: a 5-carat (1.0 g) vivid pink diamond was sold for $10.8 million in Hong Kong on December 1, 2009. [60]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/National_Museum_of_Natural_History_Gold_Colored_Diamonds.JPG/300px-National_Museum_of_Natural_History_Gold_Colored_Diamonds.JPG",
+                "caption": "Brown diamonds at the National Museum of Natural History in Washington, D.C."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Hope_Diamond_-_SIA.jpg/300px-The_Hope_Diamond_-_SIA.jpg",
+                "caption": "The most famous colored diamond, the Hope Diamond"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Fluorescence",
+        "text": "Between 25% and 35% of natural diamonds exhibit some degree of fluorescence when examined under invisible long-wave ultraviolet light or higher energy radiation sources such as X-rays and lasers. [63] Incandescent lighting will not cause a diamond to fluoresce. Diamonds can fluoresce in a variety of colors including blue (most common), orange, yellow, white, green and very rarely red and purple. Although the causes are not well understood, variations in the atomic structure, such as the number of nitrogen atoms present are thought to contribute to the phenomenon.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rough_diamonds_-_necklace_in_UV_and_normal_light_B_-_composite.jpg/220px-Rough_diamonds_-_necklace_in_UV_and_normal_light_B_-_composite.jpg",
+                "caption": "Necklace of rough light brown diamonds under UV light (top) and normal light (bottom)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/India_bore_violet_fluorescence_2.jpg/220px-India_bore_violet_fluorescence_2.jpg",
+                "caption": "Extremely rare purple fluorescent diamonds from the Ellendale L-Channel deposit in Australia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Surface distribution",
+        "text": "Diamonds are far from evenly distributed over the Earth. A rule of thumb known as Clifford's rule states that they are almost always found in kimberlites on the oldest part of cratons , the stable cores of continents with typical ages of 2.5 billion years or more. [66] [71] : 314 However, there are exceptions. The Argyle diamond mine in Australia , the largest producer of diamonds by weight in the world, is located in a mobile belt , also known as an orogenic belt , [72] a weaker zone surrounding the central craton that has undergone compressional tectonics. Instead of kimberlite , the host rock is lamproite . Lamproites with diamonds that are not economically viable are also found in the United States, India, and Australia. [66] In addition, diamonds in the Wawa belt of the Superior province in Canada and microdiamonds in the island arc of Japan are found in a type of rock called lamprophyre . [66] Kimberlites can be found in narrow (1 to 4 meters) dikes and sills, and in pipes with diameters that range from about 75 m to 1.5 km. Fresh rock is dark bluish green to greenish gray, but after exposure rapidly turns brown and crumbles. [73] It is hybrid rock with a chaotic mixture of small minerals and rock fragments ( clasts ) up to the size of watermelons. They are a mixture of xenocrysts and xenoliths (minerals and rocks carried up from the lower crust and mantle), pieces of surface rock, altered minerals such as serpentine , and new minerals that crystallized during the eruption. The texture varies with depth. The composition forms a continuum with carbonatites , but the latter have too much oxygen for carbon to exist in a pure form. Instead, it is locked up in the mineral calcite ( Ca C O 3 ). [66] All three of the diamond-bearing rocks (kimberlite, lamproite and lamprophyre) lack certain minerals ( melilite and kalsilite ) that are incompatible with diamond formation. In kimberlite , olivine is large and conspicuous, while lamproite has Ti- phlogopite and lamprophyre has biotite and amphibole . They are all derived from magma types that erupt rapidly from small amounts of melt, are rich in volatiles and magnesium oxide , and are less oxidizing than more common mantle melts such as basalt . These characteristics allow the melts to carry diamonds to the surface before they dissolve. [66]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/World_geologic_provinces.jpg/220px-World_geologic_provinces.jpg",
+                "caption": "Geologic provinces of the world. The pink and orange areas are shields and platforms , which together constitute cratons."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Exploration",
+        "text": "Kimberlite pipes can be difficult to find. They weather quickly (within a few years after exposure) and tend to have lower topographic relief than surrounding rock. If they are visible in outcrops, the diamonds are never visible because they are so rare. In any case, kimberlites are often covered with vegetation, sediments, soils, or lakes. In modern searches, geophysical methods such as aeromagnetic surveys , electrical resistivity , and gravimetry , help identify promising regions to explore. This is aided by isotopic dating and modeling of the geological history. Then surveyors must go to the area and collect samples, looking for kimberlite fragments or indicator minerals . The latter have compositions that reflect the conditions where diamonds form, such as extreme melt depletion or high pressures in eclogites . However, indicator minerals can be misleading; a better approach is geothermobarometry , where the compositions of minerals are analyzed as if they were in equilibrium with mantle minerals. [66] Finding kimberlites requires persistence, and only a small fraction contain diamonds that are commercially viable. The only major discoveries since about 1980 have been in Canada. Since existing mines have lifetimes of as little as 25 years, there could be a shortage of new diamonds in the future. [66]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Diavik_Mine.tif/lossy-page1-170px-Diavik_Mine.tif.jpg",
+                "caption": "Diavik Mine, on an island in Lac de Gras in northern Canada"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Origin in mantle",
+        "text": "Most gem-quality diamonds come from depths of 150–250 km in the lithosphere . Such depths occur below cratons in mantle keels , the thickest part of the lithosphere. These regions have high enough pressure and temperature to allow diamonds to form and they are not convecting, so diamonds can be stored for billions of years until a kimberlite eruption samples them. [66] Host rocks in a mantle keel include harzburgite and lherzolite , two type of peridotite . The most dominant rock type in the upper mantle , peridotite is an igneous rock consisting mostly of the minerals olivine and pyroxene ; it is low in silica and high in magnesium . However, diamonds in peridotite rarely survive the trip to the surface. [66] Another common source that does keep diamonds intact is eclogite , a metamorphic rock that typically forms from basalt as an oceanic plate plunges into the mantle at a subduction zone . [20] A smaller fraction of diamonds (about 150 have been studied) come from depths of 330–660 km, a region that includes the transition zone . They formed in eclogite but are distinguished from diamonds of shallower origin by inclusions of majorite (a form of garnet with excess silicon). A similar proportion of diamonds comes from the lower mantle at depths between 660 and 800 km. [20] Diamond is thermodynamically stable at high pressures and temperatures, with the phase transition from graphite occurring at greater temperatures as the pressure increases. Thus, underneath continents it becomes stable at temperatures of 950 degrees Celsius and pressures of 4.5 gigapascals, corresponding to depths of 150 kilometers or greater. In subduction zones, which are colder, it becomes stable at temperatures of 800 °C and pressures of 3.5 gigapascals. At depths greater than 240 km, iron–nickel metal phases are present and carbon is likely to be either dissolved in them or in the form of carbides . Thus, the deeper origin of some diamonds may reflect unusual growth environments. [20] [66] In 2018 the first known natural samples of a phase of ice called Ice VII were found as inclusions in diamond samples. The inclusions formed at depths between 400 and 800 km, straddling the upper and lower mantle, and provide evidence for water-rich fluid at these depths. [75] [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Eclogite%2C_d%C3%A9tail_de_la_roche.jpg/220px-Eclogite%2C_d%C3%A9tail_de_la_roche.jpg",
+                "caption": "Eclogite with centimeter-size garnet crystals"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Garnet_inclusion_in_diamond.jpg/220px-Garnet_inclusion_in_diamond.jpg",
+                "caption": "Red garnet inclusion in a diamond [74]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Formation and growth",
+        "text": "Diamonds in the mantle form through a metasomatic process where a C–O–H–N–S fluid or melt dissolves minerals in a rock and replaces them with new minerals. (The vague term C–O–H–N–S is commonly used because the exact composition is not known.) Diamonds form from this fluid either by reduction of oxidized carbon (e.g., CO 2 or CO 3 ) or oxidation of a reduced phase such as methane . [20] Using probes such as polarized light, photoluminescence , and cathodoluminescence , a series of growth zones can be identified in diamonds. The characteristic pattern in diamonds from the lithosphere involves a nearly concentric series of zones with very thin oscillations in luminescence and alternating episodes where the carbon is resorbed by the fluid and then grown again. Diamonds from below the lithosphere have a more irregular, almost polycrystalline texture, reflecting the higher temperatures and pressures as well as the transport of the diamonds by convection. [66]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Diamond_age_zones.jpg/220px-Diamond_age_zones.jpg",
+                "caption": "Age zones in a diamond. [74]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Transport to the surface",
+        "text": "Geological evidence supports a model in which kimberlite magma rises at 4–20 meters per second, creating an upward path by hydraulic fracturing of the rock. As the pressure decreases, a vapor phase exsolves from the magma, and this helps to keep the magma fluid. At the surface, the initial eruption explodes out through fissures at high speeds (over 200 m/s (450 mph)). Then, at lower pressures, the rock is eroded, forming a pipe and producing fragmented rock ( breccia ). As the eruption wanes, there is pyroclastic phase and then metamorphism and hydration produces serpentinites . [66]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/VolcanicPipe.jpg/260px-VolcanicPipe.jpg",
+                "caption": "Diagram of a volcanic pipe"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Double diamonds",
+        "text": "In rare cases, diamonds have been found that contain a cavity within which is a second diamond. The first double diamond, the Matryoshka , was found by Alrosa in Yakutia , Russia, in 2019. [78] Another one was found in the Ellendale Diamond Field in Western Australia in 2021. [79]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Worlds_second_Matryoshka_diamond_discovered_in_Australia.png/220px-Worlds_second_Matryoshka_diamond_discovered_in_Australia.png",
+                "caption": "Double diamond discovered in the Ellendale Diamond Field, Western Australia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Industry",
+        "text": "The most familiar uses of diamonds today are as gemstones used for adornment , and as industrial abrasives for cutting hard materials. The markets for gem-grade and industrial-grade diamonds value diamonds differently.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Diamond.jpg",
+                "caption": "A round brilliant cut diamond set in a ring"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Gem-grade diamonds",
+        "text": "The dispersion of white light into spectral colors is the primary gemological characteristic of gem diamonds. In the 20th century, experts in gemology developed methods of grading diamonds and other gemstones based on the characteristics most important to their value as a gem. Four characteristics, known informally as the four Cs , are now commonly used as the basic descriptors of diamonds: these are its mass in carats (a carat being equal to 0.2 grams), cut (quality of the cut is graded according to proportions , symmetry and polish ), color (how close to white or colorless; for fancy diamonds how intense is its hue), and clarity (how free is it from inclusions ). A large, flawless diamond is known as a paragon . [88] A large trade in gem-grade diamonds exists. Although most gem-grade diamonds are sold newly polished, there is a well-established market for resale of polished diamonds (e.g. pawnbroking, auctions, second-hand jewelry stores, diamantaires, bourses, etc.). One hallmark of the trade in gem-quality diamonds is its remarkable concentration: wholesale trade and diamond cutting is limited to just a few locations; in 2003, 92% of the world's diamonds were cut and polished in Surat , India . [89] Other important centers of diamond cutting and trading are the Antwerp diamond district in Belgium , where the International Gemological Institute is based, London , the Diamond District in New York City , the Diamond Exchange District in Tel Aviv and Amsterdam . One contributory factor is the geological nature of diamond deposits: several large primary kimberlite-pipe mines each account for significant portions of market share (such as the Jwaneng mine in Botswana, which is a single large-pit mine that can produce between 12,500,000 and 15,000,000 carats (2,500 and 3,000 kg) of diamonds per year [90] ). Secondary alluvial diamond deposits, on the other hand, tend to be fragmented amongst many different operators because they can be dispersed over many hundreds of square kilometers (e.g., alluvial deposits in Brazil). [ citation needed ] The production and distribution of diamonds is largely consolidated in the hands of a few key players, and concentrated in traditional diamond trading centers, the most important being Antwerp, where 80% of all rough diamonds , 50% of all cut diamonds and more than 50% of all rough, cut and industrial diamonds combined are handled. [91] This makes Antwerp a de facto \"world diamond capital\". [92] The city of Antwerp also hosts the Antwerpsche Diamantkring , created in 1929 to become the first and biggest diamond bourse dedicated to rough diamonds. [93] Another important diamond center is New York City, where almost 80% of the world's diamonds are sold, including auction sales. [91] The De Beers company, as the world's largest diamond mining company, holds a dominant position in the industry, and has done so since soon after its founding in 1888 by the British businessman Cecil Rhodes . De Beers is currently the world's largest operator of diamond production facilities (mines) and distribution channels for gem-quality diamonds. The Diamond Trading Company (DTC) is a subsidiary of De Beers and markets rough diamonds from De Beers-operated mines. De Beers and its subsidiaries own mines that produce some 40% of annual world diamond production. For most of the 20th century over 80% of the world's rough diamonds passed through De Beers, [94] but by 2001–2009 the figure had decreased to around 45%, [95] and by 2013 the company's market share had further decreased to around 38% in value terms and even less by volume. [96] De Beers sold off the vast majority of its diamond stockpile in the late 1990s – early 2000s [97] and the remainder largely represents working stock (diamonds that are being sorted before sale). [98] This was well documented in the press [99] but remains little known to the general public. As a part of reducing its influence, De Beers withdrew from purchasing diamonds on the open market in 1999 and ceased, at the end of 2008, purchasing Russian diamonds mined by the largest Russian diamond company Alrosa . [100] As of January 2011, De Beers states that it only sells diamonds from the following four countries: Botswana, Namibia, South Africa and Canada. [101] Alrosa had to suspend their sales in October 2008 due to the global energy crisis , [ citation needed ] but the company reported that it had resumed selling rough diamonds on the open market by October 2009. [102] Apart from Alrosa, other important diamond mining companies include BHP , which is the world's largest mining company; [103] Rio Tinto , the owner of the Argyle (100%), Diavik (60%), and Murowa (78%) diamond mines; [104] and Petra Diamonds , the owner of several major diamond mines in Africa. Further down the supply chain, members of The World Federation of Diamond Bourses (WFDB) act as a medium for wholesale diamond exchange, trading both polished and rough diamonds. The WFDB consists of independent diamond bourses in major cutting centers such as Tel Aviv, Antwerp, Johannesburg and other cities across the US, Europe and Asia. [34] In 2000, the WFDB and The International Diamond Manufacturers Association established the World Diamond Council to prevent the trading of diamonds used to fund war and inhumane acts. WFDB's additional activities include sponsoring the World Diamond Congress every two years, as well as the establishment of the International Diamond Council (IDC) to oversee diamond grading. [105] Once purchased by Sightholders (which is a trademark term referring to the companies that have a three-year supply contract with DTC), diamonds are cut and polished in preparation for sale as gemstones ('industrial' stones are regarded as a by-product of the gemstone market; they are used for abrasives). [106] The cutting and polishing of rough diamonds is a specialized skill that is concentrated in a limited number of locations worldwide. [106] Traditional diamond cutting centers are Antwerp, Amsterdam , Johannesburg, New York City, and Tel Aviv. Recently, diamond cutting centers have been established in China, India, Thailand , Namibia and Botswana. [106] Cutting centers with lower cost of labor, notably Surat in Gujarat, India , handle a larger number of smaller carat diamonds, while smaller quantities of larger or more valuable diamonds are more likely to be handled in Europe or North America. The recent expansion of this industry in India, employing low cost labor, has allowed smaller diamonds to be prepared as gems in greater quantities than was previously economically feasible. [91] Diamonds prepared as gemstones are sold on diamond exchanges called bourses . There are 28 registered diamond bourses in the world. [107] Bourses are the final tightly controlled step in the diamond supply chain; wholesalers and even retailers are able to buy relatively small lots of diamonds at the bourses, after which they are prepared for final sale to the consumer. Diamonds can be sold already set in jewelry, or sold unset (\"loose\"). According to the Rio Tinto, in 2002 the diamonds produced and released to the market were valued at US$9 billion as rough diamonds, US$14 billion after being cut and polished, US$28 billion in wholesale diamond jewelry, and US$57 billion in retail sales. [108]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Diamond_Polisher.jpg/220px-Diamond_Polisher.jpg",
+                "caption": "Diamond polisher in Amsterdam"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Cutting",
+        "text": "Mined rough diamonds are converted into gems through a multi-step process called \"cutting\". Diamonds are extremely hard, but also brittle and can be split up by a single blow. Therefore, diamond cutting is traditionally considered as a delicate procedure requiring skills, scientific knowledge, tools and experience. Its final goal is to produce a faceted jewel where the specific angles between the facets would optimize the diamond luster, that is dispersion of white light, whereas the number and area of facets would determine the weight of the final product. The weight reduction upon cutting is significant and can be of the order of 50%. [109] Several possible shapes are considered, but the final decision is often determined not only by scientific, but also practical considerations. For example, the diamond might be intended for display or for wear, in a ring or a necklace, singled or surrounded by other gems of certain color and shape. [110] Some of them may be considered as classical, such as round , pear , marquise , oval , hearts and arrows diamonds, etc. Some of them are special, produced by certain companies, for example, Phoenix , Cushion , Sole Mio diamonds, etc. [111] The most time-consuming part of the cutting is the preliminary analysis of the rough stone. It needs to address a large number of issues, bears much responsibility, and therefore can last years in case of unique diamonds. The following issues are considered: After initial cutting, the diamond is shaped in numerous stages of polishing. Unlike cutting, which is a responsible but quick operation, polishing removes material by gradual erosion and is extremely time-consuming. The associated technique is well developed; it is considered as a routine and can be performed by technicians. [113] After polishing, the diamond is reexamined for possible flaws, either remaining or induced by the process. Those flaws are concealed through various diamond enhancement techniques, such as repolishing, crack filling, or clever arrangement of the stone in the jewelry. Remaining non-diamond inclusions are removed through laser drilling and filling of the voids produced. [29]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/The_Daria-e_Noor_%28Sea_of_Light%29_Diamond_from_the_collection_of_the_national_jewels_of_Iran_at_Central_Bank_of_Islamic_Republic_of_Iran.jpg/220px-The_Daria-e_Noor_%28Sea_of_Light%29_Diamond_from_the_collection_of_the_national_jewels_of_Iran_at_Central_Bank_of_Islamic_Republic_of_Iran.jpg",
+                "caption": "The Daria-i-Noor Diamond—an example of unusual diamond cut and jewelry arrangement."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Marketing",
+        "text": "Marketing has significantly affected the image of diamond as a valuable commodity. N. W. Ayer & Son , the advertising firm retained by De Beers in the mid-20th century, succeeded in reviving the American diamond market and the firm created new markets in countries where no diamond tradition had existed before. N. W. Ayer's marketing included product placement , advertising focused on the diamond product itself rather than the De Beers brand, and associations with celebrities and royalty. Without advertising the De Beers brand, De Beers was advertising its competitors' diamond products as well, [114] but this was not a concern as De Beers dominated the diamond market throughout the 20th century. De Beers' market share dipped temporarily to second place in the global market below Alrosa in the aftermath of the global economic crisis of 2008, down to less than 29% in terms of carats mined, rather than sold. [115] The campaign lasted for decades but was effectively discontinued by early 2011. De Beers still advertises diamonds, but the advertising now mostly promotes its own brands, or licensed product lines, rather than completely \"generic\" diamond products. [115] The campaign was perhaps best captured by the slogan \" a diamond is forever \". [116] This slogan is now being used by De Beers Diamond Jewelers, [117] a jewelry firm which is a 50/50% joint venture between the De Beers mining company and LVMH , the luxury goods conglomerate. Brown-colored diamonds constituted a significant part of the diamond production, and were predominantly used for industrial purposes. They were seen as worthless for jewelry (not even being assessed on the diamond color scale). After the development of Argyle diamond mine in Australia in 1986, and marketing, brown diamonds have become acceptable gems. [118] [119] The change was mostly due to the numbers: the Argyle mine, with its 35,000,000 carats (7,000 kg) of diamonds per year, makes about one-third of global production of natural diamonds; [120] 80% of Argyle diamonds are brown. [121]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Diamond_Balance_Scale_0.01_-_25_Carats_Jewelers_Measuring_Tool.jpg/220px-Diamond_Balance_Scale_0.01_-_25_Carats_Jewelers_Measuring_Tool.jpg",
+                "caption": "Diamond balance scale 0.01–25 carat jeweler's measuring tool"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Industrial-grade diamonds",
+        "text": "Industrial diamonds are valued mostly for their hardness and thermal conductivity, making many of the gemological characteristics of diamonds, such as the 4 Cs , irrelevant for most applications. Eighty percent of mined diamonds (equal to about 135,000,000 carats (27,000 kg) annually) are unsuitable for use as gemstones and are used industrially. [122] In addition to mined diamonds, synthetic diamonds found industrial applications almost immediately after their invention in the 1950s; in 2014, 4,500,000,000 carats (900,000 kg) of synthetic diamonds were produced, 90% of which were produced in China. Approximately 90% of diamond grinding grit is currently of synthetic origin. [123] The boundary between gem-quality diamonds and industrial diamonds is poorly defined and partly depends on market conditions (for example, if demand for polished diamonds is high, some lower-grade stones will be polished into low-quality or small gemstones rather than being sold for industrial use). Within the category of industrial diamonds, there is a sub-category comprising the lowest-quality, mostly opaque stones, which are known as bort . [124] Industrial use of diamonds has historically been associated with their hardness, which makes diamond the ideal material for cutting and grinding tools. As the hardest known naturally occurring material, diamond can be used to polish, cut, or wear away any material, including other diamonds. Common industrial applications of this property include diamond-tipped drill bits and saws, and the use of diamond powder as an abrasive . Less expensive industrial-grade diamonds (bort) with more flaws and poorer color than gems, are used for such purposes. [125] Diamond is not suitable for machining ferrous alloys at high speeds, as carbon is soluble in iron at the high temperatures created by high-speed machining, leading to greatly increased wear on diamond tools compared to alternatives. [126] Specialized applications include use in laboratories as containment for high-pressure experiments (see diamond anvil cell ), high-performance bearings , and limited use in specialized windows . [124] With the continuing advances being made in the production of synthetic diamonds, future applications are becoming feasible. The high thermal conductivity of diamond makes it suitable as a heat sink for integrated circuits in electronics . [127]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dia_scalpel.jpg/220px-Dia_scalpel.jpg",
+                "caption": "A scalpel with synthetic diamond blade"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Diamond_blade_very_macro.jpg/220px-Diamond_blade_very_macro.jpg",
+                "caption": "Close-up photograph of an angle grinder blade with tiny diamonds shown embedded in the metal"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Diamond_Knife_Blade_Edge.jpg/220px-Diamond_Knife_Blade_Edge.jpg",
+                "caption": "A diamond knife blade used for cutting ultrathin sections (typically 70 to 350 nm) for transmission electron microscopy"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Mining",
+        "text": "Approximately 130,000,000 carats (26,000 kg) of diamonds are mined annually, with a total value of nearly US$9 billion, and about 100,000 kg (220,000 lb) are synthesized annually. [128] Roughly 49% of diamonds originate from Central and Southern Africa , although significant sources of the mineral have been discovered in Canada , India , Russia , Brazil , and Australia . [123] They are mined from kimberlite and lamproite volcanic pipes, which can bring diamond crystals, originating from deep within the Earth where high pressures and temperatures enable them to form, to the surface. The mining and distribution of natural diamonds are subjects of frequent controversy such as concerns over the sale of blood diamonds or conflict diamonds by African paramilitary groups. [129] The diamond supply chain is controlled by a limited number of powerful businesses, and is also highly concentrated in a small number of locations around the world. Only a very small fraction of the diamond ore consists of actual diamonds. The ore is crushed, during which care is required not to destroy larger diamonds, and then sorted by density. Today, diamonds are located in the diamond-rich density fraction with the help of X-ray fluorescence , after which the final sorting steps are done by hand. Before the use of X-rays became commonplace, [109] the separation was done with grease belts; diamonds have a stronger tendency to stick to grease than the other minerals in the ore. [34] Historically, diamonds were found only in alluvial deposits in Guntur and Krishna district of the Krishna River delta in Southern India . [130] India led the world in diamond production from the time of their discovery in approximately the 9th century BC [131] [132] to the mid-18th century AD, but the commercial potential of these sources had been exhausted by the late 18th century and at that time India was eclipsed by Brazil where the first non-Indian diamonds were found in 1725. [131] Currently, one of the most prominent Indian mines is located at Panna . [133] Diamond extraction from primary deposits (kimberlites and lamproites) started in the 1870s after the discovery of the Diamond Fields in South Africa. [134] Production has increased over time and now an accumulated total of 4,500,000,000 carats (900,000 kg) have been mined since that date. [135] Twenty percent of that amount has been mined in the last five years, and during the last 10 years, nine new mines have started production; four more are waiting to be opened soon. Most of these mines are located in Canada, Zimbabwe, Angola, and one in Russia. [135] In the U.S., diamonds have been found in Arkansas , Colorado , New Mexico , Wyoming, and Montana . [136] [137] In 2004, the discovery of a microscopic diamond in the U.S. led to the January 2008 bulk-sampling of kimberlite pipes in a remote part of Montana. The Crater of Diamonds State Park in Arkansas is open to the public, and is the only mine in the world where members of the public can dig for diamonds. [137] Today, most commercially viable diamond deposits are in Russia (mostly in Sakha Republic , for example Mir pipe and Udachnaya pipe ), Botswana , Australia ( Northern and Western Australia ) and the Democratic Republic of the Congo . [138] In 2005, Russia produced almost one-fifth of the global diamond output, according to the British Geological Survey . Australia boasts the richest diamantiferous pipe, with production from the Argyle diamond mine reaching peak levels of 42 metric tons per year in the 1990s. [136] [139] There are also commercial deposits being actively mined in the Northwest Territories of Canada and Brazil. [123] Diamond prospectors continue to search the globe for diamond-bearing kimberlite and lamproite pipes.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Udachnaya_pipe.JPG/220px-Udachnaya_pipe.JPG",
+                "caption": "Siberia 's Udachnaya diamond mine"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Diamond_4.jpg/220px-Diamond_4.jpg",
+                "caption": "The slightly misshapen octahedral shape of this rough diamond crystal in matrix is typical of the mineral. Its lustrous faces also indicate that this crystal is from a primary deposit"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Simulants",
+        "text": "A diamond simulant is a non-diamond material that is used to simulate the appearance of a diamond, and may be referred to as diamante. Cubic zirconia is the most common. The gemstone moissanite (silicon carbide) can be treated as a diamond simulant, though more costly to produce than cubic zirconia. Both are produced synthetically. [151]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Moissanite_ring.JPG/220px-Moissanite_ring.JPG",
+                "caption": "Gem-cut synthetic silicon carbide set in a ring"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Identification",
+        "text": "Early diamond identification tests included a scratch test relying on the superior hardness of diamond. This test is destructive, as a diamond can scratch another diamond, and is rarely used nowadays. Instead, diamond identification relies on its superior thermal conductivity. Electronic thermal probes are widely used in the gemological centers to separate diamonds from their imitations. These probes consist of a pair of battery-powered thermistors mounted in a fine copper tip. One thermistor functions as a heating device while the other measures the temperature of the copper tip: if the stone being tested is a diamond, it will conduct the tip's thermal energy rapidly enough to produce a measurable temperature drop. This test takes about two to three seconds. [154] Whereas the thermal probe can separate diamonds from most of their simulants, distinguishing between various types of diamond, for example synthetic or natural, irradiated or non-irradiated, etc., requires more advanced, optical techniques. Those techniques are also used for some diamonds simulants, such as silicon carbide, which pass the thermal conductivity test. Optical techniques can distinguish between natural diamonds and synthetic diamonds. They can also identify the vast majority of treated natural diamonds. [155] \"Perfect\" crystals (at the atomic lattice level) have never been found, so both natural and synthetic diamonds always possess characteristic imperfections, arising from the circumstances of their crystal growth, that allow them to be distinguished from each other. [156] Laboratories use techniques such as spectroscopy, microscopy, and luminescence under shortwave ultraviolet light to determine a diamond's origin. [155] They also use specially made instruments to aid them in the identification process. Two screening instruments are the DiamondSure and the DiamondView , both produced by the DTC and marketed by the GIA. [157] Several methods for identifying synthetic diamonds can be performed, depending on the method of production and the color of the diamond. CVD diamonds can usually be identified by an orange fluorescence. D–J colored diamonds can be screened through the Swiss Gemmological Institute 's [158] Diamond Spotter. Stones in the D–Z color range can be examined through the DiamondSure UV/visible spectrometer, a tool developed by De Beers. [156] Similarly, natural diamonds usually have minor imperfections and flaws, such as inclusions of foreign material, that are not seen in synthetic diamonds. Screening devices based on diamond type detection can be used to make a distinction between diamonds that are certainly natural and diamonds that are potentially synthetic. Those potentially synthetic diamonds require more investigation in a specialized lab. Examples of commercial screening devices are D-Screen (WTOCD / HRD Antwerp), Alpha Diamond Analyzer (Bruker / HRD Antwerp), and D-Secure (DRC Techno).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Diamond_%28side_view%29.png/220px-Diamond_%28side_view%29.png",
+                "caption": "Cathodoluminescence image of a diamond, taken in a scanning electron microscope"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Diamond",
+        "title": "Diamond",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Lithologies",
+        "text": "The Isua Greenstone Belt comprises many different lithologies. The most abundant rock types are mafic metavolcanic rocks with a range of compositions from boninite -like to tholeiites and picrites . Though boninitic amphibolites at Isua are often interpreted as evidence for the action of plate tectonics, [20] these are not true boninites [12] and non-plate tectonic models can also account for their formation. [11] Texturally, the mafic metavolcanics include pillow lavas and pillow breccias , which indicate that the lavas erupted subaqueously, and requires the presence of surface water during the Eoarchaean. More felsic volcanic compositions have been observed, but it is not clear whether these represent volcanic or sedimentary rocks, [3] and the only examples of potential andesite are significantly weathered. [21] The mafic volcanic sequences contain abundant meta-ultramafic rocks, including amphibolites, serpentinites, carbonated- peridotites and peridotite. [22] The majority of these are widely accepted to be intrusive in origin, representing ultramafic cumulates. [22] Some peridotite lenses have been interpreted as obducted mantle fragments, [23] and used as evidence to support the operation of plate tectonics during the formation of the Isua Greenstone Belt. However, this interpretation is contested, and some studies suggest that all peridotites at Isua are cumulates, representing shallow level magma chambers and conduits with the volcanic sequences. [24] Metasedimentary rocks include banded iron formation and detrital quartzite , likely representing a metamorphosed siliciclastic sedimentary rock. [3] [25] Although they do not form part of the supracrustal belt itself, the belt is hosted in and in places intruded by tonalite-trondhjemite-granodiorite (TTG) orthogneisses .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Li_2.jpg/383px-Li_2.jpg",
+                "caption": "Map showing the location of the Isua Greenstone Belt (ISB, top right) within the Itsaq Gneiss Complex. Also shown are the younger Akia Terrane to the northwest, and Tasiusasuaq Terrane to the south. Modified from Nutman et al., 2007 and Naerra et al., 2012. [2] [19]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Timeline_pic.jpg/400px-Timeline_pic.jpg",
+                "caption": "Cartoon of the age of various rock types formed during the evolution of the Isua Greenstone Belt. Note that the y-axis does not have a scale and vertical placement of the different lithologies has no significance. [2]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Isua_Greenstone_Belt",
+        "title": "Isua Greenstone Belt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Properties",
+        "text": "Garnet species are found in every colour, with reddish shades most common. Blue garnets are the rarest and were first reported in the 1990s. [7] [8] [9] [10] Garnet species' light transmission properties can range from the gemstone-quality transparent specimens to the opaque varieties used for industrial purposes as abrasives. The mineral's lustre is categorized as vitreous (glass-like) or resinous (amber-like). [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Garnet.JPG/220px-Garnet.JPG",
+                "caption": "A sample showing the deep red color garnet can exhibit."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Garnet",
+        "title": "Garnet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Almandine",
+        "text": "Almandine, sometimes incorrectly called almandite, is the modern gem known as carbuncle (though originally almost any red gemstone was known by this name). [16] The term \"carbuncle\" is derived from the Latin meaning \"live coal\" or burning charcoal. The name Almandine is a corruption of Alabanda , a region in Asia Minor where these stones were cut in ancient times.  Chemically, almandine is an iron-aluminium garnet with the formula Fe 3 Al 2 (SiO 4 ) 3 ; the deep red transparent stones are often called precious garnet and are used as gemstones (being the most common of the gem garnets). [17] Almandine occurs in metamorphic rocks like mica schists , associated with minerals such as staurolite , kyanite , andalusite , and others. [18] Almandine has nicknames of Oriental garnet, [19] almandine ruby, and carbuncle. [16]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Almandine.jpeg/220px-Almandine.jpeg",
+                "caption": "Almandine in metamorphic rock"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Garnet",
+        "title": "Garnet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Spessartine",
+        "text": "Spessartine or spessartite is manganese aluminium garnet, Mn 3 Al 2 (SiO 4 ) 3 . Its name is derived from Spessart in Bavaria . [3] It occurs most often in skarns , [3] granite pegmatite and allied rock types, [23] and in certain low grade metamorphic phyllites . Spessartine of an orange -yellow is found in Madagascar. [24] Violet-red spessartines are found in rhyolites in Colorado [21] and Maine . [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Espessartita.jpeg/220px-Espessartita.jpeg",
+                "caption": "Spessartine (the reddish mineral)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Garnet",
+        "title": "Garnet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Grossular",
+        "text": "Grossular is a calcium-aluminium garnet with the formula Ca 3 Al 2 (SiO 4 ) 3 , though the calcium may in part be replaced by ferrous iron and the aluminium by ferric iron. The name grossular is derived from the botanical name for the gooseberry , grossularia , in reference to the green garnet of this composition that is found in Siberia . Other shades include cinnamon brown (cinnamon stone variety), red, and yellow. [3] Because of its inferior hardness to zircon , which the yellow crystals resemble, they have also been called hessonite from the Greek meaning inferior. [32] Grossular is found in skarns, [3] contact metamorphosed limestones with vesuvianite , diopside , wollastonite and wernerite . Grossular garnet from Kenya and Tanzania has been called tsavorite. Tsavorite was first described in the 1960s in the Tsavo area of Kenya, from which the gem takes its name. [33] [34]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Grossular_garnet_from_Quebec%2C_collected_by_Dr_John_Hunter_in_the_18th_century%2C_Hunterian_Museum%2C_Glasgow.jpg/220px-Grossular_garnet_from_Quebec%2C_collected_by_Dr_John_Hunter_in_the_18th_century%2C_Hunterian_Museum%2C_Glasgow.jpg",
+                "caption": "Grossular garnet from Quebec, collected by Dr John Hunter in the 18th century, Hunterian Museum, Glasgow"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/GrossularShades.jpg/220px-GrossularShades.jpg",
+                "caption": "Grossular garnets on display at the U.S. National Museum of Natural History . The green gem at right is a type of grossular known as tsavorite ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Garnet",
+        "title": "Garnet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    },
+    {
+        "section": "Geological importance",
+        "text": "The mineral garnet is commonly found in metamorphic and to a lesser extent, igneous rocks. Most natural garnets are compositionally zoned and contain inclusions. [45] Its crystal lattice structure is stable at high pressures and temperatures and is thus found in green-schist facies metamorphic rocks including gneiss , hornblende schist , and mica schist. [46] The composition that is stable at the pressure and temperature conditions of Earth's mantle is pyrope, which is often found in peridotites and kimberlites , as well as the serpentines that form from them. [46] Garnets are unique in that they can record the pressures and temperatures of peak metamorphism and are used as geobarometers and geothermometers in the study of geothermobarometry which determines \"P-T Paths\", Pressure-Temperature Paths. Garnets are used as an index mineral in the delineation of isograds in metamorphic rocks. [46] Compositional zoning and inclusions can mark the change from growth of the crystals at low temperatures to higher temperatures. [47] Garnets that are not compositionally zoned more than likely experienced ultra high temperatures (above 700 °C) that led to diffusion of major elements within the crystal lattice, effectively homogenizing the crystal [47] or they were never zoned. Garnets can also form metamorphic textures that can help interpret structural histories. [47] In addition to being used to devolve conditions of metamorphism, garnets can be used to date certain geologic events. Garnet has been developed as a U-Pb geochronometer , to date the age of crystallization [48] as well as a thermochronometer in the (U-Th)/He system [49] to date timing of cooling below a closure temperature . Garnets can be chemically altered and most often alter to serpentine, talc , and chlorite . [46]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Grenat.jpg/330px-Grenat.jpg",
+                "caption": "Main garnet producing countries"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Garnet_var._Spessartine%2C_Putian_City%2C_Putian_Prefecture%2C_Fujian_Province%2C_China.jpg/220px-Garnet_var._Spessartine%2C_Putian_City%2C_Putian_Prefecture%2C_Fujian_Province%2C_China.jpg",
+                "caption": "Garnet var. Spessartine, Putian City, Putian Prefecture, Fujian Province, China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Garnet",
+        "title": "Garnet",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Phase Diagrams and Geothermobarometry"
+    }
+]

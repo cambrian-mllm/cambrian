@@ -1,0 +1,890 @@
+[
+    {
+        "section": "Theory and construction",
+        "text": "Photovoltaic modules consist of a large number of solar cells and use light energy ( photons ) from the Sun to generate electricity through the photovoltaic effect . Most modules use wafer -based crystalline silicon cells or thin-film cells . The structural ( load carrying ) member of a module can be either the top layer or the back layer. Cells must be protected from mechanical damage and moisture. Most modules are rigid, but semi-flexible ones based on thin-film cells are also available. The cells are usually connected electrically in series , one to another to the desired voltage, and then in parallel to increase current. The power (in watts ) of the module is the voltage (in volts ) multiplied by the current (in amperes ), and depends both on the amount of light and on the electrical load connected to the module. The manufacturing specifications on solar panels are obtained under standard conditions, which are usually not the true operating conditions the solar panels are exposed to on the installation site. [10] A PV junction box is attached to the back of the solar panel and functions as its output interface. External connections for most photovoltaic modules use MC4 connectors to facilitate easy weatherproof connections to the rest of the system. A USB power interface can also be used. [11] Solar panels also use metal frames consisting of racking components, brackets, reflector shapes, and troughs to better support the panel structure. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/From_a_solar_cell_to_a_PV_system.svg/280px-From_a_solar_cell_to_a_PV_system.svg.png",
+                "caption": "From a solar cell to a PV system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Smart solar modules",
+        "text": "Smart modules are different from traditional solar panels because the power electronics embedded in the module offers enhanced functionality such as panel-level maximum power point tracking , monitoring, and enhanced safety. [ citation needed ] Power electronics attached to the frame of a solar module, or connected to the photovoltaic circuit through a connector, are not properly considered smart modules. [14] Several companies have begun incorporating into each PV module various embedded power electronics such as:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Smart_Module.png/220px-Smart_Module.png",
+                "caption": "Smart module"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Technology",
+        "text": "Most solar modules are currently produced from crystalline silicon (c-Si) solar cells made of polycrystalline or monocrystalline silicon . In 2021, crystalline silicon accounted for 95% of worldwide PV production, [16] while the rest of the overall market is made up of thin-film technologies using cadmium telluride (CdTe), copper indium gallium selenide (CIGS) and amorphous silicon (a-Si) . [17] Emerging, third-generation solar technologies use advanced thin-film cells. They produce a relatively high-efficiency conversion for a lower cost compared with other solar technologies. Also, high-cost, high-efficiency, and close-packed rectangular multi-junction (MJ) cells are usually used in solar panels on spacecraft , as they offer the highest ratio of generated power per kilogram lifted into space. MJ-cells are compound semiconductors and made of gallium arsenide (GaAs) and other semiconductor materials. Another emerging PV technology using MJ-cells is concentrator photovoltaics (CPV).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Global_photovoltaics_market_share_by_technology_1980-2021.svg/280px-Global_photovoltaics_market_share_by_technology_1980-2021.svg.png",
+                "caption": "Market-share of PV technologies since 1980"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Ground",
+        "text": "Large utility-scale solar power plants frequently use ground-mounted photovoltaic systems. Their solar modules are held in place by racks or frames that are attached to ground-based mounting supports. [21] [22] Ground based mounting supports include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Solar_array-3.jpg/150px-Solar_array-3.jpg",
+                "caption": "Solar array ground mounting"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Vertical bifacial solar array",
+        "text": "Vertical bifacial solar cells oriented towards east and west to catch the sun's irradiance more efficiently in the morning and evening. Applications include agrivoltaics , solar fencing, highway and railroad noise dampeners and barricades . [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Agrivoltaic_installation_Foulum.jpg/220px-Agrivoltaic_installation_Foulum.jpg",
+                "caption": "Agrivoltaic vertical bifacial solar panels"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vertical_Bifacial_vs_South_facing_solar_array.webp/220px-Vertical_Bifacial_vs_South_facing_solar_array.webp.png",
+                "caption": "Vertical Bifacial vs south facing solar array power output Vertical Bifacial South facing solar array"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Vertical_solar_along_interstate.webp/220px-Vertical_solar_along_interstate.webp.png",
+                "caption": "Vertical bifacial solar along highway"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Solar Canopy",
+        "text": "Solar canopies are solar arrays which are installed on top of a traditional canopy . These canopies could be a parking lot canopy, carport , gazebo , Pergola , or patio cover .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Parking_under_Solar_Canopy_%2852937580768%29.jpg/220px-Parking_under_Solar_Canopy_%2852937580768%29.jpg",
+                "caption": "Solar canopy parking lot in New Haven at Hotel Marcel.  There are EV level 2 chargers underneath the canopy and a 12-stall Tesla Supercharger behind."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Portable",
+        "text": "Portable solar panels can ensure electric current, enough to charge devices (mobile, radio, ...) via USB-port or to charge a powerbank f.e. Special features of the panels include high flexibility, high durability & waterproof characteristics. They are good for travel or camping.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Portable_solar_panel2.jpg/220px-Portable_solar_panel2.jpg",
+                "caption": "A 5V, 2A, 10W solar panel with USB port"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Power curve",
+        "text": "In general with individual solar panels, if not enough current is taken, then power isn't maximised. If too much current is taken then the voltage collapses. The optimum current draw is roughly proportional to the amount of sunlight striking the panel. Solar panel capacity is specified by the MPP (maximum power point) value of solar panels in full sunlight.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Solar-Cell-IV-curve-with-MPP.png/220px-Solar-Cell-IV-curve-with-MPP.png",
+                "caption": "A typical voltage/current curve for individual unshadowed solar panels. Maximum power point tracking ensures that as much power as possible is collected."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Inverters",
+        "text": "Solar inverters convert the DC power provided by panels to AC power. MPP (Maximum power point) of the solar panel consists of MPP voltage (V mpp ) and MPP current (I mpp ). Performing maximum power point tracking (MPPT), a solar inverter samples the output (I-V curve) from the solar cell and applies the proper electrical load to obtain maximum power. An AC ( alternating current ) solar panel has a small DC to AC microinverter on the back and produces AC power with no external DC connector . AC modules are defined by Underwriters Laboratories as the smallest and most complete system for harvesting solar energy. [32] [ need quotation to verify ] Micro-inverters work independently to enable each panel to contribute its maximum possible output for a given amount of sunlight, but can be more expensive. [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UP-curve_of_partially_shaded_solar_generator.png/220px-UP-curve_of_partially_shaded_solar_generator.png",
+                "caption": "Power/Voltage-curve of a partially shaded PV module, with marked local and global MPP"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Module interconnection",
+        "text": "Module electrical connections are made with conducting wires that take the current off the modules and are sized according to the current rating and fault conditions, and sometimes include in-line fuses. Panels are typically connected in series of one or more panels to form strings to achieve a desired output voltage, and strings can be connected in parallel to provide the desired current capability (amperes) of the PV system. In string connections the voltages of the modules add, but the current is determined by the lowest performing panel. This is known as the \"Christmas light effect\". In parallel connections the voltages will be the same, but the currents add. Arrays are connected up to meet the voltage requirements of the inverters and to not greatly exceed the current limits. Blocking and bypass diodes may be incorporated within the module or used externally to deal with partial array shading, in order to maximize output. For series connections, bypass diodes are placed in parallel with modules to allow current to bypass shaded modules which would otherwise severely limit the current. For paralleled connections, a blocking diode may be placed in series with each module's string to prevent current flowing backwards through shaded strings thus short-circuiting other strings.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Photovoltaic_Diode_Connections.png/220px-Photovoltaic_Diode_Connections.png",
+                "caption": "A connection example, a blocking diode is placed in series with each module string, whereas bypass diodes are placed in parallel with modules."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Efficiency",
+        "text": "Each module is rated by its DC output power under standard test conditions (STC) and hence the on field output power might vary. Power typically ranges from 100 to 365 Watts (W). The efficiency of a module determines the area of a module given the same rated output –  an 8% efficient 230 W module will have twice the area of a 16% efficient 230 W module. Some commercially available solar modules exceed 24% efficiency. [35] [36] Currently, [ needs update ] the best achieved sunlight conversion rate (solar module efficiency) is around 21.5% in new commercial products [37] typically lower than the efficiencies of their cells in isolation. The most efficient mass-produced solar modules have power density values of up to 175 W/m 2 (16.22 W/ft 2 ). [38] The current versus voltage curve of a module provides useful information about its electrical performance. [39] Manufacturing processes often cause differences in the electrical parameters of different modules photovoltaic, even in cells of the same type. Therefore, only the experimental measurement of the I–V curve allows us to accurately establish the electrical parameters of a photovoltaic device. This measurement provides highly relevant information for the design, installation and maintenance of photovoltaic systems. Generally, the electrical parameters of photovoltaic modules are measured by indoor tests. However, outdoor testing has important advantages such as no expensive artificial light source required, no sample size limitation, and more homogeneous sample illumination. Capacity factor of solar panels is limited primarily by geographic latitude and varies significantly depending on cloud cover, dust, day length and other factors. In the United Kingdom , seasonal capacity factor ranges from 2% (December) to 20% (July), with average annual capacity factor of 10–11%, while in Spain the value reaches 18%. [40] Globally, capacity factor for utility-scale PV farms was 16.1% in 2019. [41] [ unreliable source? ] Overheating is the most important factor for the efficiency of the solar panel. [42]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/NREL_PV_Module_Record_Efficiency_Chart.png/280px-NREL_PV_Module_Record_Efficiency_Chart.png",
+                "caption": "Reported timeline of champion solar module energy conversion efficiencies since 1988 ( National Renewable Energy Laboratory ) [34]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Performance and degradation",
+        "text": "Module performance is generally rated under standard test conditions (STC): irradiance of 1,000 W/m 2 , solar spectrum of AM 1.5 and module temperature at 25 °C. [44] The actual voltage and current output of the module changes as lighting, temperature and load conditions change, so there is never one specific voltage at which the module operates. Performance varies depending on geographic location, time of day, the day of the year, amount of solar irradiance , direction and tilt of modules, cloud cover, shading, soiling , state of charge, and temperature. Performance of a module or panel can be measured at different time intervals with a DC clamp meter or shunt and logged, graphed, or charted with a chart recorder or data logger. For optimum performance, a solar panel needs to be made of similar modules oriented in the same direction perpendicular to direct sunlight. Bypass diodes are used to circumvent broken or shaded panels and optimize output. These bypass diodes are usually placed along groups of solar cells to create a continuous flow. [45] Electrical characteristics include nominal power (P MAX , measured in W ), open-circuit voltage (V OC ), short-circuit current (I SC , measured in amperes ), maximum power voltage (V MPP ), maximum power current (I MPP ), peak power, ( watt-peak , W p ), and module efficiency (%). Open-circuit voltage or V OC is the maximum voltage the module can produce when not connected to an electrical circuit or system. [46] V OC can be measured with a voltmeter directly on an illuminated module's terminals or on its disconnected cable. The peak power rating, W p , is the maximum output under standard test conditions (not the maximum possible output). Typical modules, which could measure approximately 1 by 2 metres (3 ft × 7 ft), will be rated from as low as 75 W to as high as 600 W, depending on their efficiency. At the time of testing, the test modules are binned according to their test results, and a typical manufacturer might rate their modules in 5 W increments, and either rate them at +/- 3%, +/-5%, +3/-0% or +5/-0%. [47] [48] [49]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Actual_output_in_volts%2C_amps%2C_and_wattage_from_a_100_Watt_Solar_module_in_August.jpg/280px-Actual_output_in_volts%2C_amps%2C_and_wattage_from_a_100_Watt_Solar_module_in_August.jpg",
+                "caption": ""
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Variability_of_Solar_Energy.jpg/280px-Variability_of_Solar_Energy.jpg",
+                "caption": "This chart illustrates the effect of clouds on solar energy production."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Maintenance",
+        "text": "Solar panel conversion efficiency, typically in the 20% range, is reduced by the accumulation of dust, grime, pollen, and other particulates on the solar panels, collectively referred to as soiling . \"A dirty solar panel can reduce its power capabilities by up to 30% in high dust/pollen or desert areas\", says Seamus Curran, associate professor of physics at the University of Houston and director of the Institute for NanoEnergy, which specializes in the design, engineering, and assembly of nanostructures. [59] The average soiling loss in the world in 2018 is estimated to be at least 3% – 4%. [60] Paying to have solar panels cleaned is a good investment in many regions, as of 2019. [60] However, in some regions, cleaning is not cost-effective. In California as of 2013 soiling-induced financial losses were rarely enough to warrant the cost of washing the panels. On average, panels in California lost a little less than 0.05% of their overall efficiency per day. [61] There are also occupational hazards with solar panel installation and maintenance. A 2015–2018 study in the UK investigated 80 PV-related incidents of fire, with over 20 \"serious fires\" directly caused by PV installation, including 37 domestic buildings and 6 solar farms. In 1 ⁄ 3 of the incidents a root cause was not established and in a majority of others was caused by poor installation, faulty product or design issues. The most frequent single element causing fires was the DC isolators. [62] A 2021 study by kWh Analytics determined median annual degradation of PV systems at 1.09% for residential and 0.8% for non-residential ones, almost twice that previously assumed. [63] A 2021 module reliability study found an increasing trend in solar module failure rates with 30% of manufacturers experiencing safety failures related to junction boxes (growth from 20%) and 26% bill-of-materials failures (growth from 20%). [64] Cleaning methods for solar panels can be divided into 5 groups: manual tools, mechanized tools (such as tractor mounted brushes), installed hydraulic systems (such as sprinklers), installed robotic systems, and deployable robots. Manual cleaning tools are by far the most prevalent method of cleaning, most likely because of the low purchase cost. However, in a Saudi Arabian study done in 2014, it was found that \"installed robotic systems, mechanized systems, and installed hydraulic systems are likely the three most promising technologies for use in cleaning solar panels\". [65]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cleaning_solar_panel.jpg/220px-Cleaning_solar_panel.jpg",
+                "caption": "General cleaning of ground-based solar panels at the Shanta Gold mine in Tanzania"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Googleplex_Solar_panels.jpg/220px-Googleplex_Solar_panels.jpg",
+                "caption": "Deeper level of cleaning with pressure washing of the car port solar panels at Googleplex, Mountain View, California"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Price",
+        "text": "The price of solar electrical power has continued to fall so that in many countries it has become cheaper than fossil fuel electricity from the electricity grid since 2012, a phenomenon known as grid parity . [89] With the rise of global awareness, institutions such as the IRS have adopted a tax credit format, refunding a portion of any solar panel array for private use. [90] The price of a solar array only continues to fall. Average pricing information divides in three pricing categories: those buying small quantities (modules of all sizes in the kilowatt range annually), mid-range buyers (typically up to 10 MWp annually), and large quantity buyers (self-explanatory—and with access to the lowest prices). Over the long term there is clearly a systematic reduction in the price of cells and modules. For example, in 2012 it was estimated that the quantity cost per watt was about US$0.60, which was 250 times lower than the cost in 1970 of US$150. [91] [92] A 2015 study shows price/kWh dropping by 10% per year since 1980, and predicts that solar could contribute 20% of total electricity consumption by 2030, whereas the International Energy Agency predicts 16% by 2050. [93] Real-world energy production costs depend a great deal on local weather conditions. In a cloudy country such as the United Kingdom, the cost per produced kWh is higher than in sunnier countries like Spain. Following to RMI , Balance-of-System (BoS) elements, this is, non-module cost of non- microinverter solar modules (as wiring, converters, racking systems and various components) make up about half of the total costs of installations. For merchant solar power stations, where the electricity is being sold into the electricity transmission network, the cost of solar energy will need to match the wholesale electricity price. This point is sometimes called 'wholesale grid parity' or 'busbar parity'. [89]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg/280px-1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg.png",
+                "caption": "Swanson's law –stating that solar module prices have dropped about 20% for each doubling of installed capacity—defines the \" learning rate \" of solar photovoltaics . [87] [88]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Energy_pricing.png/280px-Energy_pricing.png",
+                "caption": "Short term normalized cost comparisons demonstrating value of various electric generation technologies [94]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Energy_pricing_longterm.png/280px-Energy_pricing_longterm.png",
+                "caption": "Long term normalized cost comparisons demonstrating value of various electric generation technologies [94]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Photovoltaic cells",
+        "text": "A solar cell , or photovoltaic cell, is a device that converts light into electric current using the photovoltaic effect . The first solar cell was constructed by Charles Fritts in the 1880s. [12] The German industrialist Ernst Werner von Siemens was among those who recognized the importance of this discovery. [13] In 1931, the German engineer Bruno Lange developed a photo cell using silver selenide in place of copper oxide , [14] although the prototype selenium cells converted less than 1% of incident light into electricity. Following the work of Russell Ohl in the 1940s, researchers Gerald Pearson, Calvin Fuller and Daryl Chapin created the silicon solar cell in 1954. [15] These early solar cells cost US$286/watt and reached efficiencies of 4.5–6%. [16] In 1957, Mohamed M. Atalla developed the process of silicon surface passivation by thermal oxidation at Bell Labs . [17] [18] The surface passivation process has since been critical to solar cell efficiency . [19] As of 2022 [update] over 90% of the market is crystalline silicon . [20] The array of a photovoltaic system , or PV system, produces direct current (DC) power which fluctuates with the sunlight's intensity. For practical use this usually requires conversion to alternating current (AC), through the use of inverters . [11] Multiple solar cells are connected inside panels. Panels are wired together to form arrays, then tied to an inverter, which produces power at the desired voltage, and for AC, the desired frequency/phase. [11] Many residential PV systems are connected to the grid when available, especially in developed countries with large markets. [21] In these grid-connected PV systems , use of energy storage is optional. In certain applications such as satellites, lighthouses, or in developing countries, batteries or additional power generators are often added as back-ups. Such stand-alone power systems permit operations at night and at other times of limited sunlight. In \"vertical agrivoltaics \" system, solar cells are oriented vertically on farmland, to allow the land to both grow crops and generate renewable energy. [22] Other configurations include floating solar farms , placing solar canopies over parking lots, and installing solar panels on roofs. [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/PV-system-schematics-residential-Eng.png/310px-PV-system-schematics-residential-Eng.png",
+                "caption": "Schematics of a grid-connected residential PV power system [11]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Concentrated solar power",
+        "text": "Concentrated solar power (CSP), also called \"concentrated solar thermal\", uses lenses or mirrors and tracking systems to concentrate sunlight, then uses the resulting heat to generate electricity from conventional steam-driven turbines. [31] A wide range of concentrating technologies exists: among the best known are the parabolic trough , the compact linear Fresnel reflector , the dish Stirling and the solar power tower . Various techniques are used to track the sun and focus light. In all of these systems a working fluid is heated by the concentrated sunlight and is then used for power generation or energy storage. [32] Thermal storage efficiently allows overnight electricity generation, [33] thus complementing PV. [34] CSP generates a very small share of solar power and in 2022 the IEA said that CSP should be better paid for its storage. [35] As of 2021 [update] the levelized cost of electricity from CSP is over twice that of PV. [36] However, their very high temperatures may prove useful to help decarbonize industries (perhaps via hydrogen) which need to be hotter than electricity can provide. [37]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Parabolic_trough.svg/220px-Parabolic_trough.svg.png",
+                "caption": "A parabolic collector concentrates sunlight onto a tube in its focal point."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Current status",
+        "text": "About half of installed capacity is utility scale. [70]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/World_PVOUT_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png/310px-World_PVOUT_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png",
+                "caption": "Map of solar resources from World bank"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Forecasts",
+        "text": "Most new renewable capacity between 2022 and 2027 is forecast to be solar, surpassing coal as the largest source of installed power capacity. [71] : 26 Utility scale is forecast to become the largest source of electricity in all regions except sub-Saharan Africa by 2050. [70] According to a 2021 study, global electricity generation potential of rooftop solar panels is estimated at 27 PWh per year at costs ranging from $40 (Asia) to $240 per MWh (US, Europe). Its practical realization will however depend on the availability and cost of scalable electricity storage solutions. [72]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Reality_versus_IEA_predictions_-_annual_photovoltaic_additions_2002-2016.png/310px-Reality_versus_IEA_predictions_-_annual_photovoltaic_additions_2002-2016.png",
+                "caption": "Actual annual deployments of solar PV vs predictions by the IEA for the period 2002–2016. Predictions have largely and consistently underestimated actual growth."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Concentrating solar power stations",
+        "text": "Commercial concentrating solar power (CSP) plants, also called \"solar thermal power stations\", were first developed in the 1980s. The 377 MW Ivanpah Solar Power Facility , located in California's Mojave Desert, is the world's largest solar thermal power plant project. Other large CSP plants include the Solnova Solar Power Station (150 MW), the Andasol solar power station (150 MW), and Extresol Solar Power Station (150 MW), all in Spain. The principal advantage of CSP is the ability to efficiently add thermal storage, allowing the dispatching of electricity over up to a 24-hour period. Since peak electricity demand typically occurs at about 5 pm, many CSP power plants use 3 to 5 hours of thermal storage. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IvanpahRunning.JPG/260px-IvanpahRunning.JPG",
+                "caption": "Ivanpah Solar Electric Generating System with all three towers under load"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Solar_Plant_kl.jpg/260px-Solar_Plant_kl.jpg",
+                "caption": "Part of the 354 MW Solar Energy Generating Systems (SEGS) parabolic trough solar complex in northern San Bernardino County, California"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Net metering",
+        "text": "In net metering the price of the electricity produced is the same as the price supplied to the consumer, and the consumer is billed on the difference between production and consumption. Net metering can usually be done with no changes to standard electricity meters , which accurately measure power in both directions and automatically report the difference, and because it allows homeowners and businesses to generate electricity at a different time from consumption, effectively using the grid as a giant storage battery. With net metering, deficits are billed each month while surpluses are rolled over to the following month. Best practices call for perpetual roll over of kWh credits. [102] Excess credits upon termination of service are either lost or paid for at a rate ranging from wholesale to retail rate or above, as can be excess annual credits. [103]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Feed-in_Tariff_meter_connections.png/330px-Feed-in_Tariff_meter_connections.png",
+                "caption": "Net metering , unlike a feed-in tariff , requires only one meter, but it must be bi-directional."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Community solar",
+        "text": "A community solar project is a solar power installation that accepts capital from and provides output credit and tax benefits to multiple customers, including individuals, businesses, nonprofits, and other investors. Participants typically invest in or subscribe to a certain kW capacity or kWh generation of remote electrical production. [105]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Solar_farm_in_Wisconsin_01.jpg/220px-Solar_farm_in_Wisconsin_01.jpg",
+                "caption": "Community solar farm in the town of Wheatland, Wisconsin [104]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Energy storage",
+        "text": "Concentrated solar power plants may use thermal storage to store solar energy, such as in high-temperature molten salts. These salts are an effective storage medium because they are low-cost, have a high specific heat capacity, and can deliver heat at temperatures compatible with conventional power systems. This method of energy storage is used, for example, by the Solar Two power station, allowing it to store 1.44 TJ in its 68 m 3 storage tank, enough to provide full output for close to 39 hours, with an efficiency of about 99%. [113] In stand alone PV systems , batteries are traditionally used to store excess electricity. With grid-connected photovoltaic power systems , excess electricity can be sent to the electrical grid . Net metering and feed-in tariff programs give these systems a credit for the electricity they produce. This credit offsets electricity provided from the grid when the system cannot meet demand, effectively trading with the grid instead of storing excess electricity. [114] When wind and solar are a small fraction of the grid power, other generation techniques can adjust their output appropriately, but as these forms of variable power grow, additional balance on the grid is needed. As prices are rapidly declining, PV systems increasingly use rechargeable batteries to store a surplus to be used later at night. Batteries used for grid-storage can stabilize the electrical grid by leveling out peak loads for a few hours. In the future, less expensive batteries could play an important role on the electrical grid, as they can charge during periods when generation exceeds demand and feed their stored energy into the grid when demand is higher than generation. Common battery technologies used in today's home PV systems include nickel-cadmium , lead-acid , nickel metal hydride , and lithium-ion . [115] [116] [ better source needed ] Lithium-ion batteries have the potential to replace lead-acid batteries in the near future, as they are being intensively developed and lower prices are expected due to economies of scale provided by large production facilities such as the Tesla Gigafactory 1 . In addition, the Li-ion batteries of plug-in electric cars may serve as future storage devices in a vehicle-to-grid system. Since most vehicles are parked an average of 95% of the time, their batteries could be used to let electricity flow from the car to the power lines and back. Retired electric vehicle (EV) batteries can be repurposed. [117] Other rechargeable batteries used for distributed PV systems include, sodium–sulfur and vanadium redox batteries, two prominent types of a molten salt and a flow battery, respectively. [118] [119] [120]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png/260px-Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png",
+                "caption": "Seasonal cycle of capacity factors for wind and photovoltaics in Europe shown under idealized assumptions. The figure illustrates the balancing effects of wind and solar energy at the seasonal scale (Kaspar et al., 2019). [121]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Environmental effects",
+        "text": "Solar power is cleaner than electricity from fossil fuels , [20] so can be better for the environment. [128] Solar power does not lead to harmful emissions during operation, but the production of the panels creates some pollution. A 2021 study estimated the carbon footprint of manufacturing monocrystalline panels at 515 g CO 2 /kWp in the US and 740 g CO 2 /kWp in China, [129] but this is expected to fall as manufacturers use more clean electricity and recycled materials. [130] Solar power carries an upfront cost to the environment via production with a carbon payback time of several years as of 2022 [update] , [130] but offers clean energy for the remainder of their 30-year lifetime. [131] The life-cycle greenhouse-gas emissions of solar farms are less than 50 gram (g) per kilowatt-hour (kWh), [132] [133] [134] but with battery storage could be up to 150 g/kWh. [135] In contrast, a combined cycle gas-fired power plant without carbon capture and storage emits around 500 g/kWh, and a coal-fired power plant about 1000 g/kWh. [136] Similar to all energy sources where their total life cycle emissions are mostly from construction, the switch to low carbon power in the manufacturing and transportation of solar devices would further reduce carbon emissions. [134] Lifecycle surface power density of solar power varies [137] but averages about 7 W/m2, compared to about 240 for nuclear power and 480 for gas. [138] However, when the land required for gas extraction and processing is accounted for, gas power is estimated to have not much higher power density than solar. [20] PV requires much larger amounts of land surface to produce the same nominal amount of energy as sources [ which? ] with higher surface power density and capacity factor. According to a 2021 study, obtaining 25% to 80% of electricity from solar farms in their own territory by 2050 would require the panels to cover land ranging from 0.5% to 2.8% of the European Union , 0.3% to 1.4% in India , and 1.2% to 5.2% in Japan and South Korea . [139] Occupation of such large areas for PV farms could drive residential opposition as well as lead to deforestation, removal of vegetation and conversion of farm land. [140] However some countries, such as South Korea and Japan, use land for agriculture under PV , [141] [142] or floating solar, [143] together with other low-carbon power sources. [144] [145] Worldwide land use has minimal ecological impact. [146] Land use can be reduced to the level of gas power by installing on buildings and other built up areas. [137] Harmful materials are used in the production of solar panels, but generally in small amounts. [147] As of 2022 [update] , the environmental impact of perovskite is difficult to estimate, but there is some concern that lead may be a problem. [20] A 2021 International Energy Agency study projects the demand for copper will double by 2040. The study cautions that supply needs to increase rapidly to match demand from large-scale deployment of solar and required grid upgrades. [148] [149] More tellurium and indium may also be needed. [20] Recycling may help. [20] As solar panels are sometimes replaced with more efficient panels, the second-hand panels are sometimes reused in developing countries, for example in Africa . [150] Several countries have specific regulations for the recycling of solar panels . [151] [152] [153] Although maintenance cost is already low compared to other energy sources, [154] some academics have called for solar power systems to be designed to be more repairable . [155] [156] A very small proportion of solar power is concentrated solar power . Concentrated solar power may use much more water than gas-fired power. This can be a problem, as this type of solar power needs strong sunlight so is often built in deserts. [157]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Greenhouse_gas_emissions_per_energy_source.png/260px-Greenhouse_gas_emissions_per_energy_source.png",
+                "caption": "Greenhouse gas emissions per energy source. Solar power is one of the sources with the least greenhouse gas emissions."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Blick_vom_aussichtsturm_h%C3%B6rlitz4.jpg/220px-Blick_vom_aussichtsturm_h%C3%B6rlitz4.jpg",
+                "caption": "Part of the Senftenberg Solarpark , a solar photovoltaic power plant located on former open-pit mining areas close to the city of Senftenberg , in Eastern Germany. The 78 MW Phase 1 of the plant was completed within three months."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Politics",
+        "text": "Solar production cannot be cut off by geopolitics once installed, unlike oil and gas, which contributes to energy security . [159] As of 2022 [update] over 40% of global polysilicon manufacturing capacity is in Xinjiang in China , [160] which raises concerns about human rights violations ( Xinjiang internment camps ) as well as supply chain dependency. [161]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg/260px-202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg.png",
+                "caption": "Acceptance of wind and solar facilities in one's community is stronger among U.S. Democrats (blue), while acceptance of nuclear power plants is stronger among U.S. Republicans (red). [158]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Overview",
+        "text": "A photovoltaic system converts the Sun's radiation , in the form of light, into usable electricity . It comprises the solar array and the balance of system components. PV systems can be categorized by various aspects, such as, grid-connected vs. stand alone systems, building-integrated vs. rack-mounted systems, residential vs. utility systems, distributed vs. centralized systems, rooftop vs. ground-mounted systems, tracking vs. fixed-tilt systems, and new constructed vs. retrofitted systems. Other distinctions may include, systems with microinverters vs. central inverter, systems using crystalline silicon vs. thin-film technology , and systems with modules. About 99 percent of all European and 90 percent of all U.S. solar power systems are connected to the electrical grid , while off-grid systems are somewhat more common in Australia and South Korea. [4] : 14 PV systems rarely use battery storage. This may change, as government incentives for distributed energy storage are implemented and investments in storage solutions gradually become economically viable for small systems. [5] [6] A typical residential solar array is rack-mounted on the roof, rather than integrated into the roof or facade of the building, which is significantly more expensive. Utility-scale solar power stations are ground-mounted, with fixed tilted solar panels rather than using expensive tracking devices. Crystalline silicon is the predominant material used in 90 percent of worldwide produced solar modules, while its rival thin-film has lost market-share. [7] : 17–20 About 70 percent of all solar cells and modules are produced in China and Taiwan, only 5 percent by European and US- manufacturers . [7] : 11–12 The installed capacity for both small rooftop systems and large solar power stations is growing rapidly and in equal parts, although there is a notable trend towards utility-scale systems, as the focus on new installations is shifting away from Europe to sunnier regions, such as the Sunbelt in the U.S., which are less opposed to ground-mounted solar farms and cost-effectiveness is more emphasized by investors. [4] : 43 Driven by advances in technology and increases in manufacturing scale and sophistication, the cost of photovoltaics is declining continuously. [8] There are several million PV systems distributed all over the world, mostly in Europe, with 1.4 million systems in Germany alone [7] : 5 – as well as North America with 440,000 systems in the United States. [9] The energy conversion efficiency of a conventional solar module increased from 15 to 20 percent since 2004 [7] : 17 and a PV system recoups the energy needed for its manufacture in about 2 years. In exceptionally irradiated locations, or when thin-film technology is used, the so-called energy payback time decreases to one year or less. [7] : 30–33 Net metering and financial incentives, such as preferential feed-in tariffs for solar-generated electricity, have also greatly supported installations of PV systems in many countries. [10] The levelised cost of electricity from large-scale PV systems has become competitive with conventional electricity sources in an expanding list of geographic regions, and grid parity has been achieved in about 30 countries. [11] [12] [13] [14] As of 2015, the fast-growing global PV market is rapidly approaching the 200 GW mark – about 40 times the installed capacity in 2006. [15] These systems currently contribute about 1 percent to worldwide electricity generation. Top installers of PV systems in terms of capacity are currently China, Japan and the United States, while half of the world's capacity is installed in Europe, with Germany and Italy supplying 7% to 8% of their respective domestic electricity consumption with solar PV. [16] The International Energy Agency expects solar power to become the world's largest source of electricity by 2050, with solar photovoltaics and concentrated solar thermal contributing 16% and 11% to the global demand, respectively. [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/From_a_solar_cell_to_a_PV_system.svg/220px-From_a_solar_cell_to_a_PV_system.svg.png",
+                "caption": "Diagram of the possible components of a photovoltaic system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Solar grid-connection",
+        "text": "A grid connected system is connected to a larger independent grid (typically the public electricity grid) and feeds energy directly into the grid. This energy may be shared by a residential or commercial building before or after the revenue measurement point, depending on whether the credited energy production is calculated independently of the customer's energy consumption ( feed-in tariff ) or only on the difference of energy ( net metering ). These systems vary in size from residential (2–10 kW p ) to solar power stations (up to tens of MW p ). This is a form of decentralized electricity generation . Feeding electricity into the grid requires the transformation of DC into AC by a special, synchronizing grid-tie inverter . In kilowatt-sized installations the DC side system voltage is as high as permitted (typically 1000 V except US residential 600 V) to limit ohmic losses. Most modules (60 or 72 crystalline silicon cells) generate 160 W to 300 W at 36 volts. It is sometimes necessary or desirable to connect the modules partially in parallel rather than all in series. An individual set of modules connected in series is known as a 'string'. [17] A set of series-connected \"strings\" is known as an \"array.\"",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/PV-system-schematics-residential-Eng.png/240px-PV-system-schematics-residential-Eng.png",
+                "caption": "Schematics of an AC coupled residential PV system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Utility-scale",
+        "text": "Large utility-scale solar parks or farms are power stations and capable of providing an energy supply to large numbers of consumers. Generated electricity is fed into the transmission grid powered by central generation plants (grid-connected or grid-tied plant), or combined with one, or many, domestic electricity generators to feed into a small electrical grid (hybrid plant). In rare cases generated electricity is stored or used directly by island/standalone plant. [19] [20] PV systems are generally designed in order to ensure the highest energy yield for a given investment. Some large photovoltaic power stations such as Solar Star , Waldpolenz Solar Park and Topaz Solar Farm cover tens or hundreds of hectares and have power outputs up to hundreds of megawatts .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Perovosolarstation.jpg/220px-Perovosolarstation.jpg",
+                "caption": "Perovo Solar Park in Ukraine"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Rooftop, mobile, and portable",
+        "text": "A small PV system is capable of providing enough AC electricity to power a single home, or an isolated device in the form of AC or DC electric. Military and civilian Earth observation satellites , street lights , construction and traffic signs, electric cars , solar-powered tents, [21] and electric aircraft may contain integrated photovoltaic systems to provide a primary or auxiliary power source in the form of AC or DC power, depending on the design and power demands. In 2013, rooftop systems accounted for 60 percent of worldwide installations. However, there is a trend away from rooftop and towards utility-scale PV systems, as the focus of new PV installations is also shifting from Europe to countries in the sunbelt region of the planet where opposition to ground-mounted solar farms is less accentuated. [4] : 43 Portable and mobile PV systems provide electrical power independent of utility connections, for \"off the grid\" operation. Such systems are so commonly used on recreational vehicles and boats that there are retailers specializing in these applications and products specifically targeted to them. Since recreational vehicles (RV) normally carry batteries and operate lighting and other systems on nominally 12-volt DC power, RV systems normally operate in a voltage range that can charge 12-volt batteries directly, so addition of a PV system requires only panels, a charge controller, and wiring. Solar systems on recreation vehicles are usually constrained in wattage by the physical size of the RV's roof space. [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Solar_panels_on_house_roof.jpg/220px-Solar_panels_on_house_roof.jpg",
+                "caption": "Rooftop system near Boston , US"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Building-integrated",
+        "text": "In urban and suburban areas, photovoltaic arrays are often used on rooftops to supplement power use; often the building will have a connection to the power grid , in which case the energy produced by the PV array can be sold back to the utility in some sort of net metering agreement. Some utilities use the rooftops of commercial customers and telephone poles to support their use of PV panels. [23] Solar trees are arrays that, as the name implies, mimic the look of trees, provide shade, and at night can function as street lights .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fa%C3%A7ana_Fotvoltaica_MNACTEC.JPG/220px-Fa%C3%A7ana_Fotvoltaica_MNACTEC.JPG",
+                "caption": "BAPV wall near Barcelona, Spain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Components",
+        "text": "A photovoltaic system for residential, commercial, or industrial energy supply consists of the solar array and a number of components often summarized as the balance of system (BOS). This term is synonymous with \" Balance of plant \" q.v. BOS-components include power-conditioning equipment and structures for mounting, typically one or more DC to AC power converters, also known as inverters , an energy storage device, a racking system that supports the solar array, electrical wiring and interconnections, and mounting for other components. Optionally, a balance of system may include any or all of the following: renewable energy credit revenue-grade meter, maximum power point tracker (MPPT), battery system and charger , GNSS solar tracker , energy management software , solar irradiance sensors, anemometer , or task-specific accessories designed to meet specialized requirements for a system owner. In addition, a CPV system requires optical lenses or mirrors and sometimes a cooling system. The terms \"solar array\" and \"PV system\" are often incorrectly used interchangeably, despite the fact that the solar array does not encompass the entire system. Moreover, \"solar panel\" is often used as a synonym for \"solar module\", although a panel consists of a string of several modules. The term \"solar system\" is also an often used misnomer for a PV system.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Balance_of_System.svg/220px-Balance_of_System.svg.png",
+                "caption": "The balance of system components of a PV system (BOS) balance the power-generating subsystem of the solar array (left side) with the power-using side of the AC-household devices and the utility grid (right side)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Solar array",
+        "text": "The building blocks of a photovoltaic system are solar cells. A solar cell is the electrical device that can directly convert photons energy into electricity. There are three technological generations of solar cells: the first generation (1G) of crystalline silicon cells (c-Si), the second generation (2G) of thin-film cells (such as CdTe , CIGS , Amorphous Silicon , and GaAs ), and the third generation (3G) of organic , dye-sensitized , Perovskite and multijunction cells . [29] [30] Conventional c-Si solar cells , normally wired in series, are encapsulated in a solar module to protect them from the weather. The module consists of a tempered glass as cover, a soft and flexible encapsulant , a rear backsheet made of a weathering and fire-resistant material and an aluminium frame around the outer edge. Electrically connected and mounted on a supporting structure, solar modules build a string of modules, often called solar panel. A solar array consists of one or many such panels. [31] A photovoltaic array, or solar array, is a linked collection of solar modules. The power that one module can produce is seldom enough to meet requirements of a home or a business, so the modules are linked together to form an array. Most PV arrays use an inverter to convert the DC power produced by the modules into alternating current that can power lights , motors, and other loads. The modules in a PV array are usually first connected in series to obtain the desired voltage ; the individual strings are then connected in parallel to allow the system to produce more current . Solar panels are typically measured under STC (standard test conditions) or PTC (PVUSA test conditions), in watts . [32] Typical panel ratings range from less than 100 watts to over 400 watts. [33] The array rating consists of a summation of the panel ratings, in watts, kilowatts, or megawatts.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fixed_Tilt_Solar_panel_at_Canterbury_Municipal_Building_Canterbury_New_Hampshire.jpg/220px-Fixed_Tilt_Solar_panel_at_Canterbury_Municipal_Building_Canterbury_New_Hampshire.jpg",
+                "caption": "Fixed tilt solar array in of crystalline silicon panels in Canterbury, New Hampshire , United States"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Turisme_de_parcs_fotovoltaics.JPG/220px-Turisme_de_parcs_fotovoltaics.JPG",
+                "caption": "Solar array of a solar farm with a few thousand solar modules on the island of Majorca , Spain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Insolation and energy",
+        "text": "Solar insolation is made up of direct, diffuse, and reflected radiation . The absorption factor of a PV cell is defined as the fraction of incident solar irradiance that is absorbed by the cell. [57] When the sun is at the zenith on a cloudless day, the power of the sun is about 1 kW /m 2 , [58] on the Earth's surface, to a plane that is perpendicular to the sun's rays. As such, PV arrays can track the sun through each day to greatly enhance energy collection. However, tracking devices add cost, and require maintenance, so it is more common for PV arrays to have fixed mounts that tilt the array and face due south in the northern hemisphere or due north in the southern hemisphere. The tilt angle from horizontal can be varied for season, [59] but if fixed, should be set to give optimal array output during the peak electrical demand portion of a typical year for a stand-alone system. This optimal module tilt angle is not necessarily identical to the tilt angle for maximum annual array energy output. [60] The optimization of the photovoltaic system for a specific environment can be complicated as issues of solar flux, soiling, and snow losses should be taken into effect. In addition, later work has shown that spectral effects can play a role in optimal photovoltaic material selection. For example, the spectrum of the albedo of the surroundings can play a significant role in output depending on the surface around the photovoltaic system [61] and the type of solar cell material. [62] A photovoltaic installation in the northern latitudes of Europe or the United States may expect to produce 1 kWh/m 2 /day. [ citation needed ] A typical 1 kW photovoltaic installation in Australia or the southern latitudes of Europe or United States, may produce 3.5–5 kWh per day, dependent on location, orientation, tilt, insolation and other factors. [ citation needed ] In the Sahara desert, with less cloud cover and a better solar angle, one could ideally obtain closer to 8.3 kWh/m 2 /day provided the nearly ever present wind would not blow sand onto the units. The area of the Sahara desert is over 9 million km 2 . 90,600 km 2 , or about 1%, could generate as much electricity as all of the world's power plants combined. [63]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/World_GHI_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png/220px-World_GHI_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png",
+                "caption": "Global insolation on a horizontal surface"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Mounting",
+        "text": "Modules are assembled into arrays on some kind of mounting system, which may be classified as ground mount, roof mount or pole mount. For solar parks a large rack is mounted on the ground, and the modules mounted on the rack.\nFor buildings, many different racks have been devised for pitched roofs. For flat roofs, racks, bins and building integrated solutions are used. [ citation needed ] Solar panel racks mounted on top of poles can be stationary or moving, see Trackers below. Side-of-pole mounts are suitable for situations where a pole has something else mounted at its top, such as a light fixture or an antenna. Pole mounting raises what would otherwise be a ground mounted array above weed shadows and livestock, and may satisfy electrical code requirements regarding inaccessibility of exposed wiring. Pole mounted panels are open to more cooling air on their underside, which increases performance. A multiplicity of pole top racks can be formed into a parking carport or other shade structure. A rack which does not follow the sun from left to right may allow seasonal adjustment up or down. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pellworm_Solarkrftanlage_MS_P4140082.JPG/220px-Pellworm_Solarkrftanlage_MS_P4140082.JPG",
+                "caption": "A 23-year-old ground mounted PV system from the 1980s on a North Frisian Island , Germany. The modules conversion efficiency was only 12%."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Cabling",
+        "text": "Due to their outdoor usage, solar cables are designed to be resistant against UV radiation and extremely high temperature fluctuations and are generally unaffected by the weather. Standards specifying the usage of electrical wiring in PV systems include the IEC 60364 by the International Electrotechnical Commission , in section 712 \"Solar photovoltaic (PV) power supply systems\", the British Standard BS 7671 , incorporating regulations relating to microgeneration and photovoltaic systems, and the US UL4703 standard, in subject 4703 \"Photovoltaic Wire\". A solar cable is the interconnection cable used in photovoltaic power generation. Solar cables interconnect solar panels and other electrical components of a photovoltaic system. Solar cables are designed to be UV resistant and weather resistant.  They can be used within a large temperature range. Specific performance requirements for material used for wiring a solar panel installation are given in national and local electrical codes which regulate electrical installations in an area.  General features required for solar cables are resistance to ultraviolet light, weather, temperature extremes of the area and insulation suitable for the voltage class of the equipment. Different jurisdictions will have specific rules regarding grounding (earthing) of solar power installations for electric shock protection and lightning protection.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/PV_connectors_01_Pengo.jpg/220px-PV_connectors_01_Pengo.jpg",
+                "caption": "Weatherproof connectors on a solar panel cable"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Tracker",
+        "text": "A solar tracking system tilts a solar panel throughout the day. Depending on the type of tracking system, the panel is either aimed directly at the Sun or the brightest area of a partly clouded sky. Trackers greatly enhance early morning and late afternoon performance, increasing the total amount of power produced by a system by about 20–25% for a single axis tracker and about 30% or more for a dual axis tracker, depending on latitude. [64] [65] Trackers are effective in regions that receive a large portion of sunlight directly. In diffuse light (i.e. under cloud or fog), tracking has little or no value. Because most concentrated photovoltaics systems are very sensitive to the sunlight's angle, tracking systems allow them to produce useful power for more than a brief period each day. [66] Tracking systems improve performance for two main reasons. First, when a solar panel is perpendicular to the sunlight, it receives more light on its surface than if it were angled. Second, direct light is used more efficiently than angled light. [67] Special anti-reflective coatings can improve solar panel efficiency for direct and angled light, somewhat reducing the benefit of tracking. [68] Trackers and sensors to optimise the performance are often seen as optional, but they can increase viable output by up to 45%. [69] Arrays that approach or exceed one megawatt often use solar trackers. Considering clouds, and the fact that most of the world is not on the equator, and that the sun sets in the evening, the correct measure of solar power is insolation – the average number of kilowatt-hours per square meter per day. For the weather and latitudes of the United States and Europe, typical insolation ranges from 2.26 kWh/m 2 /day in northern climes to 5.61 kWh/m 2 /day in the sunniest regions. [70] [71] For large systems, the energy gained by using tracking systems can outweigh the added complexity. For very large systems , the added maintenance of tracking is a substantial detriment. [72] Tracking is not required for flat panel and low-concentration photovoltaic systems . For high-concentration photovoltaic systems, dual axis tracking is a necessity. [73] Pricing trends affect the balance between adding more stationary solar panels versus having fewer panels that track. As pricing, reliability and performance of single-axis trackers have improved, the systems have been installed in an increasing percentage of utility-scale projects. According to data from WoodMackenzie/GTM Research, global solar tracker shipments hit a record 14.5 gigawatts in 2017. This represents growth of 32 percent year-over-year, with similar or greater growth projected as large-scale solar deployment accelerates. [74]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Solar_trackers.jpg/220px-Solar_trackers.jpg",
+                "caption": "Dual axis solar trackers"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Inverter",
+        "text": "Systems designed to deliver alternating current (AC), such as grid-connected applications need an inverter to convert the direct current (DC) from the solar modules to AC. Grid connected inverters must supply AC electricity in sinusoidal form, synchronized to the grid frequency, limit feed in voltage to no higher than the grid voltage and disconnect from the grid if the grid voltage is turned off. [75] Islanding inverters need only produce regulated voltages and frequencies in a sinusoidal waveshape as no synchronisation or co-ordination with grid supplies is required. A solar inverter may connect to a string of solar panels. In some installations a solar micro-inverter is connected at each solar panel. [76] For safety reasons a circuit breaker is provided both on the AC and DC side to enable maintenance. AC output may be connected through an electricity meter into the public grid. [77] The number of modules in the system determines the total DC watts capable of being generated by the solar array; however, the inverter ultimately governs the amount of AC watts that can be distributed for consumption. For example, a PV system comprising 11 kilowatts DC (kW DC ) worth of PV modules, paired with one 10-kilowatt AC (kW AC ) inverter, will be limited to the inverter's output of 10 kW. As of 2019, conversion efficiency for state-of-the-art converters reached more than 98 percent. While string inverters are used in residential to medium-sized commercial PV systems, central inverters cover the large commercial and utility-scale market. Market-share for central and string inverters are about 44 percent and 52 percent, respectively, with less than 1 percent for micro-inverters. [78] Maximum power point tracking (MPPT) is a technique that grid connected inverters use to get the maximum possible power from the photovoltaic array. In order to do so, the inverter's MPPT system digitally samples the solar array's ever changing power output and applies the proper impedance to find the optimal maximum power point . [79] Anti-islanding is a protection mechanism to immediately shut down the inverter, preventing it from generating AC power when the connection to the load no longer exists. This happens, for example, in the case of a blackout. Without this protection, the supply line would become an \"island\" with power surrounded by a \"sea\" of unpowered lines, as the solar array continues to deliver DC power during the power outage. Islanding is a hazard to utility workers, who may not realize that an AC circuit is still powered, and it may prevent automatic re-connection of devices. [80] Anti-Islanding feature is not required for complete Off-Grid Systems.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Central_inverter_cutout.jpg/220px-Central_inverter_cutout.jpg",
+                "caption": "Central inverter with AC and DC disconnects (on the side), monitoring gateway, transformer isolation and interactive LCD"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vermont_Law_School_Solar_Panel_Array-4.JPG/220px-Vermont_Law_School_Solar_Panel_Array-4.JPG",
+                "caption": "String inverter (left), generation meter, and AC disconnect (right). A modern 2013 installation in Vermont , United States."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Monitoring and metering",
+        "text": "The metering must be able to accumulate energy units in both directions, or two meters must be used. Many meters accumulate bidirectionally, some systems use two meters, but a unidirectional meter (with detent) will not accumulate energy from any resultant feed into the grid. [83] In some countries, for installations over 30 kW p a frequency and a voltage monitor with disconnection of all phases is required. This is done where more solar power is being generated than can be accommodated by the utility, and the excess can not either be exported or stored . Grid operators historically have needed to provide transmission lines and generation capacity. Now they need to also provide storage. This is normally hydro-storage, but other means of storage are used. Initially storage was used so that baseload generators could operate at full output. With variable renewable energy , storage is needed to allow power generation whenever it is available, and consumption whenever needed. The two variables a grid operator has are storing electricity for when it is needed, or transmitting it to where it is needed. If both of those fail, installations over 30kWp can automatically shut down, although in practice all inverters maintain voltage regulation and stop supplying power if the load is inadequate. Grid operators have the option of curtailing excess generation from large systems, although this is more commonly done with wind power than solar power, and results in a substantial loss of revenue. [84] Three-phase inverters have the unique option of supplying reactive power which can be advantageous in matching load requirements. [85] Photovoltaic systems need to be monitored to detect breakdown and optimize operation. There are several photovoltaic monitoring strategies depending on the output of the installation and its nature. Monitoring can be performed on site or remotely. It can measure production only, retrieve all the data from the inverter or retrieve all of the data from the communicating equipment (probes, meters, etc.). Monitoring tools can be dedicated to supervision only or offer additional functions. Individual inverters and battery charge controllers may include monitoring using manufacturer specific protocols and software. [86] Energy metering of an inverter may be of limited accuracy and not suitable for revenue metering purposes. A third-party data acquisition system can monitor multiple inverters, using the inverter manufacturer's protocols, and also acquire weather-related information. Independent smart meters may measure the total energy production of a PV array system. Separate measures such as satellite image analysis or a solar radiation meter (a pyranometer ) can be used to estimate total insolation for comparison. [87] Data collected from a monitoring system can be displayed remotely over the World Wide Web, such as OSOTF . [88] [89] [90] [91]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stromz%C3%A4hler_in_Kanada.JPG/220px-Stromz%C3%A4hler_in_Kanada.JPG",
+                "caption": "A Canadian electricity meter"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "CPV",
+        "text": "Concentrator photovoltaics (CPV) and high concentrator photovoltaic (HCPV) systems use optical lenses or curved mirrors to concentrate sunlight onto small but highly efficient solar cells. Besides concentrating optics, CPV systems sometime use solar trackers and cooling systems and are more expensive. Especially HCPV systems are best suited in location with high solar irradiance, concentrating sunlight up to 400 times or more, with efficiencies of 24–28 percent, exceeding those of regular systems. Various designs of systems are commercially available but not very common. However, ongoing research and development is taking place. [7] : 26 CPV is often confused with CSP ( concentrated solar power ) that does not use photovoltaics. Both technologies favor locations that receive much sunlight and directly compete with each other.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Concentraci%C3%B3_Fotovoltaica.jpg/220px-Concentraci%C3%B3_Fotovoltaica.jpg",
+                "caption": "Concentrator photovoltaic (CPV) in Catalonia , Spain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Hybrid",
+        "text": "A hybrid system combines PV with other forms of generation, usually a diesel generator. [ citation needed ] Biogas is also used. The other form of generation may be a type able to modulate power output as a function of demand. However more than one renewable form of energy may be used e.g. wind. The photovoltaic power generation serves to reduce the consumption of non renewable fuel. Hybrid systems are most often found on islands. Pellworm island in Germany and Kythnos island in Greece are notable examples (both are combined with wind). [92] [93] The Kythnos plant has reduced diesel consumption by 11.2%. [94] In 2015, a case-study conducted in seven countries concluded that in all cases generating costs can be reduced by hybridising mini-grids and isolated grids. However, financing costs for such hybrids are crucial and largely depend on the ownership structure of the power plant. While cost reductions for state-owned utilities can be significant, the study also identified economic benefits to be insignificant or even negative for non-public utilities, such as independent power producers . [95] [96] There has also been work showing that the PV penetration limit can be increased by deploying a distributed network of PV+CHP hybrid systems in the U.S. [97] The temporal distribution of solar flux, electrical and heating requirements for representative U.S. single family residences were analyzed and the results clearly show that hybridizing CHP with PV can enable additional PV deployment above what is possible with a conventional centralized electric generation system. This theory was reconfirmed with numerical simulations using per second solar flux data to determine that the necessary battery backup to provide for such a hybrid system is possible with relatively small and inexpensive battery systems. [98] In addition, large PV+CHP systems are possible for institutional buildings, which again provide back up for intermittent PV and reduce CHP runtime. [99]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hybrid_Power_System.gif/220px-Hybrid_Power_System.gif",
+                "caption": "A wind-solar PV hybrid system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Standalone",
+        "text": "A stand-alone or off-grid system is not connected to the electrical grid . Standalone systems vary widely in size and application from wristwatches or calculators to remote buildings or spacecraft . If the load is to be supplied independently of solar insolation , the generated power is stored and buffered with a battery. [119] In non-portable applications where weight is not an issue, such as in buildings, lead acid batteries are most commonly used for their low cost and tolerance for abuse. A charge controller may be incorporated in the system to avoid battery damage by excessive charging or discharging. It may also help to optimize production from the solar array using a maximum power point tracking technique ( MPPT ). However, in simple PV systems where the PV module voltage is matched to the battery voltage, the use of MPPT electronics is generally considered unnecessary, since the battery voltage is stable enough to provide near-maximum power collection from the PV module.\nIn small devices (e.g. calculators, parking meters) only direct current (DC) is consumed. In larger systems (e.g. buildings, remote water pumps) AC is usually required. To convert the DC from the modules or batteries into AC, an inverter is used. In agricultural settings, the array may be used to directly power DC pumps , without the need for an inverter . In remote settings such as mountainous areas, islands, or other places where a power grid is unavailable, solar arrays can be used as the sole source of electricity, usually by charging a storage battery . Stand-alone systems closely relate to microgeneration and distributed generation .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/P1020564_-_Refugi_d%27Estany_Llong.JPG/230px-P1020564_-_Refugi_d%27Estany_Llong.JPG",
+                "caption": "An isolated mountain hut in Catalonia , Spain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Costs and economy",
+        "text": "The cost of producing photovoltaic cells has dropped because of economies of scale in production and technological advances in manufacturing. For large-scale installations, prices below $1.00 per watt were common by 2012. [122] A price decrease of 50% had been achieved in Europe from 2006 to 2011, and there was a potential to lower the generation cost by 50% by 2020. [123] Crystal silicon solar cells have largely been replaced by less expensive multicrystalline silicon solar cells, and thin film silicon solar cells have also been developed at lower costs of production. Although they are reduced in energy conversion efficiency from single crystalline \"siwafers\", they are also much easier to produce at comparably lower costs. [124] The table below shows the total (average) cost in US cents per kWh of electricity generated by a photovoltaic system. [125] [126] The row headings on the left show the total cost, per peak kilowatt (kW p ), of a photovoltaic installation. Photovoltaic system costs have been declining and in Germany, for example, were reported to have fallen to USD 1389/kW p by the end of 2014. [127] The column headings across the top refer to the annual energy output in kWh expected from each installed kW p . This varies by geographic region because the average insolation depends on the average cloudiness and the thickness of atmosphere traversed by the sunlight. It also depends on the path of the sun relative to the panel and the horizon. \nPanels are usually mounted at an angle based on latitude, and often they are adjusted seasonally to meet the changing solar declination . Solar tracking can also be utilized to access even more perpendicular sunlight, thereby raising the total energy output. The calculated values in the table reflect the total (average) cost in cents per kWh produced. They assume a 10% total capital cost (for instance 4% interest rate , 1% operating and maintenance cost, [128] and depreciation of the capital outlay over 20 years). Normally, photovoltaic modules have a 25-year warranty. [129] [130]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png",
+                "caption": "History of solar rooftop prices 2006–2013. Comparison in US$ per installed watt. [120] [121]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Grid-connected photovoltaic system",
+        "text": "A grid-connected photovoltaic system, or grid-connected PV system is an electricity generating solar PV power system that is connected to the utility grid . A grid-connected PV system consists of solar panels , one or several inverters , a power conditioning unit and grid connection equipment. They range from small residential and commercial rooftop systems to large utility-scale solar power stations . When conditions are right, the grid-connected PV system supplies the excess power, beyond consumption by the connected load, to the utility grid . [149]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Solar_panels_on_house_roof_winter_view.jpg/290px-Solar_panels_on_house_roof_winter_view.jpg",
+                "caption": "A grid-connected, residential solar rooftop system near Boston , USA"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Operation",
+        "text": "Residential, grid-connected rooftop systems which have a capacity more than 10 kilowatts can meet the load of most consumers. [150] They can feed excess power to the grid where it is consumed by other users. The feedback is done through a meter to monitor power transferred. Photovoltaic wattage may be less than average consumption, in which case the consumer will continue to purchase grid energy, but a lesser amount than previously. If photovoltaic wattage substantially exceeds average consumption, the energy produced by the panels will be much in excess of the demand. In this case, the excess power can yield revenue by selling it to the grid. Depending on their agreement with their local grid energy company, the consumer only needs to pay the cost of electricity consumed less the value of electricity generated. This will be a negative number if more electricity is generated than consumed. [151] Additionally, in some cases, cash incentives are paid from the grid operator to the consumer. Connection of the photovoltaic power system can be done only through an interconnection agreement between the consumer and the utility company. The agreement details the various safety standards to be followed during the connection. [152]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Giant_photovoltaic_array.jpg/220px-Giant_photovoltaic_array.jpg",
+                "caption": "Photovoltaic power station at Nellis Air Force Base , United States"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Islanding",
+        "text": "Islanding is the condition in which a distributed generator continues to power a location even though power from the electric utility grid is no longer present. Islanding can be dangerous to utility workers, who may not realize that a circuit is still powered, even though there is no power from the electrical grid . For that reason, distributed generators must detect islanding and immediately stop producing power; [ citation needed ] this is referred to as anti-islanding.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/PV-system_urban_home1.png/220px-PV-system_urban_home1.png",
+                "caption": "Diagram of a residential grid-connected PV system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Photovoltaics",
+        "text": "In 2011, California's goal to install 3,000 MW of distributed generation by 2016 was expanded to 12,000 MW by 2020. [21] California has more photovoltaics installed than any other federal state, and 48% of the U.S. total in 2010. For the first time in 2008 the installed photovoltaics exceeded the state's 354 MW of solar thermal (CSP). [22] [23] There are plans to build over 15,000 MW of utility scale photovoltaic plants in California. [24] At the end of 2012, small systems of less than 10 kWp were averaging $5.39/W, and large systems of over 500 kWp were averaging $2.77/W. [25] California has the technical potential to install 128.9 GW of rooftop solar panels, which would generate 194,000 GWh/year, about 74% of the total electricity used in California in 2013. This is environmentally desirable because it would conserve large swaths of desert by placing panels atop preexisting structures instead. However, this would supply three to four times peak midday demand, requiring output to be stored or exported on sunny days. [26]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Corps_manages_vital_projects_at_Presidio_%2814039490807%29.jpg/220px-Corps_manages_vital_projects_at_Presidio_%2814039490807%29.jpg",
+                "caption": "Rooftop solar, fitness center building"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power_in_California",
+        "title": "Solar power in California",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Solar thermal power",
+        "text": "California has several large concentrated solar power plants. The Ivanpah Solar Electric Generating System (392 MW), located  40 miles (60 km) southwest of Las Vegas and developed by BrightSource Energy and Bechtel , is the world's largest solar thermal power project. [43] [44] The project has received a $1.375 billion loan guarantee from the United States Department of Energy . \nIt deploys 347,000 heliostat mirrors focusing solar energy on boilers located on centralized solar power towers . [43] The Genesis Solar Energy Project is an operational 250 MW solar thermal power station located in Riverside County, California.  It features a parabolic trough design and is run by NextEra Energy Resources . [45]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Parabolic_trough_solar_thermal_electric_power_plant_1.jpg/280px-Parabolic_trough_solar_thermal_electric_power_plant_1.jpg",
+                "caption": "Parabolic reflector for the SEGS power plant"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power_in_California",
+        "title": "Solar power in California",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Generation",
+        "text": "The Energy Information Administration (EIA) provides California electricity generation data from 2001. Below is a table of annual and monthly utility-scale solar generation, including thermal and PV generation, alongside the percentage of total annual CA energy generation and percentage of all US solar generation. Beginning with 2014, the EIA has estimated distributed solar photovoltaic generation and distributed solar photovoltaic capacity.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/2017_CA_Solar_Energy_Generation_Profile.jpg/280px-2017_CA_Solar_Energy_Generation_Profile.jpg",
+                "caption": "2017 CA Solar Energy Generation Profile"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/2015_Monthly_Solar_Energy_Profile_for_CA.png/280px-2015_Monthly_Solar_Energy_Profile_for_CA.png",
+                "caption": "2015 Monthly Solar Energy Profile for CA"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power_in_California",
+        "title": "Solar power in California",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Generation",
+        "text": "Heaters exist for various types of fuel, including solid fuels , liquids , and gases . Another type of heat source is electricity , normally heating ribbons composed of high resistance wire (see Nichrome ). This principle is also used for baseboard heaters and portable heaters . Electrical heaters are often used as backup or supplemental heat for heat pump systems. The heat pump gained popularity in the 1950s in Japan and the United States. [15] Heat pumps can extract heat from various sources , such as environmental air, exhaust air from a building, or from the ground. Heat pumps transfer heat from outside the structure into the air inside. Initially, heat pump HVAC systems were only used in moderate climates, but with improvements in low temperature operation and reduced loads due to more efficient homes, they are increasing in popularity in cooler climates. They can also operate in reverse to cool an interior.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Panna.jpg/170px-Panna.jpg",
+                "caption": "Central heating unit"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning",
+        "title": "Heating, ventilation, and air conditioning",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Mechanical or forced",
+        "text": "Mechanical, or forced, ventilation is provided by an air handler (AHU) and used to control indoor air quality. Excess humidity , odors, and contaminants can often be controlled via dilution or replacement with outside air. However, in humid climates more energy is required to remove excess moisture from ventilation air. Kitchens and bathrooms typically have mechanical exhausts to control odors and sometimes humidity. Factors in the design of such systems include the flow rate (which is a function of the fan speed and exhaust vent size) and noise level. Direct drive fans are available for many applications and can reduce maintenance needs. In summer, ceiling fans and table/floor fans circulate air within a room for the purpose of reducing the perceived temperature by increasing evaporation of perspiration on the skin of the occupants. Because hot air rises, ceiling fans may be used to keep a room warmer in the winter by circulating the warm stratified air from the ceiling to the floor.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/HVAC_Ventilation_Exhaust.jpg/350px-HVAC_Ventilation_Exhaust.jpg",
+                "caption": "HVAC ventilation exhaust for a 12-story building"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Industrial_Exhaust_Fan.jpg/350px-Industrial_Exhaust_Fan.jpg",
+                "caption": "An axial belt-drive exhaust fan serving an underground car park. This exhaust fan's operation is interlocked with the concentration of contaminants emitted by internal combustion engines."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning",
+        "title": "Heating, ventilation, and air conditioning",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Passive",
+        "text": "Natural ventilation is the ventilation of a building with outside air without using fans or other mechanical systems. It can be via operable windows, louvers, or trickle vents when spaces are small and the architecture permits. ASHRAE defined Natural ventilation as the flow of air through open windows, doors, grilles, and other planned building envelope penetrations , and as being driven by natural and/or artificially produced pressure differentials. [2] In more complex schemes, warm air is allowed to rise and flow out high building openings to the outside ( stack effect ), causing cool outside air to be drawn into low building openings. Natural ventilation schemes can use very little energy, but care must be taken to ensure comfort. In warm or humid climates, maintaining thermal comfort solely via natural ventilation might not be possible. Air conditioning systems are used, either as backups or supplements. Air-side economizers also use outside air to condition spaces, but do so using fans, ducts, dampers, and control systems to introduce and distribute cool outdoor air when appropriate. An important component of natural ventilation is air change rate or air changes per hour : the hourly rate of ventilation divided by the volume of the space. For example, six air changes per hour means an amount of new air, equal to the volume of the space, is added every ten minutes. For human comfort, a minimum of four air changes per hour is typical, though warehouses might have only two. Too high of an air change rate may be uncomfortable, akin to a wind tunnel which has thousands of changes per hour. The highest air change rates are for crowded spaces, bars, night clubs, commercial kitchens at around 30 to 50 air changes per hour. [20] Room pressure can be either positive or negative with respect to outside the room. Positive pressure occurs when there is more air being supplied than exhausted, and is common to reduce the infiltration of outside contaminants. [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/N%26AMOV_-_Schoolroom_-_Impulsion.png/220px-N%26AMOV_-_Schoolroom_-_Impulsion.png",
+                "caption": "Ventilation on the downdraught system, by impulsion, or the 'plenum' principle , applied to schoolrooms (1899)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning",
+        "title": "Heating, ventilation, and air conditioning",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Refrigeration cycle",
+        "text": "The refrigeration cycle uses four essential elements to cool, which are compressor, condenser, metering device, and evaporator. In variable climates, the system may include a reversing valve that switches from heating in winter to cooling in summer. By reversing the flow of refrigerant, the heat pump refrigeration cycle is changed from cooling to heating or vice versa. This allows a facility to be heated and cooled by a single piece of equipment by the same means, and with the same hardware.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Heatpump.svg/220px-Heatpump.svg.png",
+                "caption": "A simple stylized diagram of the refrigeration cycle: 1) condensing coil , 2) expansion valve , 3) evaporating coil , 4) compressor"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning",
+        "title": "Heating, ventilation, and air conditioning",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Air filtration and cleaning",
+        "text": "Air cleaning and filtration removes particles, contaminants, vapors and gases from the air. The filtered and cleaned air then is used in heating, ventilation, and air conditioning. Air cleaning and filtration should be taken in account when protecting our building environments. [39] Clean air delivery rate (CADR) is the amount of clean air an air cleaner provides to a room or space. When determining CADR, the amount of airflow in a space is taken into account. For example, an air cleaner with a flow rate of 30 cubic metres (1,000 cu ft) per minute and an efficiency of 50% has a CADR of 15 cubic metres (500 cu ft) per minute. Along with CADR, filtration performance is very important when it comes to the air in our indoor environment. This depends on the size of the particle or fiber, the filter packing density and depth, and the airflow rate. [39]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Air_handling_unit.JPG/220px-Air_handling_unit.JPG",
+                "caption": "Air handling unit , used for heating, cooling, and filtering the air"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning",
+        "title": "Heating, ventilation, and air conditioning",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "2007 – Torn solar panel",
+        "text": "On 30 October 2007, during Expedition 16 and flight day 7 of STS-120's visit to ISS, following the repositioning of the P6 truss segment, ISS and Space Shuttle Discovery crew members began the deployment of the two solar arrays on the truss. The first array deployed without incident, and the second array deployed about 80% before astronauts noticed a 76-centimetre (2.5 ft) tear. The arrays had been deployed in earlier phases of the space station's construction, and the retraction necessary to move the truss to its final position had gone less smoothly than planned. [14] A second, smaller tear was noticed upon further inspection, and the mission's spacewalks were replanned in order to devise a repair. Normally, such spacewalks take several months to plan and are settled upon well in advance. On 3 November, spacewalker Scott Parazynski , assisted by Douglas Wheelock , fixed the torn panels using makeshift cufflinks and riding on the end of the Space Shuttle's OBSS inspection arm. Parazynski was the first ever spacewalker to use the robotic arm in this way. The spacewalk was regarded as significantly more dangerous than most because of the possibility of shock from the electricity generating solar arrays, the unprecedented usage of the OBSS, and the lack of spacewalk planning and training for the impromptu procedure. Parazynski was, however, able to repair the damage as planned, and the repaired array was fully deployed. [15] Also, the OBSS will be left on the International Space Station because of its demonstrated versatility and ability to be left on the station for longer periods of time.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/STS120SolarPanel.jpg/220px-STS120SolarPanel.jpg",
+                "caption": "Damage to the 4B wing of the P6 solar array found when it was redeployed after being moved to its final position on STS-120 ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Maintenance_of_the_International_Space_Station",
+        "title": "Maintenance of the International Space Station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "2009 – Potential ammonia leak from S1 radiator due to damaged panel",
+        "text": "The S1-3 radiator has a damaged cooling panel that may require on-orbit repair or replacement, as the damage may have the potential to create a leak in the External Thermal Control System (ETCS) of the station, possibly leading to unacceptable loss of the ammonia coolant. [24] There are six such radiators, three on the starboard truss, and three on the port truss, each consisting of 8 panels. They appear as the large white pleated objects extending in the aft direction from the trusses, between the central habitable modules and the large solar panel arrays at the ends of the truss structure, and control the temperature of the ISS by dumping excess heat to space. The panels are double-sided, and radiate from both sides, with ammonia circulating between the top and bottom surfaces. [24] The problem was first noticed in Soyuz imagery in September 2008, but was not thought to be serious. [25] The imagery showed that the surface of one sub-panel has peeled back from the underlying central structure, possibly due to micro-meteoroid or debris impact. It is also known that a Service Module thruster cover, jettisoned during a spacewalk in 2008, had struck the S1 radiator, but its effect, if any, has not been determined. Further imagery during the fly-around from STS-119 raised concerns that structural fatigue, due to thermal cycling stress, could cause a serious leak to develop in the ammonia cooling loop, although there is as yet no evidence of a leak or of degradation in the thermal performance of the panel. Various options for repair are under consideration, including replacement of the entire S1 radiator in a future flight, possibly with return of the damaged unit to ground for detailed study. On 15 May 2009, the damaged radiator panel's ammonia tubing was mechanically shut off from the ETCS, by the computer-controlled closure of a valve. The same valve was used immediately afterwards to vent the ammonia from the damaged panel. This eliminates the possibility of an ammonia leak from the cooling system via the damaged panel. [24]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S1_Radiator_Damage.jpg/220px-S1_Radiator_Damage.jpg",
+                "caption": "The damaged S1 radiator on the ISS starboard truss."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Maintenance_of_the_International_Space_Station",
+        "title": "Maintenance of the International Space Station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Nuclear power plant",
+        "text": "Nuclear power plants are at the high end of the range of capacity factors, ideally reduced only by the availability factor , i.e. maintenance and refueling. The largest nuclear plant in the US, Palo Verde Nuclear Generating Station has between its three reactors a nameplate capacity of 3,942 MW. In 2010 its annual generation was 31,200,000 MWh, [2] leading to a capacity factor of: Each of Palo Verde’s three reactors is refueled every 18 months, with one refueling every spring and fall. In 2014, a refueling was completed in a record 28 days, [3] compared to the 35 days of downtime that the 2010 capacity factor corresponds to. In 2019, Prairie Island 1 was the US unit with the highest factor and actually reached 104.4%. [4]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Worldwide_Nuclear_Power_Capacity_Factors.png/220px-Worldwide_Nuclear_Power_Capacity_Factors.png",
+                "caption": "Worldwide Nuclear Power Capacity Factors"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Capacity_factor",
+        "title": "Capacity factor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    },
+    {
+        "section": "Capacity factor of renewable energy",
+        "text": "For renewable energy sources such as solar power , wind power and hydroelectricity , the main reason for reduced capacity factor is generally the availability of the energy source. \nThe plant may be capable of producing electricity, but its \"fuel\" ( wind , sunlight or water ) may not be available. \nA hydroelectric plant's production may also be affected by requirements to keep the water level from getting too high or low and to provide water for fish downstream. \nHowever, solar, wind and hydroelectric plants do have high availability factors , so when they have fuel available, they are almost always able to produce electricity. [11] When hydroelectric plants have water available, they are also useful for load following, because of their high dispatchability . A typical hydroelectric plant's operators can bring it from a stopped condition to full power in just a few minutes. Wind farms are variable, due to the natural variability of the wind. \nFor a wind farm, the capacity factor is determined by the availability of wind, the swept area of the turbine and the size of the generator . \nTransmission line capacity and electricity demand also affect the capacity factor. \nTypical capacity factors of current wind farms are between 25 and 45%. [12] In the United Kingdom during the five year period from 2011 to 2019 the annual capacity factor for wind was over 30%. [13] [14] [15] [16] Solar energy is variable because of the daily rotation of the earth, seasonal changes, and because of cloud cover. \nFor example, the Sacramento Municipal Utility District observed a 15% capacity factor in 2005. [17] However, according to the SolarPACES programme of the International Energy Agency (IEA), solar power plants designed for solar-only generation are well matched to summer noon peak loads in areas with significant cooling demands, such as Spain or the south-western United States , [18] although in some locations solar PV does not reduce the need for generation of network upgrades given that air conditioner peak demand often occurs in the late afternoon or early evening when solar output is reduced. [19] [20] SolarPACES states that by using thermal energy storage systems the operating periods of solar thermal power (CSP) stations can be extended to become dispatchable (load following). [18] Geothermal has a higher capacity factor than many other power sources, and geothermal resources are generally available all the time.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/US_EIA_monthly_capacity_factors_for_renewables_2011-2013.png",
+                "caption": "US EIA monthly capacity factors for renewables, 2011-2013"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Capacity_factor",
+        "title": "Capacity factor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar installation and maintenance"
+    }
+]

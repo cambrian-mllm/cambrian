@@ -1,0 +1,604 @@
+[
+    {
+        "section": "Plate tectonics",
+        "text": "According to the theory of plate tectonics, Earth's lithosphere , its rigid outer shell, is broken into sixteen larger and several smaller plates. These are in slow motion, due to convection in the underlying ductile mantle , and most volcanic activity on Earth takes place along plate boundaries, where plates are converging (and lithosphere is being destroyed) or are diverging (and new lithosphere is being created). [6] During the development of geological theory, certain concepts that allowed the grouping of volcanoes in time, place, structure and composition have developed that ultimately have had to be explained in the theory of plate tectonics. For example, some volcanoes are polygenetic with more than one period of activity during their history; other volcanoes that become extinct after erupting exactly once are monogenetic (meaning \"one life\") and such volcanoes are often grouped together in a geographical region. [7]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Spreading_ridges_volcanoes_map-en.svg/400px-Spreading_ridges_volcanoes_map-en.svg.png",
+                "caption": "Map showing the divergent plate boundaries (oceanic spreading ridges) and recent sub-aerial volcanoes (mostly at convergent boundaries)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Fissure vents",
+        "text": "Volcanic fissure vents are flat, linear fractures through which lava emerges.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lakagigar_Iceland_2004-07-01.jpg/220px-Lakagigar_Iceland_2004-07-01.jpg",
+                "caption": "Lakagigar fissure vent in Iceland , the source of the major world climate alteration of 1783–84 , has a chain of volcanic cones along its length."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Shield volcanoes",
+        "text": "Shield volcanoes, so named for their broad, shield-like profiles, are formed by the eruption of low-viscosity lava that can flow a great distance from a vent. They generally do not explode catastrophically, but are characterized by relatively gentle effusive eruptions . Since low-viscosity magma is typically low in silica, shield volcanoes are more common in oceanic than continental settings. The Hawaiian volcanic chain is a series of shield cones, and they are common in Iceland , as well.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Skjaldbreidur_Herbst_2004.jpg/220px-Skjaldbreidur_Herbst_2004.jpg",
+                "caption": "Skjaldbreiður , a shield volcano whose name means \"broad shield\""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Cinder cones",
+        "text": "Cinder cones result from eruptions of mostly small pieces of scoria and pyroclastics (both resemble cinders, hence the name of this volcano type) that build up around the vent. These can be relatively short-lived eruptions that produce a cone-shaped hill perhaps 30 to 400 meters (100 to 1,300 ft) high. Most cinder cones erupt only once and some may be found in monogenetic volcanic fields that may include other features that form when magma comes into contact with water such as maar explosion craters and tuff rings . [16] Cinder cones may form as flank vents on larger volcanoes, or occur on their own. Parícutin in Mexico and Sunset Crater in Arizona are examples of cinder cones. In New Mexico , Caja del Rio is a volcanic field of over 60 cinder cones. Based on satellite images, it has been suggested that cinder cones might occur on other terrestrial bodies in the Solar system too; on the surface of Mars and the Moon. [17] [18] [19] [20]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Izalco_Volcano.jpg/220px-Izalco_Volcano.jpg",
+                "caption": "Izalco volcano , the youngest volcano in El Salvador. Izalco erupted almost continuously from 1770 (when it formed) to 1958, earning it the nickname of \"Lighthouse of the Pacific\"."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Stratovolcanoes (composite volcanoes)",
+        "text": "Stratovolcanoes (composite volcanoes) are tall conical mountains composed of lava flows and tephra in alternate layers, the strata that gives rise to the name. They are also known as composite volcanoes because they are created from multiple structures during different kinds of eruptions. Classic examples include Mount Fuji in Japan, Mayon Volcano in the Philippines, and Mount Vesuvius and Stromboli in Italy. Ash produced by the explosive eruption of stratovolcanoes has historically posed the greatest volcanic hazard to civilizations. The lavas of stratovolcanoes are higher in silica, and therefore much more viscous, than lavas from shield volcanoes. High-silica lavas also tend to contain more dissolved gas. The combination is deadly, promoting explosive eruptions that produce great quantities of ash, as well as pyroclastic surges like the one that destroyed the city of Saint-Pierre in Martinique in 1902. They are also steeper than shield volcanoes, with slopes of 30–35° compared to slopes of generally 5–10°, and their loose tephra are material for dangerous lahars . [21] Large pieces of tephra are called volcanic bombs . Big bombs can measure more than 4 feet (1.2 meters) across and weigh several tons. [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Volcano_scheme.svg/310px-Volcano_scheme.svg.png",
+                "caption": "Cross-section through a stratovolcano (vertical scale is exaggerated) : Large magma chamber Bedrock Conduit (pipe) Base Sill Dike Layers of ash emitted by the volcano Flank Layers of lava emitted by the volcano Throat Parasitic cone Lava flow Vent Crater Ash cloud"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Submarine volcanoes",
+        "text": "Submarine volcanoes are common features of the ocean floor. Volcanic activity during the Holocene Epoch has been documented at only 119 submarine volcanoes, but there may be more than one million geologically young submarine volcanoes on the ocean floor. [27] [28] In shallow water, active volcanoes disclose their presence by blasting steam and rocky debris high above the ocean's surface. In the deep ocean basins, the tremendous weight of the water prevents the explosive release of steam and gases; however, submarine eruptions can be detected by hydrophones and by the discoloration of water because of volcanic gases . Pillow lava is a common eruptive product of submarine volcanoes and is characterized by thick sequences of discontinuous pillow-shaped masses which form under water. Even large submarine eruptions may not disturb the ocean surface, due to the rapid cooling effect and increased buoyancy in water (as compared to air), which often causes volcanic vents to form steep pillars on the ocean floor. Hydrothermal vents are common near these volcanoes, and some support peculiar ecosystems based on chemotrophs feeding on dissolved minerals. Over time, the formations created by submarine volcanoes may become so large that they break the ocean surface as new islands or floating pumice rafts . In May and June 2018, a multitude of seismic signals were detected by earthquake monitoring agencies all over the world. They took the form of unusual humming sounds, and some of the signals detected in November of that year had a duration of up to 20 minutes. An oceanographic research campaign in May 2019 showed that the previously mysterious humming noises were caused by the formation of a submarine volcano off the coast of Mayotte . [29]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif/220px-Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif",
+                "caption": "Satellite images of the 15 January 2022 eruption of Hunga Tonga-Hunga Haʻapai"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Erupted material",
+        "text": "The material that is expelled in a volcanic eruption can be classified into three types:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lava_channel_overflow.JPG/220px-Lava_channel_overflow.JPG",
+                "caption": "Pāhoehoe lava flow on Hawaii . The picture shows overflows of a main lava channel ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Litli-Hr%C3%BAtur_eruption_2023.jpg/220px-Litli-Hr%C3%BAtur_eruption_2023.jpg",
+                "caption": "Litli-Hrútur ( Fagradalsfjall ) eruption 2023. View from an airplane"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg/220px-Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg",
+                "caption": "The Stromboli stratovolcano off the coast of Sicily has erupted continuously for thousands of years, giving rise to its nickname \"Lighthouse of the Mediterranean\"."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Lava flows",
+        "text": "The form and style of eruption of a volcano is largely determined by the composition of the lava it erupts. The viscosity (how fluid the lava is) and the amount of dissolved gas are the most important characteristics of magma, and both are largely determined by the amount of silica in the magma. Magma rich in silica is much more viscous than silica-poor magma, and silica-rich magma also tends to contain more dissolved gases. Lava can be broadly classified into four different compositions: [39] Mafic lava flows show two varieties of surface texture: ʻAʻa (pronounced [ˈʔaʔa] ) and pāhoehoe ( [paːˈho.eˈho.e] ), both Hawaiian words. ʻAʻa is characterized by a rough, clinkery surface and is the typical texture of cooler basalt lava flows. Pāhoehoe is characterized by its smooth and often ropey or wrinkly surface and is generally formed from more fluid lava flows. Pāhoehoe flows are sometimes observed to transition to ʻaʻa flows as they move away from the vent, but never the reverse. [53] More silicic lava flows take the form of block lava, where the flow is covered with angular, vesicle-poor blocks. Rhyolitic flows typically consist largely of obsidian . [54]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rinjani_1994_cropped.jpg/220px-Rinjani_1994_cropped.jpg",
+                "caption": "Mount Rinjani eruption in 1994, in Lombok , Indonesia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Tephra",
+        "text": "Tephra is made when magma inside the volcano is blown apart by the rapid expansion of hot volcanic gases. Magma commonly explodes as the gas dissolved in it comes out of solution as the pressure decreases when it flows to the surface . These violent explosions produce particles of material that can then fly from the volcano. Solid particles smaller than 2 mm in diameter ( sand-sized or smaller) are called volcanic ash. [36] [37] Tephra and other volcaniclastics (shattered volcanic material) make up more of the volume of many volcanoes than do lava flows. Volcaniclastics may have contributed as much as a third of all sedimentation in the geologic record. The production of large volumes of tephra is characteristic of explosive volcanism. [55]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tuff_shards.jpg/220px-Tuff_shards.jpg",
+                "caption": "Light-microscope image of tuff as seen in thin section (long dimension is several mm): the curved shapes of altered glass shards (ash fragments) are well preserved, although the glass is partly altered. The shapes were formed around bubbles of expanding, water-rich gas."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Types of volcanic eruptions",
+        "text": "Eruption styles are broadly divided into magmatic, phreatomagmatic, and phreatic eruptions. [56] The intensity of explosive volcanism is expressed using the Volcanic Explosivity Index (VEI), which ranges from 0 for Hawaiian-type eruptions to 8 for supervolcanic eruptions. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Volcanic_injection.svg/220px-Volcanic_injection.svg.png",
+                "caption": "Schematic of volcano injection of aerosols and gases"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Volcanic activity",
+        "text": "As of December 2022 [update] , the Smithsonian Institution 's Global Volcanism Program database of volcanic eruptions in the Holocene Epoch (the last 11,700 years) lists 9,901 confirmed eruptions from 859 volcanoes. The database also lists 1,113 uncertain eruptions and 168 discredited eruptions for the same time interval. [58] [59] Volcanoes vary greatly in their level of activity, with individual volcanic systems having an eruption recurrence ranging from several times a year to once in tens of thousands of years. [60] Volcanoes are informally described as erupting , active , dormant , or extinct , but the definitions of these terms are not entirely uniform amongst volcanologists. The level of activity of most volcanoes falls upon a graduated spectrum, with much overlap between categories, and does not always fit neatly into only one of these three separate categories. [61]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pompeii_-_Casa_del_Centenario_-_MAN.jpg/170px-Pompeii_-_Casa_del_Centenario_-_MAN.jpg",
+                "caption": "Fresco with Mount Vesuvius behind Bacchus and Agathodaemon , as seen in Pompeii 's House of the Centenary"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Dormant and reactivated",
+        "text": "The USGS defines a dormant volcano as any volcano that is not showing any signs of unrest such as earthquake swarms, ground swelling, or excessive noxious gas emissions, but which shows signs that it could yet become active again. [63] Many dormant volcanoes have not erupted for thousands of years, but have still shown signs that they may be likely to erupt again in the future. [64] [65] In an article justifying the re-classification of Alaska's Mount Edgecumbe volcano from \"dormant\" to \"active\", volcanologists at the Alaska Volcano Observatory pointed out that the term \"dormant\" in reference to volcanoes has been deprecated over the past few decades and that \"[t]he term \"dormant volcano\" is so little used and undefined in modern volcanology that the Encyclopedia of Volcanoes (2000) does not contain it in the glossaries or index\", [66] however the USGS still widely employs the term. Previously a volcano was often considered to be extinct if there were no written records of its activity. Such a generalisation is inconsistent with observation and deeper study, as has occurred recently with the unexpected eruption of the Chaitén volcano in 2008. [67] Modern volcanic activity monitoring techniques, and improvements in the modelling of the factors that produce eruptions, have helped the understanding of why volcanoes may remain dormant for a long period of time, and then become unexpectedly active again. The potential for eruptions, and their style, depend mainly upon the state of the magma storage system under the volcano, the eruption trigger mechanism and its timescale. [68] : 95 For example, the Yellowstone volcano has a repose/recharge period of around 700,000 years, and Toba of around 380,000 years. [69] Vesuvius was described by Roman writers as having been covered with gardens and vineyards before its unexpected eruption of 79 CE , which destroyed the towns of Herculaneum and Pompeii . Accordingly, it can sometimes be difficult to distinguish between an extinct volcano and a dormant (inactive) one. Long volcano dormancy is known to decrease awareness. [68] : 96 Pinatubo was an inconspicuous volcano, unknown to most people in the surrounding areas, and initially not seismically monitored before its unanticipated and catastrophic eruption of 1991. Two other examples of volcanoes which were once thought to be extinct, before springing back into eruptive activity were the long-dormant Soufrière Hills volcano on the island of Montserrat , thought to be extinct until activity resumed in 1995 (turning its capital Plymouth into a ghost town ) and Fourpeaked Mountain in Alaska, which, before its September 2006 eruption, had not erupted since before 8000 BCE.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Narcondam_island.jpg/220px-Narcondam_island.jpg",
+                "caption": "Narcondam Island , India, is classified as a dormant volcano by the Geological Survey of India ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Extinct",
+        "text": "Extinct volcanoes are those that scientists consider unlikely to erupt again because the volcano no longer has a magma supply. Examples of extinct volcanoes are many volcanoes on the Hawaiian–Emperor seamount chain in the Pacific Ocean (although some volcanoes at the eastern end of the chain are active), Hohentwiel in Germany , Shiprock in New Mexico , US , Capulin in New Mexico, US, Zuidwal volcano in the Netherlands , and many volcanoes in Italy such as Monte Vulture . Edinburgh Castle in Scotland is located atop an extinct volcano, which forms Castle Rock . Whether a volcano is truly extinct is often difficult to determine. Since \"supervolcano\" calderas can have eruptive lifespans sometimes measured in millions of years, a caldera that has not produced an eruption in tens of thousands of years may be considered dormant instead of extinct. An individual volcano in a monogenetic volcanic field can be extinct but that does not mean a completely new volcano might not erupt close by with little or no warning as its field may have an active magma supply.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Capulin_1980_tde00005.jpg/220px-Capulin_1980_tde00005.jpg",
+                "caption": "Capulin Volcano National Monument in New Mexico, US"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Decade volcanoes",
+        "text": "The Decade Volcanoes are 16 volcanoes identified by the International Association of Volcanology and Chemistry of the Earth's Interior (IAVCEI) as being worthy of particular study in light of their history of large, destructive eruptions and proximity to populated areas. They are named Decade Volcanoes because the project was initiated as part of the United Nations-sponsored International Decade for Natural Disaster Reduction (the 1990s). The 16 current Decade Volcanoes are: The Deep Earth Carbon Degassing Project , an initiative of the Deep Carbon Observatory , monitors nine volcanoes, two of which are Decade volcanoes. The focus of the Deep Earth Carbon Degassing Project is to use Multi-Component Gas Analyzer System instruments to measure CO 2 /SO 2 ratios in real-time and in high-resolution to allow detection of the pre-eruptive degassing of rising magmas, improving prediction of volcanic activity . [71]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg/220px-Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg",
+                "caption": "Koryaksky volcano towering over Petropavlovsk-Kamchatsky on Kamchatka Peninsula , Far Eastern Russia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Volcanoes and humans",
+        "text": "Volcanic eruptions pose a significant threat to human civilization. However, volcanic activity has also provided humans with important resources.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mauna_Loa_atmospheric_transmission.png/220px-Mauna_Loa_atmospheric_transmission.png",
+                "caption": "Solar radiation graph 1958–2008, showing how the radiation is reduced after major volcanic eruptions"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SO2_Galapagos_20051101.jpg/220px-SO2_Galapagos_20051101.jpg",
+                "caption": "Sulfur dioxide concentration over the Sierra Negra Volcano , Galapagos Islands , during an eruption in October 2005"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Hazards",
+        "text": "There are many different types of volcanic eruptions and associated activity: phreatic eruptions (steam-generated eruptions), explosive eruption of high- silica lava (e.g., rhyolite ), effusive eruption of low-silica lava (e.g., basalt ), sector collapses , pyroclastic flows , lahars (debris flow) and carbon dioxide emission . All of these activities can pose a hazard to humans. Earthquakes, hot springs , fumaroles , mud pots and geysers often accompany volcanic activity. Volcanic gases can reach the stratosphere, where they form sulfuric acid aerosols that can reflect solar radiation and lower surface temperatures significantly. [72] Sulfur dioxide from the eruption of Huaynaputina may have caused the Russian famine of 1601–1603 . [73] Chemical reactions of sulfate aerosols in the stratosphere can also damage the ozone layer , and acids such as hydrogen chloride (HCl) and hydrogen fluoride (HF) can fall to the ground as acid rain . Excessive fluoride salts from eruptions have poisoned livestock in Iceland on multiple occasions. [74] : 39–58 Explosive volcanic eruptions release the greenhouse gas carbon dioxide and thus provide a deep source of carbon for biogeochemical cycles . [75] Ash thrown into the air by eruptions can present a hazard to aircraft, especially jet aircraft where the particles can be melted by the high operating temperature; the melted particles then adhere to the turbine blades and alter their shape, disrupting the operation of the turbine. This can cause major disruptions to air travel. A volcanic winter is thought to have taken place around 70,000 years ago after the supereruption of Lake Toba on Sumatra island in Indonesia. [76] This may have created a population bottleneck that affected the genetic inheritance of all humans today. [77] Volcanic eruptions may have contributed to major extinction events, such as the End-Ordovician , Permian-Triassic , and Late Devonian mass extinctions . [78] The 1815 eruption of Mount Tambora created global climate anomalies that became known as the \" Year Without a Summer \" because of the effect on North American and European weather. [79] The freezing winter of 1740–41, which led to widespread famine in northern Europe, may also owe its origins to a volcanic eruption. [80]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Large_eruptions.jpg/290px-Large_eruptions.jpg",
+                "caption": "Comparison of major United States prehistoric eruptions ( VEI 7 and 8 ) with major historical volcanic eruptions in the 19th and 20th century (VEI 5, 6 and 7). From left to right: Yellowstone 2.1 Ma, Yellowstone 1.3 Ma, Long Valley 6.26 Ma, Yellowstone 0.64 Ma . 19th century eruptions: Tambora 1815, Krakatoa 1883. 20th century eruptions: Novarupta 1912, St. Helens 1980, Pinatubo 1991."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Volcanoes on other celestial bodies",
+        "text": "Earth's Moon has no large volcanoes and no current volcanic activity, although recent evidence suggests it may still possess a partially molten core. [91] However, the Moon does have many volcanic features such as maria [92] (the darker patches seen on the Moon), rilles [93] and domes . [94] The planet Venus has a surface that is 90% basalt , indicating that volcanism played a major role in shaping its surface. The planet may have had a major global resurfacing event about 500 million years ago, [95] from what scientists can tell from the density of impact craters on the surface. Lava flows are widespread and forms of volcanism not present on Earth occur as well. Changes in the planet's atmosphere and observations of lightning have been attributed to ongoing volcanic eruptions, although there is no confirmation of whether or not Venus is still volcanically active. However, radar sounding by the Magellan probe revealed evidence for comparatively recent volcanic activity at Venus's highest volcano Maat Mons , in the form of ash flows near the summit and on the northern flank. [96] However, the interpretation of the flows as ash flows has been questioned. [97] There are several extinct volcanoes on Mars , four of which are vast shield volcanoes far bigger than any on Earth. They include Arsia Mons , Ascraeus Mons , Hecates Tholus , Olympus Mons , and Pavonis Mons . These volcanoes have been extinct for many millions of years, [98] but the European Mars Express spacecraft has found evidence that volcanic activity may have occurred on Mars in the recent past as well. [98] Jupiter 's moon Io is the most volcanically active object in the Solar System because of tidal interaction with Jupiter. It is covered with volcanoes that erupt sulfur , sulfur dioxide and silicate rock, and as a result, Io is constantly being resurfaced. Its lavas are the hottest known anywhere in the Solar System, with temperatures exceeding 1,800 K (1,500 °C). In February 2001, the largest recorded volcanic eruptions in the Solar System occurred on Io. [99] Europa , the smallest of Jupiter's Galilean moons , also appears to have an active volcanic system, except that its volcanic activity is entirely in the form of water, which freezes into ice on the frigid surface. This process is known as cryovolcanism , and is apparently most common on the moons of the outer planets of the Solar System . [100] In 1989, the Voyager 2 spacecraft observed cryovolcanoes (ice volcanoes) on Triton , a moon of Neptune , and in 2005 the Cassini–Huygens probe photographed fountains of frozen particles erupting from Enceladus , a moon of Saturn . [101] [102] The ejecta may be composed of water, liquid nitrogen , ammonia , dust, or methane compounds. Cassini–Huygens also found evidence of a methane-spewing cryovolcano on the Saturnian moon Titan , which is believed to be a significant source of the methane found in its atmosphere. [103] It is theorized that cryovolcanism may also be present on the Kuiper Belt Object Quaoar . A 2010 study of the exoplanet COROT-7b , which was detected by transit in 2009, suggested that tidal heating from the host star very close to the planet and neighboring planets could generate intense volcanic activity similar to that found on Io. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tvashtarvideo.gif/220px-Tvashtarvideo.gif",
+                "caption": "The Tvashtar volcano erupts a plume 330 km (205 mi) above the surface of Jupiter 's moon Io ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Olympus_Mons.jpeg/170px-Olympus_Mons.jpeg",
+                "caption": "Olympus Mons ( Latin , \"Mount Olympus\"), located on the planet Mars , is the tallest known mountain in the Solar System ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Eruption at the surface",
+        "text": "At 07:15 UTC on 14 November 1963, the cook of Ísleifur II , a trawler sailing these same waters, spotted a rising column of dark smoke southwest of the boat. The captain thought it might have been a boat on fire, and ordered his crew to investigate. Instead, they encountered explosive eruptions giving off black columns of ash, indicating that a volcanic eruption had begun to breach the surface of the sea. [5] By 11:00 the same day, the eruption column had reached several kilometres in height. At first the eruptions took place at three separate vents along a northeast by southwest trending fissure , but by the afternoon the separate eruption columns had merged into one along the erupting fissure. Over the next week, explosions were continuous, and after just a few days the new island, formed mainly of scoria , measured over 500 metres (1,640 feet) in length and had reached a height of 45 metres (148 feet). [8] As the eruptions continued, they became concentrated at one vent along the fissure and began to build the island into a more circular shape. By 24 November, the island measured about 900 by 650 metres (2,950 by 2,130 ft). The violent explosions caused by the meeting of lava and sea water meant that the island consisted of a loose pile of volcanic rock ( scoria ), which was eroded rapidly by North Atlantic storms during the winter. However, eruptions more than kept pace with wave erosion, and by February 1964, the island had a maximum diameter of over 1,300 metres (4,265 feet). [5] The explosive phreatomagmatic eruptions caused by the easy access of water to the erupting vents threw rocks up to a kilometre (0.6 mi) away from the island, and sent ash clouds as high as 10 km (6.2 mi) up into the atmosphere . The loose pile of unconsolidated tephra would quickly have been washed away had the supply of fresh magma dwindled, and large clouds of dust were often seen blowing away from the island during this stage of the eruption. [5] The new island was named after the fire jötunn Surtur from Norse mythology ( Surts is the genitive case of Surtur , plus -ey , island ). Three French journalists representing the magazine Paris Match notably landed there on 6 December 1963, staying for about 15 minutes before violent explosions encouraged them to leave. The journalists jokingly claimed French sovereignty over the island, but Iceland quickly asserted that the new island belonged to it. [9]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Surtsey_eruption_2.jpg/250px-Surtsey_eruption_2.jpg",
+                "caption": "Surtsey's ash column rises over the newly forming island"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Surtsey",
+        "title": "Surtsey",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Subsequent volcanic activity",
+        "text": "In 1965, the activity on the main island diminished, but at the end of May that year an eruption began at a vent 0.6 km (0.37 mi) off the northern shore. By 28 May, an island had appeared, and was named Syrtlingur ( [ˈsɪr̥tliŋkʏr̥] Little Surtsey). The new island was washed away during early June, but reappeared on 14 June. Eruptions at Syrtlingur were much smaller in scale than those that had built Surtsey, with the average rate of emission of volcanic materials being about a tenth of the rate at the main vent. Activity was short-lived, continuing until the beginning of October 1965, by which time the islet had an area of 0.15 km 2 (0.058 sq mi). Once the eruptions had ceased, wave erosion rapidly wore the island away, and it disappeared beneath the waves on 24 October. [11] During December 1965, more submarine activity occurred 0.9 km (0.56 mi) southwest of Surtsey, and another island was formed. It was named Jólnir , and over the following eight months it appeared and disappeared several times, as wave erosion and volcanic activity alternated in dominance. Activity at Jólnir was much weaker than the activity at the main vent, and even weaker than that seen at Syrtlingur, but the island eventually grew to a maximum size of 70 m (230 ft) in height, covering an area of 0.3 km 2 (0.12 sq mi), during July and early August 1966. Like Syrtlingur, though, after activity ceased on 8 August 1966, it was rapidly eroded, and dropped below sea level during October 1966. [12] Effusive eruptions on the main island returned on 19 August 1966, with fresh lava flows giving it further resistance to erosion. The eruption rate diminished steadily, though, and on 5 June 1967, the eruption ended. The volcano has been dormant ever since. The total volume of lava emitted during the three-and-a-half-year eruption was about one cubic kilometre (0.24 cu mi), and the island's highest point was 174 metres (571 feet) above sea level at that time. [5] Since the end of the eruption, erosion has seen the island diminish in size. A large area on the southeast side has been eroded away completely, while a sand spit called Norðurtangi (north point) has grown on the north side of the island. It is estimated that about 0.024 km 3 (0.0058 cu mi) of material has been lost due to erosion—this represents about a quarter of the original above-sea-level volume of the island. [13] [14] Its maximum elevation has diminished to 155 m (509 ft). [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Surtsey_craters.jpg/250px-Surtsey_craters.jpg",
+                "caption": "The eruption vents in 1999"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Surtsey",
+        "title": "Surtsey",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Recent development",
+        "text": "Following the end of the eruption, scientists established a grid of benchmarks against which they measured the change in the shape of the island. In the 20 years following the end of the eruption, measurements revealed that the island was steadily subsiding and had lost about one metre in height. The rate of subsidence was initially about 20 cm (8 in) per year but slowed to 1–2 cm (0.39–0.79 in) a year by the 1990s. It had several causes: settling of the loose tephra forming the bulk of the volcano, compaction of sea floor sediments underlying the island, and downward warping of the lithosphere due to the weight of the volcano. [15] Volcanoes in the Vestmannaeyjar archipelago are typically monogenetic , and so the island is unlikely to be enlarged in the future by further eruptions. The heavy seas around the island have been eroding it ever since the island appeared, and since the end of the eruption almost half of its original area has been lost. The island currently loses about 1.0 hectare (2.5 acres) of its surface area each year. [16]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Surtsey_from_plane%2C_1999.jpg/250px-Surtsey_from_plane%2C_1999.jpg",
+                "caption": "The island of Surtsey in 1999"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/North_Spit_of_Surtsey_Jan_2009.jpg/250px-North_Spit_of_Surtsey_Jan_2009.jpg",
+                "caption": "North spit of Surtsey in January 2009"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Surtsey",
+        "title": "Surtsey",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Future",
+        "text": "As a suspected part of the Iceland plume , this island is unlikely to disappear entirely in the near future. The eroded area consisted mostly of loose tephra , easily washed away. Most of the remaining area is capped by hard lava flows, which are much more resistant to erosion. In addition, complex chemical reactions within the loose tephra within the island have gradually formed highly erosion-resistant tuff material, in a process known as palagonitization . On Surtsey, this process has happened quite rapidly, due to high temperatures not far below the surface. [17] Estimates of how long Surtsey will survive are based on the rate of erosion seen up to the present day. Assuming that the current rate does not change, the island will be mostly at or below sea level by 2100. However, the rate of erosion is likely to slow as the tougher core of the island is exposed: an assessment assuming that the rate of erosion will slow exponentially suggests that the island will survive for many centuries. [13] An idea of what it will look like in the future is given by the other small islands in the Vestmannaeyjar archipelago, which formed in the same way as Surtsey several thousand years ago, and have eroded away substantially since they were formed. [16]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Small_islands_in_the_Vestmannaeyjar_archipelago%2C_Iceland.jpg/250px-Small_islands_in_the_Vestmannaeyjar_archipelago%2C_Iceland.jpg",
+                "caption": "Other islands in the archipelago show the effects of centuries of erosion"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Surtsey",
+        "title": "Surtsey",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Bird life",
+        "text": "The expansion of bird life on the island has both relied on and helped to advance the spread of plant life. Birds use the plants for nesting material, but also continue to assist in the spreading of seeds, and fertilize the soil with their guano . [23] Birds first began nesting on Surtsey three years after the eruptions ended, with northern fulmar ( Procellaria glacialis ) and black guillemot ( Cepphus grylle ) being the first species to set up home. Twelve species are now regularly found on the island. [24] A gull colony has been present since 1984, although gulls were seen briefly on the shores of the new island weeks after it first appeared. [24] The gull colony has been particularly important in developing the plant life on Surtsey, [23] [24] and the gulls have had much more of an impact on plant colonisation than other breeding species due to their abundance. An expedition in 2004 found the first evidence of nesting Atlantic puffins ( Fratercula arctica ), [24] which are abundant in the rest of the archipelago . [25] As well as providing a home for some species of birds, Surtsey has also been used as a stopping-off point for migrating birds, particularly those en route between Europe and Iceland. [26] [27] Species that have been seen briefly on the island include whooper swans ( Cygnus cygnus ), various species of geese , and common ravens ( Corvus corax ). Although Surtsey lies to the west of the main migration routes to Iceland, it has become a more common stopping point as its vegetation has improved. [28] In 2008, the 14th breeding bird species was detected with the discovery of a common raven's nest. [20] According to a 30 May 2009 report, a golden plover ( Pluvialis apricaria ) was nesting on the island, with four eggs. [29]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Puffin2.jpg/150px-Puffin2.jpg",
+                "caption": "The first puffin nests were found on Surtsey in 2004"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Surtsey",
+        "title": "Surtsey",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Distribution and size",
+        "text": "There are approximately 440 atolls in the world. [9] Most of the world's atolls are in the Pacific Ocean (with concentrations in the Caroline Islands , the Coral Sea Islands , the Marshall Islands , the Tuamotu Islands , Kiribati , Tokelau , and Tuvalu ) and the Indian Ocean (the Chagos Archipelago , Lakshadweep , the atolls of the Maldives , and the Outer Islands of Seychelles ). The Atlantic Ocean has no large groups of atolls, other than eight atolls east of Nicaragua that belong to the Colombian department of San Andres and Providencia in the Caribbean. Reef-building corals will thrive only in warm tropical and subtropical waters of oceans and seas, and therefore atolls are found only in the tropics and subtropics. The northernmost atoll in the world is Kure Atoll at 28°25′ N, along with other atolls of the Northwestern Hawaiian Islands . The southernmost atolls in the world are Elizabeth Reef at 29°57′ S, and nearby Middleton Reef at 29°27′ S, in the Tasman Sea , both of which are part of the Coral Sea Islands Territory. The next southerly atoll is Ducie Island in the Pitcairn Islands Group, at 24°41′ S. \nThe atoll closest to the Equator is Aranuka of Kiribati. Its southern tip is just 13 km (8 mi) north of the Equator. Bermuda is sometimes claimed as the \"northernmost atoll\" at a latitude of 32°18′ N. At this latitude, coral reefs would not develop without the warming waters of the Gulf Stream . However, Bermuda is termed a pseudo-atoll because its general form, while resembling that of an atoll, has a very different origin of formation. In most cases, the land area of an atoll is very small in comparison to the total area. Atoll islands are low lying, with their elevations less than 5 metres (16 ft). Measured by total area, Lifou (1,146 km 2 , 442 sq mi) is the largest raised coral atoll of the world, followed by Rennell Island (660 km 2 , 250 sq mi). [10] More sources, however, list Kiritimati as the largest atoll in the world in terms of land area. It is also a raised coral atoll (321 km 2 , 124 sq mi land area; according to other sources even 575 km 2 , 222 sq mi), 160 km 2 (62 sq mi) main lagoon, 168 km 2 (65 sq mi) other lagoons (according to other sources 319 km 2 , 123 sq mi total lagoon size). The geological formation known as a reef knoll refers to the elevated remains of an ancient atoll within a limestone region, appearing as a hill. The second largest atoll by dry land area is Aldabra , with 155 km 2 (60 sq mi). Huvadhu Atoll , situated in the southern region of the Maldives, holds the distinction of being the largest atoll based on the sheer number of islands it comprises, with a total of 255 individual islands.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/On_the_structure_and_distribution_of_coral_reefs_BHL40453231.jpg/660px-On_the_structure_and_distribution_of_coral_reefs_BHL40453231.jpg",
+                "caption": "Map from Charles Darwin 's 1842 The Structure and Distribution of Coral Reefs showing the world's major groups of atolls and coral reefs"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Atoll",
+        "title": "Atoll",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Formation",
+        "text": "In 1842, Charles Darwin [5] explained the creation of coral atolls in the southern Pacific Ocean based upon observations made during a five-year voyage aboard HMS Beagle from 1831 to 1836. Darwin's explanation suggests that several tropical island types: from high volcanic island, through barrier reef island, to atoll, represented a sequence of gradual subsidence of what started as an oceanic volcano. He reasoned that a fringing coral reef surrounding a volcanic island in the tropical sea will grow upward as the island subsides (sinks), becoming an \"almost atoll\", or barrier reef island, as typified by an island such as Aitutaki in the Cook Islands, and Bora Bora and others in the Society Islands. The fringing reef becomes a barrier reef for the reason that the outer part of the reef maintains itself near sea level through biotic growth, while the inner part of the reef falls behind, becoming a lagoon because conditions are less favorable for the coral and calcareous algae responsible for most reef growth. In time, subsidence carries the old volcano below the ocean surface and the barrier reef remains. At this point, the island has become an atoll. As formulated by J. E. Hoffmeister, [14] F. S. McNeil, [15] E. G. Prudy, [6] and others, the antecedent karst model argues that atolls are Pleistocene features that are the direct result of the interaction between subsidence and preferential karst dissolution that occurred in the interior of flat topped coral reefs during exposure during glacial lowstands of sea level. The elevated rims along an island created by this preferential karst dissolution become the sites of coral growth and islands of atolls when flooded during interglacial highstands. The research of A. W. Droxler and others [4] supports the antecedent karst model as they found that the morphology of modern atolls are independent of any influence of an underlying submerged and buried island and are not rooted to an initial fringing reef/barrier reef attached to a slowly subsiding volcanic edifice. In fact, the Neogene reefs underlying the studied modern atolls overlie and completely bury the subsided island are all non-atoll, flat-topped reefs. In fact, they found that atolls did not form doing the subsidence of an island until MIS-11, Mid-Brunhes, long after the many the former islands had been completely submerged and buried by flat topped reefs during the Neogene. Atolls are the product of the growth of tropical marine organisms, and so these islands are found only in warm tropical waters. Volcanic islands located beyond the warm water temperature requirements of hermatypic (reef-building) organisms become seamounts as they subside, and are eroded away at the surface. An island that is located where the ocean water temperatures are just sufficiently warm for upward reef growth to keep pace with the rate of subsidence is said to be at the Darwin Point . Islands in colder, more polar regions evolve toward seamounts or guyots ; warmer, more equatorial islands evolve toward atolls, for example Kure Atoll . However, ancient atolls during the Mesozoic appear to exhibit different growth and evolution patterns. [16] [17] Coral atolls are important as sites where dolomitization of calcite occurs. Several models have been proposed for the dolomitization of calcite and aragonite within them. They are the evaporative, seepage-reflux, mixing-zone, burial, and seawater models. Although the origin of replacement dolomites remains problematic and controversial, it is generally accepted that seawater was the source of magnesium for dolomitization and the fluid in which calcite was dolomitized to form the dolomites found within atolls. Various processes have been invoked to drive large amounts of seawater through an atoll in order for dolomitization to occur. [18] [19] [20]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bora_Bora_%2816542797633%29.jpg/220px-Bora_Bora_%2816542797633%29.jpg",
+                "caption": "Aerial view of Bora Bora"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/South_Tarawa_from_the_air.jpg/220px-South_Tarawa_from_the_air.jpg",
+                "caption": "Tarawa Atoll"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bikini_Atoll.png/220px-Bikini_Atoll.png",
+                "caption": "Bikini Atoll"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Atoll",
+        "title": "Atoll",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Investigation by the Royal Society of London",
+        "text": "In 1896, 1897 and 1898, the Royal Society of London carried out drilling on Funafuti atoll in Tuvalu for the purpose of investigating the formation of coral reefs . They wanted to determine whether traces of shallow water organisms could be found at depth in the coral of Pacific atolls. This investigation followed the work on the structure and distribution of coral reefs conducted by Charles Darwin in the Pacific. The first expedition in 1896 was led by Professor William Johnson Sollas of the University of Oxford . Geologists included Walter George Woolnough and Edgeworth David of the University of Sydney . Professor Edgeworth David led the expedition in 1897. [21] The third expedition in 1898 was led by Alfred Edmund Finckh. [22] [23] [24]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Wake_Island_air.JPG/220px-Wake_Island_air.JPG",
+                "caption": "Aerial overview of the Wake Island atoll, part of the Pacific Remote Islands Marine National Monument"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Atoll",
+        "title": "Atoll",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Historical names",
+        "text": "Historically, the island has been called by many different names including: Before the Japanese annexation in 1910, the island was usually known as Quelpart (Quelpaërt, Quelpaert) to Europeans; [12] during the occupation it was known by the Japanese name Saishū. The name Quelpart coming from French language is attested in Dutch no later than 1648 and may have denoted the first Dutch ship to spot the island, the quelpaert de Brack around 1642, or rather some visual similarity of the island from some angle to this class of ships (a small dispatch vessel, also called a galiot ). The first European explorers to sight the island, the Portuguese, called it Ilha de Ladrones (Island of Thieves). [13] The name \"Fungma island\" appeared in the \"Atlas of China\" of M. Martini who arrived in China as a missionary in 1655. [14]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/La-coree-ou-tchosen-7.png/220px-La-coree-ou-tchosen-7.png",
+                "caption": "1894 map of Quelpaërt or Tchæ-Tchiou"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Jeju_Island",
+        "title": "Jeju Island",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Landscape",
+        "text": "Jeju is a volcanic island , dominated by Hallasan : a volcano 1,950 metres (6,400 ft) high and the highest mountain in South Korea. The island measures approximately 73 kilometres (45 mi) across, east to west, and 41 kilometres (25 mi) from north to south. [18] The island formed by volcanic eruptions approximately two million years ago, during the Pleistocene epoch. [19] The island consists chiefly of basalt and lava. An area covering about 12% (224 square kilometres or 86 square miles) of Jeju Island is known as Gotjawal Forest . [20] This area remained uncultivated until the 21st century, as its base of 'a'a lava made it difficult to develop for agriculture. Because this forest remained pristine for so long, it has a unique ecology. [21] The forest is the main source of groundwater and thus the main water source for the half million people of the island, because rainwater penetrates directly into the aquifer through the cracks of the 'a'a lava under the forest. Gotjawal forest is considered an internationally important wetland under the Ramsar Convention by some researchers [22] because it is the habitat of unique species of plants and is the main source of water for the residents, although to date it has not been declared a Ramsar site. [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spirited_Garden_06.jpg/220px-Spirited_Garden_06.jpg",
+                "caption": "Spirited Garden in Jeju Island"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Jeju_Island",
+        "title": "Jeju Island",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Differentiation from continents",
+        "text": "There is no standard of size that distinguishes islands from continents , [6] or from islets . [7] There is a widely accepted difference between islands and continents in terms of geology . [8] Continents are often considered to be the largest landmass of a particular continental plate ; this holds true for Australia , which sits on its own continental lithosphere and tectonic plate (the Australian Plate ). [9] By contrast, islands are usually seen as being extensions of the oceanic crust (e.g. volcanic islands ), or as belonging to a continental plate containing a larger landmass (continental islands); the latter is the case of Greenland , which sits on the North American Plate . [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fuller_projection_with_largest_islands.svg/300px-Fuller_projection_with_largest_islands.svg.png",
+                "caption": "Dymaxion world map with continental landmasses (I,II,III,IV) and largest islands (1–30) roughly to scale"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Island",
+        "title": "Island",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Atolls",
+        "text": "An atoll is an island formed from a coral reef that has grown on an eroded and submerged volcanic island. The reef rises to the surface of the water and forms a new island. Atolls are typically ring-shaped with a central lagoon . Examples are the Line Islands in the Pacific Ocean and Maldives in the Indian Ocean . [26]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/On_the_structure_and_distribution_of_coral_reefs_BHL40453231.jpg/660px-On_the_structure_and_distribution_of_coral_reefs_BHL40453231.jpg",
+                "caption": "Map from Charles Darwin 's 1842 The Structure and Distribution of Coral Reefs showing the world's major groups of atolls and coral reefs"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Island",
+        "title": "Island",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Tropical islands",
+        "text": "Approximately 45,000 tropical islands with an area of at least 5 hectares (12 acres) exist. [27] Examples formed from coral reefs include Maldives , Tonga , Samoa , Nauru , and Polynesia . [27] Granite islands include Seychelles [28] and Tioman . The socio-economic diversity of tropical islands ranges from the Stone Age societies in the interior of North Sentinel , Madagascar , Borneo , and Papua New Guinea to the high-tech lifestyles of the city-islands of Singapore and Hong Kong . [29] International tourism is a significant factor in the economy of many tropical islands including Seychelles, Sri Lanka , Mauritius , Réunion , Hawaii , Puerto Rico and the Maldives .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Landing_Runway_18_%282121588367%29.jpg/220px-Landing_Runway_18_%282121588367%29.jpg",
+                "caption": "Plane landing on an airport island, Velana International Airport , Hulhulé Island , Maldives"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Island",
+        "title": "Island",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Artificial islands",
+        "text": "Almost all of Earth 's islands are natural and have been formed by tectonic forces or volcanic eruptions. However, artificial (man-made) islands also exist, such as the island in Osaka Bay off the Japanese island of Honshu , on which Kansai International Airport is located. Artificial islands can be built using natural materials (e.g., earth, rock, or sand) or artificial ones (e.g., concrete slabs or recycled waste ). [32] [33] Sometimes natural islands are artificially enlarged, such as Vasilyevsky Island in the Russian city of St. Petersburg , which had its western shore extended westward by some 0.5 km in the construction of the Passenger Port of St. Petersburg . [34] Artificial islands are sometimes built on pre-existing \"low-tide elevation,\" a naturally formed area of land which is surrounded by and above water at low tide but submerged at high tide.  Legally these are not islands and have no territorial sea of their own. [35]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kansai_International_Airport_Aerial_photograph.2007.jpg/220px-Kansai_International_Airport_Aerial_photograph.2007.jpg",
+                "caption": "Kansai International Airport , on an artificial island"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Island",
+        "title": "Island",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Examples",
+        "text": "Two classic examples of oceanic island arcs are the Mariana Islands in the western Pacific Ocean and the Lesser Antilles in the western Atlantic Ocean.  The Cascade Volcanic Arc in western North America and the Andes along the western edge of South America are examples of continental volcanic arcs. The best examples of volcanic arcs with both sets of characteristics are in the North Pacific, with the Aleutian Arc consisting of the Aleutian Islands and their extension the Aleutian Range on the Alaska Peninsula , and the Kuril–Kamchatka Arc comprising the Kuril Islands and southern Kamchatka Peninsula .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cascadia_subduction_zone_USGS.png/280px-Cascadia_subduction_zone_USGS.png",
+                "caption": "Cascade Volcanic Arc, a continental volcanic arc"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Map_of_alaska_volcanoes_okmok.jpg/390px-Map_of_alaska_volcanoes_okmok.jpg",
+                "caption": "The Aleutian Arc, with both oceanic and continental parts."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanic_arc",
+        "title": "Volcanic arc",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Geography",
+        "text": "The caldera measures about 12 by 7 km (7.5 by 4.3 mi), with 300 m (980 ft) high steep cliffs on three sides. There are two small volcanic islands at the center of the caldera, Nea (\"New\") Kameni and Palea (\"Old\") Kameni . The main island, Santorini has an area of 75.8 km 2 (29.3 sq mi), Therasia 9.3 km 2 (3.6 sq mi), and the uninhabited islands of Nea Kameni 3.4 km 2 (1.3 sq mi), Palea Kameni 0.5 km 2 (0.19 sq mi) and Aspronisi 0.1 km 2 (0.039 sq mi). Santorini's high walls, draped by whitewashed villages, combined with a sunny climate and good observation conditions, have made it a magnet for volcanologists, [1] as well as a highlight of tourism in the Aegean.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Santorini_view_from_plane.jpg/220px-Santorini_view_from_plane.jpg",
+                "caption": "Photograph of Santorini caldera from the air."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Santorini_caldera",
+        "title": "Santorini caldera",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Geology",
+        "text": "The volcanic complex of Santorini is the most active part of the South Aegean Volcanic Arc , which includes the active volcanoes of Methana on the mainland of Greece, Milos , Santorini and Nisyros . It is formed by the subduction of the African tectonic plate underneath the Aegean subplate of the Eurasian tectonic plate, which occurs at a rate of up to 5 cm per year in a northeasterly direction.  This subduction causes earthquakes at depths of 150–170 km. [2] Non-volcanic rocks are exposed on Santorini at Mikro Profititis Ilias , Mesa Vouno, the Gavrillos ridge, Pirgos, Monolithos and the inner side of the caldera wall between Cape Plaka and Athinios. [3] The Kameni islands at the center of the caldera are made of lava rocks.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Southern_aegean_volcanic_arc.jpg/220px-Southern_aegean_volcanic_arc.jpg",
+                "caption": "The South Aegean Volcanic Arc includes the volcanoes of Methana, Milos, Santorini and Nisyros."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Santorini_caldera",
+        "title": "Santorini caldera",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Volcanology",
+        "text": "The caldera of Santorini lies in the center of the Christiana-Santorini-Kolumbo volcanic field, which comprises the extinct Christiana Volcano, the Santorini Caldera, the polygenetic submarine Kolumbo Volcano, as well as the Kolumbo Volcanic Chain. [4] This volcanic lineament evolved during four main phases of volcanic activity, which initiated in the Pliocene from several local centers that only recently matured to form the vast Santorini edifice. The present-day caldera is composed of overlapping shield volcanoes, cut by at least four partially overlapping calderas, of which the oldest southern caldera was formed about 180,000 years before the present era (BP). The subsequent Skaros caldera was created about 70,000 years BP, and the Cape Riva caldera about 21,000 years BP. The current caldera was formed about 3600 years BP during the Minoan eruption . [5] Palea Kameni and Nea Kameni were formed as a result of multiple, initially submarine, smaller eruptions at the center of the caldera. [6] Although dormant, Santorini is an active volcano.  Numerous minor and medium-sized, mainly effusive, eruptions have built the dark-colored lava shields of Nea and Palea Kameni inside the caldera. Their last eruption was in 1950, and now only fumarolic activity, primarily inside the recently active craters, takes place. [1] GPS instruments registered renewed deformation around the caldera in 2011 and 2012. [7] The huge Minoan eruption of Santorini in the 17th century BC may have inspired the legend of Atlantis . [8] It was rated 7 in the Smithsonian Global Volcanism Program's Volcanic Explosivity Index . [9]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Santorini_views02.jpg/220px-Santorini_views02.jpg",
+                "caption": "The caldera wall of Santorini island."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Santorini_caldera",
+        "title": "Santorini caldera",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Terranes",
+        "text": "The Hai'an Range or Coastal Range terrane belongs to the Luzon Volcanic Arc (呂宋島火山弧), and is on the Philippine Sea Plate (菲律賓海板塊).  West of this is the Longitudinal Valley or Huatung Valley , an active depositional zone in a rift valley.  West of this is the Eastern Central Range terrane, part of the continental base that has been upturned. The western side of the range is the Western Central Range terrane, which is metamorphosed earlier Tertiary clastic sediments.  The Lishan Fault separates the Hsuehshan Range terrane Eocene to Oligocene sandstone and shale.  The Chukou Fault (觸口斷層) provides the boundary for the Western Foothills terrane, which is shallow marine detritus from Miocene to Pleistocene.  A deformation front forms the boundary with the undeformed coastal plains alluvium, which is still depositing. [6] The Eastern Central Range terrane can be divided into the Tailuko belt on the west with greenschist metamorphism and the Yuli belt on the east with blueschist metamorphism.  The two metamorphic belts are possibly separated by a fault called Shoufeng fault, but this is unproven. [7]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Haian_Range%2C_Taiwan.jpg/220px-Haian_Range%2C_Taiwan.jpg",
+                "caption": "Hai'an Range"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology_of_Taiwan",
+        "title": "Geology of Taiwan",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Central Mountains",
+        "text": "The oldest exposed rocks are heavily metamorphosed and found in the Central Mountains. [8] Poor quality fossil evidence suggests an origin in the Permian Period. They form a band of rock from Nan'ao in the north to inland of Jinfeng on the eastern flank of the Central Mountain Range . The band is 30 km wide in the north and narrows to the south. [9] These earlier rocks are heavily metamorphosed. They also occur as a basement beneath the western part of the island. They make up the Danana'ao Group or Tananao Schist.  This group consists of the Kainanagang Gneiss, Tailuge Marble, and Changchun Schist. The Yuli Schist is Cretaceous in age and consists of black schist and some greenschist , glaucophane schist , and spotted slate . It is the easternmost part and extends from Chian southwards to the west of the Chihpen hot springs in a belt about 150 km long. Although the dark colour of the black schist is due to carbon, carbon is less than 2% of the content. The minerals found are quartz, mica , chlorite , albite , sphene , and graphite . [10] The Changchun Schist being mostly greenschist is found on the western side and forms thick beds. It is found along with smaller amounts of chert , and black schist.  The rock is foliated dark green rock containing chlorite, epidote , quartz, calcite, biotite, albite and actinolite . They are derived from mafic volcanic rocks .  These rocks can host copper sulfide ores. [10] Siliceous schists are coloured grey, they are metamorphosed sandstone, rich in quartz. Quartzite and chert bands can be found, and they are commonly associated with the black schist. The Chiuchu Formation or Tailuge Marble forms a band from Tailuko in the north to a point between Wulu and Kuanshan in the south. The limestone is mined in quarries south of Suao for cement manufacture. Although the colour is usually a shade of grey, there are also black or white limestone, which is chopped into blocks for building purposes. dolomite is also found along with the limestone particularly at Chingchangshan , Hopingchi , and Mukuashan . [10] The Kainangan Gneiss or Kanagan Formation occurs in several elongated bodies. The gneiss derived from sedimentary rocks contains coarse grained quartz, biotite, and albitic plagioclase.  There is also orthogneiss derived from granite . This is light grey and contains sodic plagioclase, quartz, biotite, and muscovite.  Within the gneiss there are pegmatite dikes containing quartz, feldspar and mica. [10] Other igneous rocks found in the old metamorphic belt are amphibolite and dolerite dikes. Serpentinite is found 5 km west of Fengtien (奉天).  It contains exploited deposits of nephrite , talc and asbestos . Wanjung Station (萬榮) is close to more outcrops of serpentenite.  Tamayenshan block northwest of Juisui (瑞穗) and the Tsenghuanshan block 10 km west of Juisui are significant ultramafic outcrops. [10] Green serpentinite from near Yuli makes a good quality building stone. A band of ultramafic rocks extends for 25 km north of Litao, Taitung (離島). [10] The area was subjected to the Nanao Orogeny around 85 Ma which involved the granite intrusion and regional metamorphism. Rifting that opened the South China Sea around 40 Ma may be connected with some dolerite intrusions. The Penglai Orogeny started about 10 Ma and continues at the present time. [11]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Central_Range.jpg/220px-Central_Range.jpg",
+                "caption": "Central Mountain Range"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology_of_Taiwan",
+        "title": "Geology of Taiwan",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    },
+    {
+        "section": "Hydrology",
+        "text": "Many of the rocks in Taiwan have low pore space and have little ground water. There are several hot springs in Taiwan, with most around the northern volcanic region.  The Chingshui geothermal region is named after the Cingshuei River 13 km south west of Yilan . [27] Rivers in Taiwan transport a large amount of sediment to the sea.  The south end of the Longitudonal Valley discharges the Peinan River with 88,000,000 tons of sediment per year.  East flowing rivers  move 17, 15 31 and 22 megatons per year of sediment.  The Cho Shiu shifts 54 MT per year.  Rivers running south from the Central Range move over 100 MT of sediment per year. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Beitou_Thermal_Valley_warning_sign_20050814.jpg/220px-Beitou_Thermal_Valley_warning_sign_20050814.jpg",
+                "caption": "Beitou hot spring valley"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology_of_Taiwan",
+        "title": "Geology of Taiwan",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Island Formation"
+    }
+]

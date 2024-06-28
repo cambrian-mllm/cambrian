@@ -1,0 +1,818 @@
+[
+    {
+        "section": "Cause of volcano tectonic earthquakes",
+        "text": "One possible scenario resulting in a possible volcano tectonic earthquake occurs in tectonic subduction zones . The compression of plates at these subduction zones forces the magma beneath them to move. [4] Magma can not move through the newly compressed crust as easily. This means it tends to pool in magma chambers beneath the surface and between the converging tectonic plates . Many of the famous and most well known volcanoes are of this type, including those of the Ring of Fire . As the plates move, magma underground may be forced in and out of these chambers and form intrusions into surrounding crust. This movement is capable of causing the unstable rocks around it to cave in or shift. The movement of this magma as described, causes measurable seismic activity. [4] Where plates diverge such as at mid-ocean ridges the magma also can move into storage chambers and form intrusions again causing shifts in the rocks around them that can be detected as earthquakes. This is separate from earthquakes directly related to faults. However it is known than tectonic earthquake triggering has occurred with some volcanic eruptions, and there may be other associations of these in place and time with some eruptions, which could cause confusion because of the similar terminology. [5] Scientists monitoring volcanoes have noticed that magma movement may lead to earthquake swarms depending on the movement of magma and the interaction with rock beneath the ground. Additionally, the volatility of volcanoes and the accompanying earthquakes has been shown to be linked to dike induced stress and the interaction this causes between the magma, rock, and wall of the chamber. [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Four-types-seismograms.gif/300px-Four-types-seismograms.gif",
+                "caption": "Four types of seismograms , or seismic signatures"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano_tectonic_earthquake",
+        "title": "Volcano tectonic earthquake",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Importance",
+        "text": "Volcano tectonic seismicity is an important tool as it may predict the eruptions of volcanoes. Seismic activity occurs as a precursor to most large eruptions. Rarely, because of complex interactions, it may appear to settle just before an eruption. [6] Such tectonic events can predict eruptions in long- dormant volcanoes and the size of the magma pocket. [2] Some notable examples of eruptions preceded by volcano tectonic earthquakes include ones at Nevado del Ruiz (1985), Pinatubo (1991) , Unzen (1990) , and Cotopaxi (2002) . Quakes with volcano-tectonic characteristics accompany magmatic intrusions in near real time.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nevado_del_Ruiz_1985.jpg/220px-Nevado_del_Ruiz_1985.jpg",
+                "caption": "Nevado del Ruiz during the 1985 eruption. This eruption was one where seismic activity was monitored in order to determine that an eruption was imminent."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano_tectonic_earthquake",
+        "title": "Volcano tectonic earthquake",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Gas emissions",
+        "text": "As magma nears the surface and its pressure decreases, gases escape. This process is much like what happens when you open a bottle of fizzy drink and carbon dioxide escapes. Sulfur dioxide is one of the main components of volcanic gases, and increasing amounts of it herald the arrival of increasing amounts of magma near the surface. For example, on May 13, 1991, an increasing amount of sulfur dioxide was released from Mount Pinatubo in the Philippines . On May 28, just two weeks later, sulfur dioxide emissions had increased to 5,000 tonnes, ten times the earlier amount. Mount Pinatubo later erupted on June 12, 1991. On several occasions, such as before the Mount Pinatubo eruption and the 1993 Galeras , Colombia eruption, sulfur dioxide emissions have dropped to low levels prior to eruptions. Most scientists believe that this drop in gas levels is caused by the sealing of gas passages by hardened magma. Such an event leads to increased pressure in the volcano's plumbing system and an increased chance of an explosive eruption. A multi-component gas analyzer system (Multi-GAS) is an instrument package used to take real-time high-resolution measurements of volcanic gas plumes. [6] Multi-GAS measurements of CO 2 /SO 2 ratios can allow detection of the pre-eruptive degassing of rising magmas, improving prediction of volcanic activity. [6]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pinatubo_ash_plume_910612.jpg/220px-Pinatubo_ash_plume_910612.jpg",
+                "caption": "Gas and ash plume erupted from Mount Pinatubo, Philippines."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Prediction_of_volcanic_activity",
+        "title": "Prediction of volcanic activity",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Types of seismic wave",
+        "text": "Seismic waves are elastic waves that propagate in solid or fluid materials. They can be divided into body waves that travel through the interior of the materials; surface waves that travel along surfaces or interfaces between materials; and normal modes , a form of standing wave.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Seismogram.gif/320px-Seismogram.gif",
+                "caption": "Seismogram records showing the three components of ground motion . The red line marks the first arrival of P-waves; the green line, the later arrival of S-waves."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Seismology",
+        "title": "Seismology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Detection of seismic waves",
+        "text": "Seismometers are sensors that detect and record the motion of the Earth arising from elastic waves.  Seismometers may be deployed at the Earth's surface, in shallow vaults, in boreholes, or underwater .  A complete instrument package that records seismic signals is called a seismograph .  Networks of seismographs continuously record ground motions around the world to facilitate the monitoring and analysis of global earthquakes and other sources of seismic activity. Rapid location of earthquakes makes tsunami warnings possible because seismic waves travel considerably faster than tsunami waves. Seismometers also record signals from non-earthquake sources ranging from explosions (nuclear and chemical), to local noise from wind [22] or anthropogenic activities, to incessant signals generated at the ocean floor and coasts induced by ocean waves (the global microseism ), to cryospheric events associated with large icebergs and glaciers. Above-ocean meteor strikes with energies as high as 4.2 × 10 13 J (equivalent to that released by an explosion of ten kilotons of TNT) have been recorded by seismographs, as have a number of industrial accidents and terrorist bombs and events (a field of study referred to as forensic seismology ).  A major long-term motivation for the global seismographic monitoring has been for the detection and study of nuclear testing .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Seismometer-iceland.JPG/220px-Seismometer-iceland.JPG",
+                "caption": "Installation for a temporary seismic station, north Iceland highland."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Seismology",
+        "title": "Seismology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Mapping Earth's interior",
+        "text": "Because seismic waves commonly propagate efficiently as they interact with the internal structure of the Earth, they provide high-resolution noninvasive methods for studying the planet's interior.  One of the earliest important discoveries (suggested by Richard Dixon Oldham in 1906 and definitively shown by Harold Jeffreys in 1926) was that the outer core of the earth is liquid.  Since S-waves do not pass through liquids, the liquid core causes a \"shadow\" on the side of the planet opposite the earthquake where no direct S-waves are observed.  In addition, P-waves travel much slower through the outer core than the mantle. Processing readings from many seismometers using seismic tomography , seismologists have mapped the mantle of the earth to a resolution of several hundred kilometers.  This has enabled scientists to identify convection cells and other large-scale features such as the large low-shear-velocity provinces near the core–mantle boundary . [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Earthquake_wave_paths.svg/280px-Earthquake_wave_paths.svg.png",
+                "caption": "Seismic velocities and boundaries in the interior of the Earth sampled by seismic waves"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Seismology",
+        "title": "Seismology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Modern volcanology",
+        "text": "In 1841, the first volcanological observatory, the Vesuvius Observatory , was founded in the Kingdom of the Two Sicilies . [1] Volcanology advances have required more than just structured observation, and the science relies upon the understanding and integration of knowledge in many fields including geology , tectonics , physics , chemistry and mathematics , with many advances only being able to occur after the advance had occurred in another field of science. For example the study of radioactivity only commenced in 1896, [2] and its application to the theory of plate tectonics and radiometric dating took about 50 years after this. Many other developments in fluid dynamics , experimental physics and chemistry, techniques of mathematical modelling , instrumentation and in other sciences have been applied to volcanology since 1841.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Icelandic_tephra.JPG/220px-Icelandic_tephra.JPG",
+                "caption": "Volcanologist examining tephra horizons in south-central Iceland ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Destructive_plate_margin.png/220px-Destructive_plate_margin.png",
+                "caption": "A diagram of a destructive plate margin , where subduction fuels volcanic activity at the subduction zones of tectonic plate boundaries."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanology",
+        "title": "Volcanology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Plate tectonics",
+        "text": "According to the theory of plate tectonics, Earth's lithosphere , its rigid outer shell, is broken into sixteen larger and several smaller plates. These are in slow motion, due to convection in the underlying ductile mantle , and most volcanic activity on Earth takes place along plate boundaries, where plates are converging (and lithosphere is being destroyed) or are diverging (and new lithosphere is being created). [6] During the development of geological theory, certain concepts that allowed the grouping of volcanoes in time, place, structure and composition have developed that ultimately have had to be explained in the theory of plate tectonics. For example, some volcanoes are polygenetic with more than one period of activity during their history; other volcanoes that become extinct after erupting exactly once are monogenetic (meaning \"one life\") and such volcanoes are often grouped together in a geographical region. [7]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Spreading_ridges_volcanoes_map-en.svg/400px-Spreading_ridges_volcanoes_map-en.svg.png",
+                "caption": "Map showing the divergent plate boundaries (oceanic spreading ridges) and recent sub-aerial volcanoes (mostly at convergent boundaries)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Fissure vents",
+        "text": "Volcanic fissure vents are flat, linear fractures through which lava emerges.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lakagigar_Iceland_2004-07-01.jpg/220px-Lakagigar_Iceland_2004-07-01.jpg",
+                "caption": "Lakagigar fissure vent in Iceland , the source of the major world climate alteration of 1783–84 , has a chain of volcanic cones along its length."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Shield volcanoes",
+        "text": "Shield volcanoes, so named for their broad, shield-like profiles, are formed by the eruption of low-viscosity lava that can flow a great distance from a vent. They generally do not explode catastrophically, but are characterized by relatively gentle effusive eruptions . Since low-viscosity magma is typically low in silica, shield volcanoes are more common in oceanic than continental settings. The Hawaiian volcanic chain is a series of shield cones, and they are common in Iceland , as well.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Skjaldbreidur_Herbst_2004.jpg/220px-Skjaldbreidur_Herbst_2004.jpg",
+                "caption": "Skjaldbreiður , a shield volcano whose name means \"broad shield\""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Cinder cones",
+        "text": "Cinder cones result from eruptions of mostly small pieces of scoria and pyroclastics (both resemble cinders, hence the name of this volcano type) that build up around the vent. These can be relatively short-lived eruptions that produce a cone-shaped hill perhaps 30 to 400 meters (100 to 1,300 ft) high. Most cinder cones erupt only once and some may be found in monogenetic volcanic fields that may include other features that form when magma comes into contact with water such as maar explosion craters and tuff rings . [16] Cinder cones may form as flank vents on larger volcanoes, or occur on their own. Parícutin in Mexico and Sunset Crater in Arizona are examples of cinder cones. In New Mexico , Caja del Rio is a volcanic field of over 60 cinder cones. Based on satellite images, it has been suggested that cinder cones might occur on other terrestrial bodies in the Solar system too; on the surface of Mars and the Moon. [17] [18] [19] [20]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Izalco_Volcano.jpg/220px-Izalco_Volcano.jpg",
+                "caption": "Izalco volcano , the youngest volcano in El Salvador. Izalco erupted almost continuously from 1770 (when it formed) to 1958, earning it the nickname of \"Lighthouse of the Pacific\"."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Stratovolcanoes (composite volcanoes)",
+        "text": "Stratovolcanoes (composite volcanoes) are tall conical mountains composed of lava flows and tephra in alternate layers, the strata that gives rise to the name. They are also known as composite volcanoes because they are created from multiple structures during different kinds of eruptions. Classic examples include Mount Fuji in Japan, Mayon Volcano in the Philippines, and Mount Vesuvius and Stromboli in Italy. Ash produced by the explosive eruption of stratovolcanoes has historically posed the greatest volcanic hazard to civilizations. The lavas of stratovolcanoes are higher in silica, and therefore much more viscous, than lavas from shield volcanoes. High-silica lavas also tend to contain more dissolved gas. The combination is deadly, promoting explosive eruptions that produce great quantities of ash, as well as pyroclastic surges like the one that destroyed the city of Saint-Pierre in Martinique in 1902. They are also steeper than shield volcanoes, with slopes of 30–35° compared to slopes of generally 5–10°, and their loose tephra are material for dangerous lahars . [21] Large pieces of tephra are called volcanic bombs . Big bombs can measure more than 4 feet (1.2 meters) across and weigh several tons. [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Volcano_scheme.svg/310px-Volcano_scheme.svg.png",
+                "caption": "Cross-section through a stratovolcano (vertical scale is exaggerated) : Large magma chamber Bedrock Conduit (pipe) Base Sill Dike Layers of ash emitted by the volcano Flank Layers of lava emitted by the volcano Throat Parasitic cone Lava flow Vent Crater Ash cloud"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Submarine volcanoes",
+        "text": "Submarine volcanoes are common features of the ocean floor. Volcanic activity during the Holocene Epoch has been documented at only 119 submarine volcanoes, but there may be more than one million geologically young submarine volcanoes on the ocean floor. [27] [28] In shallow water, active volcanoes disclose their presence by blasting steam and rocky debris high above the ocean's surface. In the deep ocean basins, the tremendous weight of the water prevents the explosive release of steam and gases; however, submarine eruptions can be detected by hydrophones and by the discoloration of water because of volcanic gases . Pillow lava is a common eruptive product of submarine volcanoes and is characterized by thick sequences of discontinuous pillow-shaped masses which form under water. Even large submarine eruptions may not disturb the ocean surface, due to the rapid cooling effect and increased buoyancy in water (as compared to air), which often causes volcanic vents to form steep pillars on the ocean floor. Hydrothermal vents are common near these volcanoes, and some support peculiar ecosystems based on chemotrophs feeding on dissolved minerals. Over time, the formations created by submarine volcanoes may become so large that they break the ocean surface as new islands or floating pumice rafts . In May and June 2018, a multitude of seismic signals were detected by earthquake monitoring agencies all over the world. They took the form of unusual humming sounds, and some of the signals detected in November of that year had a duration of up to 20 minutes. An oceanographic research campaign in May 2019 showed that the previously mysterious humming noises were caused by the formation of a submarine volcano off the coast of Mayotte . [29]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif/220px-Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif",
+                "caption": "Satellite images of the 15 January 2022 eruption of Hunga Tonga-Hunga Haʻapai"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Erupted material",
+        "text": "The material that is expelled in a volcanic eruption can be classified into three types:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lava_channel_overflow.JPG/220px-Lava_channel_overflow.JPG",
+                "caption": "Pāhoehoe lava flow on Hawaii . The picture shows overflows of a main lava channel ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Litli-Hr%C3%BAtur_eruption_2023.jpg/220px-Litli-Hr%C3%BAtur_eruption_2023.jpg",
+                "caption": "Litli-Hrútur ( Fagradalsfjall ) eruption 2023. View from an airplane"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg/220px-Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg",
+                "caption": "The Stromboli stratovolcano off the coast of Sicily has erupted continuously for thousands of years, giving rise to its nickname \"Lighthouse of the Mediterranean\"."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Lava flows",
+        "text": "The form and style of eruption of a volcano is largely determined by the composition of the lava it erupts. The viscosity (how fluid the lava is) and the amount of dissolved gas are the most important characteristics of magma, and both are largely determined by the amount of silica in the magma. Magma rich in silica is much more viscous than silica-poor magma, and silica-rich magma also tends to contain more dissolved gases. Lava can be broadly classified into four different compositions: [39] Mafic lava flows show two varieties of surface texture: ʻAʻa (pronounced [ˈʔaʔa] ) and pāhoehoe ( [paːˈho.eˈho.e] ), both Hawaiian words. ʻAʻa is characterized by a rough, clinkery surface and is the typical texture of cooler basalt lava flows. Pāhoehoe is characterized by its smooth and often ropey or wrinkly surface and is generally formed from more fluid lava flows. Pāhoehoe flows are sometimes observed to transition to ʻaʻa flows as they move away from the vent, but never the reverse. [53] More silicic lava flows take the form of block lava, where the flow is covered with angular, vesicle-poor blocks. Rhyolitic flows typically consist largely of obsidian . [54]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rinjani_1994_cropped.jpg/220px-Rinjani_1994_cropped.jpg",
+                "caption": "Mount Rinjani eruption in 1994, in Lombok , Indonesia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Tephra",
+        "text": "Tephra is made when magma inside the volcano is blown apart by the rapid expansion of hot volcanic gases. Magma commonly explodes as the gas dissolved in it comes out of solution as the pressure decreases when it flows to the surface . These violent explosions produce particles of material that can then fly from the volcano. Solid particles smaller than 2 mm in diameter ( sand-sized or smaller) are called volcanic ash. [36] [37] Tephra and other volcaniclastics (shattered volcanic material) make up more of the volume of many volcanoes than do lava flows. Volcaniclastics may have contributed as much as a third of all sedimentation in the geologic record. The production of large volumes of tephra is characteristic of explosive volcanism. [55]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tuff_shards.jpg/220px-Tuff_shards.jpg",
+                "caption": "Light-microscope image of tuff as seen in thin section (long dimension is several mm): the curved shapes of altered glass shards (ash fragments) are well preserved, although the glass is partly altered. The shapes were formed around bubbles of expanding, water-rich gas."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Types of volcanic eruptions",
+        "text": "Eruption styles are broadly divided into magmatic, phreatomagmatic, and phreatic eruptions. [56] The intensity of explosive volcanism is expressed using the Volcanic Explosivity Index (VEI), which ranges from 0 for Hawaiian-type eruptions to 8 for supervolcanic eruptions. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Volcanic_injection.svg/220px-Volcanic_injection.svg.png",
+                "caption": "Schematic of volcano injection of aerosols and gases"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Volcanic activity",
+        "text": "As of December 2022 [update] , the Smithsonian Institution 's Global Volcanism Program database of volcanic eruptions in the Holocene Epoch (the last 11,700 years) lists 9,901 confirmed eruptions from 859 volcanoes. The database also lists 1,113 uncertain eruptions and 168 discredited eruptions for the same time interval. [58] [59] Volcanoes vary greatly in their level of activity, with individual volcanic systems having an eruption recurrence ranging from several times a year to once in tens of thousands of years. [60] Volcanoes are informally described as erupting , active , dormant , or extinct , but the definitions of these terms are not entirely uniform amongst volcanologists. The level of activity of most volcanoes falls upon a graduated spectrum, with much overlap between categories, and does not always fit neatly into only one of these three separate categories. [61]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pompeii_-_Casa_del_Centenario_-_MAN.jpg/170px-Pompeii_-_Casa_del_Centenario_-_MAN.jpg",
+                "caption": "Fresco with Mount Vesuvius behind Bacchus and Agathodaemon , as seen in Pompeii 's House of the Centenary"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Dormant and reactivated",
+        "text": "The USGS defines a dormant volcano as any volcano that is not showing any signs of unrest such as earthquake swarms, ground swelling, or excessive noxious gas emissions, but which shows signs that it could yet become active again. [63] Many dormant volcanoes have not erupted for thousands of years, but have still shown signs that they may be likely to erupt again in the future. [64] [65] In an article justifying the re-classification of Alaska's Mount Edgecumbe volcano from \"dormant\" to \"active\", volcanologists at the Alaska Volcano Observatory pointed out that the term \"dormant\" in reference to volcanoes has been deprecated over the past few decades and that \"[t]he term \"dormant volcano\" is so little used and undefined in modern volcanology that the Encyclopedia of Volcanoes (2000) does not contain it in the glossaries or index\", [66] however the USGS still widely employs the term. Previously a volcano was often considered to be extinct if there were no written records of its activity. Such a generalisation is inconsistent with observation and deeper study, as has occurred recently with the unexpected eruption of the Chaitén volcano in 2008. [67] Modern volcanic activity monitoring techniques, and improvements in the modelling of the factors that produce eruptions, have helped the understanding of why volcanoes may remain dormant for a long period of time, and then become unexpectedly active again. The potential for eruptions, and their style, depend mainly upon the state of the magma storage system under the volcano, the eruption trigger mechanism and its timescale. [68] : 95 For example, the Yellowstone volcano has a repose/recharge period of around 700,000 years, and Toba of around 380,000 years. [69] Vesuvius was described by Roman writers as having been covered with gardens and vineyards before its unexpected eruption of 79 CE , which destroyed the towns of Herculaneum and Pompeii . Accordingly, it can sometimes be difficult to distinguish between an extinct volcano and a dormant (inactive) one. Long volcano dormancy is known to decrease awareness. [68] : 96 Pinatubo was an inconspicuous volcano, unknown to most people in the surrounding areas, and initially not seismically monitored before its unanticipated and catastrophic eruption of 1991. Two other examples of volcanoes which were once thought to be extinct, before springing back into eruptive activity were the long-dormant Soufrière Hills volcano on the island of Montserrat , thought to be extinct until activity resumed in 1995 (turning its capital Plymouth into a ghost town ) and Fourpeaked Mountain in Alaska, which, before its September 2006 eruption, had not erupted since before 8000 BCE.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Narcondam_island.jpg/220px-Narcondam_island.jpg",
+                "caption": "Narcondam Island , India, is classified as a dormant volcano by the Geological Survey of India ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Extinct",
+        "text": "Extinct volcanoes are those that scientists consider unlikely to erupt again because the volcano no longer has a magma supply. Examples of extinct volcanoes are many volcanoes on the Hawaiian–Emperor seamount chain in the Pacific Ocean (although some volcanoes at the eastern end of the chain are active), Hohentwiel in Germany , Shiprock in New Mexico , US , Capulin in New Mexico, US, Zuidwal volcano in the Netherlands , and many volcanoes in Italy such as Monte Vulture . Edinburgh Castle in Scotland is located atop an extinct volcano, which forms Castle Rock . Whether a volcano is truly extinct is often difficult to determine. Since \"supervolcano\" calderas can have eruptive lifespans sometimes measured in millions of years, a caldera that has not produced an eruption in tens of thousands of years may be considered dormant instead of extinct. An individual volcano in a monogenetic volcanic field can be extinct but that does not mean a completely new volcano might not erupt close by with little or no warning as its field may have an active magma supply.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Capulin_1980_tde00005.jpg/220px-Capulin_1980_tde00005.jpg",
+                "caption": "Capulin Volcano National Monument in New Mexico, US"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Decade volcanoes",
+        "text": "The Decade Volcanoes are 16 volcanoes identified by the International Association of Volcanology and Chemistry of the Earth's Interior (IAVCEI) as being worthy of particular study in light of their history of large, destructive eruptions and proximity to populated areas. They are named Decade Volcanoes because the project was initiated as part of the United Nations-sponsored International Decade for Natural Disaster Reduction (the 1990s). The 16 current Decade Volcanoes are: The Deep Earth Carbon Degassing Project , an initiative of the Deep Carbon Observatory , monitors nine volcanoes, two of which are Decade volcanoes. The focus of the Deep Earth Carbon Degassing Project is to use Multi-Component Gas Analyzer System instruments to measure CO 2 /SO 2 ratios in real-time and in high-resolution to allow detection of the pre-eruptive degassing of rising magmas, improving prediction of volcanic activity . [71]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg/220px-Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg",
+                "caption": "Koryaksky volcano towering over Petropavlovsk-Kamchatsky on Kamchatka Peninsula , Far Eastern Russia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Volcanoes and humans",
+        "text": "Volcanic eruptions pose a significant threat to human civilization. However, volcanic activity has also provided humans with important resources.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mauna_Loa_atmospheric_transmission.png/220px-Mauna_Loa_atmospheric_transmission.png",
+                "caption": "Solar radiation graph 1958–2008, showing how the radiation is reduced after major volcanic eruptions"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SO2_Galapagos_20051101.jpg/220px-SO2_Galapagos_20051101.jpg",
+                "caption": "Sulfur dioxide concentration over the Sierra Negra Volcano , Galapagos Islands , during an eruption in October 2005"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Hazards",
+        "text": "There are many different types of volcanic eruptions and associated activity: phreatic eruptions (steam-generated eruptions), explosive eruption of high- silica lava (e.g., rhyolite ), effusive eruption of low-silica lava (e.g., basalt ), sector collapses , pyroclastic flows , lahars (debris flow) and carbon dioxide emission . All of these activities can pose a hazard to humans. Earthquakes, hot springs , fumaroles , mud pots and geysers often accompany volcanic activity. Volcanic gases can reach the stratosphere, where they form sulfuric acid aerosols that can reflect solar radiation and lower surface temperatures significantly. [72] Sulfur dioxide from the eruption of Huaynaputina may have caused the Russian famine of 1601–1603 . [73] Chemical reactions of sulfate aerosols in the stratosphere can also damage the ozone layer , and acids such as hydrogen chloride (HCl) and hydrogen fluoride (HF) can fall to the ground as acid rain . Excessive fluoride salts from eruptions have poisoned livestock in Iceland on multiple occasions. [74] : 39–58 Explosive volcanic eruptions release the greenhouse gas carbon dioxide and thus provide a deep source of carbon for biogeochemical cycles . [75] Ash thrown into the air by eruptions can present a hazard to aircraft, especially jet aircraft where the particles can be melted by the high operating temperature; the melted particles then adhere to the turbine blades and alter their shape, disrupting the operation of the turbine. This can cause major disruptions to air travel. A volcanic winter is thought to have taken place around 70,000 years ago after the supereruption of Lake Toba on Sumatra island in Indonesia. [76] This may have created a population bottleneck that affected the genetic inheritance of all humans today. [77] Volcanic eruptions may have contributed to major extinction events, such as the End-Ordovician , Permian-Triassic , and Late Devonian mass extinctions . [78] The 1815 eruption of Mount Tambora created global climate anomalies that became known as the \" Year Without a Summer \" because of the effect on North American and European weather. [79] The freezing winter of 1740–41, which led to widespread famine in northern Europe, may also owe its origins to a volcanic eruption. [80]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Large_eruptions.jpg/290px-Large_eruptions.jpg",
+                "caption": "Comparison of major United States prehistoric eruptions ( VEI 7 and 8 ) with major historical volcanic eruptions in the 19th and 20th century (VEI 5, 6 and 7). From left to right: Yellowstone 2.1 Ma, Yellowstone 1.3 Ma, Long Valley 6.26 Ma, Yellowstone 0.64 Ma . 19th century eruptions: Tambora 1815, Krakatoa 1883. 20th century eruptions: Novarupta 1912, St. Helens 1980, Pinatubo 1991."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Volcanoes on other celestial bodies",
+        "text": "Earth's Moon has no large volcanoes and no current volcanic activity, although recent evidence suggests it may still possess a partially molten core. [91] However, the Moon does have many volcanic features such as maria [92] (the darker patches seen on the Moon), rilles [93] and domes . [94] The planet Venus has a surface that is 90% basalt , indicating that volcanism played a major role in shaping its surface. The planet may have had a major global resurfacing event about 500 million years ago, [95] from what scientists can tell from the density of impact craters on the surface. Lava flows are widespread and forms of volcanism not present on Earth occur as well. Changes in the planet's atmosphere and observations of lightning have been attributed to ongoing volcanic eruptions, although there is no confirmation of whether or not Venus is still volcanically active. However, radar sounding by the Magellan probe revealed evidence for comparatively recent volcanic activity at Venus's highest volcano Maat Mons , in the form of ash flows near the summit and on the northern flank. [96] However, the interpretation of the flows as ash flows has been questioned. [97] There are several extinct volcanoes on Mars , four of which are vast shield volcanoes far bigger than any on Earth. They include Arsia Mons , Ascraeus Mons , Hecates Tholus , Olympus Mons , and Pavonis Mons . These volcanoes have been extinct for many millions of years, [98] but the European Mars Express spacecraft has found evidence that volcanic activity may have occurred on Mars in the recent past as well. [98] Jupiter 's moon Io is the most volcanically active object in the Solar System because of tidal interaction with Jupiter. It is covered with volcanoes that erupt sulfur , sulfur dioxide and silicate rock, and as a result, Io is constantly being resurfaced. Its lavas are the hottest known anywhere in the Solar System, with temperatures exceeding 1,800 K (1,500 °C). In February 2001, the largest recorded volcanic eruptions in the Solar System occurred on Io. [99] Europa , the smallest of Jupiter's Galilean moons , also appears to have an active volcanic system, except that its volcanic activity is entirely in the form of water, which freezes into ice on the frigid surface. This process is known as cryovolcanism , and is apparently most common on the moons of the outer planets of the Solar System . [100] In 1989, the Voyager 2 spacecraft observed cryovolcanoes (ice volcanoes) on Triton , a moon of Neptune , and in 2005 the Cassini–Huygens probe photographed fountains of frozen particles erupting from Enceladus , a moon of Saturn . [101] [102] The ejecta may be composed of water, liquid nitrogen , ammonia , dust, or methane compounds. Cassini–Huygens also found evidence of a methane-spewing cryovolcano on the Saturnian moon Titan , which is believed to be a significant source of the methane found in its atmosphere. [103] It is theorized that cryovolcanism may also be present on the Kuiper Belt Object Quaoar . A 2010 study of the exoplanet COROT-7b , which was detected by transit in 2009, suggested that tidal heating from the host star very close to the planet and neighboring planets could generate intense volcanic activity similar to that found on Io. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tvashtarvideo.gif/220px-Tvashtarvideo.gif",
+                "caption": "The Tvashtar volcano erupts a plume 330 km (205 mi) above the surface of Jupiter 's moon Io ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Olympus_Mons.jpeg/170px-Olympus_Mons.jpeg",
+                "caption": "Olympus Mons ( Latin , \"Mount Olympus\"), located on the planet Mars , is the tallest known mountain in the Solar System ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Background",
+        "text": "The Reykjanes [ˈreiːcaˌnɛːs] Peninsula, located in southwestern Iceland , has entered a new volcanic cycle after a period of approximately 800 years of relative inactivity. [21] This resumption of activity was signaled by increased seismic and volcanic activity near the hyaloclastite mountain Þorbjörn [ˈθɔrˌpjœ(r)tn̥] beginning in late 2019. Volcanic cycles on the peninsula typically last 300 to 400 years, with eruptions occurring at six to seven separate locations, including areas near the Capital Region . [22] Individual eruptions within a cycle can persist for 10 to 20 years, with activity shifting to other sites every 30 to 50 years. Based on historical patterns, the current cycle is expected to continue until approximately 2300-2400 CE. [23] [24] The Eldvörp-Svartsengi [ˈɛltˌvœr̥p–ˈsvar̥(t)sˌeiɲcɪ] volcanic system [25] has experienced 10 magmatic intrusions since December 2019, seven of them since October 2023. Four of these intrusions have resulted in volcanic eruptions, [26] [27] [28] [29] while prior ones did not reach the surface. [1] [30] [31] Previous volcanic unrest during this period had been predominantly associated with the Fagradalsfjall [ˈfaɣraˌtalsˌfjatl̥] system, [32] where three out of five magmatic intrusions led to eruptions. Since 2021, there have been a total of eight identified volcanic eruptions on the Reykjanes Peninsula. [1] [17] [33] [34] [35] Iceland frequently experiences earthquakes due to its position on the Mid-Atlantic Ridge , where the Eurasian and North American tectonic plates meet. However, the 2023 swarm was unusually extensive and is linked to a magmatic intrusion approximately 15 kilometres (9.3 mi) long, extending southwest from Kálfellsheiði [ˈkʰaulˌfɛlsˌheiːðɪ] and aligning with the Sundhnúksgígar [ˈsʏntˌn̥uksˌciːɣar̥] crater chain at a depth of roughly 800 metres (2,600 ft). The largest earthquakes originated beneath the Sundhnúksgígar craters, then spread southwestward beneath the town of Grindavík [ˈkrɪntaˌviːk] and offshore. [36] Grindavík lies on lava flows from the Sundhnúksgígar crater chain's last eruption approximately 2,350 years ago [37] [38] and is one of six Reykjanes Peninsula communities located on or near eruptive fissures. [39]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Reykjanes_volcanic_systems.png/220px-Reykjanes_volcanic_systems.png",
+                "caption": "Map of volcanic systems on the Reykjanes Peninsula. Grindavík is at the southern end of the Eldvörp-Svartsengi system (marked here as 2)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/2023%E2%80%932024_Sundhn%C3%BAkur_eruptions",
+        "title": "2023–2024 Sundhnúkur eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "November 2023 earthquakes",
+        "text": "The largest of the earthquakes to date reached magnitude 5.3 on 10 November. [45] By this time, over 22,000 earthquakes had been recorded since the beginning of the swarm in October. [46] The IMO predicted that an eruption was likely, stating that \"it will take several days (rather than hours) for magma to reach the surface\". The greatest extent of the magma intrusion was inferred to be around the Sundhnúksgígar crater chain, approximately 3.5 kilometres (2.2 mi) north of Grindavík. Instruments detected the presence of sulfur dioxide in the atmosphere on 14 November, indicating that magma was only a few hundred metres (a couple of thousand ft) under the surface. Although the number of earthquakes decreased somewhat since 10 November, the IMO was still recording between 700 and 1,000 earthquakes daily by 14 November. [1] Ground deformation sensors at Festarfjall [ˈfɛstarˌfjatl̥] and Svartsengi recorded that the ground had moved apart by 120 centimetres (47 in). [36] Satellite measurements recorded the subsidence by about 1 metre (3 ft 3 in) of a swathe of land measuring approximately 5 kilometres long and 2 kilometres wide (3.1 by 1.2 mi), running from the Sundhnúksgígar craters to the western side of Grindavík . The creation of this graben -like formation on 10 November has enabled scientists to estimate the volume of the magmatic intrusion, which formed in a remarkably short period of 6 hours, as approximately 70 million cubic metres (2.5 × 10 ^ 9 cu ft). [47] Further analysis revealed that about 7,000 cubic metres per second (250,000 cu ft/s) flowed into this magma intrusion, providing valuable insights into the dynamics of volcanic processes and the scale of subsurface magma movement. [48] [49] [50] It is estimated that the subsidence has been continuing at a rate of about 4 centimetres (1.6 in) a day. [51] A large crack opened up through the town, which old maps indicate is a reactivation of an existing fault. Scientists at the University of Iceland believe that the fault was created by the last Sundhnúkur eruption over 2,000 years ago. [52] Sensors emplaced in a borehole in Svartsengi detected the presence of sulfur dioxide on 16 November, a classic signature of magma close to the surface. [53] This led the IMO to conclude that the area around the volcanic edifice of Hagafell [ˈhaːɣaˌfɛtl̥] , approximately 2 kilometres (1.2 mi) north of Grindavík, is at the highest level of risk. A rapid 3 centimetres (1.2 in) uplift of the ground in the Svartsengi area was recorded from 18 to 21 November, likely indicating an upwelling of magma from a source 5 or more kilometres (3.1 or more mi) below the ground. An eruption was still regarded as likely on 21 November, but as seismic activity declined from 24 November, that likelihood also began to decline. [1] In November 2023, Benedikt Ófeigsson, a geophysicist at the IMO, posited that Fagradalsfjall, rather than Svartsengi, might be the source of volcanic activity near Grindavík, noting the difficulty in assessing the activity's depth, location, and magma volume amidst seismic disturbances. He anticipated that InSAR satellite imagery would clarify these uncertainties. [54] Supporting Benedikt's hypothesis, Freysteinn Sigmundsson from the University of Iceland, in February 2024, observed that minor seismic activity near Fagradalsfjall indicated potential magma movement, hinting at a possible eruption. He highlighted the magma's potential new pathways, particularly its shift towards the Svartsengi system and the persistent pressure in Fagradalsfjall post-eruption. [55] Additional evidence bolstering the theory comes from the pattern of land uplift in these systems. In Fagradalsfjall, an uplift began following the end of volcanic activity in early August 2023 and persisted until the end of October 2023. Notably, as this intrusion concluded in Fagradalsfjall, a fresh phase of land uplift initiated in Svartsengi around the same time. [40] Scientists from Uppsala University appear to have confirmed the theory proposed by their counterparts at the University of Iceland. [56] [57] According to Professor Magnús Tumi Guðmundsson, a geophysicist at the University of Iceland, the magma channel, approximately 2 metres (6 ft 7 in) wide, had undergone rapid solidification . Approximately 90% of the magma solidified within 10 to 15 days following the subsidence in November 2023, due to the cold nature of the Earth's crust. However, some magma near Sundhnúksgígar remains, posing potential risks for further activity should underground pressure increase. Magnús notes that while the magma cools quickly, the surrounding rock stays hot and weak, maintaining a state of geological vulnerability in the area for several months, necessitating ongoing caution and monitoring. [58] If an eruption were to occur, it was most likely to take place in the area between Sýlingarfell [ˈsiːliŋkarˌfɛtl̥] and Hagafell mountains. [59] Over the span of several weeks, the possibility of an eruption in Eldvörp, northeast of Grindavík, was also being monitored. [60] [61] Significant land movements were recorded around the Svartsengi area during the subsidence, with a displacement of about 100 centimetres (39 in) to the west and 25 centimetres (9.8 in) to the north. During the evacuation of Grindavík on 10 November, the ground near Svartsengi initially descended by 35 centimetres (14 in) and subsequently rose by 25 centimetres (9.8 in). A GPS station at Festarfjall, situated east of Grindavík, underwent a shift of 60 centimetres (24 in) eastward and 40 centimetres (16 in) southward, along with an upward movement of 12 centimetres (4.7 in). Moreover, the GPS station in Grindavík, directly above the magma conduit, moved 30 centimetres (12 in) eastward. On 10 November, at the aforementioned location, there was also a dramatic drop of 100 centimetres (39 in), followed by an additional sinking of 20 centimetres (7.9 in). [62]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Grindavik_area_annotated.jpg/220px-Grindavik_area_annotated.jpg",
+                "caption": "Annotated view of area involved in 2023 seismic disturbances"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sundhn%C3%BAksg%C3%ADgar.jpg/220px-Sundhn%C3%BAksg%C3%ADgar.jpg",
+                "caption": "Sundhnúksgígar craters seen from the south-west"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/2023%E2%80%932024_Sundhn%C3%BAkur_eruptions",
+        "title": "2023–2024 Sundhnúkur eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "December 2023 earthquakes",
+        "text": "On 1 December the Reykjanes Peninsula, near Svartsengi in Iceland, experienced a notable decrease in seismic activity, primarily recording micro-earthquakes below magnitude one, mainly concentrated between Sýlingarfell and Hagafell. Despite this decline, continuous deformation observed at nearby continuous GPS stations suggested ongoing adjustments due to inflation within the Svartsengi area. By 6 December, geodetic modeling results indicated that the magma inflow to the dike formed on 10 November 2023 had likely ceased, significantly lowering the risk of an eruption along this dike. However, the continued accumulation of magma beneath Svartsengi indicated that the volcanic unrest was not concluded, with a potential for new magma propagation events and an increased eruption risk. Through mid-December, sustained, albeit generally weak, seismic activity around the area, including over 460 earthquakes with a notable magnitude 2.8 tremor near Hagafell, underscored the ongoing geological unrest. Despite a slowdown in deformation rates observed by 16 December, the situation remained dynamic, with the potential for further volcanic activity under close scrutiny by scientists. [1] It is most likely that the magma accumulating under Svartsengi is feeding the 15-kilometre (9.3 mi) Sundhnúksgígar crater chain, where the magma intrusion occurred. Deformations are still being measured at stations near the conduit, but it is believed that this is due to the land uplift occurring at Svartsengi. [1] At the beginning of December, recent GPS data from the IMO showed that the land had risen above its level prior to the start of the earthquake series in end of October 2023. Professor Þorvaldur Þórðarson, a volcanology expert from the University of Iceland, theorized that this elevation could be attributed to a combination of tectonic movements and magma build-up. Notably, the pronounced terrestrial shifts on 10 November may have facilitated the migration of magma from deeper reservoirs to more superficial ones. [63] In the weeks following the subsidence, the volcanic activity at Svartsengi entered a new phase with increased chances of magma propagation and potential eruptions. The observed pattern suggested a possible repetition of events, where magma accumulating beneath Svartsengi feeds a dike beneath Grindavík and northeast towards Sundhnúksgígar, similar to the one formed on 10 November. In the beginning of December, the magma flow was accumulating under Svartsengi at a rate comparable to the flow of the Elliðaár river in Reykjavík, or just a few cubic metres per second (several tens of cu ft/s). The magma was believed to be located at a depth of about 5–6 kilometres (3.1–3.7 mi). [64] [65] The recent seismic trends at Svartsengi, characterized by varying intensities and a concentration of activity along a dike, closely resembled the seismic and volcanic patterns experienced during the Krafla Fires , which began in 1975. In these old eruptive series, the region witnessed over a period of ten years 20 distinct magma propagations, nine of which culminated in eruptions. [15] These events were marked by varying magma volumes feeding the same dike, leading to different eruption scales. In Svartsengi, geodetic data showed a similar pattern of reduced magma volumes compared to levels observed before the 10 November dike intrusion, parallelling the smaller magma accumulations at Krafla that were sufficient to trigger new propagations and subsequent eruptions. [66] From the beginning of the earthquakes until 10 November, the land at Svartsengi elevated by more than 10 centimetres (3.9 in) within a span of 16 days. Following a substantial subsidence of 35 centimetres (14 in), a new phase of activity led to a land rise of 20 centimetres (7.9 in) over an equivalent 16-day period. This same phase then peaked at about 35 centimetres (14 in) before the first eruption on 18 December later that year, thereby reaching the same height as prior to the subsidence. [67] [68] Typically, the land undergoes a sharp descent before each intrusion and eruption, followed by a gradual ascent thereafter. [1] The previously mentioned subsidence was caused by the movement of magma from Svartsengi, passing beneath Grindavík, and extending towards Sundhnúksgígar to the northeast. [69]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/View_from_%C3%9Eorbj%C3%B6rn%2C_Iceland%2C_20230430_1521_3650.jpg/220px-View_from_%C3%9Eorbj%C3%B6rn%2C_Iceland%2C_20230430_1521_3650.jpg",
+                "caption": "Hagafell ( left foreground ), viewed from Þorbjörn"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/2023%E2%80%932024_Sundhn%C3%BAkur_eruptions",
+        "title": "2023–2024 Sundhnúkur eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "December 2023 eruption",
+        "text": "On 18 December 2023, an eruption occurred at around 22:17 UTC following a series of small earthquakes at around 21:00. [70] The IMO pinpointed the origin of the eruption near Hagafell, [6] about 4 kilometres (2.5 mi) north-east of Grindavík, and noted that the eruption stemmed from a fissure with a length of about 3.5 kilometres (2.2 mi), with lava flowing at a rate of around 100–200 cubic metres per second (3,500–7,100 cu ft/s) adding that seismic activity appeared to be moving towards the direction of Grindavík. [71] The eruptive fissure followed approximately the line of the Sundhnúksgígar crater row formed from previous eruptions. [72] [73] An Icelandic Civil Defence official told the public broadcaster RÚV that the eruption had happened quickly and appeared to be \"quite a large event\". [71] The eruption was described as the largest in the Reykjanes Peninsula since the beginning of eruptive activity in 2021, [6] with lava fountains , up to 100 metres (330 ft) high, [74] and was visible as far away as the capital Reykjavík , 42 kilometres (26 mi) away. [71] Following the eruption, the Icelandic Coast Guard deployed a helicopter to the area to monitor activity. [6] Numerous delays were reported at Keflavík International Airport , which remained open. The Blue Lagoon spa, which had reopened the day before, did not take bookings on the night of the eruption. [4] Police raised the risk level while civil defence authorities warned the public not to approach the area while emergency personnel assessed the situation. [75] By 19 December, the scent of smoke and ash was detected as far as 30 kilometres (19 mi) from the eruption site, raising fears that volcanic gases could reach Reykjavík by the next day. [71] However, the gas would never extend to dangerous levels there; it could only cause mild discomfort at most. [1] On the same day, the Icelandic Coast Guard rescued a man who had gotten lost near the eruption site using a helicopter. [76] On 21 December, the IMO said no lava was erupting after a flight over the volcano, but clarified that it was \"too early to declare the eruption over\". Officials said residents of Grindavík would be allowed back into the town. [77] This eruption remains the only one in the series that caused no damage to infrastructures. [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/2023_Grindavik_eruption_from_the_air.jpg/281px-2023_Grindavik_eruption_from_the_air.jpg",
+                "caption": "The 18 December 2023 eruption as photographed from a helicopter of the Icelandic Coast Guard. At the right in the background, Grindavík, Iceland, is visible"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/2023%E2%80%932024_Sundhn%C3%BAkur_eruptions",
+        "title": "2023–2024 Sundhnúkur eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "January 2024 eruption",
+        "text": "On 14 January 2024 around 7:57 UTC, a second eruption began around 400–500 metres (1,300–1,600 ft) north of Grindavík [79] following seismic activity that began from the Sundhnúksgígar crater. [80] Fissures were reported to have opened up on both sides of the anti-lava defences, [81] and it was estimated that lava would reach the town within 24 hours. A successful mission was launched to save several pieces of heavy machinery used to construct the barriers. [82] The lava cut off one of the main roads leading into Grindavík. [83] The initial fissure reached a length of up to 900 metres (3,000 ft). [84] Around noon, another fissure, measuring about 100 metres (330 ft), [84] opened only metres (several dozen ft) from the outermost houses of the town [85] and subsequently set three houses on fire [10] before ceasing after a few hours. Evacuation orders were reimplemented in Grindavík, while the Icelandic Coast Guard deployed a helicopter to monitor the situation. [86] Volcanic activity was seen to have “decreased considerably” by 15 January. [87] Evgenia Ilyinskaya, a volcanologist from the University of Leeds , told the BBC that the eruption suggested that the Reykjanes peninsula was likely entering a long-term period of frequent eruptions that could last for centuries, which she termed the New Reykjanes Fires after a previous occurrence in the 12th century. [83] [88]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Grindavik_and_the_eruption_14_januar_2024.jpg/281px-Grindavik_and_the_eruption_14_januar_2024.jpg",
+                "caption": "Aerial photograph of the eruption on 14 January 2024"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/2023%E2%80%932024_Sundhn%C3%BAkur_eruptions",
+        "title": "2023–2024 Sundhnúkur eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "February 2024 eruption",
+        "text": "On 8 February at 6:03 UTC the third eruption started north of Sýlingarfell [89] following intensive seismic activity that began 30 minutes prior. The eruption produced lava fountains measuring between 50–80 metres (160–260 ft) in height and a 3-kilometre (1.9 mi) high volcanic plume. [90] A 3-kilometre (1.9 mi) long fissure opened in the same area as the December eruption, between the Sundhnúksgígar craters and the hill of Stóra-Skógfell, about 4 kilometres (2.5 mi) northeast of Grindavík. The lava was reported to be flowing rapidly east and west. Although it was at a safe distance from Grindavík, it caused serious damage to infrastructure in the vicinity of the Svartsengi power station . [13] [91] Unlike in the previous eruptions on the peninsula, the 8 February eruption produced quantities of black ash mixed with steam. This is theorised to be the result of groundwater boiling and mixing with magma to create ash. [89] Volcanic activity subsided later in the day. [92] The IMO estimated that around 15 million cubic metres (530 × 10 ^ 6 cu ft) of lava were erupted on 8 February alone, representing a flow of about 600 cubic metres per second (21,000 cu ft/s). About two-thirds of it flowed west into the Svartsengi area, extending up to 4.5 kilometres (2.8 mi) from the eruption centre. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Eldgos_8._febr%C3%BAar_2024_Almannavarnir.jpg/281px-Eldgos_8._febr%C3%BAar_2024_Almannavarnir.jpg",
+                "caption": "A photograph of the eruption on 8 February 2024"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/2023%E2%80%932024_Sundhn%C3%BAkur_eruptions",
+        "title": "2023–2024 Sundhnúkur eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "March-May 2024 eruption",
+        "text": "On 16 March at 20:23 UTC, the fourth eruption started between Hagafell and Stóra-Skógfell, with impressive lava fountains that were several dozen metres (a few hundred ft) in height. [93] Both the Blue Lagoon and Grindavík were evacuated. [94] [95] A 3-kilometre (1.9 mi) fissure opened up, [96] producing two lava flows going in different directions. The first was seen to be moving in a westward direction towards the Blue Lagoon and the Svartsengi power plant and reached Route 43 (Grindavíkurvegur) leading into Grindavík, raising concerns that it could damage fiber optic cables laid on the road and cause internet and telecommunications disruptions. The second lava flow was seen to be moving south, reaching the eastern protective walls of Grindavík [97] at a speed of 1 kilometre per hour (0.6 mph). [98] The IMO said the eruption was \"significantly wider\" than the eruption of the previous month, while a geophysicist who observed the eruption during a helicopter flight described the eruption as the \"most powerful\" of the current eruption sequence. A state of emergency was declared again over the region on the day of the eruption, [99] but it was downgraded to Alert Phase on 3 April. [100] Volcanic activity significantly diminished in the days and weeks following the onset of the eruption but continued nonetheless. [97] During the initial phase of the eruption, the lava flow rate surged to between 1,100–1,200 cubic metres per second (39,000–42,000 cu ft/s) within the first hour. However, this intensity rapidly waned, with the ejection rate diminishing to approximately 100 cubic metres per second (3,500 cu ft/s) within six to eight hours of onset. By 17 March, one day after the eruption began, the newly formed lava field covered nearly 6 square kilometres (2.3 sq mi). By 20 March, the average lava output had decreased to around 15 cubic metres per second (530 cu ft/s). Between 20 and 27 March, the average lava flow rate reduced to approximately 7.8 ± 0.7 cubic metres per second (275 ± 25 cu ft/s). From March 27th to April 3rd, the average flow rate was estimated at 6.6 ± 0.3 cubic metres per second (233 ± 11 cu ft/s), further decreasing to 3.6 ± 0.7 cubic metres per second (127 ± 25 cu ft/s) between 3 and 8 April. The lava bed had expanded to cover an area of 6.14 square kilometres (2.37 sq mi) by 9 April, with a volume of 31.3 million cubic metres (1.11 × 10 ^ 9 cu ft), and only one active crater remained. Throughout this period, there was a consistent upward movement of land due to magma flow. By the first half of April, the average ejection rate further decreased to approximately 3–4 cubic metres per second (110–140 cu ft/s). In the final two weeks leading up to the conclusion of the eruption, the lava ejection rate had diminished to 1 or less cubic metre per second (35 or less cu ft/s). [1] There was an indication that magma was primarily emerging from a deeper chamber and bypassing the intermediate storage at 4–5 kilometres (2.5–3.1 mi) beneath Svartsengi, previously the exclusive reservoir for the last three eruptions. Such direct access from the deeper source, located at 8–12 kilometres (5.0–7.5 mi) depth, may have explained the prolonged activity of the eruption. [56] [101] In early April, Professor Þorvaldur Þórðarson, observing the decline in thermal imaging signals and magma output, suggested the eruption was weakening. The darkening of gases and the halt in land uplift underscored a shift in the magma dynamics, now dominated by the deeper magma source. This pattern echoed the initial stages of the 2021 Fagradalsfjall eruption , marked by low magma activity. He also posited that a reduction in magma flow to below 2–3 cubic metres per second (71–106 cu ft/s) would have heralded the cessation of the eruption in the foreseeable future. [102] Land uplift had halted when the March-May eruption began but resumed at the beginning of April at a slower pace than after the previous three eruptions. [103] [104] As a result, approximately half of the magma flow was diverted to the shallower magma chamber, while the other half continued to the surface. [1] [105] The eruption began with the shortest notice so far, marked by the fewest precursor earthquakes and the shortest time from these initial signs to the onset of the eruption. [106] Moreover, it was initially noted to be more intense than its predecessors in the series, establishing it as the most energetic volcanic activity observed since the 2014–2015 Bárðarbunga eruption , [107] until it was later surpassed by the May-June 2024 eruption. [108] It has been the longest of the five eruptions that have occurred since the first one in December 2023. [109] Access to the eruption area has been prohibited, as it was with previous eruptions. [110] However, some tourists have still been caught and turned back, [111] though this has not been a significant issue. [112] After almost 24 hours without any lava activity from the crater, the eruption was officially declared over on 9 May. [18] [113] By the time it ceased, the lava field had expanded slightly to approximately 6.2 square kilometres (2.4 sq mi), up from its initial coverage of just under 6 square kilometres (2.3 sq mi) after the first day of the eruption. The total volume of lava produced is estimated at around 34 million cubic metres (1.2 billion cubic feet). According to the Institute of Earth Sciences at the University of Iceland, although this eruption was significantly smaller than the 2021 event, its volume was three times greater than that of the December 2023 and February 2024 eruptions. [1] [114] [115]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Eruption_near_Grindav%C3%ADk_on_March_16%2C_2024.png/281px-Eruption_near_Grindav%C3%ADk_on_March_16%2C_2024.png",
+                "caption": "Aerial photograph of the eruption near Grindavík on 16 March 2024"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/2023%E2%80%932024_Sundhn%C3%BAkur_eruptions",
+        "title": "2023–2024 Sundhnúkur eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "May-June 2024 eruption",
+        "text": "On 29 May at 12:45 UTC, a fifth eruption began after a fissure measuring more than 2.5 kilometres (1.6 mi) opened near Sundhnúksgígar , producing lava fountains as high as 50 metres (160 ft) and plumes that reached an altitude of 3.5 kilometres (2.2 mi). Evacuations were again ordered in Grindavík and at the Blue Lagoon. [116] [117] [118] Two hours later the fissure had widened to 4.0 kilometres (2.5 mi). [119] The eruption followed a week in which around 400 earthquakes were recorded in the area while about 20 million cubic metres (26 million cubic yards) of magma had accumulated underground. [116] Lava flow in the first four hours of the eruption has been estimated to average around 1,500 m 3 /s (53,000 cu ft/s), which is higher than the March 16 eruption. [1] At its most intense, the eruption released a large amount of ash at the southern end of the fissure due to contact with groundwater that had accumulated due to recent rain. [120] Lava flowing towards Grindavik was deflected by protective barriers. However, two of the three roads leading to the town were cut off. [121] Volcanic activity decreased on 30 May, [122] and stopped on 22nd June. It had lasted for 24 days with a volume and area of its lava flows that were the largest of the five eruptions to date. [20]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Eldgos_29_ma%C3%AD_2024_B.jpg/220px-Eldgos_29_ma%C3%AD_2024_B.jpg",
+                "caption": "Eruption in May just after it started"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/2023%E2%80%932024_Sundhn%C3%BAkur_eruptions",
+        "title": "2023–2024 Sundhnúkur eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Grindavík",
+        "text": "Grindavík is currently mostly abandoned due to the volcanic activity and its inhabitants have been evacuated, although they have been permitted to return for short visits to remove personal effects and goods from their homes and businesses. Additionally, homeowners are permitted to reside in their properties. This represents the first time that an entire community has been evacuated in Iceland since the eruption of Heimaey in 1973. [51] Presently, it is difficult to predict when Grindavík will become habitable again; however, scientists anticipate that the current conditions could persist for months or even years. [127] The current civil protection phase in the area is classified as \"Alert Phase\". [100] Following the 5.2 tremor on 10 November, a state of emergency was declared, and evacuation plans were put into effect for Grindavík. [128] This culminated in the relocation of nearly 4,000 residents, almost 1 percent of Iceland's entire population. [129] The Department of Civil Protection and Emergency Management deployed the Icelandic Coast Guard Vessel Þór to the area \"for safety purposes\". [130] It also closed all roads to Grindavík except for emergency and evacuation purposes. [129] On 13 November, authorities allowed residents to return briefly to the town to retrieve their belongings. [131] Boat owners were also allowed to remove their vessels from the harbour. The Icelandic government sought to accommodate displaced residents in holiday homes and little-used properties during the emergency in November and December. The subsidence, faulting and earthquakes have caused widespread damage to properties and infrastructure in the town. [52] Since the November disaster, subsidence, earthquakes, and lava flow have led to multiple disruptions in the town's electricity and hot water services. [132] [133] [134] [135] The seismic activity has received significant coverage by the international media. [136] Prior to the evacuation, reports emerged of individuals relocating due to the incessant tremors disrupting sleep and fears of potential consequences. During the evacuation, the Icelandic Red Cross provided accommodation for about 1,700 displaced residents at three emergency centres in Keflavík , Kópavogur , and Selfoss . Of these individuals, approximately 140 actually spent the night in these centres. [137] The majority of the other displaced residents independently found alternative accommodations elsewhere. Furthermore, every individual in the Grindavík area received an SMS message from 112 , Iceland's emergency service, with the headline \"EVACUATION\". [138] The displacement of all residents from the town was mandated by authorities. [139] The Icelandic government had plans to assist around 700 residents, who are part of about 200 families, from the original 3,700 population of Grindavík. The project included purchasing up to 210 new apartments through two non-profit housing associations, primarily in the Reykjanes area and the Capital Region . This was to be supplemented by temporary financial support for increased housing costs, with the entire support system estimated to cost about 220–240 million ISK per month, subject to a three-month reassessment with extensions. [140] This initiative represented a comprehensive effort to provide both immediate and sustainable housing solutions for Grindavík's displaced residents. [141] On 1 December, the government, in partnership with the Government Property Agency , began seeking additional temporary rental properties from private and corporate owners to assist displaced Grindavík residents as part of a larger pre-established housing support program that includes wage and rental subsidies. [142] A week later, a platform for Grindavík residents was launched online, targeting temporary housing in the Reykjanes peninsula, the Capital Region, and neighbouring municipalities. It enabled direct leasing between residents and property owners, supported by government rental subsidies. [143] In a collaborative response to the disaster and ongoing uncertainty in Grindavík, Iceland's major banks— Arion Banki , Íslandsbanki , and Landsbankinn , in partnership with Finance Iceland—agreed to waive interest and indexation on housing loans for Grindavík residents for three months. This relief applied to loans up to 50 million ISK. The measure aimed to provide equitable support, including options like deferred loan repayments. Each bank further outlined the specifics of these relief measures, ensuring they are tailored to the evolving needs of their customers in Grindavík. [144] On 23 February, the Icelandic government enacted a law to acquire all residential real estate in Grindavík, initially estimating the cost at 61 billion ISK. However, the current projection indicates the total expenditure will be 75 billion ISK, including the assumption of all unpaid mortgages . [145] The operation, under the supervision of the newly established real estate company Þorkatla, aims to relieve the residents' distress and uncertainty following seismic activities since the previous November. The law also granted Grindavík residents until the end of the year to decide if they wish to sell their property to the state. Homeowners then have a right of first refusal to repurchase their properties within three years after the law's enactment. [146] [147] As of 27 March 2024, 546 residents of Grindavík had submitted requests to sell their residences to the government, involving a total of 930 properties. [148] [149] Industrial properties and businesses within the town will not be subject to acquisition, but the Icelandic government will continue to provide various forms of aid, including support loans and wage assistance. [150] [151] As part of the government's comprehensive plan, which includes efforts by the Department of Civil Protection and Emergency Management to prevent freezing damages in houses and ensure that Grindavík remains functional and safe for future habitation, [152] [153] up to 100 electricians and plumbers were mobilized to conduct critical repairs and upgrades, mostly from November 2023 to February 2024. This initiative also involved essential infrastructure work to secure and maintain the electrical and plumbing connections between the town and the power station, especially in January, when Grindavík's water main was engulfed by lava from the eruption. [154] Specialized teams were also deployed to fill in cracks and faults resulting from seismic activity. [155] [156] [157] The State Commissioner of Police , in consultation with the Police Commissioner in the Reykjanes peninsula, downgraded the risk level in Grindavík from Emergency Phase to Alert Phase, which was effective from 23 November 2023 until the December eruption. This decision, based on a new assessment by the Icelandic Meteorological Office (IMO), indicated a reduced likelihood of a sudden eruption in Grindavík. Residents and businesses in Grindavík were then permitted to enter the area between 7 a.m. and 9 p.m. to retrieve valuables, attend to their properties, and conduct business activities. [158] However, the town remained closed to the general public and unauthorized traffic. Safety measures, including limited vehicle access with restriction on certain types of transportation, constraints on essential services and a prepared evacuation plan, were established. [159] The area, under continuous surveillance, is still considered dangerous. Residents were advised to keep records of valuables taken and to contact their insurance companies, and to be cautious as houses might be unsafe. [160] [161] [162] About 120-150 residents commute to work in the town each day. [110] In December, a resident of Grindavík was in caught staying at his home with his wife for several nights and was threatened with arrest due to the regulations in place at that time. [4] Following the town's evacuation, a state of emergency was declared with the onset of each subsequent eruption, highlighting the significant risk involved. Upon the conclusion of each eruption, the status was systematically reduced to Alert Phase. [99] [163] [164] [165] In the aftermath of the November disaster, the town was subjected to stringent regulations, which included specific opening and closing times. However, in late February, the State Commissioner of Police granted near-unlimited access to the town, albeit with a clear emphasis on the fact that \"residents and employees enter the town at their own risk\". The chief of police further emphasized that Grindavík is ill-suited for children due to the absence of functioning schools, the compromised state of infrastructure, and possible hidden faults in the town. Access is still strictly limited to residents, employees, and authorized media personnel. [166] While homeowners are permitted to stay overnight in their homes, the chief of police strongly advises against it. [167] [168] In the nights leading up to the March-May eruption, 5-10 homes were occupied. [169] To enhance the existing security measures, which involved sending SMS warning messages to residents in the zone, emergency warning sirens underwent testing prior to the March-May eruption. The warning sirens have not been sounded in Iceland since April 2000 after they were subsequently decommissioned. Instead of warning sirens, a dial-out system was developed for all mobile phones. The warning sirens were, among other things, decommissioned as they were considered expensive and unreliable in operation. [170] The system currently comprises three sirens located in Grindavík, with additional sirens installed at the Svartsengi power station and the Blue Lagoon. [171] The main concern and risk in Grindavík currently comes from the extensive cracks and faults that have appeared, most of which formed during the subsidence in November. Before the event, authorities were cognizant of existing fissures; however, many structures and pieces of infrastructure were built over these old cracks, disregarding the potential for their reactivation after being dormant for more than 2,000 years. Specialists, including those from the Icelandic Road Administration , are actively monitoring and mapping both the newly formed and previously unknown or concealed cracks that could pose a risk to public safety. On 10 January, an employee engaged in sealing these cracks fell into what was apparently the largest fault, which runs directly through the centre of the town. [172] [173] [174] [175] [176] The earthquakes in Grindavík had a profound impact on infrastructure and residences, prompting over 500 reports of property damage to the Natural Catastrophe Insurance of Iceland. [177] Of these, at least 74 properties were deemed uninhabitable, [178] with three being completely destroyed by direct lava contact. [179] Two weeks following the earthquakes, a thorough damage assessment was initiated and is still ongoing. The estimated total cost of the damages was initially predicted to be up to 10 billion ISK [180] but is now expected to reach 16 billion ISK. [181] Prior to the Icelandic government's implementation of a law to purchase all residential properties in Grindavík, property owners facing irreparable damage to their homes were obligated to allocate a segment of their insurance compensation—earmarked primarily for on-site repairs or reconstruction—to cover a disposal fee. In cases where rebuilding at the original location was not permitted, property owners were then allowed to use their insurance proceeds to buy homes elsewhere. [182] [183] Since November 2023, the Icelandic government's total expenditures related to the natural disasters in Grindavík have approached 100 billion ISK. [184]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Aerial_view_of_Grindav%C3%ADk.jpg/220px-Aerial_view_of_Grindav%C3%ADk.jpg",
+                "caption": "Aerial view of Grindavík before the disaster"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Grindav%C3%ADkurvegur_2023_A.jpg/220px-Grindav%C3%ADkurvegur_2023_A.jpg",
+                "caption": "Closure of the road to Grindavík"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/2023%E2%80%932024_Sundhn%C3%BAkur_eruptions",
+        "title": "2023–2024 Sundhnúkur eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Blue Lagoon",
+        "text": "The Blue Lagoon is currently open after admission resumed on 6 April. Operational hours are now subject to adjustments based on forecasts of wind conditions and gas emissions, [185] potentially leading to temporary closures due to unfavourable air pollution from the eruption. [186] The hot springs area has repeatedly been closed and evacuated due to the earthquakes and eruptions. Although it has not been significantly damaged, lava has engulfed nearby roads, necessitating the construction of new ones. The hot springs were closed for three weeks after the beginning of the March-May eruption, due to their close proximity to the ongoing eruption nearby and the continuous release of toxic gases. [187] [188] The nearest lava front has halted and is currently less than 1 kilometre (0.62 mi) away from the Blue Lagoon, which is protected by a constructed barrier. [1] The site's management announced the site's closure to visitors from 9 to 16 November as a precaution following the earthquakes. [189] Rocks dislodged by the earthquakes were reported to have fallen onto roads in the area, and 30 guests left the resort following a magnitude 4.8 tremor in the early hours of 9 November. In addition to these safety concerns, the closure was also implemented to reduce increased stress on staff. The management has assured that all staff will receive their full salaries during the closure period. Furthermore, guests who were evacuated as a result of the tremor will be provided with a full refund. [190] [191] Helga Árnadóttir, Director of Sales, Operations and Services at the Blue Lagoon, confirmed that the seismic activity at Svartsengi caused no visible damage or structural impairment to their facilities. The buildings, designed for earthquake resilience, remained intact and structurally sound. [192] The administrators of the Blue Lagoon extended the closure announcement five times after the evacuation in November 2023 due to continuing geological activity. Following permission from the chief of police, it reopened on 17 December. [193] [194] [195] [196] Prior to reopening, the staff were trained in evacuation procedures to ensure preparedness for any emergencies, while the administration prepared an evacuation process, expected to take around two hours in case of emergency. Additionally, guests were to be informed about the current situation. [197] Despite the advertised closure, staff members at the Blue Lagoon were observed staying in the spa's geothermal waters, apparently assessing them before the official reopening. [198] The Blue Lagoon remained open for just two days before it closed again on 18 December 2023 after the first eruption commenced only 2–3 kilometres (1.2–1.9 mi) away. [199] All guests and staff were evacuated from the site roughly one to two hours before the eruption. [200] The Blue Lagoon reopened on 6 January, with all facilities back in operation by 10 January. However, it was shut down once again on 14 January and promptly evacuated, but reopened on 20 January. [201] It was safely evacuated at the start of the 8 February eruption [202] but the hot springs were subsequently cut off by a fast-moving lava flow engulfing a stretch of Bláalónsvegur (Route 426), its main access road. [13] On 16 February, the Blue Lagoon reopened after the Icelandic Road Administration constructed a new gravel road within the defence barriers surrounding the hot springs, restoring access that had been cut off by a lava flow from the recent eruption. [203] [204] The Blue Lagoon was temporarily closed and evacuated on 2 March in anticipation of an imminent eruption [205] but reopened two days later after no eruption occurred. [206] The Blue Lagoon was closed indefinitely from 16 March due to the onset of the fourth eruption, but it reopened on 6 April. [185] [207] During the fifth eruption, the Blue Lagoon was closed from 29 May to 2 June. [208] The chief of police states that maintaining operations at the Blue Lagoon is scarcely justifiable amidst the ongoing eruption due to the risk of air pollution compromising public health. [209] Administrators, in consultation with authorities, regularly assessed whether it was safe to reopen the geothermal spa. [210] [211] On 20 March 2024, a staff member at the Blue Lagoon was hospitalized due to symptoms of poisoning amidst the eruption that began on 16 March, which had resulted in elevated levels of sulfur dioxide . The illness occurred while the employee was working at the hot springs. [212] The worker is expected to make a full recovery. [213]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BlueLagoon_Noface.jpg/220px-BlueLagoon_Noface.jpg",
+                "caption": "The Blue Lagoon and the Svartsengi power station behind it"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/2023%E2%80%932024_Sundhn%C3%BAkur_eruptions",
+        "title": "2023–2024 Sundhnúkur eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Svartsengi power station",
+        "text": "The Svartsengi power station was unoccupied and remotely controlled from the Reykjanes power station during the initial months following the November disaster. In 2024, the station was evacuated multiple times due to imminent eruptions and other perceived threats to staff safety. [214] [215] It experienced minimal impact from the earthquakes, with the only damage being \"the interior furnishings and exterior walls, as well as considerable cracking in pathways and remote areas of the site\". The power station continued to maintain its usual production levels of hot and cold water, as well as electricity. [216] There is a risk that if lava engulfs the facility, approximately 30,000 residents on the peninsula, constituting about 8% of Iceland's population, would permanently lose essential heating and electricity. [217] Construction of earth barriers began in November 2023, with the purpose of protecting the power station by redirecting future lava flows. [218] Before the January eruption, HS Orka , the operator of Svartsengi power station, introduced a novel early-warning system that may be a first in volcanic monitoring. This system issued an essential alert more than four hours before the eruption. Since November 2023, the boreholes, pre-dating their use in the advanced system, have been pivotal in predicting volcanic activities. Detecting pressure fluctuations, these boreholes have reliably signaled upcoming eruptions, demonstrating their pre-existing potential in volcanic surveillance and safety. [219] [220] [221] The eruption of 8 February produced a lava flow that came close to the power station. It cut off the northern access road to the geothermal plant (though the southern road was unaffected) and destroyed part of the Njarðvíkuræð pipeline supplying hot water from Svartsengi to Reykjanesbær , Suðurnesjabær , Vogar , and Grindavík . [13] Around 20,000 people in the area were reported to have been cut off from the hot water supply. Residents of the peninsula were warned to use hot water and electricity sparingly. Keflavík International Airport was among the locations affected by the loss of hot water; schools similarly affected were closed. Despite significant damage caused by the eruption on local infrastructure, the Capital Region was unaffected as it operates within a different geothermal energy distribution system . [222] The Icelandic government declared a state of emergency in response to the hot water crisis. [223] While the Reykjanes power station and the wider Icelandic grid can supply electricity if the Svartsengi line is cut off, the capability to deliver hot water, a critical function of the Svartsengi power station, cannot be replicated. [224] [225] At the time of the eruption, temperatures in the area reached as low as -14 °C (6.8 °F). The shortages contributed to the closure of schools, public pools and sport facilities in the area on 9 February. [226] The repair and reconnection of the hot water pipeline was completed on the afternoon of 9 February, approximately 30 hours after it was breached, restoring the supply of hot water to the wider Reykjanes area. Workers managed to splice together the undamaged sections of the old pipeline with the new underground system, often working through the night. [227] In the weeks leading up to the February eruption, workers had been constructing an underground bypass pipeline parallel to an older one, designed to be more resistant to damage from lava flows. The plan was to link the intact section of the old pipeline, unaffected by the lava, to the new underground pipeline at both ends, outside the recently formed lava field. [228] Despite these efforts, the newly constructed bypass pipeline collapsed under the pressure of the lava flow late evening on 9 February. [229] [230] Immediately workers started to construct a new pipeline, which was placed on top of the fresh lava. Around 50 hours later, on 12 February, water began flowing through the new pipeline. [231] [232]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_332.jpg/220px-Blue_Lagoon_Iceland_hdsr_2019_10_19_9999_332.jpg",
+                "caption": "The Svartsengi power station in 2019"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/2023%E2%80%932024_Sundhn%C3%BAkur_eruptions",
+        "title": "2023–2024 Sundhnúkur eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Barriers and roads",
+        "text": "A strategic plan for the construction of protective barriers had been established well in advance of the recent seismic disturbances in the area. [24] The commencement of this plan was placed on hold, as there was no pressing threat of a volcanic eruption, coupled with the significant environmental repercussions involved. However, on 10 November, due to escalating earthquake activity, a fleet of lorries began delivering materials to the predetermined site near the Blue Lagoon and Svartsengi power station. But this initial operation was soon put on hold owing to concerns about a potential eruption later that same day. [233] The construction work was officially resumed on 13 November, following the Althing 's approval of a bill proposed by then-Prime Minister Katrín Jakobsdóttir . [234] [235] Following this, workers began assembling filler materials into barriers at the planned sites. [236] The construction of the barriers was almost complete when the 18 December eruption occurred. Once it was safe for workers to resume, they were quickly sent back to the site to finish the remaining filling work on the barriers. [237] The prospect of protecting the Njarðvíkuræð hot water pipe leading from the plant was considered extremely challenging, as it is situated above ground on stilts. Prior to the eruption in February, plans were established to bury a new underground bypass pipeline, shielding it from potential lava damage, and preparing it for potential connection to the ends of the old pipeline in the event of engulfment. [238] The eruption on 8 February resulted in the destruction of a segment of the old pipeline just north of Svartsengi and the subsequent collapse of a section of the new underground bypass pipeline on 9 February. [13] Svartsengislína powerline had previously been protected with barriers around the base of the masts; when the same eruption encircled the structures, causing no damage. [239] Construction of protective barriers around Grindavík, for which plans were already in place prior to the eruptions, [240] officially began on 2 January. [241] The project, initiated from the eastern end, involves erecting a barrier extending over 2 kilometres (1.2 mi). As the project approaches its final stages, the initial phase of construction aims to reach an average height of around 4 metres (13 ft), although this may vary in different locations. The design of the barrier, guided by lava flow simulations , specifically targets the areas at highest risk. [242] On 21 March, the advancing lava began to fill a stone quarry previously utilized for sourcing materials for the barriers. However, workers are still able to obtain materials from alternative locations. [243] [244] Additionally, recently solidified lava was used as a resource for assembling the protective structures. [245] In late March, authorities decided to raise the height of the northeast barriers in response to the thickening lava field from the March-May eruption, which poses a risk of overspill. Construction crews will be working around the clock on this project. [246] By the end of April 2024, lava began to creep over the same section of the barriers, though it currently poses no immediate threat. [247] Construction on yet another barrier began on 6 May 2024, following approval by justice minister Guðrún Hafsteinsdóttir . The decision was made after she received a memorandum from the Department of Civil Protection and Emergency Management a week earlier. This project represents the final initiative planned by the Icelandic government regarding the eruptive series in Sundhnúksgígar . [248] Positioned inside the perimeter of the previous barriers and closer to Grindavík, the new wall is designed to proactively safeguard against potential lava overflow, particularly in scenarios involving thin-flowing pāhoehoe lava . The barrier will stand 5 metres (16 ft) high and stretch between 0.8–1 kilometre (0.50–0.62 mi) in length, with an estimated construction timeframe of 2 to 3 weeks. [249] Approximately 30 to 35 people are working day shifts on this project. [250] Also under consideration is the construction of protective barriers for the town of Vogar , located in the northern part of the peninsula, after lava flow models indicated a chance of lava from the current eruption flowing north towards Route 41 (Reykjanesbraut) in the future. While Vogar and Route 41 are considered to have a low risk of being affected, Route 43 (Grindavíkurvegur), being closer to the lava front, was considered to face a medium risk in this scenario, prompting additional concern for its safety. [251] [252] [253] On 14 January 2024, a lava flow engulfed Road 43 located south of Svartsengi power station and the Blue Lagoon. Subsequently, on 8 February and again on 17 March, the same road north of these landmarks was overtaken by lava. These incidents effectively severed the connection between Grindavík and the north peninsula, each time prompting the construction of a new gravel road over the freshly cooled lava within days. [13] [254] [255] [256] In the early stages of the March-May eruption, the encroaching lava threatened Route 427 (Suðurstrandarvegur) as it amassed against the eastern protective barrier of the town and advanced towards the sea to the south. [257] [258] This put two of the three crucial roadways linking Grindavík at risk, sparing only Route 425 (Nesvegur). Concerns grew as there was a chance the lava would make it to the ocean near the road, potentially causing minor explosions [259] and emitting toxic gases like hydrochloric acid (HCl) due to chemical reactions with the sea. [260] A zone extending 500 metres (1,600 ft) from the anticipated point of marine entry was deemed critically dangerous to human safety. However, these risks were allayed when the lava halted approximately 300 metres (980 ft) from Route 427, just days after the eruption began. [261] Since then, the lava front has remained unchanged. [1] In response to these developments, the Icelandic government implemented a 0.008% additional property tax , levied on the fire insurance value of properties, to fund the construction of lava barriers on the Reykjanes peninsula and safeguard local infrastructure from potential volcanic eruptions. The temporary tax, which is intended to last for three years, came into effect on 1 January 2024, and is projected to raise nearly 1 billion ISK annually. The tax is scheduled to expire on 31 December 2026. [234] [262] [263]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Protective_barrier_at_Svartsengi.png/220px-Protective_barrier_at_Svartsengi.png",
+                "caption": "A preliminary plan for the protective barriers intended to shield the Blue Lagoon and Svartsengi power station"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Protective_barrier_at_Grindav%C3%ADk.jpg/220px-Protective_barrier_at_Grindav%C3%ADk.jpg",
+                "caption": "A design of the first phase of the protective barriers around Grindavík"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/2023%E2%80%932024_Sundhn%C3%BAkur_eruptions",
+        "title": "2023–2024 Sundhnúkur eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Sequence",
+        "text": "On Santorini, there is a 60 m (200 ft) thick layer of white tephra that overlies the soil clearly delineating the ground level before the eruption. This layer has three distinct bands that indicate the different phases of the eruption. [17] Studies have identified four major eruption phases, and one minor precursory tephra fall. The thinness of the first ash layer, along with the lack of noticeable erosion of that layer by winter rains before the next layer was deposited, indicate that the volcano gave the local population a few months' warning. Since no human remains have been found at the Akrotiri site, this preliminary volcanic activity probably caused the island's population to flee. It is also suggested that several months before the eruption, Santorini experienced one or more earthquakes, which damaged the local settlements. [18] [19] [20] Intense magmatic activity of the first major phase (BO 1 /Minoan A) [21] of the eruption deposited up to 7 m (23 ft) of pumice and ash, with a minor lithic component, southeast and east. Archaeological evidence indicated burial of man-made structures with limited damage. The second (BO 2 /Minoan B) and third (BO 3 /Minoan C) eruption phases involved pyroclastic surges and lava fountaining , as well as the possible generation of tsunamis . Man-made structures not buried during Minoan A were completely destroyed. The third phase was also characterized by the initiation of caldera collapse. The fourth, and last, major phase (BO 4 /Minoan D) was marked by varied activity: lithic-rich base surge deposits, lava flows, lahar floods, and co- ignimbrite ash-fall deposits. This phase was characterized by the completion of caldera collapse, which produced megatsunamis . [21] [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Akrotiri-Santorini_volcanic-pumice_Aegean-Sea_Greece.jpg/170px-Akrotiri-Santorini_volcanic-pumice_Aegean-Sea_Greece.jpg",
+                "caption": "Early phase of Late-Bronze-Age volcano eruption (~ 1500 BC), southern border of the Caldera island. The lower layer of pumice is finer, almost white and without rock intrusions."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Minoan_eruption",
+        "title": "Minoan eruption",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Geomorphology",
+        "text": "Although the fracturing process is not yet known, the altitudinal statistical analysis indicates that the caldera had formed just before the eruption. The area of the island was smaller, and the southern and eastern coastlines appeared regressed. During the eruption, the landscape was covered by the pumice sediments. In some places, the coastline vanished under thick tuff depositions. In others, recent coastlines were extended towards the sea. After the eruption, the geomorphology of the island was characterized by an intense erosional phase during which the pumice was progressively removed from the higher altitudes to the lower ones. [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Santoryn-Ia_4.jpg/170px-Santoryn-Ia_4.jpg",
+                "caption": "Mansions and hotels atop steep cliffs."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Minoan_eruption",
+        "title": "Minoan eruption",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Akrotiri",
+        "text": "The eruption devastated the settlement at Akrotiri on Santorini, which was entombed in a layer of pumice and ash . Evidence at the site suggests that survivors returned and attempted to recover their possessions and perhaps to bury victims. [83]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Akrotiri-greece-feve.jpg/220px-Akrotiri-greece-feve.jpg",
+                "caption": "Excavation of Akrotiri on Thera"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Minoan_eruption",
+        "title": "Minoan eruption",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Minoan Crete",
+        "text": "The eruption was felt at Minoan sites on Crete. In northeastern Crete, earthquakes destroyed sites including Petras , while 9 meter high tsunamis swept over coastal sites such as Palaikastro . [84] Ash and pumice fell across the island, where it was sometimes collected and stored. [84] [85] [86] After the eruption, the Minoans quickly recovered, and the subsequent period is considered the zenith of Minoan culture. [87] [88] [89] Many affected sites were rebuilt, including Petras and Palaikastro, at the latter of which, new buildings were constructed using high quality ashlar masonry. New Minoan palaces were constructed at Zakros and Phaistos . [90] [86] However, other sites fell into decline, including Galatas and Kommos . [89] [84] [91] The longer term impact of the eruption remains a matter of debate. The immediate aftermath saw a number of puzzling cultural changes including the filling in of lustral basins . [89] In their book The Troubled Island , Driessen and MacDonald argued that the richness of the post-eruption material culture masked deep economic and political problems that eventually led to the collapse of Neopalatial society. Subsequent evidence suggests that this was not a general pattern across the island. [92] [93]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/AMI_-_Oktopusvase.jpg/225px-AMI_-_Oktopusvase.jpg",
+                "caption": "A Marine Style vase, typical of the Late Minoan IB period that followed the eruption of Thera."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Minoan_eruption",
+        "title": "Minoan eruption",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Historic activity",
+        "text": "At least twenty-eight eruptions with a known VEI have been recorded for Katla since 2920 BC. Only two people are known to have died because of events directly associated with one of these eruptions in 1755. [11] : 74 The 1918 eruption of Katla started on the late afternoon of the 12 October 1918 and lasted for 24 days, with the first day having the most dangerous events, [11] : 76 [2] including an extremely large flood with peak flow of 300,000 m 3 /s (11,000,000 cu ft/s). [12] : 11 It has been graded a VEI 4 level eruption. [3] The 1918 eruption resulted in extending the southern coast by 4 km (2.5 mi) due to laharic flood deposits . [12] : 14 Most of these eruptions resulted in glacial floods ( jökulhlaups ). Some have been associated with catastrophic flooding which results from peak discharges of more than 100,000 m 3 /s (3,500,000 cu ft/s), [13] which is ten to a hundred times the size of most jökulhlaups. [14] Apart from the 1755 and 1918 eruptions already mentioned in this regard, both of which like the majority of large floods drained onto the Mýrdalssandur plain to the volcanoes south-east, an eruption in 874 drained from the north-east aspect of the caldera down the Markarfljót river flood plain to the mountain's south-west. This is a convulted route that outputs on to a large flood plain, the Markarfljótsaurar. [14] Before the Hringvegur (Iceland's Ring Road) was constructed in 1974, people feared traversing the plains in front of the volcano because of the frequent jökulhlaup (or glacier bursts) and the deep river crossings.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Location_of_Katlas_caldera.png/300px-Location_of_Katlas_caldera.png",
+                "caption": "Locations of caldera rim and previous eruptions from 1755 to 1999. The surface depressions shown are updated else where on this page. [c]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Katla_(volcano)",
+        "title": "Katla (volcano)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Recent activity",
+        "text": "Katla has been showing signs of unrest since 1999, and geologists have concerns that it might erupt in the near future. [15] The volcanoes present dormancy is among the longest in its known history. [16] Particularly, monitoring has been intensified following the March 2010 eruptions of a smaller neighbouring volcano, the Eyjafjallajökull glacier. [17] The eruption of this nearby long-dormant volcano in March and April 2010 prompted fears among some geophysicists that it might trigger an eruption at the larger and more dangerous Katla. [18] [19] [20] In the past 1,000 years, all three known eruptions of Eyjafjallajökull have triggered subsequent Katla eruptions. [19] Following the 2010 Eyjafjallajökull eruptions, on 20 April 2010 Icelandic President Ólafur Grímsson said \"the time for Katla to erupt is coming close ... we [Iceland] have prepared ... it is high time for European governments and airline authorities all over Europe and the world to start planning for the eventual Katla eruption\". [21] Increased earthquake activity had been noticed on Katla since the eruption at Eyjafjallajökull, but no other signs of an imminent eruption were observed. These quakes are located mainly on the northwestern rim of the caldera. On 9 October 2010, a sudden rise in harmonic tremor was observed in the stations around Katla, but although a sign of a possible impending eruption, [22] none occurred.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Eyjafjallaj%C3%B6kull_en_Katla.png/300px-Eyjafjallaj%C3%B6kull_en_Katla.png",
+                "caption": "Schematic cross-section from west to east across the Eyjafjallajökull and Katla volcanoes. Magmatic intrusions are drawn in red, rhyolitic domes and the cryptodome in yellow; glaciers are shown in light blue."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Katla_(volcano)",
+        "title": "Katla (volcano)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "2016 and 2017 activity",
+        "text": "Tremors were detected under Katla in late August 2016. [27] [28] A \"Specialist Description\" describing the activity on 29 August 2016 noted that there was: An update written at 11 Sep 16:38 GMT reported: In February 2017, seismic activity at the volcano continued. [31]",
+        "images": [
+            {
+                "url": "https:https://maps.wikimedia.org/img/osm-intl,9,63.59,-18.9,400x380.png?lang=en",
+                "caption": "Arrows show jökulhlaup flows from Mýrdalsjökull ice cap. Ice cauldrons are shown in violet: [32] [14] : 17 [33] [c] 1 :from Kötlujökull to Leirá in 1721, 1755, 1918 2 :from Kötlujökull to Austastikælir stream in 1612, 1625, 1660, 1721, 1755, 1823, 1860, 1918 3 :from Kötlujökull to Blautakvísl river area of Mýrdalssandur in (1625), 1660, 1755, 1823, 1918 4 :from Kötlujökull to Múlakvísl river area of Mýrdalssandur towards Kötlutangi and Höfðabrekkufjara beaches in 1612, 1625, 1660, 1721, 1755, 1823, 1860, 1918 5 :from Kötlujökull to Múlakvísl river area of Mýrdalssandur towards Höfðabrekkufjara beach in 1612, 1625, 1660, 1721, 1755, 1823, 1860, 1918, 1955, 1999, 2011, 2014, 2017 6 :from Múlakvísl river area towards Kerlingardalsfjara beach in 1660, 1721, 1755, 1823, 1860 7 :from Sólheimajökull towards Sólheimasandur in 1860, 1999 8 :from Jökulsárgilsjökull towards Jökulsárgil in 1936 9 :from Entujökull down Markarfljót in 874."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Katla_(volcano)",
+        "title": "Katla (volcano)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Volcanoes at Yellowstone",
+        "text": "Volcanism at Yellowstone is relatively recent, with calderas created by large eruptions that took place 2.1 million, 1.3 million, and 640,000 years ago. The calderas lie over the Yellowstone hotspot under the Yellowstone Plateau where light and hot magma (molten rock) from the mantle rises toward the surface. The hotspot appears to move across terrain in the east-northeast direction, and is responsible for the eastern half of Idaho 's Snake River Plain , but in fact the hotspot is much deeper than the surrounding terrain and remains stationary while the North American Plate moves west-southwest over it. [7] Over the past 16.5 million years or so, this hotspot has generated a succession of explosive eruptions and less violent floods of basaltic lava . Together these eruptions have helped create the eastern part of the Snake River Plain (to the west of Yellowstone) from a once-mountainous region. [8] At least a dozen of these eruptions were so massive that they are classified as supereruptions . Volcanic eruptions sometimes empty their stores of magma so swiftly that the overlying land collapses into the emptied magma chamber , forming a geographic depression called a caldera. [9] The oldest identified caldera remnant straddles the border near McDermitt, Nevada–Oregon , although there are volcaniclastic piles and arcuate faults that define caldera complexes more than 60 km (37 mi) in diameter in the Carmacks Group of southwest-central Yukon , Canada, which are interpreted to have been formed 70 million years ago by the Yellowstone hotspot. [10] [11] Progressively younger volcanic units, most grouped in several overlapping volcanic fields , extend from the Nevada – Oregon border through the eastern Snake River Plain and terminate in the Yellowstone Plateau. One such field, the Bruneau-Jarbidge volcanic field in southern Idaho , was formed between 10 and 12 million years ago, and the event dropped ash to a depth of one foot (30 cm) 1,000 miles (1,600 km) away in northeastern Nebraska and killed large herds of rhinoceroses , camels, and other animals at Ashfall Fossil Beds State Historical Park. The United States Geological Survey (USGS) estimates there are one or two major caldera-forming eruptions and a hundred or so lava extruding eruptions per million years, and \"several to many\" steam eruptions per century. [12] The loosely defined term \" supervolcano \" has been used to describe volcanic fields that produce exceptionally large volcanic eruptions. Thus defined, the Yellowstone Supervolcano is the volcanic field that produced the latest three supereruptions from the Yellowstone hotspot; it also produced one additional smaller eruption, thereby creating the West Thumb of Yellowstone Lake [13] 174,000 years ago. The three supereruptions occurred 2.1 million, 1.3 million, and approximately 640,000 years ago, forming the Island Park Caldera , the Henry's Fork Caldera , and Yellowstone calderas, respectively. [14] The Island Park Caldera supereruption (2.1 million years ago), which produced the Huckleberry Ridge Tuff , was the largest, and produced 2,500 times as much ash as the 1980 Mount St. Helens eruption . The next biggest supereruption formed the Yellowstone Caldera (640,000 years ago) and produced the Lava Creek Tuff . The Henry's Fork Caldera (1.2 million years ago) produced the smaller Mesa Falls Tuff , but is the only caldera from the Snake River Plain–Yellowstone hotspot that is plainly visible today. [15] Non-explosive eruptions of lava and less-violent explosive eruptions have occurred in and near the Yellowstone caldera since the last supereruption. [16] [17] The most recent lava flow occurred about 70,000 years ago, while a violent eruption excavated the West Thumb of Lake Yellowstone 174,000 years ago. Smaller steam explosions occur as well. An explosion 13,800 years ago left a 5 km (3.1 mi) diameter crater at Mary Bay on the edge of Yellowstone Lake (located in the center of the caldera). [18] [3] Currently, volcanic activity is exhibited via numerous geothermal vents scattered throughout the region, including the famous Old Faithful Geyser , plus recorded ground-swelling indicating ongoing inflation of the underlying magma chamber. [ citation needed ] The volcanic eruptions, as well as the continuing geothermal activity, are a result of a great plume of magma located below the caldera's surface. The magma in this plume contains gases that are kept dissolved by the immense pressure under which the magma is contained. If the pressure is released to a sufficient degree by some geological shift, then some of the gases bubble out and cause the magma to expand. This can cause a chain reaction. If the expansion results in further relief of pressure, for example, by blowing crust material off the top of the chamber, the result is a very large gas explosion. [ citation needed ] According to analysis of earthquake data in 2013, the magma chamber is 80 km (50 mi) long and 20 km (12 mi) wide. It also has 4,000 km 3 (960 cu mi) underground volume, of which 6–8% is filled with molten rock. This is about 2.5 times bigger than scientists had previously imagined; however, scientists believe that the proportion of molten rock in the chamber is too low to allow for another supereruption. [19] [20] [21] In October 2017, research from Arizona State University indicated prior to Yellowstone's last supereruption, magma surged into the magma chamber in two large influxes. An analysis of crystals from Yellowstone's lava showed that prior to the last supereruption, the magma chamber underwent a rapid increase in temperature and change in composition. The analysis indicated that Yellowstone's magma reservoir can reach eruptive capacity and trigger a super-eruption within just decades, not centuries as volcanologists had originally thought. [22] [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Yellowstone_Major_Calderas_Map.jpg/370px-Yellowstone_Major_Calderas_Map.jpg",
+                "caption": "Yellowstone sits on top of four overlapping calderas (U.S. National Park Service)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Yellowstone_Caldera",
+        "title": "Yellowstone Caldera",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Earthquakes",
+        "text": "Volcanic and tectonic actions in the region cause between 1,000 and 2,000 measurable earthquakes annually. Most are relatively minor, measuring magnitude 3 or weaker. Occasionally, numerous earthquakes are detected in a relatively short period of time, an event known as an earthquake swarm . In 1985, more than 3,000 earthquakes were measured over a period of several months. More than 70 smaller swarms were detected between 1983 and 2008. The USGS states these swarms are likely caused by slips on pre-existing faults rather than by movements of magma or hydrothermal fluids. [33] [34] In December 2008, continuing into January 2009, more than 500 earthquakes were detected under the northwest end of Yellowstone Lake over a seven-day span, with the largest registering a magnitude of 3.9. [35] [36] Another swarm started in January 2010, after the Haiti earthquake and before the Chile earthquake . With 1,620 small earthquakes between January 17, 2010, and February 1, 2010, this swarm was the second-largest ever recorded in the Yellowstone Caldera. The largest of these shocks was a magnitude 3.8 that occurred on January 21, 2010. [34] [37] This swarm subsided to background levels by February 21. On March 30, 2014, at 6:34 AM MST , a magnitude 4.8 earthquake struck Yellowstone, the largest recorded there since February 1980. [38] In February 2018, more than 300 earthquakes occurred, with the largest being a magnitude 2.9. [39]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Yellowstone_earthquakes_history.svg/370px-Yellowstone_earthquakes_history.svg.png",
+                "caption": "Incidence of earthquakes in Yellowstone National Park region (1973–2014) [32]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Yellowstone_Caldera",
+        "title": "Yellowstone Caldera",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Volcanoes",
+        "text": "The Lava Creek eruption of the Yellowstone Caldera, which occurred 640,000 years ago, [40] ejected approximately 1,000 cubic kilometres (240 cu mi) of rock, dust and volcanic ash into the atmosphere. [3] It was Yellowstone's third and most recent caldera-forming eruption. Geologists closely monitor the elevation of the Yellowstone Plateau , which has been rising as quickly as 150 millimetres (5.9 in) per year, as an indirect measurement of changes in magma chamber pressure. [41] [42] [43] The upward movement of the Yellowstone caldera floor between 2004 and 2008—almost 75 millimetres (3.0 in) each year—was more than three times greater than ever observed since such measurements began in 1923. [44] From 2004 to 2008, the land surface within the caldera moved upward as much as 8 inches (20 cm) at the White Lake GPS station. [45] [46] In January 2010, the USGS stated that \"uplift of the Yellowstone Caldera has slowed significantly\" [47] and that uplift continues but at a slower pace. [48] USGS, University of Utah and National Park Service scientists with the Yellowstone Volcano Observatory maintain that they \"see no evidence that another such cataclysmic eruption will occur at Yellowstone in the foreseeable future. Recurrence intervals of these events are neither regular nor predictable.\" [3] This conclusion was reiterated in December 2013 in the aftermath of the publication of a study by University of Utah scientists finding that the \"size of the magma body beneath Yellowstone is significantly larger than had been thought\". The Yellowstone Volcano Observatory issued a statement on its website stating: Media reports were more hyperbolic in their coverage. [50] A study published in GSA Today , the monthly news and science magazine of the Geological Society of America , identified three fault zones where future eruptions are most likely to be centered. [51] Two of those areas are associated with lava flows aged 174,000–70,000 years ago, and the third is a focus of present-day seismicity . [51] In 2017, NASA conducted a study to determine the feasibility of preventing the volcano from erupting. The results suggested that cooling the magma chamber by 35 percent would be enough to forestall such an incident. NASA proposed introducing water at high pressure 10 kilometers underground. The circulating water would release heat at the surface, possibly in a way that could be used as a geothermal power source. If enacted, the plan would cost about $3.46 billion. Brian Wilcox of the Jet Propulsion Laboratory observes that such a project could incidentally trigger an eruption if the top of the chamber is drilled into. [52] [53]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Yellowstone_Caldera.svg/370px-Yellowstone_Caldera.svg.png",
+                "caption": "Diagram of the Yellowstone Caldera"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Yellowstone_Caldera",
+        "title": "Yellowstone Caldera",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Hydrothermal explosions",
+        "text": "Studies and analysis may indicate that the greater hazard comes from hydrothermal activity which occurs independently of volcanic activity. [ citation needed ] Over 20 large craters have been produced in the past 14,000 years, resulting in such features as Mary Bay, Turbid Lake , and Indian Pond, which was created in an eruption about 1300 BC. [ citation needed ] In a 2003 report, USGS researchers proposed that an earthquake may have displaced more than 77 million cubic feet (2,200,000 m 3 ; 580,000,000 US gal) of water in Yellowstone Lake, creating colossal waves that unsealed a capped geothermal system and led to the hydrothermal explosion that formed Mary Bay. [54] [55] Further research shows that very distant earthquakes reach and have effects upon the activities at Yellowstone, such as the 1992 7.3 magnitude Landers earthquake in California 's Mojave Desert that triggered a swarm of quakes from more than 800 miles (1,300 km) away, and the 2002 7.9 magnitude Denali fault earthquake 2,000 miles (3,200 km) away in Alaska that altered the activity of many geysers and hot springs for several months afterward. [56] In 2016, the USGS announced plans to map the subterranean systems responsible for feeding the area's hydrothermal activity. According to the researchers, these maps could help predict when another eruption occurs. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HotspotsSRP_update2013.JPG/310px-HotspotsSRP_update2013.JPG",
+                "caption": "Path of the Yellowstone hotspot over the past 16 million years"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Yellowstone_Caldera",
+        "title": "Yellowstone Caldera",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Bookshelf faulting",
+        "text": "Stress is built up during the spreading movements at the plate boundary. The accumulated stress in transform fault zones is released during strike-slip earthquakes. The transform fault is induced by strike-slip motion that is transverse to the fault zone. The blocks between the faults are slightly rotated afterwards. A diagram (fig.2) is shown to illustrate this phenomenon. Since the rotation of the blocks is similar to a line of books leaning on a bookshelf, it is termed \"bookshelf faulting\". [1] : 41 Bookshelf faulting is an indicator of the young geological history of the fault zones. It is common in the SISZ and Reykjanes area.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bookshelf_faulting.svg/220px-Bookshelf_faulting.svg.png",
+                "caption": "Fig 2. Bookshelf faulting mechanism: The transform fault is induced by strike-slip motion (sinistral movement) that is transverse to the fault zone. The blocks between the faults are slightly rotated afterwards, moving in a dextral movement."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geological_deformation_of_Iceland",
+        "title": "Geological deformation of Iceland",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Volcanic rift zones",
+        "text": "Many of the volcanoes of Iceland can be grouped by their relationship to rift zones and contribute to the understanding of the deformation that has taken place. Not all the names used to classify the volcanoes into groups are yet standardised and not all the volcanic and tectonic relationships are well characterised due to issues such as accessibility or less current activity.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Volcanic_system_of_Iceland-Map-en.svg/220px-Volcanic_system_of_Iceland-Map-en.svg.png",
+                "caption": "Location of the volcanic rift zones and main volcanoes."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geological_deformation_of_Iceland",
+        "title": "Geological deformation of Iceland",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Rift jump model",
+        "text": "The evolution of the Icelandic volcanic rift zones can be explained by the rift jump model. [16] Synform folding is expected to occur at the active rift axis. However, distinctive reversals in dip directions are found in south-western Iceland which indicate an anticline . It is believed that the relative positions of the Icelandic hot spot and the active rift spreading axis have changed with time. Assuming the Icelandic mantle plume is stationary, the spreading axis must have changed position. [16] At least part of the spreading axis migrates at a rate of about 3.5–5 cm/year (1.4–2.0 in/year). [17] : 17512 After the active spreading axis has moved away from the plume, the mantle plume would adjust the position of the axis and forms a new rift closer to its centre. The migrated axis would gradually become extinct. [2] : 67 There are three major volcanic zones in Iceland, which are the Northern, Eastern and Western volcanic zones (NVZ, EVZ, WVZ), and all of which are currently active. The volcanic rift zones cross the island from south-west to north-east. Each zone consists of 20–50 km (12–31 mi) wide belts and is characterised by active volcanoes, numerous normal faults, a high temperature geothermal field and fissure swarms. [18] The EVZ will eventually take over the WVZ according to the rift jump process. [1] : 35, 54",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/IcelandicRiftZones.png/220px-IcelandicRiftZones.png",
+                "caption": "Historic major rift zone jumps of Iceland. The oldest Westfjords Rift Zone (3) is off the north-west coast, the Snæfellsnes-Húnaflói rift zone (2) became inactive when it jumped 6 to 7 million years ago, the Western volcanic zone (1v) is becoming inactive while Northern volcanic zone (1n) propagates south as the Eastern volcanic zone (4)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geological_deformation_of_Iceland",
+        "title": "Geological deformation of Iceland",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Northern volcanic zone",
+        "text": "The 50 km (31 mi) wide Northern volcanic zone (NVZ, North volcanic zone of Iceland, Northern rift zone) [19] is composed of five volcanic systems arranged zigzag-like along the mid-Atlantic plate boundary. [1] : 46–49 It shows quite low seismic activity. The volcanic activity is confined to the Krafla central volcano and its associated fissure swarms. [7] It accommodates the entire rifting of North Iceland and can be regarded at the present time to be in a steady state of spreading rate. [3] There is a greater predominance of lava shields than in the other active rifting areas. [1] : 46–47 The Icelandic shield volcanoes that produced these large lava fields here and in the WVZ did so in a single almost continuous eruptive process that is distinct from the repeated discontinuous eruptions often seen in shield volcanoes elsewhere in the world and that would earn them the classification as a central volcano in the Iceland geological context. [20] : 11–12 The Krafla central volcano is not distinctive within the volcanic rift zone. Fissure swarms of the Krafla spread away from the magma chamber and magma flows along the swarms to the north and south of the volcano. Eruptive fissures within the fissure swarms are most common within 20–30 km (12–19 mi) distance from the central volcanoes. Fractures within the fissure swarms are common at up to a distance of 70–90 km (43–56 mi) from the central volcano. [7] Fractures within the fissure swarms are generally subparallel to each other. Irregular fracture patterns are found where the Húsavík transform fault meets the fissure swarms, which indicates interaction between the fissure swarms and the strike-slip faults. [7] The division between the NVZ and the EVZ is arbitrary, as the rifting structures are a single continuous structural identity. [3] A potential boundary exists given the change in strike direction of the fissure swarms formed in the last 10 million years at latitude 64.7° which was also followed by the 2014 dyke intrusion from Bárðarbunga towards the north, but this might be crossed by volcanic activity originating either to the south or north. [21] The North Iceland last major rift relocation occurred about 6 to 7 million years ago when the northern now extinct Snæfellsnes-Húnaflói rift zone (SHRZ), [22] shifted eastward to the new rift axis in the NVZ. [3] There is with new dating techniques accurate understanding of SHRZ history from the north western region of Iceland to the north eastern that was not available when the SHRZ was first described. [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Propagating_Rift.png/220px-Propagating_Rift.png",
+                "caption": "Propagating rift mechanism as mentioned in the text. While this applies to the southern EVZ in a north to south orientation in Iceland, the shrinking rift label is likely inaccurate in the Iceland context as it is discontinuous. [19] : 26 The area in gray is analogous to the Hreppar microplate and the transform boundary is the SISZ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geological_deformation_of_Iceland",
+        "title": "Geological deformation of Iceland",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    },
+    {
+        "section": "Snæfellsnes volcanic belt",
+        "text": "The Snæfellsnes volcanic belt (SVB, Snæfellsnes volcanic zone, [5] SVZ) is an area of renewed intra-plate volcanism (North American Plate), less than 1.5 million years old. [28] The SVB erupted through the western aspects of the extinct SHRZ, which is a predecessor to the present MIB. The SHRZ formed when the WVZ had the hotspot directly under it, and existed prior to the last historic rift zone jump. [3] The SHRZ had produced underlying crustal tholeiitic flood basalts that are over 5 million years old. [28] It is unknown if the SHRZ and or hot spot interactions are the reason for the SVB and this continues to be an area of study. Proposed mechanisms of magma production invoke partial melting of hydrothermally altered, dominantly basaltic crust or fractional crystallization of primary basaltic magma or both mechanisms. [29] It is now known that the magma production/maturation time scale at over 100,000 years, is an order of magnitude or more greater than that in other zones in Iceland favouring fractional crystallization mechanisms as primary. [29] The SVB comprises the stratovolcanoes of Snæfellsjökull , Helgrindur (Lýsuskarð) and Ljósufjöll in a peninsular east to west lineament, [27] and is mainly basaltic volcanism from sources such as monogenetic cinder cones and isolated sub-glacial tuyas such as Vatnafell rather than from the long fissures found in the rift zones. [28] These volcanoes have erupted recently small volumes of transitional to alkaline magmas relative to the less evolved magmas and larger volumes from the rift zones. [28] The underlying crust is thicker at about 25 km (16 mi) than in the active rift zone areas. [28] Magma storage, in the studied regions of the belt, occurs just above the Moho , at about 22–11 km (13.7–6.8 mi) in the lower to mid crust, [24] which is not usually the situation in the rift zones where magma chambers occur in the mid to shallow crust at about 5 km (3.1 mi). [28] The oldest volcanic rocks formed since the belt erupted transitional lavas through the basement tholeiitic magma series are at the mountain of Setberg to the north east of Grundarfjörður and near Elliðatindar, on each side of the present Helgrindur volcanic system. [30] The most recent eruption in the belt occurred at Rauðhálsahraun in the Ljósufjöll volcanic system about 960. [31]",
+        "images": [
+            {
+                "url": "https:https://maps.wikimedia.org/img/osm-intl,6,64.5,-22.8,170x180.png?lang=en&domain=en.wikipedia.org&title=Geological_deformation_of_Iceland&revid=1231020354&groups=_a43e5103051a60e04a0b8d8cad1b130411604285",
+                "caption": "Map of central volcanoes and their fissure fields (paler shading) in the Snæfellsnes volcanic belt: [27] Snæfellsjökull Helgrindur Ljósufjöll"
+            },
+            {
+                "url": "https:https://maps.wikimedia.org/img/osm-intl,4,64.5,-18,170x180.png?lang=en&domain=en.wikipedia.org&title=Geological_deformation_of_Iceland&revid=1231020354&groups=_c24aea95d7f974144640a14fcf4896e8b10c9cff",
+                "caption": "Approximate outline of the central volcanoes in the Öræfi volcanic belt in brown. Clicking on the image to enable mouse-over allows zoom in which shows caldera features in red shading and glacier features in white/blue shading."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geological_deformation_of_Iceland",
+        "title": "Geological deformation of Iceland",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Seismic Analysis in Volcanology"
+    }
+]

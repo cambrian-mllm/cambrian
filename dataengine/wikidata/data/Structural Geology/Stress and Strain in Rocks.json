@@ -1,0 +1,487 @@
+[
+    {
+        "section": "True stress and strain",
+        "text": "In the above definitions of engineering stress and strain, two behaviors of materials in tensile tests are ignored: True stress and true strain are defined differently than engineering stress and strain to account for these behaviors. They are given as Here the dimensions are instantaneous values. Assuming volume of the sample conserves and deformation happens uniformly, The true stress and strain can be expressed by engineering stress and strain. For true stress, For the strain, Integrate both sides and apply the boundary condition, So in a tension test , true stress is larger than engineering stress and true strain is less than engineering strain. Thus, a point defining true stress–strain curve is displaced upwards and to the left to define the equivalent engineering stress–strain curve. The difference between the true and engineering stresses and strains will increase with plastic deformation. At low strains (such as elastic deformation), the differences between the two is negligible. As for the tensile strength point, it is the maximal point in engineering stress–strain curve but is not a special point in true stress–strain curve. Because engineering stress is proportional to the force applied along the sample, the criterion for necking formation can be set as δ F = 0. {\\displaystyle \\delta F=0.} This analysis suggests nature of the ultimate tensile strength (UTS) point. The work strengthening effect is exactly balanced by the shrinking of section area at UTS point. After the formation of necking, the sample undergoes heterogeneous deformation, so equations above are not valid. The stress and strain at the necking can be expressed as: An empirical equation is commonly used to describe the relationship between true stress and true strain. Here, n is the strain-hardening exponent and K is the strength coefficient. n is a measure of a material's work hardening behavior. Materials with a higher n have a greater resistance to necking. Typically, metals at room temperature have n ranging from 0.02 to 0.5. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Stress_strain_comparison.svg/328px-Stress_strain_comparison.svg.png",
+                "caption": "The difference between true stress–strain curve and engineering stress–strain curve"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress%E2%80%93strain_curve",
+        "title": "Stress–strain curve",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Classification",
+        "text": "It is possible to distinguish some common characteristics among the stress–strain curves of various groups of materials and, on this basis, to divide materials into two broad categories; namely, the ductile materials and the brittle materials. [2] : 51",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stress_strain_comparison_brittle_ductile.svg/340px-Stress_strain_comparison_brittle_ductile.svg.png",
+                "caption": "Stress–strain curve for brittle materials compared to ductile materials"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress%E2%80%93strain_curve",
+        "title": "Stress–strain curve",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Toughness",
+        "text": "Materials that are both strong and ductile are classified as tough . Toughness is a material property defined as the area under the stress-strain curve. Toughness can be determined by integrating the stress-strain curve. [4] It is the energy of mechanical deformation per unit volume prior to fracture. The explicit mathematical description is: [5] energy volume = ∫ 0 ε f σ d ε {\\displaystyle {\\tfrac {\\mbox{energy}}{\\mbox{volume}}}=\\int _{0}^{\\varepsilon _{f}}\\sigma \\,d\\varepsilon } where",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Toughness_area_under_curve.svg/220px-Toughness_area_under_curve.svg.png",
+                "caption": "Toughness as defined by the area under the stress–strain curve"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress%E2%80%93strain_curve",
+        "title": "Stress–strain curve",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Processes",
+        "text": "Deformation mechanisms are commonly characterized as brittle , ductile , and brittle-ductile. The driving mechanism responsible is an interplay between internal (e.g. composition, grain size and lattice-preferred orientation) and external (e.g. temperature and fluid pressure) factors. [1] [2] These mechanisms produce a range of micro-structures studied in rocks to constrain the conditions, rheology , dynamics , and motions of tectonic events. [4] More than one mechanism may be active under a given set of conditions and some mechanisms can develop independently. Detailed microstructure analysis can be used to define the conditions and timing under which individual deformation mechanisms dominate for some materials. Common deformation mechanisms processes include: § Fracturing § Cataclastic flow § Grain boundary sliding § Diffusive mass transfer § Dislocation creep § Dynamic recrystallization (recovery)",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Deformation_mechanism.jpg/330px-Deformation_mechanism.jpg",
+                "caption": "Summary of various mechanisms process that occurs within brittle and ductile conditions. These mechanisms can overlap in the brittle-ductile settings."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Deformation_mechanism",
+        "title": "Deformation mechanism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Fracturing",
+        "text": "Fracturing is a brittle deformation process that creates permanent linear breaks, that are not accompanied by displacement within materials. [1] [3] These linear breaks or openings can be independent or interconnected. [1] [2] For fracturing to occur, the ultimate strength of the materials need to be exceeded to a point where the material ruptures . [2] Rupturing is aided by the accumulations of high differential stress (the difference between the maximum and minimum stress acting on the object). [2] [3] Most fracture grow into faults. [2] However, the term fault is only used when the fracture plane accommodate some degree of movement. [2] Fracturing can happen across all scales, from microfractures to macroscopic fractures and joints in the rocks. [1] [2] [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Opening_Mode_Fractures.png/220px-Opening_Mode_Fractures.png",
+                "caption": "Cross polarized image of a high concentration of variably oriented joints within a granitic rock from the San Andreas Fault, California. No obvious displacement along fractures."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Deformation_mechanism",
+        "title": "Deformation mechanism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Cataclastic flow",
+        "text": "Cataclasis , or comminution, is a non-elastic brittle mechanism that operates under low to moderate homologous temperatures , low confining pressure and relatively high strain rates. [1] [2] [3] It occurs only above a certain differential stress level, which is dependent on fluid pressure [5] and temperature. [6] Cataclasis accommodates the fracture and crushing of grains, causing grain size reduction, along with frictional sliding on grain boundaries and rigid body grain rotation. [2] [5] [7] Intense cataclasis occurs in thin zones along slip or fault surfaces where extreme grain size reduction occurs. [1] In rocks, cataclasis forms a cohesive and fine-grained fault rock called cataclasite . Cataclastic flow occurs during shearing when a rock deform by microfracturing and frictional sliding where tiny fractures (microcracks), and associated rock fragments move past each other. [2] [7] Cataclastic flow usually occurs at diagenetic to low-grade metamorphic conditions. However, this depends on the mineralogy of the material and the extent of pore fluid pressure . [2] Cataclastic flow is generally unstable and will terminate by the localization of deformation into slip on fault planes. [1] [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cataclastic_Flow.jpg/172px-Cataclastic_Flow.jpg",
+                "caption": "Rounded to sub-rounded grains within very fine grained matrix. Fracture processes \"grind\"/\"roll\"/\"slide\" grains past each other creating the rounded appearance of the individual grains."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Deformation_mechanism",
+        "title": "Deformation mechanism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Deformation mechanism map",
+        "text": "A deformation mechanism map is a way of representing the dominant deformation mechanism in a material loaded under a given set of conditions. The technique is applicable to all crystalline materials, metallurgical as well as geological. Additionally, work has been conducted regarding the use of deformation maps to nanostructured or very fine grain materials. [10] [11] Deformation mechanism maps usually consist of some kind of stress plotted against some kind of temperature axis, typically stress normalized using the shear modulus versus homologous temperature with contours of strain rate. [12] [13] The normalized shear stress is plotted on a log scale. While plots of normalized shear stress vs. homologous temperature are most common, other forms of deformation mechanism maps include shear strain rate vs. normalized shear stress and shear strain rate vs. homologous temperature. Thus deformation maps can be constructed using any two of stress (normalized), temperature (normalized), and strain rate, with contours of the third variable. A stress/strain rate plot is useful because power-law mechanisms then have contours of temperature which are straight lines. For a given set of operating conditions, calculations are conducted and experiments performed to determine the predominant mechanism operative for a given material.  Constitutive equations for the type of mechanism have been developed for each deformation mechanism and are used in the construction of the maps.  The theoretical shear strength of the material is independent of temperature and located along the top of the map, with the regimes of plastic deformation mechanisms below it.  Constant strain rate contours can be constructed on the maps using the constitutive equations of the deformation mechanisms which makes the maps extremely useful. [14]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/DeformationMapSchematic.tif/lossy-page1-290px-DeformationMapSchematic.tif.jpg",
+                "caption": "Sample deformation mechanism map for a hypothetical material. Here there are three main regions: plasticity, power law creep, and diffusional flow."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Deformation_mechanism",
+        "title": "Deformation mechanism",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Geometries",
+        "text": "Primary data sets for structural geology are collected in the field. Structural geologists measure a variety of planar features ( bedding planes , foliation planes , fold axial planes, fault planes , and joints), and linear features (stretching lineations, in which minerals are ductilely extended; fold axes; and intersection lineations, the trace of a planar feature on another planar surface).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/StrikeDipPlungeRake.png/290px-StrikeDipPlungeRake.png",
+                "caption": "Illustration of measurement conventions for planar and linear structures"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Structural_geology",
+        "title": "Structural geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Stereographic projections",
+        "text": "Stereographic projection is a method for analyzing the nature and orientation of deformation stresses, lithological units and penetrative fabrics wherein linear and planar features (structural strike and dip readings, typically taken using a compass clinometer ) passing through an imagined sphere are plotted on a two-dimensional grid projection, facilitating more holistic analysis of a set of measurements. Stereonet [4] developed by Richard W. Allmendinger is widely used in the structural geology community.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Stero_projection_structural_geology.png/350px-Stero_projection_structural_geology.png",
+                "caption": "Diagram showing the use of lower hemisphere stereographic projection in structural geology using an example of a fault plane and a slickenside lineation observed within the fault plane."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Structural_geology",
+        "title": "Structural geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Definition",
+        "text": "Stress is defined as the force across a small boundary per unit area of that boundary, for all orientations of the boundary. [7] Derived from a fundamental physical quantity (force) and a purely geometrical quantity (area), stress is also a fundamental quantity, like velocity, torque or energy , that can be quantified and analyzed without explicit consideration of the nature of the material or of its physical causes. Following the basic premises of continuum mechanics, stress is a macroscopic concept.  Namely, the particles considered in its definition and analysis should be just small enough to be treated as homogeneous in composition and state, but still large enough to ignore quantum effects and the detailed motions of molecules.  Thus, the force between two particles is actually the average of a very large number of atomic forces between their molecules; and physical quantities like mass, velocity, and forces that act through the bulk of three-dimensional bodies, like gravity, are assumed to be smoothly distributed over them. [8] : 90–106 Depending on the context, one may also assume that the particles are large enough to allow the averaging out of other microscopic features, like the grains of a metal rod or the fibers of a piece of wood . Quantitatively, the stress is expressed by the Cauchy traction vector T defined as the traction force F between adjacent parts of the material across an imaginary separating surface S , divided by the area of S . [9] : 41–50 In a fluid at rest the force is perpendicular to the surface, and is the familiar pressure .  In a solid , or in a flow of viscous liquid , the force F may not be perpendicular to S ; hence the stress across a surface must be regarded a vector quantity, not a scalar. Moreover, the direction and magnitude generally depend on the orientation of S .  Thus the stress state of the material must be described by a tensor , called the (Cauchy) stress tensor ; which is a linear function that relates the normal vector n of a surface S to the traction vector T across S .  With respect to any chosen coordinate system , the Cauchy stress tensor can be represented as a symmetric matrix of 3×3 real numbers. Even within a homogeneous body, the stress tensor may vary from place to place, and may change over time; therefore, the stress within a material is, in general, a time-varying tensor field .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cmec_stress_defn_f02_t6.png/220px-Cmec_stress_defn_f02_t6.png",
+                "caption": "The stress across a surface element (yellow disk) is the force that the material on one side (top ball) exerts on the material on the other side (bottom ball), divided by the area of the surface."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Causes and effects",
+        "text": "Stress in a material body may be due to multiple physical causes, including external influences and internal physical processes. Some of these agents (like gravity, changes in temperature and phase , and electromagnetic fields) act on the bulk of the material, varying continuously with position and time. Other agents (like external loads and friction, ambient pressure, and contact forces) may create stresses and forces that are concentrated on certain surfaces, lines or points; and possibly also on very short time intervals (as in the impulses due to collisions). In active matter , self-propulsion of microscopic particles generates macroscopic stress profiles. [11] In general, the stress distribution in a body is expressed as a piecewise continuous function of space and time. Conversely, stress is usually correlated with various effects on the material, possibly including changes in physical properties like birefringence , polarization , and permeability . The imposition of stress by an external agent usually creates some strain (deformation) in the material, even if it is too small to be detected. In a solid material, such strain will in turn generate an internal elastic stress, analogous to the reaction force of a stretched spring , tending to restore the material to its original undeformed state. Fluid materials (liquids, gases and plasmas ) by definition can only oppose deformations that would change their volume. If the deformation changes with time, even in fluids there will usually be some viscous stress, opposing that change. Such stresses can be either shear or normal in nature. Molecular origin of shear stresses in fluids is given in the article on viscosity . The same for normal viscous stresses can be found in Sharma (2019). [12] The relation between stress and its effects and causes, including deformation and rate of change of deformation, can be quite complicated (although a linear approximation may be adequate in practice if the quantities are small enough). Stress that exceeds certain strength limits of the material will result in permanent deformation (such as plastic flow , fracture , cavitation ) or even change its crystal structure and chemical composition .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vase-craquele-Emile-Galle-vers-1880-decor-mante-religieuse-cigale-1301.jpg/170px-Vase-craquele-Emile-Galle-vers-1880-decor-mante-religieuse-cigale-1301.jpg",
+                "caption": "Glass vase with the craquelé effect. The cracks are the result of brief but intense stress created when the semi-molten piece is briefly dipped in water. [10]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Uniaxial normal",
+        "text": "A common situation with a simple stress pattern is when a straight rod, with uniform material and cross section, is subjected to tension by opposite forces of magnitude F {\\displaystyle F} along its axis. If the system is in equilibrium and not changing with time, and the weight of the bar can be neglected, then through each transversal section of the bar the top part must pull on the bottom part with the same force, F with continuity through the full cross-sectional area , A . Therefore, the stress σ throughout the bar, across any horizontal surface, can be expressed simply by the single number σ, calculated simply with the magnitude of those forces, F , and cross sectional area, A . σ = F A {\\displaystyle \\sigma ={\\frac {F}{A}}} On the other hand, if one imagines the bar being cut along its length, parallel to the axis, there will be no force (hence no stress) between the two halves across the cut.\nThis type of stress may be called (simple) normal stress or uniaxial stress; specifically, (uniaxial, simple, etc.) tensile stress. [13] If the load is compression on the bar, rather than stretching it, the analysis is the same except that the force F and the stress σ {\\displaystyle \\sigma } change sign, and the stress is called compressive stress. This analysis assumes the stress is evenly distributed over the entire cross-section. In practice, depending on how the bar is attached at the ends and how it was manufactured, this assumption may not be valid. In that case, the value σ {\\displaystyle \\sigma } = F / A will be only the average stress, called engineering stress or nominal stress . If the bar's length L is many times its diameter D , and it has no gross defects or built-in stress , then the stress can be assumed to be uniformly distributed over any cross-section that is more than a few times D from both ends. (This observation is known as the Saint-Venant's principle ). Normal stress occurs in many other situations besides axial tension and compression. If an elastic bar with uniform and symmetric cross-section is bent in one of its planes of symmetry, the resulting bending stress will still be normal (perpendicular to the cross-section), but will vary over the cross section: the outer part will be under tensile stress, while the inner part will be compressed. Another variant of normal stress is the hoop stress that occurs on the walls of a cylindrical pipe or vessel filled with pressurized fluid.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Axial_stress_noavg.svg/240px-Axial_stress_noavg.svg.png",
+                "caption": "Idealized stress in a straight bar with uniform cross-section."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Normal_stress.svg/240px-Normal_stress.svg.png",
+                "caption": "The ratio σ = F / A {\\displaystyle \\sigma =F/A} may be only an average stress. The stress may be unevenly distributed over the cross section ( m – m ), especially near the attachment points ( n – n )."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Shear",
+        "text": "Another simple type of stress occurs when a uniformly thick layer of elastic material like glue or rubber is firmly attached to two stiff bodies that are pulled in opposite directions by forces parallel to the layer; or a section of a soft metal bar that is being cut by the jaws of a scissors-like tool . Let F be the magnitude of those forces, and M be the midplane of that layer. Just as in the normal stress case, the part of the layer on one side of M must pull the other part with the same force F . Assuming that the direction of the forces is known, the stress across M can be expressed simply by the single number τ {\\displaystyle \\tau } , calculated simply with the magnitude of those forces, F and the cross sectional area, A . τ = F A {\\displaystyle \\tau ={\\frac {F}{A}}} Unlike normal stress, this simple shear stress is directed parallel to the cross-section considered, rather than perpendicular to it. [13] For any plane S that is perpendicular to the layer, the net internal force across S , and hence the stress, will be zero. As in the case of an axially loaded bar, in practice the shear stress may not be uniformly distributed over the layer; so, as before, the ratio F / A will only be an average (\"nominal\", \"engineering\") stress. That average is often sufficient for practical purposes. [14] : 292 Shear stress is observed also when a cylindrical bar such as a shaft is subjected to opposite torques at its ends. In that case, the shear stress on each cross-section is parallel to the cross-section, but oriented tangentially relative to the axis, and increases with distance from the axis. Significant shear stress occurs in the middle plate (the \"web\") of I-beams under bending loads, due to the web constraining the end plates (\"flanges\").",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Shear_stress.svg/240px-Shear_stress.svg.png",
+                "caption": "Shear stress in a horizontal bar loaded by two offset blocks."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Isotropic",
+        "text": "Another simple type of stress occurs when the material body is under equal compression or tension in all directions.  This is the case, for example, in a portion of liquid or gas at rest, whether enclosed in some container or as part of a larger mass of fluid; or inside a cube of elastic material that is being pressed or pulled on all six faces by equal perpendicular forces — provided, in both cases, that the material is homogeneous, without built-in stress, and that the effect of gravity and other external forces can be neglected. In these situations, the stress across any imaginary internal surface turns out to be equal in magnitude and always directed perpendicularly to the surface independently of the surface's orientation. This type of stress may be called isotropic normal or just isotropic ; if it is compressive, it is called hydrostatic pressure or just pressure . Gases by definition cannot withstand tensile stresses, but some liquids may withstand very large amounts of isotropic tensile stress under some circumstances. see Z-tube .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Isotropic_stress_noavg.svg/240px-Isotropic_stress_noavg.svg.png",
+                "caption": "Isotropic tensile stress. Top left: Each face of a cube of homogeneous material is pulled by a force with magnitude F , applied evenly over the entire face whose area is A .  The force across any section S of the cube must balance the forces applied below the section. In the three sections shown, the forces are F (top right), F 2 {\\displaystyle {\\sqrt {2}}} (bottom left), and F 3 / 2 {\\displaystyle {\\sqrt {3}}/2} (bottom right); and the area of S is A , A 2 {\\displaystyle {\\sqrt {2}}} and A 3 / 2 {\\displaystyle {\\sqrt {3}}/2} , respectively. So the stress across S is F / A in all three cases."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Cauchy tensor",
+        "text": "Combined stresses cannot be described by a single vector. Even if the material is stressed in the same way throughout the volume of the body, the stress across any imaginary surface will depend on the orientation of that surface, in a non-trivial way. Cauchy observed that the stress vector T {\\displaystyle T} across a surface will always be a linear function of the surface's normal vector n {\\displaystyle n} , the unit-length vector that is perpendicular to it.  That is, T = σ ( n ) {\\displaystyle T={\\boldsymbol {\\sigma }}(n)} , where the function σ {\\displaystyle {\\boldsymbol {\\sigma }}} satisfies σ ( α u + β v ) = α σ ( u ) + β σ ( v ) {\\displaystyle {\\boldsymbol {\\sigma }}(\\alpha u+\\beta v)=\\alpha {\\boldsymbol {\\sigma }}(u)+\\beta {\\boldsymbol {\\sigma }}(v)} for any vectors u , v {\\displaystyle u,v} and any real numbers α , β {\\displaystyle \\alpha ,\\beta } .\nThe function σ {\\displaystyle {\\boldsymbol {\\sigma }}} , now called the (Cauchy) stress tensor , completely describes the stress state of a uniformly stressed body. (Today, any linear connection between two physical vector quantities is called a tensor , reflecting Cauchy's original use to describe the \"tensions\" (stresses) in a material.) In tensor calculus , σ {\\displaystyle {\\boldsymbol {\\sigma }}} is classified as a second-order tensor of type (0,2) or (1,1) depending on convention. Like any linear map between vectors, the stress tensor can be represented in any chosen Cartesian coordinate system by a 3×3 matrix of real numbers. Depending on whether the coordinates are numbered x 1 , x 2 , x 3 {\\displaystyle x_{1},x_{2},x_{3}} or named x , y , z {\\displaystyle x,y,z} , the matrix may be written as [ σ 11 σ 12 σ 13 σ 21 σ 22 σ 23 σ 31 σ 32 σ 33 ] {\\displaystyle {\\begin{bmatrix}\\sigma _{11}&\\sigma _{12}&\\sigma _{13}\\\\\\sigma _{21}&\\sigma _{22}&\\sigma _{23}\\\\\\sigma _{31}&\\sigma _{32}&\\sigma _{33}\\end{bmatrix}}} or [ σ x x σ x y σ x z σ y x σ y y σ y z σ z x σ z y σ z z ] {\\displaystyle {\\begin{bmatrix}\\sigma _{xx}&\\sigma _{xy}&\\sigma _{xz}\\\\\\sigma _{yx}&\\sigma _{yy}&\\sigma _{yz}\\\\\\sigma _{zx}&\\sigma _{zy}&\\sigma _{zz}\\\\\\end{bmatrix}}} The stress vector T = σ ( n ) {\\displaystyle T={\\boldsymbol {\\sigma }}(n)} across a surface with normal vector n {\\displaystyle n} (which is covariant - \"row; horizontal\" - vector) with coordinates n 1 , n 2 , n 3 {\\displaystyle n_{1},n_{2},n_{3}} is then a matrix product T = n ⋅ σ {\\displaystyle T=n\\cdot {\\boldsymbol {\\sigma }}} (where T in upper index is transposition , and as a result we get covariant (row) vector) (look on Cauchy stress tensor ), that is [ T 1 T 2 T 3 ] = [ n 1 n 2 n 3 ] ⋅ [ σ 11 σ 21 σ 31 σ 12 σ 22 σ 32 σ 13 σ 23 σ 33 ] {\\displaystyle {\\begin{bmatrix}T_{1}&T_{2}&T_{3}\\end{bmatrix}}={\\begin{bmatrix}n_{1}&n_{2}&n_{3}\\end{bmatrix}}\\cdot {\\begin{bmatrix}\\sigma _{11}&\\sigma _{21}&\\sigma _{31}\\\\\\sigma _{12}&\\sigma _{22}&\\sigma _{32}\\\\\\sigma _{13}&\\sigma _{23}&\\sigma _{33}\\end{bmatrix}}} The linear relation between T {\\displaystyle T} and n {\\displaystyle n} follows from the fundamental laws of conservation of linear momentum and static equilibrium of forces, and is therefore mathematically exact, for any material and any stress situation. The components of the Cauchy stress tensor at every point in a material satisfy the equilibrium equations ( Cauchy's equations of motion for zero acceleration). Moreover, the principle of conservation of angular momentum implies that the stress tensor is symmetric , that is σ 12 = σ 21 {\\displaystyle \\sigma _{12}=\\sigma _{21}} , σ 13 = σ 31 {\\displaystyle \\sigma _{13}=\\sigma _{31}} , and σ 23 = σ 32 {\\displaystyle \\sigma _{23}=\\sigma _{32}} . Therefore, the stress state of the medium at any point and instant can be specified by only six independent parameters, rather than nine.  These may be written [ σ x τ x y τ x z τ x y σ y τ y z τ x z τ y z σ z ] {\\displaystyle {\\begin{bmatrix}\\sigma _{x}&\\tau _{xy}&\\tau _{xz}\\\\\\tau _{xy}&\\sigma _{y}&\\tau _{yz}\\\\\\tau _{xz}&\\tau _{yz}&\\sigma _{z}\\end{bmatrix}}} where the elements σ x , σ y , σ z {\\displaystyle \\sigma _{x},\\sigma _{y},\\sigma _{z}} are called the orthogonal normal stresses (relative to the chosen coordinate system), and τ x y , τ x z , τ y z {\\displaystyle \\tau _{xy},\\tau _{xz},\\tau _{yz}} the orthogonal shear stresses . [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Components_stress_tensor_cartesian.svg/220px-Components_stress_tensor_cartesian.svg.png",
+                "caption": "Components of stress in three dimensions"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Cmec_stress_ball_f02_t6.png/220px-Cmec_stress_ball_f02_t6.png",
+                "caption": "Illustration of typical stresses (arrows) across various surface elements on the boundary of a particle (sphere), in a homogeneous material under uniform (but not isotropic) triaxial stress. The normal stresses on the principal axes are +5, +2, and −3 units."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Thin plates",
+        "text": "Human-made objects are often made from stock plates of various materials by operations that do not change their essentially two-dimensional character, like cutting, drilling, gentle bending and welding along the edges. The description of stress in such bodies can be simplified by modeling those parts as two-dimensional surfaces rather than three-dimensional bodies. In that view, one redefines a \"particle\" as being an infinitesimal patch of the plate's surface, so that the boundary between adjacent particles becomes an infinitesimal line element; both are implicitly extended in the third dimension, normal to (straight through) the plate. \"Stress\" is then redefined as being a measure of the internal forces between two adjacent \"particles\" across their common line element, divided by the length of that line. Some components of the stress tensor can be ignored, but since particles are not infinitesimal in the third dimension one can no longer ignore the torque that a particle applies on its neighbors. That torque is modeled as a bending stress that tends to change the curvature of the plate. These simplifications may not hold at welds, at sharp bends and creases (where the radius of curvature is comparable to the thickness of the plate).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/W39504_stat_Nbk2007.jpg/220px-W39504_stat_Nbk2007.jpg",
+                "caption": "A tank car made from bent and welded steel plates."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Thin beams",
+        "text": "The analysis of stress can be considerably simplified also for thin bars, beams or wires of uniform (or smoothly varying) composition and cross-section that are subjected to moderate bending and twisting. For those bodies, one may consider only cross-sections that are perpendicular to the bar's axis, and redefine a \"particle\" as being a piece of wire with infinitesimal length between two such cross sections. The ordinary stress is then reduced to a scalar (tension or compression of the bar), but one must take into account also a bending stress (that tries to change the bar's curvature, in some direction perpendicular to the axis) and a torsional stress (that tries to twist or un-twist it about its axis).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sandy_Hook_NJ_beach_fisherman%27s_pole.jpg/140px-Sandy_Hook_NJ_beach_fisherman%27s_pole.jpg",
+                "caption": "For stress modeling, a fishing pole may be considered one-dimensional."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Methods",
+        "text": "Stress analysis may be carried out experimentally, by applying loads to the actual artifact or to scale model, and measuring the resulting stresses, by any of several available methods. This approach is often used for safety certification and monitoring. Most stress is analysed by mathematical methods, especially during design.\nThe basic stress analysis problem can be formulated by Euler's equations of motion for continuous bodies (which are consequences of Newton's laws for conservation of linear momentum and angular momentum ) and the Euler-Cauchy stress principle , together with the appropriate constitutive equations. Thus one obtains a system of partial differential equations involving the stress tensor field and the strain tensor field, as unknown functions to be determined. The external body forces appear as the independent (\"right-hand side\") term in the differential equations, while the concentrated forces appear as boundary conditions. The basic stress analysis problem is therefore a boundary-value problem . Stress analysis for elastic structures is based on the theory of elasticity and infinitesimal strain theory . When the applied loads cause permanent deformation, one must use more complicated constitutive equations, that can account for the physical processes involved ( plastic flow , fracture , phase change , etc.). Engineered structures are usually designed so the maximum expected stresses are well within the range of linear elasticity (the generalization of Hooke's law for continuous media); that is, the deformations caused by internal stresses are linearly related to them. In this case the differential equations that define the stress tensor are linear, and the problem becomes much easier. For one thing, the stress at any point will be a linear function of the loads, too. For small enough stresses, even non-linear systems can usually be assumed to be linear. Stress analysis is simplified when the physical dimensions and the distribution of loads allow the structure to be treated as one- or two-dimensional. In the analysis of trusses, for example, the stress field may be assumed to be uniform and uniaxial over each member. Then the differential equations reduce to a finite set of equations (usually linear) with finitely many unknowns. In other contexts one may be able to reduce the three-dimensional problem to a two-dimensional one, and/or replace the general stress and strain tensors by simpler models like uniaxial tension/compression, simple shear, etc. Still, for two- or three-dimensional cases one must solve a partial differential equation problem.\nAnalytical or closed-form solutions to the differential equations can be obtained when the geometry,  constitutive relations, and boundary conditions are simple enough. Otherwise one must generally resort to numerical approximations such as the finite element method , the finite difference method , and the boundary element method .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Loaded_truss.svg/240px-Loaded_truss.svg.png",
+                "caption": "Simplified model of a truss for stress analysis, assuming unidimensional elements under uniform axial tension or compression."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Constitutive relations",
+        "text": "For small strains , the kinematic quantity that is used to describe rock mechanics is the small strain tensor ε = 1 2 [ ∇ u + ( ∇ u ) T ] . {\\displaystyle {\\boldsymbol {\\varepsilon }}={\\tfrac {1}{2}}\\left[\\nabla \\mathbf {u} +(\\nabla \\mathbf {u} )^{T}\\right]\\,.} If temperature effects are ignored, four types of constitutive relations are typically used to describe small strain deformations of rocks.  These relations encompass elastic , plastic , viscoelastic , and viscoplastic behavior and have the following forms: A failure criterion or yield surface for the rock may then be expressed in the general form Typical constitutive relations for rocks assume that the deformation process is isothermal, the material is isotropic, quasi-linear, and homogenous and material properties do not depend upon position at the start of the deformation process, that there is no viscous effect and therefore no intrinsic time scale, that the failure criterion is rate-independent , and that there is no size effect .  However, these assumptions are made only to simplify analysis and should be abandoned if necessary for a particular problem.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rock_plasticity_compression_plain.svg/350px-Rock_plasticity_compression_plain.svg.png",
+                "caption": "Stress-strain curve showing typical plastic behavior of rocks in uniaxial compression.  The strain can be decomposed into a recoverable elastic strain ( ε e {\\displaystyle \\varepsilon _{e}} ) and an inelastic strain ( ε p {\\displaystyle \\varepsilon _{p}} ).  The stress at initial yield is σ 0 {\\displaystyle \\sigma _{0}} .  For strain hardening rocks (as shown in the figure) the yield stress increases with increasing plastic deformation to a value of σ y {\\displaystyle \\sigma _{y}} ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Rock_mass_plasticity",
+        "title": "Rock mass plasticity",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Yield surfaces for rocks",
+        "text": "Design of mining and civil structures in rock typically involves a failure criterion that is cohesive-frictional.  The failure criterion is used to determine whether a state of stress in the rock will lead to inelastic behavior, including brittle failure .  For rocks under high hydrostatic stresses , brittle failure is preceded by plastic deformation and the failure criterion is used to determine the onset of plastic deformation.  Typically, perfect plasticity is assumed beyond the yield point . However strain hardening and softening relations with nonlocal inelasticity and damage have also been used.  Failure criteria and yield surfaces are also often augmented with a cap to avoid unphysical situations where extreme hydrostatic stress states do not lead to failure or plastic deformation. Two widely used yield surfaces/failure criteria for rocks are the Mohr-Coulomb model and the Drucker-Prager model .  The Hoek–Brown failure criterion is also used, notwithstanding the serious consistency problem with the model.  The defining feature of these models is that tensile failure is predicted at low stresses.  On the other hand, as the stress state becomes increasingly compressive, failure and yield requires higher and higher values of stress.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Mohr_Coulomb_Yield_Surface_3Da.png/300px-Mohr_Coulomb_Yield_Surface_3Da.png",
+                "caption": "View of Mohr–Coulomb failure surface in 3D space of principal stresses for c = 2 , ϕ = − 20 ∘ {\\displaystyle c=2,\\phi =-20^{\\circ }}"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Drucker_Prager_Yield_Surface_3Da.png/300px-Drucker_Prager_Yield_Surface_3Da.png",
+                "caption": "View of Drucker–Prager yield surface in 3D space of principal stresses for c = 2 , ϕ = − 20 ∘ {\\displaystyle c=2,\\phi =-20^{\\circ }}"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Rock_mass_plasticity",
+        "title": "Rock mass plasticity",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Length change",
+        "text": "For a cube stretched in the x -direction (see Figure 1) with a length increase of Δ L in the x -direction, and a length decrease of Δ L ′ in the y - and z -directions, the infinitesimal diagonal strains are given by If Poisson's ratio is constant through deformation, integrating these expressions and using the definition of Poisson's ratio gives Solving and exponentiating, the relationship between Δ L and Δ L ′ is then For very small values of Δ L and Δ L ′ , the first-order approximation yields:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/PoissonRatio.svg/300px-PoissonRatio.svg.png",
+                "caption": "Figure 1 : A cube with sides of length L of an isotropic linearly elastic material subject to tension along the x axis, with a Poisson's ratio of 0.5. The green cube is unstrained, the red is expanded in the x -direction by Δ L due to tension, and contracted in the y - and z -directions by Δ L ′ ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Poisson%27s_ratio",
+        "title": "Poisson's ratio",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Width change",
+        "text": "If a rod with diameter (or width, or thickness) d and length L is subject to tension so that its length will change by Δ L then its diameter d will change by: The above formula is true only in the case of small deformations; if deformations are large then the following (more precise) formula can be used: where The value is negative because it decreases with increase of length",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rod_diameter_change_poisson.svg/350px-Rod_diameter_change_poisson.svg.png",
+                "caption": "Figure 2: The blue slope represents a simplified formula (the top one in the legend) that works well for modest deformations, ∆ L , up to about ±3. The green curve represents a formula better suited for larger deformations."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Poisson%27s_ratio",
+        "title": "Poisson's ratio",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Open space filling",
+        "text": "Open space filling is the hallmark of epithermal vein systems, such as a stockwork , in greisens or in certain skarn environments. For open space filling to take effect, the confining pressure is generally considered to be below 0.5 GPa , or less than 3–5 km (2–3 mi). Veins formed in this way may exhibit a colloform , agate -like habit, of sequential selvages of minerals which radiate out from nucleation points on the vein walls and appear to fill up the available open space. Often evidence of fluid boiling is present. Vugs , cavities and geodes are all examples of open-space filling phenomena in hydrothermal systems. Alternatively, hydraulic fracturing may create a breccia which is filled with vein material. Such breccia vein systems may be quite extensive, and can form the shape of tabular dipping sheets, diatremes or laterally extensive mantos controlled by boundaries such as thrust faults , competent sedimentary layers , or cap rocks .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Quartz_vein_cape_jervis.jpg/220px-Quartz_vein_cape_jervis.jpg",
+                "caption": "A quartz vein, prominent from the surrounding weathered rock at Cape Jervis, South Australia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Vein_(geology)",
+        "title": "Vein (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Mineralization and veining",
+        "text": "Veins are common features in rocks and are evidence of fluid flow in fracture systems. [7] Veins provide information on stress, strain, pressure, temperature, fluid origin and fluid composition during their formation. [2] Typical examples include gold lodes , as well as skarn mineralisation. Hydrofracture breccias are classic targets for ore exploration as there is plenty of fluid flow and open space to deposit ore minerals. Ores related to hydrothermal mineralisation, which are associated with vein material, may be composed of vein material and/or the rock in which the vein is hosted.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Boudin_vein.jpg/220px-Boudin_vein.jpg",
+                "caption": "Boudinaged quartz vein (with strain fringe) showing sinistral shear sense. Starlight Pit, Fortnum Gold Mine , Western Australia ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Vein_(geology)",
+        "title": "Vein (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Gold-bearing veins",
+        "text": "In many gold mines exploited during the gold rushes of the 19th century, vein material alone was typically sought as ore material. [8] In most of today's mines, ore material is primarily composed of the veins and some component of the wall rocks which surrounds the veins. [9] The difference between 19th-century and 21st-century mining techniques and the type of ore sought is based on the grade of material being mined and the methods of mining which are used. Historically, hand-mining of gold ores permitted the miners to pick out the lode quartz or reef quartz, allowing the highest-grade portions of the lodes to be worked, without dilution from the unmineralised wall rocks. Today's mining, which uses larger machinery and equipment, forces the miners to take low-grade waste rock in with the ore material, resulting in dilution of the grade. However, today's mining and assaying allows the delineation of lower-grade bulk tonnage mineralisation, within which the gold is invisible to the naked eye. In these cases, veining is the subordinate host to mineralisation and may only be an indicator of the presence of metasomatism of the wall-rocks which contains the low-grade mineralisation. For this reason, veins within hydrothermal gold deposits are no longer the exclusive target of mining, and in some cases gold mineralisation is restricted entirely to the altered wall rocks within which entirely barren quartz veins are hosted.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gold_bearing_vein_Toi_Kinzan.jpg/220px-Gold_bearing_vein_Toi_Kinzan.jpg",
+                "caption": "In situ gold-bearing vein (in brown) at the Toi gold mine , Japan ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Goldveins1.jpg/220px-Goldveins1.jpg",
+                "caption": "Gold-bearing quartz veins, Blue Ribbon Mine , Alaska"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Vein_(geology)",
+        "title": "Vein (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Shear zone",
+        "text": "A shear zone is a tabular to sheetlike, planar or curviplanar zone composed of rocks that are more highly strained than rocks adjacent to the zone.  Typically this is a type of fault , but it may be difficult to place a distinct fault plane into the shear zone. Shear zones may form zones of much more intense foliation , deformation , and folding . En echelon veins or fractures may be observed within shear zones. Many shear zones host ore deposits as they are a focus for hydrothermal flow through orogenic belts . They may often show some form of retrograde metamorphism from a peak metamorphic assemblage and are commonly metasomatised . Shear zones can be only inches wide, or up to several kilometres wide. Often, due to their structural control and presence at the edges of tectonic blocks, shear zones are mappable units and form important discontinuities to separate terranes. As such, many large and long shear zones are named, identical to fault systems. When the horizontal displacement of this faulting can be measured in the tens or hundreds of kilometers of length, the fault is referred to as a megashear.  Megashears often indicate the edges of ancient tectonic plates. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Asymmetric_shear.jpg/220px-Asymmetric_shear.jpg",
+                "caption": "Asymmetric shear in basalt, Labouchere mine, Glengarry Basin, Australia. Shear asymmetry is sinistral, pen for scale"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Shear_(geology)",
+        "title": "Shear (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Mechanisms of shearing",
+        "text": "The mechanisms of shearing depend on the pressure and temperature of the rock and on the rate of shear which the rock is subjected to. The response of the rock to these conditions determines how it accommodates the deformation. Shear zones which occur in more brittle rheological conditions (cooler, less confining pressure ) or at high rates of strain, tend to fail by brittle failure; breaking of minerals, which are ground up into a breccia with a milled texture. Shear zones which occur under brittle-ductile conditions can accommodate much deformation by enacting a series of mechanisms which rely less on fracture of the rock and occur within the minerals and the mineral lattices themselves. Shear zones accommodate compressive stress by movement on foliation planes. Shearing at ductile conditions may occur by fracturing of minerals and growth of sub-grain boundaries, as well as by lattice glide .  This occurs particularly on platy minerals, especially micas. Mylonites are essentially ductile shear zones.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PySlick.JPG/220px-PySlick.JPG",
+                "caption": "Dextral slickenside of pyrite"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Shear_(geology)",
+        "title": "Shear (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Microstructures of shear zones",
+        "text": "During the initiation of shearing, a penetrative planar foliation is first formed within the rock mass. This manifests as realignment of textural features, growth and realignment of micas and growth of new minerals. The incipient shear foliation typically forms normal to the direction of principal shortening, and is diagnostic of the direction of shortening. In symmetric shortening, objects flatten on this shear foliation much the same way that a round ball of treacle flattens with gravity. Within asymmetric shear zones, the behavior of an object undergoing shortening is analogous to the ball of treacle being smeared as it flattens, generally into an ellipse. Within shear zones with pronounced displacements a shear foliation may form at a shallow angle to the gross plane of the shear zone. This foliation ideally manifests as a sinusoidal set of foliations formed at a shallow angle to the main shear foliation, and which curve into the main shear foliation. Such rocks are known as L-S tectonites. If the rock mass begins to undergo large degrees of lateral movement, the strain ellipse lengthens into a cigar shaped volume. At this point shear foliations begin to break down into a rodding lineation or a stretch lineation. Such rocks are known as L-tectonites.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Geological_shear_r.jpg/220px-Geological_shear_r.jpg",
+                "caption": "Typical example of dextral shear foliation in an L-S tectonite, with pencil pointing in direction of shear sense. Note the sinusoidal nature of the shear foliation."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stretch_Conglomerate.jpg/220px-Stretch_Conglomerate.jpg",
+                "caption": "Stretched pebble conglomerate L-tectonite illustrating a stretch lineation within a shear zone, Glengarry Basin, Australia. Pronounced asymmetric shearing has stretched the conglomerate pebbles into elongate cigar shaped rods."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Shear_(geology)",
+        "title": "Shear (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Ductile shear microstructures",
+        "text": "Very distinctive textures form as a consequence of ductile shear. An important group of microstructures observed in ductile shear zones are S-planes, C-planes and C' planes. The sense of shear shown by both S-C and S-C' structures matches that of the shear zone in which they are found. Other microstructures which can give sense of shear include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Thin_section_of_garnet-mica-schist.jpg/220px-Thin_section_of_garnet-mica-schist.jpg",
+                "caption": "Thin section (crossed polars) of Garnet-Mica- Schist showing a rotated porphyroblast of garnet , mica fish and elongated minerals. This specimen was from close to a shear zone in Norway (the Ose thrust), the garnet in the centre (black) is approximately 2mm in diameter"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Shear_(geology)",
+        "title": "Shear (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Brittle–Ductile Transition Zone",
+        "text": "The brittle–ductile transition zone is characterized by a change in rock failure mode, at an approximate average depth of 10–15 km (~ 6.2–9.3 miles) in continental crust , below which rock becomes less likely to fracture and more likely to deform ductilely. The zone exists because as depth increases confining pressure increases, and brittle strength increases with confining pressure whilst ductile strength decreases with increasing temperature. The transition zone occurs at the point where brittle strength equals ductile strength. [1] In glacial ice this zone is at approximately 30 m (100 ft) depth. Not all materials, however, abide by this transition. It is possible and not rare for material above the transition zone to deform ductilely, and for material below to deform in a brittle manner. The depth of the material does exert an influence on the mode of deformation, but other substances, such as loose soils in the upper crust, malleable rocks, biological debris, and more are just a few examples of that which does not deform in accordance to the transition zone. [1] [2] The type of dominating deformation process also has a great impact on the types of rocks and structures found at certain depths within the Earth's crust. As evident from Fig. 1.1, different geological formations and rocks are found in accordance to the dominant deformation process. Gouge and Breccia form in the uppermost, brittle regime while Cataclasite and Pseudotachylite form in the lower parts of the brittle regime, edging upon the transition zone. Mylonite forms in the more ductile regime at greater depths while Blastomylonite forms well past the transition zone and well into the ductile regime, even deeper into the crust.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Brittle_Ductile.png/350px-Brittle_Ductile.png",
+                "caption": "Fig. 1.1 – A generalized diagram of the deformation mechanisms and structural formations that dominate at certain depths within the Earth's crust."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ductility_(Earth_science)",
+        "title": "Ductility (Earth science)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    },
+    {
+        "section": "Quantification",
+        "text": "Ductility is a material property that can be expressed in a variety of ways. Mathematically, it is commonly expressed as a total quantity of elongation or a total quantity of the change in cross sectional area of a specific rock until macroscopic brittle behavior, such as fracturing, is observed. For accurate measurement, this must be done under several controlled conditions, including but not limited to Pressure , Temperature , Moisture Content , Sample Size, etc., for all can impact the measured ductility. It is important to understand that even the same type of rock or mineral may exhibit different behavior and degrees of ductility due to internal heterogeneities small scale differences between each individual sample. The two quantities are expressed in the form of a ratio or a percent. [3] % Elongation of a Rock = % Δ l = l f − l i l i × 100 {\\displaystyle \\%\\Delta l={\\frac {l_{f}-l_{i}}{l_{i}}}\\times 100} [3] Where: l i {\\displaystyle l_{i}} = Initial Length of Rock l f {\\displaystyle l_{f}} = Final Length of Rock % Change in Area of a Rock = % Δ A = A f − A i A i × 100 {\\displaystyle \\%\\Delta A={\\frac {A_{f}-A_{i}}{A_{i}}}\\times 100} [3] Where: A i {\\displaystyle A_{i}} = Initial Area A f {\\displaystyle A_{f}} = Final Area For each of these methods of quantifying, one must take measurements of both the initial and final dimensions of the rock sample. For Elongation, the measurement is a uni-dimensional initial and final length, the former measured before any Stress is applied and the latter measuring the length of the sample after fracture occurs. For Area, it is strongly preferable to use a rock that has been cut into a cylindrical shape before stress application so that the cross-sectional area of the sample can be taken. Cross-Sectional Area of a Cylinder = Area of a Circle = A = π r 2 {\\displaystyle A=\\pi r^{2}} Using this, the initial and final areas of the sample can be used to quantify the % change in the area of the rock.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Stress_Strain_Ductile_Material.pdf/page1-220px-Stress_Strain_Ductile_Material.pdf.jpg",
+                "caption": "Fig. 1.2 – Stress vs Strain Curve displaying both ductile and brittle deformation behavior."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ductility_(Earth_science)",
+        "title": "Ductility (Earth science)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Stress and Strain in Rocks"
+    }
+]

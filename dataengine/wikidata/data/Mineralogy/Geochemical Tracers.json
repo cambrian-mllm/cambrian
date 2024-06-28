@@ -1,0 +1,430 @@
+[
+    {
+        "section": "Overview",
+        "text": "In the diagram above, lithium sinks are described in concentrations (ppm) and displayed as boxes. [1] Fluxes are shown as arrows and are in units of moles per year. [2] Continental rocks containing lithium are dissolved, transferring lithium to rivers or secondary minerals. [2] Dissolved lithium in run-off travels to the ocean. [2] Fluid release from hydrothermal vents contributes to oceanic lithium reserves while lithium is removed from the ocean by secondary mineral formation. [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lithium_cycle_figure.png/440px-Lithium_cycle_figure.png",
+                "caption": "Biogeochemical lithium cycle"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lithium_cycle",
+        "title": "Lithium cycle",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Solar System",
+        "text": "The composition of the solar system is similar to that of many other stars, and aside from small anomalies it can be assumed to have formed from a solar nebula that had a uniform composition, and the composition of the Sun 's photosphere is similar to that of the rest of the Solar System. The composition of the photosphere is determined by fitting the absorption lines in its spectrum to models of the Sun's atmosphere. [23] By far the largest two elements by fraction of total mass are hydrogen (74.9%) and helium (23.8%), with all the remaining elements contributing just 1.3%. [24] There is a general trend of exponential decrease in abundance with increasing atomic number, although elements with even atomic number are more common than their odd-numbered neighbors (the Oddo–Harkins rule ). Compared to the overall trend, lithium , boron and beryllium are depleted and iron is anomalously enriched. [25] : 284–285 The pattern of elemental abundance is mainly due to two factors. The hydrogen, helium, and some of the lithium were formed in about 20 minutes after the Big Bang , while the rest were created in the interiors of stars . [4] : 316–317",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/ElementalAbundance.svg/370px-ElementalAbundance.svg.png",
+                "caption": "Abundances of solar system elements. [22]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geochemistry",
+        "title": "Geochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Giant planets",
+        "text": "The planets of the Solar System are divided into two groups: the four inner planets are the terrestrial planets ( Mercury , Venus , Earth and Mars ), with relatively small sizes and rocky surfaces. The four outer planets are the giant planets , which are dominated by hydrogen and helium and have lower mean densities. These can be further subdivided into the gas giants ( Jupiter and Saturn ) and the ice giants ( Uranus and Neptune ) that have large icy cores. [26] : 26–27, 283–284 Most of our direct information on the composition of the giant planets is from spectroscopy . Since the 1930s, Jupiter was known to contain hydrogen, methane and ammonium . In the 1960s, interferometry greatly increased the resolution and sensitivity of spectral analysis, allowing the identification of a much greater collection of molecules including ethane , acetylene , water and carbon monoxide . [27] : 138–139 However, Earth-based spectroscopy becomes increasingly difficult with more remote planets, since the reflected light of the Sun is much dimmer; and spectroscopic analysis of light from the planets can only be used to detect vibrations of molecules, which are in the infrared frequency range. This constrains the abundances of the elements H, C and N. [27] : 130 Two other elements are detected: phosphorus in the gas phosphine (PH 3 ) and germanium in germane (GeH 4 ). [27] : 131 The helium atom has vibrations in the ultraviolet range, which is strongly absorbed by the atmospheres of the outer planets and Earth. Thus, despite its abundance, helium was only detected once spacecraft were sent to the outer planets, and then only indirectly through collision-induced absorption in hydrogen molecules. [27] : 209 Further information on Jupiter was obtained from the Galileo probe when it was sent into the atmosphere in 1995; [28] [29] and the final mission of the Cassini probe in 2017 was to enter the atmosphere of Saturn. [30] In the atmosphere of Jupiter, He was found to be depleted by a factor of 2 compared to solar composition and Ne by a factor of 10, a surprising result since the other noble gases and the elements C, N and S were enhanced by factors of 2 to 4 (oxygen was also depleted but this was attributed to the unusually dry region that Galileo sampled). [29] Spectroscopic methods only penetrate the atmospheres of Jupiter and Saturn to depths where the pressure is about equal to 1 bar , approximately Earth's atmospheric pressure at sea level . [27] : 131 The Galileo probe penetrated to 22 bars. [29] This is a small fraction of the planet, which is expected to reach pressures of over 40 Mbar. To constrain the composition in the interior, thermodynamic models are constructed using the information on temperature from infrared emission spectra and equations of state for the likely compositions. [27] : 131 High-pressure experiments predict that hydrogen will be a metallic liquid in the interior of Jupiter and Saturn, while in Uranus and Neptune it remains in the molecular state. [27] : 135–136 Estimates also depend on models for the formation of the planets. Condensation of the presolar nebula would result in a gaseous planet with the same composition as the Sun, but the planets could also have formed when a solid core captured nebular gas. [27] : 136 In current models, the four giant planets have cores of rock and ice that are roughly the same size, but the proportion of hydrogen and helium decreases from about 300 Earth masses in Jupiter to 75 in Saturn and just a few in Uranus and Neptune. [27] : 220 Thus, while the gas giants are primarily composed of hydrogen and helium, the ice giants are primarily composed of heavier elements (O, C, N, S), primarily in the form of water, methane, and ammonia. The surfaces are cold enough for molecular hydrogen to be liquid, so much of each planet is likely a hydrogen ocean overlaying one of heavier compounds. [31] Outside the core, Jupiter has a mantle of liquid metallic hydrogen and an atmosphere of molecular hydrogen and helium. Metallic hydrogen does not mix well with helium, and in Saturn, it may form a separate layer below the metallic hydrogen. [27] : 138",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gas_Giant_Interiors.jpg/440px-Gas_Giant_Interiors.jpg",
+                "caption": "Cutaways illustrating models of the interiors of the giant planets."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geochemistry",
+        "title": "Geochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Mechanism",
+        "text": "Foraminifera shells are composed of calcium carbonate (CaCO 3 ) and are found in many common geological environments. The ratio of 18 O to 16 O in the shell is used to indirectly determine the temperature of the surrounding water at the time the shell was formed. The ratio varies slightly depending on the temperature of the surrounding water, as well as other factors such as the water's salinity, and the volume of water locked up in ice sheets. δ 18 O also reflects local evaporation and freshwater input, as rainwater is 16 O-enriched—a result of the preferential evaporation of the lighter 16 O from seawater. Consequently, the surface ocean contains greater proportions of 18 O around the subtropics and tropics where there is more evaporation, and lesser proportions of 18 O in the mid-latitudes where it rains more. Similarly, when water vapor condenses, heavier water molecules holding 18 O atoms tend to condense and precipitate first. The water vapor gradient heading from the tropics to the poles gradually becomes more and more depleted of 18 O. Snow falling in Canada has much less H 2 18 O than rain in Florida ; similarly, snow falling in the center of ice sheets has a lighter δ 18 O signature than that at its margins, since heavier 18 O precipitates first. Changes in climate that alter global patterns of evaporation and precipitation therefore change the background δ 18 O ratio. Solid samples (organic and inorganic) for oxygen isotope analysis are usually stored in silver cups and measured with pyrolysis and mass spectrometry . [2] Researchers need to avoid improper or prolonged storage of the samples for accurate measurements. [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Benthic_foraminifera.jpg/200px-Benthic_foraminifera.jpg",
+                "caption": "Foraminifera samples."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/%CE%9418O",
+        "title": "δ18O",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Kinetic and equilibrium isotope effects",
+        "text": "Isotopes differ by number of neutrons , which directly impacts physical properties based on mass and size. Normal hydrogen is hydrogen-1 or protium and has no neutrons. Deuterium or hydrogen-2 has one neutron and tritium or hydrogen-3 has two neutrons. These additional neutrons impact the mass of the atom, leading to different chemical physical properties . This effect is especially prevalent in hydrogen isotopes, since addition of a neutron doubles the mass from 1 H to 2 H. For heavier elements like carbon , nitrogen , oxygen , or sulfur , the mass difference is diluted. Physical chemists often model chemical bonding with the quantum harmonic oscillator , simplifying a hydrogen-hydrogen bond as two balls connected by a spring. [41] [44] The quantum harmonic oscillator is itself based on Hooke's law and acts as a good approximation of the Morse potential that accurately describes bonding. Modeling hydrogen/deuterium in a chemical reaction demonstrates the energy distributions of isotopes in products and reactants. Lower energy levels for the heavier isotope deuterium can be explained mathematically by the harmonic oscillator's dependence on the inverse of the reduced mass (μ). Thus, a larger reduced mass is a larger denominator and thus a smaller zero point energy and a lower energy state in the quantum well . Calculating the reduced mass of a 1 H- 1 H bond versus a deuterium-deuterium bond gives: The quantum harmonic oscillator has energy levels of the following form, where k is the spring constant and h is Planck's constant. [41] The effects of this energy distribution manifest in the kinetic isotope effect and the equilibrium isotope effect. [45] In a reversible reaction , under equilibrium conditions, the reaction will proceed forwards and backwards, distributing the isotopes to minimize thermodynamic free energy. Some time later, at equilibrium, more heavy isotopes will be on the product side. The stability of the lower energy drives the products to be enriched in deuterium relative to reactants. Conversely, under kinetic conditions, reactions are generally irreversible. The limiting step in the reaction is overcoming the activation energy barrier to reach an intermediate state. The lighter isotope has a higher energy state in the quantum well and will thus be preferentially formed into products. Thus under kinetic conditions the product will be relatively depleted in deuterium. Kinetic isotope effects are common in biological systems and are especially important for hydrogen isotope biogeochemistry. Kinetic effects usually result in larger fractionations than equilibrium reactions. In any isotope system, kinetic effects are stronger for larger mass differences. Light isotopes in most systems also tend to move faster but form weaker bonds. At high temperatures, entropy explains a large signal in isotope composition. However, when temperature decreases isotope effects are more expressed and randomness plays less of a role. These general trends are exposed in further understanding of bond breaking, diffusion or effusion , and condensation or evaporation reactions.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kinetic_and_Equilibrium_Isotope_Effects.png/220px-Kinetic_and_Equilibrium_Isotope_Effects.png",
+                "caption": "A simplified model of a chemical reaction with pathways for H and D isotopes of hydrogen. The positions on the energy wells are based on the quantum harmonic oscillator. Note the lower energy state of the heavier isotope and the higher energy state of the lighter isotope. Under equilibrium conditions, the heavy isotope is favored in the products as it is more stable. Under kinetic conditions, like an enzymatic reaction, the lighter isotope is favored because of a lower activation energy."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Carbon bound hydrogen exchange",
+        "text": "For some time, researchers believed that large hydrocarbon molecules were impervious to hydrogen exchange, but recent work has identified many reactions that allow isotope reordering. The isotopic exchange becomes relevant at geological time scales and has impacted work of biologists studying lipid biomarkers as well as geologists studying ancient oil . Reactions responsible for exchange include [46] [47] Detailed kinetics of these reactions have not been determined. However, it is known that clay minerals catalyze ionic hydrogen exchange faster than other minerals. [48] Thus hydrocarbons formed in clastic environments exchange more than those in carbonate settings. Aromatic and tertiary hydrogen also have greater exchange rates than primary hydrogen. This is due to the increasing stability of associated carbocations . [49] Primary carbocations are considered too unstable to physically exist and have never been isolated in an FT-ICR spectrometer . [50] On the other hand, tertiary carbocations are relatively stable and are often intermediates in organic chemistry reactions. This stability, which increases the likelihood of proton loss, is due to the electron donation of nearby carbon atoms. Resonance and nearby lone pairs can also stabilize carbocations via electron donation . Aromatic carbons are thus relatively easy to exchange. Many of these reactions have a strong temperature dependence, with higher temperatures typically accelerating exchange. However, different mechanisms may prevail at each temperature window. Ionic exchange , for example, has the most significance at low temperatures. In such low temperature environments, there is potential for preserving the original hydrogen isotope signal over hundreds of millions of years. [51] However, many rocks in geologic time have reached significant thermal maturity . Even by the onset of the oil window it appears that much of the hydrogen has exchanged. Recently, scientists have explored a silver lining: hydrogen exchange is a zero order kinetic reaction (for carbon bound hydrogen at 80–100 °C, the half-times are likely 10 4 – 10 5 years). [51] Applying the mathematics of rate constants would allow extrapolation to original isotopic compositions. While this solution holds promise, there is too much disagreement in the literature for robust calibrations.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Carbocation_Stability_Trend.png/426px-Carbocation_Stability_Trend.png",
+                "caption": "The trend of carbocation stability. Note the stabilization effects from adjacent carbons that donate electrons to the positive charge. The opposite trend is seen in carbanion stability. In isotopes, a tertiary bound hydrogen is more likely to be lost because the resulting carbocation is the most stable species."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Observed variations in isotope abundance",
+        "text": "Due to physical and chemical fractionation processes, the variations in the isotopic compositions of elements are reported, and the standard atomic weights of hydrogen isotopes have been published by IUPAC 's Commission on Atomic Weights and Isotopic Abundances. The ratios of stable H isotopes are reported relative to the International Atomic Energy Agency (IAEA) reference water. In the equilibrium isotope reactions of hydrogen/deuterium in general, enrichment of the heavy isotope is observed in the compound with the higher oxidation state . However, in our natural environment, the isotopic composition of hydrogen isotopes greatly vary depending on the sources and organisms due to complexities of interacting elements in disequilibrium states. In this section, the observed variations in hydrogen isotope abundances of water sources (hydrosphere), living organisms (biosphere), organic substances (geosphere), and extraterrestrial materials in the Solar system are described.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/DD_Various_Sources.jpg/220px-DD_Various_Sources.jpg",
+                "caption": "Hydrogen isotope composition of hydro-, bio- and geo-spheres"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Oceans",
+        "text": "Variations in δD value of different water sources and ice caps are observed due to evaporation and condensation processes. [See section 6 for more details] When the ocean water is well-mixed, the δD at equilibrium is close to 0‰ (‰ SMOW) with a D/H ratio of 0.00015576. However, continuous variations in δD values are caused by evaporation or precipitation processes which lead to disequilibrium in fractionation processes. A large H isotopic gradient (variations in δD values) is observed in surface waters of the oceans, and the fluctuation value in the Northwest Atlantic surface water is around 20‰.\nAccording to the data examining the southern supersegment of the Pacific Ocean , as the latitude (˚S) decreases from −65˚S to −40˚S, the δD value fluctuates between around −50‰ and −70‰. [54] The isotope composition of seawater (not just the surface water) is mostly in the range of 0-(-10) ‰. The estimates of the δD values for different parts of the oceans across the world are shown on the map. [55]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DD_Oceans.jpg/220px-DD_Oceans.jpg",
+                "caption": "[53]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Ice caps",
+        "text": "The typical δD values for the ice sheets in the polar regions range from around −400‰ to −300‰ (‰SMOW). [57] The δD values for ice caps are affected by the distance from the open ocean, latitude, atmospheric circulation as well as the amount of insolation and temperature. The temperature change affects the deuterium content of ice caps, so the H/D isotopic composition of ice can give estimates for the historical climate cycles such as the timelines for interglacial and glacial periods . [See section 7.2. Paleo-reconstruction for more details] The δD values of ice caps from 70 km south of Vostok Station and in East Antarctica are −453.7‰ and −448.4‰ respectively, and are shown on the map. [58]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/DD_Ice_Caps.jpg/220px-DD_Ice_Caps.jpg",
+                "caption": "[56]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Atmosphere",
+        "text": "The analysis done based on satellite measurement data estimates the δD values for the atmosphere in various regions of the world. The general trend is that the δD values are more negative at higher-latitude regions, so the atmosphere above the Antarctica and the arctic regions is observed to be highly D-depleted to around −230‰ to −260‰ or even lower. The estimates of the atmospheric δD values are shown on the map. [60] A vast portion of the global atmospheric water vapor comes from the western Pacific Ocean near the tropical zone, (mean 2009) and the H/D isotopic composition of atmosphere varies depending on the temperature and humidity. In general, higher δD values are observed in humid regions with a high temperature. [61] Water vapor in the atmosphere is in general more depleted than the terrestrial water sources, since the rate of evaporation for 1 H 16 2 O is faster than 1 H 2 H 16 O due to a higher vapor pressure. On the other hand, the rain water (precipitation) is in general more enriched than the atmospheric water vapor. [62] [63]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/DD_Atmosphere.jpg/220px-DD_Atmosphere.jpg",
+                "caption": "[59]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Precipitation",
+        "text": "The δD values of the annual precipitation in different regions of the world are shown on the map. [65] The precipitation is more D-enriched near the equator in the Tropics . The values of δD generally fall in the range of around −30 ~ -150‰ in the northern hemisphere and −30~+30‰ over the land areas of the southern hemisphere. In North America, the δD values of average monthly precipitation across regions are more negative in January (ranging up to around −300‰ in Canada) compared to July (up to around −190‰). [65] The overall mean precipitation is determined by balance between the evaporation of water from the oceans and surface water sources and the condensation of the atmospheric water vapor in the form of rain. The net evaporation should equal the net precipitation, and the δD value for the mean isotopic composition of global precipitation is around −22‰ (global average). [66] The Global Network of Isotopes in Precipitation (GNIP) investigates and monitors the isotopic composition of precipitation at various sites all over the world. The mean precipitation can be estimated by the equation, δ 2 H = 8.17(±0.07) δ 18 O + 11.27(±0.65)‰ VSMOW. (Rozanski et al., 1993) This equation is the slightly modified version from the general 'Global Meteoric Water Line (GMWL)' equation, δ 2 H = 8.13δ 18 O + 10.8, which provides the average relationship between δ 2 H and δ 18 O of natural terrestrial waters. [66] [67]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/DD_Precipitation.jpg/220px-DD_Precipitation.jpg",
+                "caption": "[64]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Lakes and rivers",
+        "text": "The δD values vs. VSMOW of lakes in different regions are shown on the map. [69] The general pattern observed indicates that the δD values of the surface waters including lakes and rivers are similar to that of local precipitation. [70]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DD_Lakes_Rivers.jpg/220px-DD_Lakes_Rivers.jpg",
+                "caption": "[68]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Plants",
+        "text": "δD values for n-C 29 alkane (‰) vs. VSMOW for different plant groups are the following. In the equations, y {\\displaystyle \\ y\\ } represents δD values for n-C 29 alkane(‰) vs. VSMOW, and x {\\displaystyle \\ x\\ } represents δD values for mean annual precipitation (‰) vs. VSMOW). [76] For plant leaf wax , the relative humidity, the timing of leaf wax formation and the growth conditions including light levels affect the D/H fractionation of plant wax. From the Craig–Gordon model, it can be understood that leaf water in the growth chamber gasses is significantly D-enriched due to transpiration. [77]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DD_Plants.jpg/220px-DD_Plants.jpg",
+                "caption": "Modified from the figure in Sachse et al . (2012) [76]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Alkenones",
+        "text": "The isotopic composition of alkenones often reflect the isotopic enrichment or depletion of the surrounding environment, and the δD values of alkenones in different regions are shown on the map. [87] [88]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DD_Alkenone.jpg/220px-DD_Alkenone.jpg",
+                "caption": "[86]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Coals",
+        "text": "Source: [90] According to the studies done by Reddings et al., δD for coals from various sources range from around −90‰ to −170‰. [91] The δD values of coals in different regions are shown on the map. [92] [93]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/DD_Coals.jpg/220px-DD_Coals.jpg",
+                "caption": "[89]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Mineral H",
+        "text": "The δD values of hydroxyl-bearing minerals of mantle were estimated to be −80‰ ~ -40‰ through the analysis of the isotopic composition for juvenile water. Hydrogen Minerals generally have large isotope effects, and the isotopic composition often follows the pattern observed for precipitation.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/DD_Mineral_H.jpg/220px-DD_Mineral_H.jpg",
+                "caption": "[97]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Extraterrestrial objects",
+        "text": "Variations of D/H ratio in the Solar System [99] The D/H ratios for Jupiter and Saturn is nearly in the order of 10 −5 , and the D/H ratios of Uranus and Neptune is closer to 10 −4 . [102] Hydrogen is the most abundant element in the universe. Variations in isotopic composition of extraterrestrial materials stem from planetary accretion or other planetary processes such as atmospheric escape, and are larger for H and N than for C and O. The preservation of D-enrichment is observed in chondritic meteorites , interplanetary dust particles and cometary Volatiles . From the helium isotope abundance data, the cosmic D/H value is estimated to be around 20 ppm which is much lower than the terrestrial D/H ratio of 150 ppm. The enrichment of D/H from the proto-solar reservoir occurs for most of the planets except for Jupiter and Saturn, the massive gaseous planets. The D/H ratios of the atmospheres of Venus and Mars are ~2 × 10 −2 and ~8 × 10 −4 respectively. The D/H ratios of Uranus and Neptune is larger than that of protosolar reservoir by a factor of ~3 due to their deuterium-rich icy cores. The D/H ratios for comets are much larger than the values for the planets in the Solar System with δD value of around 1000‰. [103] The Hydrogen isotope compositions in the galaxy and the Solar System are shown in the table.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/DH_Ratio_Galaxy.jpg/220px-DH_Ratio_Galaxy.jpg",
+                "caption": "[100]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Offline combustion and reduction",
+        "text": "The conversion to simple molecules (i.e. H 2 for hydrogen) is required prior to IRMS measurement for stable isotopes. This is due to several reasons with regard to hydrogen: The classical offline preparation for the conversion is combustion over CuO at > 800 °C in sealed quartz tubes, followed by the isolation of resulting water and the reduction to H 2 over hot metal at 400 ~1000 °C on a vacuum line. [105] The produced gas is then directly injected into the dual-inlet mass spectrometer for measurement. [104] The metals used for the reduction to H 2 includes U, Zn, Cr, Mg and Mn, etc. U and Zn had been widely used since the 1950s [25] [106] [107] [108] [109] [110] until Cr [111] was successfully employed in the late 1990s. The offline combustion/reduction has the highest accuracy and precision for hydrogen isotope measurement without limits for sample types. The analytical uncertainty is typically 1~2‰ in δD . Thus it is still being used today when highest levels of precision are required. However, the offline preparation procedure is very time-consuming and complicated. It also requires large sample size (several 100 mg). Thus the online preparation based on combustion/reduction coupled with the subsequent continuous flow-IRMS (CF-IRMS) system has been more commonly used nowadays. Chromium reduction or high temperature conversion are the dominant online preparation methods for the detection of hydrogen isotope by IRMS.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TC-EA.jpg/220px-TC-EA.jpg",
+                "caption": "Schematic diagram of TC/EA-IRMS and the principle of hydrogen isotope detection by TC/EA [112]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "High temperature conversion/elemental analyzer (TC/EA)",
+        "text": "TC/EA (or HTC, high temperature conversion; HTP, high temperature pyrolysis ; HTCR, high temperature carbon reduction) is an 'online' or 'continuous flow' preparation method typically followed by IRMS detection. This is a \"bulk\" technique that measures all of the hydrogen in a given sample and provides the average isotope signal. The weighed sample is placed in a tin or silver capsule and dropped into a pyrolysis tube of TC/EA. The tube is made of glassy carbon with glassy carbon filling in which way oxygen isotope can be measured simultaneously without the oxygen exchange with ceramic (Al 2 O 3 ) surface. [113] The molecules are then reduced into CO and H 2 at high temperature (> 1400°C) in the reactor. The gaseous products are separated through gas chromatography (GC) using helium as the carrier gas, followed by a split-flow interface, and finally detected by IRMS. TC/EA method can be problematic for organic compounds with halogen or nitrogen due to the competition between the pyrolysis byproducts (e.g. HCl and HCN) and H 2 formation. [114] [115] In addition, it is susceptible to contamination with water, so samples must be scrupulously dried. An adaption of this method is to determine the non-exchangeable (C-H) and exchangeable hydrogen (bounds to other elements, e.g. O, S and N) in organic matter. The samples are equilibrated with water in sealed autosampler carousels at 115 °C and then transferred into pyrolysis EA followed by IRMS measurement. [116] TC/EA method is quick with a relatively high precision (~ 1‰). It was limited to solid samples, however, liquid sample recently can also be measured in TC/EA-IRMS system by adapting an autosampler for liquids. The drawback of TC/EA is the relatively big sample size (~ mg), which is smaller than offline combustion/reduction but larger than GC/pyrolysis. It cannot separate different compounds as GC/pyrolysis does and thus only the average for the whole sample can be provided, which is also a drawback for some research.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/GC-pyrolysis.png/220px-GC-pyrolysis.png",
+                "caption": "Schematic diagram of GC/pyrolysis-IRMS"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Gas chromatography/pyrolysis (GC/pyrolysis)",
+        "text": "GC-interface (combustion or pyrolysis) is also an online preparation method followed by IRMS detection. This is a 'compound-specific' method, allowing separation of analytes prior to measurement and thus providing information about the isotopic composition of each individual compound. Following GC separation, samples are converted to smaller gaseous molecules for isotope measurements. GC/pyrolysis uses the pyrolysis interface between GC and IRMS for the conversion of H and O in the molecules into H 2 and CO. GC-IRMS was first introduced by Matthews and Hayes in the late 1970s, [117] and was later used for δ 13 C, δ 15 N, δ 18 O and δ 34 S. Helium is used as the carrier gas in the GC systems. However, the separation of DH (m/z=3) signal from the tail of 4 He + beam was problematic due to the intense signal of 4 He + . [118] During the early 1990s, intense efforts were made in solving the difficulties to measure δD by GC/pyrolysis-IRMS. In 1999, Hilkert et al. developed a robust method by integrating the high temperature conversion (TC) into GC-IRMS and adding a pre-cup electrostatic sector and a retardation lens in front of the m/z=3 cup collector. Several different groups were working on this at the same time. [118] [119] [120] [121] This GC/pyrolysis-IRMS based on TC has been widely used for δD measurement nowadays. The commercial products of GC-IRMS include both combustion and pyrolysis interfaces so that δ 13 C and δD can be measured simultaneously. The significant advantage of GC/pyrolysis method for hydrogen isotope measurement is that it can separate different compounds in the samples. It requires the smallest sample size (a typical size of ~200 ng [119] ) relative to other methods and also has a high precision of 1~5 ‰. But this method is relatively slow and limited to the samples which can be applied in GC system.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CRDS-siwen.jpg/220px-CRDS-siwen.jpg",
+                "caption": "Schematic diagram of cavity ring-down spectroscopy with three high-reflectivity mirrors (>99.995%). The laser is switched on and off rapidly and the light intensity is measured as it decays over time."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Isotope fractionation in the hydrological cycle",
+        "text": "Water is the primary source of hydrogen to all living organisms, so the isotopic composition of environmental water is a first-order control on that of the biosphere. The water cycle (hydrological cycle) moves water around different reservoirs on the surface of the earth, during which hydrogen isotopes in water are significantly fractionated. [142] As the main moisture source to the atmosphere, the ocean has a relatively uniform hydrogen isotope composition across the globe around 0‰ (VSMOW). [143] Variations of δD larger than 10‰ in the ocean are generally confined to surface waters due to evaporation, sea ice formation, and addition of meteoric waters by precipitation, rivers or icebergs. [142] In the water cycle, the two major processes that fractionate hydrogen isotopes from ocean water are evaporation and condensation. It should be pointed out that oxygen isotopic composition ( 18 O/ 16 O) of water is also an important tracer in the water cycle, and cannot be separated from hydrogen isotopes when we talk about isotope fractionation processes associated with water. During evaporation of water from the ocean to the atmosphere, both equilibrium and kinetic isotope effects occur to determine the hydrogen and oxygen isotopic composition of the resulting water vapor. At the water-air interface, a stagnant boundary layer is saturated with water vapor (100% relative humidity ), and the isotopic composition of water vapor in the boundary layer reflects an equilibrium fractionation with liquid water. The liquid-vapor equilibrium fractionations for hydrogen and oxygen isotopes are temperature-dependent: [144] 2 ε l − v = 52.612 − 76.248 × 1000 T ( K ) + 24.844 × 10 6 T ( K ) 2 {\\displaystyle ^{2}\\varepsilon _{l-v}=52.612-76.248\\times {1000 \\over T(K)}+24.844\\times {10^{6} \\over T(K)^{2}}} (‰) 18 ε l − v = − 2.0667 − 0.4156 × 1000 T ( K ) + 1.137 × 10 6 T ( K ) 2 {\\displaystyle ^{18}\\varepsilon _{l-v}=-2.0667-0.4156\\times {1000 \\over T(K)}+1.137\\times {10^{6} \\over T(K)^{2}}} (‰) The magnitude of the liquid-vapor equilibrium fractionation for hydrogen isotopes is about 8 times that of oxygen isotopes at Earth surface temperatures, which reflects the relative mass differences of the two isotope systems ( 2 H is 100% heavier than 1 H, 18 O is 12.5% heavier than 16 O). Above the boundary layer, there is a transition zone with relative humidity less than 100%, and there is a kinetic isotope fractionation associated with water vapor diffusion from the boundary layer to the transition zone, which is empirically related to the relative humidity (h): [145] 2 ε b l − v = 12.5 ( 1 − h ) {\\displaystyle ^{2}\\varepsilon _{bl-v}=12.5(1-h)} ‰ 18 ε b l − v = 14.2 ( 1 − h ) {\\displaystyle ^{18}\\varepsilon _{bl-v}=14.2(1-h)} ‰ The kinetic isotope effect associated with diffusion reflects the mass difference of the heavy-isotope substituted water molecules (H 2 H 16 O and H 2 18 O) relative to the normal isotopolog (H 2 16 O). After water evaporates to the atmosphere, it is transported and returned to the surface through condensation and precipitation. Condensation of water vapor occurs in ascending air masses that develop a lower temperature and saturation vapor pressure. Since the cooling and condensation happens at relatively slow rates, it is a process with equilibrium isotope effects. However, as water vapor is progressively condensed and lost from the air during moisture transport, the isotopic composition of the remaining vapor, as well as the resulting precipitation, can be largely depleted due to the process of Rayleigh distillation . The equation for Rayleigh distillation is: [146] R r / R 0 = f α − 1 {\\displaystyle R_{r}/R_{0}=f^{\\alpha -1}} In the equation, R 0 represents the isotope ratio in the initial water vapor, R r represents the isotope ratio in the remaining water vapor after some condensation, f is the fraction of water vapor remaining in the air, and α is the liquid-vapor equilibrium fractionation factor (α=1+ε). The isotopic composition of the resulting precipitation (R p ) can be derived from the composition of the remaining vapor: R p / R r = ( 1 + δ p ) / ( 1 + δ r ) = α = 1 + ε {\\displaystyle R_{p}/R_{r}=(1+\\delta _{p})/(1+\\delta _{r})=\\alpha =1+\\varepsilon } As f decreases progressively during condensation, the remaining vapor becomes more and more depleted of the heavy isotopes, and the magnitude of depletion becomes larger as f approaches zero. The Rayleigh distillation process can explain some first-order spatial patterns observed in the isotopic composition of precipitation across the globe, including isotopic depletion from the tropics to the poles, isotopic depletion from coastal to inland regions, and isotopic depletion with elevation over a mountain range, [1] all of which are associated with progressive moisture loss during transport. The Rayleigh distillation model can also be used to explain the strong correlation between δD and δ 18 O observed in global precipitation, expressed as the global meteoric water line (GMWL): δD = 8δ 18 O+10 [147] (later updated to δD = 8.17±0.07 δ 18 O+11.27±0.65 [41] ) The slope of the GMWL reflects the relative magnitude of hydrogen and oxygen isotope fractionation during condensation. The intercept of GMWL is non-zero (called deuterium-excess, or d-excess), which means ocean water does fall on GMWL. This is associated with the kinetic isotope effect during evaporation when water vapor diffuses from the saturated boundary layer to the unsaturated transition zone, and cannot be explained by the Rayleigh model. Nevertheless, the robust pattern in GMWL strongly suggests a single dominant moisture source to the global atmosphere, which is the tropical western Pacific. It should also be pointed out that a local meteoric water line can have a different slope and intercept from the GMWL, due to differences in humidity and evaporation intensity at different places. [145] Hydrogen and oxygen isotopes in water thus serve as an excellent tracer of the hydrological cycle both globally and locally.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/F3_hydrological_cycle.png/220px-F3_hydrological_cycle.png",
+                "caption": "Hydrogen isotope fractionation in the hydrological cycle (modified from hydrological cycle diagram). Isotope fractionations are calculated as difference between product and source water in each process, at typical temperature and humidity conditions."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/F1-1_Rayleigh.png/220px-F1-1_Rayleigh.png",
+                "caption": "The process of Rayleigh distillation in precipitation. As air temperature drops from the tropics to the poles, water vapor is progressively removed from the air mass by condensation, leaving the residual vapor depleted in heavy isotopes. The same process happens as air masses moves inland from oceans, or rises over a mountain range."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Ice core records",
+        "text": "The isotopic composition of ice cores from continental ice sheets and alpine glaciers have been developed as temperature proxies since the 1950s. Samuel Epstein was one of the first to demonstrate the applicability of this proxy by measuring oxygen isotopes in Antarctic snow, and also pointed out complications in the stable isotope-temperature correlation caused by the history of the air masses from which the snow formed. [160] Ice cores in Greenland and Antarctica can be thousands of meters thick and record snow isotopic composition of the past few glacial-interglacial cycles. Ice cores can be dated by layer counting on the top and ice flow modeling at depth, with additional age constraints from volcanic ash. [161] Cores from Greenland and Antarctica can be aligned in age at high-resolution by comparing globally well-mixed trace gas (e.g. CH 4 ) concentrations in the air bubbles trapped in the cores. [162] Some of the first ice core records from Greenland and Antarctica with age estimates go back to the last 10 5 years, and showed a depletion in δD and δ 18 O in the last ice age. [163] [164] The ice core record has since been extended to the last 800,000 years in Antarctica, [165] and at least 250,000 years in Greenland. [166] One of the best δD -based ice core temperature records is from the Vostok ice core in Antarctica, which goes back to 420,000 years. [159] The δD -temperature (of the inversion layer where snow forms) conversion in east Antarctica based on modern spatial gradient of δD (9‰/°C) is ΔT I =(ΔδD ice -8Δδ 18 O sw )/9, which takes into account variations in seawater isotopic composition caused by global ice volume changes. [159] Many local effects can influence ice δD in addition to temperature. These effects include moisture origin and transport pathways, evaporation conditions and precipitation seasonality, which can be accounted for in more complicated models. [167] Nevertheless, the Vostok ice core record shows some very important results: (1) A consistent δD depletion of ~70‰ during the last four glacial periods compared to interglacial times, corresponding to a cooling of 8 °C in Antarctica; (2) A consistent drop of atmospheric CO 2 concentration by 100 ppmv and CH 4 drop by ~300 ppbv during glacial times relative to interglacials, suggesting a role of greenhouse gases in regulating global climate; (3) Antarctic air temperature and greenhouse gas concentration changes precede global ice volume and Greenland air temperature changes during glacial terminations, and greenhouse gases may be an amplifier of insolation forcing during glacial-interglacial cycles. [159] Greenland ice core isotope records, in addition to showing glacial-interglacial cycles, also shows millennial-scale climate oscillations that may reflect reorganization in ocean circulation caused by ice melt charges. [166] [168] [169] [170] There have also been ice core records generated in alpine glacials on different continents. A record from the Andes Mountains in Peru shows a temperature decrease of 5-6°C in the tropics during the last ice age. [171] A record from the Tibetan plateau shows a similar isotope shift and cooling during the last ice age. [172] Other existing alpine glacial isotope records include Mount Kilimanjaro in Tanzania, Mount Altai and West Belukha Plateau in Russia, Mount Logan in Canada, the Fremont Glacier in Wyoming, USA, and the Illimani Ice Core in Bolivia, most of which cover an interval of the Holocene epoch. [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/VostokIsotopeGHG.png/220px-VostokIsotopeGHG.png",
+                "caption": "The Vostok ice core record of hydrogen isotopes, temperature and greenhouse gas concentrations in the last 420,000 years. Data obtained from Petit et al. (1999). [159]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Plant leaf waxes",
+        "text": "Terrestrial plants make leaf waxes to coat the surfaces of their leaves as an adaptation to minimize water loss. These waxes are largely straight-chain n -alkyl lipids. They are insoluble, non-volatile, chemically inert, and resistant to degradation, making them easily preserved in the sedimentary record, and therefore good targets as biomarkers . [181] The main water source for terrestrial plants is soil water, which largely resembles the hydrogen isotope composition of rain water, but varies between environments and with enrichment by precipitation , depletion by evaporation , and exchange with atmospheric water vapor. There can be a significant offset between the δD value of source water and the δD value of leaf water at the site of lipid biosynthesis. No fractionation is associated with water uptake by roots, a process usually driven by capillary tension, with the one exception of xerophytes that burn ATP to pump water in extremely arid environments (with a roughly 10‰ depletion). [182] However, leaf water can be substantially enriched relative to soil water due to transpiration , an evaporative process which is influenced by temperature, humidity, and the composition of surrounding water vapor. The leaf water hydrogen isotope composition can be described with a modified Craig-Gordon model, [183] where ΔD e is the steady state enrichment of leaf water, ε eq is the temperature-dependent equilibrium fractionation between liquid water and vapor, ε k is the kinetic isotope effect from diffusion between leaf internal air space and the atmosphere, ΔD v is the leaf/air disequilibrium, e a is atmospheric vapor pressure, and e i is internal leaf vapor pressure. The Péclet effect, which describes the opposing forces of advection and diffusion can be added to the model as where E is the transpiration rate, L is the length scale of transport, C is the concentration of water, and D is the diffusion coefficient. While the role of rain water δD as the fundamental control on the final δD of lipids is well documented, [184] the importance of fractionation effects from rain water to soil water and leaf water on ε l/w is appreciated but remains poorly understood. [173] [185] Organic biomolecules are generally depleted relative to the δD of leaf water. [173] However, differences between organisms, biosynthetic pathways, and biological roles of different molecules can lead to huge variability in fractionation; the diversity of lipid biomarkers spans a 600‰ range of δD values. [186] Lipid biosynthesis is biochemically complex, involving multiple enzyme-dependent steps that can lead to isotope fractionations. There are three major pathways of lipid biosynthesis, known as the mevalonate pathway , the acetogenic pathway , and the 1-deoxyD-xylulose-5-phosphate/2-methylerythroyl-4-phosphate pathway . [187] The acetogenic pathway is responsible for the production of n -alkyl lipids like leaf waxes, and is associated with a smaller δD depletion relative to source water than the other two lipid biosynthesis pathways. [32] [188] While leaf water is the main source of hydrogen in leaf biomolecules, relatively depleted hydrogen from acetate or NADPH is often added during biosynthesis, and contributes to the hydrogen composition of the final molecule. Secondary hydrogen exchange reactions, meaning hydrogenation and dehydrogenation reactions outside of the primary biosynthetic pathway, also contribute substantially to the variability of lipid hydrogen isotope composition [189] It is important to note that biological differences in fractionation stem not only from biochemical differences between different molecules, but also from physiological differences between different organisms. For example, the δD values of multiple leaf wax molecules are enriched in shrubs (median ~ -90‰) relative to trees (median ~ -135‰), which themselves are enriched relative to both C 3 (median ~ -160‰) and C 4 grasses (median ~ -140‰). [173] Between individual species, substantial variation of δD values have been documented. [190] [191] [192] [193] Other physiological factors that contribute to variable leaf wax δD values include the seasonal timing of leaf development, [194] response to external stress or environmental variability, [195] and the presence or absence of stomata [184] It can be difficult to distinguish between physiological factors and environmental factors, when many physiological adaptations are directly related to environment. Several environmental factors have been shown to contribute to leaf wax δD variability, in addition to environmental effects on the δD of source water. Humidity is known to impact lipid δD values at moderate humidity levels, but not at particularly high (>80%) or low (<40%) humidity levels, and a broad trend of enriched δD values, meaning smaller ε l/w , is seen in arid regions. [173] [175] [190] Temperature and sunlight intensity, both correlated to geographic latitude, have strong effects on the rates of metabolism and transpiration, and by extension on ε l/w . [196] Additionally, the average chain length of leaf wax molecules varies with geographic latitude, and ε l/w has been shown to increase with increasing chain length [184] When using biomarkers as a proxy for reconstructing ancient environments, it is important to be aware of the biases inherent in the sedimentary record. Leaf matter incorporated into sediment is largely deposited during the autumn, so seasonal variations in leaf waxes must be considered accordingly. [184] Furthermore, sediments average leaf waxes over lots of different plants in both space and time, making it difficult to calibrate the biological constraints on ε l/w . [173] Finally, preservation of biomolecules in the geologic record does not faithfully represent whole ecosystems, and there is always the threat of hydrogen exchange, particularly if the sediments are subjected to high temperatures. The hydrogen isotope composition of leaf waxes can be summarized as the δD of rain water, with three main fractionation steps- evaporation from soil water, transpiration from leaf water, and lipid biosynthesis, which can be combined and measured as the net fractionation, or ε l/w . [173] With the application of ever-improving measurement techniques for single molecules, and correlation with other independent proxies in the geological record that can help constrain some variables, investigating the hydrogen isotope composition of leaf waxes can be extremely productive. Leaf wax δD data has been successfully applied to improving our understanding of climate driven changes in terrestrial hydrology, by demonstrating that ocean circulation and surface temperature have a significant effect on continental precipitation. [197] [198] Leaf wax δD values have also been used as records of paleoaltimetry to reconstruct the elevation gradients in ancient mountain ranges based on the effect of altitude on rain water δD . [199] [200]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/LeafWax.jpg/293px-LeafWax.jpg",
+                "caption": "Photograph of a leaf, with sunlight reflecting off of the waxy surface."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/LeafWaxdD.tif/lossless-page1-530px-LeafWaxdD.tif.png",
+                "caption": "The hydrogen isotope relationships between rain water and leaf wax lipids. Adapted from Sachse et al., 2012. [173]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Alkenones",
+        "text": "Another group of molecules frequently used in paleoreconstructions are alkenones , long-chain largely unsaturated lipids produced exclusively by coccolithophores . Coccolithophores are marine haptophyte algae, and include the globally iconic species Emiliania huxleyi , one of the main CaCO 3 producers in the ocean. The δD values of alkenones are highly correlated to the δD values of sea water, and therefore can be used to reconstruct paleoenvironmental properties that constrain the isotopic composition of sea water. The most notable reconstruction that alkenone δD values are applied to is the salinity of ancient oceans. Both the δD values of sea water and the fractionations associated with hyptophyte biochemistry (ε bio ) are fairly well understood, so alkenones can be readily used to observe the secondary effect of salinity on δD . [201] There is a well established positive linear correlation between salinity and ε l/w , on the order of a ~3‰ change in fractionation per salinity unit. [202] Hypothesized mechanisms for this effect include enrichment of D in intracellular water due to reduced exchange with extracellular water at higher salinity, [203] removal of H from intracellular water due to increased production of solutes to maintain osmotic pressure at higher salinity, [204] and lower haptophyte growth rates at higher salinity [173] Alkenone δD values have been used successfully to reconstruct past salinity changes in the Mediterranean Sea., [205] Black Sea, [206] [207] Panama Basin, [208] and Mozambique Channel. [201] As an extension of salinity, this data was also used to draw further conclusions about ancient environments, such as ancient freshwater flooding events, [205] [206] and the evolution of plankton in response to environmental changes [207]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Emiliania_huxleyi_coccolithophore_%28PLoS%29.png/220px-Emiliania_huxleyi_coccolithophore_%28PLoS%29.png",
+                "caption": "Scanning electron micrograph of a single Emiliana huxleyi cell."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Natural gas",
+        "text": "Commonly, hydrogen isotope composition of natural gas from the same well has a trend of δD methane < δD ethane < δD propane < δD C4+ . This is because most natural gas is thought to generated by step-wise thermal cracking that is mostly irreversible and thus governed by normal kinetic isotope effects that favor light isotopes. The same trend, known as \"the normal order\", [229] holds for carbon isotopes of natural gas. For example, Angola gas is reported to have a methane δD range of −190‰ to −140‰, an ethane δD of −146‰ to −107‰, a propane δD of −116‰ to −90‰, and a butane δD of −118‰ to −85‰. [230] However, some recent studies show that opposite patterns could also exist, meaning δD methane > δD ethane > δD propane . This phenomenon is often called 'isotopic reversal' or 'isotopic rollover'. The isotopic order could also be partly reversed, like δD methane > δD ethane < δD propane or δD methane < δD ethane > δD propane . [229] Burruss et al. found that in the deepest samples of northern Appalachian basin the hydrogen isotopic order for methane and ethane is reversed. [231] Liu et al., also found partial reversal in oil-related gas from the Tarim Basin. [229] The mechanism causing this reversal is still unknown. Possible explanations include mixing between gases of different maturities and sources, oxidation of methane, etc. Jon Telling et al., synthesized isotopically reversed (in both C and H) low-molecular alkanes using gas-phase radical recombination reactions in electrical discharge experiments, providing another possible mechanism. [232] Methane is a major component of natural gas. Geosphere methane is intriguing for the large input of microbial methanogenesis . This process exhibits a strong isotope effect , resulting in greater D-depletion in methane relative to other hydrocarbons . δD ranges from −275‰ to −100‰ in thermogenic methane, and from −400‰ to −150‰ in microbial methane. [95] Also, methane formed by marine methanogens is generally enriched in D relative to methane from freshwater methanogens . δD of methane has been plotted together with other geochemical tools(like δ 13 C, gas wetness) to categorize and identify natural gas. A δD-δ 13 C diagram (sometimes called CD diagram, Whiticar diagram, or Schoell diagram) is widely used to place methane in one of the three distinct groups: thermogenic methane that is higher in both δ 13 C and δD ; marine microbial methane that is more depleted in 13 C and freshwater microbial methane that is more depleted in D. Hydrogenotrophic methanogenesis produces less D-depleted methane relative to acetoclastic methanogenesis. The location where the organism lives and substrate concentration also affect isotopic composition: rumen methanogenesis, which occurs in a more closed system and with higher partial pressures of hydrogen, exhibits a greater fractionation (−300 to −400‰) than wetland methanogenesis (−250 to −170‰). [233] [234] Recent advances in analytical chemistry have enabled high-precision measurements of multiply substituted (or 'clumped') isotopologues like 13 CH 3 D. This is a novel tool for studying methane formation. This proxy is based on the abundance of clumped isotopologues of methane, which should be enriched compared to the stochastic distribution at thermodynamic equilibrium because the reduced zero-point energy for heavy-heavy isotope bonding is more than twice the reduced zero-point energy of heavy-light isotope bonding. [235] The extent of enrichment decreases with increasing temperature, as higher entropy tends to randomize isotope distribution.  Stolper et al. established this temperature calibration using laboratory equilibrated methane and field methane from known formation temperature, and applied this to several gas reservoirs to study natural gas formation and mixing. [236] Wang et al. also reported strong non-equilibrium isotope effect in methane clumped isotopes from lab-cultured methanogens and field samples. [237] These methane samples have relatively low abundance of clumped isotopologues, sometimes even lower than the stochastic distribution. This indicates that there are irreversible steps in enzymatic reactions during methanogenesis [237] that fractionation against clumped isotopologues to create the depleted signal. Isotope clumping in methane has proven a robust proxy, and scientists are now moving towards higher-order alkane molecules like ethane for further work. [238]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/A_%CE%B4D-%CE%B413C_diagram.png/220px-A_%CE%B4D-%CE%B413C_diagram.png",
+                "caption": "This is the δD-δ13C diagram that is well known for categorizing and identifying methane isotopes based on carbon isotopes and hydrogen isotopes. Redrawn from Whiticar, 1999"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_isotope_biogeochemistry",
+        "title": "Hydrogen isotope biogeochemistry",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Ocean circulation",
+        "text": "One topic that environmental isotopes are used to study is the circulation of the ocean. Treating the ocean as a box is only useful in some studies; in depth consideration of the oceans in general circulation models (GCMs) requires knowing how the ocean circulates. This leads to an understanding of how the oceans (along with the atmosphere) transfer heat from the tropics to the poles. This also helps deconvolve circulation effects from other phenomena that affect certain tracers such as radioactive and biological processes. Using rudimentary observation techniques, the circulation of the surface ocean can be determined. In the Atlantic basin, surface waters flow from the south towards the north in general, while also creating gyres in the northern and southern Atlantic. In the Pacific Ocean , the gyres still form, but there is comparatively very little large scale meridional (North-South) movement. For deep waters, there are two areas where density causes waters to sink into the deep ocean. These are in the North Atlantic and the Antarctic. The deep water masses formed are North Atlantic Deep Water (NADW) and Antarctic Bottom Water (AABW). Deep waters are mixtures of these two waters, and understanding how waters are composed of these two water masses can tell us about how water masses move around in the deep ocean. This can be investigated with environmental isotopes, including 14 C. 14 C is predominantly produced in the upper atmosphere and from nuclear testing, with no major sources or sinks in the ocean. This 14 C from the atmosphere becomes oxidized into 14 CO 2 , allowing it to enter the surface ocean through gas transfer. This is transferred into the deep ocean through NADW and AABW. In NADW, the 𝛿 14 C is approximately -60‰, and in AABW, the 𝛿 14 C is approximately -160‰. Thus, using conservative mixing of radiocarbon, the expected amount of radiocarbon in various locations can be determined using the percent compositions of NADW and AABW at that location. This can be determined using other tracers, such as phosphate star or salinity. [4] Deviations from this expected value are indicative of other processes that affect the delta ratio of radiocarbon, namely radioactive decay. This deviation can be converted to a time, giving the age of the water at that location. Doing this over the world's ocean can yield a circulation pattern of the ocean and the rate at which water flow through the deep ocean. Using this circulation in conjunction with the surface circulation allows scientists to understand the energy balance of the world. Warmer surface waters flow northward while colder deep waters flow southward, leading to net heat transfer towards the pole.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Thermohaline_Circulation_2.png/220px-Thermohaline_Circulation_2.png",
+                "caption": "A summary of the path of the thermohaline circulation. Blue paths represent deep-water currents, while red paths represent surface currents."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_isotopes",
+        "title": "Environmental isotopes",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "δ18O",
+        "text": "One useful isotope for reconstructing past climates is oxygen-18 . It is another stable isotope of oxygen along with oxygen-16 , and its incorporation into water and carbon dioxide / carbonate molecules is strongly temperature dependent. Higher temperature implies more incorporation of oxygen-18, and vice versa. Thus, the ratio of 18 O/ 16 O can tell something about temperature. For water, the isotope ratio standard is Vienna Standard Mean Ocean Water , and for carbonates, the standard is Pee Dee Belemnite. Using ice cores and sediment cores that record information about the water and shells from past times, this ratio can tell scientists about the temperature of those times. This ratio is used with ice cores to determine the temperature at the spot in the ice core. Depth in an ice core is proportional to time, and it is \"wiggle-matched\" with other records to determine the true time of the ice at that depth. This can be done by comparing δ 18 O in calcium carbonate shells in sediment cores to these records to match large scale changes in the temperature of the Earth. Once the ice cores are matched to sediment cores, highly accurate dating methods such as U-series dating can be used to accurately determine the time of these events. There are some processes that mix water from different times into the same depth in the ice core, such as firn production and sloped landscape floes. Lisiecki and Raymo (2005) used measurements of δ 18 O in benthic foraminifera from 57 globally distributed deep sea sediment cores, taken as a proxy for the total global mass of glacial ice sheets, to reconstruct the climate for the past five million years. [5] This record shows oscillations of 2-10 degrees Celsius over this time. Between 5 million and 1.2 million years ago, these oscillations had a period of 41,000 years (41 kyr), but about 1.2 million years ago the period switch to 100 kyr. These changes in global temperature match with changes in orbital parameters of the Earth's orbit around the Sun. These are called Milankovitch cycles , and these are related to eccentricity , obliquity ( axial tilt ), and precession of Earth around its axis. These correspond to cycles with periods of 100 kyr, 40 kyr, and 20 kyr. δ 18 O can also be used to investigate smaller scale climate phenomena. Koutavas et al. (2006) used δ 18 O of G. ruber foraminifera to study the El Niño–Southern Oscillation (ENSO) and it's variability through the mid- Holocene . [6] By isolating individual foram shells, Koutavas et al. were able to obtain a spread of δ 18 O values at a specific depth. Because these forams live for approximately a month and that the individual forams were from many different months, clumped together in a small depth range in the coral, the variability of δ 18 O was able to be determined. In the eastern Pacific, where these cores were taken, the primary driver of this variability is ENSO, making this a record of ENSO variability over the core's time span. Koutavas et al. found that ENSO was much less variable in the mid Holocene (~6,000 years ago) than it is currently.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Five_Myr_Climate_Change.svg/661px-Five_Myr_Climate_Change.svg.png",
+                "caption": "Climate record as reconstructed by Lisiecki and Raymo (2005) showing oscillations in the Earth's temperature over time. These oscillations have a 41 kyr cycle until about 1.2 million years ago, switching to a 100 kyr cycle that we see now."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_isotopes",
+        "title": "Environmental isotopes",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    },
+    {
+        "section": "Strontium isotopes",
+        "text": "Another set of environmental isotopes used in paleoclimate is strontium isotopes. Strontium-86 and strontium-87 are both stable isotopes of strontium, but strontium-87 is radiogenic, coming from the decay of rubidium-87. The ratio of these two isotopes depends on the concentration of rubidium-87 initially and the age of the sample, assuming that the background concentration of strontium-87 is known. This is useful because 87 Rb is predominantly found in continental rocks. Particles from these rocks come into the ocean through weathering by rivers, meaning that this strontium isotope ratio is related to the weathering ion flux coming from rivers into the ocean. The background concentration in the ocean for 87 Sr/ 86 Sr is 0.709 ± 0.0012. [7] Because the strontium ratio is recorded in sedimentary records, the oscillations of this ratio over time can be studied. These oscillations are related to the riverine input into the oceans or into the local basin. Richter and Turekian have done work on this, finding that over glacial-interglacial timescales (10 5 years), the 87 Sr/ 86 Sr ratio varies by 3*10 −5 . [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Radioaktivezerfallsreihen-Diagramm.svg/491px-Radioaktivezerfallsreihen-Diagramm.svg.png",
+                "caption": "Decay series of Actinides, including Uranium, Protactinium, Thorium, and Lead"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_isotopes",
+        "title": "Environmental isotopes",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Geochemical Tracers"
+    }
+]

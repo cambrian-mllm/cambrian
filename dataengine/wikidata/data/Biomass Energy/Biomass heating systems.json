@@ -1,0 +1,606 @@
+[
+    {
+        "section": "Types",
+        "text": "There are four main types of heating systems that use biomass to heat a boiler. The types of biomass heating are fully automated, semi-automated, pellet-fired, and combined heat and power.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Biomasseheizwerk_Spillern_Nordansicht.jpg/220px-Biomasseheizwerk_Spillern_Nordansicht.jpg",
+                "caption": "Biomass heating plant in Austria; the heat power is about 1000 kW"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dornbirn-Montfortstra%C3%9Fe-KOeB_Hackschnitzelheizung-140_kW-01ASD.jpg/220px-Dornbirn-Montfortstra%C3%9Fe-KOeB_Hackschnitzelheizung-140_kW-01ASD.jpg",
+                "caption": "Fully automatic 140 kW wood chip heating system in Austria. 35 years old."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biomass_heating_system",
+        "title": "Biomass heating system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Scale",
+        "text": "The oil price increases since 2003 and consequent price increases for natural gas and coal have increased the value of biomass for heat generation. Forest renderings, agricultural waste, and crops grown specifically for energy production become competitive as the prices of energy dense fossil fuels rise.  Efforts to develop this potential may have the effect of regenerating mismanaged croplands and be a cog in the wheel of a decentralized, multi-dimensional renewable energy industry .  Efforts to promote and advance these methods became common throughout the European Union through the 2000s. In other areas of the world, inefficient and polluting means to generate heat from biomass coupled with poor forest practices have significantly added to environmental degradation .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Olarizu_-_Casa_de_la_Dehesa_-_Central_de_biomasa_01.jpg/220px-Olarizu_-_Casa_de_la_Dehesa_-_Central_de_biomasa_01.jpg",
+                "caption": "Biomass heating system for one building complex in the Spanish Basque Country"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biomass_heating_system",
+        "title": "Biomass heating system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Solar heat",
+        "text": "Use of solar heat for district heating has been increasing in Denmark and Germany [40] in recent years. [41] The systems usually include inter seasonal thermal energy storage for a consistent heat output day to day and between summer and winter. Good examples are in Vojens [42] at 50 MW, Dronninglund at 27 MW and Marstal at 13 MW in Denmark. [43] [44] These systems have been incrementally expanded to supply 10% to 40% of their villages' annual space heating needs. The solar-thermal panels are ground-mounted in fields. [45] The heat storage is pit storage, borehole cluster and the traditional water tank. In Alberta, Canada the Drake Landing Solar Community has achieved a world record 97% annual solar fraction for heating needs, using solar-thermal panels on the garage roofs and thermal storage in a borehole cluster. [46] [47]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Marstal.powerplant.1.jpg/220px-Marstal.powerplant.1.jpg",
+                "caption": "Central solar heating plant at Marstal , Denmark. It covers more than half of Marstal's heat consumption. [39]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/District_heating",
+        "title": "District heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Heat accumulators and storage",
+        "text": "Increasingly large heat stores are being used with district heating networks to maximise efficiency and financial returns. This allows cogeneration units to be run at times of maximum electrical tariff, the electrical production having much higher rates of return than heat production, whilst storing the excess heat production. It also allows solar heat to be collected in summer and redistributed off season in very large but relatively low-cost in-ground insulated reservoirs or borehole systems. The expected heat loss at the 203,000m³ insulated pond in Vojens is about 8%. [42] With European countries such as Germany and Denmark moving to very high levels (80% and 100% respectively by 2050) of renewable energy for all energy uses there will be increasing periods of excess production of renewable electrical energy. Heat pumps can take advantage of this surplus of cheap electricity to store heat for later use. [52] Such coupling of the electricity sector with the heating sector ( Power-to-X ) is regarded as a key factor for energy systems with high shares of renewable energy. [53]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fernw%C3%A4rmespeicher_Theiss.jpg/220px-Fernw%C3%A4rmespeicher_Theiss.jpg",
+                "caption": "District heating accumulation tower from Theiss near Krems an der Donau in Lower Austria with a thermal capacity of 2 gigawatt-hours (7.2 TJ)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/District_heating",
+        "title": "District heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Heat distribution",
+        "text": "After generation, the heat is distributed to the customer via a network of insulated pipes. District heating systems consist of feed and return lines. Usually the pipes are installed underground but there are also systems with overground pipes. \nThe DH system's start-up and shut downs, as well as fluctuations on heat demand and ambient temperature, induce thermal and mechanical cycling on the pipes due to the thermal expansion. The axial expansion of the pipes is partially counteracted by frictional forces acting between the ground and the casing, with the shear stresses transferred through the PU foam bond. Therefore, the use of pre- insulated pipes has simplyfied the laying methods, employing cold laying instead of expansion facilities like compensators or U-bends, being so more cost effective. [54] Pre-insulated pipes sandwich assembly composed of a steel heat service pipe, an insulating layer ( polyurethane foam) and a polyethylene (PE) casing, which are bonded by the insulating material. [55] While polyurethane has outstanding mechanical and thermal properties, the high toxicity of the diisocyanates required for its manufacturing has caused a restriction on their use. [56] This has triggered research on alternative insulating foam fitting the application, [57] which include polyethylene terephthalate (PET) [58] and polybutylene (PB-1). [59] Within the system heat storage units may be installed to even out peak load demands. The common medium used for heat distribution is water or superheated water , but steam is also used. The advantage of steam is that in addition to heating purposes it can be used in industrial processes due to its higher temperature. The disadvantage of steam is a higher heat loss due to the high temperature. Also, the thermal efficiency of cogeneration plants is significantly lower if the cooling medium is high-temperature steam, reducing electric power generation. Heat transfer oils are generally not used for district heating, although they have higher heat capacities than water, as they are expensive and have environmental issues. At customer level the heat network is usually connected to the central heating system of the dwellings via heat exchangers (heat substations): the working fluids of both networks (generally water or steam) do not mix. However, direct connection is used in the Odense system. Typical annual loss of thermal energy through distribution is around 10%, as seen in Norway's district heating network. [60]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Heatpipe_tunnel_copenhagen_2009.jpg/220px-Heatpipe_tunnel_copenhagen_2009.jpg",
+                "caption": "Tunnel for heat pipes between Rigshospitalet and Amagerværket [ da ] in Denmark"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pre-installation_insulated_underground_pipes_for_district_heating.jpg/220px-Pre-installation_insulated_underground_pipes_for_district_heating.jpg",
+                "caption": "Insulated pipes to connect a new building to University of Warwick 's campus-wide combined heat and power system"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2005-08-30-district-heating-pipeline.jpg/170px-2005-08-30-district-heating-pipeline.jpg",
+                "caption": "District heating pipe in Tübingen , Germany"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Waerme_Schulung_CRC_Wn_040.jpg/170px-Waerme_Schulung_CRC_Wn_040.jpg",
+                "caption": "District heating substation with a thermal power of 700 kW which insulates the water circuit of the district heating system and the customer's central heating system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/District_heating",
+        "title": "District heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Austria",
+        "text": "The largest district heating system in Austria is in Vienna (Fernwärme Wien) – with many smaller systems distributed over the whole country. District heating in Vienna is run by Wien Energie. In the business year of 2004/2005 a total of 5,163 GWh was sold, 1,602 GWh to 251,224 private apartments and houses and 3,561 GWh to 5211 major customers. The three large municipal waste incinerators provide 22% of the total in producing 116 GWh electric power and 1,220 GWh heat. Waste heat from municipal power plants and large industrial plants account for 72% of the total. The remaining 6% is produced by peak heating boilers from fossil fuel. A biomass-fired power plant has produced heat since 2006. In the rest of Austria the newer district heating plants are constructed as biomass plants or as CHP-biomass plants like the biomass district heating of Mödling or the biomass district heating of Baden . Most of the older fossil-fired district heating systems have a district heating accumulator , so that it is possible to produce the thermal district heating power only at that time where the electric power price is high.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Biomassekraftwerk_mit_Lager.jpg/220px-Biomassekraftwerk_mit_Lager.jpg",
+                "caption": "The District Heating Power Plant Steyr is a renewable combined heat and power plant in which wood chips are used to generate power. [73]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/District_heating",
+        "title": "District heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Greece",
+        "text": "Greece has district heating mainly in the province of Western Macedonia , Central Macedonia and the Peloponnese Province . The largest system is the city of Ptolemaida , where there are five power plants (thermal power stations or TPS in particular) providing heat to the majority of the largest towns and cities of the area and some villages. The first small installation took place in Ptolemaida in 1960, offering heating to Proastio village of Eordaea using the TPS of Ptolemaida. Today District heating installations are also available in Kozani , Ptolemaida, Amyntaio , Philotas , Serres and Megalopolis using nearby power plants. In Serres the power plant is a Hi-Efficiency CHP Plant using natural gas, while coal is the primary fuel for all other district heating networks.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Borehole.jpg/170px-Borehole.jpg",
+                "caption": "Geothermal borehole outside the Reykjavik Power Station."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/District_heating",
+        "title": "District heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Italy",
+        "text": "In Italy, district heating is used in some cities ( Bergamo , Brescia , Cremona , Bolzano , Verona , Ferrara , Imola , Modena , [102] Reggio Emilia , Terlan , Turin , Parma , Lodi , and now Milan ). The district heating of Turin is the biggest of the country and it supplies 550.000 people (62% of the whole city population).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Power_plant_at_sunset.jpg/220px-Power_plant_at_sunset.jpg",
+                "caption": "A cogeneration thermal power plant in Ferrera Erbognone ( PV ), Italy"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/District_heating",
+        "title": "District heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "United Kingdom",
+        "text": "In the United Kingdom, district heating became popular after World War II, but on a restricted scale, to heat the large residential estates that replaced dwellings destroyed by the Blitz . In 2013 there were 1,765 district heating schemes, with 920 based in London alone. [123] In total around 210,000 homes and 1,700 businesses are supplied by heat networks in the UK. [124] The Pimlico District Heating Undertaking (PDHU) in London first became operational in 1950 and continues to expand to this day. The PDHU once relied on waste heat from the now-disused Battersea Power Station on the south side of the River Thames . It is still in operation; the water is now heated locally by a new energy centre which incorporates 3.1 MWe / 4.0 MWth of gas fired CHP engines and 3 × 8 MW gas-fired boilers. One of the United Kingdom's largest district heating schemes is EnviroEnergy in Nottingham . The plant, initially built by Boots , is now used to heat 4,600 homes, and a wide variety of business premises, including the Concert Hall , the Nottingham Arena , the Victoria Baths, the Broadmarsh Shopping Centre , the Victoria Centre , and others. The heat source is a waste-to-energy incinerator. Sheffield 's district heating network was established in 1988 and is still expanding today. It saves an equivalent 21,000 plus tonnes of CO 2 each year when compared to conventional sources of energy – electricity from the national grid and heat generated by individual boilers. There are currently over 140 buildings connected to the district heating network. These include city landmarks such as the Sheffield City Hall , the Lyceum Theatre , the University of Sheffield , Sheffield Hallam University , hospitals, shops, offices and leisure facilities plus 2,800 homes. More than 44 km of underground pipes deliver energy which is generated at Sheffield Energy Recovery Facility . This converts 225,000 tonnes of waste into energy, producing up to 60 MWe of thermal energy and up to 19 MWe of electrical energy. The Southampton District Energy Scheme was originally built to use just geothermal energy, but now also uses the heat from a gas-fired CHP generator. It supplies heating and district cooling to many large premises in the city, including the Westquay shopping centre, the De Vere Grand Harbour hotel, the Royal South Hants Hospital , and several housing schemes. In the 1980s Southampton began to use combined heat and power district heating, taking advantage of geothermal heat \"trapped\" in the area. The geothermal heat provided by the well works in conjunction with the Combined Heat and Power scheme. Geothermal energy provides 15–20%, fuel oil 10%, and natural gas 70% of the total heat input for this scheme and the combined heat and power generators use conventional fuels to make electricity. \"Waste heat\" from this process is recovered for distribution through the 11 km mains network. [8] [125] Scotland has several district heating systems. The first in the UK was installed at Aviemore , and others followed at Lochgilphead , Fort William and Forfar. Lerwick District Heating Scheme in Shetland is of note because it is one of the few schemes where a completely new system was added to a previously existing small town. ADE has an online map of district heating installations in the UK. [126] ADE estimates that 54 percent of energy used to produce electricity is being wasted via conventional power production, which relates to £9.5 billion ($US12.5 billion) per year. [127]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pimlico_accumulator_tower_1.jpg/220px-Pimlico_accumulator_tower_1.jpg",
+                "caption": "District heating accumulator tower and workshops on the Churchill Gardens Estate, Pimlico , London. This plant once used waste heat piped from Battersea Power Station on the other side of the River Thames . (January 2006)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/District_heating",
+        "title": "District heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "United States",
+        "text": "As of 2013, approximately 2,500 district heating and cooling systems existed in the United States, in one form or another, with the majority providing heat. [136] Historically, district heating was primarily used in urban areas of the US, but by 1985, it was mainly used in institutions. [154] A handful of smaller municipalities in New England maintained municipal steam into the 21st century, in cities like Holyoke, Massachusetts and Concord, New Hampshire , however the former would end service in 2010 and the latter in 2017, attributing aging infrastructure and capital expenses to their closures. [155] [156] [157] In 2019, Concord replaced a number of remaining pipes with more efficient ones for a smaller steam system heating only the State House and State Library , mainly due to historic preservation reasons rather than a broader energy plan. [158] District heating is also used on many college campuses, often in combination with district cooling and electricity generation. Colleges using district heating include the University of Texas at Austin ; Rice University ; [159] Brigham Young University ; [160] Georgetown University ; [161] Cornell University , [162] which also employs deep water source cooling using the waters of nearby Cayuga Lake ; [163] Purdue University ; [164] University of Massachusetts Amherst ; [165] University of Maine at Farmington ; [166] University of Notre Dame ; Michigan State University ; Eastern Michigan University ; [167] Case Western Reserve University ; Iowa State University ; University of Delaware ; [168] University of Maryland, College Park [ citation needed ] , University of Wisconsin–Madison , [169] University of Georgia , [170] University of Cincinnati , [171] North Carolina State University , [172] University of North Carolina Chapel Hill, Duke University, and several campuses of the University of California . [173] MIT installed a cogeneration system in 1995 that provides electricity, heating and cooling to 80% of its campus buildings. [174] The University of New Hampshire has a cogeneration plant run on methane from an adjacent landfill, providing the university with 100% of its heat and power needs without burning oil or natural gas. [175] North Dakota State University (NDSU) in Fargo, North Dakota has used district heating for over a century from their coal-fired heating plant. [176]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/BGSU_Heating_Plant_Interior.jpg/220px-BGSU_Heating_Plant_Interior.jpg",
+                "caption": "The interior of the BGSU Heating Plant"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/District_heating",
+        "title": "District heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Overview",
+        "text": "Many process industries, such as chemical plants , oil refineries and pulp and paper mills , require large amounts of process heat for such operations as chemical reactors , distillation columns, steam driers and other uses. This heat, which is usually used in the form of steam, can be generated at the typically low pressures used in heating, or can be generated at much higher pressure and passed through a turbine first to generate electricity. In the turbine the steam pressure and temperature is lowered as the internal energy of the steam is converted to work. The lower-pressure steam leaving the turbine can then be used for process heat. Steam turbines at thermal power stations are normally designed to be fed high-pressure steam, which exits the turbine at a condenser operating a few degrees above ambient temperature and at a few millimeters of mercury absolute pressure. (This is called a condensing turbine.) For all practical purposes this steam has negligible useful energy before it is condensed. Steam turbines for cogeneration are designed for extraction of some steam at lower pressures after it has passed through a number of turbine stages, with the un-extracted steam going on through the turbine to a condenser. In this case, the extracted steam causes a mechanical power loss in the downstream stages of the turbine. Or they are designed, with or without extraction, for final exhaust at back pressure (non-condensing). [4] [5] The extracted or exhaust steam is used for process heating. Steam at ordinary process heating conditions still has a considerable amount of enthalpy that could be used for power generation, so cogeneration has an opportunity cost . A typical power generation turbine in a paper mill may have extraction pressures of 160 psig (1.103 MPa) and 60 psig (0.41 MPa). A typical back pressure may be 60 psig (0.41 MPa). In practice these pressures are custom designed for each facility. Conversely, simply generating process steam for industrial purposes instead of high enough pressure to generate power at the top end also has an opportunity cost (See: Steam supply and exhaust conditions ). The capital and operating cost of high-pressure boilers, turbines, and generators is substantial. This equipment is normally operated continuously , which usually limits self-generated power to large-scale operations. A combined cycle (in which several thermodynamic cycles produce electricity), may also be used to extract heat using a heating system as condenser of the power plant's bottoming cycle . For example, the RU-25 MHD generator in Moscow heated a boiler for a conventional steam powerplant, whose condensate was then used for space heat. A more modern system might use a gas turbine powered by natural gas , whose exhaust powers a steam plant, whose condensate provides heat. Cogeneration plants based on a combined cycle power unit can have thermal efficiencies above 80%. The viability of CHP (sometimes termed utilisation factor), especially in smaller CHP installations, depends on a good baseload of operation, both in terms of an on-site (or near site) electrical demand and heat demand. In practice, an exact match between the heat and electricity needs rarely exists. A CHP plant can either meet the need for heat ( heat driven operation ) or be run as a power plant with some use of its waste heat, the latter being less advantageous in terms of its utilisation factor and thus its overall efficiency. The viability can be greatly increased where opportunities for trigeneration exist. In such cases, the heat from the CHP plant is also used as a primary energy source to deliver cooling by means of an absorption chiller . CHP is most efficient when heat can be used on-site or very close to it. Overall efficiency is reduced when the heat must be transported over longer distances. This requires heavily insulated pipes, which are expensive and inefficient; whereas electricity can be transmitted along a comparatively simple wire, and over much longer distances for the same energy loss. A car engine becomes a CHP plant in winter when the reject heat is useful for warming the interior of the vehicle. The example illustrates the point that deployment of CHP depends on heat uses in the vicinity of the heat engine. Thermally enhanced oil recovery (TEOR) plants often produce a substantial amount of excess electricity. After generating electricity, these plants pump leftover steam into heavy oil wells so that the oil will flow more easily, increasing production. Cogeneration plants are commonly found in district heating systems of cities, central heating systems of larger buildings (e.g. hospitals, hotels, prisons) and are commonly used in the industry in thermal production processes for process water, cooling, steam production or CO 2 fertilization. Trigeneration or combined cooling, heat and power ( CCHP ) refers to the simultaneous generation of electricity and useful heating and cooling from the combustion of a fuel or a solar heat collector. The terms cogeneration and trigeneration can also be applied to the power systems simultaneously generating electricity, heat, and industrial chemicals (e.g., syngas ). Trigeneration differs from cogeneration in that the waste heat is used for both heating and cooling, typically in an absorption refrigerator. Combined cooling, heat, and power systems can attain higher overall efficiencies than cogeneration or traditional power plants. In the United States, the application of trigeneration in buildings is called building cooling, heating, and power. Heating and cooling output may operate concurrently or alternately depending on need and system construction.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Masned%C3%B8_power_station.jpg/300px-Masned%C3%B8_power_station.jpg",
+                "caption": "Masnedø CHP power station in Denmark . This station burns straw as fuel. The adjacent greenhouses are heated by district heating from the plant."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Metz_biomass_power_station.jpg/220px-Metz_biomass_power_station.jpg",
+                "caption": "A cogeneration plant in Metz , France . The 45 MW boiler uses waste wood biomass as an energy source, providing electricity and heat for 30,000 dwellings ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rostock_Power_Station%2C_SW_view.jpg/220px-Rostock_Power_Station%2C_SW_view.jpg",
+                "caption": "Rostock Power Station , a bituminous coal-fired combined heat and power plant in Germany"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Cogeneration",
+        "title": "Cogeneration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Types of plants",
+        "text": "Topping cycle plants primarily produce electricity from a steam turbine. Partly expanded steam is then condensed in a heating condensor at a temperature level that is suitable e.g. district heating or water desalination . Bottoming cycle plants produce high temperature heat for industrial processes, then a waste heat recovery boiler feeds an electrical plant. Bottoming cycle plants are only used in industrial processes that require very high temperatures such as furnaces for glass and metal manufacturing, so they are less common. Large cogeneration systems provide heating water and power for an industrial site or an entire town. Common CHP plant types are: Smaller cogeneration units may use a reciprocating engine or Stirling engine . The heat is removed from the exhaust and radiator. The systems are popular in small sizes because small gas and diesel engines are less expensive than small gas- or oil-fired steam-electric plants. Some cogeneration plants are fired by biomass , [11] or industrial and municipal solid waste (see incineration ). Some CHP plants use waste gas as the fuel for electricity and heat generation. Waste gases can be gas from animal waste , landfill gas , gas from coal mines , sewage gas , and combustible industrial waste gas. [12] Some cogeneration plants combine gas and solar photovoltaic generation to further improve technical and environmental performance. [13] Such hybrid systems can be scaled down to the building level [14] and even individual homes. [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hanasaari_B.jpg/220px-Hanasaari_B.jpg",
+                "caption": "Hanasaari Power Plant , a coal-fired cogeneration power plant in Helsinki , Finland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Cogeneration",
+        "title": "Cogeneration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Trigeneration",
+        "text": "A plant producing electricity, heat and cold is called a trigeneration [28] or polygeneration plant. Cogeneration systems linked to absorption chillers or adsorption chillers use waste heat for refrigeration . [29]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Trigeneration_Cycle.jpg/300px-Trigeneration_Cycle.jpg",
+                "caption": "Trigeneration cycle"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Cogeneration",
+        "title": "Cogeneration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Production",
+        "text": "Pellets are produced by compressing the wood material which has first passed through a hammer mill to provide a uniform dough-like mass. [14] This mass is fed to a press, where it is squeezed through a die having holes of the size required (normally 6 mm diameter, sometimes 8 mm or larger). The high pressure of the press causes the temperature of the wood to increase greatly, and the lignin plasticizes slightly, forming a natural \"glue\" that holds the pellet together as it cools. [9] Pellets can be made from grass and other non-woody forms of biomass that do not contain lignin. A 2005 news story from Cornell University News suggested that grass pellet production was more advanced in Europe than North America. It suggested the benefits of grass as a feedstock included its short growing time (70 days), and ease of cultivation and processing. The story quoted Jerry Cherney, an agriculture professor at the school, stating that grasses produce 96% of the heat of wood and that \"any mixture of grasses can be used, cut in mid- to late summer, left in the field to leach out minerals, then baled and pelleted. Drying of the hay is not required for pelleting, making the cost of processing less than with wood pelleting.\" [15] In 2012, the Department of Agriculture of Nova Scotia announced as a demonstration project conversion of an oil-fired boiler to grass pellets at a research facility. [16] Rice-husk fuel-pellets are made by compacting rice-husk obtained as by-product of rice -growing from the fields. It also has similar characteristics to the wood-pellets and more environment-friendly , as the raw material is a waste-product . The energy content is about 4-4.2 kcal/kg and moisture content is typically less than 10%. The size of pellets is generally kept to be about 6 mm diameter and 25 mm length in the form of a cylinder; though larger cylinder or briquette forms are not uncommon. It is much cheaper than similar energy-pellets and can be compacted/manufactured from the husk at the farm itself, using cheap machinery. They generally are more environment-friendly as compared to wood-pellets. [17] [18] [19] [20] [21] [22] [23] In the regions of the world where wheat is the predominant food-crop, wheat husk can also be compacted to produce energy-pellets, with characteristics similar to rice-husk pellets. A report by CORRIM (Consortium On Research on Renewable Industrial Material) for the Life-Cycle Inventory of Wood Pellet Manufacturing and Utilization estimates the energy required to dry, pelletize and transport pellets is less than 11% of the energy content of the pellets if using pre-dried industrial wood waste. If the pellets are made directly from forest material, it takes up to 18% of the energy to dry the wood and additional 8% for transportation and manufacturing energy. An environmental impact assessment of exported wood pellets by the Department of Chemical and Mineral Engineering, University of Bologna , Italy and the Clean Energy Research Centre, at the University of British Columbia , published in 2009, concluded that the energy consumed to ship Canadian wood pellets from Vancouver to Stockholm (15,500 km via the Panama Canal ), is about 14% of the total energy content of the wood pellets. [24] [25]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/8._Station_-_Holzpelletproduktion_der_WestPellets_GmbH_and_Co._KG_%286219816410%29.jpg/220px-8._Station_-_Holzpelletproduktion_der_WestPellets_GmbH_and_Co._KG_%286219816410%29.jpg",
+                "caption": "Pellet truck being filled at a plant in Germany."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pellet_fuel",
+        "title": "Pellet fuel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Energy output and efficiency",
+        "text": "The energy content of wood pellets is approximately 4.7 – 5.2 MWh / tonne [43] [44] (~7450 BTU/lb), 14.4-20.3 MJ/kg. [45] [ None of these three sets of values come even close to agreeing. ] High-efficiency wood pellet stoves and boilers have been developed in recent years, typically offering combustion efficiencies of over 85%. [46] The newest generation of wood pellet boilers can work in condensing mode and therefore achieve 12% higher efficiency values. [47] Wood pellet boilers have limited control over the rate and presence of combustion compared to liquid or gaseous-fired systems; however, for this reason they are better suited for hydronic heating systems due to the hydronic system's greater ability to store heat. [ citation needed ] Pellet burners capable of being retrofitted to oil-burning boilers are also available. [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wood-pellet_heater.jpg/220px-Wood-pellet_heater.jpg",
+                "caption": "Wood-pellet heater"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pellet_fuel",
+        "title": "Pellet fuel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Role in addressing climate change",
+        "text": "As part of the global effort to limit climate change , most countries have committed to net zero greenhouse gas emissions . [26] In practice, this means phasing out fossil fuels and replacing them with low-emissions energy sources. [12] At the 2023 United Nations Climate Change Conference , around three-quarters of the world's countries set a goal of tripling renewable energy capacity by 2030. [27] The European Union aims to generate 40% of its electricity from renewables by the same year. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2021_Death_rates%2C_by_energy_source.svg/300px-2021_Death_rates%2C_by_energy_source.svg.png",
+                "caption": "Deaths caused as a result of fossil fuel use (areas of rectangles in chart) greatly exceed those resulting from production of renewable energy (rectangles barely visible in chart). [25]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Intermittency",
+        "text": "The two most important forms of renewable energy, solar and wind, are intermittent energy sources : they are not available constantly, resulting in lower capacity factors . In contrast, fossil fuel power plants are usually able to produce precisely the amount of energy an electricity grid requires at a given time. Solar energy can only be captured during the day, and ideally in cloudless conditions. Wind power generation can vary significantly not only day-to-day, but even month-to-month. [31] This poses a challenge when transitioning away from fossil fuels: energy demand will often be higher or lower than what renewables can provide. [32] Both scenarios can cause electricity grids to become overloaded, leading to power outages . In the medium-term, this variability may require keeping some gas-fired power plants or other dispatchable generation on standby [33] [34] until there is enough energy storage, demand response , grid improvement, and/or baseload power from non-intermittent sources. In the long-term, energy storage is an important way of dealing with intermittency. [35] Using diversified renewable energy sources and smart grids can also help flatten supply and demand. [36] Sector coupling of the power generation sector with other sectors may increase flexibility: for example the transport sector can be coupled by charging electric vehicles and sending electricity from vehicle to grid . [37] Similarly the industry sector can be coupled by hydrogen produced by electrolysis, [38] and the buildings sector by thermal energy storage for space heating and cooling. [39] Building overcapacity for wind and solar generation can help ensure sufficient electricity production even during poor weather. In optimal weather, it may be necessary to curtail energy generation if it is not possible to use or store excess electricity. [40]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Renewables_need_flexible_backup_not_baseload.png/300px-Renewables_need_flexible_backup_not_baseload.png",
+                "caption": "Estimated power demand over a week in May 2012 and May 2020, Germany, showing the variability in solar and wind power both day-to-day and month-to-month."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Solar energy",
+        "text": "Solar power produced around 1.3 terrawatt-hours (TWh) worldwide in 2022, [10] representing 4.6% of the world's electricity. Almost all of this growth has happened since 2010. [52] Solar energy can be harnessed anywhere that receives sunlight; however, the amount of solar energy that can be harnessed for electricity generation is influenced by weather conditions , geographic location and time of day. [53] There are two mainstream ways of harnessing solar energy: solar thermal , which converts solar energy into heat; and photovoltaics (PV), which converts it into electricity. [12] PV is far more widespread, accounting for around two thirds of the global solar energy capacity as of 2022. [54] It is also growing at a much faster rate, with 170 GW newly installed capacity in 2021, [55] compared to 25 GW of solar thermal. [54] Passive solar refers to a range of construction strategies and technologies that aim to optimize the distribution of solar heat in a building. Examples include solar chimneys , [12] orienting a building to the sun, using construction materials that can store heat , and designing spaces that naturally circulate air . [56] From 2020 to 2022, solar technology investments almost doubled from USD 162 billion to USD 308 billion, driven by the sector's increasing maturity and cost reductions, particularly in solar photovoltaic (PV), which accounted for 90% of total investments. China and the United States were the main recipients, collectively making up about half of all solar investments since 2013. Despite reductions in Japan and India due to policy changes and COVID-19 , growth in China, the United States, and a significant increase from Vietnam's feed-in tariff program offset these declines. Globally, the solar sector added 714 gigawatts (GW) of solar PV and concentrated solar power (CSP) capacity between 2013 and 2021, with a notable rise in large-scale solar heating installations in 2021, especially in China, Europe, Turkey, and Mexico. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/SolarFachwerkhaus.jpg/220px-SolarFachwerkhaus.jpg",
+                "caption": "A small, roof-top mounted PV system in Bonn , Germany"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Mount_Komekura_Photovoltaic_power_plant_Jan2012.JPG/220px-Mount_Komekura_Photovoltaic_power_plant_Jan2012.JPG",
+                "caption": "Komekurayama photovoltaic power station in Kofu , Japan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Photovoltaics",
+        "text": "A photovoltaic system , consisting of solar cells assembled into panels , converts light into electrical direct current via the photoelectric effect . [60] PV has several advantages that make it by far the fastest-growing renewable energy technology. It is cheap, low-maintenance and scalable; adding to an existing PV installation as demanded arises is simple. Its main disadvantage is its poor performance in cloudy weather. [12] PV systems range from small, residential and commercial rooftop or building integrated installations, to large utility-scale photovoltaic power station . [61] A household's solar panels can either be used for just that household or, if connected to an electrical grid, can be aggregated with millions of others. [62] The first utility-scale solar power plant was built in 1982 in Hesperia, California by ARCO . [63] The plant was not profitable and was sold eight years later. [64] However, over the following decades, PV cells became significantly more efficient and cheaper. [65] As a result, PV adoption has grown exponentially since 2010. [66] Global capacity increased from 230 GW at the end of 2015 to 890 GW in 2021. [67] PV grew fastest in China between 2016 and 2021, adding 560 GW, more than all advanced economies combined. [68] Four of the ten biggest solar power stations are in China, including the biggest, Golmud Solar Park in China. [69]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg/220px-1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg.png",
+                "caption": "Swanson's law –stating that solar module prices have dropped about 20% for each doubling of installed capacity—defines the \" learning rate \" of solar photovoltaics . [58] [59]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Wind power",
+        "text": "Humans have harnessed wind energy since at least 3500 BC. Until the 20th century, it was primarily used to power ships, windmills and water pumps. Today, the vast majority of wind power is used to generate electricity using wind turbines. [12] Modern utility-scale wind turbines range from around 600 kW to 9 MW of rated power. The power available from the wind is a function of the cube of the wind speed, so as wind speed increases, power output increases up to the maximum output for the particular turbine. [76] Areas where winds are stronger and more constant, such as offshore and high-altitude sites, are preferred locations for wind farms. Wind-generated electricity met nearly 4% of global electricity demand in 2015, with nearly 63 GW of new wind power capacity installed. Wind energy was the leading source of new capacity in Europe, the US and Canada, and the second largest in China. In Denmark, wind energy met more than 40% of its electricity demand while Ireland, Portugal and Spain each met nearly 20%. [77] Globally, the long-term technical potential of wind energy is believed to be five times total current global energy production, or 40 times current electricity demand, assuming all practical barriers needed were overcome. This would require wind turbines to be installed over large areas, particularly in areas of higher wind resources, such as offshore, and likely also industrial use of new types of VAWT turbines in addition to the horizontal axis units currently in use. As offshore wind speeds average ~90% greater than that of land, offshore resources can contribute substantially more energy than land-stationed turbines. [78] Investments in wind technologies reached USD 161 billion in 2020, with onshore wind dominating at 80% of total investments from 2013 to 2022. Offshore wind investments nearly doubled to USD 41 billion between 2019 and 2020, primarily due to policy incentives in China and expansion in Europe. Global wind capacity increased by 557 GW between 2013 and 2021, with capacity additions increasing by an average of 19% each year. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Pretty_flamingos_-_geograph.org.uk_-_578705.jpg/170px-Pretty_flamingos_-_geograph.org.uk_-_578705.jpg",
+                "caption": "Burbo , NW-England"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fentonwindpark1.jpg/220px-Fentonwindpark1.jpg",
+                "caption": "Sunrise at the Fenton Wind Farm in Minnesota, United States"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wind_energy_generation_by_region%2C_OWID.svg/300px-Wind_energy_generation_by_region%2C_OWID.svg.png",
+                "caption": "Wind energy generation by region over time [72]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Hydropower",
+        "text": "Since water is about 800 times denser than air , even a slow flowing stream of water, or moderate sea swell , can yield considerable amounts of energy. Water can generate electricity with a conversion efficiency of about 90%, which is the highest rate in renewable energy. [82] There are many forms of water energy: Much hydropower is flexible, thus complementing wind and solar. [86] In 2021, the world renewable hydropower capacity was 1,360 GW. [68] Only a third of the world's estimated hydroelectric potential of 14,000 TWh/year has been developed. [87] [88] New hydropower projects face opposition from local communities due to their large impact, including relocation of communities and flooding of wildlife habitats and farming land. [89] High cost and lead times from permission process, including environmental and risk assessments, with lack of environmental and social acceptance are therefore the primary challenges for new developments. [90] It is popular to repower old dams thereby increasing their efficiency and capacity as well as quicker responsiveness on the grid. [91] Where circumstances permit existing dams such as the Russell Dam built in 1985 may be updated with \"pump back\" facilities for pumped-storage which is useful for peak loads or to support intermittent wind and solar power. Because dispatchable power is more valuable than VRE [92] [93] countries with large hydroelectric developments such as Canada and Norway are spending billions to expand their grids to trade with neighboring countries having limited hydro. [94]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/220px-ThreeGorgesDam-China2009.jpg",
+                "caption": "The Three Gorges Dam for hydropower on the Yangtze River in China"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Three_gorges_dam_from_space.jpg/220px-Three_gorges_dam_from_space.jpg",
+                "caption": "Three Gorges Dam and Gezhouba Dam , China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Bioenergy",
+        "text": "Biomass is biological material derived from living, or recently living organisms. Most commonly, it refers to plants or plant-derived materials. As an energy source, biomass can either be used directly via combustion to produce heat, or converted to a more energy-dense biofuel like ethanol. Wood is the most significant biomass energy source as of 2012 [98] and is usually sourced from a trees cleared for silvicultural reasons or fire prevention . Municipal wood waste – for instance, construction materials or sawdust – is also often burned for energy. [99] The biggest per-capita producers of wood-based bioenergy are heavily forested countries like Finland, Sweden, Estonia, Austria, and Denmark. [100] Bioenergy can be environmentally destructive if old-growth forests are cleared to make way for crop production. In particular, demand for palm oil to produce biodiesel has contributed to the deforestation of tropical rainforests in Brazil and Indonesia. [101] In addition, burning biomass still produces carbon emissions, although much less than fossil fuels (39 grams of CO 2 per megajoule of energy, compared to 75 g/MJ for fossil fuels). [102]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Metz_biomass_power_station.jpg/220px-Metz_biomass_power_station.jpg",
+                "caption": "A CHP power station using wood to supply 30,000 households in France"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Biofuel",
+        "text": "Biofuels are primarily used in transportation, providing 3.5% of the world's transport energy demand in 2022, [103] up from 2.7% in 2010. [104] Biojet is expected to be important for short-term reduction of carbon dioxide emissions from long-haul flights. [105] Aside from wood, the major sources of bioenergy are bioethanol and biodiesel . [12] Bioethanol is usually produced by fermenting the sugar components of crops like sugarcane and maize , while biodiesel is mostly made from oils extracted from plants, such as soybean oil and corn oil . [106] Most of the crops used to produce bioethanol and biodiesel are grown specifically for this purpose, [107] although used cooking oil accounted for 14% of the oil used to produce biodiesel as of 2015. [106] The biomass used to produce biofuels varies by region. Maize is the major feedstock in the United States, while sugarcane dominates in Brazil. [108] In the European Union, where biodiesel is more common than bioethanol, rapeseed oil and palm oil are the main feedstocks. [109] China, although it produces comparatively much less biofuel, uses mostly corn and wheat. [110] In many countries, biofuels are either subsidized or mandated to be included in fuel mixtures . [101] There are many other sources of bioenergy that are more niche, or not yet viable at large scales. For instance, bioethanol could be produced from the cellulosic parts of crops, rather than only the seed as is common today. [111] Sweet sorghum may be a promising alternative source of bioethanol, due to its tolerance of a wide range of climates. [112] Cow dung can be converted into methane. [113] There is also a great deal of research involving algal fuel , which is attractive because algae is a non-food resource, grows around 20 times faster than most food crops, and can be grown almost anywhere. [114]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Faz_S_Sofia_canavial_090607_REFON.JPG/220px-Faz_S_Sofia_canavial_090607_REFON.JPG",
+                "caption": "Sugarcane plantation to produce ethanol in Brazil"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Soybeanbus.jpg/220px-Soybeanbus.jpg",
+                "caption": "A bus fueled by biodiesel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Geothermal energy",
+        "text": "Geothermal energy is thermal energy (heat) extracted from the Earth's crust . It originates from several different sources , of which the most significant is slow radioactive decay of minerals contained in the Earth's interior , [12] as well as some leftover heat from the formation of the Earth . [119] Some of the heat is generated near the Earth's surface in the crust, but some also flows from deep within the Earth from the mantle and core . [119] Geothermal energy extraction is viable mostly in countries located on tectonic plate edges, where the Earth's hot mantle is more exposed. [120] As of 2023, the United States has by far the most geothermal capacity (2.7 GW, [121] or less than 0.2% of the country's total energy capacity [122] ), followed by Indonesia and the Philippines. Global capacity in 2022 was 15 GW. [121] Geothermal energy can be either used directly to heat homes, as is common in Iceland, or to generate electricity. At smaller scales, geothermal power can be generated with geothermal heat pumps , which can extract heat from ground temperatures of under 30 °C (86 °F), allowing them to be used at relatively shallow depths of a few meters. [120] Electricity generation requires large plants and ground temperatures of at least 150 °C (302 °F). In some countries, electricity produced from geothermal energy accounts for a large portion of the total, such as Kenya (43%) and Indonesia (5%). [123] Technical advances may eventually make geothermal power more widely available. For example, enhanced geothermal systems involve drilling around 10 kilometres (6.2 mi) into the Earth, breaking apart hot rocks and extracting the heat using water. In theory, this type of geothermal energy extraction could be done anywhere on Earth. [120]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/220px-NesjavellirPowerPlant_edit2.jpg",
+                "caption": "Steam rising from the Nesjavellir Geothermal Power Station in Iceland"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/West_Ford_Flat_Geothermal_Cooling_Tower.JPG/170px-West_Ford_Flat_Geothermal_Cooling_Tower.JPG",
+                "caption": "Geothermal plant at The Geysers , California, US"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Krafla_geothermal_power_station_wiki.jpg/220px-Krafla_geothermal_power_station_wiki.jpg",
+                "caption": "Krafla , a geothermal power station in Iceland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Marine energy",
+        "text": "Marine energy (also sometimes referred to as ocean energy) is the energy carried by ocean waves , tides , salinity , and ocean temperature differences . Technologies to harness the energy of moving water include wave power , marine current power , and tidal power . Reverse electrodialysis (RED) is a technology for generating electricity by mixing fresh water and salty sea water in large power cells. [130] Most marine energy harvesting technologies are still at low technology readiness levels and not used at large scales. Tidal energy is generally considered the most mature, but has not seen wide deployment. [131] The world's largest tidal power station is on Sihwa Lake , South Korea, [132] which produces around 550 gigawatt-hours of electricity per year. [133]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sihwa_Lake_Tidal_Power_Station_aerial_view.jpg/220px-Sihwa_Lake_Tidal_Power_Station_aerial_view.jpg",
+                "caption": "Aerial view of Sihwa Tidal Power Station in South Korea"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Growth of renewables",
+        "text": "The results of a recent review of the literature concluded that as greenhouse gas (GHG) emitters begin to be held liable for damages resulting from GHG emissions resulting in climate change, a high value for liability mitigation would provide powerful incentives for deployment of renewable energy technologies. [181] In the decade of 2010–2019, worldwide investment in renewable energy capacity excluding large hydropower amounted to US$2.7 trillion, of which the top countries China contributed US$818 billion, the United States contributed US$392.3 billion, Japan contributed US$210.9 billion, Germany contributed US$183.4 billion, and the United Kingdom contributed US$126.5 billion. [182] This was an increase of over three and possibly four times the equivalent amount invested in the decade of 2000–2009 (no data is available for 2000–2003). [182] As of 2022, an estimated 28% of the world's electricity was generated by renewables. This is up from 19% in 1990. [183]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20210119_Renewable_energy_investment_-_2004-_BloombergNEF.svg/232px-20210119_Renewable_energy_investment_-_2004-_BloombergNEF.svg.png",
+                "caption": "Investment: Companies, governments and households have committed increasing amounts to decarbonization, including renewable energy (solar, wind), electric vehicles and associated charging infrastructure, energy storage, energy-efficient heating systems, carbon capture and storage, and hydrogen. [171] [172]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20201019_Levelized_Cost_of_Energy_%28LCOE%2C_Lazard%29_-_renewable_energy.svg/232px-20201019_Levelized_Cost_of_Energy_%28LCOE%2C_Lazard%29_-_renewable_energy.svg.png",
+                "caption": "Levelized cost: With increasingly widespread implementation of renewable energy sources, costs have declined, most notably for energy generated by solar panels. [175] [176] Levelized cost of energy (LCOE) is a measure of the average net present cost of electricity generation for a generating plant over its lifetime."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Future projections",
+        "text": "A December 2022 report by the IEA forecasts that over 2022-2027, renewables are seen growing by almost 2 400 GW in its main forecast, equal to the entire installed power capacity of China in 2021. This is an 85% acceleration from the previous five years, and almost 30% higher than what the IEA forecast in its 2021 report, making its largest ever upward revision. Renewables are set to account for over 90% of global electricity capacity expansion over the forecast period. [68] To achieve net zero emissions by 2050, IEA believes that 90% of global electricity generation will need to be produced from renewable sources. [17] In June 2022 IEA Executive Director Fatih Birol said that countries should invest more in renewables to \"ease the pressure on consumers from high fossil fuel prices, make our energy systems more secure, and get the world on track to reach our climate goals.\" [185] China's five year plan to 2025 includes increasing direct heating by renewables such as geothermal and solar thermal. [186] REPowerEU , the EU plan to escape dependence on fossil Russian gas , is expected to call for much more green hydrogen . [187] After a transitional period, [188] renewable energy production is expected to make up most of the world's energy production. In 2018, the risk management firm, DNV GL , forecasts that the world's primary energy mix will be split equally between fossil and non-fossil sources by 2050. [189]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2010-_Fossil_fuels_vs_Wind_%2B_Solar_-_electricity_generation.svg/220px-2010-_Fossil_fuels_vs_Wind_%2B_Solar_-_electricity_generation.svg.png",
+                "caption": "In 2023, electricity generation from wind and solar sources was projected to exceed 30% by 2030. [184]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Policy",
+        "text": "Policies to support renewable energy have been vital in their expansion. Where Europe dominated in establishing energy policy in the early 2000s, most countries around the world now have some form of energy policy. [199] The International Renewable Energy Agency (IRENA) is an intergovernmental organization for promoting the adoption of renewable energy worldwide. It aims to provide concrete policy advice and facilitate capacity building and technology transfer. IRENA was formed in 2009, with 75 countries signing the charter of IRENA. [200] As of April 2019, IRENA has 160 member states. [201] The then United Nations Secretary-General Ban Ki-moon has said that renewable energy can lift the poorest nations to new levels of prosperity, [202] and in September 2011 he launched the UN Sustainable Energy for All initiative to improve energy access, efficiency and the deployment of renewable energy. [203] The 2015 Paris Agreement on climate change motivated many countries to develop or improve renewable energy policies. [204] In 2017, a total of 121 countries adopted some form of renewable energy policy. [199] National targets that year existed in 176 countries. [204] In addition, there is also a wide range of policies at the state/provincial, and local levels. [104] Some public utilities help plan or install residential energy upgrades . Many national, state and local governments have created green banks . A green bank is a quasi-public financial institution that uses public capital to leverage private investment in clean energy technologies. [205] Green banks use a variety of financial tools to bridge market gaps that hinder the deployment of clean energy. Climate neutrality by the year 2050 is the main goal of the European Green Deal . [206] For the European Union to reach their target of climate neutrality, one goal is to decarbonise its energy system by aiming to achieve \"net-zero greenhouse gas emissions by 2050.\" [207]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Share_of_electricity_production_from_renewables.svg/330px-Share_of_electricity_production_from_renewables.svg.png",
+                "caption": "Share of electricity production from renewables, 2022 [8]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Geopolitics",
+        "text": "The geopolitical impact of the growing use of renewable energy is a subject of ongoing debate and research. [219] Many fossil-fuel producing countries, such as Qatar , Russia , Saudi Arabia and Norway , are currently able to exert diplomatic or geopolitical influence as a result of their oil wealth. Most of these countries are expected to be among the geopolitical \"losers\" of the energy transition, although some, like Norway, are also significant producers and exporters of renewable energy. Fossil fuels and the infrastructure to extract them may, in the long term, become stranded assets . [220] It has been speculated that countries dependent on fossil fuel revenue may one day find it in their interests to quickly sell off their remaining fossil fuels. [221] Conversely, nations abundant in renewable resources, and the minerals required for renewables technology, are expected to gain influence. [222] [223] In particular, China has become the world's dominant manufacturer of the technology needed to produce or store renewable energy, especially solar panels , wind turbines , and lithium-ion batteries . [224] Nations rich in solar and wind energy could become major energy exporters. [225] Some may produce and export green hydrogen , [226] [225] although electricity is projected to be the dominant energy carrier in 2050, accounting for almost 50% of total energy consumption (up from 22% in 2015). [227] Countries with large uninhabited areas such as Australia, China, and many African and Middle Eastern countries have a potential for huge installations of renewable energy. The production of renewable energy technologies requires rare-earth elements with new supply chains. [228] Countries with already weak governments that rely on fossil fuel revenue may face even higher political instability or popular unrest. Analysts consider Nigeria, Angola , Chad , Gabon , and Sudan , all countries with a history of military coups , to be at risk of instability due to dwindling oil income. [229] A study found that transition from fossil fuels to renewable energy systems reduces risks from mining, trade and political dependence because renewable energy systems don't need fuel – they depend on trade only for the acquisition of materials and components during construction. [230] In October 2021, European Commissioner for Climate Action Frans Timmermans suggested \"the best answer\" to the 2021 global energy crisis is \"to reduce our reliance on fossil fuels.\" [231] He said those blaming the European Green Deal were doing so \"for perhaps ideological reasons or sometimes economic reasons in protecting their vested interests.\" [231] Some critics blamed the European Union Emissions Trading System (EU ETS) and closure of nuclear plants for contributing to the energy crisis. [232] [233] [234] European Commission President Ursula von der Leyen said that Europe is \"too reliant\" on natural gas and too dependent on natural gas imports . According to Von der Leyen, \"The answer has to do with diversifying our suppliers ... and, crucially, with speeding up the transition to clean energy.\" [235]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TREC-Map-en.jpg/220px-TREC-Map-en.jpg",
+                "caption": "A concept of a super grid"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Public support",
+        "text": "Solar power plants may compete with arable land , [254] [255] while on-shore wind farms often face opposition due to aesthetic concerns and noise. [256] [257] Such opponents are often described as NIMBYs (\"not in my back yard\"). [258] Some environmentalists are concerned about fatal collisions of birds and bats with wind turbines. [259] Although protests against new wind farms occasionally occur around the world, regional and national surveys generally find broad support for both solar and wind power. [260] [261] [262] Community-owned wind energy is sometimes proposed as a way to increase local support for wind farms. [263] A 2011 UK Government document stated that \"projects are generally more likely to succeed if they have broad public support and the consent of local communities. This means giving communities both a say and a stake.\" [264] In the 2000s and early 2010s, many renewable projects in Germany, Sweden and Denmark were owned by local communities, particularly through cooperative structures. [265] [266] In the years since, more installations in Germany have been undertaken by large companies, [263] but community ownership remains strong in Denmark. [267]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg/220px-202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg.png",
+                "caption": "Acceptance of wind and solar facilities in one's community is stronger among U.S. Democrats (blue), while acceptance of nuclear power plants is stronger among U.S. Republicans (red). [253]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Benefits",
+        "text": "Most pellet stoves are self-igniting and cycle themselves on and off under thermostatic control.  Stoves with automatic ignition can be equipped with remote controls.  Recent innovations include integrated microcontroller monitoring of various safety conditions and can run diagnostic tests if an imminent problem arises. A properly cleaned and maintained pellet stove should not create creosote , the sticky, flammable substance that causes chimney fires .  Pellets burn very cleanly and create only a layer of fine ash as a byproduct of combustion.  The grade of pellet fuel affects the performance and ash output.  Premium-grade pellets produce less than one percent ash content, while standard or low grade pellets produce up to six percent ash. [2] Pellet stove users should be aware of the extra maintenance required with a lower grade pellet, and that inconsistent wood quality can cause serious effects to the electronic machinery over a short period of time. A pellet stove is normally associated with pelletized wood.  However, many pellet stoves will also burn fuels such as grain, corn, seeds, or woodchips .  In some pellet stoves, these fuels may need to be mixed with wood pellets.  Pelletized trash (containing mostly waste paper) is also a fuel for pellet stoves. Unlike wood stoves, which operate exclusively on a principle of chimney draft, a pellet stove must use a specially sealed exhaust pipe to prevent exhaust gases escaping into the living space due to the air pressure produced by a combustion blower.  Pellet stoves require certified double-walled venting, normally three or four inches in diameter with a stainless steel interior and galvanized exterior.  Because pellet stoves have a forced exhaust system, they have the advantage of not always requiring a vertical rise to vent, although a 3-to-5-foot (0.91 to 1.52 m) vertical run to induce some draft is recommended to prevent leakage in the case of a power outage.  Like a modern gas appliance, pellet stoves can be vented horizontally through an outside wall and terminated below the roof line, making it an excellent choice for structures without an existing chimney.  If an existing chimney is available, manufacturers urge use of a correctly sized stainless steel liner the length of the chimney for proper drafting.  Modern building techniques have created tightly sealed homes, forcing many pellet stove manufacturers to recommend their stoves be installed with outside air intake to ensure the stoves will run efficiently and prevent potential negative pressure within the home. In many states [ where? ] pellet fuel is exempt from sales tax. [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pellet_Heating.jpg/220px-Pellet_Heating.jpg",
+                "caption": "Pellet-burning central heating system in basement of family home"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pellet_stove",
+        "title": "Pellet stove",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Principles of operation",
+        "text": "A pellet stove normally consists of these components, whether basic or complex: To properly function, a pellet stove uses electricity and can be connected to a standard electrical outlet. A pellet stove, like an automatic coal stoker, is a consistent heater consuming fuel that is fed evenly from a refillable hopper into the burn pot (a perforated cast-iron or steel basin), through a motorized system. The most commonly used distributor is an auger system that consists of a spiral length of metal encased in a tube. This mechanism is either located above the burn pot or slightly beneath and guides a portion of pellet fuel from the hopper upwards until it falls into the burn pot for combustion. Fan systems are necessary for clean, economical performance.  The flame produced is concentrated and intense in the small area of the burn pot as a combustion blower introduces air into the bottom of the burn pot, while also forcing exhaust gases into the chimney.  While some pellet stoves will be hot to the touch (especially on the viewing window), most manufacturers utilize a series of cast-iron or steel heat exchangers that run along the back and top areas of the visible firebox.  With a convection blower, room air is circulated through the heat exchangers and directed into the living space.  This method allows for a much higher efficiency than the radiant heat of a hand-fed wood or coal stove, and will in most cases cause the top, sides, and back of the stove to be at most warm to the touch.  Along with convection air, an exhaust fan forces air from the firebox through special venting specifically made for pellet fuel. This cycle of circulation is an integral part of the combustion system as well, for the concentrated high temperature flame will quickly overheat the firebox.  The possible problems associated with overheating are electrical component failure and flames traveling into the auger tube causing a hopper fire.  As safeguards, all pellet stoves are equipped with heat sensors, and sometimes vacuum sensors, enabling the controller to shut down if an unsafe condition is detected.  For daily maintenance, an ash vacuum is recommended. These are similar to shop vacs, but are designed for the removal of ash materials. These vacuums are available with a pellet stove kit which enables the cleaning of the interior areas of the stove which improves efficiency. Pellet stoves can either be lit manually or through an automatic igniter.  The igniter piece resembles a car's electric cigarette lighter heating coil.  Most models have automatic ignition and can be readily equipped with thermostats or remote controls.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Pellet_Stove_burn_pot.jpg/220px-Pellet_Stove_burn_pot.jpg",
+                "caption": "A pellet stove burn pot"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dr_Pietro_Bartocci_Biomass_Research_Centre_Pellet_stove_VITTORIA_EVO_20_kW.jpg/220px-Dr_Pietro_Bartocci_Biomass_Research_Centre_Pellet_stove_VITTORIA_EVO_20_kW.jpg",
+                "caption": "Pellet stoves are routinely tested in laboratory for improved performances and different fuels"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pellet_stove",
+        "title": "Pellet stove",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Input materials",
+        "text": "Wood and wood residues is the largest biomass energy source today. Wood can be used as a fuel directly or processed into pellet fuel or other forms of fuels. Other plants can also be used as fuel, for instance maize , switchgrass , miscanthus and bamboo . [9] The main waste feedstocks are wood waste, agricultural waste , municipal solid waste , and manufacturing waste . Upgrading raw biomass to higher grade fuels can be achieved by different methods, broadly classified as thermal, chemical, or biochemical: Thermal conversion processes use heat as the dominant mechanism to upgrade biomass into a better and more practical fuel. The basic alternatives are torrefaction , pyrolysis , and gasification , these are separated mainly by the extent to which the chemical reactions involved are allowed to proceed (mainly controlled by the availability of oxygen and conversion temperature). [10] Many chemical conversions are based on established coal-based processes, such as the Fischer-Tropsch synthesis . [11] Like coal, biomass can be converted into multiple commodity chemicals. [12] Biochemical processes have developed in nature to break down the molecules of which biomass is composed, and many of these can be harnessed. In most cases, microorganisms are used to perform the conversion. The processes are called anaerobic digestion , fermentation , and composting . [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Steven%27s_Croft_Biomass_Plant_-_geograph.org.uk_-_800207.jpg/220px-Steven%27s_Croft_Biomass_Plant_-_geograph.org.uk_-_800207.jpg",
+                "caption": "Biomass plant in Scotland."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Bioenergy",
+        "title": "Bioenergy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Negative emission",
+        "text": "The main appeal of BECCS is in its ability to result in negative emissions of CO 2 . The capture of carbon dioxide from bioenergy sources effectively removes CO 2 from the atmosphere. [8] [9] Bioenergy is derived from biomass which is a renewable energy source and serves as a carbon sink during its growth. During industrial processes, the biomass combusted or processed re-releases the CO 2 into the atmosphere. Carbon capture and storage (CCS) technology serves to intercept the release of CO 2 into the atmosphere and redirect it into geological storage locations, [10] [11] or concrete. [12] [13] The process thus results in a net zero emission of CO 2 , though this may be positively or negatively altered depending on the carbon emissions associated with biomass growth, transport and processing, see below under environmental considerations. [14] CO 2 with a biomass origin is not only released from biomass fuelled power plants, but also during the production of pulp used to make paper and in the production of biofuels such as biogas and bioethanol . The BECCS technology can also be employed on industrial processes such as these [15] and making cement. [16] BECCS technologies trap carbon dioxide in geologic formations in a semi-permanent way, whereas a tree stores its carbon only during its lifetime. In 2005 it was estimated that more than 99% of carbon dioxide stored through geologic sequestration is likely to stay in place for more than 1000 years. [17] In 2005, the IPCC estimated that BECCS technology would provide a \"better permanence\" by storing CO 2 in geological formations underground, relative to other types of carbon sinks. Carbon sinks such as the ocean, trees, and soil involve a risk of adverse climate change feedback at increased temperatures. [18] [17] Industrial processes have released too much CO 2 to be absorbed by conventional sinks such as trees and soil to reach low emission targets. [19] In addition to the presently accumulated emissions, there will be significant additional emissions during this century, even in the most ambitious low-emission scenarios. BECCS has therefore been suggested as a technology to reverse the emission trend and create a global system of net negative emissions. [1] [20] [19] [21] [22] This implies that the emissions would not only be zero, but negative, so that not only the emissions, but the absolute amount of CO 2 in the atmosphere would be reduced.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Carbon_flow.jpg/400px-Carbon_flow.jpg",
+                "caption": "Carbon flow schematic for different energy systems."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Bioenergy_with_carbon_capture_and_storage",
+        "title": "Bioenergy with carbon capture and storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Oxy-combustion",
+        "text": "Oxy‐fuel combustion has been a common process in the glass, cement and steel industries. It is also a promising technological approach for CCS. In oxy‐fuel combustion, the main difference from conventional air firing is that the fuel is burned in a mixture of O 2 and recycled flue gas. The O 2 is produced by an air separation unit (ASU), which removes the atmospheric N 2 from the oxidizer stream. By removing the N 2 upstream of the process, a flue gas with a high concentration of CO 2 and water vapor is produced, which eliminates the need for a post‐combustion capture plant. The water vapor can be removed by condensation, leaving a product stream of relatively high‐purity CO 2 which, after subsequent purification and dehydration, can be pumped to a geological storage site. [27] Key challenges of BECCS implementation using oxy-combustion are associated with the combustion process. For the high volatile content biomass, the mill temperature has to be kept at a low temperature to reduce the risk of fire and explosion. In addition, the flame temperature is lower. Therefore, the concentration of oxygen needs to be increased up to 27-30%. [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Oxy-combust_BECCS.jpg/395px-Oxy-combust_BECCS.jpg",
+                "caption": "Overview of oxy‐fuel combustion for carbon capture from biomass, showing the key processes and stages; some purification is also likely to be required at the dehydration stage. [27]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Bioenergy_with_carbon_capture_and_storage",
+        "title": "Bioenergy with carbon capture and storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    },
+    {
+        "section": "Applications",
+        "text": "Induction heating allows the targeted heating of an applicable item for applications including surface hardening, melting, brazing and soldering, and heating to fit. Due to their ferromagnetic nature, iron and its alloys respond best to induction heating. Eddy currents can, however, be generated in any conductor, and magnetic hysteresis can occur in any magnetic material. Induction heating has been used to heat liquid conductors (such as molten metals) and also gaseous conductors (such as a gas plasma—see Induction plasma technology ). Induction heating is often used to heat graphite crucibles (containing other materials) and is used extensively in the semiconductor industry for the heating of silicon and other semiconductors. Utility frequency (50/60 Hz) induction heating is used for many lower-cost industrial applications as inverters are not required.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Induction_heating_of_bar.jpg/220px-Induction_heating_of_bar.jpg",
+                "caption": "Induction heating of 25 mm metal bar using 15 kW at 450 kHz."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Silicon_grown_by_Czochralski_process_1956_closeup.jpg/180px-Silicon_grown_by_Czochralski_process_1956_closeup.jpg",
+                "caption": "Keeping silicon in crucible molten at 2,650 °F (1,450 °C) for Czochralski crystal growth, 1956."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Induction_heating",
+        "title": "Induction heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass heating systems"
+    }
+]

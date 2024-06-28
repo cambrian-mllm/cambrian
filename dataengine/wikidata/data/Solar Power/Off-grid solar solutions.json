@@ -1,0 +1,1230 @@
+[
+    {
+        "section": "Overview",
+        "text": "A photovoltaic system converts the Sun's radiation , in the form of light, into usable electricity . It comprises the solar array and the balance of system components. PV systems can be categorized by various aspects, such as, grid-connected vs. stand alone systems, building-integrated vs. rack-mounted systems, residential vs. utility systems, distributed vs. centralized systems, rooftop vs. ground-mounted systems, tracking vs. fixed-tilt systems, and new constructed vs. retrofitted systems. Other distinctions may include, systems with microinverters vs. central inverter, systems using crystalline silicon vs. thin-film technology , and systems with modules. About 99 percent of all European and 90 percent of all U.S. solar power systems are connected to the electrical grid , while off-grid systems are somewhat more common in Australia and South Korea. [4] : 14 PV systems rarely use battery storage. This may change, as government incentives for distributed energy storage are implemented and investments in storage solutions gradually become economically viable for small systems. [5] [6] A typical residential solar array is rack-mounted on the roof, rather than integrated into the roof or facade of the building, which is significantly more expensive. Utility-scale solar power stations are ground-mounted, with fixed tilted solar panels rather than using expensive tracking devices. Crystalline silicon is the predominant material used in 90 percent of worldwide produced solar modules, while its rival thin-film has lost market-share. [7] : 17–20 About 70 percent of all solar cells and modules are produced in China and Taiwan, only 5 percent by European and US- manufacturers . [7] : 11–12 The installed capacity for both small rooftop systems and large solar power stations is growing rapidly and in equal parts, although there is a notable trend towards utility-scale systems, as the focus on new installations is shifting away from Europe to sunnier regions, such as the Sunbelt in the U.S., which are less opposed to ground-mounted solar farms and cost-effectiveness is more emphasized by investors. [4] : 43 Driven by advances in technology and increases in manufacturing scale and sophistication, the cost of photovoltaics is declining continuously. [8] There are several million PV systems distributed all over the world, mostly in Europe, with 1.4 million systems in Germany alone [7] : 5 – as well as North America with 440,000 systems in the United States. [9] The energy conversion efficiency of a conventional solar module increased from 15 to 20 percent since 2004 [7] : 17 and a PV system recoups the energy needed for its manufacture in about 2 years. In exceptionally irradiated locations, or when thin-film technology is used, the so-called energy payback time decreases to one year or less. [7] : 30–33 Net metering and financial incentives, such as preferential feed-in tariffs for solar-generated electricity, have also greatly supported installations of PV systems in many countries. [10] The levelised cost of electricity from large-scale PV systems has become competitive with conventional electricity sources in an expanding list of geographic regions, and grid parity has been achieved in about 30 countries. [11] [12] [13] [14] As of 2015, the fast-growing global PV market is rapidly approaching the 200 GW mark – about 40 times the installed capacity in 2006. [15] These systems currently contribute about 1 percent to worldwide electricity generation. Top installers of PV systems in terms of capacity are currently China, Japan and the United States, while half of the world's capacity is installed in Europe, with Germany and Italy supplying 7% to 8% of their respective domestic electricity consumption with solar PV. [16] The International Energy Agency expects solar power to become the world's largest source of electricity by 2050, with solar photovoltaics and concentrated solar thermal contributing 16% and 11% to the global demand, respectively. [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/From_a_solar_cell_to_a_PV_system.svg/220px-From_a_solar_cell_to_a_PV_system.svg.png",
+                "caption": "Diagram of the possible components of a photovoltaic system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Solar grid-connection",
+        "text": "A grid connected system is connected to a larger independent grid (typically the public electricity grid) and feeds energy directly into the grid. This energy may be shared by a residential or commercial building before or after the revenue measurement point, depending on whether the credited energy production is calculated independently of the customer's energy consumption ( feed-in tariff ) or only on the difference of energy ( net metering ). These systems vary in size from residential (2–10 kW p ) to solar power stations (up to tens of MW p ). This is a form of decentralized electricity generation . Feeding electricity into the grid requires the transformation of DC into AC by a special, synchronizing grid-tie inverter . In kilowatt-sized installations the DC side system voltage is as high as permitted (typically 1000 V except US residential 600 V) to limit ohmic losses. Most modules (60 or 72 crystalline silicon cells) generate 160 W to 300 W at 36 volts. It is sometimes necessary or desirable to connect the modules partially in parallel rather than all in series. An individual set of modules connected in series is known as a 'string'. [17] A set of series-connected \"strings\" is known as an \"array.\"",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/PV-system-schematics-residential-Eng.png/240px-PV-system-schematics-residential-Eng.png",
+                "caption": "Schematics of an AC coupled residential PV system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Utility-scale",
+        "text": "Large utility-scale solar parks or farms are power stations and capable of providing an energy supply to large numbers of consumers. Generated electricity is fed into the transmission grid powered by central generation plants (grid-connected or grid-tied plant), or combined with one, or many, domestic electricity generators to feed into a small electrical grid (hybrid plant). In rare cases generated electricity is stored or used directly by island/standalone plant. [19] [20] PV systems are generally designed in order to ensure the highest energy yield for a given investment. Some large photovoltaic power stations such as Solar Star , Waldpolenz Solar Park and Topaz Solar Farm cover tens or hundreds of hectares and have power outputs up to hundreds of megawatts .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Perovosolarstation.jpg/220px-Perovosolarstation.jpg",
+                "caption": "Perovo Solar Park in Ukraine"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Rooftop, mobile, and portable",
+        "text": "A small PV system is capable of providing enough AC electricity to power a single home, or an isolated device in the form of AC or DC electric. Military and civilian Earth observation satellites , street lights , construction and traffic signs, electric cars , solar-powered tents, [21] and electric aircraft may contain integrated photovoltaic systems to provide a primary or auxiliary power source in the form of AC or DC power, depending on the design and power demands. In 2013, rooftop systems accounted for 60 percent of worldwide installations. However, there is a trend away from rooftop and towards utility-scale PV systems, as the focus of new PV installations is also shifting from Europe to countries in the sunbelt region of the planet where opposition to ground-mounted solar farms is less accentuated. [4] : 43 Portable and mobile PV systems provide electrical power independent of utility connections, for \"off the grid\" operation. Such systems are so commonly used on recreational vehicles and boats that there are retailers specializing in these applications and products specifically targeted to them. Since recreational vehicles (RV) normally carry batteries and operate lighting and other systems on nominally 12-volt DC power, RV systems normally operate in a voltage range that can charge 12-volt batteries directly, so addition of a PV system requires only panels, a charge controller, and wiring. Solar systems on recreation vehicles are usually constrained in wattage by the physical size of the RV's roof space. [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Solar_panels_on_house_roof.jpg/220px-Solar_panels_on_house_roof.jpg",
+                "caption": "Rooftop system near Boston , US"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Building-integrated",
+        "text": "In urban and suburban areas, photovoltaic arrays are often used on rooftops to supplement power use; often the building will have a connection to the power grid , in which case the energy produced by the PV array can be sold back to the utility in some sort of net metering agreement. Some utilities use the rooftops of commercial customers and telephone poles to support their use of PV panels. [23] Solar trees are arrays that, as the name implies, mimic the look of trees, provide shade, and at night can function as street lights .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fa%C3%A7ana_Fotvoltaica_MNACTEC.JPG/220px-Fa%C3%A7ana_Fotvoltaica_MNACTEC.JPG",
+                "caption": "BAPV wall near Barcelona, Spain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Components",
+        "text": "A photovoltaic system for residential, commercial, or industrial energy supply consists of the solar array and a number of components often summarized as the balance of system (BOS). This term is synonymous with \" Balance of plant \" q.v. BOS-components include power-conditioning equipment and structures for mounting, typically one or more DC to AC power converters, also known as inverters , an energy storage device, a racking system that supports the solar array, electrical wiring and interconnections, and mounting for other components. Optionally, a balance of system may include any or all of the following: renewable energy credit revenue-grade meter, maximum power point tracker (MPPT), battery system and charger , GNSS solar tracker , energy management software , solar irradiance sensors, anemometer , or task-specific accessories designed to meet specialized requirements for a system owner. In addition, a CPV system requires optical lenses or mirrors and sometimes a cooling system. The terms \"solar array\" and \"PV system\" are often incorrectly used interchangeably, despite the fact that the solar array does not encompass the entire system. Moreover, \"solar panel\" is often used as a synonym for \"solar module\", although a panel consists of a string of several modules. The term \"solar system\" is also an often used misnomer for a PV system.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Balance_of_System.svg/220px-Balance_of_System.svg.png",
+                "caption": "The balance of system components of a PV system (BOS) balance the power-generating subsystem of the solar array (left side) with the power-using side of the AC-household devices and the utility grid (right side)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Solar array",
+        "text": "The building blocks of a photovoltaic system are solar cells. A solar cell is the electrical device that can directly convert photons energy into electricity. There are three technological generations of solar cells: the first generation (1G) of crystalline silicon cells (c-Si), the second generation (2G) of thin-film cells (such as CdTe , CIGS , Amorphous Silicon , and GaAs ), and the third generation (3G) of organic , dye-sensitized , Perovskite and multijunction cells . [29] [30] Conventional c-Si solar cells , normally wired in series, are encapsulated in a solar module to protect them from the weather. The module consists of a tempered glass as cover, a soft and flexible encapsulant , a rear backsheet made of a weathering and fire-resistant material and an aluminium frame around the outer edge. Electrically connected and mounted on a supporting structure, solar modules build a string of modules, often called solar panel. A solar array consists of one or many such panels. [31] A photovoltaic array, or solar array, is a linked collection of solar modules. The power that one module can produce is seldom enough to meet requirements of a home or a business, so the modules are linked together to form an array. Most PV arrays use an inverter to convert the DC power produced by the modules into alternating current that can power lights , motors, and other loads. The modules in a PV array are usually first connected in series to obtain the desired voltage ; the individual strings are then connected in parallel to allow the system to produce more current . Solar panels are typically measured under STC (standard test conditions) or PTC (PVUSA test conditions), in watts . [32] Typical panel ratings range from less than 100 watts to over 400 watts. [33] The array rating consists of a summation of the panel ratings, in watts, kilowatts, or megawatts.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fixed_Tilt_Solar_panel_at_Canterbury_Municipal_Building_Canterbury_New_Hampshire.jpg/220px-Fixed_Tilt_Solar_panel_at_Canterbury_Municipal_Building_Canterbury_New_Hampshire.jpg",
+                "caption": "Fixed tilt solar array in of crystalline silicon panels in Canterbury, New Hampshire , United States"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Turisme_de_parcs_fotovoltaics.JPG/220px-Turisme_de_parcs_fotovoltaics.JPG",
+                "caption": "Solar array of a solar farm with a few thousand solar modules on the island of Majorca , Spain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Insolation and energy",
+        "text": "Solar insolation is made up of direct, diffuse, and reflected radiation . The absorption factor of a PV cell is defined as the fraction of incident solar irradiance that is absorbed by the cell. [57] When the sun is at the zenith on a cloudless day, the power of the sun is about 1 kW /m 2 , [58] on the Earth's surface, to a plane that is perpendicular to the sun's rays. As such, PV arrays can track the sun through each day to greatly enhance energy collection. However, tracking devices add cost, and require maintenance, so it is more common for PV arrays to have fixed mounts that tilt the array and face due south in the northern hemisphere or due north in the southern hemisphere. The tilt angle from horizontal can be varied for season, [59] but if fixed, should be set to give optimal array output during the peak electrical demand portion of a typical year for a stand-alone system. This optimal module tilt angle is not necessarily identical to the tilt angle for maximum annual array energy output. [60] The optimization of the photovoltaic system for a specific environment can be complicated as issues of solar flux, soiling, and snow losses should be taken into effect. In addition, later work has shown that spectral effects can play a role in optimal photovoltaic material selection. For example, the spectrum of the albedo of the surroundings can play a significant role in output depending on the surface around the photovoltaic system [61] and the type of solar cell material. [62] A photovoltaic installation in the northern latitudes of Europe or the United States may expect to produce 1 kWh/m 2 /day. [ citation needed ] A typical 1 kW photovoltaic installation in Australia or the southern latitudes of Europe or United States, may produce 3.5–5 kWh per day, dependent on location, orientation, tilt, insolation and other factors. [ citation needed ] In the Sahara desert, with less cloud cover and a better solar angle, one could ideally obtain closer to 8.3 kWh/m 2 /day provided the nearly ever present wind would not blow sand onto the units. The area of the Sahara desert is over 9 million km 2 . 90,600 km 2 , or about 1%, could generate as much electricity as all of the world's power plants combined. [63]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/World_GHI_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png/220px-World_GHI_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png",
+                "caption": "Global insolation on a horizontal surface"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Mounting",
+        "text": "Modules are assembled into arrays on some kind of mounting system, which may be classified as ground mount, roof mount or pole mount. For solar parks a large rack is mounted on the ground, and the modules mounted on the rack.\nFor buildings, many different racks have been devised for pitched roofs. For flat roofs, racks, bins and building integrated solutions are used. [ citation needed ] Solar panel racks mounted on top of poles can be stationary or moving, see Trackers below. Side-of-pole mounts are suitable for situations where a pole has something else mounted at its top, such as a light fixture or an antenna. Pole mounting raises what would otherwise be a ground mounted array above weed shadows and livestock, and may satisfy electrical code requirements regarding inaccessibility of exposed wiring. Pole mounted panels are open to more cooling air on their underside, which increases performance. A multiplicity of pole top racks can be formed into a parking carport or other shade structure. A rack which does not follow the sun from left to right may allow seasonal adjustment up or down. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pellworm_Solarkrftanlage_MS_P4140082.JPG/220px-Pellworm_Solarkrftanlage_MS_P4140082.JPG",
+                "caption": "A 23-year-old ground mounted PV system from the 1980s on a North Frisian Island , Germany. The modules conversion efficiency was only 12%."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Cabling",
+        "text": "Due to their outdoor usage, solar cables are designed to be resistant against UV radiation and extremely high temperature fluctuations and are generally unaffected by the weather. Standards specifying the usage of electrical wiring in PV systems include the IEC 60364 by the International Electrotechnical Commission , in section 712 \"Solar photovoltaic (PV) power supply systems\", the British Standard BS 7671 , incorporating regulations relating to microgeneration and photovoltaic systems, and the US UL4703 standard, in subject 4703 \"Photovoltaic Wire\". A solar cable is the interconnection cable used in photovoltaic power generation. Solar cables interconnect solar panels and other electrical components of a photovoltaic system. Solar cables are designed to be UV resistant and weather resistant.  They can be used within a large temperature range. Specific performance requirements for material used for wiring a solar panel installation are given in national and local electrical codes which regulate electrical installations in an area.  General features required for solar cables are resistance to ultraviolet light, weather, temperature extremes of the area and insulation suitable for the voltage class of the equipment. Different jurisdictions will have specific rules regarding grounding (earthing) of solar power installations for electric shock protection and lightning protection.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/PV_connectors_01_Pengo.jpg/220px-PV_connectors_01_Pengo.jpg",
+                "caption": "Weatherproof connectors on a solar panel cable"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Tracker",
+        "text": "A solar tracking system tilts a solar panel throughout the day. Depending on the type of tracking system, the panel is either aimed directly at the Sun or the brightest area of a partly clouded sky. Trackers greatly enhance early morning and late afternoon performance, increasing the total amount of power produced by a system by about 20–25% for a single axis tracker and about 30% or more for a dual axis tracker, depending on latitude. [64] [65] Trackers are effective in regions that receive a large portion of sunlight directly. In diffuse light (i.e. under cloud or fog), tracking has little or no value. Because most concentrated photovoltaics systems are very sensitive to the sunlight's angle, tracking systems allow them to produce useful power for more than a brief period each day. [66] Tracking systems improve performance for two main reasons. First, when a solar panel is perpendicular to the sunlight, it receives more light on its surface than if it were angled. Second, direct light is used more efficiently than angled light. [67] Special anti-reflective coatings can improve solar panel efficiency for direct and angled light, somewhat reducing the benefit of tracking. [68] Trackers and sensors to optimise the performance are often seen as optional, but they can increase viable output by up to 45%. [69] Arrays that approach or exceed one megawatt often use solar trackers. Considering clouds, and the fact that most of the world is not on the equator, and that the sun sets in the evening, the correct measure of solar power is insolation – the average number of kilowatt-hours per square meter per day. For the weather and latitudes of the United States and Europe, typical insolation ranges from 2.26 kWh/m 2 /day in northern climes to 5.61 kWh/m 2 /day in the sunniest regions. [70] [71] For large systems, the energy gained by using tracking systems can outweigh the added complexity. For very large systems , the added maintenance of tracking is a substantial detriment. [72] Tracking is not required for flat panel and low-concentration photovoltaic systems . For high-concentration photovoltaic systems, dual axis tracking is a necessity. [73] Pricing trends affect the balance between adding more stationary solar panels versus having fewer panels that track. As pricing, reliability and performance of single-axis trackers have improved, the systems have been installed in an increasing percentage of utility-scale projects. According to data from WoodMackenzie/GTM Research, global solar tracker shipments hit a record 14.5 gigawatts in 2017. This represents growth of 32 percent year-over-year, with similar or greater growth projected as large-scale solar deployment accelerates. [74]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Solar_trackers.jpg/220px-Solar_trackers.jpg",
+                "caption": "Dual axis solar trackers"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Inverter",
+        "text": "Systems designed to deliver alternating current (AC), such as grid-connected applications need an inverter to convert the direct current (DC) from the solar modules to AC. Grid connected inverters must supply AC electricity in sinusoidal form, synchronized to the grid frequency, limit feed in voltage to no higher than the grid voltage and disconnect from the grid if the grid voltage is turned off. [75] Islanding inverters need only produce regulated voltages and frequencies in a sinusoidal waveshape as no synchronisation or co-ordination with grid supplies is required. A solar inverter may connect to a string of solar panels. In some installations a solar micro-inverter is connected at each solar panel. [76] For safety reasons a circuit breaker is provided both on the AC and DC side to enable maintenance. AC output may be connected through an electricity meter into the public grid. [77] The number of modules in the system determines the total DC watts capable of being generated by the solar array; however, the inverter ultimately governs the amount of AC watts that can be distributed for consumption. For example, a PV system comprising 11 kilowatts DC (kW DC ) worth of PV modules, paired with one 10-kilowatt AC (kW AC ) inverter, will be limited to the inverter's output of 10 kW. As of 2019, conversion efficiency for state-of-the-art converters reached more than 98 percent. While string inverters are used in residential to medium-sized commercial PV systems, central inverters cover the large commercial and utility-scale market. Market-share for central and string inverters are about 44 percent and 52 percent, respectively, with less than 1 percent for micro-inverters. [78] Maximum power point tracking (MPPT) is a technique that grid connected inverters use to get the maximum possible power from the photovoltaic array. In order to do so, the inverter's MPPT system digitally samples the solar array's ever changing power output and applies the proper impedance to find the optimal maximum power point . [79] Anti-islanding is a protection mechanism to immediately shut down the inverter, preventing it from generating AC power when the connection to the load no longer exists. This happens, for example, in the case of a blackout. Without this protection, the supply line would become an \"island\" with power surrounded by a \"sea\" of unpowered lines, as the solar array continues to deliver DC power during the power outage. Islanding is a hazard to utility workers, who may not realize that an AC circuit is still powered, and it may prevent automatic re-connection of devices. [80] Anti-Islanding feature is not required for complete Off-Grid Systems.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Central_inverter_cutout.jpg/220px-Central_inverter_cutout.jpg",
+                "caption": "Central inverter with AC and DC disconnects (on the side), monitoring gateway, transformer isolation and interactive LCD"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vermont_Law_School_Solar_Panel_Array-4.JPG/220px-Vermont_Law_School_Solar_Panel_Array-4.JPG",
+                "caption": "String inverter (left), generation meter, and AC disconnect (right). A modern 2013 installation in Vermont , United States."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Monitoring and metering",
+        "text": "The metering must be able to accumulate energy units in both directions, or two meters must be used. Many meters accumulate bidirectionally, some systems use two meters, but a unidirectional meter (with detent) will not accumulate energy from any resultant feed into the grid. [83] In some countries, for installations over 30 kW p a frequency and a voltage monitor with disconnection of all phases is required. This is done where more solar power is being generated than can be accommodated by the utility, and the excess can not either be exported or stored . Grid operators historically have needed to provide transmission lines and generation capacity. Now they need to also provide storage. This is normally hydro-storage, but other means of storage are used. Initially storage was used so that baseload generators could operate at full output. With variable renewable energy , storage is needed to allow power generation whenever it is available, and consumption whenever needed. The two variables a grid operator has are storing electricity for when it is needed, or transmitting it to where it is needed. If both of those fail, installations over 30kWp can automatically shut down, although in practice all inverters maintain voltage regulation and stop supplying power if the load is inadequate. Grid operators have the option of curtailing excess generation from large systems, although this is more commonly done with wind power than solar power, and results in a substantial loss of revenue. [84] Three-phase inverters have the unique option of supplying reactive power which can be advantageous in matching load requirements. [85] Photovoltaic systems need to be monitored to detect breakdown and optimize operation. There are several photovoltaic monitoring strategies depending on the output of the installation and its nature. Monitoring can be performed on site or remotely. It can measure production only, retrieve all the data from the inverter or retrieve all of the data from the communicating equipment (probes, meters, etc.). Monitoring tools can be dedicated to supervision only or offer additional functions. Individual inverters and battery charge controllers may include monitoring using manufacturer specific protocols and software. [86] Energy metering of an inverter may be of limited accuracy and not suitable for revenue metering purposes. A third-party data acquisition system can monitor multiple inverters, using the inverter manufacturer's protocols, and also acquire weather-related information. Independent smart meters may measure the total energy production of a PV array system. Separate measures such as satellite image analysis or a solar radiation meter (a pyranometer ) can be used to estimate total insolation for comparison. [87] Data collected from a monitoring system can be displayed remotely over the World Wide Web, such as OSOTF . [88] [89] [90] [91]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stromz%C3%A4hler_in_Kanada.JPG/220px-Stromz%C3%A4hler_in_Kanada.JPG",
+                "caption": "A Canadian electricity meter"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "CPV",
+        "text": "Concentrator photovoltaics (CPV) and high concentrator photovoltaic (HCPV) systems use optical lenses or curved mirrors to concentrate sunlight onto small but highly efficient solar cells. Besides concentrating optics, CPV systems sometime use solar trackers and cooling systems and are more expensive. Especially HCPV systems are best suited in location with high solar irradiance, concentrating sunlight up to 400 times or more, with efficiencies of 24–28 percent, exceeding those of regular systems. Various designs of systems are commercially available but not very common. However, ongoing research and development is taking place. [7] : 26 CPV is often confused with CSP ( concentrated solar power ) that does not use photovoltaics. Both technologies favor locations that receive much sunlight and directly compete with each other.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Concentraci%C3%B3_Fotovoltaica.jpg/220px-Concentraci%C3%B3_Fotovoltaica.jpg",
+                "caption": "Concentrator photovoltaic (CPV) in Catalonia , Spain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Hybrid",
+        "text": "A hybrid system combines PV with other forms of generation, usually a diesel generator. [ citation needed ] Biogas is also used. The other form of generation may be a type able to modulate power output as a function of demand. However more than one renewable form of energy may be used e.g. wind. The photovoltaic power generation serves to reduce the consumption of non renewable fuel. Hybrid systems are most often found on islands. Pellworm island in Germany and Kythnos island in Greece are notable examples (both are combined with wind). [92] [93] The Kythnos plant has reduced diesel consumption by 11.2%. [94] In 2015, a case-study conducted in seven countries concluded that in all cases generating costs can be reduced by hybridising mini-grids and isolated grids. However, financing costs for such hybrids are crucial and largely depend on the ownership structure of the power plant. While cost reductions for state-owned utilities can be significant, the study also identified economic benefits to be insignificant or even negative for non-public utilities, such as independent power producers . [95] [96] There has also been work showing that the PV penetration limit can be increased by deploying a distributed network of PV+CHP hybrid systems in the U.S. [97] The temporal distribution of solar flux, electrical and heating requirements for representative U.S. single family residences were analyzed and the results clearly show that hybridizing CHP with PV can enable additional PV deployment above what is possible with a conventional centralized electric generation system. This theory was reconfirmed with numerical simulations using per second solar flux data to determine that the necessary battery backup to provide for such a hybrid system is possible with relatively small and inexpensive battery systems. [98] In addition, large PV+CHP systems are possible for institutional buildings, which again provide back up for intermittent PV and reduce CHP runtime. [99]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hybrid_Power_System.gif/220px-Hybrid_Power_System.gif",
+                "caption": "A wind-solar PV hybrid system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Standalone",
+        "text": "A stand-alone or off-grid system is not connected to the electrical grid . Standalone systems vary widely in size and application from wristwatches or calculators to remote buildings or spacecraft . If the load is to be supplied independently of solar insolation , the generated power is stored and buffered with a battery. [119] In non-portable applications where weight is not an issue, such as in buildings, lead acid batteries are most commonly used for their low cost and tolerance for abuse. A charge controller may be incorporated in the system to avoid battery damage by excessive charging or discharging. It may also help to optimize production from the solar array using a maximum power point tracking technique ( MPPT ). However, in simple PV systems where the PV module voltage is matched to the battery voltage, the use of MPPT electronics is generally considered unnecessary, since the battery voltage is stable enough to provide near-maximum power collection from the PV module.\nIn small devices (e.g. calculators, parking meters) only direct current (DC) is consumed. In larger systems (e.g. buildings, remote water pumps) AC is usually required. To convert the DC from the modules or batteries into AC, an inverter is used. In agricultural settings, the array may be used to directly power DC pumps , without the need for an inverter . In remote settings such as mountainous areas, islands, or other places where a power grid is unavailable, solar arrays can be used as the sole source of electricity, usually by charging a storage battery . Stand-alone systems closely relate to microgeneration and distributed generation .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/P1020564_-_Refugi_d%27Estany_Llong.JPG/230px-P1020564_-_Refugi_d%27Estany_Llong.JPG",
+                "caption": "An isolated mountain hut in Catalonia , Spain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Costs and economy",
+        "text": "The cost of producing photovoltaic cells has dropped because of economies of scale in production and technological advances in manufacturing. For large-scale installations, prices below $1.00 per watt were common by 2012. [122] A price decrease of 50% had been achieved in Europe from 2006 to 2011, and there was a potential to lower the generation cost by 50% by 2020. [123] Crystal silicon solar cells have largely been replaced by less expensive multicrystalline silicon solar cells, and thin film silicon solar cells have also been developed at lower costs of production. Although they are reduced in energy conversion efficiency from single crystalline \"siwafers\", they are also much easier to produce at comparably lower costs. [124] The table below shows the total (average) cost in US cents per kWh of electricity generated by a photovoltaic system. [125] [126] The row headings on the left show the total cost, per peak kilowatt (kW p ), of a photovoltaic installation. Photovoltaic system costs have been declining and in Germany, for example, were reported to have fallen to USD 1389/kW p by the end of 2014. [127] The column headings across the top refer to the annual energy output in kWh expected from each installed kW p . This varies by geographic region because the average insolation depends on the average cloudiness and the thickness of atmosphere traversed by the sunlight. It also depends on the path of the sun relative to the panel and the horizon. \nPanels are usually mounted at an angle based on latitude, and often they are adjusted seasonally to meet the changing solar declination . Solar tracking can also be utilized to access even more perpendicular sunlight, thereby raising the total energy output. The calculated values in the table reflect the total (average) cost in cents per kWh produced. They assume a 10% total capital cost (for instance 4% interest rate , 1% operating and maintenance cost, [128] and depreciation of the capital outlay over 20 years). Normally, photovoltaic modules have a 25-year warranty. [129] [130]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png",
+                "caption": "History of solar rooftop prices 2006–2013. Comparison in US$ per installed watt. [120] [121]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Grid-connected photovoltaic system",
+        "text": "A grid-connected photovoltaic system, or grid-connected PV system is an electricity generating solar PV power system that is connected to the utility grid . A grid-connected PV system consists of solar panels , one or several inverters , a power conditioning unit and grid connection equipment. They range from small residential and commercial rooftop systems to large utility-scale solar power stations . When conditions are right, the grid-connected PV system supplies the excess power, beyond consumption by the connected load, to the utility grid . [149]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Solar_panels_on_house_roof_winter_view.jpg/290px-Solar_panels_on_house_roof_winter_view.jpg",
+                "caption": "A grid-connected, residential solar rooftop system near Boston , USA"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Operation",
+        "text": "Residential, grid-connected rooftop systems which have a capacity more than 10 kilowatts can meet the load of most consumers. [150] They can feed excess power to the grid where it is consumed by other users. The feedback is done through a meter to monitor power transferred. Photovoltaic wattage may be less than average consumption, in which case the consumer will continue to purchase grid energy, but a lesser amount than previously. If photovoltaic wattage substantially exceeds average consumption, the energy produced by the panels will be much in excess of the demand. In this case, the excess power can yield revenue by selling it to the grid. Depending on their agreement with their local grid energy company, the consumer only needs to pay the cost of electricity consumed less the value of electricity generated. This will be a negative number if more electricity is generated than consumed. [151] Additionally, in some cases, cash incentives are paid from the grid operator to the consumer. Connection of the photovoltaic power system can be done only through an interconnection agreement between the consumer and the utility company. The agreement details the various safety standards to be followed during the connection. [152]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Giant_photovoltaic_array.jpg/220px-Giant_photovoltaic_array.jpg",
+                "caption": "Photovoltaic power station at Nellis Air Force Base , United States"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Islanding",
+        "text": "Islanding is the condition in which a distributed generator continues to power a location even though power from the electric utility grid is no longer present. Islanding can be dangerous to utility workers, who may not realize that a circuit is still powered, even though there is no power from the electrical grid . For that reason, distributed generators must detect islanding and immediately stop producing power; [ citation needed ] this is referred to as anti-islanding.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/PV-system_urban_home1.png/220px-PV-system_urban_home1.png",
+                "caption": "Diagram of a residential grid-connected PV system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaic_system",
+        "title": "Photovoltaic system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Photovoltaic cells",
+        "text": "A solar cell , or photovoltaic cell, is a device that converts light into electric current using the photovoltaic effect . The first solar cell was constructed by Charles Fritts in the 1880s. [12] The German industrialist Ernst Werner von Siemens was among those who recognized the importance of this discovery. [13] In 1931, the German engineer Bruno Lange developed a photo cell using silver selenide in place of copper oxide , [14] although the prototype selenium cells converted less than 1% of incident light into electricity. Following the work of Russell Ohl in the 1940s, researchers Gerald Pearson, Calvin Fuller and Daryl Chapin created the silicon solar cell in 1954. [15] These early solar cells cost US$286/watt and reached efficiencies of 4.5–6%. [16] In 1957, Mohamed M. Atalla developed the process of silicon surface passivation by thermal oxidation at Bell Labs . [17] [18] The surface passivation process has since been critical to solar cell efficiency . [19] As of 2022 [update] over 90% of the market is crystalline silicon . [20] The array of a photovoltaic system , or PV system, produces direct current (DC) power which fluctuates with the sunlight's intensity. For practical use this usually requires conversion to alternating current (AC), through the use of inverters . [11] Multiple solar cells are connected inside panels. Panels are wired together to form arrays, then tied to an inverter, which produces power at the desired voltage, and for AC, the desired frequency/phase. [11] Many residential PV systems are connected to the grid when available, especially in developed countries with large markets. [21] In these grid-connected PV systems , use of energy storage is optional. In certain applications such as satellites, lighthouses, or in developing countries, batteries or additional power generators are often added as back-ups. Such stand-alone power systems permit operations at night and at other times of limited sunlight. In \"vertical agrivoltaics \" system, solar cells are oriented vertically on farmland, to allow the land to both grow crops and generate renewable energy. [22] Other configurations include floating solar farms , placing solar canopies over parking lots, and installing solar panels on roofs. [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/PV-system-schematics-residential-Eng.png/310px-PV-system-schematics-residential-Eng.png",
+                "caption": "Schematics of a grid-connected residential PV power system [11]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Concentrated solar power",
+        "text": "Concentrated solar power (CSP), also called \"concentrated solar thermal\", uses lenses or mirrors and tracking systems to concentrate sunlight, then uses the resulting heat to generate electricity from conventional steam-driven turbines. [31] A wide range of concentrating technologies exists: among the best known are the parabolic trough , the compact linear Fresnel reflector , the dish Stirling and the solar power tower . Various techniques are used to track the sun and focus light. In all of these systems a working fluid is heated by the concentrated sunlight and is then used for power generation or energy storage. [32] Thermal storage efficiently allows overnight electricity generation, [33] thus complementing PV. [34] CSP generates a very small share of solar power and in 2022 the IEA said that CSP should be better paid for its storage. [35] As of 2021 [update] the levelized cost of electricity from CSP is over twice that of PV. [36] However, their very high temperatures may prove useful to help decarbonize industries (perhaps via hydrogen) which need to be hotter than electricity can provide. [37]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Parabolic_trough.svg/220px-Parabolic_trough.svg.png",
+                "caption": "A parabolic collector concentrates sunlight onto a tube in its focal point."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Current status",
+        "text": "About half of installed capacity is utility scale. [70]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/World_PVOUT_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png/310px-World_PVOUT_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png",
+                "caption": "Map of solar resources from World bank"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Forecasts",
+        "text": "Most new renewable capacity between 2022 and 2027 is forecast to be solar, surpassing coal as the largest source of installed power capacity. [71] : 26 Utility scale is forecast to become the largest source of electricity in all regions except sub-Saharan Africa by 2050. [70] According to a 2021 study, global electricity generation potential of rooftop solar panels is estimated at 27 PWh per year at costs ranging from $40 (Asia) to $240 per MWh (US, Europe). Its practical realization will however depend on the availability and cost of scalable electricity storage solutions. [72]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Reality_versus_IEA_predictions_-_annual_photovoltaic_additions_2002-2016.png/310px-Reality_versus_IEA_predictions_-_annual_photovoltaic_additions_2002-2016.png",
+                "caption": "Actual annual deployments of solar PV vs predictions by the IEA for the period 2002–2016. Predictions have largely and consistently underestimated actual growth."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Concentrating solar power stations",
+        "text": "Commercial concentrating solar power (CSP) plants, also called \"solar thermal power stations\", were first developed in the 1980s. The 377 MW Ivanpah Solar Power Facility , located in California's Mojave Desert, is the world's largest solar thermal power plant project. Other large CSP plants include the Solnova Solar Power Station (150 MW), the Andasol solar power station (150 MW), and Extresol Solar Power Station (150 MW), all in Spain. The principal advantage of CSP is the ability to efficiently add thermal storage, allowing the dispatching of electricity over up to a 24-hour period. Since peak electricity demand typically occurs at about 5 pm, many CSP power plants use 3 to 5 hours of thermal storage. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IvanpahRunning.JPG/260px-IvanpahRunning.JPG",
+                "caption": "Ivanpah Solar Electric Generating System with all three towers under load"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Solar_Plant_kl.jpg/260px-Solar_Plant_kl.jpg",
+                "caption": "Part of the 354 MW Solar Energy Generating Systems (SEGS) parabolic trough solar complex in northern San Bernardino County, California"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Net metering",
+        "text": "In net metering the price of the electricity produced is the same as the price supplied to the consumer, and the consumer is billed on the difference between production and consumption. Net metering can usually be done with no changes to standard electricity meters , which accurately measure power in both directions and automatically report the difference, and because it allows homeowners and businesses to generate electricity at a different time from consumption, effectively using the grid as a giant storage battery. With net metering, deficits are billed each month while surpluses are rolled over to the following month. Best practices call for perpetual roll over of kWh credits. [102] Excess credits upon termination of service are either lost or paid for at a rate ranging from wholesale to retail rate or above, as can be excess annual credits. [103]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Feed-in_Tariff_meter_connections.png/330px-Feed-in_Tariff_meter_connections.png",
+                "caption": "Net metering , unlike a feed-in tariff , requires only one meter, but it must be bi-directional."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Community solar",
+        "text": "A community solar project is a solar power installation that accepts capital from and provides output credit and tax benefits to multiple customers, including individuals, businesses, nonprofits, and other investors. Participants typically invest in or subscribe to a certain kW capacity or kWh generation of remote electrical production. [105]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Solar_farm_in_Wisconsin_01.jpg/220px-Solar_farm_in_Wisconsin_01.jpg",
+                "caption": "Community solar farm in the town of Wheatland, Wisconsin [104]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Energy storage",
+        "text": "Concentrated solar power plants may use thermal storage to store solar energy, such as in high-temperature molten salts. These salts are an effective storage medium because they are low-cost, have a high specific heat capacity, and can deliver heat at temperatures compatible with conventional power systems. This method of energy storage is used, for example, by the Solar Two power station, allowing it to store 1.44 TJ in its 68 m 3 storage tank, enough to provide full output for close to 39 hours, with an efficiency of about 99%. [113] In stand alone PV systems , batteries are traditionally used to store excess electricity. With grid-connected photovoltaic power systems , excess electricity can be sent to the electrical grid . Net metering and feed-in tariff programs give these systems a credit for the electricity they produce. This credit offsets electricity provided from the grid when the system cannot meet demand, effectively trading with the grid instead of storing excess electricity. [114] When wind and solar are a small fraction of the grid power, other generation techniques can adjust their output appropriately, but as these forms of variable power grow, additional balance on the grid is needed. As prices are rapidly declining, PV systems increasingly use rechargeable batteries to store a surplus to be used later at night. Batteries used for grid-storage can stabilize the electrical grid by leveling out peak loads for a few hours. In the future, less expensive batteries could play an important role on the electrical grid, as they can charge during periods when generation exceeds demand and feed their stored energy into the grid when demand is higher than generation. Common battery technologies used in today's home PV systems include nickel-cadmium , lead-acid , nickel metal hydride , and lithium-ion . [115] [116] [ better source needed ] Lithium-ion batteries have the potential to replace lead-acid batteries in the near future, as they are being intensively developed and lower prices are expected due to economies of scale provided by large production facilities such as the Tesla Gigafactory 1 . In addition, the Li-ion batteries of plug-in electric cars may serve as future storage devices in a vehicle-to-grid system. Since most vehicles are parked an average of 95% of the time, their batteries could be used to let electricity flow from the car to the power lines and back. Retired electric vehicle (EV) batteries can be repurposed. [117] Other rechargeable batteries used for distributed PV systems include, sodium–sulfur and vanadium redox batteries, two prominent types of a molten salt and a flow battery, respectively. [118] [119] [120]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png/260px-Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png",
+                "caption": "Seasonal cycle of capacity factors for wind and photovoltaics in Europe shown under idealized assumptions. The figure illustrates the balancing effects of wind and solar energy at the seasonal scale (Kaspar et al., 2019). [121]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Environmental effects",
+        "text": "Solar power is cleaner than electricity from fossil fuels , [20] so can be better for the environment. [128] Solar power does not lead to harmful emissions during operation, but the production of the panels creates some pollution. A 2021 study estimated the carbon footprint of manufacturing monocrystalline panels at 515 g CO 2 /kWp in the US and 740 g CO 2 /kWp in China, [129] but this is expected to fall as manufacturers use more clean electricity and recycled materials. [130] Solar power carries an upfront cost to the environment via production with a carbon payback time of several years as of 2022 [update] , [130] but offers clean energy for the remainder of their 30-year lifetime. [131] The life-cycle greenhouse-gas emissions of solar farms are less than 50 gram (g) per kilowatt-hour (kWh), [132] [133] [134] but with battery storage could be up to 150 g/kWh. [135] In contrast, a combined cycle gas-fired power plant without carbon capture and storage emits around 500 g/kWh, and a coal-fired power plant about 1000 g/kWh. [136] Similar to all energy sources where their total life cycle emissions are mostly from construction, the switch to low carbon power in the manufacturing and transportation of solar devices would further reduce carbon emissions. [134] Lifecycle surface power density of solar power varies [137] but averages about 7 W/m2, compared to about 240 for nuclear power and 480 for gas. [138] However, when the land required for gas extraction and processing is accounted for, gas power is estimated to have not much higher power density than solar. [20] PV requires much larger amounts of land surface to produce the same nominal amount of energy as sources [ which? ] with higher surface power density and capacity factor. According to a 2021 study, obtaining 25% to 80% of electricity from solar farms in their own territory by 2050 would require the panels to cover land ranging from 0.5% to 2.8% of the European Union , 0.3% to 1.4% in India , and 1.2% to 5.2% in Japan and South Korea . [139] Occupation of such large areas for PV farms could drive residential opposition as well as lead to deforestation, removal of vegetation and conversion of farm land. [140] However some countries, such as South Korea and Japan, use land for agriculture under PV , [141] [142] or floating solar, [143] together with other low-carbon power sources. [144] [145] Worldwide land use has minimal ecological impact. [146] Land use can be reduced to the level of gas power by installing on buildings and other built up areas. [137] Harmful materials are used in the production of solar panels, but generally in small amounts. [147] As of 2022 [update] , the environmental impact of perovskite is difficult to estimate, but there is some concern that lead may be a problem. [20] A 2021 International Energy Agency study projects the demand for copper will double by 2040. The study cautions that supply needs to increase rapidly to match demand from large-scale deployment of solar and required grid upgrades. [148] [149] More tellurium and indium may also be needed. [20] Recycling may help. [20] As solar panels are sometimes replaced with more efficient panels, the second-hand panels are sometimes reused in developing countries, for example in Africa . [150] Several countries have specific regulations for the recycling of solar panels . [151] [152] [153] Although maintenance cost is already low compared to other energy sources, [154] some academics have called for solar power systems to be designed to be more repairable . [155] [156] A very small proportion of solar power is concentrated solar power . Concentrated solar power may use much more water than gas-fired power. This can be a problem, as this type of solar power needs strong sunlight so is often built in deserts. [157]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Greenhouse_gas_emissions_per_energy_source.png/260px-Greenhouse_gas_emissions_per_energy_source.png",
+                "caption": "Greenhouse gas emissions per energy source. Solar power is one of the sources with the least greenhouse gas emissions."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Blick_vom_aussichtsturm_h%C3%B6rlitz4.jpg/220px-Blick_vom_aussichtsturm_h%C3%B6rlitz4.jpg",
+                "caption": "Part of the Senftenberg Solarpark , a solar photovoltaic power plant located on former open-pit mining areas close to the city of Senftenberg , in Eastern Germany. The 78 MW Phase 1 of the plant was completed within three months."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Politics",
+        "text": "Solar production cannot be cut off by geopolitics once installed, unlike oil and gas, which contributes to energy security . [159] As of 2022 [update] over 40% of global polysilicon manufacturing capacity is in Xinjiang in China , [160] which raises concerns about human rights violations ( Xinjiang internment camps ) as well as supply chain dependency. [161]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg/260px-202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg.png",
+                "caption": "Acceptance of wind and solar facilities in one's community is stronger among U.S. Democrats (blue), while acceptance of nuclear power plants is stronger among U.S. Republicans (red). [158]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Stand alone system with batteries",
+        "text": "In stand-alone photovoltaic power systems, the electrical energy produced by the photovoltaic panels cannot always be used directly. As the demand from the load does not always equal the solar panel capacity, battery banks are generally used.\nThe primary functions of a storage battery in a stand-alone PV system are:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PV-system_country_home1.png/220px-PV-system_country_home1.png",
+                "caption": "Schematic of a stand-alone PV system with battery and charger"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stand-alone_power_system",
+        "title": "Stand-alone power system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Theory and construction",
+        "text": "Photovoltaic modules consist of a large number of solar cells and use light energy ( photons ) from the Sun to generate electricity through the photovoltaic effect . Most modules use wafer -based crystalline silicon cells or thin-film cells . The structural ( load carrying ) member of a module can be either the top layer or the back layer. Cells must be protected from mechanical damage and moisture. Most modules are rigid, but semi-flexible ones based on thin-film cells are also available. The cells are usually connected electrically in series , one to another to the desired voltage, and then in parallel to increase current. The power (in watts ) of the module is the voltage (in volts ) multiplied by the current (in amperes ), and depends both on the amount of light and on the electrical load connected to the module. The manufacturing specifications on solar panels are obtained under standard conditions, which are usually not the true operating conditions the solar panels are exposed to on the installation site. [10] A PV junction box is attached to the back of the solar panel and functions as its output interface. External connections for most photovoltaic modules use MC4 connectors to facilitate easy weatherproof connections to the rest of the system. A USB power interface can also be used. [11] Solar panels also use metal frames consisting of racking components, brackets, reflector shapes, and troughs to better support the panel structure. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/From_a_solar_cell_to_a_PV_system.svg/280px-From_a_solar_cell_to_a_PV_system.svg.png",
+                "caption": "From a solar cell to a PV system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Smart solar modules",
+        "text": "Smart modules are different from traditional solar panels because the power electronics embedded in the module offers enhanced functionality such as panel-level maximum power point tracking , monitoring, and enhanced safety. [ citation needed ] Power electronics attached to the frame of a solar module, or connected to the photovoltaic circuit through a connector, are not properly considered smart modules. [14] Several companies have begun incorporating into each PV module various embedded power electronics such as:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Smart_Module.png/220px-Smart_Module.png",
+                "caption": "Smart module"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Technology",
+        "text": "Most solar modules are currently produced from crystalline silicon (c-Si) solar cells made of polycrystalline or monocrystalline silicon . In 2021, crystalline silicon accounted for 95% of worldwide PV production, [16] while the rest of the overall market is made up of thin-film technologies using cadmium telluride (CdTe), copper indium gallium selenide (CIGS) and amorphous silicon (a-Si) . [17] Emerging, third-generation solar technologies use advanced thin-film cells. They produce a relatively high-efficiency conversion for a lower cost compared with other solar technologies. Also, high-cost, high-efficiency, and close-packed rectangular multi-junction (MJ) cells are usually used in solar panels on spacecraft , as they offer the highest ratio of generated power per kilogram lifted into space. MJ-cells are compound semiconductors and made of gallium arsenide (GaAs) and other semiconductor materials. Another emerging PV technology using MJ-cells is concentrator photovoltaics (CPV).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Global_photovoltaics_market_share_by_technology_1980-2021.svg/280px-Global_photovoltaics_market_share_by_technology_1980-2021.svg.png",
+                "caption": "Market-share of PV technologies since 1980"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Ground",
+        "text": "Large utility-scale solar power plants frequently use ground-mounted photovoltaic systems. Their solar modules are held in place by racks or frames that are attached to ground-based mounting supports. [21] [22] Ground based mounting supports include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Solar_array-3.jpg/150px-Solar_array-3.jpg",
+                "caption": "Solar array ground mounting"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Vertical bifacial solar array",
+        "text": "Vertical bifacial solar cells oriented towards east and west to catch the sun's irradiance more efficiently in the morning and evening. Applications include agrivoltaics , solar fencing, highway and railroad noise dampeners and barricades . [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Agrivoltaic_installation_Foulum.jpg/220px-Agrivoltaic_installation_Foulum.jpg",
+                "caption": "Agrivoltaic vertical bifacial solar panels"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vertical_Bifacial_vs_South_facing_solar_array.webp/220px-Vertical_Bifacial_vs_South_facing_solar_array.webp.png",
+                "caption": "Vertical Bifacial vs south facing solar array power output Vertical Bifacial South facing solar array"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Vertical_solar_along_interstate.webp/220px-Vertical_solar_along_interstate.webp.png",
+                "caption": "Vertical bifacial solar along highway"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Solar Canopy",
+        "text": "Solar canopies are solar arrays which are installed on top of a traditional canopy . These canopies could be a parking lot canopy, carport , gazebo , Pergola , or patio cover .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Parking_under_Solar_Canopy_%2852937580768%29.jpg/220px-Parking_under_Solar_Canopy_%2852937580768%29.jpg",
+                "caption": "Solar canopy parking lot in New Haven at Hotel Marcel.  There are EV level 2 chargers underneath the canopy and a 12-stall Tesla Supercharger behind."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Portable",
+        "text": "Portable solar panels can ensure electric current, enough to charge devices (mobile, radio, ...) via USB-port or to charge a powerbank f.e. Special features of the panels include high flexibility, high durability & waterproof characteristics. They are good for travel or camping.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Portable_solar_panel2.jpg/220px-Portable_solar_panel2.jpg",
+                "caption": "A 5V, 2A, 10W solar panel with USB port"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Power curve",
+        "text": "In general with individual solar panels, if not enough current is taken, then power isn't maximised. If too much current is taken then the voltage collapses. The optimum current draw is roughly proportional to the amount of sunlight striking the panel. Solar panel capacity is specified by the MPP (maximum power point) value of solar panels in full sunlight.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Solar-Cell-IV-curve-with-MPP.png/220px-Solar-Cell-IV-curve-with-MPP.png",
+                "caption": "A typical voltage/current curve for individual unshadowed solar panels. Maximum power point tracking ensures that as much power as possible is collected."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Inverters",
+        "text": "Solar inverters convert the DC power provided by panels to AC power. MPP (Maximum power point) of the solar panel consists of MPP voltage (V mpp ) and MPP current (I mpp ). Performing maximum power point tracking (MPPT), a solar inverter samples the output (I-V curve) from the solar cell and applies the proper electrical load to obtain maximum power. An AC ( alternating current ) solar panel has a small DC to AC microinverter on the back and produces AC power with no external DC connector . AC modules are defined by Underwriters Laboratories as the smallest and most complete system for harvesting solar energy. [32] [ need quotation to verify ] Micro-inverters work independently to enable each panel to contribute its maximum possible output for a given amount of sunlight, but can be more expensive. [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UP-curve_of_partially_shaded_solar_generator.png/220px-UP-curve_of_partially_shaded_solar_generator.png",
+                "caption": "Power/Voltage-curve of a partially shaded PV module, with marked local and global MPP"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Module interconnection",
+        "text": "Module electrical connections are made with conducting wires that take the current off the modules and are sized according to the current rating and fault conditions, and sometimes include in-line fuses. Panels are typically connected in series of one or more panels to form strings to achieve a desired output voltage, and strings can be connected in parallel to provide the desired current capability (amperes) of the PV system. In string connections the voltages of the modules add, but the current is determined by the lowest performing panel. This is known as the \"Christmas light effect\". In parallel connections the voltages will be the same, but the currents add. Arrays are connected up to meet the voltage requirements of the inverters and to not greatly exceed the current limits. Blocking and bypass diodes may be incorporated within the module or used externally to deal with partial array shading, in order to maximize output. For series connections, bypass diodes are placed in parallel with modules to allow current to bypass shaded modules which would otherwise severely limit the current. For paralleled connections, a blocking diode may be placed in series with each module's string to prevent current flowing backwards through shaded strings thus short-circuiting other strings.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Photovoltaic_Diode_Connections.png/220px-Photovoltaic_Diode_Connections.png",
+                "caption": "A connection example, a blocking diode is placed in series with each module string, whereas bypass diodes are placed in parallel with modules."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Efficiency",
+        "text": "Each module is rated by its DC output power under standard test conditions (STC) and hence the on field output power might vary. Power typically ranges from 100 to 365 Watts (W). The efficiency of a module determines the area of a module given the same rated output –  an 8% efficient 230 W module will have twice the area of a 16% efficient 230 W module. Some commercially available solar modules exceed 24% efficiency. [35] [36] Currently, [ needs update ] the best achieved sunlight conversion rate (solar module efficiency) is around 21.5% in new commercial products [37] typically lower than the efficiencies of their cells in isolation. The most efficient mass-produced solar modules have power density values of up to 175 W/m 2 (16.22 W/ft 2 ). [38] The current versus voltage curve of a module provides useful information about its electrical performance. [39] Manufacturing processes often cause differences in the electrical parameters of different modules photovoltaic, even in cells of the same type. Therefore, only the experimental measurement of the I–V curve allows us to accurately establish the electrical parameters of a photovoltaic device. This measurement provides highly relevant information for the design, installation and maintenance of photovoltaic systems. Generally, the electrical parameters of photovoltaic modules are measured by indoor tests. However, outdoor testing has important advantages such as no expensive artificial light source required, no sample size limitation, and more homogeneous sample illumination. Capacity factor of solar panels is limited primarily by geographic latitude and varies significantly depending on cloud cover, dust, day length and other factors. In the United Kingdom , seasonal capacity factor ranges from 2% (December) to 20% (July), with average annual capacity factor of 10–11%, while in Spain the value reaches 18%. [40] Globally, capacity factor for utility-scale PV farms was 16.1% in 2019. [41] [ unreliable source? ] Overheating is the most important factor for the efficiency of the solar panel. [42]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/NREL_PV_Module_Record_Efficiency_Chart.png/280px-NREL_PV_Module_Record_Efficiency_Chart.png",
+                "caption": "Reported timeline of champion solar module energy conversion efficiencies since 1988 ( National Renewable Energy Laboratory ) [34]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Performance and degradation",
+        "text": "Module performance is generally rated under standard test conditions (STC): irradiance of 1,000 W/m 2 , solar spectrum of AM 1.5 and module temperature at 25 °C. [44] The actual voltage and current output of the module changes as lighting, temperature and load conditions change, so there is never one specific voltage at which the module operates. Performance varies depending on geographic location, time of day, the day of the year, amount of solar irradiance , direction and tilt of modules, cloud cover, shading, soiling , state of charge, and temperature. Performance of a module or panel can be measured at different time intervals with a DC clamp meter or shunt and logged, graphed, or charted with a chart recorder or data logger. For optimum performance, a solar panel needs to be made of similar modules oriented in the same direction perpendicular to direct sunlight. Bypass diodes are used to circumvent broken or shaded panels and optimize output. These bypass diodes are usually placed along groups of solar cells to create a continuous flow. [45] Electrical characteristics include nominal power (P MAX , measured in W ), open-circuit voltage (V OC ), short-circuit current (I SC , measured in amperes ), maximum power voltage (V MPP ), maximum power current (I MPP ), peak power, ( watt-peak , W p ), and module efficiency (%). Open-circuit voltage or V OC is the maximum voltage the module can produce when not connected to an electrical circuit or system. [46] V OC can be measured with a voltmeter directly on an illuminated module's terminals or on its disconnected cable. The peak power rating, W p , is the maximum output under standard test conditions (not the maximum possible output). Typical modules, which could measure approximately 1 by 2 metres (3 ft × 7 ft), will be rated from as low as 75 W to as high as 600 W, depending on their efficiency. At the time of testing, the test modules are binned according to their test results, and a typical manufacturer might rate their modules in 5 W increments, and either rate them at +/- 3%, +/-5%, +3/-0% or +5/-0%. [47] [48] [49]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Actual_output_in_volts%2C_amps%2C_and_wattage_from_a_100_Watt_Solar_module_in_August.jpg/280px-Actual_output_in_volts%2C_amps%2C_and_wattage_from_a_100_Watt_Solar_module_in_August.jpg",
+                "caption": ""
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Variability_of_Solar_Energy.jpg/280px-Variability_of_Solar_Energy.jpg",
+                "caption": "This chart illustrates the effect of clouds on solar energy production."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Maintenance",
+        "text": "Solar panel conversion efficiency, typically in the 20% range, is reduced by the accumulation of dust, grime, pollen, and other particulates on the solar panels, collectively referred to as soiling . \"A dirty solar panel can reduce its power capabilities by up to 30% in high dust/pollen or desert areas\", says Seamus Curran, associate professor of physics at the University of Houston and director of the Institute for NanoEnergy, which specializes in the design, engineering, and assembly of nanostructures. [59] The average soiling loss in the world in 2018 is estimated to be at least 3% – 4%. [60] Paying to have solar panels cleaned is a good investment in many regions, as of 2019. [60] However, in some regions, cleaning is not cost-effective. In California as of 2013 soiling-induced financial losses were rarely enough to warrant the cost of washing the panels. On average, panels in California lost a little less than 0.05% of their overall efficiency per day. [61] There are also occupational hazards with solar panel installation and maintenance. A 2015–2018 study in the UK investigated 80 PV-related incidents of fire, with over 20 \"serious fires\" directly caused by PV installation, including 37 domestic buildings and 6 solar farms. In 1 ⁄ 3 of the incidents a root cause was not established and in a majority of others was caused by poor installation, faulty product or design issues. The most frequent single element causing fires was the DC isolators. [62] A 2021 study by kWh Analytics determined median annual degradation of PV systems at 1.09% for residential and 0.8% for non-residential ones, almost twice that previously assumed. [63] A 2021 module reliability study found an increasing trend in solar module failure rates with 30% of manufacturers experiencing safety failures related to junction boxes (growth from 20%) and 26% bill-of-materials failures (growth from 20%). [64] Cleaning methods for solar panels can be divided into 5 groups: manual tools, mechanized tools (such as tractor mounted brushes), installed hydraulic systems (such as sprinklers), installed robotic systems, and deployable robots. Manual cleaning tools are by far the most prevalent method of cleaning, most likely because of the low purchase cost. However, in a Saudi Arabian study done in 2014, it was found that \"installed robotic systems, mechanized systems, and installed hydraulic systems are likely the three most promising technologies for use in cleaning solar panels\". [65]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cleaning_solar_panel.jpg/220px-Cleaning_solar_panel.jpg",
+                "caption": "General cleaning of ground-based solar panels at the Shanta Gold mine in Tanzania"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Googleplex_Solar_panels.jpg/220px-Googleplex_Solar_panels.jpg",
+                "caption": "Deeper level of cleaning with pressure washing of the car port solar panels at Googleplex, Mountain View, California"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Price",
+        "text": "The price of solar electrical power has continued to fall so that in many countries it has become cheaper than fossil fuel electricity from the electricity grid since 2012, a phenomenon known as grid parity . [89] With the rise of global awareness, institutions such as the IRS have adopted a tax credit format, refunding a portion of any solar panel array for private use. [90] The price of a solar array only continues to fall. Average pricing information divides in three pricing categories: those buying small quantities (modules of all sizes in the kilowatt range annually), mid-range buyers (typically up to 10 MWp annually), and large quantity buyers (self-explanatory—and with access to the lowest prices). Over the long term there is clearly a systematic reduction in the price of cells and modules. For example, in 2012 it was estimated that the quantity cost per watt was about US$0.60, which was 250 times lower than the cost in 1970 of US$150. [91] [92] A 2015 study shows price/kWh dropping by 10% per year since 1980, and predicts that solar could contribute 20% of total electricity consumption by 2030, whereas the International Energy Agency predicts 16% by 2050. [93] Real-world energy production costs depend a great deal on local weather conditions. In a cloudy country such as the United Kingdom, the cost per produced kWh is higher than in sunnier countries like Spain. Following to RMI , Balance-of-System (BoS) elements, this is, non-module cost of non- microinverter solar modules (as wiring, converters, racking systems and various components) make up about half of the total costs of installations. For merchant solar power stations, where the electricity is being sold into the electricity transmission network, the cost of solar energy will need to match the wholesale electricity price. This point is sometimes called 'wholesale grid parity' or 'busbar parity'. [89]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg/280px-1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg.png",
+                "caption": "Swanson's law –stating that solar module prices have dropped about 20% for each doubling of installed capacity—defines the \" learning rate \" of solar photovoltaics . [87] [88]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Energy_pricing.png/280px-Energy_pricing.png",
+                "caption": "Short term normalized cost comparisons demonstrating value of various electric generation technologies [94]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Energy_pricing_longterm.png/280px-Energy_pricing_longterm.png",
+                "caption": "Long term normalized cost comparisons demonstrating value of various electric generation technologies [94]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_panel",
+        "title": "Solar panel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Demand side management and grid storage",
+        "text": "The demand side can also store electricity from the grid, for example charging a battery electric vehicle stores energy for a vehicle and storage heaters , district heating storage or ice storage provide thermal storage for buildings. [6] At present this storage serves only to shift consumption to the off-peak time of day, no electricity is returned to the grid. The need for grid storage to provide peak power is reduced by demand side time of use pricing , one of the benefits of smart meters . At the household level, consumers may choose less expensive off-peak times to wash and dry clothes, use dishwashers, take showers and cook. As well, commercial and industrial users will take advantage of cost savings by deferring some processes to off-peak times. Regional impacts from the unpredictable operation of wind power has created a new need for interactive demand response , where the utility communicates with the demand. Historically this was only done in cooperation with large industrial consumers, but now may be expanded to entire grids. [7] For instance, a few large-scale projects in Europe link variations in wind power to change industrial food freezer loads, causing small variations in temperature. If communicated on a grid-wide scale, small changes to heating/cooling temperatures would instantly change consumption across the grid. A report released in December 2013 by the United States Department of Energy further describes the potential benefits of energy storage and demand side technologies to the electric grid: \"Modernizing the electric system will help the nation meet the challenge of handling projected energy needs—including addressing climate change by integrating more energy from renewable sources and enhancing efficiency from non-renewable energy processes. Advances to the electric grid must maintain a robust and resilient electricity delivery system, and energy storage can play a significant role in meeting these challenges by improving the operating capabilities of the grid, lowering cost and ensuring high reliability, as well as deferring and reducing infrastructure investments. Finally, energy storage can be instrumental for emergency preparedness because of its ability to provide backup power as well as grid stabilization services\". [8] The report was written by a core group of developers representing Office of Electricity Delivery and Energy Reliability , ARPA-E , Office of Science , Office of Energy Efficiency and Renewable Energy , Sandia National Laboratories , and Pacific Northwest National Laboratory ; all of whom are engaged in the development of grid energy storage. [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Energy-Units-01.png/220px-Energy-Units-01.png",
+                "caption": "A sense of units and scale for electrical energy production and consumption"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Batteries",
+        "text": "Battery storage was used in the early days of direct current electric power. Where AC grid power was not readily available, isolated lighting plants run by wind turbines or internal combustion engines provided lighting and power to small motors. The battery system could be used to run the load without starting the engine or when the wind was calm. A bank of lead–acid batteries in glass jars both supplied power to illuminate lamps, as well as to start an engine to recharge the batteries. Battery storage technology is typically around 80% to more than 90% efficient for newer lithium-ion devices. [38] [39] Battery systems connected to large solid-state converters have been used to stabilize power distribution networks. Some grid batteries are co-located with renewable energy plants, either to smooth the power supplied by the intermittent wind or solar output, or to shift the power output into other hours of the day when the renewable plant cannot produce power directly (see Installation examples ). These hybrid systems (generation and storage) can either alleviate the pressure on the grid when connecting renewable sources or be used to reach self-sufficiency and work \"off-the-grid\" (see Stand-alone power system ). Contrary to electric vehicle applications, batteries for stationary storage do not suffer from mass or volume constraints. However, due to the large amounts of energy and power implied, the cost per power or energy unit is crucial. The relevant metrics to assess the interest of a technology for grid-scale storage is the $/Wh (or $/W) rather than the Wh/kg (or W/kg). The electrochemical grid storage was made possible thanks to the development of the electric vehicle, that induced a fast decrease in the production costs of batteries below $300/kWh. By optimizing the production chain, major industrials aimed to reach $150/kWh by the end of 2020, but actually achieved $140/kWh. The rate of decline in battery prices has consistently outpaced most estimates, reaching $132/kWh in 2021. [40] These batteries rely on a lithium-ion technology, which is suited for mobile applications (high cost, high density). Technologies optimized for the grid should focus on low cost per kWh.   Lithium iron phosphate batteries are increasingly being used in both vehicles and grid storage because of their low cost, scale and acceptable energy density for many applications. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Light-plant-Fig1198-Page989-Ch45-Hawkins-Electrical-Guide.png/220px-Light-plant-Fig1198-Page989-Ch45-Hawkins-Electrical-Guide.png",
+                "caption": "A 900 watt direct current light plant using 16 separate lead acid battery cells (32 volts) from 1917. [35]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Battery-cost-learning-curve.png/220px-Battery-cost-learning-curve.png",
+                "caption": "Learning curve of lithium-ion batteries: the price of batteries declined by 97% in three decades. [36] [37]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Electric vehicles",
+        "text": "Companies are researching the possible use of electric vehicles to meet peak demand. A parked and plugged-in electric vehicle could sell the electricity from the battery during peak loads and charge either during night (at home) or during off-peak. [69] Plug-in hybrid or electric cars could be used [70] [71] [72] for their energy storage capabilities. Vehicle-to-grid technology can be employed, turning each vehicle with its 20 to 50 kWh battery pack into a distributed load-balancing device or emergency power source. This represents two to five days per vehicle of average household requirements of 10 kWh per day, assuming annual consumption of 3,650 kWh. This quantity of energy is equivalent to between 60 and 480 kilometres (40 and 300 mi) of range in such vehicles consuming 0.1 to 0.3 kilowatt-hours per kilometre (0.16 to 0.5 kWh/mi). These figures can be achieved even in home-made electric vehicle conversions . Some electric utilities plan to use old plug-in vehicle batteries (sometimes resulting in a giant battery) to store electricity [73] [74] However, a large disadvantage of using vehicle to grid energy storage would be if each storage cycle stressed the battery with one complete charge-discharge cycle. [70] However, one major study showed that used intelligently, vehicle-to-grid storage actually improved the batteries longevity. [75] Conventional (cobalt-based) lithium-ion batteries break down with the number of cycles – newer li-ion batteries do not break down significantly with each cycle, and so have much longer lives. One approach is to reuse unreliable vehicle batteries in dedicated grid storage [76] as they are expected to be good in this role for ten years. [77] If such storage is done on a large scale it becomes much easier to guarantee replacement of a vehicle battery degraded in mobile use, as the old battery has value and immediate use.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg/220px-Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg",
+                "caption": "Nissan Leaf , the world's top-selling highway-capable electric car as of 2015"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Flywheel",
+        "text": "Mechanical inertia is the basis of this storage method. When the electric power flows into the device, an electric motor accelerates a heavy rotating disc. The motor acts as a generator when the flow of power is reversed, slowing down the disc and producing electricity. Electricity is stored as the kinetic energy of the disc. Friction must be kept to a minimum to prolong the storage time. This is often achieved by placing the flywheel in a vacuum and using magnetic bearings , tending to make the method expensive. Greater flywheel speeds allow greater storage capacity but require strong materials such as steel or composite materials to resist the centrifugal forces . The ranges of power and energy storage technology that make this method economic, however, tends to make flywheels unsuitable for general power system application; they are probably best suited to load-leveling applications on railway power systems and for improving power quality in renewable energy systems such as the 20MW system in Ireland. [78] [79] Applications that use flywheel storage are those that require very high bursts of power for very short durations such as tokamak [80] and laser experiments where a motor generator is spun up to operating speed and is partially slowed down during discharge. Flywheel storage is also currently used in the form of the Diesel rotary uninterruptible power supply to provide uninterruptible power supply systems (such as those in large datacenters ) for ride-through power necessary during transfer [81] – that is, the relatively brief amount of time between a loss of power to the mains and the warm-up of an alternate source, such as a diesel generator . This potential solution has been implemented by EDA [82] [ better source needed ] in the Azores on the islands of Graciosa and Flores . This system uses an 18 megawatt-second flywheel to improve power quality and thus allow increased renewable energy usage. As the description suggests, these systems are again designed to smooth out transient fluctuations in supply, and could never be used to cope with an outage exceeding a couple of days. Powercorp in Australia have been developing applications using wind turbines, flywheels and low load diesel (LLD) technology to maximize the wind input to small grids. A system installed in Coral Bay, Western Australia, uses wind turbines coupled with a flywheel based control system and LLDs. The flywheel technology enables the wind turbines to supply up to 95 percent of Coral Bay's energy supply at times, with a total annual wind penetration of 45 percent. [83]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/G2_front2.jpg/220px-G2_front2.jpg",
+                "caption": "NASA G2 flywheel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Pumped water",
+        "text": "In 2008, world pumped-storage generating capacity was 104 GW , [95] while other sources claim 127 GW, which comprises the vast majority of all types of grid electric storage – all other types combined are some hundreds of MW. [96] In many places, pumped-storage hydroelectricity is used to even out the daily generating load, by pumping water to a high storage reservoir during off-peak hours and weekends, using the excess base-load capacity from coal or nuclear sources.  During peak hours, this water can be used for hydroelectric generation, often as a high value rapid-response reserve to cover transient peaks in demand. Pumped storage recovers about 70% to 85% of the energy consumed, and is currently the most cost effective form of mass power storage. [97] The chief problem with pumped storage is that it usually requires two nearby reservoirs at considerably different heights, and often requires considerable capital expenditure. [98] Pumped water systems have high dispatchability , meaning they can come on-line very quickly, typically within 15 seconds, [99] which makes these systems very efficient at soaking up variability in electrical demand from consumers. There is over 90 GW of pumped storage in operation around the world, which is about 3% of instantaneous global generation capacity. Pumped water storage systems, such as the Dinorwig storage system in Britain, hold five or six hours of generating capacity, [99] and are used to smooth out demand variations. Another example is the 1836 MW Tianhuangping Pumped-Storage Hydro Plant in China, which has a reservoir capacity of eight million cubic meters (2.1 billion U.S. gallons or the volume of water over Niagara Falls in 25 minutes) with a vertical distance of 600 m (1970 feet). The reservoir can provide about 13 GW·h of stored gravitational potential energy (convertible to electricity at about 80% efficiency), or about 2% of China's daily electricity consumption. [100] A new concept in pumped-storage is utilizing wind energy or solar power to pump water. Wind turbines or solar cells that direct drive water pumps for an energy storing wind or solar dam can make this a more efficient process but are limited. Such systems can only increase kinetic water volume during windy and daylight periods. A study published in 2013 showed rooftop solar, coupled to existing pumped-storage, could replace the reactors lost at Fukushima with an equivalent capacity factor. [101]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG/220px-Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG",
+                "caption": "Mingtan Pumped-Storage Hydro Power Plant dam in Nantou , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Hydroelectric dams",
+        "text": "Hydroelectric dams with large reservoirs can also be operated to provide peak generation at times of peak demand. Water is stored in the reservoir during periods of low demand and released through the plant when demand is higher.  The net effect is the same as pumped storage, but without the pumping loss. Depending on the reservoir capacity the plant can provide daily, weekly, or seasonal load following. Many existing hydroelectric dams are fairly old (for example, the Hoover Dam was built in the 1930s), and their original design predated the newer intermittent power sources such as wind and solar by decades. A hydroelectric dam originally built to provide baseload power will have its generators sized according to the average flow of water into the reservoir. Uprating such a dam with additional generators increases its peak power output capacity, thereby increasing its capacity to operate as a virtual grid energy storage unit. [102] [103] The United States Bureau of Reclamation reports an investment cost of $69 per kilowatt capacity to uprate an existing dam, [102] compared to more than $400 per kilowatt for oil-fired peaking generators. While an uprated hydroelectric dam does not directly store excess energy from other generating units, it behaves equivalently by accumulating its own fuel – incoming river water – during periods of high output from other generating units. Functioning as a virtual grid storage unit in this way, the uprated dam is one of the most efficient forms of energy storage, because it has no pumping losses to fill its reservoir, only increased losses to evaporation and leakage. A dam which impounds a large reservoir can store and release a correspondingly large amount of energy, by controlling river outflow and raising or lowering its reservoir level a few meters. Limitations do apply to dam operation, their releases are commonly subject to government regulated water rights to limit downstream effect on rivers. For example, there are grid situations where baseload thermal plants, nuclear or wind turbines are already producing excess power at night, dams are still required to release enough water to maintain adequate river levels, whether electricity is generated or not. Conversely there's a limit to peak capacity, which if excessive could cause a river to flood for a few hours each day. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/FeiCueiReservoir.jpg/220px-FeiCueiReservoir.jpg",
+                "caption": "Fetsui hydroelectric dam in New Taipei , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Generation",
+        "text": "With the rapid decline in the cost of solar photovoltaics , there is a strong and accelerating trend towards the use of solar electricity in mini grids. According to a 2022 study by the World Bank's ESMAP, approximately 51 percent of installed mini grids are solar or solar hybrid (generally solar + diesel), followed by those powered only by hydro (35%), fossil fuel (10%), and other generation technologies such as wind (5%). The trend is accelerating: more than 10 times as many solar mini grids were built per year from 2016 to 2020 than fossil fuel mini grids. Almost 99 percent of all planned mini grids are solar or solar hybrid. [4] Solar hybrid mini grids include one or more other sources of electricity generation, typically a diesel generator or sometimes a generator powered by biomass fuel to a provide a dispatchable source of electricity in the event of extended cloudily periods. Most solar mini grids are hybridized with a diesel generator that provides backup power in the event of extended cloudy periods. [17] The diesel generator typically generates less than 10% of the energy consumed by mini grid customers on an annual basis. In areas where agricultural residues such as rice husk or animal manure are plentiful, biomass or biogas generators can take the place of diesel backup generation. [18] Where suitable sites allow, small scale hydroelectricity (micro- or mini-hydropower) provide cost-effective 24-hour a day electricity generation. In areas where windspeeds are consistently high and/or sunlight is very restricted seasonally, wind is used to power mini grids, often in a hybrid configuration with solar or diesel or both. A vital component of a mini-grid electric system is on-site, reliable source of energy generation. Traditional mini-grid generation for remote areas came from diesel engine alternators, which incurred high running costs, low efficiency and high maintenance. To obtain the reliability of a fossil fuel powered grid with greater sustainability, hybrid energy systems can be used to integrate renewable energy technologies with diesel generators, batteries, and inverters. [19] The main concern with generation is the fluctuation in load demand that imposes varied power requirements from the generation system. [20] These fluctuations can vary throughout a single day, from day to day, or even on the scale of weeks to months, which necessitates flexible mini-grid generation. In the case of limited power generation without a source of energy storage, peak loads can demand more power than the mini-grid generation is capable of supplying, which results in brownouts or blackouts . [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hybrid_Power_System.gif/383px-Hybrid_Power_System.gif",
+                "caption": "Hybrid power system combining wind, solar PV, and conventional diesel generation with energy storage."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mini-grid",
+        "title": "Mini-grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Distribution",
+        "text": "A mini-grid distribution system carries the energy produced by the generation source to the end users. It consists of poles and low voltage (<1000 V) distribution wires as well as protection equipment necessary to enable safe and effective energy distribution. If a feeder in the distribution system is longer than roughly 1 km in distance, then it is generally necessary to use transformers to step up the electricity to medium voltage (35 kV or below) to reduce ohmic losses. Depending on the load requirements, a distribution system can be in AC single or three phase power or DC . [22] If there is the prospect that the main grid may someday arrive, the mini grid distribution network is often built to utility standards so that the distribution network can be easily integrated into the national grid. If the mini grid is certain to remain disconnected from the main grid (for example, if it is located on an island distant from shore) distribution networks are sometimes built to standards that are lower than the national grid, but still ensure safety and efficiency. Electricity is sold to customers using either pre-pay or postpay meters. Pre-pay meters are more common and work like pre-paid phone plans, automatically disconnecting customes when the amount of purchased electricity is consumed. Because electricity consumed during sunny hours is less costly to produce than electricity that must be stored in batteries or generated from a diesel generator, mini grids metering systems sometimes provide lower tariffs for daytime consumption, or the ability to curtail lower-priority customers in the event of energy shortages. The use of a pre-made switchboard (sometimes referred to as a ready-board) with a few light switches and outlets can eliminate the costs of internal household wiring.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Household_mini_grid_switchboard%2C_eliminating_the_need_for_extensive_household_wiring.jpg/220px-Household_mini_grid_switchboard%2C_eliminating_the_need_for_extensive_household_wiring.jpg",
+                "caption": "Tata Power Renewable Microgrid household switchboard, eliminating the need for extensive household wiring"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mini-grid",
+        "title": "Mini-grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Financial benefits",
+        "text": "Mini-grids can provide significant financial benefits in rural electrification efforts in developing countries. First, deployment of mini-grids in rural unelectrified areas circumvents the high costs and logistical challenges associated with extending national grid infrastructure to these regions. This not only makes electrification more financially feasible but also accelerates the pace of rural electrification, contributing to broader economic development goals. Second, the use of renewable energy sources like solar can lower the levelized cost of electricity while reducing dependency on fossil fuels and fluctuating global energy prices. Third, by providing reliable electricity, mini-grids stimulate economic growth in rural areas, fostering small businesses and industries, which in turn can increase local income levels. [23] For instance, a study on solar mini-grids in Kenya and Nigeria showed a significant increase in productivity and economic activity. The median income of rural Kenyan community members quadrupled, and business establishments reported an increase in operational hours, expansion in products and services, and hiring more employees. Additionally, mini-grids led to a shift from hazardous energy sources like kerosene lamps to safer, more reliable electricity, further enhancing economic stability and health in these communities. [1] Mini-grids are also able to spread electrical storage and generation across many users which can reduce the cost when compared to solar home systems where surpluses or generation or storage cannot be shared with neighboring houses. [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fixed_Tilt_Solar_panel_at_Canterbury_Municipal_Building_Canterbury_New_Hampshire.jpg/220px-Fixed_Tilt_Solar_panel_at_Canterbury_Municipal_Building_Canterbury_New_Hampshire.jpg",
+                "caption": "Solar panels are often used in mini-grids to reduce the need for diesel generators."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mini-grid",
+        "title": "Mini-grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Technical risks",
+        "text": "One of the main technical risks associated with mini-grids is the load uncertainty. It is often difficult to estimate the load size, growth, and schedule which can lead to the system running with lower efficiency and higher cost. It is also difficult to support loads that are constantly changing over time, as they typically are when using mini-grids. [23] There is also a risk to power quality when using mini-grids. Integrating photovoltaic devices and batteries can be disruptive to the existing grid and can cause it to become unstable. [23] Another technical drawback of using mini-grids is that failure of hardware in one part of the grid could affect the entire system. If one section if the grid is damaged, the rest of the grid could fail as well. This is a risk that exists with any type of grid, however the regions where mini-grids are typically used are poor rural areas with less access to maintenance services so the effects are exacerbated. [23] While helpful for energy storage, the batteries used in mini-grids also have risks of their own. They are usually expensive and as they age they have a large influence on the energy that is supplied to the grid. If the batteries are not replaced at the correct time, the energy provided by the whole grid could be decreased. [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Roads_in_the_rural_areas_-_panoramio.jpg/220px-Roads_in_the_rural_areas_-_panoramio.jpg",
+                "caption": "Most areas where mini-grids are used are rural and have little access to supplies."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mini-grid",
+        "title": "Mini-grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Role in addressing climate change",
+        "text": "As part of the global effort to limit climate change , most countries have committed to net zero greenhouse gas emissions . [26] In practice, this means phasing out fossil fuels and replacing them with low-emissions energy sources. [12] At the 2023 United Nations Climate Change Conference , around three-quarters of the world's countries set a goal of tripling renewable energy capacity by 2030. [27] The European Union aims to generate 40% of its electricity from renewables by the same year. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2021_Death_rates%2C_by_energy_source.svg/300px-2021_Death_rates%2C_by_energy_source.svg.png",
+                "caption": "Deaths caused as a result of fossil fuel use (areas of rectangles in chart) greatly exceed those resulting from production of renewable energy (rectangles barely visible in chart). [25]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Intermittency",
+        "text": "The two most important forms of renewable energy, solar and wind, are intermittent energy sources : they are not available constantly, resulting in lower capacity factors . In contrast, fossil fuel power plants are usually able to produce precisely the amount of energy an electricity grid requires at a given time. Solar energy can only be captured during the day, and ideally in cloudless conditions. Wind power generation can vary significantly not only day-to-day, but even month-to-month. [31] This poses a challenge when transitioning away from fossil fuels: energy demand will often be higher or lower than what renewables can provide. [32] Both scenarios can cause electricity grids to become overloaded, leading to power outages . In the medium-term, this variability may require keeping some gas-fired power plants or other dispatchable generation on standby [33] [34] until there is enough energy storage, demand response , grid improvement, and/or baseload power from non-intermittent sources. In the long-term, energy storage is an important way of dealing with intermittency. [35] Using diversified renewable energy sources and smart grids can also help flatten supply and demand. [36] Sector coupling of the power generation sector with other sectors may increase flexibility: for example the transport sector can be coupled by charging electric vehicles and sending electricity from vehicle to grid . [37] Similarly the industry sector can be coupled by hydrogen produced by electrolysis, [38] and the buildings sector by thermal energy storage for space heating and cooling. [39] Building overcapacity for wind and solar generation can help ensure sufficient electricity production even during poor weather. In optimal weather, it may be necessary to curtail energy generation if it is not possible to use or store excess electricity. [40]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Renewables_need_flexible_backup_not_baseload.png/300px-Renewables_need_flexible_backup_not_baseload.png",
+                "caption": "Estimated power demand over a week in May 2012 and May 2020, Germany, showing the variability in solar and wind power both day-to-day and month-to-month."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Solar energy",
+        "text": "Solar power produced around 1.3 terrawatt-hours (TWh) worldwide in 2022, [10] representing 4.6% of the world's electricity. Almost all of this growth has happened since 2010. [52] Solar energy can be harnessed anywhere that receives sunlight; however, the amount of solar energy that can be harnessed for electricity generation is influenced by weather conditions , geographic location and time of day. [53] There are two mainstream ways of harnessing solar energy: solar thermal , which converts solar energy into heat; and photovoltaics (PV), which converts it into electricity. [12] PV is far more widespread, accounting for around two thirds of the global solar energy capacity as of 2022. [54] It is also growing at a much faster rate, with 170 GW newly installed capacity in 2021, [55] compared to 25 GW of solar thermal. [54] Passive solar refers to a range of construction strategies and technologies that aim to optimize the distribution of solar heat in a building. Examples include solar chimneys , [12] orienting a building to the sun, using construction materials that can store heat , and designing spaces that naturally circulate air . [56] From 2020 to 2022, solar technology investments almost doubled from USD 162 billion to USD 308 billion, driven by the sector's increasing maturity and cost reductions, particularly in solar photovoltaic (PV), which accounted for 90% of total investments. China and the United States were the main recipients, collectively making up about half of all solar investments since 2013. Despite reductions in Japan and India due to policy changes and COVID-19 , growth in China, the United States, and a significant increase from Vietnam's feed-in tariff program offset these declines. Globally, the solar sector added 714 gigawatts (GW) of solar PV and concentrated solar power (CSP) capacity between 2013 and 2021, with a notable rise in large-scale solar heating installations in 2021, especially in China, Europe, Turkey, and Mexico. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/SolarFachwerkhaus.jpg/220px-SolarFachwerkhaus.jpg",
+                "caption": "A small, roof-top mounted PV system in Bonn , Germany"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Mount_Komekura_Photovoltaic_power_plant_Jan2012.JPG/220px-Mount_Komekura_Photovoltaic_power_plant_Jan2012.JPG",
+                "caption": "Komekurayama photovoltaic power station in Kofu , Japan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Photovoltaics",
+        "text": "A photovoltaic system , consisting of solar cells assembled into panels , converts light into electrical direct current via the photoelectric effect . [60] PV has several advantages that make it by far the fastest-growing renewable energy technology. It is cheap, low-maintenance and scalable; adding to an existing PV installation as demanded arises is simple. Its main disadvantage is its poor performance in cloudy weather. [12] PV systems range from small, residential and commercial rooftop or building integrated installations, to large utility-scale photovoltaic power station . [61] A household's solar panels can either be used for just that household or, if connected to an electrical grid, can be aggregated with millions of others. [62] The first utility-scale solar power plant was built in 1982 in Hesperia, California by ARCO . [63] The plant was not profitable and was sold eight years later. [64] However, over the following decades, PV cells became significantly more efficient and cheaper. [65] As a result, PV adoption has grown exponentially since 2010. [66] Global capacity increased from 230 GW at the end of 2015 to 890 GW in 2021. [67] PV grew fastest in China between 2016 and 2021, adding 560 GW, more than all advanced economies combined. [68] Four of the ten biggest solar power stations are in China, including the biggest, Golmud Solar Park in China. [69]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg/220px-1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg.png",
+                "caption": "Swanson's law –stating that solar module prices have dropped about 20% for each doubling of installed capacity—defines the \" learning rate \" of solar photovoltaics . [58] [59]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Wind power",
+        "text": "Humans have harnessed wind energy since at least 3500 BC. Until the 20th century, it was primarily used to power ships, windmills and water pumps. Today, the vast majority of wind power is used to generate electricity using wind turbines. [12] Modern utility-scale wind turbines range from around 600 kW to 9 MW of rated power. The power available from the wind is a function of the cube of the wind speed, so as wind speed increases, power output increases up to the maximum output for the particular turbine. [76] Areas where winds are stronger and more constant, such as offshore and high-altitude sites, are preferred locations for wind farms. Wind-generated electricity met nearly 4% of global electricity demand in 2015, with nearly 63 GW of new wind power capacity installed. Wind energy was the leading source of new capacity in Europe, the US and Canada, and the second largest in China. In Denmark, wind energy met more than 40% of its electricity demand while Ireland, Portugal and Spain each met nearly 20%. [77] Globally, the long-term technical potential of wind energy is believed to be five times total current global energy production, or 40 times current electricity demand, assuming all practical barriers needed were overcome. This would require wind turbines to be installed over large areas, particularly in areas of higher wind resources, such as offshore, and likely also industrial use of new types of VAWT turbines in addition to the horizontal axis units currently in use. As offshore wind speeds average ~90% greater than that of land, offshore resources can contribute substantially more energy than land-stationed turbines. [78] Investments in wind technologies reached USD 161 billion in 2020, with onshore wind dominating at 80% of total investments from 2013 to 2022. Offshore wind investments nearly doubled to USD 41 billion between 2019 and 2020, primarily due to policy incentives in China and expansion in Europe. Global wind capacity increased by 557 GW between 2013 and 2021, with capacity additions increasing by an average of 19% each year. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Pretty_flamingos_-_geograph.org.uk_-_578705.jpg/170px-Pretty_flamingos_-_geograph.org.uk_-_578705.jpg",
+                "caption": "Burbo , NW-England"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fentonwindpark1.jpg/220px-Fentonwindpark1.jpg",
+                "caption": "Sunrise at the Fenton Wind Farm in Minnesota, United States"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wind_energy_generation_by_region%2C_OWID.svg/300px-Wind_energy_generation_by_region%2C_OWID.svg.png",
+                "caption": "Wind energy generation by region over time [72]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Hydropower",
+        "text": "Since water is about 800 times denser than air , even a slow flowing stream of water, or moderate sea swell , can yield considerable amounts of energy. Water can generate electricity with a conversion efficiency of about 90%, which is the highest rate in renewable energy. [82] There are many forms of water energy: Much hydropower is flexible, thus complementing wind and solar. [86] In 2021, the world renewable hydropower capacity was 1,360 GW. [68] Only a third of the world's estimated hydroelectric potential of 14,000 TWh/year has been developed. [87] [88] New hydropower projects face opposition from local communities due to their large impact, including relocation of communities and flooding of wildlife habitats and farming land. [89] High cost and lead times from permission process, including environmental and risk assessments, with lack of environmental and social acceptance are therefore the primary challenges for new developments. [90] It is popular to repower old dams thereby increasing their efficiency and capacity as well as quicker responsiveness on the grid. [91] Where circumstances permit existing dams such as the Russell Dam built in 1985 may be updated with \"pump back\" facilities for pumped-storage which is useful for peak loads or to support intermittent wind and solar power. Because dispatchable power is more valuable than VRE [92] [93] countries with large hydroelectric developments such as Canada and Norway are spending billions to expand their grids to trade with neighboring countries having limited hydro. [94]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/220px-ThreeGorgesDam-China2009.jpg",
+                "caption": "The Three Gorges Dam for hydropower on the Yangtze River in China"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Three_gorges_dam_from_space.jpg/220px-Three_gorges_dam_from_space.jpg",
+                "caption": "Three Gorges Dam and Gezhouba Dam , China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Bioenergy",
+        "text": "Biomass is biological material derived from living, or recently living organisms. Most commonly, it refers to plants or plant-derived materials. As an energy source, biomass can either be used directly via combustion to produce heat, or converted to a more energy-dense biofuel like ethanol. Wood is the most significant biomass energy source as of 2012 [98] and is usually sourced from a trees cleared for silvicultural reasons or fire prevention . Municipal wood waste – for instance, construction materials or sawdust – is also often burned for energy. [99] The biggest per-capita producers of wood-based bioenergy are heavily forested countries like Finland, Sweden, Estonia, Austria, and Denmark. [100] Bioenergy can be environmentally destructive if old-growth forests are cleared to make way for crop production. In particular, demand for palm oil to produce biodiesel has contributed to the deforestation of tropical rainforests in Brazil and Indonesia. [101] In addition, burning biomass still produces carbon emissions, although much less than fossil fuels (39 grams of CO 2 per megajoule of energy, compared to 75 g/MJ for fossil fuels). [102]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Metz_biomass_power_station.jpg/220px-Metz_biomass_power_station.jpg",
+                "caption": "A CHP power station using wood to supply 30,000 households in France"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Biofuel",
+        "text": "Biofuels are primarily used in transportation, providing 3.5% of the world's transport energy demand in 2022, [103] up from 2.7% in 2010. [104] Biojet is expected to be important for short-term reduction of carbon dioxide emissions from long-haul flights. [105] Aside from wood, the major sources of bioenergy are bioethanol and biodiesel . [12] Bioethanol is usually produced by fermenting the sugar components of crops like sugarcane and maize , while biodiesel is mostly made from oils extracted from plants, such as soybean oil and corn oil . [106] Most of the crops used to produce bioethanol and biodiesel are grown specifically for this purpose, [107] although used cooking oil accounted for 14% of the oil used to produce biodiesel as of 2015. [106] The biomass used to produce biofuels varies by region. Maize is the major feedstock in the United States, while sugarcane dominates in Brazil. [108] In the European Union, where biodiesel is more common than bioethanol, rapeseed oil and palm oil are the main feedstocks. [109] China, although it produces comparatively much less biofuel, uses mostly corn and wheat. [110] In many countries, biofuels are either subsidized or mandated to be included in fuel mixtures . [101] There are many other sources of bioenergy that are more niche, or not yet viable at large scales. For instance, bioethanol could be produced from the cellulosic parts of crops, rather than only the seed as is common today. [111] Sweet sorghum may be a promising alternative source of bioethanol, due to its tolerance of a wide range of climates. [112] Cow dung can be converted into methane. [113] There is also a great deal of research involving algal fuel , which is attractive because algae is a non-food resource, grows around 20 times faster than most food crops, and can be grown almost anywhere. [114]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Faz_S_Sofia_canavial_090607_REFON.JPG/220px-Faz_S_Sofia_canavial_090607_REFON.JPG",
+                "caption": "Sugarcane plantation to produce ethanol in Brazil"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Soybeanbus.jpg/220px-Soybeanbus.jpg",
+                "caption": "A bus fueled by biodiesel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Geothermal energy",
+        "text": "Geothermal energy is thermal energy (heat) extracted from the Earth's crust . It originates from several different sources , of which the most significant is slow radioactive decay of minerals contained in the Earth's interior , [12] as well as some leftover heat from the formation of the Earth . [119] Some of the heat is generated near the Earth's surface in the crust, but some also flows from deep within the Earth from the mantle and core . [119] Geothermal energy extraction is viable mostly in countries located on tectonic plate edges, where the Earth's hot mantle is more exposed. [120] As of 2023, the United States has by far the most geothermal capacity (2.7 GW, [121] or less than 0.2% of the country's total energy capacity [122] ), followed by Indonesia and the Philippines. Global capacity in 2022 was 15 GW. [121] Geothermal energy can be either used directly to heat homes, as is common in Iceland, or to generate electricity. At smaller scales, geothermal power can be generated with geothermal heat pumps , which can extract heat from ground temperatures of under 30 °C (86 °F), allowing them to be used at relatively shallow depths of a few meters. [120] Electricity generation requires large plants and ground temperatures of at least 150 °C (302 °F). In some countries, electricity produced from geothermal energy accounts for a large portion of the total, such as Kenya (43%) and Indonesia (5%). [123] Technical advances may eventually make geothermal power more widely available. For example, enhanced geothermal systems involve drilling around 10 kilometres (6.2 mi) into the Earth, breaking apart hot rocks and extracting the heat using water. In theory, this type of geothermal energy extraction could be done anywhere on Earth. [120]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/220px-NesjavellirPowerPlant_edit2.jpg",
+                "caption": "Steam rising from the Nesjavellir Geothermal Power Station in Iceland"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/West_Ford_Flat_Geothermal_Cooling_Tower.JPG/170px-West_Ford_Flat_Geothermal_Cooling_Tower.JPG",
+                "caption": "Geothermal plant at The Geysers , California, US"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Krafla_geothermal_power_station_wiki.jpg/220px-Krafla_geothermal_power_station_wiki.jpg",
+                "caption": "Krafla , a geothermal power station in Iceland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Marine energy",
+        "text": "Marine energy (also sometimes referred to as ocean energy) is the energy carried by ocean waves , tides , salinity , and ocean temperature differences . Technologies to harness the energy of moving water include wave power , marine current power , and tidal power . Reverse electrodialysis (RED) is a technology for generating electricity by mixing fresh water and salty sea water in large power cells. [130] Most marine energy harvesting technologies are still at low technology readiness levels and not used at large scales. Tidal energy is generally considered the most mature, but has not seen wide deployment. [131] The world's largest tidal power station is on Sihwa Lake , South Korea, [132] which produces around 550 gigawatt-hours of electricity per year. [133]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sihwa_Lake_Tidal_Power_Station_aerial_view.jpg/220px-Sihwa_Lake_Tidal_Power_Station_aerial_view.jpg",
+                "caption": "Aerial view of Sihwa Tidal Power Station in South Korea"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Growth of renewables",
+        "text": "The results of a recent review of the literature concluded that as greenhouse gas (GHG) emitters begin to be held liable for damages resulting from GHG emissions resulting in climate change, a high value for liability mitigation would provide powerful incentives for deployment of renewable energy technologies. [181] In the decade of 2010–2019, worldwide investment in renewable energy capacity excluding large hydropower amounted to US$2.7 trillion, of which the top countries China contributed US$818 billion, the United States contributed US$392.3 billion, Japan contributed US$210.9 billion, Germany contributed US$183.4 billion, and the United Kingdom contributed US$126.5 billion. [182] This was an increase of over three and possibly four times the equivalent amount invested in the decade of 2000–2009 (no data is available for 2000–2003). [182] As of 2022, an estimated 28% of the world's electricity was generated by renewables. This is up from 19% in 1990. [183]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20210119_Renewable_energy_investment_-_2004-_BloombergNEF.svg/232px-20210119_Renewable_energy_investment_-_2004-_BloombergNEF.svg.png",
+                "caption": "Investment: Companies, governments and households have committed increasing amounts to decarbonization, including renewable energy (solar, wind), electric vehicles and associated charging infrastructure, energy storage, energy-efficient heating systems, carbon capture and storage, and hydrogen. [171] [172]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20201019_Levelized_Cost_of_Energy_%28LCOE%2C_Lazard%29_-_renewable_energy.svg/232px-20201019_Levelized_Cost_of_Energy_%28LCOE%2C_Lazard%29_-_renewable_energy.svg.png",
+                "caption": "Levelized cost: With increasingly widespread implementation of renewable energy sources, costs have declined, most notably for energy generated by solar panels. [175] [176] Levelized cost of energy (LCOE) is a measure of the average net present cost of electricity generation for a generating plant over its lifetime."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Future projections",
+        "text": "A December 2022 report by the IEA forecasts that over 2022-2027, renewables are seen growing by almost 2 400 GW in its main forecast, equal to the entire installed power capacity of China in 2021. This is an 85% acceleration from the previous five years, and almost 30% higher than what the IEA forecast in its 2021 report, making its largest ever upward revision. Renewables are set to account for over 90% of global electricity capacity expansion over the forecast period. [68] To achieve net zero emissions by 2050, IEA believes that 90% of global electricity generation will need to be produced from renewable sources. [17] In June 2022 IEA Executive Director Fatih Birol said that countries should invest more in renewables to \"ease the pressure on consumers from high fossil fuel prices, make our energy systems more secure, and get the world on track to reach our climate goals.\" [185] China's five year plan to 2025 includes increasing direct heating by renewables such as geothermal and solar thermal. [186] REPowerEU , the EU plan to escape dependence on fossil Russian gas , is expected to call for much more green hydrogen . [187] After a transitional period, [188] renewable energy production is expected to make up most of the world's energy production. In 2018, the risk management firm, DNV GL , forecasts that the world's primary energy mix will be split equally between fossil and non-fossil sources by 2050. [189]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2010-_Fossil_fuels_vs_Wind_%2B_Solar_-_electricity_generation.svg/220px-2010-_Fossil_fuels_vs_Wind_%2B_Solar_-_electricity_generation.svg.png",
+                "caption": "In 2023, electricity generation from wind and solar sources was projected to exceed 30% by 2030. [184]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Policy",
+        "text": "Policies to support renewable energy have been vital in their expansion. Where Europe dominated in establishing energy policy in the early 2000s, most countries around the world now have some form of energy policy. [199] The International Renewable Energy Agency (IRENA) is an intergovernmental organization for promoting the adoption of renewable energy worldwide. It aims to provide concrete policy advice and facilitate capacity building and technology transfer. IRENA was formed in 2009, with 75 countries signing the charter of IRENA. [200] As of April 2019, IRENA has 160 member states. [201] The then United Nations Secretary-General Ban Ki-moon has said that renewable energy can lift the poorest nations to new levels of prosperity, [202] and in September 2011 he launched the UN Sustainable Energy for All initiative to improve energy access, efficiency and the deployment of renewable energy. [203] The 2015 Paris Agreement on climate change motivated many countries to develop or improve renewable energy policies. [204] In 2017, a total of 121 countries adopted some form of renewable energy policy. [199] National targets that year existed in 176 countries. [204] In addition, there is also a wide range of policies at the state/provincial, and local levels. [104] Some public utilities help plan or install residential energy upgrades . Many national, state and local governments have created green banks . A green bank is a quasi-public financial institution that uses public capital to leverage private investment in clean energy technologies. [205] Green banks use a variety of financial tools to bridge market gaps that hinder the deployment of clean energy. Climate neutrality by the year 2050 is the main goal of the European Green Deal . [206] For the European Union to reach their target of climate neutrality, one goal is to decarbonise its energy system by aiming to achieve \"net-zero greenhouse gas emissions by 2050.\" [207]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Share_of_electricity_production_from_renewables.svg/330px-Share_of_electricity_production_from_renewables.svg.png",
+                "caption": "Share of electricity production from renewables, 2022 [8]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Geopolitics",
+        "text": "The geopolitical impact of the growing use of renewable energy is a subject of ongoing debate and research. [219] Many fossil-fuel producing countries, such as Qatar , Russia , Saudi Arabia and Norway , are currently able to exert diplomatic or geopolitical influence as a result of their oil wealth. Most of these countries are expected to be among the geopolitical \"losers\" of the energy transition, although some, like Norway, are also significant producers and exporters of renewable energy. Fossil fuels and the infrastructure to extract them may, in the long term, become stranded assets . [220] It has been speculated that countries dependent on fossil fuel revenue may one day find it in their interests to quickly sell off their remaining fossil fuels. [221] Conversely, nations abundant in renewable resources, and the minerals required for renewables technology, are expected to gain influence. [222] [223] In particular, China has become the world's dominant manufacturer of the technology needed to produce or store renewable energy, especially solar panels , wind turbines , and lithium-ion batteries . [224] Nations rich in solar and wind energy could become major energy exporters. [225] Some may produce and export green hydrogen , [226] [225] although electricity is projected to be the dominant energy carrier in 2050, accounting for almost 50% of total energy consumption (up from 22% in 2015). [227] Countries with large uninhabited areas such as Australia, China, and many African and Middle Eastern countries have a potential for huge installations of renewable energy. The production of renewable energy technologies requires rare-earth elements with new supply chains. [228] Countries with already weak governments that rely on fossil fuel revenue may face even higher political instability or popular unrest. Analysts consider Nigeria, Angola , Chad , Gabon , and Sudan , all countries with a history of military coups , to be at risk of instability due to dwindling oil income. [229] A study found that transition from fossil fuels to renewable energy systems reduces risks from mining, trade and political dependence because renewable energy systems don't need fuel – they depend on trade only for the acquisition of materials and components during construction. [230] In October 2021, European Commissioner for Climate Action Frans Timmermans suggested \"the best answer\" to the 2021 global energy crisis is \"to reduce our reliance on fossil fuels.\" [231] He said those blaming the European Green Deal were doing so \"for perhaps ideological reasons or sometimes economic reasons in protecting their vested interests.\" [231] Some critics blamed the European Union Emissions Trading System (EU ETS) and closure of nuclear plants for contributing to the energy crisis. [232] [233] [234] European Commission President Ursula von der Leyen said that Europe is \"too reliant\" on natural gas and too dependent on natural gas imports . According to Von der Leyen, \"The answer has to do with diversifying our suppliers ... and, crucially, with speeding up the transition to clean energy.\" [235]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TREC-Map-en.jpg/220px-TREC-Map-en.jpg",
+                "caption": "A concept of a super grid"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Public support",
+        "text": "Solar power plants may compete with arable land , [254] [255] while on-shore wind farms often face opposition due to aesthetic concerns and noise. [256] [257] Such opponents are often described as NIMBYs (\"not in my back yard\"). [258] Some environmentalists are concerned about fatal collisions of birds and bats with wind turbines. [259] Although protests against new wind farms occasionally occur around the world, regional and national surveys generally find broad support for both solar and wind power. [260] [261] [262] Community-owned wind energy is sometimes proposed as a way to increase local support for wind farms. [263] A 2011 UK Government document stated that \"projects are generally more likely to succeed if they have broad public support and the consent of local communities. This means giving communities both a say and a stake.\" [264] In the 2000s and early 2010s, many renewable projects in Germany, Sweden and Denmark were owned by local communities, particularly through cooperative structures. [265] [266] In the years since, more installations in Germany have been undertaken by large companies, [263] but community ownership remains strong in Denmark. [267]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg/220px-202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg.png",
+                "caption": "Acceptance of wind and solar facilities in one's community is stronger among U.S. Democrats (blue), while acceptance of nuclear power plants is stronger among U.S. Republicans (red). [253]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Super grid",
+        "text": "A super grid or supergrid is a wide-area transmission network that is intended to make possible the trade of high volumes of electricity across great distances. It is sometimes also referred to as a mega grid . Super grids can support a global energy transition by smoothing local fluctuations of wind energy and solar energy . In this context they are considered as a key technology to mitigate global warming . Super grids typically use High-voltage direct current (HVDC) to transmit electricity long distances. The latest generation of HVDC power lines can transmit energy with losses of only 1.6% per 1000 km. [19] Electric utilities between regions are many times interconnected for improved economy and reliability. Electrical interconnectors allow for economies of scale, allowing energy to be purchased from large, efficient sources. Utilities can draw power from generator reserves from a different region to ensure continuing, reliable power and diversify their loads. Interconnection also allows regions to have access to cheap bulk energy by receiving power from different sources. For example, one region may be producing cheap hydro power during high water seasons, but in low water seasons, another area may be producing cheaper power through wind, allowing both regions to access cheaper energy sources from one another during different times of the year. Neighboring utilities also help others to maintain the overall system frequency and also help manage tie transfers between utility regions. [20] Electricity Interconnection Level (EIL) of a grid is the ratio of the total interconnector power to the grid divided by the installed production capacity of the grid. Within the EU, it has set a target of national grids reaching 10% by 2020, and 15% by 2030. [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TREC-Map-en.jpg/220px-TREC-Map-en.jpg",
+                "caption": "One conceptual plan of a super grid linking renewable sources across North Africa, the Middle East and Europe. ( DESERTEC ) [18]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electrical_grid",
+        "title": "Electrical grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Generation",
+        "text": "Electricity generation is the process of generating electric power from sources of primary energy typically at power stations . Usually this is done with electromechanical generators driven by heat engines or the kinetic energy of water or wind. Other energy sources include solar photovoltaics and geothermal power . The sum of the power outputs of generators on the grid is the production of the grid, typically measured in gigawatts (GW).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Turbogenerator01.jpg/290px-Turbogenerator01.jpg",
+                "caption": "Turbo generator"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Electricity_grid_simple-_North_America.svg/290px-Electricity_grid_simple-_North_America.svg.png",
+                "caption": "Diagram of an electric power system, generation system in red"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electrical_grid",
+        "title": "Electrical grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Transmission",
+        "text": "Electric power transmission is the bulk movement of electrical energy from a generating site, via a web of interconnected lines, to an electrical substation , from which is connected to the distribution system. This networked system of connections is distinct from the local wiring between high-voltage substations and customers. Because the power is often generated far from where it is consumed, the transmission system can cover great distances. For a given amount of power, transmission efficiency is greater at higher voltages and lower currents. Therefore, voltages are stepped up at the generating station, and stepped down at local substations for distribution to customers. Most transmission is three-phase . Three phase, compared to single phase, can deliver much more power for a given amount of wire, since the neutral and ground wires are shared. [22] Further, three-phase generators and motors are more efficient than their single-phase counterparts. However, for conventional conductors one of the main losses are resistive losses which are a square law on current, and depend on distance. High voltage AC transmission lines can lose 1-4% per hundred miles. [23] However, high-voltage direct current can have half the losses of AC. Over very long distances, these efficiencies can offset the additional cost of the required AC/DC converter stations at each end. Transmission networks are complex with redundant pathways. The physical layout is often forced by what land is available and its geology. Most transmission grids offer the reliability that more complex mesh networks provide. Redundancy allows line failures to occur and power is simply rerouted while repairs are done.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/500kV_3-Phase_Transmission_Lines.png/220px-500kV_3-Phase_Transmission_Lines.png",
+                "caption": "500 kV Three-phase electric power Transmission Lines at Grand Coulee Dam ; four circuits are shown; two additional circuits are obscured by trees on the right; the entire 7079 MW generation capacity of the dam is accommodated by these six circuits."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/A_network_diagram_of_the_%27nesta_case1354_pegase_high_voltage%27_electrical_power_system.png/360px-A_network_diagram_of_the_%27nesta_case1354_pegase_high_voltage%27_electrical_power_system.png",
+                "caption": "Network diagram of a high voltage transmission system, showing the interconnection between the different voltage levels. This diagram depicts the electrical structure [24] of the network, rather than its physical geography."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electrical_grid",
+        "title": "Electrical grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Storage",
+        "text": "Grid energy storage (also called large-scale energy storage ) is a collection of methods used for energy storage on a large scale within an electrical power grid . Electrical energy is stored during times when electricity is plentiful and inexpensive (especially from intermittent power sources such as renewable electricity from wind power , tidal power and solar power ) or when demand is low, and later returned to the grid when demand is high, and electricity prices tend to be higher. As of 2020 [update] , the largest form of grid energy storage is dammed hydroelectricity , with both conventional hydroelectric generation as well as pumped storage hydroelectricity . Developments in battery storage have enabled commercially viable projects to store energy during peak production and release during peak demand, and for use when production unexpectedly falls giving time for slower responding resources to be brought online. Two alternatives to grid storage are the use of peaking power plants to fill in supply gaps and demand response to shift load to other times.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Grid_energy_storage.png/220px-Grid_energy_storage.png",
+                "caption": "Simplified electrical grid with energy storage"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Grid_storage_energy_flow.png/220px-Grid_storage_energy_flow.png",
+                "caption": "Simplified grid energy flow with and without idealized energy storage for the course of one day"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electrical_grid",
+        "title": "Electrical grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Brownout",
+        "text": "A brownout is an intentional or unintentional drop in voltage in an electrical power supply system. Intentional brownouts are used for load reduction in an emergency. [33] The reduction lasts for minutes or hours, as opposed to short-term voltage sag (or dip). The term brownout comes from the dimming experienced by incandescent lighting when the voltage sags. A voltage reduction may be an effect of disruption of an electrical grid, or may occasionally be imposed in an effort to reduce load and prevent a power outage , known as a blackout . [34]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20110313-TokyoTower.jpg/170px-20110313-TokyoTower.jpg",
+                "caption": "A brownout near Tokyo Tower in Tokyo , Japan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electrical_grid",
+        "title": "Electrical grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    },
+    {
+        "section": "Black start",
+        "text": "A black start is the process of restoring an electric power station or a part of an electric grid to operation without relying on the external electric power transmission network to recover from a total or partial shutdown. [35] Normally, the electric power used within the plant is provided from the station's own generators. If all of the plant's main generators are shut down, station service power is provided by drawing power from the grid through the plant's transmission line. However, during a wide-area outage, off-site power from the grid is not available. In the absence of grid power, a so-called black start needs to be performed to bootstrap the power grid into operation. To provide a black start, some power stations have small diesel generators , normally called the black start diesel generator (BSDG), which can be used to start larger generators (of several megawatts capacity), which in turn can be used to start the main power station generators. Generating plants using steam turbines require station service power of up to 10% of their capacity for boiler feedwater pumps , boiler forced-draft combustion air blowers, and for fuel preparation. It is uneconomical to provide such a large standby capacity at each station, so black-start power must be provided over designated tie lines from another station. Often hydroelectric power plants are designated as the black-start sources to restore network interconnections. A hydroelectric station needs very little initial power to start (just enough to open the intake gates and provide excitation current to the generator field coils), and can put a large block of power on line very quickly to allow start-up of fossil-fuel or nuclear stations. Certain types of combustion turbine can be configured for black start, providing another option in places without suitable hydroelectric plants. [36] In 2017 a utility in Southern California has successfully demonstrated the use of a battery energy storage system to provide a black start, firing up a combined cycle gas turbine from an idle state. [37]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Toronto_ON_2003_Blackout.jpg/220px-Toronto_ON_2003_Blackout.jpg",
+                "caption": "Toronto during the Northeast blackout of 2003 , which required black-starting of generating stations."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electrical_grid",
+        "title": "Electrical grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Off-grid solar solutions"
+    }
+]

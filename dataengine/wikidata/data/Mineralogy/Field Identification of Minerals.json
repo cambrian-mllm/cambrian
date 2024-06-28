@@ -1,0 +1,829 @@
+[
+    {
+        "section": "Reference minerals",
+        "text": "The Mohs scale of mineral hardness is based on the ability of one natural sample of mineral to scratch another mineral visibly. The samples of matter used by Mohs are all different minerals. Minerals are chemically pure solids found in nature. Rocks are made up of one or more minerals. As the hardest known naturally occurring substance when the scale was designed, diamonds are at the top of the scale. The hardness of a material is measured against the scale by finding the hardest material that the given material can scratch, or the softest material that can scratch the given material. For example, if some material is scratched by apatite but not by fluorite , its hardness on the Mohs scale would be between 4 and 5. [8] \"Scratching\" a material for the purposes of the Mohs scale means creating non-elastic dislocations visible to the naked eye. Frequently, materials that are lower on the Mohs scale can create microscopic, non-elastic dislocations on materials that have a higher Mohs number. While these microscopic dislocations are permanent and sometimes detrimental to the harder material's structural integrity, they are not considered \"scratches\" for the determination of a Mohs scale number. [9] Each of the ten hardness values in the Mohs scale is represented by a reference mineral , most of which are widespread in rocks. The Mohs scale is an ordinal scale . For example, corundum (9) is twice as hard as topaz (8), but diamond (10) is four times as hard as corundum. The table below shows the comparison with the absolute hardness measured by a sclerometer , with pictorial examples. [10] [11]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mohs-Hardness-Graph.svg/220px-Mohs-Hardness-Graph.svg.png",
+                "caption": ""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mohs_scale",
+        "title": "Mohs scale",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Principles of operation",
+        "text": "A waveplate works by shifting the phase between two perpendicular polarization components of the light wave. A typical waveplate is simply a birefringent crystal with a carefully chosen orientation and thickness. The crystal is cut into a plate, with the orientation of the cut chosen so that the optic axis of the crystal is parallel to the surfaces of the plate. This results in two axes in the plane of the cut: the ordinary axis , with index of refraction n o , and the extraordinary axis , with index of refraction n e . The ordinary axis is perpendicular to the optic axis. The extraordinary axis is parallel to the optic axis. For a light wave normally incident upon the plate, the polarization component along the ordinary axis travels through the crystal with a speed v o = c / n o , while the polarization component along the extraordinary axis travels with a speed v e = c / n e . This leads to a phase difference between the two components as they exit the crystal. When n e < n o , as in calcite , the extraordinary axis is called the fast axis and the ordinary axis is called the slow axis . For n e > n o the situation is reversed. Depending on the thickness of the crystal, light with polarization components along both axes will emerge in a different polarization state. The waveplate is characterized by the amount of relative phase, Γ, that it imparts on the two components, which is related to the birefringence Δ n and the thickness L of the crystal by the formula where λ 0 is the vacuum wavelength of the light. Waveplates in general, as well as polarizers , can be described using the Jones matrix formalism, which uses a vector to represent the polarization state of light and a matrix to represent the linear transformation of a waveplate or polarizer. Although the birefringence Δ n may vary slightly due to dispersion , this is negligible compared to the variation in phase difference according to the wavelength of the light due to the fixed path difference (λ 0 in the denominator in the above equation). Waveplates are thus manufactured to work for a particular range of wavelengths. The phase variation can be minimized by stacking two waveplates that differ by a tiny amount in thickness back-to-back, with the slow axis of one along the fast axis of the other. With this configuration, the relative phase imparted can be, for the case of a quarter-wave plate, one-fourth a wavelength rather than three-fourths or one-fourth plus an integer. This is called a zero-order waveplate . For a single waveplate changing the wavelength of the light introduces a linear error in the phase. Tilt of the waveplate enters via a factor of 1/cos θ (where θ is the angle of tilt) into the path length and thus only quadratically into the phase. For the extraordinary polarization the tilt also changes the refractive index to the ordinary via a factor of cos θ, so combined with the path length, the phase shift for the extraordinary light due to tilt is zero. A polarization-independent phase shift of zero order needs a plate with thickness of one wavelength.\nFor calcite the refractive index changes in the first decimal place, so that a true zero order plate is ten times as thick as one wavelength.\nFor quartz and magnesium fluoride the refractive index changes in the second decimal place and true zero order plates are common for wavelengths above 1 μm.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Polarization_change_in_uniaxial_crystal.gif/300px-Polarization_change_in_uniaxial_crystal.gif",
+                "caption": "A wave in a uniaxial crystal will separate in two components, one parallel and one perpendicular to the optic axis, that will accumulate phase at different rates. This can be used to manipulate the polarization state of the wave."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Optical-waveplate-1inch.jpg/220px-Optical-waveplate-1inch.jpg",
+                "caption": "A waveplate mounted in a rotary mount"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Waveplate",
+        "title": "Waveplate",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Half-wave plate",
+        "text": "For a half-wave plate, the relationship between L , Δ n , and λ 0 is chosen so that the phase shift between polarization components is Γ = π. Now suppose a linearly polarized wave with polarization vector p ^ {\\displaystyle \\mathbf {\\hat {p}} } is incident on the crystal. Let θ denote the angle between p ^ {\\displaystyle \\mathbf {\\hat {p}} } and f ^ {\\displaystyle \\mathbf {\\hat {f}} } , where f ^ {\\displaystyle \\mathbf {\\hat {f}} } is the vector along the waveplate's fast axis. Let z denote the propagation axis of the wave. The electric field of the incident wave is E e i ( k z − ω t ) = E p ^ e i ( k z − ω t ) = E ( cos ⁡ θ f ^ + sin ⁡ θ s ^ ) e i ( k z − ω t ) , {\\displaystyle \\mathbf {E} \\,\\mathrm {e} ^{i(kz-\\omega t)}=E\\,\\mathbf {\\hat {p}} \\,\\mathrm {e} ^{i(kz-\\omega t)}=E(\\cos \\theta \\,\\mathbf {\\hat {f}} +\\sin \\theta \\,\\mathbf {\\hat {s}} )\\mathrm {e} ^{i(kz-\\omega t)},} where s ^ {\\displaystyle \\mathbf {\\hat {s}} } lies along the waveplate's slow axis. The effect of the half-wave plate is to introduce a phase shift term e i Γ = e i π = −1 between the f and s components of the wave, so that upon exiting the crystal the wave is now given by E ( cos ⁡ θ f ^ − sin ⁡ θ s ^ ) e i ( k z − ω t ) = E [ cos ⁡ ( − θ ) f ^ + sin ⁡ ( − θ ) s ^ ] e i ( k z − ω t ) . {\\displaystyle E(\\cos \\theta \\,\\mathbf {\\hat {f}} -\\sin \\theta \\,\\mathbf {\\hat {s}} )\\mathrm {e} ^{i(kz-\\omega t)}=E[\\cos(-\\theta )\\mathbf {\\hat {f}} +\\sin(-\\theta )\\mathbf {\\hat {s}} ]\\mathrm {e} ^{i(kz-\\omega t)}.} If p ^ ′ {\\displaystyle \\mathbf {\\hat {p}} '} denotes the polarization vector of the wave exiting the waveplate, then this expression shows that the angle between p ^ ′ {\\displaystyle \\mathbf {\\hat {p}} '} and f ^ {\\displaystyle \\mathbf {\\hat {f}} } is −θ. Evidently, the effect of the half-wave plate is to mirror the wave's polarization vector through the plane formed by the vectors f ^ {\\displaystyle \\mathbf {\\hat {f}} } and z ^ {\\displaystyle \\mathbf {\\hat {z}} } . For linearly polarized light, this is equivalent to saying that the effect of the half-wave plate is to rotate the polarization vector through an angle 2θ; however, for elliptically polarized light the half-wave plate also has the effect of inverting the light's handedness . [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Waveplate_notext.png/220px-Waveplate_notext.png",
+                "caption": "A wave passing through a half-wave plate"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Waveplate",
+        "title": "Waveplate",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Quarter-wave plate",
+        "text": "For a quarter-wave plate, the relationship between L , Δ n , and λ 0 is chosen so that the phase shift between polarization components is Γ = π/2. Now suppose a linearly polarized wave is incident on the crystal. This wave can be written as where the f and s axes are the quarter-wave plate's fast and slow axes, respectively, the wave propagates along the z axis, and E f and E s are real. The effect of the quarter-wave plate is to introduce a phase shift term e i Γ =e i π/2 = i between the f and s components of the wave, so that upon exiting the crystal the wave is now given by The wave is now elliptically polarized. If the axis of polarization of the incident wave is chosen so that it makes a 45° with the fast and slow axes of the waveplate, then E f = E s ≡ E , and the resulting wave upon exiting the waveplate is and the wave is circularly polarized. If the axis of polarization of the incident wave is chosen so that it makes a 0° with the fast or slow axes of the waveplate, then the polarization will not change, so remains linear. If the angle is in between 0° and 45° the resulting wave has an elliptical polarization. A circulating polarization can be visualized as the sum of two linear polarizations with a phase difference of 90°. The output depends on the polarization of the input. Suppose polarization axes x and y parallel with the slow and fast axis of the waveplate:  The polarization of the incoming photon (or beam) can be resolved as two polarizations on the x and y axis. If the input polarization is parallel to the fast or slow axis, then there is no polarization of the other axis, so the output polarization is the same as the input (only the phase more or less delayed). If the input polarization is 45° to the fast and slow axis, the polarization on those axes are equal. But the phase of the output of the slow axis will be delayed 90° with the output of the fast axis. If not the amplitude but both sine values are displayed, then x and y combined will describe a circle. With other angles than 0° or 45° the values in fast and slow axis will differ and their resultant output will describe an ellipse.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Circular.Polarization.Circularly.Polarized.Light_And.Linearly.Polarized.Light.Comparison.svg/220px-Circular.Polarization.Circularly.Polarized.Light_And.Linearly.Polarized.Light.Comparison.svg.png",
+                "caption": "Two waves differing by a quarter-phase shift for one axis"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Circular.Polarization.Circularly.Polarized.Light_Circular.Polarizer_Creating.Left.Handed.Helix.View.svg/220px-Circular.Polarization.Circularly.Polarized.Light_Circular.Polarizer_Creating.Left.Handed.Helix.View.svg.png",
+                "caption": "Creating circular polarization using a quarter-wave plate and a polarizing filter"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Polaryzacja_ko%C5%82owa.gif/220px-Polaryzacja_ko%C5%82owa.gif",
+                "caption": "Composition of two linearly polarized waves, phase shifted by π/2"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Waveplate",
+        "title": "Waveplate",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Description",
+        "text": "The word \"granite\" comes from the Latin granum , a grain, in reference to the coarse-grained structure of such a completely crystalline rock. [1] Granitic rocks mainly consist of feldspar , quartz , mica , and amphibole minerals , which form an interlocking, somewhat equigranular matrix of feldspar and quartz with scattered darker biotite mica and amphibole (often hornblende ) peppering the lighter color minerals. Occasionally some individual crystals ( phenocrysts ) are larger than the groundmass , in which case the texture is known as porphyritic . A granitic rock with a porphyritic texture is known as a granite porphyry . Granitoid is a general, descriptive field term for lighter-colored, coarse-grained igneous rocks. Petrographic examination is required for identification of specific types of granitoids.  Granites can be predominantly white, pink, or gray in color, depending on their mineralogy . [2] The alkali feldspar in granites is typically orthoclase or microcline and is often perthitic . The plagioclase is typically sodium-rich oligoclase . Phenocrysts are usually alkali feldspar. [3] Granitic rocks are classified according to the QAPF diagram for coarse grained plutonic rocks and are named according to the percentage of quartz , alkali feldspar ( orthoclase , sanidine , or microcline ) and plagioclase feldspar on the A-Q-P half of the diagram. True granite (according to modern petrologic convention) contains between 20% and 60% quartz by volume, with 35% to 90% of the total feldspar consisting of alkali feldspar . Granitic rocks poorer in quartz are classified as syenites or monzonites , while granitic rocks dominated by plagioclase are classified as granodiorites or tonalites . Granitic rocks with over 90% alkali feldspar are classified as alkali feldspar granites . Granitic rock with more than 60% quartz, which is uncommon, is classified simply as quartz-rich granitoid or, if composed almost entirely of quartz, as quartzolite . [4] [5] [6] True granites are further classified by the percentage of their total feldspar that is alkali feldspar. Granites whose feldspar is 65% to 90% alkali feldspar are syenogranites , while the feldspar in monzogranite is 35% to 65% alkali feldspar. [5] [6] A granite containing both muscovite and biotite micas is called a binary or two-mica granite. Two-mica granites are typically high in potassium and low in plagioclase, and are usually S-type granites or A-type granites, as described below . [7] [8] Another aspect of granite classification is the ratios of metals that potentially form feldspars. Most granites have a composition such that almost all their aluminum and alkali metals (sodium and potassium) are combined as feldspar. This is the case when K 2 O + Na 2 O + CaO > Al 2 O 3 > K 2 O + Na 2 O. Such granites are described as normal or metaluminous . Granites in which there is not enough aluminum to combine with all the alkali oxides as feldspar (Al 2 O 3 < K 2 O + Na 2 O) are described as peralkaline , and they contain unusual sodium amphiboles such as riebeckite . Granites in which there is an excess of aluminum beyond what can be taken up in feldspars (Al 2 O 3 > CaO + K 2 O + Na 2 O) are described as peraluminous , and they contain aluminum-rich minerals such as muscovite . [9]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/QAPF_diagram_granite.svg/310px-QAPF_diagram_granite.svg.png",
+                "caption": "QAPF diagram with granite field highlighted"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mineralogy_igneous_rocks_EN.svg/310px-Mineralogy_igneous_rocks_EN.svg.png",
+                "caption": "Mineral assemblage of igneous rocks"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Occurrence",
+        "text": "Granitic rock is widely distributed throughout the continental crust . [17] Much of it was intruded during the Precambrian age; it is the most abundant basement rock that underlies the relatively thin sedimentary veneer of the continents. Outcrops of granite tend to form tors , domes or bornhardts , and rounded massifs . Granites sometimes occur in circular depressions surrounded by a range of hills, formed by the metamorphic aureole or hornfels . Granite often occurs as relatively small, less than 100 km 2 stock masses ( stocks ) and in batholiths that are often associated with orogenic mountain ranges. Small dikes of granitic composition called aplites are often associated with the margins of granitic intrusions . In some locations, very coarse-grained pegmatite masses occur with granite. [18]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/The_Cheesewring.jpg/170px-The_Cheesewring.jpg",
+                "caption": "The Cheesewring , a granite tor in England"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HuangShan.JPG/220px-HuangShan.JPG",
+                "caption": "A granite peak at Huangshan , China"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hiltaba_pink_granite.jpg/220px-Hiltaba_pink_granite.jpg",
+                "caption": "Pink granite at Hiltaba , South Australia (part of the Hiltaba Suite )"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/ArideGranite1.jpg/170px-ArideGranite1.jpg",
+                "caption": "Granite with quartz veins at Gros la Tête cliff, Aride Island , Seychelles"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Weathering",
+        "text": "Physical weathering occurs on a large scale in the form of exfoliation joints , which are the result of granite's expanding and fracturing as pressure is relieved when overlying material is removed by erosion or other processes. Chemical weathering of granite occurs when dilute carbonic acid , and other acids present in rain and soil waters, alter feldspar in a process called hydrolysis . [49] [50] As demonstrated in the following reaction, this causes potassium feldspar to form kaolinite , with potassium ions, bicarbonate, and silica in solution as byproducts. An end product of granite weathering is grus , which is often made up of coarse-grained fragments of disintegrated granite. Climatic variations also influence the weathering rate of granites. For about two thousand years, the relief engravings on Cleopatra's Needle obelisk had survived the arid conditions of its origin before its transfer to London. Within two hundred years, the red granite has drastically deteriorated in the damp and polluted air there. [51] Soil development on granite reflects the rock's high quartz content and dearth of available bases, with the base-poor status predisposing the soil to acidification and podzolization in cool humid climates as the weather-resistant quartz yields much sand. [52] Feldspars also weather slowly in cool climes, allowing sand to dominate the fine-earth fraction. In warm humid regions, the weathering of feldspar as described above is accelerated so as to allow a much higher proportion of clay with the Cecil soil series a prime example of the consequent Ultisol great soil group. [53]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GrusSand.JPG/220px-GrusSand.JPG",
+                "caption": "Grus sand and granitoid from which it derived"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Industry",
+        "text": "Granite and related marble industries are considered one of the oldest industries in the world, existing as far back as Ancient Egypt . [61] Major modern exporters of granite include China, India, Italy, Brazil, Canada, Germany, Sweden, Spain and the United States. [62]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hilloinen_2017_2.jpg/220px-Hilloinen_2017_2.jpg",
+                "caption": "Granite dimension stone quarry in Taivassalo , Finland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Antiquity",
+        "text": "The Red Pyramid of Egypt ( c. 2590 BC ), named for the light crimson hue of its exposed limestone surfaces, is the third largest of Egyptian pyramids . Pyramid of Menkaure , likely dating 2510 BC, was constructed of limestone and granite blocks. The Great Pyramid of Giza (c. 2580 BC ) contains a huge granite sarcophagus fashioned of \"Red Aswan Granite\". The mostly ruined Black Pyramid dating from the reign of Amenemhat III once had a polished granite pyramidion or capstone, which is now on display in the main hall of the Egyptian Museum in Cairo (see Dahshur ). Other uses in Ancient Egypt include columns , door lintels , sills , jambs , and wall and floor veneer. [63] How the Egyptians worked the solid granite is still a matter of debate. Patrick Hunt [64] has postulated that the Egyptians used emery , which has greater hardness on the Mohs scale . The Seokguram Grotto in Korea is a Buddhist shrine and part of the Bulguksa temple complex. Completed in 774 AD, it is an artificial grotto constructed entirely of granite. The main Buddha of the grotto is a highly regarded piece of Buddhist art , [65] and along with the temple complex to which it belongs, Seokguram was added to the UNESCO World Heritage List in 1995. [66] Rajaraja Chola I of the Chola Dynasty in South India built the world's first temple entirely of granite in the 11th century AD in Tanjore , India . The Brihadeeswarar Temple dedicated to Lord Shiva was built in 1010. The massive Gopuram (ornate, upper section of shrine) is believed to have a mass of around 81 tonnes. It was the tallest temple in south India. [67] Imperial Roman granite was quarried mainly in Egypt, and also in Turkey, and on the islands of Elba and Giglio . Granite became \"an integral part of the Roman language of monumental architecture\". [68] The quarrying ceased around the third century AD. Beginning in Late Antiquity the granite was reused, which since at least the early 16th century became known as spolia . Through the process of case-hardening , granite becomes harder with age. The technology required to make tempered metal chisels was largely forgotten during the Middle Ages. As a result, Medieval stoneworkers were forced to use saws or emery to shorten ancient columns or hack them into discs. Giorgio Vasari noted in the 16th century that granite in quarries was \"far softer and easier to work than after it has lain exposed\" while ancient columns, because of their \"hardness and solidity have nothing to fear from fire or sword, and time itself, that drives everything to ruin, not only has not destroyed them but has not even altered their colour.\" [68]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cleopatra%27s_Needle_%28London%29_inscriptions.jpg/170px-Cleopatra%27s_Needle_%28London%29_inscriptions.jpg",
+                "caption": "Cleopatra's Needle, London"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Sculpture and memorials",
+        "text": "In some areas, granite is used for gravestones and memorials. Granite is a hard stone and requires skill to carve by hand. Until the early 18th century, in the Western world, granite could be carved only by hand tools with generally poor results. A key breakthrough was the invention of steam-powered cutting and dressing tools by Alexander MacDonald of Aberdeen , inspired by seeing ancient Egyptian granite carvings. In 1832, the first polished tombstone of Aberdeen granite to be erected in an English cemetery was installed at Kensal Green Cemetery . It caused a sensation in the London monumental trade and for some years all polished granite ordered came from MacDonald's. [69] As a result of the work of sculptor William Leslie, and later Sidney Field, granite memorials became a major status symbol in Victorian Britain. The royal sarcophagus at Frogmore was probably the pinnacle of its work, and at 30 tons one of the largest. It was not until the 1880s that rival machinery and works could compete with the MacDonald works. Modern methods of carving include using computer-controlled rotary bits and sandblasting over a rubber stencil. Leaving the letters, numbers, and emblems exposed and the remainder of the stone covered with rubber, the blaster can create virtually any kind of artwork or epitaph. The stone known as \"black granite\" is usually gabbro , which has a completely different chemical composition. [70]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Various_granites.jpg/330px-Various_granites.jpg",
+                "caption": "Granites (cut and polished surfaces)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Buildings",
+        "text": "Granite has been extensively used as a dimension stone and as flooring tiles in public and commercial buildings and monuments. Aberdeen in Scotland, which is constructed principally from local granite, is known as \"The Granite City\". Because of its abundance in New England , granite was commonly used to build foundations for homes there. The Granite Railway , America's first railroad, was built to haul granite from the quarries in Quincy, Massachusetts , to the Neponset River in the 1820s. [71]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Graniittilinna.jpg/220px-Graniittilinna.jpg",
+                "caption": "The granite castle of Aulanko in Hämeenlinna , Finland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Curling stones",
+        "text": "Curling stones are traditionally fashioned of Ailsa Craig granite. The first stones were made in the 1750s, the original source being Ailsa Craig in Scotland . Because of the rarity of this granite, the best stones can cost as much as US$1,500. Between 60 and 70 percent of the stones used today are made from Ailsa Craig granite. Although the island is now a wildlife reserve, it is still quarried under license for Ailsa granite by Kays of Scotland for curling stones. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Curling_stones_yellow.jpg/220px-Curling_stones_yellow.jpg",
+                "caption": "Curling stones"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Types of magnetometer",
+        "text": "There are two basic types of magnetometer measurement. Vector magnetometers measure the vector components of a magnetic field. Total field magnetometers or scalar magnetometers measure the magnitude of the vector magnetic field. [4] Magnetometers used to study the Earth's magnetic field may express the vector components of the field in terms of declination (the angle between the horizontal component of the field vector and true, or geographic, north) and the inclination (the angle between the field vector and the horizontal surface). [5] Absolute magnetometers measure the absolute magnitude or vector magnetic field, using an internal calibration or known physical constants of the magnetic sensor. [6] Relative magnetometers measure magnitude or vector magnetic field relative to a fixed but uncalibrated baseline. Also called variometers , relative magnetometers are used to measure variations in magnetic field. Magnetometers may also be classified by their situation or intended use. Stationary magnetometers are installed to a fixed position and measurements are taken while the magnetometer is stationary. [4] Portable or mobile magnetometers are meant to be used while in motion and may be manually carried or transported in a moving vehicle. Laboratory magnetometers are used to measure the magnetic field of materials placed within them and are typically stationary. Survey magnetometers are used to measure magnetic fields in geomagnetic surveys; they may be fixed base stations, as in the INTERMAGNET network, or mobile magnetometers used to scan a geographic region.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Juno_mag_boom3.jpg/220px-Juno_mag_boom3.jpg",
+                "caption": "The Magnetometer experiment for the Juno orbiter for Juno can be seen here on the end of a boom. The spacecraft uses two fluxgate magnetometers. (see also Magnetometer (Juno) )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Magnetometer",
+        "title": "Magnetometer",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Early magnetometers",
+        "text": "The compass , consisting of a magnetized needle whose orientation changes in response to the ambient magnetic field, is a simple type of magnetometer, one that measures the direction of the field. The oscillation frequency of a magnetized needle is proportional to the square-root of the strength of the ambient magnetic field; so, for example, the oscillation frequency of the needle of a horizontally situated compass is proportional to the square-root of the horizontal intensity of the ambient field. [ citation needed ] In 1833, Carl Friedrich Gauss , head of the Geomagnetic Observatory in Göttingen, published a paper on measurement of the Earth's magnetic field. [7] It described a new instrument that consisted of a permanent bar magnet suspended horizontally from a gold fibre. The difference in the oscillations when the bar was magnetised and when it was demagnetised allowed Gauss to calculate an absolute value for the strength of the Earth's magnetic field. [8] The gauss , the CGS unit of magnetic flux density was named in his honour, defined as one maxwell per square centimeter; it equals 1×10 −4 tesla (the SI unit ). [9] Francis Ronalds and Charles Brooke independently invented magnetographs in 1846 that continuously recorded the magnet's movements using photography , thus easing the load on observers. [10] They were quickly utilised by Edward Sabine and others in a global magnetic survey and updated machines were in use well into the 20th century. [11] [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Stanley_compass_1.jpg/220px-Stanley_compass_1.jpg",
+                "caption": "The compass is a simple type of magnetometer."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Coast_and_Geodetic_Survey_Magnetometer_Plate_XV_Fig_1_WBClark_1897.jpg/220px-Coast_and_Geodetic_Survey_Magnetometer_Plate_XV_Fig_1_WBClark_1897.jpg",
+                "caption": "Coast and Geodetic Survey Magnetometer No. 18"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Magnetometer",
+        "title": "Magnetometer",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Fluxgate magnetometer",
+        "text": "The fluxgate magnetometer was invented by H. Aschenbrenner and G. Goubau in 1936. [23] [24] : 4 A team at Gulf Research Laboratories led by Victor Vacquier developed airborne fluxgate magnetometers to detect submarines during World War II and after the war confirmed the theory of plate tectonics by using them to measure shifts in the magnetic patterns on the sea floor. [25] A fluxgate magnetometer consists of a small magnetically susceptible core wrapped by two coils of wire. An alternating electric current is passed through one coil, driving the core through an alternating cycle of magnetic saturation ; i.e., magnetised, unmagnetised, inversely magnetised, unmagnetised, magnetised, and so forth. This constantly changing field induces a voltage in the second coil which is measured by a detector. In a magnetically neutral background, the input and output signals match. However, when the core is exposed to a background field, it is more easily saturated in alignment with that field and less easily saturated in opposition to it. Hence the alternating magnetic field and the induced output voltage, are out of step with the input current. The extent to which this is the case depends on the strength of the background magnetic field. Often, the signal in the output coil is integrated, yielding an output analog voltage proportional to the magnetic field. A wide variety of sensors are currently available and used to measure magnetic fields. Fluxgate compasses and gradiometers measure the direction and magnitude of magnetic fields. Fluxgates are affordable, rugged and compact with miniaturization recently advancing to the point of complete sensor solutions in the form of IC chips, including examples from both academia [26] and industry. [27] This, plus their typically low power consumption makes them ideal for a variety of sensing applications. Gradiometers are commonly used for archaeological prospecting and unexploded ordnance (UXO) detection such as the German military's popular Foerster . [28] The typical fluxgate magnetometer consists of a \"sense\" (secondary) coil surrounding an inner \"drive\" (primary) coil that is closely wound around a highly permeable core material, such as mu-metal or permalloy . An alternating current is applied to the drive winding, which drives the core in a continuous repeating cycle of saturation and unsaturation. To an external field, the core is alternately weakly permeable and highly permeable. The core is often a toroidally wrapped ring or a pair of linear elements whose drive windings are each wound in opposing directions. Such closed flux paths minimise coupling between the drive and sense windings. In the presence of an external magnetic field, with the core in a highly permeable state, such a field is locally attracted or gated (hence the name fluxgate) through the sense winding. When the core is weakly permeable, the external field is less attracted. This continuous gating of the external field in and out of the sense winding induces a signal in the sense winding, whose principal frequency is twice that of the drive frequency, and whose strength and phase orientation vary directly with the external-field magnitude and polarity. There are additional factors that affect the size of the resultant signal. These factors include the number of turns in the sense winding, magnetic permeability of the core, sensor geometry, and the gated flux rate of change with respect to time. Phase synchronous detection is used to extract these harmonic signals from the sense winding and convert them into a DC voltage proportional to the external magnetic field. Active current feedback may also be employed, such that the sense winding is driven to counteract the external field. In such cases, the feedback current varies linearly with the external magnetic field and is used as the basis for measurement. This helps to counter inherent non-linearity between the applied external field strength and the flux gated through the sense winding.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Magnetometr_transduktorowy_by_Zureks.jpg/220px-Magnetometr_transduktorowy_by_Zureks.jpg",
+                "caption": "A uniaxial fluxgate magnetometer"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Floating_core_fluxgate_inclinometer_compass_autonnic.jpg/220px-Floating_core_fluxgate_inclinometer_compass_autonnic.jpg",
+                "caption": "A fluxgate compass /inclinometer"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Magnetometer",
+        "title": "Magnetometer",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Accelerator physics",
+        "text": "Magnetometers are used extensively in experimental particle physics to measure the magnetic field of pivotal components such as the concentration or focusing beam-magnets.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Aust.-Synchrotron%2C-Quadrupole-Magnets-of-Linac%2C-14.06.2007.jpg/220px-Aust.-Synchrotron%2C-Quadrupole-Magnets-of-Linac%2C-14.06.2007.jpg",
+                "caption": "Aust.-Synchrotron,-Quadrupole-Magnets-of-Linac,-14.06.2007"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Magnetometer",
+        "title": "Magnetometer",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Mineral exploration",
+        "text": "Magnetometric surveys can be useful in defining magnetic anomalies which represent ore (direct detection), or in some cases gangue minerals associated with ore deposits (indirect or inferential detection). This includes iron ore , magnetite , hematite , and often pyrrhotite . Developed countries such as Australia, Canada and USA invest heavily in systematic airborne magnetic surveys of their respective continents and surrounding oceans, to assist with map geology and in the discovery of mineral deposits. Such aeromag surveys are typically undertaken with 400 m line spacing at 100 m elevation, with readings every 10 meters or more. To overcome the asymmetry in the data density, data is interpolated between lines (usually 5 times) and data along the line is then averaged. Such data is gridded to an 80 m × 80 m pixel size and image processed using a program like ERMapper. At an exploration lease scale, the survey may be followed by a more detailed helimag or crop duster style fixed wing at 50 m line spacing and 50 m elevation (terrain permitting). Such an image is gridded on a 10 x 10 m pixel, offering 64 times the resolution. Where targets are shallow (<200 m), aeromag anomalies may be followed up with ground magnetic surveys on 10 m to 50 m line spacing with 1 m station spacing to provide the best detail (2 to 10 m pixel grid) (or 25 times the resolution prior to drilling). Magnetic fields from magnetic bodies of ore fall off with the inverse distance cubed ( dipole target), or at best inverse distance squared ( magnetic monopole target). One analogy to the resolution-with-distance is a car driving at night with lights on. At a distance of 400 m one sees one glowing haze, but as it approaches, two headlights, and then the left blinker, are visible. There are many challenges interpreting magnetic data for mineral exploration. Multiple targets mix together like multiple heat sources and, unlike light, there is no magnetic telescope to focus fields. The combination of multiple sources is measured at the surface. The geometry, depth, or magnetisation direction (remanence) of the targets are also generally not known, and so multiple models can explain the data. Potent by Geophysical Software Solutions [1] is a leading magnetic (and gravity) interpretation package used extensively in the Australian exploration industry. Magnetometers assist mineral explorers both directly (i.e., gold mineralisation associated with magnetite , diamonds in kimberlite pipes ) and, more commonly, indirectly, such as by mapping geological structures conducive to mineralisation (i.e., shear zones and alteration haloes around granites). Airborne Magnetometers detect the change in the Earth's magnetic field using sensors attached to the aircraft in the form of a \"stinger\" or by towing a magnetometer on the end of a cable. The magnetometer on a cable is often referred to as a \"bomb\" because of its shape. Others call it a \"bird\". Because hills and valleys under the aircraft make the magnetic readings rise and fall, a radar altimeter keeps track of the transducer's deviation from the nominal altitude above ground. There may also be a camera that takes photos of the ground. The location of the measurement is determined by also recording a GPS.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/VHFNV.JPG/220px-VHFNV.JPG",
+                "caption": "A Diamond DA42 light aircraft , modified for aerial survey with a nose-mounted boom containing a magnetometer at its tip"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Magnetometer",
+        "title": "Magnetometer",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Mobile phones",
+        "text": "Many smartphones contain miniaturized microelectromechanical systems (MEMS) magnetometers which are used to detect magnetic field strength and are used as compasses . The iPhone 3GS has a magnetometer, a magnetoresistive permalloy sensor, the AN-203 produced by Honeywell. [43] In 2009, the price of three-axis magnetometers dipped below US$1 per device and dropped rapidly. The use of a three-axis device means that it is not sensitive to the way it is held in orientation or elevation. Hall effect devices are also popular. [44] Researchers at Deutsche Telekom have used magnetometers embedded in mobile devices to permit touchless 3D interaction . Their interaction framework, called MagiTact, tracks changes to the magnetic field around a cellphone to identify different gestures made by a hand holding or wearing a magnet. [45]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Motorola_Xoom_-_AKM_Semiconductor_AKM8975-1693.jpg/220px-Motorola_Xoom_-_AKM_Semiconductor_AKM8975-1693.jpg",
+                "caption": "Tri-axis Electronic Magnetometer by AKM Semiconductor , inside Motorola Xoom"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Magnetometer",
+        "title": "Magnetometer",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Magnetic surveys",
+        "text": "Systematic surveys can be used to in searching for mineral deposits or locating lost objects. Such surveys are divided into: Aeromag datasets for Australia can be downloaded from the GADDS database . Data can be divided in point located and image data, the latter of which is in ERMapper format.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ground_surveying_in_Surprise_Valley%2C_California.jpg/220px-Ground_surveying_in_Surprise_Valley%2C_California.jpg",
+                "caption": "Ground surveying in Surprise Valley, Cedarville, California"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Magnetometer",
+        "title": "Magnetometer",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Rocks, ores, and gems",
+        "text": "A rock is an aggregate of one or more minerals [32] or mineraloids. Some rocks, such as limestone or quartzite , are composed primarily of one mineral – calcite or aragonite in the case of limestone, and quartz in the latter case. [33] [34] Other rocks can be defined by relative abundances of key (essential) minerals; a granite is defined by proportions of quartz, alkali feldspar , and plagioclase feldspar . [35] The other minerals in the rock are termed accessory minerals , and do not greatly affect the bulk composition of the rock. Rocks can also be composed entirely of non-mineral material; coal is a sedimentary rock composed primarily of organically derived carbon. [32] [36] In rocks, some mineral species and groups are much more abundant than others; these are termed the rock-forming minerals. The major examples of these are quartz, the feldspars , the micas , the amphiboles , the pyroxenes , the olivines , and calcite; except for the last one, all of these minerals are silicates. [37] Overall, around 150 minerals are considered particularly important, whether in terms of their abundance or aesthetic value in terms of collecting. [38] Commercially valuable minerals and rocks, other than gemstones, metal ores, or mineral fuels, are referred to as industrial minerals . [39] For example, muscovite , a white mica, can be used for windows (sometimes referred to as isinglass), as a filler, or as an insulator. [40] Ores are minerals that have a high concentration of a certain element, typically a metal. Examples are cinnabar (HgS), an ore of mercury; sphalerite (ZnS), an ore of zinc; cassiterite (SnO 2 ), an ore of tin; and colemanite , an ore of boron . Gems are minerals with an ornamental value, and are distinguished from non-gems by their beauty, durability, and usually, rarity. There are about 20 mineral species that qualify as gem minerals, which constitute about 35 of the most common gemstones. Gem minerals are often present in several varieties, and so one mineral can account for several different gemstones; for example, ruby and sapphire are both corundum , Al 2 O 3 . [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sillimanite-199671.jpg/170px-Sillimanite-199671.jpg",
+                "caption": "Schist is a metamorphic rock characterized by an abundance of platy minerals. In this example, the rock has prominent sillimanite porphyroblasts as large as 3 cm (1.2 in)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Chemistry",
+        "text": "The abundance and diversity of minerals is controlled directly by their chemistry, in turn dependent on elemental abundances in the Earth. The majority of minerals observed are derived from the Earth's crust . Eight elements account for most of the key components of minerals, due to their abundance in the crust. These eight elements, summing to over 98% of the crust by weight, are, in order of decreasing abundance: oxygen , silicon , aluminium , iron , magnesium , calcium , sodium and potassium . Oxygen and silicon are by far the two most important – oxygen composes 47% of the crust by weight, and silicon accounts for 28%. [44] The minerals that form are those that are most stable at the temperature and pressure of formation, within the limits imposed by the bulk chemistry of the parent body. [45] For example, in most igneous rocks, the aluminium and alkali metals (sodium and potassium) that are present are  primarily found in combination with oxygen, silicon, and calcium as feldspar minerals. However, if the rock is unusually rich in alkali metals, there will not be enough aluminium to combine with all the sodium as feldspar, and the excess sodium will form sodic amphiboles such as riebeckite . If the aluminium abundance is unusually high, the excess aluminium will form muscovite or other aluminium-rich minerals. [46] If silicon is deficient, part of the feldspar will be replaced by feldspathoid minerals. [47] Precise predictions of which minerals will be present in a rock of a particular composition formed at a particular temperature and pressure requires complex thermodynamic calculations. However, approximate estimates may be made using relatively simple rules of thumb , such as the CIPW norm , which gives reasonable estimates for volcanic rock formed from dry magma. [48] The chemical composition may vary between end member species of a solid solution series. For example, the plagioclase feldspars comprise a continuous series from sodium -rich end member albite (NaAlSi 3 O 8 ) to calcium -rich anorthite (CaAl 2 Si 2 O 8 ) with four recognized intermediate varieties between them (given in order from sodium- to calcium-rich): oligoclase , andesine , labradorite , and bytownite . [49] Other examples of series include the olivine series of magnesium-rich forsterite and iron-rich fayalite, and the wolframite series of manganese -rich hübnerite and iron-rich ferberite . [50] Chemical substitution and coordination polyhedra explain this common feature of minerals. In nature, minerals are not pure substances, and are contaminated by whatever other elements are present in the given chemical system. As a result, it is possible for one element to be substituted for another. [51] Chemical substitution will occur between ions of a similar size and charge; for example, K + will not substitute for Si 4+ because of chemical and structural incompatibilities caused by a big difference in size and charge. A common example of chemical substitution is that of Si 4+ by Al 3+ , which are close in charge, size, and abundance in the crust. In the example of plagioclase, there are three cases of substitution. Feldspars are all framework silicates, which have a silicon-oxygen ratio of 2:1, and the space for other elements is given by the substitution of Si 4+ by Al 3+ to give a base unit of [AlSi 3 O 8 ] − ; without the substitution, the formula would be charge-balanced as SiO 2 , giving quartz. [52] The significance of this structural property will be explained further by coordination polyhedra. The second substitution occurs between Na + and Ca 2+ ; however, the difference in charge has to accounted for by making a second substitution of Si 4+ by Al 3+ . [53] Coordination polyhedra are geometric representations of how a cation is surrounded by an anion. In mineralogy, coordination polyhedra are usually considered in terms of oxygen, due its abundance in the crust. The base unit of silicate minerals is the silica tetrahedron – one Si 4+ surrounded by four O 2− . An alternate way of describing the coordination of the silicate is by a number: in the case of the silica tetrahedron, the silicon is said to have a coordination number of 4. Various cations have a specific range of possible coordination numbers; for silicon, it is almost always 4, except for very high-pressure minerals where the compound is compressed such that silicon is in six-fold (octahedral) coordination with oxygen. Bigger cations have a bigger coordination numbers because of the increase in relative size as compared to oxygen (the last orbital subshell of heavier atoms is different too). Changes in coordination numbers leads to physical and mineralogical differences; for example, at high pressure, such as in the mantle , many minerals, especially silicates such as olivine and garnet , will change to a perovskite structure , where silicon is in octahedral coordination. Other examples are the aluminosilicates kyanite , andalusite , and sillimanite (polymorphs, since they share the formula Al 2 SiO 5 ), which differ by the coordination number of the Al 3+ ; these minerals transition from one another as a response to changes in pressure and temperature. [44] In the case of silicate materials, the substitution of Si 4+ by Al 3+ allows for a variety of minerals because of the need to balance charges. [54] Because the eight most common elements make up over 98% of the Earth's crust, the small quantities of the other elements that are typically present are substituted into the common rock-forming minerals. The distinctive minerals of most elements are quite rare, being found only where these elements have been concentrated by geological processes, such as hydrothermal circulation , to the point where they can no longer be accommodated in common minerals. [55] Changes in temperature and pressure and composition alter the mineralogy of a rock sample. Changes in composition can be caused by processes such as weathering or metasomatism ( hydrothermal alteration ). Changes in temperature and pressure occur when the host rock undergoes tectonic or magmatic movement into differing physical regimes. Changes in thermodynamic conditions make it favourable for mineral assemblages to react with each other to produce new minerals; as such, it is possible for two rocks to have an identical or a very similar bulk rock chemistry without having a similar mineralogy. This process of mineralogical alteration is related to the rock cycle . An example of a series of mineral reactions is illustrated as follows. [56] Orthoclase feldspar (KAlSi 3 O 8 ) is a mineral commonly found in granite , a plutonic igneous rock . When exposed to weathering, it reacts to form kaolinite (Al 2 Si 2 O 5 (OH) 4 , a sedimentary mineral, and silicic acid ): Under low-grade metamorphic conditions, kaolinite reacts with quartz to form pyrophyllite (Al 2 Si 4 O 10 (OH) 2 ): As metamorphic grade increases, the pyrophyllite reacts to form kyanite and quartz: Alternatively, a mineral may change its crystal structure as a consequence of changes in temperature and pressure without reacting. For example, quartz will change into a variety of its SiO 2 polymorphs , such as tridymite and cristobalite at high temperatures, and coesite at high pressures. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hubnerite-Quartz-216455.jpg/170px-Hubnerite-Quartz-216455.jpg",
+                "caption": "Hübnerite , the manganese-rich end-member of the wolframite series, with minor quartz in the background"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kaolinite-Orthoclase-lw18c.jpg/220px-Kaolinite-Orthoclase-lw18c.jpg",
+                "caption": "When minerals react, the products will sometimes assume the shape of the reagent; the product mineral is termed a pseudomorph of (or after) the reagent. Illustrated here is a pseudomorph of kaolinite after orthoclase . Here, the pseudomorph preserved the Carlsbad twinning common in orthoclase."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Crystal structure and habit",
+        "text": "Crystal structure results from the orderly geometric spatial arrangement of atoms in the internal structure of a mineral. This crystal structure is based on regular internal atomic or ionic arrangement that is often expressed in the geometric form that the crystal takes. Even when the mineral grains are too small to see or are irregularly shaped, the underlying crystal structure is always periodic and can be determined by X-ray diffraction. [13] Minerals are typically described by their symmetry content. Crystals are restricted to 32 point groups , which differ by their symmetry. These groups are classified in turn into more broad categories, the most encompassing of these being the six crystal families. [59] These families can be described by the relative lengths of the three crystallographic axes, and the angles between them; these relationships correspond to the symmetry operations that define the narrower point groups. They are summarized below; a, b, and c represent the axes, and α, β, γ represent the angle opposite the respective crystallographic axis (e.g. α is the angle opposite the a-axis, viz. the angle between the b and c axes): [59] The hexagonal crystal family is also split into two crystal systems – the trigonal , which has a three-fold axis of symmetry, and the hexagonal, which has a six-fold axis of symmetry. Chemistry and crystal structure together define a mineral. With a restriction to 32 point groups, minerals of different chemistry may have identical crystal structure. For example, halite (NaCl), galena (PbS), and periclase (MgO) all belong to the hexaoctahedral point group (isometric family), as they have a similar stoichiometry between their different constituent elements. In contrast, polymorphs are groupings of minerals that share a chemical formula but have a different structure. For example, pyrite and marcasite , both iron sulfides, have the formula FeS 2 ; however, the former is isometric while the latter is orthorhombic. This polymorphism extends to other sulfides with the generic AX 2 formula; these two groups are collectively known as the pyrite and marcasite groups. [60] Polymorphism can extend beyond pure symmetry content. The aluminosilicates are a group of three minerals – kyanite , andalusite , and sillimanite – which share the chemical formula Al 2 SiO 5 . Kyanite is triclinic, while andalusite and sillimanite are both orthorhombic and belong to the dipyramidal point group. These differences arise corresponding to how aluminium is coordinated within the crystal structure. In all minerals, one aluminium ion is always in six-fold coordination with oxygen. Silicon, as a general rule, is in four-fold coordination in all minerals; an exception is a case like stishovite (SiO 2 , an ultra-high pressure quartz polymorph with rutile structure). [61] In kyanite, the second aluminium is in six-fold coordination; its chemical formula can be expressed as Al [6] Al [6] SiO 5 , to reflect its crystal structure. Andalusite has the second aluminium in five-fold coordination (Al [6] Al [5] SiO 5 ) and sillimanite has it in four-fold coordination (Al [6] Al [4] SiO 5 ). [62] Differences in crystal structure and chemistry greatly influence other physical properties of the mineral. The carbon allotropes diamond and graphite have vastly different properties; diamond is the hardest natural substance, has an adamantine lustre, and belongs to the isometric crystal family, whereas graphite is very soft, has a greasy lustre, and crystallises in the hexagonal family. This difference is accounted for by differences in bonding. In diamond, the carbons are in sp 3 hybrid orbitals, which means they form a framework where each carbon is covalently bonded to four neighbours in a tetrahedral fashion; on the other hand, graphite is composed of sheets of carbons in sp 2 hybrid orbitals, where each carbon is bonded covalently to only three others. These sheets are held together by much weaker van der Waals forces , and this discrepancy translates to large macroscopic differences. [63] Twinning is the intergrowth of two or more crystals of a single mineral species. The geometry of the twinning is controlled by the mineral's symmetry. As a result, there are several types of twins, including contact twins, reticulated twins, geniculated twins, penetration twins, cyclic twins, and polysynthetic twins. Contact, or simple twins, consist of two crystals joined at a plane; this type of twinning is common in spinel. Reticulated twins, common in rutile, are interlocking crystals resembling netting. Geniculated twins have a bend in the middle that is caused by start of the twin. Penetration twins consist of two single crystals that have grown into each other; examples of this twinning include cross-shaped staurolite twins and Carlsbad twinning in orthoclase. Cyclic twins are caused by repeated twinning around a rotation axis. This type of twinning occurs around three, four, five, six, or eight-fold axes, and the corresponding patterns are called threelings, fourlings, fivelings , sixlings, and eightlings. Sixlings are common in aragonite. Polysynthetic twins are similar to cyclic twins through the presence of repetitive twinning; however, instead of occurring around a rotational axis, polysynthetic twinning occurs along parallel planes, usually on a microscopic scale. [64] [65] Crystal habit refers to the overall shape of crystal. Several terms are used to describe this property. Common habits include acicular, which describes needlelike crystals as in natrolite , bladed, dendritic (tree-pattern, common in native copper ), equant, which is typical of garnet, prismatic (elongated in one direction), and tabular, which differs from bladed habit in that the former is platy whereas the latter has a defined elongation. Related to crystal form, the quality of crystal faces is diagnostic of some minerals, especially with a petrographic microscope. Euhedral crystals have a defined external shape, while anhedral crystals do not; those intermediate forms are termed subhedral. [66] [67]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Topaz-235220.jpg/220px-Topaz-235220.jpg",
+                "caption": "Topaz has a characteristic orthorhombic elongated crystal shape."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Spinel-4mb4c.jpg/220px-Spinel-4mb4c.jpg",
+                "caption": "Contact twins, as seen in spinel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Hardness",
+        "text": "The hardness of a mineral defines how much it can resist scratching or indentation. This physical property is controlled by the chemical composition and crystalline structure of a mineral. The most commonly used scale of measurement is the ordinal Mohs hardness scale, which measures resistance to scratching. Defined by ten indicators, a mineral with a higher index scratches those below it. The scale ranges from talc, a phyllosilicate , to diamond, a carbon polymorph that is the hardest natural material. The scale is provided below: [68] A mineral's hardness is a function of its structure. Hardness is not necessarily constant for all crystallographic directions; crystallographic weakness renders some directions softer than others. [68] An example of this hardness variability exists in kyanite, which has a Mohs hardness of 5 1 ⁄ 2 parallel to [001] but 7 parallel to [100] . [69] Other scales include these; [70]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Rough_diamond.jpg/220px-Rough_diamond.jpg",
+                "caption": "Diamond is the hardest natural material, and has a Mohs hardness of 10."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mohs-Hardness-Graph.svg/220px-Mohs-Hardness-Graph.svg.png",
+                "caption": "Mohs Scale versus Absolute Hardness"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Lustre and diaphaneity",
+        "text": "Lustre indicates how light reflects from the mineral's surface, with regards to its quality and intensity. There are numerous qualitative terms used to describe this property, which are split into metallic and non-metallic categories. Metallic and sub-metallic minerals have high reflectivity like metal; examples of minerals with this lustre are galena and pyrite. Non-metallic lustres include: adamantine, such as in diamond ; vitreous, which is a glassy lustre very common in silicate minerals; pearly, such as in talc and apophyllite ; resinous, such as members of the garnet group; silky which is common in fibrous minerals such as asbestiform chrysotile . [72] The diaphaneity of a mineral describes the ability of light to pass through it. Transparent minerals do not diminish the intensity of light passing through them. An example of a transparent mineral is muscovite (potassium mica); some varieties are sufficiently clear to have been used for windows. Translucent minerals allow some light to pass, but less than those that are transparent. Jadeite and nephrite (mineral forms of jade are examples of minerals with this property). Minerals that do not allow light to pass are called opaque. [73] [74] The diaphaneity of a mineral depends on the thickness of the sample. When a mineral is sufficiently thin (e.g., in a thin section for petrography ), it may become transparent even if that property is not seen in a hand sample. In contrast, some minerals, such as hematite or pyrite, are opaque even in thin-section. [74]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Pyrite_2.jpg/220px-Pyrite_2.jpg",
+                "caption": "Pyrite has a metallic lustre."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Colour and streak",
+        "text": "Colour is the most obvious property of a mineral, but it is often non-diagnostic. [75] It is caused by electromagnetic radiation interacting with electrons (except in the case of incandescence , which does not apply to minerals). [76] Two broad classes of elements (idiochromatic and allochromatic) are defined with regards to their contribution to a mineral's colour: Idiochromatic elements are essential to a mineral's composition; their contribution to a mineral's colour is diagnostic. [73] [77] Examples of such minerals are malachite (green) and azurite (blue). In contrast, allochromatic elements in minerals are present in trace amounts as impurities. An example of such a mineral would be the ruby and sapphire varieties of the mineral corundum . [77] The colours of pseudochromatic minerals are the result of interference of light waves. Examples include labradorite and bornite . In addition to simple body colour, minerals can have various other distinctive optical properties, such as play of colours, asterism , chatoyancy , iridescence , tarnish, and pleochroism . Several of these properties involve variability in colour. Play of colour, such as in opal , results in the sample reflecting different colours as it is turned, while pleochroism describes the change in colour as light passes through a mineral in a different orientation. Iridescence is a variety of the play of colours where light scatters off a coating on the surface of crystal, cleavage planes, or off layers having minor gradations in chemistry. [78] In contrast, the play of colours in opal is caused by light refracting from ordered microscopic silica spheres within its physical structure. [79] Chatoyancy (\"cat's eye\") is the wavy banding of colour that is observed as the sample is rotated; asterism, a variety of chatoyancy, gives the appearance of a star on the mineral grain. The latter property is particularly common in gem-quality corundum. [78] [79] The streak of a mineral refers to the colour of a mineral in powdered form, which may or may not be identical to its body colour. [77] The most common way of testing this property is done with a streak plate, which is made out of porcelain and coloured either white or black. The streak of a mineral is independent of trace elements [73] or any weathering surface. [77] A common example of this property is illustrated with hematite , which is coloured black, silver, or red in hand sample, but has a cherry-red [73] to reddish-brown streak. [77] Streak is more often distinctive for metallic minerals, in contrast to non-metallic minerals whose body colour is created by allochromatic elements. [73] Streak testing is constrained by the hardness of the mineral, as those harder than 7 powder the streak plate instead. [77]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Quartz-Uvarovite-LTH15C.JPG/150px-Quartz-Uvarovite-LTH15C.JPG",
+                "caption": "Colour is typically not a diagnostic property of minerals. Shown are green uvarovite (left) and red-pink grossular (right), both garnets . The diagnostic features would include dodecahedral crystals, resinous lustre, and hardness around 7."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Cleavage, parting, fracture, and tenacity",
+        "text": "By definition, minerals have a characteristic atomic arrangement. Weakness in this crystalline structure causes planes of weakness, and the breakage of a mineral along such planes is termed cleavage. The quality of cleavage can be described based on how cleanly and easily the mineral breaks; common descriptors, in order of decreasing quality, are \"perfect\", \"good\", \"distinct\", and \"poor\". In particularly transparent minerals, or in thin-section, cleavage can be seen as a series of parallel lines marking the planar surfaces when viewed from the side. Cleavage is not a universal property among minerals; for example, quartz, consisting of extensively interconnected silica tetrahedra, does not have a crystallographic weakness which would allow it to cleave. In contrast, micas, which have perfect basal cleavage, consist of sheets of silica tetrahedra which are very weakly held together. [80] [81] As cleavage is a function of crystallography, there are a variety of cleavage types. Cleavage occurs typically in either one, two, three, four, or six directions. Basal cleavage in one direction is a distinctive property of the micas . Two-directional cleavage is described as prismatic, and occurs in minerals such as the amphiboles and pyroxenes. Minerals such as galena or halite have cubic (or isometric) cleavage in three directions, at 90°; when three directions of cleavage are present, but not at 90°, such as in calcite or rhodochrosite , it is termed rhombohedral cleavage. Octahedral cleavage (four directions) is present in fluorite and diamond, and sphalerite has six-directional dodecahedral cleavage. [80] [81] Minerals with many cleavages might not break equally well in all of the directions; for example, calcite has good cleavage in three directions, but gypsum has perfect cleavage in one direction, and poor cleavage in two other directions. Angles between cleavage planes vary between minerals. For example, as the amphiboles are double-chain silicates and the pyroxenes are single-chain silicates, the angle between their cleavage planes is different. The pyroxenes cleave in two directions at approximately 90°, whereas the amphiboles distinctively cleave in two directions separated by approximately 120° and 60°. The cleavage angles can be measured with a contact goniometer, which is similar to a protractor. [80] [81] Parting, sometimes called \"false cleavage\", is similar in appearance to cleavage but is instead produced by structural defects in the mineral, as opposed to systematic weakness. Parting varies from crystal to crystal of a mineral, whereas all crystals of a given mineral will cleave if the atomic structure allows for that property. In general, parting is caused by some stress applied to a crystal. The sources of the stresses include deformation (e.g. an increase in pressure), exsolution, or twinning. Minerals that often display parting include the pyroxenes, hematite, magnetite, and corundum. [80] [82] When a mineral is broken in a direction that does not correspond to a plane of cleavage, it is termed to have been fractured. There are several types of uneven fracture. The classic example is conchoidal fracture, like that of quartz; rounded surfaces are created, which are marked by smooth curved lines. This type of fracture occurs only in very homogeneous minerals. Other types of fracture are fibrous, splintery, and hackly. The latter describes a break along a rough, jagged surface; an example of this property is found in native copper . [83] Tenacity is related to both cleavage and fracture. Whereas fracture and cleavage describes the surfaces that are created when a mineral is broken, tenacity describes how resistant a mineral is to such breaking. Minerals can be described as brittle, ductile, malleable, sectile, flexible, or elastic. [84]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Biotite-Orthoclase-229808.jpg/220px-Biotite-Orthoclase-229808.jpg",
+                "caption": "Perfect basal cleavage as seen in biotite (black), and good cleavage seen in the matrix (pink orthoclase )."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Specific gravity",
+        "text": "Specific gravity numerically describes the density of a mineral. The dimensions of density are mass divided by volume with units: kg/m 3 or g/cm 3 . Specific gravity is defined as the density of the mineral divided by the density of water at 4 °C and thus is a dimensionless quantity, identical in all unit systems. [85] It can be measured as the quotient of the mass of the sample and difference between the weight of the sample in air and its corresponding weight in water. Among most minerals, this property is not diagnostic. Rock forming minerals – typically silicates or occasionally carbonates – have a specific gravity of 2.5–3.5. [86] High specific gravity is a diagnostic property of a mineral. A variation in chemistry (and consequently, mineral class) correlates to a change in specific gravity. Among more common minerals, oxides and sulfides tend to have a higher specific gravity as they include elements with higher atomic mass. A generalization is that minerals with metallic or adamantine lustre tend to have higher specific gravities than those having a non-metallic to dull lustre. For example, hematite , Fe 2 O 3 , has a specific gravity of 5.26 [87] while galena , PbS, has a specific gravity of 7.2–7.6, [88] which is a result of their high iron and lead content, respectively. A very high specific gravity is characteristic of native metals ; for example, kamacite , an iron-nickel alloy common in iron meteorites has a specific gravity of 7.9, [89] and gold has an observed specific gravity between 15 and 19.3. [86] [90]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Calcite-Galena-elm56c.jpg/220px-Calcite-Galena-elm56c.jpg",
+                "caption": "Galena , PbS, is a mineral with a high specific gravity."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Other properties",
+        "text": "Other properties can be used to diagnose minerals. These are less general, and apply to specific minerals. Dropping dilute acid (often 10% HCl ) onto a mineral aids in distinguishing carbonates from other mineral classes. The acid reacts with the carbonate ([CO 3 ] 2− ) group, which causes the affected area to effervesce , giving off carbon dioxide gas. This test can be further expanded to test the mineral in its original crystal form or powdered form. An example of this test is done when distinguishing calcite from dolomite , especially within the rocks ( limestone and dolomite respectively). Calcite immediately effervesces in acid, whereas acid must be applied to powdered dolomite (often to a scratched surface in a rock), for it to effervesce. [91] Zeolite minerals will not effervesce in acid; instead, they become frosted after 5–10 minutes, and if left in acid for a day, they dissolve or become a silica gel . [92] Magnetism is a very conspicuous property of a few minerals. Among common minerals, magnetite exhibits this property strongly, and magnetism is also present, albeit not as strongly, in pyrrhotite and ilmenite . [91] Some minerals exhibit electrical properties – for example, quartz is piezoelectric – but electrical properties are rarely used as diagnostic criteria for minerals because of incomplete data and natural variation. [93] Minerals can also be tested for taste or smell. Halite , NaCl, is table salt; its potassium-bearing counterpart, sylvite , has a pronounced bitter taste. Sulfides have a characteristic smell, especially as samples are fractured, reacting, or powdered. [91] Radioactivity is a rare property found in minerals containing radioactive elements. The radioactive elements could be a defining constituent, such as uranium in uraninite , autunite , and carnotite , or present as trace impurities, as in zircon . The decay of a radioactive element damages the mineral crystal structure rendering it locally amorphous ( metamict state ); the optical result, termed a radioactive halo or pleochroic halo , is observable with various techniques, such as thin-section petrography . [91]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Carnotite-201050.jpg/220px-Carnotite-201050.jpg",
+                "caption": "Carnotite (yellow) is a radioactive uranium -bearing mineral."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Silicates",
+        "text": "The base unit of a silicate mineral is the [SiO 4 ] 4− tetrahedron. In the vast majority of cases, silicon is in four-fold or tetrahedral coordination with oxygen. In very high-pressure situations, silicon will be in six-fold or octahedral coordination, such as in the perovskite structure or the quartz polymorph stishovite (SiO 2 ). In the latter case, the mineral no longer has a silicate structure, but that of rutile (TiO 2 ), and its associated group, which are simple oxides. These silica tetrahedra are then polymerized to some degree to create various structures, such as one-dimensional chains, two-dimensional sheets, and three-dimensional frameworks. The basic silicate mineral where no polymerization of the tetrahedra has occurred requires other elements to balance out the base 4- charge. In other silicate structures, different combinations of elements are required to balance out the resultant negative charge. It is common for the Si 4+ to be substituted by  Al 3+ because of similarity in ionic radius and charge; in those cases, the [AlO 4 ] 5− tetrahedra form the same structures as do the unsubstituted tetrahedra, but their charge-balancing requirements are different. [102] The degree of polymerization can be described by both the structure formed and how many tetrahedral corners (or coordinating oxygens) are shared (for aluminium and silicon in tetrahedral sites): [103] [104] The silicate subclasses are described below in order of decreasing polymerization.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Aegirine-233494.jpg/220px-Aegirine-233494.jpg",
+                "caption": "Aegirine , an iron-sodium clinopyroxene, is part of the inosilicate subclass."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Tectosilicates",
+        "text": "Tectosilicates, also known as framework silicates, have the highest degree of polymerization. With all corners of a tetrahedra shared, the silicon:oxygen ratio becomes 1:2. Examples are quartz, the feldspars , feldspathoids , and the zeolites . Framework silicates tend to be particularly chemically stable as a result of strong covalent bonds. [105] Forming 12% of the Earth's crust, quartz (SiO 2 ) is the most abundant mineral species. It is characterized by its high chemical and physical resistivity. Quartz has several polymorphs, including tridymite and cristobalite at high temperatures, high-pressure coesite , and ultra-high pressure stishovite . The latter mineral can only be formed on Earth by meteorite impacts, and its structure has been compressed so much that it has changed from a silicate structure to that of rutile (TiO 2 ). The silica polymorph that is most stable at the Earth's surface is α-quartz. Its counterpart, β-quartz, is present only at high temperatures and pressures (changes to α-quartz below 573 °C at 1 bar). These two polymorphs differ by a \"kinking\" of bonds; this change in structure gives β-quartz greater symmetry than α-quartz, and they are thus also called high quartz (β) and low quartz (α). [100] [106] Feldspars are the most abundant group in the Earth's crust, at about 50%. In the feldspars, Al 3+ substitutes for Si 4+ , which creates a charge imbalance that must be accounted for by the addition of cations. The base structure becomes either [AlSi 3 O 8 ] − or [Al 2 Si 2 O 8 ] 2− There are 22 mineral species of feldspars, subdivided into two major subgroups – alkali and plagioclase – and two less common groups – celsian and banalsite . The alkali feldspars are most commonly in a series between potassium-rich orthoclase and sodium-rich albite ; in the case of plagioclase, the most common series ranges from albite to calcium-rich anorthite . Crystal twinning is common in feldspars, especially polysynthetic twins in plagioclase and Carlsbad twins in alkali feldspars. If the latter subgroup cools slowly from a melt, it forms exsolution lamellae because the two components – orthoclase and albite – are unstable in solid solution. Exsolution can be on a scale from microscopic to readily observable in hand-sample; perthitic texture forms when Na-rich feldspar exsolve in a K-rich host. The opposite texture (antiperthitic), where K-rich feldspar exsolves in a Na-rich host, is very rare. [107] Feldspathoids are structurally similar to feldspar, but differ in that they form in Si-deficient conditions, which allows for further substitution by Al 3+ . As a result, feldspathoids are almost never found in association with quartz. A common example of a feldspathoid is nepheline ((Na, K)AlSiO 4 ); compared to alkali feldspar, nepheline has an Al 2 O 3 :SiO 2 ratio of 1:2, as opposed to 1:6 in alkali feldspar. [108] Zeolites often have distinctive crystal habits, occurring in needles, plates, or blocky masses. They form in the presence of water at low temperatures and pressures, and have channels and voids in their structure. Zeolites have several industrial applications, especially in waste water treatment. [109]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Natroliteinde1.jpg/250px-Natroliteinde1.jpg",
+                "caption": "Natrolite is a mineral series in the zeolite group; this sample has a very prominent acicular crystal habit."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Phyllosilicates",
+        "text": "Phyllosilicates consist of sheets of polymerized tetrahedra. They are bound at three oxygen sites, which gives a characteristic silicon:oxygen ratio of 2:5. Important examples include the mica , chlorite , and the kaolinite - serpentine groups. In addition to the tetrahedra, phyllosilicates have a sheet of octahedra (elements in six-fold coordination by oxygen) that balance out the basic tetrahedra, which have a negative charge (e.g. [Si 4 O 10 ] 4− ) These tetrahedra (T) and octahedra (O) sheets are stacked in a variety of combinations to create phyllosilicate layers. Within an octahedral sheet, there are three octahedral sites in a unit structure; however, not all of the sites may be occupied. In that case, the mineral is termed dioctahedral, whereas in other case it is termed trioctahedral. [110] The layers are weakly bound by van der Waals forces , hydrogen bonds , or sparse ionic bonds , which causes a crystallographic weakness, in turn leading to a prominent basal cleavage among the phyllosilicates. [111] The kaolinite-serpentine group consists of T-O stacks (the 1:1 clay minerals); their hardness ranges from 2 to 4, as the sheets are held by hydrogen bonds. The 2:1 clay minerals (pyrophyllite-talc) consist of T-O-T stacks, but they are softer (hardness from 1 to 2), as they are instead held together by van der Waals forces. These two groups of minerals are subgrouped by octahedral occupation; specifically, kaolinite and pyrophyllite are dioctahedral whereas serpentine and talc trioctahedral. [112] Micas are also T-O-T-stacked phyllosilicates, but differ from the other T-O-T and T-O-stacked subclass members in that they incorporate aluminium into the tetrahedral sheets (clay minerals have Al 3+ in octahedral sites). Common examples of micas are muscovite , and the biotite series. Mica T-O-T layers are bonded together by metal ions, giving them a greater hardness than other phyllosilicate minerals, though they retain perfect basal cleavage. [113] The chlorite group is related to mica group, but a brucite -like (Mg(OH) 2 ) layer between the T-O-T stacks. [114] Because of their chemical structure, phyllosilicates typically have flexible, elastic, transparent layers that are electrical insulators and can be split into very thin flakes. Micas can be used in electronics as insulators, in construction, as optical filler, or even cosmetics. Chrysotile, a species of serpentine, is the most common mineral species in industrial asbestos, as it is less dangerous in terms of health than the amphibole asbestos. [115]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Muscovite-Albite-122886.jpg/250px-Muscovite-Albite-122886.jpg",
+                "caption": "Muscovite, a mineral species in the mica group, within the phyllosilicate subclass"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Inosilicates",
+        "text": "Inosilicates consist of tetrahedra repeatedly bonded in chains. These chains can be single, where a tetrahedron is bound to two others to form a continuous chain; alternatively, two chains can be merged to create double-chain silicates. Single-chain silicates have a silicon:oxygen ratio of 1:3 (e.g. [Si 2 O 6 ] 4− ), whereas the double-chain variety has a ratio of 4:11, e.g. [Si 8 O 22 ] 12− . Inosilicates contain two important rock-forming mineral groups; single-chain silicates are most commonly pyroxenes , while double-chain silicates are often amphiboles . [116] Higher-order chains exist (e.g. three-member, four-member, five-member chains, etc.) but they are rare. [117] The pyroxene group consists of 21 mineral species. [118] Pyroxenes have a general structure formula of XY(Si 2 O 6 ), where X is an octahedral site, while Y can vary in coordination number from six to eight. Most varieties of pyroxene consist of permutations of Ca 2+ , Fe 2+ and Mg 2+ to balance the negative charge on the backbone. Pyroxenes are common in the Earth's crust (about 10%) and are a key constituent of mafic igneous rocks. [119] Amphiboles have great variability in chemistry, described variously as a \"mineralogical garbage can\" or a \"mineralogical shark swimming a sea of elements\". The backbone of the amphiboles is the [Si 8 O 22 ] 12− ; it is balanced by cations in three possible positions, although the third position is not always used, and one element can occupy both remaining ones. Finally, the amphiboles are usually hydrated, that is, they have a hydroxyl group ([OH] − ), although it can be replaced by a fluoride, a chloride, or an oxide ion. [120] Because of the variable chemistry, there are over 80 species of amphibole, although variations, as in the pyroxenes, most commonly involve mixtures of Ca 2+ , Fe 2+ and Mg 2+ . [118] Several amphibole mineral species can have an asbestiform crystal habit. These asbestos minerals form long, thin, flexible, and strong fibres, which are electrical insulators, chemically inert and heat-resistant; as such, they have several applications, especially in construction materials. However, asbestos are known carcinogens, and cause various other illnesses, such as asbestosis ; amphibole asbestos ( anthophyllite , tremolite , actinolite , grunerite , and riebeckite ) are considered more dangerous than chrysotile serpentine asbestos. [121]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Asbestos_with_muscovite.jpg/220px-Asbestos_with_muscovite.jpg",
+                "caption": "Asbestiform tremolite , part of the amphibole group in the inosilicate subclass"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Cyclosilicates",
+        "text": "Cyclosilicates, or ring silicates, have a ratio of silicon to oxygen of 1:3. Six-member rings are most common, with a base structure of [Si 6 O 18 ] 12− ; examples include the tourmaline group and beryl . Other ring structures exist, with 3, 4, 8, 9, 12 having been described. [122] Cyclosilicates tend to be strong, with elongated, striated crystals. [123] Tourmalines have a very complex chemistry that can be described by a general formula XY 3 Z 6 (BO 3 ) 3 T 6 O 18 V 3 W. The T 6 O 18 is the basic ring structure, where T is usually Si 4+ , but substitutable by Al 3+ or B 3+ . Tourmalines can be subgrouped by the occupancy of the X site, and from there further subdivided by the chemistry of the W site. The Y and Z sites can accommodate a variety of cations, especially various transition metals; this variability in structural transition metal content gives the tourmaline group greater variability in colour. Other cyclosilicates include beryl, Al 2 Be 3 Si 6 O 18 , whose varieties include the gemstones emerald (green) and aquamarine (bluish). Cordierite is structurally similar to beryl, and is a common metamorphic mineral. [124]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Elbaite-121353.jpg/220px-Elbaite-121353.jpg",
+                "caption": "An example of elbaite, a species of tourmaline, with distinctive colour banding."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Sorosilicates",
+        "text": "Sorosilicates, also termed disilicates, have tetrahedron-tetrahedron bonding at one oxygen, which results in a 2:7 ratio of silicon to oxygen. The resultant common structural element is the [Si 2 O 7 ] 6− group. The most common disilicates by far are members of the epidote group. Epidotes are found in variety of geologic settings, ranging from mid-ocean ridge to granites to metapelites . Epidotes are built around the structure [(SiO 4 )(Si 2 O 7 )] 10− structure; for example, the mineral species epidote has calcium, aluminium, and ferric iron to charge balance: Ca 2 Al 2 (Fe 3+ , Al)(SiO 4 )(Si 2 O 7 )O(OH). The presence of iron as Fe 3+ and Fe 2+ helps buffer oxygen fugacity , which in turn is a significant factor in petrogenesis. [125] Other examples of sorosilicates include lawsonite , a  metamorphic mineral forming in the blueschist facies (subduction zone setting with low temperature and high pressure), vesuvianite , which takes up a significant amount of calcium in its chemical structure. [125] [126]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Epidote_Oisans.jpg/280px-Epidote_Oisans.jpg",
+                "caption": "Epidote often has a distinctive pistachio-green colour."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Orthosilicates",
+        "text": "Orthosilicates consist of isolated tetrahedra that are charge-balanced by other cations. [127] Also termed nesosilicates, this type of silicate has a silicon:oxygen ratio of 1:4 (e.g. SiO 4 ). Typical orthosilicates tend to form blocky equant crystals, and are fairly hard. [128] Several rock-forming minerals are part of this subclass, such as the aluminosilicates, the olivine group, and the garnet group. The aluminosilicates –bkyanite, andalusite, and sillimanite, all Al 2 SiO 5 – are structurally composed of one [SiO 4 ] 4− tetrahedron, and one Al 3+ in octahedral coordination. The remaining Al 3+ can be in six-fold coordination (kyanite), five-fold (andalusite) or four-fold (sillimanite); which mineral forms in a given environment is depend on pressure and temperature conditions. In the olivine structure, the main olivine series of (Mg, Fe) 2 SiO 4 consist of magnesium-rich forsterite and iron-rich fayalite. Both iron and magnesium are in octahedral by oxygen. Other mineral species having this structure exist, such as tephroite , Mn 2 SiO 4 . [129] The garnet group has a general formula of X 3 Y 2 (SiO 4 ) 3 , where X is a large eight-fold coordinated cation, and Y is a smaller six-fold coordinated cation. There are six ideal endmembers of garnet, split into two group. The pyralspite garnets have Al 3+ in the Y position: pyrope (Mg 3 Al 2 (SiO 4 ) 3 ), almandine (Fe 3 Al 2 (SiO 4 ) 3 ), and spessartine (Mn 3 Al 2 (SiO 4 ) 3 ). The ugrandite garnets have Ca 2+ in the X position: uvarovite (Ca 3 Cr 2 (SiO 4 ) 3 ), grossular (Ca 3 Al 2 (SiO 4 ) 3 ) and andradite (Ca 3 Fe 2 (SiO 4 ) 3 ). While there are two subgroups of garnet, solid solutions exist between all six end-members. [127] Other orthosilicates include zircon , staurolite , and topaz . Zircon (ZrSiO 4 ) is useful in geochronology as U 6+ can substitute for Zr 4+ ; furthermore, because of its very resistant structure, it is difficult to reset it as a chronometer. Staurolite is a common metamorphic intermediate-grade index mineral. It has a particularly complicated crystal structure that was only fully described in 1986. Topaz (Al 2 SiO 4 (F, OH) 2 , often found in granitic pegmatites associated with tourmaline , is a common gemstone mineral. [130]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Andradite-172390.jpg/220px-Andradite-172390.jpg",
+                "caption": "Black andradite, an end-member of the orthosilicate garnet group."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Native elements",
+        "text": "Native elements are those that are not chemically bonded to other elements. This mineral group includes native metals , semi-metals, and non-metals, and various alloys and solid solutions. The metals are held together by metallic bonding, which confers distinctive physical properties such as their shiny metallic lustre, ductility and malleability, and electrical conductivity. Native elements are subdivided into groups by their structure or chemical attributes. The gold group, with a cubic close-packed structure, includes metals such as gold, silver, and copper. The platinum group is similar in structure to the gold group. The iron-nickel group is characterized by several iron-nickel alloy species. Two examples are kamacite and taenite , which are found in iron meteorites; these species differ by the amount of Ni in the alloy; kamacite has less than 5–7% nickel and is a variety of native iron , whereas the nickel content of taenite ranges from 7–37%. Arsenic group minerals consist of semi-metals, which have only some metallic traits; for example, they lack the malleability of metals. Native carbon occurs in two allotropes, graphite and diamond; the latter forms at very high pressure in the mantle, which gives it a much stronger structure than graphite. [131]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gold-mz4b.jpg/220px-Gold-mz4b.jpg",
+                "caption": "Native gold. Rare specimen of stout crystals growing off of a central stalk, size 3.7 x 1.1 x 0.4 cm, from Venezuela."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Sulfides",
+        "text": "The sulfide minerals are chemical compounds of one or more metals or semimetals with a chalcogen or pnictogen , of which sulfur is most common. Tellurium, arsenic, or selenium can substitute for the sulfur. Sulfides tend to be soft, brittle minerals with a high specific gravity. Many powdered sulfides, such as pyrite, have a sulfurous smell when powdered. Sulfides are susceptible to weathering, and many readily dissolve in water; these dissolved minerals can be later redeposited, which creates enriched secondary ore deposits. [132] Sulfides are classified by the ratio of the metal or semimetal to the sulfur, such as M:S equal to 2:1, or 1:1. [133] Many sulfide minerals are economically important as metal ores ; examples include sphalerite (ZnS), an ore of zinc, galena (PbS), an ore of lead, cinnabar (HgS), an ore of mercury, and molybdenite (MoS 2 , an ore of molybdenum. [134] Pyrite (FeS 2 ), is the most commonly occurring sulfide, and can be found in most geological environments. It is not, however, an ore of iron, but can be instead oxidized to produce sulfuric acid . [135] Related to the sulfides are the rare sulfosalts , in which a metallic element is bonded to sulfur and a semimetal such as antimony , arsenic , or bismuth . Like the sulfides, sulfosalts are typically soft, heavy, and brittle minerals. [136]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cinnabar_on_Dolomite.jpg/220px-Cinnabar_on_Dolomite.jpg",
+                "caption": "Red cinnabar (HgS), a mercury ore, on dolomite."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Geodized_brachiopod.jpg/220px-Geodized_brachiopod.jpg",
+                "caption": "Sphalerite crystal partially encased in calcite from the Devonian Milwaukee Formation of Wisconsin"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Halides",
+        "text": "The halide minerals are compounds in which a halogen (fluorine, chlorine, iodine, or bromine) is the main anion. These minerals tend to be soft, weak, brittle, and water-soluble. Common examples of halides include halite (NaCl, table salt), sylvite (KCl), and fluorite (CaF 2 ). Halite and sylvite commonly form as evaporites , and can be dominant minerals in chemical sedimentary rocks. Cryolite , Na 3 AlF 6 , is a key mineral in the extraction of aluminium from bauxites ; however, as the only significant occurrence at Ivittuut , Greenland , in a granitic pegmatite, was depleted, synthetic cryolite can be made from fluorite. [141]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Halite-Nahcolite-51411.jpg/220px-Halite-Nahcolite-51411.jpg",
+                "caption": "Pink cubic halite (NaCl; halide class) crystals on a nahcolite matrix (NaHCO 3 ; a carbonate, and mineral form of sodium bicarbonate, used as baking soda )."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Sulfates",
+        "text": "The sulfate minerals all contain the sulfate anion, [SO 4 ] 2− . They tend to be transparent to translucent, soft, and many are fragile. [145] Sulfate minerals commonly form as evaporites , where they precipitate out of evaporating saline waters. Sulfates can also be found in hydrothermal vein systems associated with sulfides, [146] or as oxidation products of sulfides. [147] Sulfates can be subdivided into anhydrous and hydrous minerals. The most common hydrous sulfate by far is gypsum , CaSO 4 ⋅2H 2 O. It forms as an evaporite, and is associated with other evaporites such as calcite and halite; if it incorporates sand grains as it crystallizes, gypsum can form desert roses . Gypsum has very low thermal conductivity and maintains a low temperature when heated as it loses that heat by dehydrating; as such, gypsum is used as an insulator in materials such as plaster and drywall. The anhydrous equivalent of gypsum is anhydrite ; it can form directly from seawater in highly arid conditions. The barite group has the general formula XSO 4 , where the X is a large 12-coordinated cation. Examples include barite (BaSO 4 ), celestine (SrSO 4 ), and anglesite (PbSO 4 ); anhydrite is not part of the barite group, as the smaller Ca 2+ is only in eight-fold coordination. [148]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Roses_des_Sables_Tunisie.jpg/250px-Roses_des_Sables_Tunisie.jpg",
+                "caption": "Gypsum desert rose"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Description",
+        "text": "Limestone is composed mostly of the minerals calcite and aragonite , which are different crystal forms of calcium carbonate ( CaCO 3 ). Dolomite , CaMg(CO 3 ) 2 , is an uncommon mineral in limestone, and siderite or other carbonate minerals are rare. However, the calcite in limestone often contains a few percent of magnesium . Calcite in limestone is divided into low-magnesium and high-magnesium calcite, with the dividing line placed at a composition of 4% magnesium. High-magnesium calcite retains the calcite mineral structure, which is distinct from dolomite. Aragonite does not usually contain significant magnesium. [8] Most limestone is otherwise chemically fairly pure, with clastic sediments (mainly fine-grained quartz and clay minerals ) making up less than 5% [9] to 10% [10] of the composition. Organic matter typically makes up around 0.2% of a limestone and rarely exceeds 1%. [11] Limestone often contains variable amounts of silica in the form of chert or siliceous skeletal fragments (such as sponge spicules, diatoms , or radiolarians ). [12] Fossils are also common in limestone. [3] Limestone is commonly white to gray in color. Limestone that is unusually rich in organic matter can be almost black in color, while traces of iron or manganese can give limestone an off-white to yellow to red color. The density of limestone depends on its porosity, which varies from 0.1% for the densest limestone to 40% for chalk. The density correspondingly ranges from 1.5 to 2.7 g/cm 3 . Although relatively soft, with a Mohs hardness of 2 to 4, dense limestone can have a crushing strength of up to 180 MPa . [13] For comparison, concrete typically has a crushing strength of about 40 MPa. [14] Although limestones show little variability in mineral composition, they show great diversity in texture. [15] However, most limestone consists of sand-sized grains in a carbonate mud matrix. Because limestones are often of biological origin and are usually composed of sediment that is deposited close to where it formed, classification of limestone is usually based on its grain type and mud content. [9]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Limestone_Eocene_deposit_at_Sinj_Stari_grad_-_Dalmatia_-_Croatia_IMG_20210820_083857.jpg/220px-Limestone_Eocene_deposit_at_Sinj_Stari_grad_-_Dalmatia_-_Croatia_IMG_20210820_083857.jpg",
+                "caption": "This limestone deposit in the karst of Dinaric Alps near Sinj , Croatia , was formed in the Eocene ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Limestone",
+        "title": "Limestone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Grains",
+        "text": "Most grains in limestone are skeletal fragments of marine organisms such as coral or foraminifera . [16] These organisms secrete structures made of aragonite or calcite, and leave these structures behind when they die. Other carbonate grains composing limestones are ooids , peloids , and limeclasts ( intraclasts and extraclasts [ ca ] ). [17] Skeletal grains have a composition reflecting the organisms that produced them and the environment in which they were produced. [18] Low-magnesium calcite skeletal grains are typical of articulate brachiopods , planktonic (free-floating) foraminifera, and coccoliths . High-magnesium calcite skeletal grains are typical of benthic (bottom-dwelling) foraminifera, echinoderms , and coralline algae . Aragonite skeletal grains are typical of molluscs , calcareous green algae , stromatoporoids , corals , and tube worms . The skeletal grains also reflect specific geological periods and environments. For example, coral grains are more common in high-energy environments (characterized by strong currents and turbulence) while bryozoan grains are more common in low-energy environments (characterized by quiet water). [19] Ooids (sometimes called ooliths) are sand-sized grains (less than 2mm in diameter) consisting of one or more layers of calcite or aragonite around a central quartz grain or carbonate mineral fragment. These likely form by direct precipitation of calcium carbonate onto the ooid. Pisoliths are similar to ooids, but they are larger than 2 mm in diameter and tend to be more irregular in shape. Limestone composed mostly of ooids is called an oolite or sometimes an oolitic limestone . Ooids form in high-energy environments, such as the Bahama platform, and oolites typically show crossbedding and other features associated with deposition in strong currents. [20] [21] Oncoliths resemble ooids but show a radial rather than layered internal structure, indicating that they were formed by algae in a normal marine environment. [20] Peloids are structureless grains of microcrystalline carbonate likely produced by a variety of processes. [22] Many are thought to be fecal pellets produced by marine organisms. Others may be produced by endolithic (boring) algae [23] or other microorganisms [24] or through breakdown of mollusc shells. [25] They are difficult to see in a limestone sample except in thin section and are less common in ancient limestones, possibly because compaction of carbonate sediments disrupts them. [23] Limeclasts are fragments of existing limestone or partially lithified carbonate sediments. Intraclasts are limeclasts that originate close to where they are deposited in limestone, while extraclasts come from outside the depositional area. Intraclasts include grapestone , which is clusters of peloids cemented together by organic material or mineral cement. Extraclasts are uncommon, are usually accompanied by other clastic sediments, and indicate deposition in a tectonically active area or as part of a turbidity current . [26]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ooids%2C_Joulter_Cays%2C_Bahamas.jpg/220px-Ooids%2C_Joulter_Cays%2C_Bahamas.jpg",
+                "caption": "Ooids from a beach on Joulter's Cay, The Bahamas"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ooids_Carmel_Formation_Jurassic.jpg/220px-Ooids_Carmel_Formation_Jurassic.jpg",
+                "caption": "Ooids in limestone of the Carmel Formation (Middle Jurassic) of southwestern Utah."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/CarmelOoids.jpg/220px-CarmelOoids.jpg",
+                "caption": "Thin-section view of a Middle Jurassic limestone in southern Utah , U.S. The round grains are ooids ; the largest is 1.2 mm (0.05 in) in diameter. This limestone is an oosparite."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Limestone",
+        "title": "Limestone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Other characteristics",
+        "text": "Limestone outcrops are recognized in the field by their softness (calcite and aragonite both have a Mohs hardness of less than 4, well below common silicate minerals) and because limestone bubbles vigorously when a drop of dilute hydrochloric acid is dropped on it. Dolomite is also soft but reacts only feebly with dilute hydrochloric acid, and it usually weathers to a characteristic dull yellow-brown color due to the presence of ferrous iron. This is released and oxidized as the dolomite weathers. [9] Impurities (such as clay , sand, organic remains, iron oxide , and other materials) will cause limestones to exhibit different colors, especially with weathered surfaces. The makeup of a carbonate rock outcrop can be estimated in the field by etching the surface with dilute hydrochloric acid. This etches away the calcite and aragonite, leaving behind any silica or dolomite grains. The latter can be identified by their rhombohedral shape. [9] Crystals of calcite, quartz , dolomite or barite may line small cavities ( vugs ) in the rock. Vugs are a form of secondary porosity, formed in existing limestone by a change in environment that increases the solubility of calcite. [32] Dense, massive limestone is sometimes described as \"marble\". For example, the famous Portoro \"marble\" of Italy is actually a dense black limestone. [33] True marble is produced by recrystallization of limestone during regional metamorphism that accompanies the mountain building process ( orogeny ). It is distinguished from dense limestone by its coarse crystalline texture and the formation of distinctive minerals from the silica and clay present in the original limestone. [34]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/White_Cliffs_of_Dover_2_%28Piotr_Kuczynski%29.jpg/220px-White_Cliffs_of_Dover_2_%28Piotr_Kuczynski%29.jpg",
+                "caption": "The White Cliffs of Dover are composed of chalk."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Limestone",
+        "title": "Limestone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Classification",
+        "text": "Two major classification schemes, the Folk and Dunham, are used for identifying the types of carbonate rocks collectively known as limestone.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pamukkale_12.jpg/220px-Pamukkale_12.jpg",
+                "caption": "Travertine limestone terraces of Pamukkale , Turkey ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luray_Caverns%2C_Dream_Lake_-_mirror-lake_of_caverns_%282015-05-09_14.03.28_by_Stan_Mouser%29.jpg/220px-Luray_Caverns%2C_Dream_Lake_-_mirror-lake_of_caverns_%282015-05-09_14.03.28_by_Stan_Mouser%29.jpg",
+                "caption": "Cave limestone formations in the Luray Caverns of the northern Shenandoah Valley"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Limestone",
+        "title": "Limestone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Formation",
+        "text": "Limestone forms when calcite or aragonite precipitate out of water containing dissolved calcium, which can take place through both biological and nonbiological processes. [41] The solubility of calcium carbonate ( CaCO 3 ) is controlled largely by the amount of dissolved carbon dioxide ( CO 2 ) in the water. This is summarized in the reaction: Increases in temperature or decreases in pressure tend to reduce the amount of dissolved CO 2 and precipitate CaCO 3 . Reduction in salinity also reduces the solubility of CaCO 3 , by several orders of magnitude for fresh water versus seawater. [42] Near-surface water of the earth's oceans are oversaturated with CaCO 3 by a factor of more than six. [43] The failure of CaCO 3 to rapidly precipitate out of these waters is likely due to interference by dissolved magnesium ions with nucleation of calcite crystals, the necessary first step in precipitation. Precipitation of aragonite may be suppressed by the presence of naturally occurring organic phosphates in the water. Although ooids likely form through purely inorganic processes, the bulk of CaCO 3 precipitation in the oceans is the result of biological activity. [44] Much of this takes place on carbonate platforms . The origin of carbonate mud, [30] and the processes by which it is converted to micrite, [45] continue to be a subject of research. Modern carbonate mud is composed mostly of aragonite needles around 5 μm (0.20 mils) in length. Needles of this shape and composition are produced by calcareous algae such as Penicillus , making this a plausible source of mud. [46] Another possibility is direct precipitation from the water. A phenomenon known as whitings occurs in shallow waters, in which white streaks containing dispersed micrite appear on the surface of the water. It is uncertain whether this is freshly precipitated aragonite or simply material stirred up from the bottom, but there is some evidence that whitings are caused by biological precipitation of aragonite as part of a bloom of cyanobacteria or microalgae . [47] However, stable isotope ratios in modern carbonate mud appear to be inconsistent with either of these mechanisms, and abrasion of carbonate grains in high-energy environments has been put forward as a third possibility. [30] Formation of limestone has likely been dominated by biological processes throughout the Phanerozoic , the last 540 million years of the Earth's history. Limestone may have been deposited by microorganisms in the Precambrian , prior to 540 million years ago, but inorganic processes were probably more important and likely took place in an ocean more highly oversaturated in calcium carbonate than the modern ocean. [48]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Lake_Ontario_Whiting_NASA_Satellite_Image.jpg/220px-Lake_Ontario_Whiting_NASA_Satellite_Image.jpg",
+                "caption": "An aerial view of a whiting event precipitation cloud in Lake Ontario."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Limestone",
+        "title": "Limestone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Diagenesis",
+        "text": "Diagenesis is the process in which sediments are compacted and turned into solid rock . During diagenesis of carbonate sediments, significant chemical and textural changes take place. For example, aragonite is converted to low-magnesium calcite. Diagenesis is the likely origin of pisoliths , concentrically layered particles ranging from 1 to 10 mm (0.039 to 0.394 inches) in diameter found in some limestones. Pisoliths superficially resemble ooids but have no nucleus of foreign matter, fit together tightly, and show other signs that they formed after the original deposition of the sediments. [49] Silicification occurs early in diagenesis, at low pH and temperature, and contributes to fossil preservation. [50] Silicification takes place through the reaction: [50] Fossils are often preserved in exquisite detail as chert. [50] [51] Cementing takes place rapidly in carbonate sediments, typically within less than a million years of deposition. Some cementing occurs while the sediments are still under water, forming hardgrounds . Cementing accelerates after the retreat of the sea from the depositional environment, as rainwater infiltrates the sediment beds, often within just a few thousand years. As rainwater mixes with groundwater, aragonite and high-magnesium calcite are converted to low-calcium calcite. Cementing of thick carbonate deposits by rainwater may commence even before the retreat of the sea, as rainwater can infiltrate over 100 km (60 miles) into sediments beneath the continental shelf. [52] As carbonate sediments are increasingly deeply buried under younger sediments, chemical and mechanical compaction of the sediments increases. Chemical compaction takes place by pressure solution of the sediments. This process dissolves minerals from points of contact between grains and redeposits it in pore space, reducing the porosity of the limestone from an initial high value of 40% to 80% to less than 10%. [53] Pressure solution produces distinctive stylolites , irregular surfaces within the limestone at which silica-rich sediments accumulate. These may reflect dissolution and loss of a considerable fraction of the limestone bed. At depths greater than 1 km (0.62 miles), burial cementation completes the lithification process. Burial cementation does not produce stylolites. [54] When overlying beds are eroded, bringing limestone closer to the surface, the final stage of diagenesis takes place. This produces secondary porosity as some of the cement is dissolved by rainwater infiltrating the beds. This may include the formation of vugs , which are crystal-lined cavities within the limestone. [54] Diagenesis may include conversion of limestone to dolomite by magnesium-rich fluids. There is considerable evidence of replacement of limestone by dolomite, including sharp replacement boundaries that cut across bedding. [55] The process of dolomitization remains an area of active research, [56] but possible mechanisms include exposure to concentrated brines in hot environments ( evaporative reflux ) or exposure to diluted seawater in delta or estuary environments ( Dorag dolomitization ). [57] However, Dorag dolomitization has fallen into disfavor as a mechanism for dolomitization, [58] with one 2004 review paper describing it bluntly as \"a myth\". [56] Ordinary seawater is capable of converting calcite to dolomite, if the seawater is regularly flushed through the rock, as by the ebb and flow of tides (tidal pumping). [55] Once dolomitization begins, it proceeds rapidly, so that there is very little carbonate rock containing mixed calcite and dolomite. Carbonate rock tends to be either almost all calcite/aragonite or almost all dolomite. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/%C3%87%C3%B6rt_yumrusu%2C_Chert.2.jpg/220px-%C3%87%C3%B6rt_yumrusu%2C_Chert.2.jpg",
+                "caption": "Chert nodule within soft limestone at Akçakoca , Turkey"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Stylolites_mcr1.jpg/220px-Stylolites_mcr1.jpg",
+                "caption": "Stylolites in limestone"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Limestone",
+        "title": "Limestone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Occurrence",
+        "text": "About 20% to 25% of sedimentary rock is carbonate rock, [3] and most of this is limestone. [17] [3] Limestone is found in sedimentary sequences as old as 2.7 billion years. [59] However, the compositions of carbonate rocks show an uneven distribution in time in the geologic record. About 95% of modern carbonates are composed of high-magnesium calcite and aragonite. [60] The aragonite needles in carbonate mud are converted to low-magnesium calcite within a few million years, as this is the most stable form of calcium carbonate. [28] Ancient carbonate formations of the Precambrian and Paleozoic contain abundant dolomite, but limestone dominates the carbonate beds of the Mesozoic and Cenozoic . Modern dolomite is quite rare. There is evidence that, while the modern ocean favors precipitation of aragonite, the oceans of the Paleozoic and middle to late Cenozoic favored precipitation of calcite. This may indicate a lower Mg/Ca ratio in the ocean water of those times. [61] This magnesium depletion may be a consequence of more rapid sea floor spreading , which removes magnesium from ocean water. The modern ocean and the ocean of the Mesozoic have been described as \"aragonite seas\". [62] Most limestone was formed in shallow marine environments, such as continental shelves or platforms . Such environments form only about 5% of the ocean basins, but limestone is rarely preserved in continental slope and deep sea environments. The best environments for deposition are warm waters, which have both a high organic productivity and increased saturation of calcium carbonate due to lower concentrations of dissolved carbon dioxide. Modern limestone deposits are almost always in areas with very little silica-rich sedimentation, reflected in the relative purity of most limestones. Reef organisms are destroyed by muddy, brackish river water, and carbonate grains are ground down by much harder silicate grains. [63] Unlike clastic sedimentary rock, limestone is produced almost entirely from sediments originating at or near the place of deposition. [64] Limestone formations tend to show abrupt changes in thickness. Large moundlike features in a limestone formation are interpreted as ancient reefs , which when they appear in the geologic record are called bioherms . Many are rich in fossils, but most lack any connected organic framework like that seen in modern reefs. The fossil remains are present as separate fragments embedded in ample mud matrix. Much of the sedimentation shows indications of occurring in the intertidal or supratidal zones, suggesting sediments rapidly fill available accommodation space in the shelf or platform. [65] Deposition is also favored on the seaward margin of shelves and platforms, where there is upwelling deep ocean water rich in nutrients that increase organic productivity. Reefs are common here, but when lacking, ooid shoals are found instead. Finer sediments are deposited close to shore. [66] The lack of deep sea limestones is due in part to rapid subduction of oceanic crust, but is more a result of dissolution of calcium carbonate at depth. The solubility of calcium carbonate increases with pressure and even more with higher concentrations of carbon dioxide, which is produced by decaying organic matter settling into the deep ocean that is not removed by photosynthesis in the dark depths. As a result, there is a fairly sharp transition from water saturated with calcium carbonate to water unsaturated with calcium carbonate, the lysocline , which occurs at the calcite compensation depth of 4,000 to 7,000 m (13,000 to 23,000 feet). Below this depth, foraminifera tests and other skeletal particles rapidly dissolve, and the sediments of the ocean floor abruptly transition from carbonate ooze rich in foraminifera and coccolith remains ( Globigerina ooze) to silicic mud lacking carbonates. [67] In rare cases, turbidites or other silica-rich sediments bury and preserve benthic (deep ocean) carbonate deposits. Ancient benthic limestones are microcrystalline and are identified by their tectonic setting. Fossils typically are foraminifera and coccoliths. No pre-Jurassic benthic limestones are known, probably because carbonate-shelled plankton had not yet evolved. [68] Limestones also form in freshwater environments. [69] These limestones are not unlike marine limestone, but have a lower diversity of organisms and a greater fraction of silica and clay minerals characteristic of marls . The Green River Formation is an example of a prominent freshwater sedimentary formation containing numerous limestone beds. [70] Freshwater limestone is typically micritic. Fossils of charophyte (stonewort), a form of freshwater green algae, are characteristic of these environments, where the charophytes produce and trap carbonates. [71] Limestones may also form in evaporite depositional environments . [72] [73] Calcite is one of the first minerals to precipitate in marine evaporites. [74]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/El_Cap_GUMO.jpg/220px-El_Cap_GUMO.jpg",
+                "caption": "El Capitan , an ancient limestone reef in Texas"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/M%C3%B8nsted_kalkgruber_exposure_fused_2014-07-18.jpg/220px-M%C3%B8nsted_kalkgruber_exposure_fused_2014-07-18.jpg",
+                "caption": "Mønsted is the largest limestone mine in the world."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Limestone",
+        "title": "Limestone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Limestone and living organisms",
+        "text": "Most limestone is formed by the activities of living organisms near reefs, but the organisms responsible for reef formation have changed over geologic time. For example, stromatolites are mound-shaped structures in ancient limestones, interpreted as colonies of cyanobacteria that accumulated carbonate sediments, but stromatolites are rare in younger limestones. [75] Organisms precipitate limestone both directly as part of their skeletons, and indirectly by removing carbon dioxide from the water by photosynthesis and thereby decreasing the solubility of calcium carbonate. [71] Limestone shows the same range of sedimentary structures found in other sedimentary rocks. However, finer structures, such as lamination , are often destroyed by the burrowing activities of organisms ( bioturbation ). Fine lamination is characteristic of limestone formed in playa lakes , which lack the burrowing organisms. [76] Limestones also show distinctive features such as geopetal structures , which form when curved shells settle to the bottom with the concave face downwards. This traps a void space that can later be filled by sparite. Geologists use geopetal structures to determine which direction was up at the time of deposition, which is not always obvious with highly deformed limestone formations. [77] The cyanobacterium Hyella balani can bore through limestone; as can the green alga Eugamantia sacculata and the fungus Ostracolaba implexa . [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lembongan-penida-snorkeling.jpg/220px-Lembongan-penida-snorkeling.jpg",
+                "caption": "Coral reef at Nusa Lembongan , Bali, Indonesia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Limestone",
+        "title": "Limestone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Limestone landscape",
+        "text": "Limestone is partially soluble, especially in acid, and therefore forms many erosional landforms. These include limestone pavements , pot holes , cenotes , caves and gorges. Such erosion landscapes are known as karsts . Limestone is less resistant to erosion than most igneous rocks, but more resistant than most other sedimentary rocks . It is therefore usually associated with hills and downland , and occurs in regions with other sedimentary rocks, typically clays. [85] [86] Karst regions overlying limestone bedrock tend to have fewer visible above-ground sources (ponds and streams), as surface water easily drains downward through joints in the limestone. While draining, water and organic acid from the soil slowly (over thousands or millions of years) enlarges these cracks, dissolving the calcium carbonate and carrying it away in solution . Most cave systems are through limestone bedrock. Cooling groundwater or mixing of different groundwaters will also create conditions suitable for cave formation. [85] Coastal limestones are often eroded by organisms which bore into the rock by various means. This process is known as bioerosion . It is most common in the tropics, and it is known throughout the fossil record . [87] Bands of limestone emerge from the Earth's surface in often spectacular rocky outcrops and islands. Examples include the Rock of Gibraltar , [88] the Burren in County Clare, Ireland; [89] Malham Cove in North Yorkshire and the Isle of Wight , [90] England; the Great Orme in Wales; [91] on Fårö near the Swedish island of Gotland , [92] the Niagara Escarpment in Canada/United States; [93] Notch Peak in Utah; [94] the Ha Long Bay National Park in Vietnam; [95] and the hills around the Lijiang River and Guilin city in China. [96] The Florida Keys , islands off the south coast of Florida , are composed mainly of oolitic limestone (the Lower Keys) and the carbonate skeletons of coral reefs (the Upper Keys), which thrived in the area during interglacial periods when sea level was higher than at present. [97] Unique habitats are found on alvars , extremely level expanses of limestone with thin soil mantles. The largest such expanse in Europe is the Stora Alvaret on the island of Öland , Sweden. [98] Another area with large quantities of limestone is the island of Gotland, Sweden. [99] Huge quarries in northwestern Europe, such as those of Mount Saint Peter (Belgium/Netherlands), extend for more than a hundred kilometers. [100]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Maczuga_Herkulesa_%28background_Castle_Pieskowa_Ska%C5%82a%29.jpg/220px-Maczuga_Herkulesa_%28background_Castle_Pieskowa_Ska%C5%82a%29.jpg",
+                "caption": "The Cudgel of Hercules , a tall limestone rock in Poland ( Pieskowa Skała Castle in the background)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cenote_in_valladolid_mexico_%2821362599476%29.jpg/220px-Cenote_in_valladolid_mexico_%2821362599476%29.jpg",
+                "caption": "The Samulá cenote in Valladolid , Yucatán , Mexico"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/La_Zaplaz%2C_Piatra_Craiului.jpg/220px-La_Zaplaz%2C_Piatra_Craiului.jpg",
+                "caption": "La Zaplaz formations in the Piatra Craiului Mountains , Romania ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Limestone",
+        "title": "Limestone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    },
+    {
+        "section": "Uses",
+        "text": "Limestone is a raw material that is used globally in a variety of different ways including construction, agriculture and as industrial materials. [102] Limestone is very common in architecture, especially in Europe and North America. Many landmarks across the world, including the Great Pyramid and its associated complex in Giza, Egypt , were made of limestone. So many buildings in Kingston, Ontario , Canada were, and continue to be, constructed from it that it is nicknamed the 'Limestone City'. [103] Limestone, metamorphosed by heat and pressure produces marble, which has been used for many statues, buildings and stone tabletops. [104] On the island of Malta , a variety of limestone called Globigerina limestone was, for a long time, the only building material available, and is still very frequently used on all types of buildings and sculptures. [105] Limestone can be processed into many various forms such as brick, cement, powdered/crushed, or as a filler. [102] Limestone is readily available and relatively easy to cut into blocks or more elaborate carving. [101] Ancient American sculptors valued limestone because it was easy to work and good for fine detail. Going back to the Late Preclassic period (by 200–100 BCE), the Maya civilization (Ancient Mexico) created refined sculpture using limestone because of these excellent carving properties. The Maya would decorate the ceilings of their sacred buildings (known as lintels ) and cover the walls with carved limestone panels. Carved on these sculptures were political and social stories, and this helped communicate messages of the king to his people. [106] Limestone is long-lasting and stands up well to exposure, which explains why many limestone ruins survive. However, it is very heavy ( density 2.6 [107] ), making it impractical for tall buildings, and relatively expensive as a building material. Limestone was most popular in the late 19th and early 20th centuries. Railway stations, banks and other structures from that era were made of limestone in some areas. It is used as a façade on some skyscrapers, but only in thin plates for covering, rather than solid blocks. In the United States, Indiana, most notably the Bloomington area, has long been a source of high-quality quarried limestone, called Indiana limestone . Many famous buildings in London are built from Portland limestone . Houses built in Odesa in Ukraine in the 19th century were mostly constructed from limestone and the extensive remains of the mines now form the Odesa Catacombs . [108] Limestone was also a very popular building block in the Middle Ages in the areas where it occurred, since it is hard, durable, and commonly occurs in easily accessible surface exposures. Many medieval churches and castles in Europe are made of limestone. Beer stone was a popular kind of limestone for medieval buildings in southern England. [109] Limestone is the raw material for production of lime, primarily known for treating soils, purifying water and smelting copper. Lime is an important ingredient used in chemical industries. [110] Limestone and (to a lesser extent) marble are reactive to acid solutions, making acid rain a significant problem to the preservation of artifacts made from this stone. Many limestone statues and building surfaces have suffered severe damage due to acid rain. [111] [112] Likewise limestone gravel has been used to protect lakes vulnerable to acid rain, acting as a pH buffering agent. [113] Acid-based cleaning chemicals can also etch limestone, which should only be cleaned with a neutral or mild alkali -based cleaner. [114] Other uses include: Many limestone formations are porous and permeable, which makes them important petroleum reservoirs . [124] About 20% of North American hydrocarbon reserves are found in carbonate rock. Carbonate reservoirs are very common in the petroleum-rich Middle East, [59] and carbonate reservoirs hold about a third of all petroleum reserves worldwide. [125] Limestone formations are also common sources of metal ores, because their porosity and permeability, together with their chemical activity, promotes ore deposition in the limestone. The lead - zinc deposits of Missouri and the Northwest Territories are examples of ore deposits hosted in limestone. [59]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Malta_-_Qrendi_-_Hagar_Qim_and_Mnajdra_Archaeological_Park_-_Hagar_Qim_08_ies.jpg/220px-Malta_-_Qrendi_-_Hagar_Qim_and_Mnajdra_Archaeological_Park_-_Hagar_Qim_08_ies.jpg",
+                "caption": "The Megalithic Temples of Malta such as Ħaġar Qim are built entirely of limestone. They are among the oldest freestanding structures in existence. [101]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Gizeh_Cheops_BW_1.jpg/220px-Gizeh_Cheops_BW_1.jpg",
+                "caption": "The Great Pyramid of Giza , one of the Seven Wonders of the Ancient World had an outside cover made entirely from limestone."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Litography_press_with_map_of_Moosburg_01.jpg/220px-Litography_press_with_map_of_Moosburg_01.jpg",
+                "caption": "A limestone plate with a negative map of Moosburg in Bavaria is prepared for a lithography print."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LIMEX_limestone_plastic%2C_2022_Japan_2.jpg/220px-LIMEX_limestone_plastic%2C_2022_Japan_2.jpg",
+                "caption": "Plastic bag \"made mainly from limestone\" [ clarification needed ]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Limestone",
+        "title": "Limestone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Field Identification of Minerals"
+    }
+]

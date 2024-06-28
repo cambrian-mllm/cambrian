@@ -1,0 +1,423 @@
+[
+    {
+        "section": "Calculating the amount of available power",
+        "text": "A hydropower resource can be evaluated by its available power . Power is a function of the hydraulic head and volumetric flow rate . The head is the energy per unit weight (or unit mass) of water. [5] The static head is proportional to the difference in height through which the water falls. Dynamic head is related to the velocity of moving water. Each unit of water can do an amount of work equal to its weight times the head. The power available from falling water can be calculated from the flow rate and density of water, the height of fall, and the local acceleration due to gravity: To illustrate, the power output of a turbine that is 85% efficient, with a flow rate of 80 cubic metres per second (2800 cubic feet per second) and a head of 145 metres (476 feet), is 97 megawatts: [note 1] Operators of hydroelectric stations compare the total electrical energy produced with the theoretical potential energy of the water passing through the turbine to calculate efficiency. Procedures and definitions for calculation of efficiency are given in test codes such as ASME PTC 18 and IEC 60041. Field testing of turbines is used to validate the manufacturer's efficiency guarantee. Detailed calculation of the efficiency of a hydropower turbine accounts for the head lost due to flow friction in the power canal or penstock, rise in tailwater level due to flow, the location of the station and effect of varying gravity, the air temperature and barometric pressure, the density of the water at ambient temperature, and the relative altitudes of the forebay and tailbay. For precise calculations, errors due to rounding and the number of significant digits of constants must be considered. [6] Some hydropower systems such as water wheels can draw power from the flow of a body of water without necessarily changing its height. In this case, the available power is the kinetic energy of the flowing water. Over-shot water wheels can efficiently capture both types of energy. [7] The flow in a stream can vary widely from season to season. The development of a hydropower site requires analysis of flow records , sometimes spanning decades, to assess the reliable annual energy supply. Dams and reservoirs provide a more dependable source of power by smoothing seasonal changes in water flow. However, reservoirs have a significant environmental impact , as does alteration of naturally occurring streamflow. Dam design must account for the worst-case, \"probable maximum flood\" that can be expected at the site; a spillway is often included to route flood flows around the dam. A computer model of the hydraulic basin and rainfall and snowfall records are used to predict the maximum flood. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_Dam_%282890371280%29.jpg/280px-The_Dam_%282890371280%29.jpg",
+                "caption": "The Three Gorges Dam in China; the hydroelectric dam is the world's largest power station by installed capacity ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydropower",
+        "title": "Hydropower",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Background",
+        "text": "The Sayano-Shushenskaya Dam is located on the Yenisey River in south-central Siberia , Russia, about 30 kilometres (19 mi) south of Sayanogorsk , Khakassia . Before the accident, it was the largest hydroelectric power station in Russia and the sixth-largest in the world by average power generation. On 2 July 2009, RusHydro , the power station's operator, announced the station's all-time highest electricity output over 24 hours. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%D0%A0%D0%B8%D1%81.3.2.jpg/220px-%D0%A0%D0%B8%D1%81.3.2.jpg",
+                "caption": "Cross-section of the Sayano-Shushenskaya Dam"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sayano-Shushenskaya_power_station_accident",
+        "title": "Sayano-Shushenskaya power station accident",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Turbine 2",
+        "text": "Turbines of the type used in this power plant have a very narrow working band at high efficiency regimes.  If this band is exceeded the turbines begin to vibrate, caused by the pulsation of water flow and water strokes. These vibrations and shocks cause the turbines to degrade over time. [2] Turbine 2 had experienced problems for a long time prior to the 2009 accident. [3] The first of these appeared after its installation in 1979.  Throughout 1980–1983, numerous problems with seals, turbine shaft vibrations and bearings surfaced. From the end of March to the end of November 2000, a complete reconditioning of turbine 2 was performed. Cavities up to 12 millimetres (0.47 in) deep and cracks up to 130 millimetres (5.1 in) long were found on the turbine runner and repaired.  Many other defects were found in the turbine bearings and subsequently repaired. In 2005, further repairs were made to turbine 2. The problems found were similar in several aspects to the defects observed during the previous repair. [3] From January to March 2009, turbine 2 was undergoing scheduled repairs and modernization. It was the first and only turbine in the station which was equipped with a new electro-hydraulic regulator of its rotational speed supplied by the Promavtomatika company. [4] During the course of the repair, the turbine blades were welded, because after a long period of operation, cracks and cavities had once again appeared. The turbine runner was not properly rebalanced after these repairs, [5] following which turbine 2 had increased vibrations, ca 0.15 millimetres (0.0059 in) for the main bearing during the full load of the turbine. While this did not exceed specifications, the increased vibrations were unacceptable for long term use. The elevated vibration levels compared to other turbines were apparent for turbine 2 before the repair as well. The vibrations exceeded the allowed specification in the beginning of July [3] and continued to increase with accelerated speed. [3] On the night of 16–17 August, the level of vibration increased substantially, [5] and there were several attempts to stop the turbine. During 16 August up to 20:30, the load of turbine 2 was 600 MW, then it was reduced to 100–200 MW. On 17 August 2009 at 03:00, the load was increased again to 600 MW; at 03:30, the load was decreased to 200 MW; and at 03:45, it was increased again to 600 MW. [5] During this time, the level of vibration was very high, and was also registered by seismic instruments in the plant. During attempts to shut it down, the rotor inside the turbine was pushed up, which in turn created pressure pushing up on the turbine cover, which was kept in place by 80 bolts, each 8 cm in diameter. [ citation needed ] During the morning of 17 August 2009, 50 people were gathered around turbine 2. As the plant general director, Nikolai Nevolko, was celebrating his anniversary, early in the morning he went to Abakan to greet the arriving guests, and none of the workers present wanted, or had the authority, to make decisions about further actions regarding the turbine. It seems they were used to the high levels of vibration. [5] Turbine 2 was started on 16 August 2009 at 23:14 local time. At 23:44 it was running at a full load of 600 MW.  During the night, its load varied between 10 and 610 MW. At the moment of the accident, which was 08:13 local time (00:13 GMT), its load was 475 MW and water consumption was 256 m 3 /s (9,000 cu ft/s). Vibration of the bearing was 0.84 millimetres (0.033 in), which far exceeded the values of the other turbines by more than fourfold. The working life defined by the manufacturer for the turbines was specified as 30 years. At the moment of the accident, the age of the turbine was 29 years and 10 months. [ citation needed ] On 17 August 2009, the turbines were at a working level of 212 metres (696 ft). At this pressure the recommended power band for the turbines is 570–640 MW (band III) and the allowed band is 0–265 MW also (band I). Band 265–570 MW (band II) at this pressure is not recommended and output over 640 MW (band IV) is forbidden. [3] On the day of the accident, turbine 2 worked as the plant's power output regulator and due to this, its output power changed constantly. The turbine often operated in the band II regime, which is accompanied by pulsation and strokes in the water flow. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Shhpp2.jpg/170px-Shhpp2.jpg",
+                "caption": "A model of a power unit , comprising turbine and generator, of the Sayano-Shushenskaya power plant"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sayano-Shushenskaya_power_station_accident",
+        "title": "Sayano-Shushenskaya power station accident",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Accident",
+        "text": "The accident occurred on 17 August 2009 at 08:13 local time (00:13 GMT ). [6] There was a loud bang from turbine 2. The turbine cover shot up and the 920-tonne (910-long-ton; 1,010-short-ton) rotor then shot out of its seat. [5] After this, water spouted from the cavity of the turbine into the machinery hall. [7] As a result, the machinery hall and rooms below its level were flooded. [7] At the same time, an alarm was received at the power station's main control panel, and the power output fell to zero, resulting in a local blackout . The steel gates to the water intake pipes of the turbines, weighing 150 tonnes (150 long tons; 170 short tons) each, were closed manually by opening the valves with hydraulic jacks , keeping them up [3] [5] between 08:35 [3] and 09:20 hours [8] (09.30 by official report [3] ).\nThe operation took 25 minutes, which is near the minimum time (highest speed) allowed for this operation. [9] The emergency diesel generator was started at 11:32. [7] At 11:50, the opening of 11 spillway gates of the dam was started and was finished at 13:07. [8] Seventy-five people were later found dead. [10] Nine out of the ten turbines were operating at the time, with a total output 4,400 MW. [7] Turbine 6 was undergoing scheduled maintenance, but was ready for a restart. [11] Oleg Myakishev, a survivor of the accident, described it as follows: [12] On 9 September 2009 at 17:40 local time (09:40 GMT), a fire started in the turbine hall during repair works.  Around 200 people were evacuated. There were no fatalities or injuries. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sayano-Shushenskaya_HPS_-_generator_hall.jpg/230px-Sayano-Shushenskaya_HPS_-_generator_hall.jpg",
+                "caption": "The turbine hall before and after the accident. Turbine No. 2, the one that failed, is visible in the foreground (left image)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sayano-Shushenskaya_power_station_accident",
+        "title": "Sayano-Shushenskaya power station accident",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Repairs",
+        "text": "At the time, repairs were estimated to take up to four years. [30] Over 2,000 people were involved in the rescue work and liquidation of the consequences after the disaster. [42] According to Russian Energy Minister Sergei Shmatko , the rebuilding of the engine room alone was estimated to cost 40 billion rubles (€880 million, US$1.3 billion). [32] Russia's Sberbank agreed to lend 20 billion rubles (€440 million, US$630 million) for the repair works. [43] RusHydro also negotiated a loan with the European Bank for Reconstruction and Development . [44] According to RusHydro, turbines 4, 5, and 6 would probably be repaired. Turbines 7 and 9 were too damaged and were disassembled. [45] The machinery hall, heating system, electricity supply, and sewage tunnels were under repair. [45] As the spillway works all the time, several methods of preventing the dam from icing were also under consideration. [46] The machinery hall and its heating system also underwent repairs.  The repair work was performed continuously, 24 hours a day. [47] During repairs, water was being discharged using the spillway only. Special measures were taken to ensure its safe operation in winter conditions. Water gates were modified to be temporarily locked into an intermediate position for better flow control. Vapor clouds at the base of the spillway were expected to cause unwanted ice buildup on the construction site. A team of climbers equipped with chainsaws and jackhammers was assembled to remove excess ice, and a heating system was installed under machine hall roof. [48] By 27 December 2009, there were on-going or prepared dismantling of turbines 1, 2, 3, 4, 7, 8, 9, and 10.  Only turbines 5 and 6 were to be repaired in situ . The other turbines were to be replaced, repaired in the factory and/or modernized. [49] Turbine 6 was restarted on 24 February 2010. [ citation needed ] Russian Prime Minister Vladimir Putin personally switched turbine 6 to the load. Turbine 5 was brought under load on 22 March. [50] On 14 April 2010, the process of dismantling turbine 2 and the infrastructure surrounding it was finished. [51] By the year 2014 all turbines in the plant will be replaced with new ones. [51] On 30 June 2010, turbine 4 was started without a load to dry its electrical coils, to test it and to prepare it for switching under load later in 2010. [52] It was fully restarted on 4 August 2010. By July 2010 the replacement of turbine 3 was underway and expected to be completed in December 2010. The new turbine has better electrical and hydrodynamic characteristics and a 40-year working life. [53] On 6 July 2011, a ship loaded with new parts for the turbines left Saint Petersburg . [54] On 8 July 2011, turbines 3, 4 and 5 were working under full load and turbine 6 was in reserve. [55] On 11 November 2014 the renovations and repairs were fully completed. [56]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/%D0%A0%D0%B8%D1%81._3.6.jpg/220px-%D0%A0%D0%B8%D1%81._3.6.jpg",
+                "caption": "Construction of the station and assembly of turbine 2"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Shhpp8.jpg/220px-Shhpp8.jpg",
+                "caption": "Repairs on a turbine, in 2011"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sayano-Shushenskaya_power_station_accident",
+        "title": "Sayano-Shushenskaya power station accident",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Nuclear power plant",
+        "text": "Nuclear power plants are at the high end of the range of capacity factors, ideally reduced only by the availability factor , i.e. maintenance and refueling. The largest nuclear plant in the US, Palo Verde Nuclear Generating Station has between its three reactors a nameplate capacity of 3,942 MW. In 2010 its annual generation was 31,200,000 MWh, [2] leading to a capacity factor of: Each of Palo Verde’s three reactors is refueled every 18 months, with one refueling every spring and fall. In 2014, a refueling was completed in a record 28 days, [3] compared to the 35 days of downtime that the 2010 capacity factor corresponds to. In 2019, Prairie Island 1 was the US unit with the highest factor and actually reached 104.4%. [4]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Worldwide_Nuclear_Power_Capacity_Factors.png/220px-Worldwide_Nuclear_Power_Capacity_Factors.png",
+                "caption": "Worldwide Nuclear Power Capacity Factors"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Capacity_factor",
+        "title": "Capacity factor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Capacity factor of renewable energy",
+        "text": "For renewable energy sources such as solar power , wind power and hydroelectricity , the main reason for reduced capacity factor is generally the availability of the energy source. \nThe plant may be capable of producing electricity, but its \"fuel\" ( wind , sunlight or water ) may not be available. \nA hydroelectric plant's production may also be affected by requirements to keep the water level from getting too high or low and to provide water for fish downstream. \nHowever, solar, wind and hydroelectric plants do have high availability factors , so when they have fuel available, they are almost always able to produce electricity. [11] When hydroelectric plants have water available, they are also useful for load following, because of their high dispatchability . A typical hydroelectric plant's operators can bring it from a stopped condition to full power in just a few minutes. Wind farms are variable, due to the natural variability of the wind. \nFor a wind farm, the capacity factor is determined by the availability of wind, the swept area of the turbine and the size of the generator . \nTransmission line capacity and electricity demand also affect the capacity factor. \nTypical capacity factors of current wind farms are between 25 and 45%. [12] In the United Kingdom during the five year period from 2011 to 2019 the annual capacity factor for wind was over 30%. [13] [14] [15] [16] Solar energy is variable because of the daily rotation of the earth, seasonal changes, and because of cloud cover. \nFor example, the Sacramento Municipal Utility District observed a 15% capacity factor in 2005. [17] However, according to the SolarPACES programme of the International Energy Agency (IEA), solar power plants designed for solar-only generation are well matched to summer noon peak loads in areas with significant cooling demands, such as Spain or the south-western United States , [18] although in some locations solar PV does not reduce the need for generation of network upgrades given that air conditioner peak demand often occurs in the late afternoon or early evening when solar output is reduced. [19] [20] SolarPACES states that by using thermal energy storage systems the operating periods of solar thermal power (CSP) stations can be extended to become dispatchable (load following). [18] Geothermal has a higher capacity factor than many other power sources, and geothermal resources are generally available all the time.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/US_EIA_monthly_capacity_factors_for_renewables_2011-2013.png",
+                "caption": "US EIA monthly capacity factors for renewables, 2011-2013"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Capacity_factor",
+        "title": "Capacity factor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Thermal power stations",
+        "text": "In thermal power stations, mechanical power is produced by a heat engine that transforms thermal energy , often from combustion of a fuel , into rotational energy. Most thermal power stations produce steam, so they are sometimes called steam power stations. Not all thermal energy can be transformed into mechanical power, according to the second law of thermodynamics ; therefore, there is always heat lost to the environment. If this loss is employed as useful heat, for industrial processes or district heating , the power plant is referred to as a cogeneration power plant or CHP (combined heat-and-power) plant. In countries where district heating is common, there are dedicated heat plants called heat-only boiler stations . An important class of power stations in the Middle East uses by-product heat for the desalination of water. The efficiency of a thermal power cycle is limited by the maximum working fluid temperature produced. The efficiency is not directly a function of the fuel used. For the same steam conditions, coal-, nuclear- and gas power plants all have the same theoretical efficiency. Overall, if a system is on constantly (base load) it will be more efficient than one that is used intermittently (peak load). Steam turbines generally operate at higher efficiency when operated at full capacity. Besides use of reject heat for process or district heating, one way to improve overall efficiency of a power plant is to combine two different thermodynamic cycles in a combined cycle plant. Most commonly, exhaust gases from a gas turbine are used to generate steam for a boiler and a steam turbine. The combination of a \"top\" cycle and a \"bottom\" cycle produces higher overall efficiency than either cycle can attain alone. In 2018, Inter RAO UES and State Grid Archived 21 December 2021 at the Wayback Machine planned to build an 8-GW thermal power plant, [6] which's the largest coal-fired power plant construction project in Russia . [7]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dampfturbine_Laeufer01.jpg/170px-Dampfturbine_Laeufer01.jpg",
+                "caption": "Rotor of a modern steam turbine, used in a power station"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Power_station",
+        "title": "Power station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Cooling towers",
+        "text": "All thermal power plants produce waste heat energy as a byproduct of the useful electrical energy produced. The amount of waste heat energy equals or exceeds the amount of energy converted into useful electricity [ clarification needed ] . Gas-fired power plants can achieve as much as 65% conversion efficiency, while coal and oil plants achieve around 30–49%. The waste heat produces a temperature rise in the atmosphere, which is small compared to that produced by greenhouse-gas emissions from the same power plant. Natural draft wet cooling towers at many nuclear power plants and large fossil-fuel-fired power plants use large hyperboloid chimney -like structures (as seen in the image at the right) that release the waste heat to the ambient atmosphere by the evaporation of water. However, the mechanical induced-draft or forced-draft wet cooling towers in many large thermal power plants, nuclear power plants, fossil-fired power plants, petroleum refineries , petrochemical plants , geothermal , biomass and waste-to-energy plants use fans to provide air movement upward through down coming water and are not hyperboloid chimney-like structures. The induced or forced-draft cooling towers are typically rectangular, box-like structures filled with a material that enhances the mixing of the upflowing air and the down-flowing water. [13] [14] In areas with restricted water use, a dry cooling tower or directly air-cooled radiators may be necessary, since the cost or environmental consequences of obtaining make-up water for evaporative cooling would be prohibitive. These coolers have lower efficiency and higher energy consumption to drive fans, compared to a typical wet, evaporative cooling tower. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/RatcliffePowerPlantBlackAndWhite.jpg/220px-RatcliffePowerPlantBlackAndWhite.jpg",
+                "caption": "Cooling towers showing evaporating water at Ratcliffe-on-Soar Power Station , United Kingdom"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cooling_tower_power_station_Dresden.jpg/220px-Cooling_tower_power_station_Dresden.jpg",
+                "caption": "\" Camouflaged \" natural draft wet cooling tower"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Power_station",
+        "title": "Power station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Hydroelectric power station",
+        "text": "In a hydroelectric power station water flows through turbines using hydropower to generate hydroelectricity . Power is captured from the gravitational force of water falling through penstocks to water turbines connected to generators . The amount of power available is a combination of height and water flow. A wide range of Dams may be built to raise the water level, and create a lake for storing water .\nHydropower is produced in 150 countries, with the Asia-Pacific region generating 32 percent of global hydropower in 2010. China is the largest hydroelectricity producer, with 721 terawatt-hours of production in 2010, representing around 17 percent of domestic electricity use. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/220px-ThreeGorgesDam-China2009.jpg",
+                "caption": "Three Gorges Dam , Hubei , China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Power_station",
+        "title": "Power station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Solar",
+        "text": "Solar energy can be turned into electricity either directly in solar cells , or in a concentrating solar power plant by focusing the light to run a heat engine. [19] A solar photovoltaic power plant converts sunlight into direct current electricity using the photoelectric effect . Inverters change the direct current into alternating current for connection to the electrical grid. This type of plant does not use rotating machines for energy conversion. [20] Solar thermal power plants use either parabolic troughs or heliostats to direct sunlight onto a pipe containing a heat transfer fluid, such as oil. The heated oil is then used to boil water into steam, which turns a turbine that drives an electrical generator. The central tower type of solar thermal power plant uses hundreds or thousands of mirrors, depending on size, to direct sunlight onto a receiver on top of a tower. The heat is used to produce steam to turn turbines that drive electrical generators. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Giant_photovoltaic_array.jpg/220px-Giant_photovoltaic_array.jpg",
+                "caption": "Nellis Solar Power Plant in Nevada , United States"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Power_station",
+        "title": "Power station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Wind",
+        "text": "Wind turbines can be used to generate electricity in areas with strong, steady winds, sometimes offshore . Many different designs have been used in the past, but almost all modern turbines being produced today use a three-bladed, upwind design. [21] Grid-connected wind turbines now being built are much larger than the units installed during the 1970s. They thus produce power more cheaply and reliably than earlier models. [22] With larger turbines (on the order of one megawatt), the blades move more slowly than older, smaller, units, which makes them less visually distracting and safer for birds. [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/GreenMountainWindFarm_Fluvanna_2004.jpg/220px-GreenMountainWindFarm_Fluvanna_2004.jpg",
+                "caption": "Wind turbines in Texas , United States"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Power_station",
+        "title": "Power station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Osmosis",
+        "text": "Salinity gradient energy is called pressure-retarded osmosis. In this method, seawater is pumped into a pressure chamber that is at a pressure lower than the difference between the pressures of saline water and fresh water. Freshwater is also pumped into the pressure chamber through a membrane, which increases both the volume and pressure of the chamber. As the pressure differences are compensated, a turbine is spun creating energy. This method is being specifically studied by the Norwegian utility Statkraft, which has calculated that up to 25 TWh/yr would be available from this process in Norway. Statkraft has built the world's first prototype osmotic power plant on the Oslo fjord which was opened on 24 November 2009. In January 2014, however, Statkraft announced not to continue this pilot. [25]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hurum_osmosis_power_02.JPG/220px-Hurum_osmosis_power_02.JPG",
+                "caption": "Osmotic Power Prototype at Tofte (Hurum), Norway"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Power_station",
+        "title": "Power station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Biomass",
+        "text": "Biomass energy can be produced from combustion of waste green material to heat water into steam and drive a steam turbine. Bioenergy can also be processed through a range of temperatures and pressures in gasification , pyrolysis or torrefaction reactions. Depending on the desired end product, these reactions create more energy-dense products ( syngas , wood pellets , biocoal ) that can then be fed into an accompanying engine to produce electricity at a much lower emission rate when compared with open burning. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Metz_biomass_power_station.jpg/220px-Metz_biomass_power_station.jpg",
+                "caption": "Metz biomass power station"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Power_station",
+        "title": "Power station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Typical power output",
+        "text": "The power generated by a power station is measured in multiples of the watt , typically megawatts (10 6 watts) or gigawatts (10 9 watts). Power stations vary greatly in capacity depending on the type of power plant and on historical, geographical and economic factors. The following examples offer a sense of the scale. Many of the largest operational onshore wind farms are located in China. As of 2022, the Roscoe Wind Farm is the largest onshore wind farm in the world, producing 8000 MW of power, followed by the Zhang Jiakou (3000 MW). As of January 2022, the Hornsea Wind Farm in United Kingdom is the largest offshore wind farm in the world at 1218 MW, followed by Walney Wind Farm in United Kingdom at 1026 MW. In 2021, the worldwide installed capacity of power plants increased by 347 GW. Solar and wind power plant capacities rose by 80% in one year. [26] As of 2022 [update] , the largest photovoltaic (PV) power plants in the world are led by Bhadla Solar Park in India, rated at 2245 MW. Solar thermal power stations in the U.S. have the following output: Large coal-fired, nuclear, and hydroelectric power stations can generate hundreds of megawatts to multiple gigawatts. Some examples: Gas turbine power plants can generate tens to hundreds of megawatts. Some examples: The rated capacity of a power station is nearly the maximum electrical power that the power station can produce.\nSome power plants are run at almost exactly their rated capacity all the time, as a non-load-following base load power plant , except at times of scheduled or unscheduled maintenance. However, many power plants usually produce much less power than their rated capacity. In some cases a power plant produces much less power than its rated capacity because it uses an intermittent energy source .\nOperators try to pull maximum available power from such power plants, because their marginal cost is practically zero, but the available power varies widely—in particular, it may be zero during heavy storms at night. In some cases operators deliberately produce less power for economic reasons.\nThe cost of fuel to run a load following power plant may be relatively high, and the cost of fuel to run a peaking power plant is even higher—they have relatively high marginal costs.\nOperators keep power plants turned off (\"operational reserve\") or running at minimum fuel consumption [ citation needed ] (\"spinning reserve\") most of the time.\nOperators feed more fuel into load following power plants only when the demand rises above what lower-cost plants (i.e., intermittent and base load plants) can produce, and then feed more fuel into peaking power plants only when the demand rises faster than the load following power plants can follow.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Koebergnps.jpg/220px-Koebergnps.jpg",
+                "caption": "The Koeberg Nuclear Power Station , South Africa"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Power_station",
+        "title": "Power station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Operations",
+        "text": "Operating staff at a power station have several duties. Operators are responsible for the safety of the work crews that frequently do repairs on the mechanical and electrical equipment. They maintain the equipment with periodic inspections and log temperatures, pressures and other important information at regular intervals. Operators are responsible for starting and stopping the generators depending on need. They are able to synchronize and adjust the voltage output of the added generation with the running electrical system, without upsetting the system. They must know the electrical and mechanical systems to troubleshoot problems in the facility and add to the reliability of the facility. Operators must be able to respond to an emergency and know the procedures in place to deal with it.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Power_plant_control_room.jpg/220px-Power_plant_control_room.jpg",
+                "caption": "Control room of a power plant"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Power_station",
+        "title": "Power station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Procurement of black start services",
+        "text": "In the United Kingdom , the grid operator has commercial agreements in place with some generators to provide black start capacity, recognizing that black start facilities are often not economical in normal grid operation. [11] It is typical of power stations from the era of the Central Electricity Generating Board to have a number of open-cycle gas turbines (i.e. no heat recovery modules attached) that can run the entirety of the plant necessary to operate a full generating unit; these would normally be started by diesel generators, fed in turn by battery backups. Once up to speed, these gas turbines are capable of running the entire plant associated with the rest of the power station, negating the need to bring power in from other sources. In the North American independent system operators , the procurement of black starting varies somewhat. Traditionally, the black-start capability was provided by integrated utilities and the costs were rolled into a broad tariff for cost recovery from ratepayers. In those areas which are not part of organized electricity markets, this is still the usual procurement mechanism.  In the deregulated environment, this legacy of cost-based provision has persisted, and even recent overhauls of black-start procurement practices, such as that by the ISO New England , have not necessarily shifted to a competitive procurement, even though deregulated jurisdictions have a bias for market solutions rather than cost-of-service (COS) solutions. In the United States, there are currently three methods of procuring black start. The most common is cost-of-service, as it is the simplest and is the traditional method. It is currently used by the California Independent System Operator (CAISO), the PJM Interconnection [12] and the New York Independent System Operator [13] (NYISO). The exact mechanisms differ somewhat the same approach is used, namely that units are identified for black start and their documented costs are then funded and rolled into a tariff for cost recovery. The second method is a new method used by the Independent System Operator of New England [14] (ISO-NE). The new methodology is a flat-rate payment which increases black-start remuneration to encourage provision. The monthly compensation paid to a generator is determined by multiplying a flat rate (in $/kWyr and referred to as the $Y value) by the unit's Monthly Claimed Capability for that month. The purpose of this change was to simplify procurement and encourage  provision of the black start service. The final method of procurement is competitive procurement as used by the Electric Reliability Council of Texas [15] (ERCOT). Under this approach, ERCOT runs a market for black-start services. Interested participants submit an hourly standby cost in $/hr (e.g. $70 per hour), often termed an availability bid, that is unrelated to the capacity of the unit. Using various criteria, ERCOT evaluates these bids and the selected units are paid as bid, presuming an 85% availability. Each black-start unit must be able to demonstrate that it can start another unit in close proximity, in order to begin the islanding and synchronization of the grid. In other jurisdictions there are differing methods of procurement. The New Zealand System Operator [16] procures the blackstart capability via competitive tender. Other jurisdictions also appear to have some sort of competitive procurement, albeit perhaps not as structured as that of ERCOT. These include the Alberta Electric System Operator , [17] as well as Independent Electric System Operator of Ontario, [18] both of which use a long-term \"request for proposals\" approach similar to New Zealand and ERCOT. The first black start on Germany's grid was tested in 2017 at WEMAG battery power station in Schwerin on a disconnected, isolated grid. The WEMAG battery plant proved that it can restore the power grid after major disruption or blackout. [19]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ERCOTOperator_2.jpg/220px-ERCOTOperator_2.jpg",
+                "caption": "An operator at ERCOT"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Black_start",
+        "title": "Black start",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Peak hours",
+        "text": "Peak hours usually occur in the morning or late afternoon/evening depending on location. In temperate climates, peak hours often occur when household appliances are heavily used in the evening after work hours. In hot climates, the peak is usually late afternoon when air conditioning load is high, during this time many workplaces are still open and consuming power. In cold climates, the peak is in the morning when space heating and industry are both starting up. [10] A peaker plant may operate many hours a day, or it may operate only a few hours per year, depending on the condition of the region's electrical grid . Because of the cost of building an efficient power plant, if a peaker plant is only going to be run for a short or highly variable time, it does not make economic sense to make it as efficient as a base load power plant. In addition, the equipment and fuels used in base load plants are often unsuitable for use in peaker plants because the fluctuating conditions would severely strain the equipment. For these reasons, nuclear , waste-to-energy , coal and biomass are rarely, if ever, operated as peaker plants.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tagesgang_engl.png/220px-Tagesgang_engl.png",
+                "caption": "Power production in Germany during a day in 2005, without any solar and wind power"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Peaking_power_plant",
+        "title": "Peaking power plant",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Types",
+        "text": "Peaker plants are generally gas turbines or gas engines that burn natural gas . A few burn biogas or petroleum -derived liquids, such as diesel oil and jet fuel , but those are generally more expensive than natural gas, so their use is limited to areas not supplied with natural gas. In addition to natural gas, many peaker plants are able to use petroleum as a backup fuel, storing oil in tanks on site. The thermodynamic efficiency of simple-cycle gas turbine power plants ranges from 20 to 42%, with between 30 and 42% being average for a new plant. For greater efficiency, a heat recovery steam generator (HRSG) is added at the exhaust. This is known as a combined cycle plant. Cogeneration uses waste exhaust heat for process, district heating or other heating uses. Both of these options are used only in plants that are intended to be operated for longer periods than usual. Natural gas and diesel generators with reciprocating engines are sometimes used for grid support using smaller plants. Another option for increased efficiency and power output in gas turbines is installing a turbine inlet air cooling system, that cools down the inlet air temperature increasing mass flow ratio. This option, in combination with a thermal energy storage tank, can increase the turbine power output in on-peak periods up to 30%. [11] Hydroelectric dams are intentionally variable. They can generate less during off-peak and quickly respond to peak demands, consequently hydroelectricity may function as load following or a peaking plant and with sufficient water, a base-load plant. Natural gas turbines or pumped storage are often used where there is not enough hydroelectricity to respond to daily and weekly variations in generation and consumption. [13] It is not unusual for a dam to be built with more capacity than can be sustained by the water supply, allowing for a higher peak output. Upgrading equipment at existing dams can be one of the least expensive ways of increasing peak generation. [14] The ability to vary the amount of electricity generated is often limited by the requirement that minimum or maximum flows downstream are satisfied. [15] Pumped-storage hydroelectricity is the largest-capacity form of grid energy storage available, used for averaging off-peak and peak electrical demands. The site stores energy using the gravitational potential of water stored in a reservoir. Low-cost off-peak electric power from base load or intermittent sources is used to pump water at a low elevation to storage in a high elevation reservoir. During periods of high electrical demand, the stored water is released through turbines to produce electric power. Start up times are only a few minutes, and some can start in a few tens of seconds. [16] Batteries are used in some cases where conditions favor it to smooth flow, avoiding a costly power line upgrade, as well as supplying peak power [17] [18] and other grid services [19] such as operating reserve , sometimes in hybrid configuration with turbines [20] or diesel engines. Battery power is by far the fastest responding of all powerplants, and can respond to grid conditions at millisecond timescales, giving slower responding equipment a chance to react to outages. Pumped-storage and batteries are net consumers, as they have no inherent energy source, and the conversion between electricity and storage and back incurs some losses. Solar thermal peaker plants were proposed in 2017, under a US Department of Energy Technology 2 Market [21] award to Hank Price of SolarDynamics, whose paper \"Dispatchable Solar Power Plant\" [22] proposed utilizing the thermal energy storage inherent in a solar thermal energy power plant, that enables this heat-based form of solar to generate like a gas peaker, to supply power on demand day or night, and in return be controlled by the utility and paid in capacity payments to be available when needed, like a traditional peaker plant. A solar thermal power plant makes electricity in a steam cycle power plant like a traditional power plant but the heat for steam is supplied by solar energy heating a material such as molten salts and storing the heat until needed to make steam for power generation.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Baltwg.png/220px-Baltwg.png",
+                "caption": "BPA Daily peak load with large hydro/base load thermal generation and intermittent wind power. Hydro is managing the peaks, with some response from thermal. [12]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Peaking_power_plant",
+        "title": "Peaking power plant",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Characteristics",
+        "text": "It consists of a reservoir 110 feet (34 m) deep,  2.5 miles (4.0 km) long, and one mile (1.6 km) wide which holds 27 billion US gallons (100 Gl) or 82859 acre-feet of water. The 1.3-square-mile (3.4 km 2 ) reservoir is located on the banks of Lake Michigan . Because impervious bedrock is more than 800 feet (240 m) below the reservoir, the builders had to line the reservoir with a layer of asphalt and clay to prevent water seeping into the ground. The power plant consists of six reversible turbines that can each generate 312 megawatts of electricity for a total output of 1,872 megawatts. [7] Water is delivered from the upper reservoir to the turbines by six penstocks each 1,100 feet (340 m) long that taper from 28 to 24 feet (8.5 to 7.3 m) in diameter. At night, during low demand for electricity, the turbines run in reverse to pump water 363 feet (111 m) uphill from Lake Michigan into the reservoir. The plant takes advantage of the natural steep sand dune landform of eastern Lake Michigan. During periods of peak demand water is released to generate power. Electrical generation can begin within two minutes with peak electric output of 1872 MW achieved in under 30 minutes.  Maximum water flow is over 33 million US gallons (120,000 m 3 ) per minute. This process was designed to level the load of nearby nuclear power plants on the grid. It also replaces the need to build natural gas peak power plants used only during high demand. The Ludington Pumped Storage plant is connected to six 345-kV Transmission lines, all owned and maintained by METC, a subsidiary of ITC Holdings. The project was given the 1973 award for \"Outstanding Civil Engineering Achievement\" by the American Society of Civil Engineers . [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/GENERATING_STATION_OF_CONSUMER_POWER_PLANT_IN_LUDINGTON_-_NARA_-_547129_--_color_graded.tif/lossy-page1-220px-GENERATING_STATION_OF_CONSUMER_POWER_PLANT_IN_LUDINGTON_-_NARA_-_547129_--_color_graded.tif.jpg",
+                "caption": "Detail of the turbines when first constructed."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ludington_Pumped_Storage_Power_Plant",
+        "title": "Ludington Pumped Storage Power Plant",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "National Park System",
+        "text": "The National Park System includes all properties managed by the National Park Service, which have a wide variety of titles or designations. The system as a whole is considered to be a national treasure of the United States, and some of the more famous national parks and monuments are sometimes referred to as \" crown jewels \". [26] The system encompasses approximately 85.1 million acres (0.344 million km 2 ), of which 2.6 million acres (0.011 million km 2 ) remain in private ownership. The largest unit is Wrangell–St. Elias National Park and Preserve , Alaska. At 13,200,000 acres (53,000 km 2 ), it is over 16 percent of the entire system. The smallest unit in the system is Thaddeus Kosciuszko National Memorial , Pennsylvania , at 0.02 acres (80 m 2 ). In addition to administering its units and other properties, the NPS also provides technical and financial assistance to several affiliated areas authorized by Congress. The largest affiliated area is New Jersey Pinelands National Reserve at 1,164,025 acres (4711 km 2 ). The smallest is Benjamin Franklin National Memorial at less than 0.01 acres (40 m 2 ). While there are laws generally covering all units of the National Park System, they are subject to management policies of individual pieces of authorizing legislation or, in the case of national monuments created under the Antiquities Act , Executive Order . For example, because of provisions within their enabling legislation, Congaree National Park is almost entirely a wilderness area devoid of development, yet Yosemite allows unique developments such as the Badger Pass Ski Area and the O'Shaughnessy Dam within its boundaries. Such irregularities would not be found in other parks unless specifically provided for with exceptions by the legislation that created them.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grand_Canyon_South_Rim_Sunset.jpeg/220px-Grand_Canyon_South_Rim_Sunset.jpeg",
+                "caption": "Grand Canyon National Park , south rim of canyon."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/National_Park_Service",
+        "title": "National Park Service",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Nomenclature",
+        "text": "The NPS uses over 20 different titles for the park units it manages, including national park and national monument . [32] National parks preserve nationally and globally significant scenic areas and nature reserves. National monuments preserve a single unique cultural or natural feature. Devils Tower National Monument was the first in 1906. While the National Park Service holds the most national monuments, a monument may be managed or co-managed by a different entity such as the Bureau of Land Management or the Forest Service . National preserves are for the protection of certain resources and operate similar to many National Parks, but allow limited resource extraction. Activities like hunting, fishing, and some mining may be allowed depending on the site. Big Cypress National Preserve and Big Thicket National Preserve were created in 1974 as the first national preserves. National reserves are similar to national preserves, but the operational authority can be placed with a state or local government. New Jersey Pinelands National Reserve was the first to be established in 1978. [36] National historic sites protect a significant cultural resource that is not a complicated site. National historical parks are larger areas with more complex subjects. Historic sites may also be protected in other unit types. National military parks , battlefield parks , battlefield sites , and battlefields preserve areas associated with military history. The different designations reflect the complexity of the event and the site. Many of the sites preserve important Revolutionary War battles and Civil War battlefields. Military parks are the sites of larger actions, such as Chickamauga and Chattanooga National Military Park , Vicksburg National Military Park , Gettysburg National Military Park , and Shiloh National Military Park —the original four from 1890. Examples of battlefield parks , battlefield sites , and national battlefields include Richmond National Battlefield Park , Brices Cross Roads National Battlefield Site , and Antietam National Battlefield . National memorials are areas that officially memorialize a person or event, though unlike a National Historical Site, may or may not be placed at a specific historical location. Several national memorials are on the National Mall , such as the Washington Monument and Lincoln Memorial . National seashores and national lakeshores offer preservation of the national coast line, while supporting water–based recreation. Cape Hatteras National Seashore was created in 1937. Indiana Dunes National Lakeshore and Pictured Rocks National Lakeshore , created in 1966, were the first national lakeshores. National rivers and wild and scenic riverways protect free-flowing streams over their length. The riverways may not be altered with dams, channelization, or other changes. Recreational pursuits are encouraged along the waterways. Ozark National Scenic Riverways was established in 1964. National recreation areas originally were units surrounding reservoirs impounded by dams built by other federal agencies, the first being Lake Mead National Recreation Area . Some national recreation areas are in urban centers, such as Gateway National Recreation Area and Golden Gate National Recreation Area , which encompass significant cultural as well as natural resources. The National Trails System preserves long-distance routes across America. The system was created in 1968 and consists of two major components: National scenic trails are long-distance trails through some of the most scenic parts of the country. They received official protection in 1968. The Appalachian Trail is the best known. National historic trails commemorate the routes of major historic events. Some of the best known are the Trail of Tears , the Mormon Trail , and the Santa Fe Trail . These trails are administered by several federal agencies.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Custom_House_-_Salem%2C_Massachusetts.JPG/220px-Custom_House_-_Salem%2C_Massachusetts.JPG",
+                "caption": "Customs House at the Salem Maritime National Historic Site in Salem, Massachusetts"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gettysburg_entrance.JPG/220px-Gettysburg_entrance.JPG",
+                "caption": "Winter at the Gettysburg Battlefield"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/National_Park_Service",
+        "title": "National Park Service",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Discretionary spending",
+        "text": "Discretionary spending includes the Operations of the National Parks (ONPS), from which all park operations are paid. The United States Park Police funds cover the high-profile law enforcement operations at some of the large parks, including Gateway National Recreation Area , Golden Gate National Recreation Area , and the National Mall . The National Recreation and Preservation Program and the Urban Park and Recreation Fund are outreach programs to support state and local outdoor recreational activities. [42] The ONPS section of the budget is divided into six operational areas. These areas include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/NPS_Budget_%282001-2006%29.jpg/220px-NPS_Budget_%282001-2006%29.jpg",
+                "caption": "NPS Operations of the National Parks budget from FY 2001-FY 2006"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/National_Park_Service",
+        "title": "National Park Service",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Offices",
+        "text": "The national headquarters is located in the Main Interior Building , 1849 C Street NW, several blocks southwest of the White House . The central office is composed of eleven directorates: director/deputy directors; business services; workforce management; chief information officer; cultural resources; natural resource stewardship and science; office of the comptroller; park planning, facilities and lands; partnerships and visitor experience; visitor and resource protection; and the United States Park Police . [53] Regional offices are in Anchorage , Atlanta , Lakewood, CO ( Denver ), Omaha, NE , Philadelphia , San Francisco and Seattle . The headquarters building of the National Park Service Southwest Regional Office is architecturally significant and is designated a National Historic Landmark . The NPS is an operating unit of the U.S. Department of the Interior . The NPS director is nominated by the president of the United States and confirmed by the United States Senate . [54] The director is supported by six senior executives. These executives manage national programs, policy, and budget from the Washington, DC, headquarters. Under the deputy director of operations are seven regional directors, who are responsible for national park management and program implementation. Together this group is called the National Leadership Council . [55]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/NPS_Employees_12_types_of_work_08368.jpg/220px-NPS_Employees_12_types_of_work_08368.jpg",
+                "caption": "Depicts twelve figures, most in NPS uniforms, shown in occupations from left to right: a lifeguard, a Civil War reenactor, fire management, mounted patrol, researcher and/or natural resources with fish, a female ranger with two visitors, a laborer, a climber/rescuer, and a youth with a male ranger."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/National_Park_Service",
+        "title": "National Park Service",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Employees",
+        "text": "By the mid-1950s, the primary employees of the service were the park rangers, who had broad responsibilities on the parks' behalf. They cleaned up trash, operated heavy equipment, fought fires, managed traffic, cleared trails and roads, provided information to visitors, managed museums, performed rescues, flew aircraft, and investigated crime. [56] The NPS employs many kinds of workers: Locations are varied. Parks exist in the nation's larger cities like New York City ( Federal Hall Memorial National Historic Site), Atlanta ( Martin Luther King, Jr. National Historic Site ), and San Diego ( Cabrillo National Monument ) to some of the remotest areas of the continent like Hovenweep National Monument in southeastern Utah, to Aniakchak National Monument in King Salmon, Alaska . [58]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NPS_Staffing%281998-2009%29.JPG/220px-NPS_Staffing%281998-2009%29.JPG",
+                "caption": "National Park Service employment levels. Executives: abt 27; Gen Sch: 16–17,000; Others: 6–7,000 [57]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/National_Park_Service",
+        "title": "National Park Service",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Special divisions",
+        "text": "Other special NPS divisions include the Archeology Program, [72] Historic American Buildings Survey , National Register of Historic Places , National Natural Landmarks , the Rivers, Trails and Conservation Assistance Program, [73] the Challenge Cost Share Program, [74] the Federal Lands to Parks, [75] the Hydropower Relicensing Program, [76] the Land and Water Conservation Fund, [77] the National Trails System , [78] the Partnership Wild and Scenic Rivers Program, [79] and the Natural Sounds and Night Skies Division . [80]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NPS_Preservation_Training_Center.jpg/220px-NPS_Preservation_Training_Center.jpg",
+                "caption": "Historic Preservation Training Center"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/National_Park_Service",
+        "title": "National Park Service",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    },
+    {
+        "section": "Preservation Programs",
+        "text": "The oldest federal preservation program, the Historic American Buildings Survey / Historic American Engineering Record (HABS/HAER), produces graphic and written documentation of historically significant architectural, engineering and industrial sites and structures. Dating from 1934, the Historic American Buildings Survey (HABS) was chartered to document historic architecture—primarily houses and public buildings—of national or regional significance. Originally a New Deal employment/preservation program, after World War II, HABS employed summer teams of advanced undergraduate and graduate students to carry out the documentation, a tradition followed to this day. Many of the structures they documented no longer exist. HABS/HAER produces measured drawings, large-format photographs and written histories of historic sites, structures and objects, that are significant to the architectural, engineering and industrial heritage of the U.S. Its 25,000 records are part of the Library of Congress. HABS/HAER is administered by the NPS Washington office and five regional offices. [83]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/El_Santuario_del_Senor_Esquipula_113804pu.jpg/220px-El_Santuario_del_Senor_Esquipula_113804pu.jpg",
+                "caption": "Photograph of El Santuario Del Señor Esquipula, Chimayo, New Mexico"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chicago_River_Bascule_Bridge%2C_LaSalle_Street%2C_Chicago.jpg/220px-Chicago_River_Bascule_Bridge%2C_LaSalle_Street%2C_Chicago.jpg",
+                "caption": "LaSalle Street Bridge, Chicago, Illinois"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/National_Park_Service",
+        "title": "National Park Service",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower facility maintenance"
+    }
+]

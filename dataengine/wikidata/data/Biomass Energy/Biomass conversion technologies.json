@@ -1,0 +1,564 @@
+[
+    {
+        "section": "Biomass in the form of residues and waste",
+        "text": "Residues and waste are by-products from biological material harvested mainly for non-energy purposes. The most important by-products are wood residues, agricultural residues and municipal/industrial waste: Wood residues are by-products from forestry operations or from the wood processing industry. Had the residues not been collected and used for bioenergy, they would have decayed (and therefore produced emissions) [g] on the forest floor or in landfills, or been burnt (and produced emissions) at the side of the road in forests or outside wood processing facilities. [24] The by-products from forestry operations are called logging residues or forest residues, and consist of tree tops, branches, stumps, damaged or dying or dead trees, irregular or bent stem sections, thinnings (small trees that are cleared away in order to help the bigger trees grow large), and trees removed to reduce wildfire risk. [h] The extraction level of logging residues differ from region to region, [i] [j] but there is an increasing interest in using this feedstock, [k] since the sustainable potential is large (15 EJ annually). [l] 68% of the total forest biomass in the EU consists of wood stems, and 32% consists of stumps, branches and tops. [25] The by-products from the wood processing industry are called wood processing residues and consist of cut offs, shavings, sawdust, bark, and black liquor. [26] Wood processing residues have a total energy content of 5.5 EJ annually. [27] Wood pellets are mainly made from wood processing residues, [m] and have a total energy content of 0.7 EJ. [n] Wood chips are made from a combination of feedstocks, [28] and have a total energy content of 0.8 EJ. [o] The energy content in agricultural residues used for energy is approximately 2 EJ. [p] However, agricultural residues has a large untapped potential. The energy content in the global production of agricultural residues has been estimated to 78 EJ annually, with the largest share from straw (51 EJ). [q] Others have estimated between 18 and 82 EJ. [r] The use of agricultural residues and waste that is both sustainable and economically feasible [12] : 9 is expected to increase to between 37 and 66 EJ in 2030. [s] Municipal waste produced 1.4 EJ and industrial waste 1.1 EJ. [29] Wood waste from cities and industry also produced 1.1 EJ. [27] The sustainable potential for wood waste has been estimated to 2–10 EJ. [30] IEA recommends a dramatic increase in waste utilization to 45 EJ annually in 2050. [31]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Lake_Stevens%2C_WA_-_de_Jong_Sawdust_%26_Shavings_01.jpg/220px-Lake_Stevens%2C_WA_-_de_Jong_Sawdust_%26_Shavings_01.jpg",
+                "caption": "Sawdust is residue from the wood processing industry."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biomass_(energy)",
+        "title": "Biomass (energy)",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Carbon accounting system boundaries",
+        "text": "Carbon positive scenarios are likely to be net emitters of CO 2 , carbon negative projects are net absorbers of CO 2 , while carbon neutral projects balance emissions and absorption equally. [56] It is common to include alternative scenarios (also called \"reference scenarios\" or \"counterfactuals\") for comparison. [11] : 83 The alternative scenarios range from scenarios with only modest changes compared to the existing project, all the way to radically different ones (i.e. forest protection or \"no-bioenergy\" counterfactuals.) Generally, the difference between scenarios is seen as the actual carbon mitigation potential of the scenarios. [11] : 100 In addition to the choice of alternative scenario, other choices has to be made as well. The so-called \"system boundaries\" determine which carbon emissions/absorptions that will be included in the actual calculation, and which that will be excluded. System boundaries include temporal, spatial, efficiency-related and economic boundaries. [26] For example, the actual carbon intensity of bioenergy varies with biomass production techniques and transportation lengths.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bioenergy_system_boundaries.jpg/310px-Bioenergy_system_boundaries.jpg",
+                "caption": "Alternative system boundaries for assessing climate effects of forest-based bioenergy. Option 1 (black) considers only the stack emissions; Option 2 (green) considers only the forest carbon stock; Option 3 (blue) considers the bioenergy supply chain; Option 4 (red) covers the whole bioeconomy, including wood products in addition to biomass. [26]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biomass_(energy)",
+        "title": "Biomass (energy)",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Climate impacts expressed as varying with time",
+        "text": "The use of boreal stemwood harvested exclusively for bioenergy have a positive climate impact only in the long term, while the use of wood residues have a positive climate impact also in the short to medium term. [aq] Short carbon payback/parity times are produced when the most realistic no-bioenergy scenario is a traditional forestry scenario where \"good\" wood stems are harvested for lumber production, and residues are burned or left behind in the forest or in landfills. The collection of such residues provides material which \"[...] would have released its carbon (via decay or burning) back to the atmosphere anyway (over time spans defined by the biome's decay rate) [...].\" [63] In other words, payback and parity times depend on the decay speed. The decay speed depends on a.) location (because decay speed is \"[...] roughly proportional to temperature and rainfall [...]\" [64] ), and b.) the thickness of the residues. [ar] Residues decay faster in warm and wet areas, and thin residues decay faster than thick residues. Thin residues in warm and wet temperate forests therefore have the fastest decay, while thick residues in cold and dry boreal forests have the slowest decay. If the residues instead are burned in the no-bioenergy scenario, e.g. outside the factories or at roadside in the forests, emissions are instant. In this case, parity times approach zero. [as] Like other scientists, the JRC staff note the high variability in carbon accounting results, and attribute this to different methodologies. [at] In the studies examined, the JRC found carbon parity times of 0 to 400 years for stemwood harvested exclusively for bioenergy, depending on different characteristics and assumptions for both the forest/bioenergy system and the alternative fossil system, with the emission intensity of the displaced fossil fuels seen as the most important factor, followed by conversion efficiency and biomass growth rate/rotation time. Other factors relevant for the carbon parity time are the initial carbon stock and the existing harvest level; both higher initial carbon stock and higher harvest level means longer parity times. [65] Liquid biofuels have high parity times because about half of the energy content of the biomass is lost in the processing. [au]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Net_emissions_from_forest_bioenergy_pathways%2C_compared_against_coal_and_natural_gas_alternative_scenarios.png/220px-Net_emissions_from_forest_bioenergy_pathways%2C_compared_against_coal_and_natural_gas_alternative_scenarios.png",
+                "caption": "Time-dependent net emission estimates for forest bioenergy pathways, compared against coal and natural gas alternative scenarios. Plus signs represents positive climate effects, minus signs negative climate effects. [17]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biomass_(energy)",
+        "title": "Biomass (energy)",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Climate impacts expressed as static numbers",
+        "text": "EU's Joint Research Centre has examined a number of bioenergy emission estimates found in literature, and calculated greenhouse gas savings percentages for bioenergy pathways in heat production, transportation fuel production and electricity production, based on those studies. The calculations are based on the attributional LCA accounting principle. It includes all supply chain emissions, from raw material extraction, through energy and material production and manufacturing, to end-of-life treatment and final disposal. It also includes emissions related to the production of the fossil fuels used in the supply chain. It excludes emission/absorption effects that takes place outside its system boundaries, for instance market related, biogeophysical (e.g. albedo), and time-dependent effects. The authors conclude that \"[m]ost bio-based commodities release less GHG than fossil products along their supply chain; but the magnitude of GHG emissions vary greatly with logistics, type of feedstocks, land and ecosystem management, resource efficiency, and technology.\" [67] Because of the varied climate mitigation potential for different biofuel pathways, governments and organizations set up different certification schemes to ensure that biomass use is sustainable, for instance the RED (Renewable Energy Directive) in the EU and the ISO standard 13065 by the International Organization for Standardization. [68] In the US, the RFS (Renewables Fuel Standard) limit the use of traditional biofuels and defines the minimum life-cycle GHG emissions that are acceptable. Biofuels are considered traditional if they achieve up to 20% GHG emission reduction compared to the petrochemical equivalent, advanced if they save at least 50%, and cellulosic if the save more than 60%. [av] The EU's Renewable Energy Directive (RED) states that the typical greenhouse gas emissions savings when replacing fossil fuels with wood pellets from forest residues for heat production varies between 69% and 77%, depending on transport distance: When the distance is between 0 and 2500 km, emission savings is 77%. Emission savings drop to 75% when the distance is between 2500 and 10 000 km, and to 69% when the distance is above 10 000 km. When stemwood is used, emission savings varies between 70% and 77%, depending on transport distance. When wood industry residues are used, savings varies between 79% and 87%. [aw] Since the long payback and parity times calculated for some forestry projects is seen as a non-issue for energy crops (except in the cases mentioned above), researchers instead calculate static climate mitigation potentials for these crops, using LCA-based carbon accounting methods. A particular energy crop-based bioenergy project is considered carbon positive, carbon neutral or carbon negative based on the total amount of CO 2 equivalent emissions and absorptions accumulated throughout its entire lifetime: If emissions during agriculture, processing, transport and combustion are higher than what is absorbed (and stored) by the plants, both above and below ground, during the project's lifetime, the project is carbon positive. Likewise, if total absorption is higher than total emissions, the project is carbon negative. In other words, carbon negativity is possible when net carbon accumulation more than compensates for net lifecycle greenhouse gas emissions. Typically, perennial crops sequester more carbon than annual crops because the root buildup is allowed to continue undisturbed over many years. Also, perennial crops avoid the yearly tillage procedures (plowing, digging) associated with growing annual crops. Tilling helps the soil microbe populations to decompose the available carbon, producing CO 2 . [ax] [62] : 393 There is now (2018) consensus in the scientific community that \"[...] the GHG [greenhouse gas] balance of perennial bioenergy crop cultivation will often be favourable [...]\", also when considering the implicit direct and indirect land use changes. [69] : 150",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/GHG_emissions_from_wood_pellets_burnt_for_electricity_in_the_EU.png/220px-GHG_emissions_from_wood_pellets_burnt_for_electricity_in_the_EU.png",
+                "caption": "Greenhouse gas emissions from wood pellet production and transport from the US to the EU. [66]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biomass_(energy)",
+        "title": "Biomass (energy)",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Sustainable forestry and forest protection",
+        "text": "IPCC states that there is disagreement about whether the global forest is shrinking or not, and quote research indicating that tree cover has increased 7.1% between 1982 and 2016. [62] : 367 The IPCC writes: \"While above-ground biomass carbon stocks are estimated to be declining in the tropics, they are increasing globally due to increasing stocks in temperate and boreal forests [...].\" [62] : 385 Old trees have a very high carbon absorption rate, and felling old trees means that this large potential for future carbon absorption is lost. [60] : 3 There is also a loss of soil carbon due to the harvest operations. [60] : 3 Old trees absorb more CO 2 than young trees, because of the larger leaf area in full grown trees. [73] However, the old forest (as a whole) will eventually stop absorbing CO 2 because CO 2 emissions from dead trees cancel out the remaining living trees' CO 2 absorption. [ay] The old forest (or forest stands) are also vulnerable for natural disturbances that produces CO 2 . The IPCC found that \"[...] landscapes with older forests have accumulated more carbon but their sink strength is diminishing, while landscapes with younger forests contain less carbon but they are removing CO 2 from the atmosphere at a much higher rate [...].\" [62] : 386 The IPCC states that the net climate effect from conversion of unmanaged to managed forest can be positive or negative, depending on circumstances. The carbon stock is reduced , but since managed forests grow faster than unmanaged forests, more carbon is absorbed . Positive climate effects are produced if the harvested biomass is used efficiently. [62] : 351 There is a tradeoff between the benefits of having a maximized forest carbon stock, not absorbing any more carbon, and the benefits of having a portion of that carbon stock \"unlocked\", and instead working as a renewable fossil fuel replacement tool, for instance in sectors which are difficult or expensive to decarbonize. [31] [az] The \"competition\" between locked-away and unlocked forest carbon might be won by the unlocked carbon: \"In the long term, using sustainably produced forest biomass as a substitute for carbon-intensive products and fossil fuels provides greater permanent reductions in atmospheric CO 2 than preservation does.\" [74] : 39 IEA Bioenergy writes: \"forests managed for producing sawn timber, bioenergy and other wood products can make a greater contribution to climate change mitigation than forests managed for conservation alone.\" Three reasons are given: [75] Data from FAO show that most wood pellets are produced in regions dominated by sustainably managed forests, such as Europe and North America. Europe (including Russia) produced 54% of the world's wood pellets in 2019, and the forest carbon stock in this area increased from 158.7 to 172.4 Gt between 1990 and 2020. In the EU, above-ground forest biomass increases with 1.3% per year on average, however the increase is slowing down because the forests are maturing. [76] United Kingdom Emissions Trading System allows operators of CO2 generating installations to apply zero emissions factor for the fraction used for non-energy purposes, while energy purposes (electricity generation, heating) require additional sustainability certification on the biomass used. [77]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Old_growth_spruce_forest.jpg/220px-Old_growth_spruce_forest.jpg",
+                "caption": "Old-growth spruce forest in France."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Starr-090413-5809-Fraxinus_uhdei-plantation-Makawao_Forest_Reserve-Maui_%2824655914310%29.jpg/220px-Starr-090413-5809-Fraxinus_uhdei-plantation-Makawao_Forest_Reserve-Maui_%2824655914310%29.jpg",
+                "caption": "Plantation forest in Hawaii."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Forest_area_increase_in_the_EU_1990-2020.png/220px-Forest_area_increase_in_the_EU_1990-2020.png",
+                "caption": "Forest area increase in the EU 1990–2020. [72]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Forest_biomass_flow_chart.jpg/220px-Forest_biomass_flow_chart.jpg",
+                "caption": "Sankey diagram that shows the flow of biomass from forest to wood products, paper and energy in Sweden. [78]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biomass_(energy)",
+        "title": "Biomass (energy)",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Biodiversity",
+        "text": "Biomass production for bioenergy can have negative impacts on biodiversity. [79] Oil palm and sugar cane are examples of crops that have been linked to reduced biodiversity . [80] In addition, changes in biodiversity also impacts primary production which naturally effects decomposition and soil heterotrophic organisms. [81] Win-win scenarios (good for climate, good for biodiversity) include: [11] : 8–149 Win-lose scenarios (good for the climate, bad for biodiversity) include afforestation on ancient, biodiversity-rich grassland ecosystems which were never forests, and afforestation of former agricultural land with monoculture plantations. [11] : 125–147 Lose-win scenarios (bad for the climate, good for biodiversity) include natural forest expansion on former agricultural land. [11] : 125–147 Lose-lose scenarios include increased use of thick forest residues like stumps from some boreal forests with slow decay rates, and conversion of natural forests into forest plantations. [11] : 8–147",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Carbon_emissions_and_biodiversity.png/220px-Carbon_emissions_and_biodiversity.png",
+                "caption": "Classification scheme for win-win (green), trade-off (orange), and lose-lose (red) scenarios caused by additional bioenergy pathways in the EU. [11] : 107"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Climate_and_biodiversity_impacts_for_additional_bioenergy_pathways_in_the_EU_%28forestry_residues%2C_afforestation_and_conversion_to_forest_plantation%29.png/220px-Climate_and_biodiversity_impacts_for_additional_bioenergy_pathways_in_the_EU_%28forestry_residues%2C_afforestation_and_conversion_to_forest_plantation%29.png",
+                "caption": "Short term climate and biodiversity impacts for 3 alternative bioenergy pathways in the EU (forest residues, afforestation and conversion to forest plantation.) Short term is here defined as a period of 0–20 years, medium term 30-50 years, and long term over 50 years. [11] : 146"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biomass_(energy)",
+        "title": "Biomass (energy)",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Pollution",
+        "text": "Other problems are pollution of soil and water from fertiliser/pesticide use, [83] and emission of ambient air pollutants, mainly from open field burning of residues. [84] The traditional use of wood in cook stoves and open fires produces pollutants, which can lead to severe health and environmental consequences. However, a shift to modern bioenergy contribute to improved livelihoods and can reduce land degradation and impacts on ecosystem services . [62] : 375 According to the IPCC, there is strong evidence that modern bioenergy have \"large positive impacts\" on air quality. [85] Traditional bioenergy is inefficient and the phasing out of this energy source has both large health benefits and large economic benefits. [31] When combusted in industrial facilities, most of the pollutants originating from woody biomass reduce by 97-99%, compared to open burning. [86] Combustion of woody biomass produces lower amounts of particulate matter than coal for the same amount of electricity generated. [87]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Montana_16_bg_062406.jpg/225px-Montana_16_bg_062406.jpg",
+                "caption": "Simple traditional use of biomass for cooking or heating (combustion of wood logs)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biomass_(energy)",
+        "title": "Biomass (energy)",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Input materials",
+        "text": "Wood and wood residues is the largest biomass energy source today. Wood can be used as a fuel directly or processed into pellet fuel or other forms of fuels. Other plants can also be used as fuel, for instance maize , switchgrass , miscanthus and bamboo . [9] The main waste feedstocks are wood waste, agricultural waste , municipal solid waste , and manufacturing waste . Upgrading raw biomass to higher grade fuels can be achieved by different methods, broadly classified as thermal, chemical, or biochemical: Thermal conversion processes use heat as the dominant mechanism to upgrade biomass into a better and more practical fuel. The basic alternatives are torrefaction , pyrolysis , and gasification , these are separated mainly by the extent to which the chemical reactions involved are allowed to proceed (mainly controlled by the availability of oxygen and conversion temperature). [10] Many chemical conversions are based on established coal-based processes, such as the Fischer-Tropsch synthesis . [11] Like coal, biomass can be converted into multiple commodity chemicals. [12] Biochemical processes have developed in nature to break down the molecules of which biomass is composed, and many of these can be harnessed. In most cases, microorganisms are used to perform the conversion. The processes are called anaerobic digestion , fermentation , and composting . [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Steven%27s_Croft_Biomass_Plant_-_geograph.org.uk_-_800207.jpg/220px-Steven%27s_Croft_Biomass_Plant_-_geograph.org.uk_-_800207.jpg",
+                "caption": "Biomass plant in Scotland."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Bioenergy",
+        "title": "Bioenergy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Negative emission",
+        "text": "The main appeal of BECCS is in its ability to result in negative emissions of CO 2 . The capture of carbon dioxide from bioenergy sources effectively removes CO 2 from the atmosphere. [8] [9] Bioenergy is derived from biomass which is a renewable energy source and serves as a carbon sink during its growth. During industrial processes, the biomass combusted or processed re-releases the CO 2 into the atmosphere. Carbon capture and storage (CCS) technology serves to intercept the release of CO 2 into the atmosphere and redirect it into geological storage locations, [10] [11] or concrete. [12] [13] The process thus results in a net zero emission of CO 2 , though this may be positively or negatively altered depending on the carbon emissions associated with biomass growth, transport and processing, see below under environmental considerations. [14] CO 2 with a biomass origin is not only released from biomass fuelled power plants, but also during the production of pulp used to make paper and in the production of biofuels such as biogas and bioethanol . The BECCS technology can also be employed on industrial processes such as these [15] and making cement. [16] BECCS technologies trap carbon dioxide in geologic formations in a semi-permanent way, whereas a tree stores its carbon only during its lifetime. In 2005 it was estimated that more than 99% of carbon dioxide stored through geologic sequestration is likely to stay in place for more than 1000 years. [17] In 2005, the IPCC estimated that BECCS technology would provide a \"better permanence\" by storing CO 2 in geological formations underground, relative to other types of carbon sinks. Carbon sinks such as the ocean, trees, and soil involve a risk of adverse climate change feedback at increased temperatures. [18] [17] Industrial processes have released too much CO 2 to be absorbed by conventional sinks such as trees and soil to reach low emission targets. [19] In addition to the presently accumulated emissions, there will be significant additional emissions during this century, even in the most ambitious low-emission scenarios. BECCS has therefore been suggested as a technology to reverse the emission trend and create a global system of net negative emissions. [1] [20] [19] [21] [22] This implies that the emissions would not only be zero, but negative, so that not only the emissions, but the absolute amount of CO 2 in the atmosphere would be reduced.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Carbon_flow.jpg/400px-Carbon_flow.jpg",
+                "caption": "Carbon flow schematic for different energy systems."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Bioenergy_with_carbon_capture_and_storage",
+        "title": "Bioenergy with carbon capture and storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Oxy-combustion",
+        "text": "Oxy‐fuel combustion has been a common process in the glass, cement and steel industries. It is also a promising technological approach for CCS. In oxy‐fuel combustion, the main difference from conventional air firing is that the fuel is burned in a mixture of O 2 and recycled flue gas. The O 2 is produced by an air separation unit (ASU), which removes the atmospheric N 2 from the oxidizer stream. By removing the N 2 upstream of the process, a flue gas with a high concentration of CO 2 and water vapor is produced, which eliminates the need for a post‐combustion capture plant. The water vapor can be removed by condensation, leaving a product stream of relatively high‐purity CO 2 which, after subsequent purification and dehydration, can be pumped to a geological storage site. [27] Key challenges of BECCS implementation using oxy-combustion are associated with the combustion process. For the high volatile content biomass, the mill temperature has to be kept at a low temperature to reduce the risk of fire and explosion. In addition, the flame temperature is lower. Therefore, the concentration of oxygen needs to be increased up to 27-30%. [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Oxy-combust_BECCS.jpg/395px-Oxy-combust_BECCS.jpg",
+                "caption": "Overview of oxy‐fuel combustion for carbon capture from biomass, showing the key processes and stages; some purification is also likely to be required at the dehydration stage. [27]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Bioenergy_with_carbon_capture_and_storage",
+        "title": "Bioenergy with carbon capture and storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Role in addressing climate change",
+        "text": "As part of the global effort to limit climate change , most countries have committed to net zero greenhouse gas emissions . [26] In practice, this means phasing out fossil fuels and replacing them with low-emissions energy sources. [12] At the 2023 United Nations Climate Change Conference , around three-quarters of the world's countries set a goal of tripling renewable energy capacity by 2030. [27] The European Union aims to generate 40% of its electricity from renewables by the same year. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2021_Death_rates%2C_by_energy_source.svg/300px-2021_Death_rates%2C_by_energy_source.svg.png",
+                "caption": "Deaths caused as a result of fossil fuel use (areas of rectangles in chart) greatly exceed those resulting from production of renewable energy (rectangles barely visible in chart). [25]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Intermittency",
+        "text": "The two most important forms of renewable energy, solar and wind, are intermittent energy sources : they are not available constantly, resulting in lower capacity factors . In contrast, fossil fuel power plants are usually able to produce precisely the amount of energy an electricity grid requires at a given time. Solar energy can only be captured during the day, and ideally in cloudless conditions. Wind power generation can vary significantly not only day-to-day, but even month-to-month. [31] This poses a challenge when transitioning away from fossil fuels: energy demand will often be higher or lower than what renewables can provide. [32] Both scenarios can cause electricity grids to become overloaded, leading to power outages . In the medium-term, this variability may require keeping some gas-fired power plants or other dispatchable generation on standby [33] [34] until there is enough energy storage, demand response , grid improvement, and/or baseload power from non-intermittent sources. In the long-term, energy storage is an important way of dealing with intermittency. [35] Using diversified renewable energy sources and smart grids can also help flatten supply and demand. [36] Sector coupling of the power generation sector with other sectors may increase flexibility: for example the transport sector can be coupled by charging electric vehicles and sending electricity from vehicle to grid . [37] Similarly the industry sector can be coupled by hydrogen produced by electrolysis, [38] and the buildings sector by thermal energy storage for space heating and cooling. [39] Building overcapacity for wind and solar generation can help ensure sufficient electricity production even during poor weather. In optimal weather, it may be necessary to curtail energy generation if it is not possible to use or store excess electricity. [40]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Renewables_need_flexible_backup_not_baseload.png/300px-Renewables_need_flexible_backup_not_baseload.png",
+                "caption": "Estimated power demand over a week in May 2012 and May 2020, Germany, showing the variability in solar and wind power both day-to-day and month-to-month."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Solar energy",
+        "text": "Solar power produced around 1.3 terrawatt-hours (TWh) worldwide in 2022, [10] representing 4.6% of the world's electricity. Almost all of this growth has happened since 2010. [52] Solar energy can be harnessed anywhere that receives sunlight; however, the amount of solar energy that can be harnessed for electricity generation is influenced by weather conditions , geographic location and time of day. [53] There are two mainstream ways of harnessing solar energy: solar thermal , which converts solar energy into heat; and photovoltaics (PV), which converts it into electricity. [12] PV is far more widespread, accounting for around two thirds of the global solar energy capacity as of 2022. [54] It is also growing at a much faster rate, with 170 GW newly installed capacity in 2021, [55] compared to 25 GW of solar thermal. [54] Passive solar refers to a range of construction strategies and technologies that aim to optimize the distribution of solar heat in a building. Examples include solar chimneys , [12] orienting a building to the sun, using construction materials that can store heat , and designing spaces that naturally circulate air . [56] From 2020 to 2022, solar technology investments almost doubled from USD 162 billion to USD 308 billion, driven by the sector's increasing maturity and cost reductions, particularly in solar photovoltaic (PV), which accounted for 90% of total investments. China and the United States were the main recipients, collectively making up about half of all solar investments since 2013. Despite reductions in Japan and India due to policy changes and COVID-19 , growth in China, the United States, and a significant increase from Vietnam's feed-in tariff program offset these declines. Globally, the solar sector added 714 gigawatts (GW) of solar PV and concentrated solar power (CSP) capacity between 2013 and 2021, with a notable rise in large-scale solar heating installations in 2021, especially in China, Europe, Turkey, and Mexico. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/SolarFachwerkhaus.jpg/220px-SolarFachwerkhaus.jpg",
+                "caption": "A small, roof-top mounted PV system in Bonn , Germany"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Mount_Komekura_Photovoltaic_power_plant_Jan2012.JPG/220px-Mount_Komekura_Photovoltaic_power_plant_Jan2012.JPG",
+                "caption": "Komekurayama photovoltaic power station in Kofu , Japan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Photovoltaics",
+        "text": "A photovoltaic system , consisting of solar cells assembled into panels , converts light into electrical direct current via the photoelectric effect . [60] PV has several advantages that make it by far the fastest-growing renewable energy technology. It is cheap, low-maintenance and scalable; adding to an existing PV installation as demanded arises is simple. Its main disadvantage is its poor performance in cloudy weather. [12] PV systems range from small, residential and commercial rooftop or building integrated installations, to large utility-scale photovoltaic power station . [61] A household's solar panels can either be used for just that household or, if connected to an electrical grid, can be aggregated with millions of others. [62] The first utility-scale solar power plant was built in 1982 in Hesperia, California by ARCO . [63] The plant was not profitable and was sold eight years later. [64] However, over the following decades, PV cells became significantly more efficient and cheaper. [65] As a result, PV adoption has grown exponentially since 2010. [66] Global capacity increased from 230 GW at the end of 2015 to 890 GW in 2021. [67] PV grew fastest in China between 2016 and 2021, adding 560 GW, more than all advanced economies combined. [68] Four of the ten biggest solar power stations are in China, including the biggest, Golmud Solar Park in China. [69]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg/220px-1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg.png",
+                "caption": "Swanson's law –stating that solar module prices have dropped about 20% for each doubling of installed capacity—defines the \" learning rate \" of solar photovoltaics . [58] [59]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Wind power",
+        "text": "Humans have harnessed wind energy since at least 3500 BC. Until the 20th century, it was primarily used to power ships, windmills and water pumps. Today, the vast majority of wind power is used to generate electricity using wind turbines. [12] Modern utility-scale wind turbines range from around 600 kW to 9 MW of rated power. The power available from the wind is a function of the cube of the wind speed, so as wind speed increases, power output increases up to the maximum output for the particular turbine. [76] Areas where winds are stronger and more constant, such as offshore and high-altitude sites, are preferred locations for wind farms. Wind-generated electricity met nearly 4% of global electricity demand in 2015, with nearly 63 GW of new wind power capacity installed. Wind energy was the leading source of new capacity in Europe, the US and Canada, and the second largest in China. In Denmark, wind energy met more than 40% of its electricity demand while Ireland, Portugal and Spain each met nearly 20%. [77] Globally, the long-term technical potential of wind energy is believed to be five times total current global energy production, or 40 times current electricity demand, assuming all practical barriers needed were overcome. This would require wind turbines to be installed over large areas, particularly in areas of higher wind resources, such as offshore, and likely also industrial use of new types of VAWT turbines in addition to the horizontal axis units currently in use. As offshore wind speeds average ~90% greater than that of land, offshore resources can contribute substantially more energy than land-stationed turbines. [78] Investments in wind technologies reached USD 161 billion in 2020, with onshore wind dominating at 80% of total investments from 2013 to 2022. Offshore wind investments nearly doubled to USD 41 billion between 2019 and 2020, primarily due to policy incentives in China and expansion in Europe. Global wind capacity increased by 557 GW between 2013 and 2021, with capacity additions increasing by an average of 19% each year. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Pretty_flamingos_-_geograph.org.uk_-_578705.jpg/170px-Pretty_flamingos_-_geograph.org.uk_-_578705.jpg",
+                "caption": "Burbo , NW-England"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fentonwindpark1.jpg/220px-Fentonwindpark1.jpg",
+                "caption": "Sunrise at the Fenton Wind Farm in Minnesota, United States"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wind_energy_generation_by_region%2C_OWID.svg/300px-Wind_energy_generation_by_region%2C_OWID.svg.png",
+                "caption": "Wind energy generation by region over time [72]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Hydropower",
+        "text": "Since water is about 800 times denser than air , even a slow flowing stream of water, or moderate sea swell , can yield considerable amounts of energy. Water can generate electricity with a conversion efficiency of about 90%, which is the highest rate in renewable energy. [82] There are many forms of water energy: Much hydropower is flexible, thus complementing wind and solar. [86] In 2021, the world renewable hydropower capacity was 1,360 GW. [68] Only a third of the world's estimated hydroelectric potential of 14,000 TWh/year has been developed. [87] [88] New hydropower projects face opposition from local communities due to their large impact, including relocation of communities and flooding of wildlife habitats and farming land. [89] High cost and lead times from permission process, including environmental and risk assessments, with lack of environmental and social acceptance are therefore the primary challenges for new developments. [90] It is popular to repower old dams thereby increasing their efficiency and capacity as well as quicker responsiveness on the grid. [91] Where circumstances permit existing dams such as the Russell Dam built in 1985 may be updated with \"pump back\" facilities for pumped-storage which is useful for peak loads or to support intermittent wind and solar power. Because dispatchable power is more valuable than VRE [92] [93] countries with large hydroelectric developments such as Canada and Norway are spending billions to expand their grids to trade with neighboring countries having limited hydro. [94]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/220px-ThreeGorgesDam-China2009.jpg",
+                "caption": "The Three Gorges Dam for hydropower on the Yangtze River in China"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Three_gorges_dam_from_space.jpg/220px-Three_gorges_dam_from_space.jpg",
+                "caption": "Three Gorges Dam and Gezhouba Dam , China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Bioenergy",
+        "text": "Biomass is biological material derived from living, or recently living organisms. Most commonly, it refers to plants or plant-derived materials. As an energy source, biomass can either be used directly via combustion to produce heat, or converted to a more energy-dense biofuel like ethanol. Wood is the most significant biomass energy source as of 2012 [98] and is usually sourced from a trees cleared for silvicultural reasons or fire prevention . Municipal wood waste – for instance, construction materials or sawdust – is also often burned for energy. [99] The biggest per-capita producers of wood-based bioenergy are heavily forested countries like Finland, Sweden, Estonia, Austria, and Denmark. [100] Bioenergy can be environmentally destructive if old-growth forests are cleared to make way for crop production. In particular, demand for palm oil to produce biodiesel has contributed to the deforestation of tropical rainforests in Brazil and Indonesia. [101] In addition, burning biomass still produces carbon emissions, although much less than fossil fuels (39 grams of CO 2 per megajoule of energy, compared to 75 g/MJ for fossil fuels). [102]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Metz_biomass_power_station.jpg/220px-Metz_biomass_power_station.jpg",
+                "caption": "A CHP power station using wood to supply 30,000 households in France"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Biofuel",
+        "text": "Biofuels are primarily used in transportation, providing 3.5% of the world's transport energy demand in 2022, [103] up from 2.7% in 2010. [104] Biojet is expected to be important for short-term reduction of carbon dioxide emissions from long-haul flights. [105] Aside from wood, the major sources of bioenergy are bioethanol and biodiesel . [12] Bioethanol is usually produced by fermenting the sugar components of crops like sugarcane and maize , while biodiesel is mostly made from oils extracted from plants, such as soybean oil and corn oil . [106] Most of the crops used to produce bioethanol and biodiesel are grown specifically for this purpose, [107] although used cooking oil accounted for 14% of the oil used to produce biodiesel as of 2015. [106] The biomass used to produce biofuels varies by region. Maize is the major feedstock in the United States, while sugarcane dominates in Brazil. [108] In the European Union, where biodiesel is more common than bioethanol, rapeseed oil and palm oil are the main feedstocks. [109] China, although it produces comparatively much less biofuel, uses mostly corn and wheat. [110] In many countries, biofuels are either subsidized or mandated to be included in fuel mixtures . [101] There are many other sources of bioenergy that are more niche, or not yet viable at large scales. For instance, bioethanol could be produced from the cellulosic parts of crops, rather than only the seed as is common today. [111] Sweet sorghum may be a promising alternative source of bioethanol, due to its tolerance of a wide range of climates. [112] Cow dung can be converted into methane. [113] There is also a great deal of research involving algal fuel , which is attractive because algae is a non-food resource, grows around 20 times faster than most food crops, and can be grown almost anywhere. [114]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Faz_S_Sofia_canavial_090607_REFON.JPG/220px-Faz_S_Sofia_canavial_090607_REFON.JPG",
+                "caption": "Sugarcane plantation to produce ethanol in Brazil"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Soybeanbus.jpg/220px-Soybeanbus.jpg",
+                "caption": "A bus fueled by biodiesel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Geothermal energy",
+        "text": "Geothermal energy is thermal energy (heat) extracted from the Earth's crust . It originates from several different sources , of which the most significant is slow radioactive decay of minerals contained in the Earth's interior , [12] as well as some leftover heat from the formation of the Earth . [119] Some of the heat is generated near the Earth's surface in the crust, but some also flows from deep within the Earth from the mantle and core . [119] Geothermal energy extraction is viable mostly in countries located on tectonic plate edges, where the Earth's hot mantle is more exposed. [120] As of 2023, the United States has by far the most geothermal capacity (2.7 GW, [121] or less than 0.2% of the country's total energy capacity [122] ), followed by Indonesia and the Philippines. Global capacity in 2022 was 15 GW. [121] Geothermal energy can be either used directly to heat homes, as is common in Iceland, or to generate electricity. At smaller scales, geothermal power can be generated with geothermal heat pumps , which can extract heat from ground temperatures of under 30 °C (86 °F), allowing them to be used at relatively shallow depths of a few meters. [120] Electricity generation requires large plants and ground temperatures of at least 150 °C (302 °F). In some countries, electricity produced from geothermal energy accounts for a large portion of the total, such as Kenya (43%) and Indonesia (5%). [123] Technical advances may eventually make geothermal power more widely available. For example, enhanced geothermal systems involve drilling around 10 kilometres (6.2 mi) into the Earth, breaking apart hot rocks and extracting the heat using water. In theory, this type of geothermal energy extraction could be done anywhere on Earth. [120]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/220px-NesjavellirPowerPlant_edit2.jpg",
+                "caption": "Steam rising from the Nesjavellir Geothermal Power Station in Iceland"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/West_Ford_Flat_Geothermal_Cooling_Tower.JPG/170px-West_Ford_Flat_Geothermal_Cooling_Tower.JPG",
+                "caption": "Geothermal plant at The Geysers , California, US"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Krafla_geothermal_power_station_wiki.jpg/220px-Krafla_geothermal_power_station_wiki.jpg",
+                "caption": "Krafla , a geothermal power station in Iceland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Marine energy",
+        "text": "Marine energy (also sometimes referred to as ocean energy) is the energy carried by ocean waves , tides , salinity , and ocean temperature differences . Technologies to harness the energy of moving water include wave power , marine current power , and tidal power . Reverse electrodialysis (RED) is a technology for generating electricity by mixing fresh water and salty sea water in large power cells. [130] Most marine energy harvesting technologies are still at low technology readiness levels and not used at large scales. Tidal energy is generally considered the most mature, but has not seen wide deployment. [131] The world's largest tidal power station is on Sihwa Lake , South Korea, [132] which produces around 550 gigawatt-hours of electricity per year. [133]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sihwa_Lake_Tidal_Power_Station_aerial_view.jpg/220px-Sihwa_Lake_Tidal_Power_Station_aerial_view.jpg",
+                "caption": "Aerial view of Sihwa Tidal Power Station in South Korea"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Growth of renewables",
+        "text": "The results of a recent review of the literature concluded that as greenhouse gas (GHG) emitters begin to be held liable for damages resulting from GHG emissions resulting in climate change, a high value for liability mitigation would provide powerful incentives for deployment of renewable energy technologies. [181] In the decade of 2010–2019, worldwide investment in renewable energy capacity excluding large hydropower amounted to US$2.7 trillion, of which the top countries China contributed US$818 billion, the United States contributed US$392.3 billion, Japan contributed US$210.9 billion, Germany contributed US$183.4 billion, and the United Kingdom contributed US$126.5 billion. [182] This was an increase of over three and possibly four times the equivalent amount invested in the decade of 2000–2009 (no data is available for 2000–2003). [182] As of 2022, an estimated 28% of the world's electricity was generated by renewables. This is up from 19% in 1990. [183]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20210119_Renewable_energy_investment_-_2004-_BloombergNEF.svg/232px-20210119_Renewable_energy_investment_-_2004-_BloombergNEF.svg.png",
+                "caption": "Investment: Companies, governments and households have committed increasing amounts to decarbonization, including renewable energy (solar, wind), electric vehicles and associated charging infrastructure, energy storage, energy-efficient heating systems, carbon capture and storage, and hydrogen. [171] [172]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20201019_Levelized_Cost_of_Energy_%28LCOE%2C_Lazard%29_-_renewable_energy.svg/232px-20201019_Levelized_Cost_of_Energy_%28LCOE%2C_Lazard%29_-_renewable_energy.svg.png",
+                "caption": "Levelized cost: With increasingly widespread implementation of renewable energy sources, costs have declined, most notably for energy generated by solar panels. [175] [176] Levelized cost of energy (LCOE) is a measure of the average net present cost of electricity generation for a generating plant over its lifetime."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Future projections",
+        "text": "A December 2022 report by the IEA forecasts that over 2022-2027, renewables are seen growing by almost 2 400 GW in its main forecast, equal to the entire installed power capacity of China in 2021. This is an 85% acceleration from the previous five years, and almost 30% higher than what the IEA forecast in its 2021 report, making its largest ever upward revision. Renewables are set to account for over 90% of global electricity capacity expansion over the forecast period. [68] To achieve net zero emissions by 2050, IEA believes that 90% of global electricity generation will need to be produced from renewable sources. [17] In June 2022 IEA Executive Director Fatih Birol said that countries should invest more in renewables to \"ease the pressure on consumers from high fossil fuel prices, make our energy systems more secure, and get the world on track to reach our climate goals.\" [185] China's five year plan to 2025 includes increasing direct heating by renewables such as geothermal and solar thermal. [186] REPowerEU , the EU plan to escape dependence on fossil Russian gas , is expected to call for much more green hydrogen . [187] After a transitional period, [188] renewable energy production is expected to make up most of the world's energy production. In 2018, the risk management firm, DNV GL , forecasts that the world's primary energy mix will be split equally between fossil and non-fossil sources by 2050. [189]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2010-_Fossil_fuels_vs_Wind_%2B_Solar_-_electricity_generation.svg/220px-2010-_Fossil_fuels_vs_Wind_%2B_Solar_-_electricity_generation.svg.png",
+                "caption": "In 2023, electricity generation from wind and solar sources was projected to exceed 30% by 2030. [184]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Policy",
+        "text": "Policies to support renewable energy have been vital in their expansion. Where Europe dominated in establishing energy policy in the early 2000s, most countries around the world now have some form of energy policy. [199] The International Renewable Energy Agency (IRENA) is an intergovernmental organization for promoting the adoption of renewable energy worldwide. It aims to provide concrete policy advice and facilitate capacity building and technology transfer. IRENA was formed in 2009, with 75 countries signing the charter of IRENA. [200] As of April 2019, IRENA has 160 member states. [201] The then United Nations Secretary-General Ban Ki-moon has said that renewable energy can lift the poorest nations to new levels of prosperity, [202] and in September 2011 he launched the UN Sustainable Energy for All initiative to improve energy access, efficiency and the deployment of renewable energy. [203] The 2015 Paris Agreement on climate change motivated many countries to develop or improve renewable energy policies. [204] In 2017, a total of 121 countries adopted some form of renewable energy policy. [199] National targets that year existed in 176 countries. [204] In addition, there is also a wide range of policies at the state/provincial, and local levels. [104] Some public utilities help plan or install residential energy upgrades . Many national, state and local governments have created green banks . A green bank is a quasi-public financial institution that uses public capital to leverage private investment in clean energy technologies. [205] Green banks use a variety of financial tools to bridge market gaps that hinder the deployment of clean energy. Climate neutrality by the year 2050 is the main goal of the European Green Deal . [206] For the European Union to reach their target of climate neutrality, one goal is to decarbonise its energy system by aiming to achieve \"net-zero greenhouse gas emissions by 2050.\" [207]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Share_of_electricity_production_from_renewables.svg/330px-Share_of_electricity_production_from_renewables.svg.png",
+                "caption": "Share of electricity production from renewables, 2022 [8]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Geopolitics",
+        "text": "The geopolitical impact of the growing use of renewable energy is a subject of ongoing debate and research. [219] Many fossil-fuel producing countries, such as Qatar , Russia , Saudi Arabia and Norway , are currently able to exert diplomatic or geopolitical influence as a result of their oil wealth. Most of these countries are expected to be among the geopolitical \"losers\" of the energy transition, although some, like Norway, are also significant producers and exporters of renewable energy. Fossil fuels and the infrastructure to extract them may, in the long term, become stranded assets . [220] It has been speculated that countries dependent on fossil fuel revenue may one day find it in their interests to quickly sell off their remaining fossil fuels. [221] Conversely, nations abundant in renewable resources, and the minerals required for renewables technology, are expected to gain influence. [222] [223] In particular, China has become the world's dominant manufacturer of the technology needed to produce or store renewable energy, especially solar panels , wind turbines , and lithium-ion batteries . [224] Nations rich in solar and wind energy could become major energy exporters. [225] Some may produce and export green hydrogen , [226] [225] although electricity is projected to be the dominant energy carrier in 2050, accounting for almost 50% of total energy consumption (up from 22% in 2015). [227] Countries with large uninhabited areas such as Australia, China, and many African and Middle Eastern countries have a potential for huge installations of renewable energy. The production of renewable energy technologies requires rare-earth elements with new supply chains. [228] Countries with already weak governments that rely on fossil fuel revenue may face even higher political instability or popular unrest. Analysts consider Nigeria, Angola , Chad , Gabon , and Sudan , all countries with a history of military coups , to be at risk of instability due to dwindling oil income. [229] A study found that transition from fossil fuels to renewable energy systems reduces risks from mining, trade and political dependence because renewable energy systems don't need fuel – they depend on trade only for the acquisition of materials and components during construction. [230] In October 2021, European Commissioner for Climate Action Frans Timmermans suggested \"the best answer\" to the 2021 global energy crisis is \"to reduce our reliance on fossil fuels.\" [231] He said those blaming the European Green Deal were doing so \"for perhaps ideological reasons or sometimes economic reasons in protecting their vested interests.\" [231] Some critics blamed the European Union Emissions Trading System (EU ETS) and closure of nuclear plants for contributing to the energy crisis. [232] [233] [234] European Commission President Ursula von der Leyen said that Europe is \"too reliant\" on natural gas and too dependent on natural gas imports . According to Von der Leyen, \"The answer has to do with diversifying our suppliers ... and, crucially, with speeding up the transition to clean energy.\" [235]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TREC-Map-en.jpg/220px-TREC-Map-en.jpg",
+                "caption": "A concept of a super grid"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Public support",
+        "text": "Solar power plants may compete with arable land , [254] [255] while on-shore wind farms often face opposition due to aesthetic concerns and noise. [256] [257] Such opponents are often described as NIMBYs (\"not in my back yard\"). [258] Some environmentalists are concerned about fatal collisions of birds and bats with wind turbines. [259] Although protests against new wind farms occasionally occur around the world, regional and national surveys generally find broad support for both solar and wind power. [260] [261] [262] Community-owned wind energy is sometimes proposed as a way to increase local support for wind farms. [263] A 2011 UK Government document stated that \"projects are generally more likely to succeed if they have broad public support and the consent of local communities. This means giving communities both a say and a stake.\" [264] In the 2000s and early 2010s, many renewable projects in Germany, Sweden and Denmark were owned by local communities, particularly through cooperative structures. [265] [266] In the years since, more installations in Germany have been undertaken by large companies, [263] but community ownership remains strong in Denmark. [267]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg/220px-202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg.png",
+                "caption": "Acceptance of wind and solar facilities in one's community is stronger among U.S. Democrats (blue), while acceptance of nuclear power plants is stronger among U.S. Republicans (red). [253]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Overview",
+        "text": "Molecular hydrogen was discovered in the Kola Superdeep Borehole . It is unclear how much molecular hydrogen is available in natural reservoirs, but at least one company [14] specializes in drilling wells to extract hydrogen. Most hydrogen in the lithosphere is bonded to oxygen in water. Manufacturing elemental hydrogen requires the consumption of a hydrogen carrier such as a fossil fuel or water. The former carrier consumes the fossil resource and in the steam methane reforming (SMR) process produces greenhouse gas carbon dioxide. However, in the newer methane pyrolysis process no greenhouse gas carbon dioxide is produced. These processes typically require no further energy input beyond the fossil fuel. Decomposing water, the latter carrier, requires electrical or heat input, generated from some primary energy source (fossil fuel, nuclear power or a renewable energy ). Hydrogen produced by electrolysis of water using renewable energy sources such as wind and solar power , referred to as green hydrogen . [15] When derived from natural gas by zero greenhouse emission methane pyrolysis, it is referred to as turquoise hydrogen. [16] When fossil fuel derived with greenhouse gas emissions , is generally referred to as grey hydrogen . If most of the carbon dioxide emission is captured, it is referred to as blue hydrogen. [17] Hydrogen produced from coal may be referred to as brown or black hydrogen. [18]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/SMR%2BWGS-1.png/220px-SMR%2BWGS-1.png",
+                "caption": "Illustrating inputs and outputs of steam reforming of natural gas, a process to produce hydrogen. As of 2020 [update] , the carbon sequestrastion step is not in commercial use."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Steam reforming – gray or blue",
+        "text": "Hydrogen is industrially produced from steam reforming (SMR), which uses natural gas. [29] The energy content of the produced hydrogen is around 74% of the energy content of the original fuel, [30] as some energy is lost as excess heat during production. In general, steam reforming emits carbon dioxide, a greenhouse gas, and is known as gray hydrogen. If the carbon dioxide is  captured and stored, the hydrogen produced is known as blue hydrogen. Steam methane reforming (SMR) produces hydrogen from natural gas, mostly methane (CH 4 ), and water. It is the cheapest source of industrial hydrogen, being the source of nearly 50% of the world's hydrogen. [31] The process consists of heating the gas to 700–1,100 °C (1,300–2,000 °F) in the presence of steam over a nickel catalyst . The resulting endothermic reaction forms carbon monoxide and molecular hydrogen (H 2 ). [32] In the water-gas shift reaction , the carbon monoxide reacts with steam  to obtain further quantities of H 2 .  The WGSR also requires a catalyst, typically over iron oxide or other oxides . The byproduct is CO 2 . [32] Depending on the quality of the feedstock (natural gas, naphtha , etc.), one ton of hydrogen produced will also produce 9 to 12 tons of CO 2 , a greenhouse gas that may be captured . [33] For this process, high temperature steam (H 2 O) reacts with methane (CH 4 ) in an endothermic reaction to yield syngas . [34] In a second stage, additional hydrogen is generated through the lower-temperature, exothermic , water-gas shift reaction, performed at about 360 °C (680 °F): Essentially, the oxygen (O) atom is stripped from the additional water (steam) to oxidize CO to CO 2 . This oxidation also provides energy to maintain the reaction.  Additional heat required to drive the process is generally supplied by burning some portion of the methane.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/SMR%2BWGS-1.png/390px-SMR%2BWGS-1.png",
+                "caption": "Illustrating inputs and outputs of steam reforming of natural gas, a process to produce hydrogen and CO 2 greenhouse gas that may be captured with CCS"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Electrolysis of water – green, pink or yellow",
+        "text": "Hydrogen can be made via high pressure electrolysis , low pressure electrolysis of water, or a range of other emerging electrochemical processes such as high temperature electrolysis or carbon assisted electrolysis. [35] However, current best processes for water electrolysis have an effective electrical efficiency of 70-80%, [36] [37] [38] so that producing 1 kg of hydrogen (which has a specific energy of 143 MJ/kg or about 40 kWh/kg) requires 50–55 kWh of electricity. In parts of the world, steam methane reforming is between $1–3/kg on average excluding hydrogen gas pressurization cost. This makes production of hydrogen via electrolysis cost competitive in many regions already, as outlined by Nel Hydrogen [39] and others, including an article by the IEA [40] examining the conditions which could lead to a competitive advantage for electrolysis. A small part (2% in 2019 [41] ) is produced by electrolysis using electricity and water, consuming approximately 50 to 55 kilowatt-hours of electricity per kilogram of hydrogen produced. [42] Water electrolysis is using electricity to split water into hydrogen and oxygen. \nAs of 2020, less than 0.1% of hydrogen production comes from water electrolysis. [43] Electrolysis of water is 70–80% efficient (a 20–30% conversion loss) [44] [45] while steam reforming of natural gas has a thermal efficiency between 70 and 85%. [46] The electrical efficiency of electrolysis is expected to reach 82–86% [47] before 2030, while also maintaining durability as progress in this area continues apace. [48] Water electrolysis can operate at 50–80 °C (120–180 °F), while steam methane reforming requires temperatures at 700–1,100 °C (1,300–2,000 °F). [49] The difference between the two methods is the primary energy used; either electricity (for electrolysis) or natural gas (for steam methane reforming).  Due to their use of water, a readily available resource, electrolysis and similar water-splitting methods have attracted the interest of the scientific community. With the objective of reducing the cost of hydrogen production, renewable sources of energy have been targeted to allow electrolysis. [50] There are three main types of electrolytic cells , solid oxide electrolyser cells (SOECs), polymer electrolyte membrane cells (PEM) and alkaline electrolysis cells (AECs). [51] Traditionally, alkaline electrolysers are cheaper in terms of investment (they generally use nickel catalysts), but less-efficient; PEM electrolysers, conversely, are more expensive (they generally use expensive platinum group metal catalysts) but are more efficient and can operate at higher current densities , and can therefore be possibly cheaper if the hydrogen production is large enough. [52] SOECs operate at high temperatures, typically around 800 °C (1,500 °F). At these high temperatures, a significant amount of the energy required can be provided as thermal energy (heat), and as such is termed high-temperature electrolysis . The heat energy can be provided from a number of different sources, including waste industrial heat, nuclear power stations or concentrated solar thermal plants . This has the potential to reduce the overall cost of the hydrogen produced by reducing the amount of electrical energy required for electrolysis. [53] [54] [55] [56] PEM electrolysis cells typically operate below 100 °C (212 °F). [53] These cells have the advantage of being comparatively simple and can be designed to accept widely varying voltage inputs, which makes them ideal for use with renewable sources of energy such as photovoltaic solar panels . [57] AECs optimally operate at high concentrations of electrolyte (KOH or potassium carbonate ) and at high temperatures, often near 200 °C (392 °F).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hydrogen_production_via_Electrolysis.png/300px-Hydrogen_production_via_Electrolysis.png",
+                "caption": "Illustrating inputs and outputs of electrolysis of water, for production of hydrogen and no greenhouse gas"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Industrial output and efficiency",
+        "text": "Efficiency of modern hydrogen generators is measured by energy consumed per standard volume of hydrogen (MJ/m 3 ), assuming standard temperature and pressure of the H 2 . The lower the energy used by a generator, the higher would be its efficiency; a 100%-efficient electrolyser would consume 39.4 kilowatt-hours per kilogram (142 MJ/kg) of hydrogen, [58] 12,749 joules per litre (12.75 MJ/m 3 ).  Practical electrolysis typically uses a rotating electrolyser, where centrifugal force helps separate gas bubbles from water. [59] Such an electrolyser at 15 bar pressure may consume 50 kilowatt-hours per kilogram (180 MJ/kg), and a further 15 kilowatt-hours (54 MJ) if the hydrogen is compressed for use in hydrogen cars. [60] Conventional alkaline electrolysis has an efficiency of about 70%, [61] however advanced alkaline water electrolysers with efficiency of up to 82% are available. [62] Accounting for the use of the higher heat value (because inefficiency via heat can be redirected back into the system to create the steam required by the catalyst), average working efficiencies for PEM electrolysis are around 80%, or 82% using the most modern alkaline electrolysers. [63] PEM efficiency is expected to increase to approximately 86% [64] before 2030. Theoretical efficiency for PEM electrolysers is predicted up to 94%. [65] As of 2020, the cost of hydrogen by electrolysis is around $3–8/kg. [66] Considering the industrial production of hydrogen, and using current best processes for water electrolysis (PEM or alkaline electrolysis) which have an effective electrical efficiency of 70–82%, [67] [68] [69] producing 1 kg of hydrogen (which has a specific energy of 143 MJ/kg or about 40 kWh/kg) requires 50–55 kWh of electricity. At an electricity cost of $0.06/kWh, as set out in the Department of Energy hydrogen production targets for 2015, [70] the hydrogen cost is $3/kg. The US DOE target price for hydrogen in 2020 is $2.30/kg, requiring an electricity cost of $0.037/kWh, which is achievable given recent PPA tenders for wind and solar in many regions. [71] The report by IRENA.ORG is an extensive factual report of present-day industrial hydrogen production consuming about 53 to 70  kWh per kg could go down to about 45 kWh/kg H 2 . [72] The thermodynamic energy required for hydrogen by electrolysis  translates to 33 kWh/kg, which is higher than steam reforming with carbon capture and higher than methane pyrolysis.\nOne of the advantages of electrolysis over hydrogen from steam methane reforming (SMR) is that the hydrogen can be produced on-site, meaning that the costly process of delivery via truck or pipeline is avoided.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/H2_production_cost_%28%24-gge_untaxed%29_at_varying_natural_gas_prices.jpg/400px-H2_production_cost_%28%24-gge_untaxed%29_at_varying_natural_gas_prices.jpg",
+                "caption": "H 2 production cost ($-gge untaxed) at varying natural gas prices"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Photobiological water splitting",
+        "text": "Biological hydrogen can be produced in an algae bioreactor . [108] In the late 1990s it was discovered that if the algae are deprived of sulfur it will switch from the production of oxygen , i.e. normal photosynthesis , to the production of hydrogen. It seems that the production is now economically feasible by surpassing the 7–10 percent energy efficiency (the conversion of sunlight into hydrogen) barrier. [109] with a hydrogen production rate of 10–12 ml per liter culture per hour. [110]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Algae_hydrogen_production.jpg",
+                "caption": "An algae bioreactor for hydrogen production."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Biocatalysed electrolysis",
+        "text": "Besides dark fermentation, electrohydrogenesis (electrolysis using microbes) is another possibility. Using microbial fuel cells , wastewater or plants can be used to generate power. Biocatalysed electrolysis should not be confused with biological hydrogen production , as the latter only uses algae and with the latter, the algae itself generates the hydrogen instantly, where with biocatalysed electrolysis, this happens after running through the microbial fuel cell and a variety of aquatic plants [123] can be used. These include reed sweetgrass , cordgrass, rice, tomatoes, lupines and algae. [124]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Microbial_electrolysis_cell.png/220px-Microbial_electrolysis_cell.png",
+                "caption": "A microbial electrolysis cell"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Nanogalvanic_powder.jpg/220px-Nanogalvanic_powder.jpg",
+                "caption": "Nano-galvanic aluminum-based powder developed by the U.S. Army Research Laboratory"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Natural hydrogen",
+        "text": "Hydrogen is also present naturally underground. This natural hydrogen , also called white hydrogen or gold hydrogen, can be extracted from wells in a similar manner as fossil fuels such as oil and natural gas. [127] [128] [10] White hydrogen could be found or produced in the Mid-continental Rift System at scale for a renewable hydrogen economy . Water could be pumped down to hot iron-rich rock to extract the hydrogen. [129]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mid-continental_Rift_System.webp/220px-Mid-continental_Rift_System.webp.png",
+                "caption": "Mid-continental Rift System"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Methane pyrolysis – turquoise",
+        "text": "Pyrolysis of methane (natural gas) with a one-step process [130] bubbling methane through a molten metal catalyst is a \"no greenhouse gas\" approach to produce hydrogen that was demonstrated in laboratory conditions in 2017 and now being tested at larger scales. [131] [132] The process is conducted at high temperatures (1065 °C). [133] [134] [135] [136] Producing 1 kg of hydrogen requires about 18 kWh of electricity for process heat. [137] The pyrolysis of methane can be expressed by the following reaction equation. [138] The industrial quality solid carbon may be sold as manufacturing feedstock or landfilled. Methane pyrolysis technologies are in the early development stages as of 2023.  They have numerous obstacles to overcome before commercialization. [139]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Methane_Pyrolysis-1.png/220px-Methane_Pyrolysis-1.png",
+                "caption": "Illustrating inputs and outputs of methane pyrolysis, a process to produce Hydrogen"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    },
+    {
+        "section": "Extraction of naturally-occurring hydrogen – White Hydrogen",
+        "text": "As of 2019 [update] , hydrogen is mainly used as an industrial feedstock, primarily for the production of ammonia and methanol , and in petroleum refining. Although initially hydrogen gas was thought not to occur naturally in convenient reservoirs, it is now demonstrated that this is not the case; a hydrogen system is currently being exploited near Bourakebougou, Koulikoro Region in Mali, producing electricity for the surrounding villages. [163] More discoveries of naturally occurring hydrogen in continental, on-shore geological environments have been made in recent years [164] and open the way to the novel field of natural or native hydrogen, supporting energy transition efforts. [165] [166] White hydrogen could be found or produced in the Mid-continental Rift System at scale for a renewable hydrogen economy.  Water could be pumped down to hot iron-rich rock to produce hydrogen and the hydrogen could be extracted. [167]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mid-continental_Rift_System.webp/220px-Mid-continental_Rift_System.webp.png",
+                "caption": "Mid-continental Rift System"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_production",
+        "title": "Hydrogen production",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Biomass conversion technologies"
+    }
+]

@@ -1,0 +1,1066 @@
+[
+    {
+        "section": "Wind energy resources",
+        "text": "Wind is air movement in the Earth's atmosphere. In a unit of time, say 1 second, the volume of air that had passed an area A {\\displaystyle A} is A v {\\displaystyle Av} . If the air density is ρ {\\displaystyle \\rho } , the mass of this volume of air is M = ρ A v {\\displaystyle M=\\rho Av} , and the power transfer, or energy transfer per second is P = 1 2 M v 2 = 1 2 ρ A v 3 {\\displaystyle P={\\tfrac {1}{2}}Mv^{2}={\\tfrac {1}{2}}\\rho Av^{3}} . Wind power is thus proportional to the third power of the wind speed; the available power increases eightfold when the wind speed doubles. Change of wind speed by a factor of 2.1544 increases the wind power by one order of magnitude (multiply by 10). The global wind kinetic energy averaged approximately 1.50 MJ/m 2 over the period from 1979 to 2010, 1.31 MJ/m 2 in the Northern Hemisphere with 1.70 MJ/m 2 in the Southern Hemisphere. The atmosphere acts as a thermal engine, absorbing heat at higher temperatures, releasing heat at lower temperatures. The process is responsible for the production of wind kinetic energy at a rate of 2.46 W/m 2 thus sustaining the circulation of the atmosphere against friction. [15] Through wind resource assessment , it is possible to estimate wind power potential globally, by country or region, or for a specific site. The Global Wind Atlas provided by the Technical University of Denmark in partnership with the World Bank provides a global assessment of wind power potential. [13] [16] [17] Unlike 'static' wind resource atlases which average estimates of wind speed and power density across multiple years, tools such as Renewables.ninja provide time-varying simulations of wind speed and power output from different wind turbine models at an hourly resolution. [18] More detailed, site-specific assessments of wind resource potential can be obtained from specialist commercial providers, and many of the larger wind developers have in-house modeling capabilities. The total amount of economically extractable power available from the wind is considerably more than present human power use from all sources. [19] The strength of wind varies, and an average value for a given location does not alone indicate the amount of energy a wind turbine could produce there. To assess prospective wind power sites, a probability distribution function is often fit to the observed wind speed data. [20] Different locations will have different wind speed distributions. The Weibull model closely mirrors the actual distribution of hourly/ten-minute wind speeds at many locations. The Weibull factor is often close to 2 and therefore a Rayleigh distribution can be used as a less accurate, but simpler model. [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mean_Wind_Speed.png/220px-Mean_Wind_Speed.png",
+                "caption": "Global map of wind speed at 100 meters on land and around coasts. [13]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Lee_Ranch_Wind_Speed_Frequency.svg/350px-Lee_Ranch_Wind_Speed_Frequency.svg.png",
+                "caption": "Distribution of wind speed (red) and energy (blue) for all of 2002 at the Lee Ranch facility in Colorado. The histogram shows measured data, while the curve is the Rayleigh model distribution for the same average wind speed."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Global_Map_of_Wind_Power_Density_Potential.png/220px-Global_Map_of_Wind_Power_Density_Potential.png",
+                "caption": "Global map of wind power density potential [14]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Offshore wind power",
+        "text": "Offshore wind power is wind farms in large bodies of water, usually the sea. These installations can use the more frequent and powerful winds that are available in these locations and have less visual impact on the landscape than land-based projects. However, the construction and maintenance costs are considerably higher. [36] [37] As of November 2021, the Hornsea Wind Farm in the United Kingdom is the largest offshore wind farm in the world at 1,218 MW . [38]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Agucadoura_WindFloat_Prototype.jpg/225px-Agucadoura_WindFloat_Prototype.jpg",
+                "caption": "The world's second full-scale floating wind turbine (and first to be installed without the use of heavy-lift vessels), WindFloat, operating at rated capacity (2  MW) approximately 5  km offshore of Póvoa de Varzim , Portugal"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Growth trends",
+        "text": "In 2020, wind supplied almost 1600 TWh of electricity, which was over 5% of worldwide electrical generation and about 2% of energy consumption. [2] [3] With over 100 GW added during 2020, mostly in China , global installed wind power capacity reached more than 730 GW. [4] [3] But to help meet the Paris Agreement 's goals to limit climate change , analysts say it should expand much faster - by over 1% of electricity generation per year. [6] Expansion of wind power is being hindered by fossil fuel subsidies . [48] [49] [50] The actual amount of electric power that wind can generate is calculated by multiplying the nameplate capacity by the capacity factor , which varies according to equipment and location. Estimates of the capacity factors for wind installations are in the range of 35% to 44%. [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2010-_Power_capacity_by_technology_-_Dec_2022_International_Energy_Agency.svg/210px-2010-_Power_capacity_by_technology_-_Dec_2022_International_Energy_Agency.svg.png",
+                "caption": "Renewable energy sources, especially solar photovoltaic and wind power, are providing an increasing share of power capacity. [45]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png",
+                "caption": "Log graph of global wind power cumulative capacity (Data:GWEC) [47]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Penetration",
+        "text": "Wind energy penetration is the fraction of energy produced by wind compared with the total generation. Wind power's share of worldwide electricity usage in 2021 was almost 7%, [55] up from 3.5% in 2015. [56] [57] There is no generally accepted maximum level of wind penetration. The limit for a particular grid will depend on the existing generating plants, pricing mechanisms, capacity for energy storage , demand management, and other factors. An interconnected electric power grid will already include reserve generating and transmission capacity to allow for equipment failures. This reserve capacity can also serve to compensate for the varying power generation produced by wind stations. Studies have indicated that 20% of the total annual electrical energy consumption may be incorporated with minimal difficulty. [58] These studies have been for locations with geographically dispersed wind farms, some degree of dispatchable energy or hydropower with storage capacity, demand management, and interconnected to a large grid area enabling the export of electric power when needed. Electrical utilities continue to study the effects of large-scale penetration of wind generation on system stability. [59] A wind energy penetration figure can be specified for different duration of time but is often quoted annually. To generate almost all electricity from wind annually requires substantial interconnection to other systems, for example some wind power in Scotland is sent to the rest of the British grid . [60] On a monthly, weekly, daily, or hourly basis—or less—wind might supply as much as or more than 100% of current use, with the rest stored, exported or curtailed. The seasonal industry might then take advantage of high wind and low usage times such as at night when wind output can exceed normal demand. Such industry might include the production of silicon, aluminum, [61] steel, or natural gas, and hydrogen, and using future long-term storage to facilitate 100% energy from variable renewable energy . [62] [63] [ better source needed ] Homes and businesses can also be programmed to vary electricity demand , [64] [65] for example by remotely turning up water heater thermostats. [66]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Share_of_electricity_production_from_wind.svg/350px-Share_of_electricity_production_from_wind.svg.png",
+                "caption": "Share of electricity production from wind, 2022 [54]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Variability",
+        "text": "Wind power is variable, and during low wind periods, it may need to be replaced by other power sources. Transmission networks presently cope with outages of other generation plants and daily changes in electrical demand, but the variability of intermittent power sources such as wind power is more frequent than those of conventional power generation plants which, when scheduled to be operating, may be able to deliver their nameplate capacity around 95% of the time. Electric power generated from wind power can be highly variable at several different timescales: hourly, daily, or seasonally. Annual variation also exists but is not as significant. [ citation needed ] Because instantaneous electrical generation and consumption must remain in balance to maintain grid stability, this variability can present substantial challenges to incorporating large amounts of wind power into a grid system. Intermittency and the non- dispatchable nature of wind energy production can raise costs for regulation, incremental operating reserve , and (at high penetration levels) could require an increase in the already existing energy demand management , load shedding , storage solutions, or system interconnection with HVDC cables. Fluctuations in load and allowance for the failure of large fossil-fuel generating units require operating reserve capacity, which can be increased to compensate for the variability of wind generation. Utility-scale batteries are often used to balance hourly and shorter timescale variation, [67] [68] but car batteries may gain ground from the mid-2020s. [69] Wind power advocates argue that periods of low wind can be dealt with by simply restarting existing power stations that have been held in readiness, or interlinking with HVDC. [70] The combination of diversifying variable renewables by type and location, forecasting their variation, and integrating them with dispatchable renewables, flexible fueled generators, and demand response can create a power system that has the potential to meet power supply needs reliably. Integrating ever-higher levels of renewables is being successfully demonstrated in the real world. [71] Solar power tends to be complementary to wind. [73] [74] On daily to weekly timescales, high-pressure areas tend to bring clear skies and low surface winds, whereas low-pressure areas tend to be windier and cloudier. On seasonal timescales, solar energy peaks in summer, whereas in many areas wind energy is lower in summer and higher in winter. [A] [75] Thus the seasonal variation of wind and solar power tend to cancel each other somewhat. [72] Wind hybrid power systems are becoming more popular. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Toro_de_osborne.jpg/220px-Toro_de_osborne.jpg",
+                "caption": "Wind turbines are typically installed in windy locations. In the image, wind power generators in Spain , near an Osborne bull ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Roscoe_Wind_Farm_in_West_Texas.jpg/220px-Roscoe_Wind_Farm_in_West_Texas.jpg",
+                "caption": "Roscoe Wind Farm : an onshore wind farm in West Texas near Roscoe"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png/220px-Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png",
+                "caption": "Seasonal cycle of capacity factors for wind and photovoltaics in Europe under idealized assumptions. The figure illustrates the balancing effects of wind and solar energy at the seasonal scale (Kaspar et al., 2019). [72]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Economics",
+        "text": "Onshore wind is an inexpensive source of electric power, cheaper than coal plants and new gas plants. [10] According to BusinessGreen , wind turbines reached grid parity (the point at which the cost of wind power matches traditional sources) in some areas of Europe in the mid-2000s, and in the US around the same time. Falling prices continue to drive the Levelized cost down and it has been suggested that it has reached general grid parity in Europe in 2010, and will reach the same point in the US around 2016 due to an expected reduction in capital costs of about 12%. [88] [ needs update ] In 2021, the CEO of Siemens Gamesa warned that increased demand for low-cost wind turbines combined with high input costs and high costs of steel result in increased pressure on the manufacturers and decreasing profit margins. [89] Northern Eurasia, Canada, some parts of the United States, and Patagonia in Argentina are the best areas for onshore wind: whereas in other parts of the world solar power, or a combination of wind and solar, tend to be cheaper. [90] : 8",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Onshore-wind-lcoe.png/310px-Onshore-wind-lcoe.png",
+                "caption": "Onshore wind cost per kilowatt-hour between 1983 and 2017 [87]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Electric power cost and trends",
+        "text": "Wind power is capital intensive but has no fuel costs. [91] The price of wind power is therefore much more stable than the volatile prices of fossil fuel sources. [92] However, the estimated average cost per unit of electric power must incorporate the cost of construction of the turbine and transmission facilities, borrowed funds, return to investors (including the cost of risk), estimated annual production, and other components, averaged over the projected useful life of the equipment, which may be more than 20 years. Energy cost estimates are highly dependent on these assumptions so published cost figures can differ substantially. The presence of wind energy, even when subsidized, can reduce costs for consumers (€5 billion/yr in Germany) by reducing the marginal price, by minimizing the use of expensive peaking power plants . [93] The cost has decreased as wind turbine technology has improved. There are now longer and lighter wind turbine blades, improvements in turbine performance, and increased power generation efficiency. Also, wind project capital expenditure costs and maintenance costs have continued to decline. [94] In 2021, a Lazard study of unsubsidized electricity said that wind power levelized cost of electricity continues to fall but more slowly than before. The study estimated new wind-generated electricity cost from $26 to $50/MWh, compared to new gas power from $45 to $74/MWh. The median cost of fully deprecated existing coal power was $42/MWh, nuclear $29/MWh and gas $24/MWh. The study estimated offshore wind at around $83/MWh. Compound annual growth rate was 4% per year from 2016 to 2021, compared to 10% per year from 2009 to 2021. [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Turbine_Blade_Convoy_Passing_through_Edenfield.jpg/220px-Turbine_Blade_Convoy_Passing_through_Edenfield.jpg",
+                "caption": "A turbine blade convoy passing through Edenfield in the U.K. (2008). Even longer 2-piece blades are now manufactured, and then assembled on-site to reduce difficulties in transportation."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Small-scale wind power",
+        "text": "Small-scale wind power is the name given to wind generation systems with the capacity to produce up to 50 kW of electrical power. [102] Isolated communities, that may otherwise rely on diesel generators, may use wind turbines as an alternative. Individuals may purchase these systems to reduce or eliminate their dependence on grid electric power for economic reasons, or to reduce their carbon footprint . Wind turbines have been used for household electric power generation in conjunction with battery storage over many decades in remote areas. [103] Examples of small-scale wind power projects in an urban setting can be found in New York City , where, since 2009, several building projects have capped their roofs with Gorlov-type helical wind turbines . Although the energy they generate is small compared to the buildings' overall consumption, they help to reinforce the building's 'green' credentials in ways that \"showing people your high-tech boiler\" cannot, with some of the projects also receiving the direct support of the New York State Energy Research and Development Authority . [104] Grid-connected domestic wind turbines may use grid energy storage, thus replacing purchased electric power with locally produced power when available. The surplus power produced by domestic microgenerators can, in some jurisdictions, be fed into the network and sold to the utility company, producing a retail credit for the microgenerators' owners to offset their energy costs. [105] Off-grid system users can either adapt to intermittent power or use batteries, photovoltaic , or diesel systems to supplement the wind turbine. [106] Equipment such as parking meters, traffic warning signs, street lighting, or wireless Internet gateways may be powered by a small wind turbine, possibly combined with a photovoltaic system, that charges a small battery replacing the need for a connection to the power grid. [107] Airborne wind turbines , such as kites, can be used in places at risk of hurricanes, as they can be taken down in advance. [108]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Quietrevolution_Bristol_3513051949.jpg/220px-Quietrevolution_Bristol_3513051949.jpg",
+                "caption": "A small Quietrevolution QR5 Gorlov type vertical axis wind turbine on the roof of Bristol Beacon in Bristol, England . Measuring 3 m in diameter and 5 m high, it has a nameplate rating of 6.5 kW."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Impact on environment and landscape",
+        "text": "The environmental impact of electricity generation from wind power is minor when compared to that of fossil fuel power . [110] Wind turbines have some of the lowest life-cycle greenhouse-gas emissions of energy sources : far less greenhouse gas is emitted than for the average unit of electricity, so wind power helps limit climate change. [111] Use of engineered wood may allow carbon negative wind power. [112] Wind power consumes no fuel, and emits no local air pollution , unlike fossil fuel power sources. Onshore wind farms can have a significant visual impact. [113] Due to a very low surface power density and spacing requirements, wind farms typically need to be spread over more land than other power stations. [7] [114] Their network of turbines, access roads, transmission lines, and substations can result in \"energy sprawl\"; [8] although land between the turbines and roads can still be used for agriculture. [115] [116] Some wind farms are opposed for potentially spoiling protected scenic areas, archaeological landscapes and heritage sites. [117] [118] [119] A report by the Mountaineering Council of Scotland concluded that wind farms harmed tourism in areas known for natural landscapes and panoramic views. [120] Habitat loss and fragmentation are the greatest potential impacts on wildlife of onshore wind farms, [8] but the worldwide ecological impact is minimal. [110] Thousands of birds and bats, including rare species, have been killed by wind turbine blades, [121] though wind turbines are responsible for far fewer bird deaths than fossil-fueled power stations. [122] This can be mitigated with proper wildlife monitoring. [123] Many wind turbine blades are made of fiberglass , and have a lifetime of 20 years. [124] Blades are hollow: some blades are crushed to reduce their volume and then landfilled. [125] However, as they can take a lot of weight they can be made into long lasting small bridges for walkers or cyclists. [126] Blade end-of-life is complicated, [127] and blades manufactured in the 2020s are more likely to be designed to be completely recyclable. [128] Wind turbines also generate noise. At a distance of 300 metres (980 ft), this may be around 45 dB, which is slightly louder than a refrigerator. At 1.5 km (1 mi), they become inaudible. [129] [130] There are anecdotal reports of negative health effects on people who live very close to wind turbines. [131] Peer-reviewed research has generally not supported these claims. [132] [133] [134]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Greenhouse_gas_emissions_per_energy_source.png/220px-Greenhouse_gas_emissions_per_energy_source.png",
+                "caption": "Greenhouse gas emissions per energy source. Wind energy is one of the sources with the least greenhouse gas emissions."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Wb_deichh_drei_kuhs.jpg/220px-Wb_deichh_drei_kuhs.jpg",
+                "caption": "Livestock grazing near a wind turbine. [109]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Central government",
+        "text": "Although wind turbines with fixed bases are a mature technology and new installations are generally no longer subsidized, [135] [136] floating wind turbines are a relatively new technology so some governments subsidize them, for example to use deeper waters. [137] Fossil fuel subsidies by some governments are slowing the growth of renewables. [138] Permitting of wind farms can take years and some governments are trying to speed up - the wind industry says this will help limit climate change and increase energy security [139] - sometimes groups such as fishers resist this [140] but governments say that rules protecting biodiversity will still be followed. [141]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Floatgen.jpg/220px-Floatgen.jpg",
+                "caption": "Wind turbine floating off France"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Public opinion",
+        "text": "Surveys of public attitudes across Europe and in many other countries show strong public support for wind power. [143] [144] [145] Bakker et al. (2012) found in their study that residents who did not want turbines built near them suffered significantly more stress than those who \"benefited economically from wind turbines\". [146] Although wind power is a popular form of energy generation, onshore or near offshore wind farms are sometimes opposed for their impact on the landscape (especially scenic areas, heritage areas and archaeological landscapes), as well as noise, and impact on tourism. [147] [148] In other cases, there is direct community ownership of wind farms . The hundreds of thousands of people who have become involved in Germany's small and medium-sized wind farms demonstrate such support there. [149] A 2010 Harris Poll found strong support for wind power in Germany, other European countries, and the United States. [143] [144] [150] Public support in the United States has decreased from 75% in 2020 to 62% in 2021, with the Democrat Party supporting the use of wind energy twice as much as the Republican Party. [151] President Biden has signed an executive order to begin building large scale wind farms. [152] In China , Shen et al. (2019) found that Chinese city-dwellers may be resistant to building wind turbines in urban areas, with a surprisingly high proportion of people citing an unfounded fear of radiation as driving their concerns. [153] Also, the study finds that like their counterparts in OECD countries, urban Chinese respondents are sensitive to direct costs and wildlife externalities. Distributing relevant information about turbines to the public may alleviate resistance.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg/220px-202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg.png",
+                "caption": "Acceptance of wind and solar facilities in one's community is stronger among U.S. Democrats (blue), while acceptance of nuclear power plants is stronger among U.S. Republicans (red). [142]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Community",
+        "text": "Many wind power companies work with local communities to reduce environmental and other concerns associated with particular wind farms. [156] [157] [158] In other cases there is direct community ownership of wind farm projects . Appropriate government consultation, planning and approval procedures also help to minimize environmental risks. [143] [159] [160] Some may still object to wind farms [161] but many say their concerns should be weighed against the need to address the threats posed by air pollution , [162] [111] climate change [163] and the opinions of the broader community. [164] In the US, wind power projects are reported to boost local tax bases, helping to pay for schools, roads, and hospitals, and to revitalize the economies of rural communities by providing steady income to farmers and other landowners. [98] In the UK, both the National Trust and the Campaign to Protect Rural England have expressed concerns about the effects on the rural landscape caused by inappropriately sited wind turbines and wind farms. [165] [166] Some wind farms have become tourist attractions. The Whitelee Wind Farm Visitor Centre has an exhibition room, a learning hub, a café with a viewing deck and also a shop. It is run by the Glasgow Science Centre . [167] In Denmark, a loss-of-value scheme gives people the right to claim compensation for loss of value of their property if it is caused by proximity to a wind turbine. The loss must be at least 1% of the property's value. [168] Despite this general support for the concept of wind power in the public at large, local opposition often exists and has delayed or aborted a number of projects. [169] [170] [171] As well as concerns about the landscape, there are concerns that some installations can produce excessive sound and vibration levels leading to a decrease in property values. [172] A study of 50,000 home sales near wind turbines found no statistical evidence that prices were affected. [173] While aesthetic issues are subjective and some find wind farms pleasant and optimistic, or symbols of energy independence and local prosperity, protest groups are often formed to attempt to block some wind power stations for various reasons. [161] [174] [175] Some opposition to wind farms is dismissed as NIMBYism , [176] but research carried out in 2009 found that there is little evidence to support the belief that residents only object to wind farms because of a \"Not in my Back Yard\" attitude. [177]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wind_tubines_cumbria.JPG/450px-Wind_tubines_cumbria.JPG",
+                "caption": "Wind turbines such as these, in Cumbria , England, have been opposed for a number of reasons, including aesthetics, by some sectors of the population. [154] [155]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Whitelee_panorama.JPG/450px-Whitelee_panorama.JPG",
+                "caption": "A panoramic view of the United Kingdom's Whitelee Wind Farm with Lochgoin Reservoir in the foreground."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Wind conditions",
+        "text": "The faster the average wind speed, the more electricity the wind turbine will generate, so faster winds are generally economically better for wind farm developments. [7] The balancing factor is that strong gusts and high turbulence require stronger more expensive turbines, otherwise there is a risk of damage. The average power in the wind is not proportional to the average wind speed. For this reason, the ideal wind conditions would be strong but consistent winds with low turbulence coming from a single direction. Mountain passes are ideal locations for wind farms under these conditions. Mountain passes channel wind, blocked by mountains, through a tunnel like pass towards areas of lower pressure and flatter land. [8] Passes used for wind farms like the San Gorgonio Pass and Altamont Pass are known for their abundant wind resource capacity and capability for large-scale wind farms. These types of passes were the first places in the 1980s to have heavily invested large-scale wind farms after approval for wind energy development by the U.S. Bureau of Land Management. From these wind farms, developers learned much about turbulence and crowding effects of large-scale wind projects, which were previously unresearched, in the U.S. due to the lack of operational wind farms large enough to conduct these types of studies. [9] Usually sites are screened on the basis of a wind atlas , and validated with on-site wind measurements via long term or permanent meteorological-tower data using anemometers and wind vanes . Meteorological wind data alone is usually not sufficient for accurate siting of a large wind power project. Collection of site specific data for wind speed and direction is crucial to determining site potential [10] [11] in order to finance the project. [12] Local winds are often monitored for a year or more, detailed wind maps are constructed, along with rigorous grid capability studies conducted, before any wind generators are installed. The wind blows faster at higher altitudes because of the reduced influence of drag. The increase in velocity with altitude is most dramatic near the surface and is affected by topography, surface roughness, and upwind obstacles such as trees or buildings. At altitudes of thousands of feet/hundreds of metres above sea level, the power in the wind decreases proportional to the decrease in air density. [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/United_States_Wind_Resources_and_Transmission_Lines_map.jpg/660px-United_States_Wind_Resources_and_Transmission_Lines_map.jpg",
+                "caption": "Map of available wind power over the United States. Colour codes indicate wind power density class."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Electricity grid considerations",
+        "text": "Often in heavily saturated energy markets, the first step in site selection for large-scale wind projects, before wind resource data collection, is finding areas with adequate available transfer capability (ATC). ATC is the measure of the remaining capacity in a transmission system available for further integration of two interconnected areas without significant upgrades to existing transmission lines and substations. Significant equipment upgrades have substantial costs, potentially undermining the viability of a project within a location, regardless of wind resource availability. [14] Once a list of capable areas is constructed, the list is refined based on long term wind measurements, among other environmental or technical limiting factors such as proximity to load and land procurement. Many independent system operators (ISOs) in the United States such as the California ISO and Midcontinent ISO use interconnection request queues to allow developers to propose a new generation for a specific given area and grid interconnection. [15] These request queues have both deposit costs at the time of request and ongoing costs for the studies the ISO will make for up to years after the request was submitted to ascertain the viability of the interconnection due to factors such as ATC. [16] Larger corporations who can afford to bid the most queues will most likely have market power as to which sites with the most resource and opportunity are eventually developed. After the deadline to request a place in the queue has passed, many firms will withdraw their requests after gauging the competition in order to make back some of the deposit for each request that is determined too risky in comparison to other larger firms' requests.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Biglow_Canyon_Wind_Farm_under_construction.jpg/350px-Biglow_Canyon_Wind_Farm_under_construction.jpg",
+                "caption": "Part of the Biglow Canyon Wind Farm , Oregon , United States with a turbine under construction"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Onshore",
+        "text": "The capacity of the world's first wind farm was 0.6 MW, produced by 20 wind turbines rated at 30 kilowatts each, installed on the shoulder of Crotched Mountain in southern New Hampshire in December 1980. [19] [20] Onshore turbine installations in hilly or mountainous regions tend to be on ridges generally three kilometres or more inland from the nearest shoreline. This is done to exploit the topographic acceleration as the wind accelerates over a ridge. The additional wind speeds gained in this way can increase energy produced because more wind goes through the turbines. The exact position of each turbine matters, because a difference of 30 metres could potentially double output. This careful placement is referred to as 'micro-siting'.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Lochgoin_from_the_air_%28geograph_6051696%29.jpg/330px-Lochgoin_from_the_air_%28geograph_6051696%29.jpg",
+                "caption": "An aerial view of Whitelee Wind Farm , the largest onshore wind farm in the UK and second-largest in Europe"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Roscoe_Wind_Farm_in_West_Texas.jpg/330px-Roscoe_Wind_Farm_in_West_Texas.jpg",
+                "caption": "Roscoe Wind Farm , an onshore wind farm, in West Texas"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Offshore",
+        "text": "Europe is the leader in offshore wind energy, with the first offshore wind farm (Vindeby) being installed in Denmark in 1991. As of 2010, there were 39 offshore wind farms in waters off Belgium, Denmark, Finland, Germany, Ireland, the Netherlands, Norway, Sweden and the United Kingdom, with a combined operating capacity of 2,396 MW. More than 100 GW (or 100,000 MW) of offshore projects are proposed or under development in Europe. The European Wind Energy Association set a target of 40 GW installed by 2020 and 150 GW by 2030. [38] As of 2017 [update] , The Walney Wind Farm in the United Kingdom is the largest offshore wind farm in the world at 659 MW , followed by the London Array (630 MW) also in the UK. Offshore wind turbines are less obtrusive than turbines on land, as their apparent size and noise is mitigated by distance. Because water has less surface roughness than land (especially deeper water), the average wind speed is usually considerably higher over open water. Capacity factors (utilisation rates) are considerably higher than for onshore locations. [39] The province of Ontario, Canada is pursuing several proposed locations in the Great Lakes , including the suspended [40] Trillium Power Wind 1 approximately 20 km from shore and over 400 MW in size. [41] Other Canadian projects include one on the Pacific west coast. [42] In 2010, there were no offshore wind farms in the United States, but projects were under development in wind-rich areas of the East Coast, Great Lakes, and Pacific coast; [38] and in late 2016 the Block Island Wind Farm was commissioned. Installation and service / maintenance of off-shore wind farms are a challenge for technology and economic operation of a wind farm. As of 2015 [update] , there are 20 jackup vessels for lifting components, but few can lift sizes above 5 MW. [44] Service vessels have to be operated nearly 24/7 (availability higher than 80% of time) to get sufficient amortisation from the wind turbines. [ citation needed ] Therefore, special fast service vehicles for installation (like Wind Turbine Shuttle) as well as for maintenance (including heave compensation and heave compensated working platforms to allow the service staff to enter the wind turbine also at difficult weather conditions) are required. So-called inertial and optical based Ship Stabilization and Motion Control systems (iSSMC) are used for that.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Windmills_and_Sailboats_on_the_Ocean_4890300941.jpg/260px-Windmills_and_Sailboats_on_the_Ocean_4890300941.jpg",
+                "caption": "Offshore wind turbines near Copenhagen , Denmark."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20210830_Windfarm_power_generation_capacity_-_offshore_capacity%2C_and_total_needed.svg/260px-20210830_Windfarm_power_generation_capacity_-_offshore_capacity%2C_and_total_needed.svg.png",
+                "caption": "Offshore windfarms, including floating windfarms, provide a small but growing fraction of total windfarm power generation. Such power generation capacity must grow substantially to help meet the IEA 's Net Zero by 2050 pathway to combat climate change. [43]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Australia",
+        "text": "The Australian Greens have been significant supporters of Australian wind farms, however the party's previous leader Bob Brown and former leader Richard Di Natale have now both expressed concerns about environmental aspects of wind turbines, particularly the potential danger they impose for birds. [66] [67]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Canunda_wind_farm_DKC1.jpg/220px-Canunda_wind_farm_DKC1.jpg",
+                "caption": "The Australian Canunda Wind Farm , South Australia at sunrise"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "China",
+        "text": "In just five years, China leapfrogged the rest of the world in wind energy production, going from 2,599 MW of capacity in 2006 to 62,733 MW at the end of 2011. [74] [75] [76] However, the rapid growth outpaced China's infrastructure and new construction slowed significantly in 2012. [77] At the end of 2009, wind power in China accounted for 25.1 gigawatts (GW) of electricity generating capacity, [78] and China has identified wind power as a key growth component of the country's economy. [79] With its large land mass and long coastline, China has exceptional wind resources. [80] Researchers from Harvard and Tsinghua University have found that China could meet all of their electricity demands from wind power by 2030. [81] By the end of 2008, at least 15 Chinese companies were commercially producing wind turbines and several dozen more were producing components. [82] Turbine sizes of 1.5 MW to 3 MW became common. Leading wind power companies in China were Goldwind , Dongfang Electric , and Sinovel [83] along with most major foreign wind turbine manufacturers. [84] China also increased production of small-scale wind turbines to about 80,000 turbines (80 MW) in 2008. Through all these developments, the Chinese wind industry appeared unaffected by the financial crisis of 2007–2008 , according to industry observers. [83] According to the Global Wind Energy Council , the development of wind energy in China, in terms of scale and rhythm, is unparalleled in the world. The National People's Congress permanent committee passed a law that requires the Chinese energy companies to purchase all the electricity produced by the renewable energy sector. [85]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Beach_Point-Lower_East_Pubnico_%28wind_farm%29.jpg/440px-Beach_Point-Lower_East_Pubnico_%28wind_farm%29.jpg",
+                "caption": "The Pubnico Wind Farm taken from Beach Point, Lower East Pubnico, Nova Scotia"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wind_farm_xinjiang.jpg/220px-Wind_farm_xinjiang.jpg",
+                "caption": "Wind farm in Xinjiang , China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Europe",
+        "text": "In 2011 the European Union had a total installed wind capacity of 93,957 MW. Germany had the third-largest capacity in the world (after China and the United States), with an installed capacity of 29,060 MW at the end of 2011. Spain had 21,674 MW, and Italy and France each had between 6,000 and 7,000 MW. [86] [87] By January 2014, the UK installed capacity was 10,495 MW. [88] But energy production can be different from capacity – in 2010, Spain had the highest European wind power production with 43 TWh compared to Germany's 35 TWh. [89] In addition to the ' London Array ', an off-shore wind farm in the Thames Estuary in the United Kingdom , with a capacity of 630 MW (the world's largest off-shore wind farm when built), other large wind farms in Europe include Fântânele-Cogealac Wind Farm near Constanța , Romania with 600 MW capacity, [90] [91] and Whitelee Wind Farm near Glasgow , Scotland which has a total capacity of 539 MW. An important limiting factor of wind power is variable power generated by wind farms. In most locations the wind blows only part of the time, which means that there has to be back-up capacity of dispatchable generation capacity to cover periods that the wind is not blowing. To address this issue it has been proposed to create a \" supergrid \" to connect national grids together [92] across western Europe , ranging from Denmark across the southern North Sea to England and the Celtic Sea to Ireland, and further south to France and Spain especially in Higueruela which was for some time the biggest wind farm in the world. [93] The idea is that by the time a low pressure area has moved away from Denmark to the Baltic Sea the next low appears off the coast of Ireland. Therefore, while it is true that the wind is not blowing everywhere all of the time, it will tend to be blowing somewhere. In July 2022, Seagreen , the world's deepest fixed-bottom wind farm, became operative. Located 26 miles off the Angus coastline, in Scotland, it has 114 turbines that generate 1.1 gigawatts (GW) of electricity. [94] [95]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Windpark_Galicia.jpg/330px-Windpark_Galicia.jpg",
+                "caption": "A wind farm in a mountainous area in Galicia , Spain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "India",
+        "text": "India has the fifth largest installed wind power capacity in the world. [96] As of 31 March 2014, the installed capacity of wind power was 21136.3 MW mainly spread across Tamil Nadu state (7253 MW). [97] [98] Wind power accounts nearly 8.5% of India's total installed power generation capacity, and it generates 1.6% of the country's power.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/A_Wind_Energy_farm_and_the_Cenotaphs%2C_the_ancient_and_the_modern%2C_Jaisalmer_Rajasthan_India.jpg/220px-A_Wind_Energy_farm_and_the_Cenotaphs%2C_the_ancient_and_the_modern%2C_Jaisalmer_Rajasthan_India.jpg",
+                "caption": "A wind farm overlooking Bada Bagh , India"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Jordan",
+        "text": "The 117 MW Tafila Wind Farm in Jordan was inaugurated in December 2015, and is the first large scale wind farm project in the region. [102]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tafila_Wind_Farm_3.jpg/220px-Tafila_Wind_Farm_3.jpg",
+                "caption": "The Tafila Wind Farm in Jordan , is the first large scale wind farm in the region."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Pakistan",
+        "text": "Pakistan has wind corridors in Jhimpir, Gharo and Keti Bundar in Sindh province and is currently developing wind power plants in Jhimpir and Mirpur Sakro (District Thatta). The government of Pakistan decided to develop wind power energy sources due to problems supplying energy to the southern coastal regions of Sindh and Balochistan. The Zorlu Energy Putin Power Plant is the first wind power plant in Pakistan. The wind farm is being developed in Jhimpir, by Zorlu Energy Pakistan the local subsidiary of a Turkish company. The total cost of the project is $136 million.[3] Completed in 2012, it has a total capacity of around 56MW. Fauji Fertilizer Company Energy Limited, has built a 49.5 MW wind Energy Farm at Jhimpir. Contract of supply of mechanical design was awarded to Nordex and Descon Engineering Limited. Nordex is a German wind turbine manufacturer. In the end of 2011 49.6 MW was expected to be completed. The Pakistani government also issued a Letter Of Interest in a 100 MW Wind power plant to FFCEL. The Pakistani government had plans to achieve electric power  generation of up to 2500 MW by the end of 2015 from wind energy to bring down an energy shortage. Currently four wind farms are operational (Fauji Fertilizer 49.5 MW (subsidiary of Fauji Foundation), Three Gorges 49.5 MW, Zorlu Energy Pakistan 56 MW, Sapphire Wind Power Company Limited 52.6 MW) and six are under construction phase ( Master Wind Energy Limited 52.6 MW, Sachal Energy Development Limited 49.5 MW, Yunus Energy Limited 49.5 MW, Gul Energy 49.5 MW, Metro Energy 49.5 MW, Tapal Energy) and were expected to achieve COD in 2017. In the Gharo wind corridor, two wind farms (Foundation Energy 1 & II each 49.5 MW) are operational while two wind farms Tenaga Generasi Limited 49.5 MW and HydroChina Dawood Power Pvt. Limited 49.5 are under construction and expected to achieve COD in 2017. According to a USAID report, Pakistan has the potential of producing 150,000 megawatts of wind energy, of which the Sindh corridor can produce 40,000 megawatts.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jhimpir_Wind_Farm_2012.jpg/220px-Jhimpir_Wind_Farm_2012.jpg",
+                "caption": "Jhimpir Wind Farm, Pakistan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "South Africa",
+        "text": "As of September 2015, a number of sizable wind farms have been constructed in South Africa mostly in the Western Cape region. These include the 100 MW Sere Wind Farm and the 138 MW Gouda Wind Facility . Most future wind farms in South Africa are earmarked for locations along the Eastern Cape coastline. [106] [107] [108] Eskom has constructed one small scale prototype windfarm at Klipheuwel in the Western Cape and another demonstrator site is near Darling with phase 1 completed. The first commercial wind farm, Coega Wind Farm in Port Elisabeth, was developed by the Belgian company Electrawinds.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gouda_Wind_Farm_2015.JPG/220px-Gouda_Wind_Farm_2015.JPG",
+                "caption": "Gouda Wind Facility , South Africa"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "United States",
+        "text": "U.S. wind power installed capacity in September 2019 exceeded 100,125 MW and supplies 6.94% of the nation's electricity. [109] The majority of wind farms in the United States are located in the Central Plains , with slow expansion into other regions of the country. New installations place the U.S. on a trajectory to generate 20% of the nation's electricity by 2030 from wind energy. [110] Growth in 2008 channeled some $17 billion into the economy, positioning wind power as one of the leading sources of new power generation in the country, along with natural gas . Wind projects completed in 2008 accounted for about 42% of the entire new power-producing capacity added in the U.S. during the year. [111] Texas , with 27,036 MW of capacity, has the most installed wind power capacity of any U.S. state, followed by Iowa with 8,965 MW and Oklahoma with 8,072 MW. [112] Iowa is the leading state in terms of wind energy accounting for nearly 40% of total energy production in 2019. The Alta Wind Energy Center (1,020 MW) in California is the nation's largest wind farm in terms of capacity. Altamont Pass Wind Farm is the largest wind farm in the U.S. in terms of the number of individual turbines. [113] At the end of 2019, about 114,000 people were employed in the U.S. wind industry, [114] and GE Energy was the largest domestic wind turbine manufacturer. [115] In 2018, US wind power provided enough electricity to power approximately 25 million homes, avoiding the emissions of 200 million tons of carbon. [116] [111]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/San_Gorgonio_Pass_Wind_Power_Plants.jpg/220px-San_Gorgonio_Pass_Wind_Power_Plants.jpg",
+                "caption": "San Gorgonio Pass wind farm , California"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Iowa_wind_farms-2.jpg/220px-Iowa_wind_farms-2.jpg",
+                "caption": "Northern Iowa wind farm"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Ground radar interference",
+        "text": "Wind farms can interfere with ground radar systems used for military , weather and air traffic control . The large, rapidly moving blades of the turbines can return signals to the radar that can be mistaken as an aircraft or weather pattern. [160] Actual aircraft and weather patterns around wind farms can be accurately detected, as there is no fundamental physical constraint preventing that, but aging radar infrastructure is significantly challenged with the task. [161] [162] The US military is using wind turbines on some bases, including Barstow near the radar test facility . [163] [164]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/NOAA_windturbine-radar-interference.gif/400px-NOAA_windturbine-radar-interference.gif",
+                "caption": "Wind farm interference (in yellow circle) on radar map"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Types",
+        "text": "Wind turbines can rotate about either a horizontal or a vertical axis, the former being both older and more common. [37] They can also include blades or be bladeless. [38] Household-size vertical designs produce less power and are less common. [39]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/HAWT_and_VAWTs_in_operation_medium.gif/220px-HAWT_and_VAWTs_in_operation_medium.gif",
+                "caption": "The three primary types: VAWT Savonius , HAWT towered; VAWT Darrieus as they appear in operation"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Horizontal axis",
+        "text": "Large three-bladed horizontal-axis wind turbines (HAWT) with the blades upwind of the tower produce the overwhelming majority of wind power in the world today. [4] These turbines have the main rotor shaft and electrical generator at the top of a tower and must be pointed into the wind. Small turbines are pointed by a simple wind vane , while large turbines generally use a wind sensor coupled with a yaw system. Most have a gearbox, which turns the slow rotation of the blades into a quicker rotation that is more suitable to drive an electrical generator. [40] Some turbines use a different type of generator suited to slower rotational speed input. These don't need a gearbox and are called direct-drive, meaning they couple the rotor directly to the generator with no gearbox in between. While permanent magnet direct-drive generators can be more costly due to the rare earth materials required, these gearless turbines are sometimes preferred over gearbox generators because they \"eliminate the gear-speed increaser, which is susceptible to significant accumulated fatigue torque loading, related reliability issues, and maintenance costs\". [41] There is also the pseudo direct drive mechanism, which has some advantages over the permanent magnet direct drive mechanism. [42] Most horizontal axis turbines have their rotors upwind of the supporting tower. [43] Downwind machines have been built, because they don't need an additional mechanism for keeping them in line with the wind. In high winds, downwind blades can also be designed to bend more than upwind ones, which reduces their swept area and thus their wind resistance, mitigating risk during gales. Despite these advantages, upwind designs are preferred, because the pulsing change in loading from the wind as each blade passes behind the supporting tower can cause damage to the turbine. [44] Turbines used in wind farms for commercial production of electric power are usually three-bladed. These have low torque ripple , which contributes to good reliability. The blades are usually colored white for daytime visibility by aircraft and range in length from 20 to 80 meters (66 to 262 ft). The size and height of turbines increase year by year. Offshore wind turbines are built up to 8 MW today and have a blade length up to 80 meters (260 ft). Designs with 10 to 12 MW were in preparation in 2018, [45] and a \"15 MW+\" prototype with three 118-metre (387 ft) blades is planned to be constructed in 2022. [46] The average hub height of horizontal axis wind turbines is 90 meters. [47]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Scout_moor_gearbox%2C_rotor_shaft_and_brake_assembly.jpg/220px-Scout_moor_gearbox%2C_rotor_shaft_and_brake_assembly.jpg",
+                "caption": "Components of a horizontal axis wind turbine (gearbox, rotor shaft and brake assembly) being lifted into position"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/One_Energy_Wind_for_Industry_permanent_magnet_direct-drive_generator.jpg/220px-One_Energy_Wind_for_Industry_permanent_magnet_direct-drive_generator.jpg",
+                "caption": "The rotor of a gearless wind turbine being set. This particular turbine was prefabricated in Germany, before being shipped to the U.S. for assembly."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wind_Turbines_%285132099985%29.jpg/220px-Wind_Turbines_%285132099985%29.jpg",
+                "caption": "Offshore Horizontal Axis Wind Turbines (HAWTs) at Scroby Sands Wind Farm, England"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/%E8%A5%BF%E7%94%B8%E5%AD%90%E6%A2%81%E9%A3%8E%E8%BD%A6.jpg/220px-%E8%A5%BF%E7%94%B8%E5%AD%90%E6%A2%81%E9%A3%8E%E8%BD%A6.jpg",
+                "caption": "Onshore Horizontal Axis Wind Turbines in Zhangjiakou , Hebei , China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Savonius wind turbine",
+        "text": "These are drag-type devices with two (or more) scoops that are used in anemometers, Flettner vents (commonly seen on bus and van roofs), and in some high-reliability low-efficiency power turbines. They are always self-starting if there are at least three scoops. [57] Twisted Savonius is a modified savonius, with long helical scoops to provide smooth torque. This is often used as a rooftop wind turbine and has even been adapted for ships . [58]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Twisted_Savonius_wind_turbine_in_operation%4060rpm.gif/100px-Twisted_Savonius_wind_turbine_in_operation%4060rpm.gif",
+                "caption": "A vertical axis Twisted Savonius type turbine."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Design and construction",
+        "text": "Wind turbine design is a careful balance of cost, energy output, and fatigue life.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EERE_illust_large_turbine.gif/220px-EERE_illust_large_turbine.gif",
+                "caption": "Components of a horizontal-axis wind turbine"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/WKA_spannglieder.jpg/220px-WKA_spannglieder.jpg",
+                "caption": "Inside view of a wind turbine tower, showing the tendon cables"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Components",
+        "text": "Wind turbines convert wind energy to electrical energy for distribution. Conventional horizontal axis turbines can be divided into three components: A 1.5 ( MW ) wind turbine of a type frequently seen in the United States has a tower 80 meters (260 ft) high. The rotor assembly (blades and hub) measures about 80 meters (260 ft) in diameter. [68] The nacelle, which contains the generator, is 15.24 meters (50.0 ft) and weighs around 300 tons. [69]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Badaia_-_Parque_E%C3%B3lico_-BT-_01.jpg/220px-Badaia_-_Parque_E%C3%B3lico_-BT-_01.jpg",
+                "caption": "Nacelle of a wind turbine"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Technology",
+        "text": "Generally, efficiency increases along with turbine blade lengths. The blades must be stiff, strong, durable, light and resistant to fatigue. [72] Materials with these properties include composites such as polyester and epoxy, while glass fiber and carbon fiber have been used for the reinforcing. [73] Construction may involve manual layup or injection molding. Retrofitting existing turbines with larger blades reduces the task and risks of redesign. [74] As of 2021, the longest blade was 115.5 m (379 ft), producing 15 MW. [75] Blades usually last around 20 years, the typical lifespan of a wind turbine. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Growing_size_of_wind_turbines.png/350px-Growing_size_of_wind_turbines.png",
+                "caption": "Development in size and power of wind turbines, 1990–2016"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Glass and carbon fibers",
+        "text": "The stiffness of composites is determined by the stiffness of fibers and their volume content. Typically, E-glass fibers are used as main reinforcement in the composites. Typically, the glass/epoxy composites for wind turbine blades contain up to 75% glass by weight. This increases the stiffness, tensile and compression strength. A promising composite material is glass fiber with modified compositions like S-glass, R-glass etc. Other glass fibers developed by Owens Corning are ECRGLAS, Advantex and WindStrand. [77] Carbon fiber has more tensile strength, higher stiffness and lower density than glass fiber. An ideal candidate for these properties is the spar cap, a structural element of a blade that experiences high tensile loading. [73] A 100-metre (330 ft) glass fiber blade could weigh up to 50 tonnes (110,000 lb), while using carbon fiber in the spar saves 20% to 30% weight, about 15 tonnes (33,000 lb). [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Turbine_Blade_Convoy_Passing_through_Edenfield.jpg/220px-Turbine_Blade_Convoy_Passing_through_Edenfield.jpg",
+                "caption": "A turbine blade convoy passing through Edenfield , England"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Material supply",
+        "text": "A 2015 study of the material consumption trends and requirements for wind energy in Europe found that bigger turbines have a higher consumption of precious metals but lower material input per kW generated. The material consumption and stock at that time was compared to input materials for various onshore system sizes. In all EU countries, the estimates for 2020 doubled the values consumed in 2009. These countries would need to expand their resources to meet the estimated demand for 2020. For example, the EU had 3% of world supply of fluorspar , and it would require 14% by 2020. Globally, the main exporting countries are South Africa, Mexico, and China. This is similar with other critical and valuable materials required for energy systems such as magnesium, silver and indium. The levels of recycling of these materials are very low, and focusing on that could alleviate supply. Because most of these valuable materials are also used in other emerging technologies, like light emitting diodes (LEDs), photo voltaics (PVs) and liquid crystal displays (LCDs), their demand is expected to grow. [86] A 2011 study by the United States Geological Survey estimated resources required to fulfill the US commitment to supplying 20% of its electricity from wind power by 2030. It did not consider requirements for small turbines or offshore turbines because those were not common in 2008 when the study was done. Common materials such as cast iron, steel and concrete would increase by 2%–3% compared to 2008. Between 110,000 and 115,000 metric tons of fiber glass would be required per year, a 14% increase. Rare-earth metal use would not increase much compared to available supply, however rare-earth metals that are also used for other technologies such as batteries which are increasing its global demand need to be taken into account. Land required would be 50,000 square kilometers onshore and 11,000 offshore. This would not be a problem in the US due to its vast area and because the same land can be used for farming. A greater challenge would be the variability and transmission to areas of high demand. [87] Permanent magnets for wind turbine generators contain rare-earth metals such as neodymium (Nd), praseodymium (Pr), terbium (Tb), and dysprosium (Dy). Systems that use magnetic direct drive turbines require greater amounts of rare-earth metals. Therefore, an increase in wind turbine manufacture would increase the demand for these resources. By 2035, the demand for Nd is estimated to increase by 4,000 to 18,000 tons and for Dy by 200 to 1200 tons. These values are a quarter to half of current production. However, these estimates are very uncertain because technologies are developing rapidly. [88] Reliance on rare earth minerals for components has risked expense and price volatility as China has been main producer of rare earth minerals (96% in 2009) and was reducing its export quotas. [87] However, in recent years, other producers have increased production and China has increased export quotas, leading to higher supply, lower cost, and greater viability of large-scale use of variable-speed generators. [89] Glass fiber is the most common material for reinforcement. Its demand has grown due to growth in construction, transportation and wind turbines. Its global market might reach US$17.4 billion by 2024, compared to US$8.5 billion in 2014. In 2014, Asia Pacific produced more than 45% of the market; now China is the largest producer. The industry receives subsidies from the Chinese government allowing it to export cheaper to the US and Europe. However, price wars have led to anti-dumping measures such as tariffs on Chinese glass fiber. [90]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Nordex_Jonesboro_Plant_001.jpg/220px-Nordex_Jonesboro_Plant_001.jpg",
+                "caption": "Nordex wind turbine manufacturing plant in Jonesboro, Arkansas , United States"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Wind turbines on public display",
+        "text": "A few localities have exploited the attention-getting nature of wind turbines by placing them on public display, either with visitor centers around their bases, or with viewing areas farther away. [91] The wind turbines are generally of conventional horizontal-axis, three-bladed design and generate power to feed electrical grids, but they also serve the unconventional roles of technology demonstration, public relations, and education. [92]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lamma_wind_turbine.jpg/170px-Lamma_wind_turbine.jpg",
+                "caption": "The Nordex N50 wind turbine and visitor centre of Lamma Winds in Hong Kong , China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Small wind turbines",
+        "text": "Small wind turbines may be used for a variety of applications including on- or off-grid residences, telecom towers, offshore platforms, rural schools and clinics, remote monitoring and other purposes that require energy where there is no electric grid, or where the grid is unstable. Small wind turbines may be as small as a fifty-watt generator for boat or caravan use. Hybrid solar- and wind-powered units are increasingly being used for traffic signage, particularly in rural locations, since they avoid the need to lay long cables from the nearest mains connection point. [93] The U.S. Department of Energy's National Renewable Energy Laboratory (NREL) defines small wind turbines as those smaller than or equal to 100 kilowatts. [94] Small units often have direct-drive generators, direct current output, aeroelastic blades, and lifetime bearings and use a vane to point into the wind. [95]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Quietrevolution_Bristol_3513051949.jpg/170px-Quietrevolution_Bristol_3513051949.jpg",
+                "caption": "A small Quietrevolution QR5 Gorlov type vertical axis wind turbine in Bristol , England. Measuring 3 m in diameter and 5 m high, it has a nameplate rating of 6.5 kW to the grid."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Records",
+        "text": "See also List of most powerful wind turbines",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Quebecturbine.JPG/170px-Quebecturbine.JPG",
+                "caption": "Éole, the largest vertical axis wind turbine , in Cap-Chat, Quebec , Canada"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Productivity and efficiency",
+        "text": "In addition to improved education, rural electrification also allows for greater efficiency and productivity. Businesses will be able to keep their doors open for longer and generate additional revenues. Farmers will have access to streamlined modern techniques such as irrigation, crop processing, and food preservation . In 2014, rural communities in India gained more than US$21 million from increased economic activity driven by recent additions of electricity. [5]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A_Rural_Electrification_Administration_cooperative_lineman_at_work_in_Hayti%2C_Missouri.jpg/220px-A_Rural_Electrification_Administration_cooperative_lineman_at_work_in_Hayti%2C_Missouri.jpg",
+                "caption": "A Rural Electrification Administration lineman at work in Missouri , United States, in 1942"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Rural_electrification",
+        "title": "Rural electrification",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Role in addressing climate change",
+        "text": "As part of the global effort to limit climate change , most countries have committed to net zero greenhouse gas emissions . [26] In practice, this means phasing out fossil fuels and replacing them with low-emissions energy sources. [12] At the 2023 United Nations Climate Change Conference , around three-quarters of the world's countries set a goal of tripling renewable energy capacity by 2030. [27] The European Union aims to generate 40% of its electricity from renewables by the same year. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2021_Death_rates%2C_by_energy_source.svg/300px-2021_Death_rates%2C_by_energy_source.svg.png",
+                "caption": "Deaths caused as a result of fossil fuel use (areas of rectangles in chart) greatly exceed those resulting from production of renewable energy (rectangles barely visible in chart). [25]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Intermittency",
+        "text": "The two most important forms of renewable energy, solar and wind, are intermittent energy sources : they are not available constantly, resulting in lower capacity factors . In contrast, fossil fuel power plants are usually able to produce precisely the amount of energy an electricity grid requires at a given time. Solar energy can only be captured during the day, and ideally in cloudless conditions. Wind power generation can vary significantly not only day-to-day, but even month-to-month. [31] This poses a challenge when transitioning away from fossil fuels: energy demand will often be higher or lower than what renewables can provide. [32] Both scenarios can cause electricity grids to become overloaded, leading to power outages . In the medium-term, this variability may require keeping some gas-fired power plants or other dispatchable generation on standby [33] [34] until there is enough energy storage, demand response , grid improvement, and/or baseload power from non-intermittent sources. In the long-term, energy storage is an important way of dealing with intermittency. [35] Using diversified renewable energy sources and smart grids can also help flatten supply and demand. [36] Sector coupling of the power generation sector with other sectors may increase flexibility: for example the transport sector can be coupled by charging electric vehicles and sending electricity from vehicle to grid . [37] Similarly the industry sector can be coupled by hydrogen produced by electrolysis, [38] and the buildings sector by thermal energy storage for space heating and cooling. [39] Building overcapacity for wind and solar generation can help ensure sufficient electricity production even during poor weather. In optimal weather, it may be necessary to curtail energy generation if it is not possible to use or store excess electricity. [40]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Renewables_need_flexible_backup_not_baseload.png/300px-Renewables_need_flexible_backup_not_baseload.png",
+                "caption": "Estimated power demand over a week in May 2012 and May 2020, Germany, showing the variability in solar and wind power both day-to-day and month-to-month."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Solar energy",
+        "text": "Solar power produced around 1.3 terrawatt-hours (TWh) worldwide in 2022, [10] representing 4.6% of the world's electricity. Almost all of this growth has happened since 2010. [52] Solar energy can be harnessed anywhere that receives sunlight; however, the amount of solar energy that can be harnessed for electricity generation is influenced by weather conditions , geographic location and time of day. [53] There are two mainstream ways of harnessing solar energy: solar thermal , which converts solar energy into heat; and photovoltaics (PV), which converts it into electricity. [12] PV is far more widespread, accounting for around two thirds of the global solar energy capacity as of 2022. [54] It is also growing at a much faster rate, with 170 GW newly installed capacity in 2021, [55] compared to 25 GW of solar thermal. [54] Passive solar refers to a range of construction strategies and technologies that aim to optimize the distribution of solar heat in a building. Examples include solar chimneys , [12] orienting a building to the sun, using construction materials that can store heat , and designing spaces that naturally circulate air . [56] From 2020 to 2022, solar technology investments almost doubled from USD 162 billion to USD 308 billion, driven by the sector's increasing maturity and cost reductions, particularly in solar photovoltaic (PV), which accounted for 90% of total investments. China and the United States were the main recipients, collectively making up about half of all solar investments since 2013. Despite reductions in Japan and India due to policy changes and COVID-19 , growth in China, the United States, and a significant increase from Vietnam's feed-in tariff program offset these declines. Globally, the solar sector added 714 gigawatts (GW) of solar PV and concentrated solar power (CSP) capacity between 2013 and 2021, with a notable rise in large-scale solar heating installations in 2021, especially in China, Europe, Turkey, and Mexico. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/SolarFachwerkhaus.jpg/220px-SolarFachwerkhaus.jpg",
+                "caption": "A small, roof-top mounted PV system in Bonn , Germany"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Mount_Komekura_Photovoltaic_power_plant_Jan2012.JPG/220px-Mount_Komekura_Photovoltaic_power_plant_Jan2012.JPG",
+                "caption": "Komekurayama photovoltaic power station in Kofu , Japan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Photovoltaics",
+        "text": "A photovoltaic system , consisting of solar cells assembled into panels , converts light into electrical direct current via the photoelectric effect . [60] PV has several advantages that make it by far the fastest-growing renewable energy technology. It is cheap, low-maintenance and scalable; adding to an existing PV installation as demanded arises is simple. Its main disadvantage is its poor performance in cloudy weather. [12] PV systems range from small, residential and commercial rooftop or building integrated installations, to large utility-scale photovoltaic power station . [61] A household's solar panels can either be used for just that household or, if connected to an electrical grid, can be aggregated with millions of others. [62] The first utility-scale solar power plant was built in 1982 in Hesperia, California by ARCO . [63] The plant was not profitable and was sold eight years later. [64] However, over the following decades, PV cells became significantly more efficient and cheaper. [65] As a result, PV adoption has grown exponentially since 2010. [66] Global capacity increased from 230 GW at the end of 2015 to 890 GW in 2021. [67] PV grew fastest in China between 2016 and 2021, adding 560 GW, more than all advanced economies combined. [68] Four of the ten biggest solar power stations are in China, including the biggest, Golmud Solar Park in China. [69]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg/220px-1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg.png",
+                "caption": "Swanson's law –stating that solar module prices have dropped about 20% for each doubling of installed capacity—defines the \" learning rate \" of solar photovoltaics . [58] [59]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Wind power",
+        "text": "Humans have harnessed wind energy since at least 3500 BC. Until the 20th century, it was primarily used to power ships, windmills and water pumps. Today, the vast majority of wind power is used to generate electricity using wind turbines. [12] Modern utility-scale wind turbines range from around 600 kW to 9 MW of rated power. The power available from the wind is a function of the cube of the wind speed, so as wind speed increases, power output increases up to the maximum output for the particular turbine. [76] Areas where winds are stronger and more constant, such as offshore and high-altitude sites, are preferred locations for wind farms. Wind-generated electricity met nearly 4% of global electricity demand in 2015, with nearly 63 GW of new wind power capacity installed. Wind energy was the leading source of new capacity in Europe, the US and Canada, and the second largest in China. In Denmark, wind energy met more than 40% of its electricity demand while Ireland, Portugal and Spain each met nearly 20%. [77] Globally, the long-term technical potential of wind energy is believed to be five times total current global energy production, or 40 times current electricity demand, assuming all practical barriers needed were overcome. This would require wind turbines to be installed over large areas, particularly in areas of higher wind resources, such as offshore, and likely also industrial use of new types of VAWT turbines in addition to the horizontal axis units currently in use. As offshore wind speeds average ~90% greater than that of land, offshore resources can contribute substantially more energy than land-stationed turbines. [78] Investments in wind technologies reached USD 161 billion in 2020, with onshore wind dominating at 80% of total investments from 2013 to 2022. Offshore wind investments nearly doubled to USD 41 billion between 2019 and 2020, primarily due to policy incentives in China and expansion in Europe. Global wind capacity increased by 557 GW between 2013 and 2021, with capacity additions increasing by an average of 19% each year. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Pretty_flamingos_-_geograph.org.uk_-_578705.jpg/170px-Pretty_flamingos_-_geograph.org.uk_-_578705.jpg",
+                "caption": "Burbo , NW-England"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fentonwindpark1.jpg/220px-Fentonwindpark1.jpg",
+                "caption": "Sunrise at the Fenton Wind Farm in Minnesota, United States"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wind_energy_generation_by_region%2C_OWID.svg/300px-Wind_energy_generation_by_region%2C_OWID.svg.png",
+                "caption": "Wind energy generation by region over time [72]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Hydropower",
+        "text": "Since water is about 800 times denser than air , even a slow flowing stream of water, or moderate sea swell , can yield considerable amounts of energy. Water can generate electricity with a conversion efficiency of about 90%, which is the highest rate in renewable energy. [82] There are many forms of water energy: Much hydropower is flexible, thus complementing wind and solar. [86] In 2021, the world renewable hydropower capacity was 1,360 GW. [68] Only a third of the world's estimated hydroelectric potential of 14,000 TWh/year has been developed. [87] [88] New hydropower projects face opposition from local communities due to their large impact, including relocation of communities and flooding of wildlife habitats and farming land. [89] High cost and lead times from permission process, including environmental and risk assessments, with lack of environmental and social acceptance are therefore the primary challenges for new developments. [90] It is popular to repower old dams thereby increasing their efficiency and capacity as well as quicker responsiveness on the grid. [91] Where circumstances permit existing dams such as the Russell Dam built in 1985 may be updated with \"pump back\" facilities for pumped-storage which is useful for peak loads or to support intermittent wind and solar power. Because dispatchable power is more valuable than VRE [92] [93] countries with large hydroelectric developments such as Canada and Norway are spending billions to expand their grids to trade with neighboring countries having limited hydro. [94]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/220px-ThreeGorgesDam-China2009.jpg",
+                "caption": "The Three Gorges Dam for hydropower on the Yangtze River in China"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Three_gorges_dam_from_space.jpg/220px-Three_gorges_dam_from_space.jpg",
+                "caption": "Three Gorges Dam and Gezhouba Dam , China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Bioenergy",
+        "text": "Biomass is biological material derived from living, or recently living organisms. Most commonly, it refers to plants or plant-derived materials. As an energy source, biomass can either be used directly via combustion to produce heat, or converted to a more energy-dense biofuel like ethanol. Wood is the most significant biomass energy source as of 2012 [98] and is usually sourced from a trees cleared for silvicultural reasons or fire prevention . Municipal wood waste – for instance, construction materials or sawdust – is also often burned for energy. [99] The biggest per-capita producers of wood-based bioenergy are heavily forested countries like Finland, Sweden, Estonia, Austria, and Denmark. [100] Bioenergy can be environmentally destructive if old-growth forests are cleared to make way for crop production. In particular, demand for palm oil to produce biodiesel has contributed to the deforestation of tropical rainforests in Brazil and Indonesia. [101] In addition, burning biomass still produces carbon emissions, although much less than fossil fuels (39 grams of CO 2 per megajoule of energy, compared to 75 g/MJ for fossil fuels). [102]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Metz_biomass_power_station.jpg/220px-Metz_biomass_power_station.jpg",
+                "caption": "A CHP power station using wood to supply 30,000 households in France"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Biofuel",
+        "text": "Biofuels are primarily used in transportation, providing 3.5% of the world's transport energy demand in 2022, [103] up from 2.7% in 2010. [104] Biojet is expected to be important for short-term reduction of carbon dioxide emissions from long-haul flights. [105] Aside from wood, the major sources of bioenergy are bioethanol and biodiesel . [12] Bioethanol is usually produced by fermenting the sugar components of crops like sugarcane and maize , while biodiesel is mostly made from oils extracted from plants, such as soybean oil and corn oil . [106] Most of the crops used to produce bioethanol and biodiesel are grown specifically for this purpose, [107] although used cooking oil accounted for 14% of the oil used to produce biodiesel as of 2015. [106] The biomass used to produce biofuels varies by region. Maize is the major feedstock in the United States, while sugarcane dominates in Brazil. [108] In the European Union, where biodiesel is more common than bioethanol, rapeseed oil and palm oil are the main feedstocks. [109] China, although it produces comparatively much less biofuel, uses mostly corn and wheat. [110] In many countries, biofuels are either subsidized or mandated to be included in fuel mixtures . [101] There are many other sources of bioenergy that are more niche, or not yet viable at large scales. For instance, bioethanol could be produced from the cellulosic parts of crops, rather than only the seed as is common today. [111] Sweet sorghum may be a promising alternative source of bioethanol, due to its tolerance of a wide range of climates. [112] Cow dung can be converted into methane. [113] There is also a great deal of research involving algal fuel , which is attractive because algae is a non-food resource, grows around 20 times faster than most food crops, and can be grown almost anywhere. [114]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Faz_S_Sofia_canavial_090607_REFON.JPG/220px-Faz_S_Sofia_canavial_090607_REFON.JPG",
+                "caption": "Sugarcane plantation to produce ethanol in Brazil"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Soybeanbus.jpg/220px-Soybeanbus.jpg",
+                "caption": "A bus fueled by biodiesel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Geothermal energy",
+        "text": "Geothermal energy is thermal energy (heat) extracted from the Earth's crust . It originates from several different sources , of which the most significant is slow radioactive decay of minerals contained in the Earth's interior , [12] as well as some leftover heat from the formation of the Earth . [119] Some of the heat is generated near the Earth's surface in the crust, but some also flows from deep within the Earth from the mantle and core . [119] Geothermal energy extraction is viable mostly in countries located on tectonic plate edges, where the Earth's hot mantle is more exposed. [120] As of 2023, the United States has by far the most geothermal capacity (2.7 GW, [121] or less than 0.2% of the country's total energy capacity [122] ), followed by Indonesia and the Philippines. Global capacity in 2022 was 15 GW. [121] Geothermal energy can be either used directly to heat homes, as is common in Iceland, or to generate electricity. At smaller scales, geothermal power can be generated with geothermal heat pumps , which can extract heat from ground temperatures of under 30 °C (86 °F), allowing them to be used at relatively shallow depths of a few meters. [120] Electricity generation requires large plants and ground temperatures of at least 150 °C (302 °F). In some countries, electricity produced from geothermal energy accounts for a large portion of the total, such as Kenya (43%) and Indonesia (5%). [123] Technical advances may eventually make geothermal power more widely available. For example, enhanced geothermal systems involve drilling around 10 kilometres (6.2 mi) into the Earth, breaking apart hot rocks and extracting the heat using water. In theory, this type of geothermal energy extraction could be done anywhere on Earth. [120]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/220px-NesjavellirPowerPlant_edit2.jpg",
+                "caption": "Steam rising from the Nesjavellir Geothermal Power Station in Iceland"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/West_Ford_Flat_Geothermal_Cooling_Tower.JPG/170px-West_Ford_Flat_Geothermal_Cooling_Tower.JPG",
+                "caption": "Geothermal plant at The Geysers , California, US"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Krafla_geothermal_power_station_wiki.jpg/220px-Krafla_geothermal_power_station_wiki.jpg",
+                "caption": "Krafla , a geothermal power station in Iceland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Marine energy",
+        "text": "Marine energy (also sometimes referred to as ocean energy) is the energy carried by ocean waves , tides , salinity , and ocean temperature differences . Technologies to harness the energy of moving water include wave power , marine current power , and tidal power . Reverse electrodialysis (RED) is a technology for generating electricity by mixing fresh water and salty sea water in large power cells. [130] Most marine energy harvesting technologies are still at low technology readiness levels and not used at large scales. Tidal energy is generally considered the most mature, but has not seen wide deployment. [131] The world's largest tidal power station is on Sihwa Lake , South Korea, [132] which produces around 550 gigawatt-hours of electricity per year. [133]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sihwa_Lake_Tidal_Power_Station_aerial_view.jpg/220px-Sihwa_Lake_Tidal_Power_Station_aerial_view.jpg",
+                "caption": "Aerial view of Sihwa Tidal Power Station in South Korea"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Growth of renewables",
+        "text": "The results of a recent review of the literature concluded that as greenhouse gas (GHG) emitters begin to be held liable for damages resulting from GHG emissions resulting in climate change, a high value for liability mitigation would provide powerful incentives for deployment of renewable energy technologies. [181] In the decade of 2010–2019, worldwide investment in renewable energy capacity excluding large hydropower amounted to US$2.7 trillion, of which the top countries China contributed US$818 billion, the United States contributed US$392.3 billion, Japan contributed US$210.9 billion, Germany contributed US$183.4 billion, and the United Kingdom contributed US$126.5 billion. [182] This was an increase of over three and possibly four times the equivalent amount invested in the decade of 2000–2009 (no data is available for 2000–2003). [182] As of 2022, an estimated 28% of the world's electricity was generated by renewables. This is up from 19% in 1990. [183]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20210119_Renewable_energy_investment_-_2004-_BloombergNEF.svg/232px-20210119_Renewable_energy_investment_-_2004-_BloombergNEF.svg.png",
+                "caption": "Investment: Companies, governments and households have committed increasing amounts to decarbonization, including renewable energy (solar, wind), electric vehicles and associated charging infrastructure, energy storage, energy-efficient heating systems, carbon capture and storage, and hydrogen. [171] [172]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20201019_Levelized_Cost_of_Energy_%28LCOE%2C_Lazard%29_-_renewable_energy.svg/232px-20201019_Levelized_Cost_of_Energy_%28LCOE%2C_Lazard%29_-_renewable_energy.svg.png",
+                "caption": "Levelized cost: With increasingly widespread implementation of renewable energy sources, costs have declined, most notably for energy generated by solar panels. [175] [176] Levelized cost of energy (LCOE) is a measure of the average net present cost of electricity generation for a generating plant over its lifetime."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Future projections",
+        "text": "A December 2022 report by the IEA forecasts that over 2022-2027, renewables are seen growing by almost 2 400 GW in its main forecast, equal to the entire installed power capacity of China in 2021. This is an 85% acceleration from the previous five years, and almost 30% higher than what the IEA forecast in its 2021 report, making its largest ever upward revision. Renewables are set to account for over 90% of global electricity capacity expansion over the forecast period. [68] To achieve net zero emissions by 2050, IEA believes that 90% of global electricity generation will need to be produced from renewable sources. [17] In June 2022 IEA Executive Director Fatih Birol said that countries should invest more in renewables to \"ease the pressure on consumers from high fossil fuel prices, make our energy systems more secure, and get the world on track to reach our climate goals.\" [185] China's five year plan to 2025 includes increasing direct heating by renewables such as geothermal and solar thermal. [186] REPowerEU , the EU plan to escape dependence on fossil Russian gas , is expected to call for much more green hydrogen . [187] After a transitional period, [188] renewable energy production is expected to make up most of the world's energy production. In 2018, the risk management firm, DNV GL , forecasts that the world's primary energy mix will be split equally between fossil and non-fossil sources by 2050. [189]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2010-_Fossil_fuels_vs_Wind_%2B_Solar_-_electricity_generation.svg/220px-2010-_Fossil_fuels_vs_Wind_%2B_Solar_-_electricity_generation.svg.png",
+                "caption": "In 2023, electricity generation from wind and solar sources was projected to exceed 30% by 2030. [184]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Policy",
+        "text": "Policies to support renewable energy have been vital in their expansion. Where Europe dominated in establishing energy policy in the early 2000s, most countries around the world now have some form of energy policy. [199] The International Renewable Energy Agency (IRENA) is an intergovernmental organization for promoting the adoption of renewable energy worldwide. It aims to provide concrete policy advice and facilitate capacity building and technology transfer. IRENA was formed in 2009, with 75 countries signing the charter of IRENA. [200] As of April 2019, IRENA has 160 member states. [201] The then United Nations Secretary-General Ban Ki-moon has said that renewable energy can lift the poorest nations to new levels of prosperity, [202] and in September 2011 he launched the UN Sustainable Energy for All initiative to improve energy access, efficiency and the deployment of renewable energy. [203] The 2015 Paris Agreement on climate change motivated many countries to develop or improve renewable energy policies. [204] In 2017, a total of 121 countries adopted some form of renewable energy policy. [199] National targets that year existed in 176 countries. [204] In addition, there is also a wide range of policies at the state/provincial, and local levels. [104] Some public utilities help plan or install residential energy upgrades . Many national, state and local governments have created green banks . A green bank is a quasi-public financial institution that uses public capital to leverage private investment in clean energy technologies. [205] Green banks use a variety of financial tools to bridge market gaps that hinder the deployment of clean energy. Climate neutrality by the year 2050 is the main goal of the European Green Deal . [206] For the European Union to reach their target of climate neutrality, one goal is to decarbonise its energy system by aiming to achieve \"net-zero greenhouse gas emissions by 2050.\" [207]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Share_of_electricity_production_from_renewables.svg/330px-Share_of_electricity_production_from_renewables.svg.png",
+                "caption": "Share of electricity production from renewables, 2022 [8]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Geopolitics",
+        "text": "The geopolitical impact of the growing use of renewable energy is a subject of ongoing debate and research. [219] Many fossil-fuel producing countries, such as Qatar , Russia , Saudi Arabia and Norway , are currently able to exert diplomatic or geopolitical influence as a result of their oil wealth. Most of these countries are expected to be among the geopolitical \"losers\" of the energy transition, although some, like Norway, are also significant producers and exporters of renewable energy. Fossil fuels and the infrastructure to extract them may, in the long term, become stranded assets . [220] It has been speculated that countries dependent on fossil fuel revenue may one day find it in their interests to quickly sell off their remaining fossil fuels. [221] Conversely, nations abundant in renewable resources, and the minerals required for renewables technology, are expected to gain influence. [222] [223] In particular, China has become the world's dominant manufacturer of the technology needed to produce or store renewable energy, especially solar panels , wind turbines , and lithium-ion batteries . [224] Nations rich in solar and wind energy could become major energy exporters. [225] Some may produce and export green hydrogen , [226] [225] although electricity is projected to be the dominant energy carrier in 2050, accounting for almost 50% of total energy consumption (up from 22% in 2015). [227] Countries with large uninhabited areas such as Australia, China, and many African and Middle Eastern countries have a potential for huge installations of renewable energy. The production of renewable energy technologies requires rare-earth elements with new supply chains. [228] Countries with already weak governments that rely on fossil fuel revenue may face even higher political instability or popular unrest. Analysts consider Nigeria, Angola , Chad , Gabon , and Sudan , all countries with a history of military coups , to be at risk of instability due to dwindling oil income. [229] A study found that transition from fossil fuels to renewable energy systems reduces risks from mining, trade and political dependence because renewable energy systems don't need fuel – they depend on trade only for the acquisition of materials and components during construction. [230] In October 2021, European Commissioner for Climate Action Frans Timmermans suggested \"the best answer\" to the 2021 global energy crisis is \"to reduce our reliance on fossil fuels.\" [231] He said those blaming the European Green Deal were doing so \"for perhaps ideological reasons or sometimes economic reasons in protecting their vested interests.\" [231] Some critics blamed the European Union Emissions Trading System (EU ETS) and closure of nuclear plants for contributing to the energy crisis. [232] [233] [234] European Commission President Ursula von der Leyen said that Europe is \"too reliant\" on natural gas and too dependent on natural gas imports . According to Von der Leyen, \"The answer has to do with diversifying our suppliers ... and, crucially, with speeding up the transition to clean energy.\" [235]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TREC-Map-en.jpg/220px-TREC-Map-en.jpg",
+                "caption": "A concept of a super grid"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Public support",
+        "text": "Solar power plants may compete with arable land , [254] [255] while on-shore wind farms often face opposition due to aesthetic concerns and noise. [256] [257] Such opponents are often described as NIMBYs (\"not in my back yard\"). [258] Some environmentalists are concerned about fatal collisions of birds and bats with wind turbines. [259] Although protests against new wind farms occasionally occur around the world, regional and national surveys generally find broad support for both solar and wind power. [260] [261] [262] Community-owned wind energy is sometimes proposed as a way to increase local support for wind farms. [263] A 2011 UK Government document stated that \"projects are generally more likely to succeed if they have broad public support and the consent of local communities. This means giving communities both a say and a stake.\" [264] In the 2000s and early 2010s, many renewable projects in Germany, Sweden and Denmark were owned by local communities, particularly through cooperative structures. [265] [266] In the years since, more installations in Germany have been undertaken by large companies, [263] but community ownership remains strong in Denmark. [267]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg/220px-202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg.png",
+                "caption": "Acceptance of wind and solar facilities in one's community is stronger among U.S. Democrats (blue), while acceptance of nuclear power plants is stronger among U.S. Republicans (red). [253]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Solar resources",
+        "text": "Africa receives the most sunlight in comparison to all the other continents on Earth, especially as there are many perpetually sunny areas like the huge Sahara Desert . [12] It has much greater solar resources than any other continent. Desert regions stand up as the having the most sunlight while rain forests are considerably cloudier but still get a good global solar irradiation because of the proximity with the equator. The distribution of solar resources across Africa is fairly uniform, with more than 85% of the continent's landscape receiving at least 2,000 kWh/(m 2 year). A recent study indicates that a solar generating facility covering just 0.3% of the area comprising North Africa could supply all of the energy required by the European Union . [13] This is the same land area as the state of Maine . The Ouarzazate Solar power plant was completed in 2016, in Morocco. [14]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/World_GHI_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png/398px-World_GHI_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png",
+                "caption": "World map of global solar horizontal irradiation [1]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy_in_Africa",
+        "title": "Renewable energy in Africa",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Wave and wind resources",
+        "text": "Africa has a large coastline, where wind power and wave power resources are abundant and underutilized in the north and south. Geothermal power has potential to provide considerable amounts of energy in many eastern African nations. [16] Wind is far less uniformly distributed than solar resources, with optimal locations positioned near special topographical funneling features close to coastal locations, mountain ranges, and other natural channels in the north and south. The availability of wind on the western coast of Africa is substantial, exceeding 3,750 kW·h, and will accommodate the future prospect for energy demands [17] [18] Central Africa has lower than average wind resources to work with. [19]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Global_Map_of_Wind_Power_Density_Potential.png/421px-Global_Map_of_Wind_Power_Density_Potential.png",
+                "caption": "World map of wind power density. [15]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy_in_Africa",
+        "title": "Renewable energy in Africa",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Geothermal resources",
+        "text": "Geothermal power is mostly concentrated in eastern Africa, but there are many fragmented spots of high intensity geothermal potential spread across the continent. [20] There is enormous potential for geothermal energy in the East African Rift which is roughly 5,900 kilometers in length and spans several countries in East Africa including Eritrea , Ethiopia , Djibouti , Kenya , Uganda , and Zambia . [16]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Africa6_006.jpg/220px-Africa6_006.jpg",
+                "caption": "The Rift Valley near Eldoret, Kenya"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy_in_Africa",
+        "title": "Renewable energy in Africa",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Solar power",
+        "text": "Several large-scale solar power facilities are under development in Africa including projects in South Africa and Algeria . [40] Although solar power technology has the potential to supply energy to large numbers of people, and has been used to generate power on a large scale in developed nations, its greatest potential in Africa may be to provide power on a smaller scale and to use this energy to help with day-to-day needs such as small-scale electrification, desalination , water pumping , and water purification . The first utility-scale solar farm in Sub-Saharan Africa is the 8.5MW plant at Agahozo-Shalom Youth Village, in the Rwamagana District , Eastern Province of Rwanda . It leased 20 hectares (49 acres) of land from the village which is a charity to house and educate Rwandan genocide victims. The plant uses 28,360 photovoltaic panels and produces 6% of total electrical supply of the country. The project was built with U.S., Israeli, Dutch, Norwegian, Finnish and UK funding and expertise. [41] There are several examples of small grid-linked solar power stations in Africa, including the photovoltaic 250 kW Kigali Solaire station in Rwanda. [42] Under the South Africa Renewable Energy Independent Power Producer Procurement Program, [43] several projects have been developed, including the 96MW(DC) Jasper Solar Energy Project , [44] the 75MW(DC) Lesedi PV project, [45] and the 75MW(DC) Letsatsi PV Project, [46] all developed by the American company SolarReserve and completed in 2014. Power Up Gambia , a non-profit operating in The Gambia , uses solar power technology to provide power to Gambian health care facilities, providing a reliable source of electricity for lighting, diagnostic testing, treatments, and water pumping. [47] [48] Energy For Opportunity (EFO) , a non-profit working in West Africa, uses solar power for Schools, Health Clinics and Community Charging Stations, as well as teaches Photovoltaic installation classes at local technical institutes. So far its work has been mainly in Sierra Leone . [49] In particular its solar powered Community Charging Stations have been recognized as an innovative model to provide electricity to rural communities in the region. [50] [51] Some plans exist to build solar farms in the deserts of North Africa to supply power for Europe. The Desertec project, backed by several European energy companies and banks, planned to generate renewable electricity in the Sahara desert and distribute it through a high-voltage grid for export to Europe and local consumption in North-Africa. Ambitions seek to provide continental Europe with up to 15% of its electricity. The TuNur project would supply 2GW of solar generated electricity from Tunisia to the UK. In the Eastern and Southern Africa region, solar power has been identified as a key component in addressing the energy access deficit. The region's abundant sunlight offers a significant potential for solar energy to be harnessed, contributing to sustainable economic growth. By 2050, Sub-Saharan Africa is estimated to require around 3 billion tons of minerals and metals to support the deployment of solar energy among other renewable resources. [52]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sub_Saharan_Africa_GHI_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png/316px-Sub_Saharan_Africa_GHI_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png",
+                "caption": "Global Horizontal Irradiation in Sub-Saharan Africa. [39]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy_in_Africa",
+        "title": "Renewable energy in Africa",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Wind power",
+        "text": "The Koudia Al Baida Farm in Morocco, is the largest wind farm in the continent. Two other large wind farms are under construction in Tangier and Tarfaya . Kenya is building a wind farm, the Lake Turkana Wind Power (LTWP) , in Marsabit County . As Africa's largest wind farm, the project will increase the national electricity supply while creating jobs and reducing greenhouse gas emissions. LTWP is planned to produce 310 MW of wind power at full capacity. [58] [59] In January 2009, the first wind turbine in West Africa was erected in Batokunku , a village in The Gambia . The 150 kilowatt turbine provides electrical power for the 2,000-person village. [60] The South African REIPPP has resulted in several wind farms already in commercial operation in the country. These wind farms are currently in operation in the provinces of the Eastern, Northern and Western Cape. It is estimated that 10 farms are already under construction or in operation, with 12 more being approved with the 4th Round of the REIPPP.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Darling_Wind_Farm.jpg/150px-Darling_Wind_Farm.jpg",
+                "caption": "Darling Wind Farm in South Africa"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sub-Saharan-Africa-Mean-Wind-Speed-Global-Wind-Atlas.png/279px-Sub-Saharan-Africa-Mean-Wind-Speed-Global-Wind-Atlas.png",
+                "caption": "Wind Speed in Sub-Saharan Africa. [15]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy_in_Africa",
+        "title": "Renewable energy in Africa",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Geothermal power",
+        "text": "So far, only Kenya has exploited the geothermal potential of the Great Rift Valley . [16] Kenya has been estimated to contain 10,000 MWe of potential geothermal energy, [61] and has twenty potential drilling sites marked for survey in addition to three operational geothermal plants. [62] Kenya was the first country in Africa to adopt geothermal energy, in 1956, and houses the largest geothermal power plant on the continent, Olkaria II , operated by Kengen, who also operate Olkaria I . A further plant, Olkaria III , is privately owned and operated. [62] [63] Ethiopia is home to a single binary-cycle plant but does not utilize its full potential energy output for lack of experience in its operation. [16] Zambia has several sites planned for construction but their projects have stalled due to lack of funds. [16] Eritrea, Djibouti and Uganda have undertaken preliminary exploration for potential geothermal sources but have not constructed any type of power plant. [16] Geothermal power has been used in agricultural projects in Africa. The Oserian flower farm in Kenya utilizes several steam wells abandoned by Kengen to power its greenhouse.  In addition, the heat involved in the geothermal process is used to maintain stable greenhouse temperatures.  The heat can also be utilized in cooking, which would help eliminate the dependence on wood burning. [65]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Three-quarters_of_respondents_in_Africa_and_the_Middle_East_agree_that_their_countries_should_focus_on_developing_renewable_energy.png/220px-Three-quarters_of_respondents_in_Africa_and_the_Middle_East_agree_that_their_countries_should_focus_on_developing_renewable_energy.png",
+                "caption": "Three-quarters of respondents in Africa and the Middle East in a 2022 survey agree that their countries should focus on developing renewable energy. [64]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy_in_Africa",
+        "title": "Renewable energy in Africa",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "North America",
+        "text": "There are two types of electric cooperatives: distribution cooperatives and generation and transmission (G&T) cooperatives. Distribution electric cooperatives serve end-users, such as residences and businesses, who make up their membership. Generation and transmission cooperatives typically sell wholesale power to distribution cooperatives and are cooperative federations owned by their member co-ops.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Riverland_Energy_Cooperative.jpg/220px-Riverland_Energy_Cooperative.jpg",
+                "caption": "Riverland Energy Cooperative near Arcadia, Wisconsin"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Utility_cooperative",
+        "title": "Utility cooperative",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Solar and wind",
+        "text": "Another example of a hybrid energy system is a photovoltaic array coupled with a wind turbine . [6] This would create more output from the wind turbine during the winter, whereas during the summer, the solar panels would produce their peak output. Hybrid energy systems often yield greater economic and environmental returns than wind, solar, geothermal or trigeneration stand-alone systems by themselves. [7] A combine use of wind-solar systems results, in many places, to a smoother power output since the resources are anti-correlated. Therefore, the combined use of wind and solar systems is crucial for a large-scale grid integration. [8] In 2019 in western Minnesota , a $5m hybrid system was installed. It runs 500 kW of solar power through the inverter of a 2 MW wind turbine, increasing the capacity factor and reducing costs by $150,000 per year. Purchase contracts limits the local distributor to a 5% maximum of self-generation. [9] [10] The Pearl River Tower in Guangzhou , China, will mix solar panel on its windows and several wind turbines at different stories of its structure, allowing this tower to be energy positive. [ citation needed ] In several parts of China & India, there are lighting pylons with combinations of solar panels and wind-turbines at their top. This allows space already used for lighting to be used more efficiently with two complementary energy productions units. Most common models use horizontal axis wind-turbines, but now models are appearing with vertical axis wind-turbines, using a helicoidal shaped, twisted- Savonius system. [ citation needed ] Solar panels on the already existing wind turbines has been tested, but produced blinding rays of light that posed a threat to airplanes . A solution was to produce tinted solar panels that do not reflect as much light. Another proposed design was to have a vertical axis wind turbine coated in solar cells that are able to absorb sunlight from any angle. [11] Other solar hybrids include solar-wind systems. The combination of wind and solar has the advantage that the two sources complement each other because the peak operating times for each system occur at different times of the day and year. The power generation of such a hybrid system is more constant and fluctuates less than each of the two component subsystems. [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hybrid_Power_System.gif/250px-Hybrid_Power_System.gif",
+                "caption": "Hybrid solar and wind system"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Block_diagram.jpg/500px-Block_diagram.jpg",
+                "caption": "Block diagram of a PV/wind hybrid energy system"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eole_et_Helios.jpg/150px-Eole_et_Helios.jpg",
+                "caption": "Horizontal axis wind-turbine, combined with a solar panel on a lighting pylon at Weihai , Shandong province, China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hybrid_power",
+        "title": "Hybrid power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Solar PV, battery and grid",
+        "text": "Solar PV gives variable output which can be buffered with battery storage. However, large variations exist in production over the day, as well in many places seasonally. The battery helps match the power with the load. A hybrid solar inverter additionally allows the storage of low cost electricity drawn down on cheap tariffs. [31]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/PV-system-intelligent-hybrid-inverter.png/220px-PV-system-intelligent-hybrid-inverter.png",
+                "caption": "System diagram of intelligent hybrid inverters used in domestic setting."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hybrid_power",
+        "title": "Hybrid power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Wind-hydrogen system",
+        "text": "One method of storing wind energy is the production of hydrogen through the electrolysis of water . This hydrogen is subsequently used to generate electricity during periods when demand can not be matched by wind alone. The energy in the stored hydrogen can be converted into electrical power through fuel cell technology or a combustion engine linked to an electrical generator . Successfully storing hydrogen has many issues which need to be overcome, such as embrittlement of the materials used in the power system. This technology is being developed in many countries. In 2007 there was an IPO of an Australian firm called Wind Hydrogen that aimed to commercialise this technology in both Australia and the UK. [32] In 2008 the company changed its name and turned its operations to fossil fuel exploration. [33] In 2007, technology test sites included:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wind_hydrogen.JPG/450px-Wind_hydrogen.JPG",
+                "caption": ""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hybrid_power",
+        "title": "Hybrid power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Combined cycle hydrogen power plant",
+        "text": "Wind and solar power are variable renewable energy sources that aren't as consistent as base load energy and a combined cycle hydrogen power plant could help renewables by capturing excess energy, with electrolysis , when they produce to much and fill the gaps with that energy when they aren't producing as much. [45]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Variable_renewable_energy.svg/220px-Variable_renewable_energy.svg.png",
+                "caption": "Renewable and conventional energy production in Germany over two weeks in 2022. In hours with low wind and PV production, hard coal and gas fill the gap. Nuclear and biomass show almost no flexibility. PV follows the increased consumption during daytime hours but varies seasonally."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hybrid_power",
+        "title": "Hybrid power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    },
+    {
+        "section": "Business operations",
+        "text": "REC is the 12th Maharatna Company [11] functioning under the purview of the Ministry of Power . The company is listed on both the National Stock Exchange and the Bombay Stock Exchange . Business operations in India are supported by a network of 22 Regional Offices, with its corporate headquarters at Gurugram and a registered office in New Delhi .  : [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/REC_Signage.JPG/265px-REC_Signage.JPG",
+                "caption": ""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/REC_Limited",
+        "title": "REC Limited",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind energy for rural electrification"
+    }
+]

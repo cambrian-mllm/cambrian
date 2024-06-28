@@ -1,0 +1,198 @@
+[
+    {
+        "section": "Basic concepts",
+        "text": "The subdivision of a whole domain into simpler parts has several advantages: [2] Typical work out of the method involves: The global system of equations has known solution techniques and can be calculated from the initial values of the original problem to obtain a numerical answer. In the first step above, the element equations are simple equations that locally approximate the original complex equations to be studied, where the original equations are often partial differential equations (PDE). To explain the approximation in this process, the finite element method is commonly introduced as a special case of Galerkin method . The process, in mathematical language, is to construct an integral of the inner product of the residual and the weight functions and set the integral to zero. In simple terms, it is a procedure that minimizes the approximation error by fitting trial functions into the PDE. The residual is the error caused by the trial functions, and the weight functions are polynomial approximation functions that project the residual. The process eliminates all the spatial derivatives from the PDE, thus approximating the PDE locally with These equation sets are element equations.  They are linear if the underlying PDE is linear and vice versa. Algebraic equation sets that arise in the steady-state problems are solved using numerical linear algebra methods. In contrast, ordinary differential equation sets that occur in the transient problems are solved by numerical integration using standard techniques such as Euler's method or the Runge-Kutta method . In step (2) above, a global system of equations is generated from the element equations by transforming coordinates from the subdomains' local nodes to the domain's global nodes. This spatial transformation includes appropriate orientation adjustments as applied in relation to the reference coordinate system . The process is often carried out by FEM software using coordinate data generated from the subdomains. The practical application of FEM is known as finite element analysis (FEA). FEA as applied in engineering , is a computational tool for performing engineering analysis . It includes the use of mesh generation techniques for dividing a complex problem into small elements, as well as the use of software coded with a FEM algorithm. In applying FEA, the complex problem is usually a physical system with the underlying physics such as the Euler–Bernoulli beam equation , the heat equation , or the Navier-Stokes equations expressed in either PDE or integral equations , while the divided small elements of the complex problem represent different areas in the physical system. FEA may be used for analyzing problems over complicated domains (like cars and oil pipelines) when the domain changes (as during a solid-state reaction with a moving boundary), when the desired precision varies over the entire domain, or when the solution lacks smoothness. FEA simulations provide a valuable resource as they remove multiple instances of creating and testing complex prototypes for various high-fidelity situations. [ citation needed ] For example, in a frontal crash simulation, it is possible to increase prediction accuracy in \"important\" areas like the front of the car and reduce it in its rear (thus reducing the cost of the simulation). Another example would be in numerical weather prediction , where it is more important to have accurate predictions over developing highly nonlinear phenomena (such as tropical cyclones in the atmosphere, or eddies in the ocean) rather than relatively calm areas. A clear, detailed, and practical presentation of this approach can be found in The Finite Element Method for Engineers . [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Example_of_2D_mesh.png/300px-Example_of_2D_mesh.png",
+                "caption": "FEM mesh created by an analyst before finding a solution to a magnetic problem using FEM software. Colors indicate that the analyst has set material properties for each zone, in this case, a conducting wire coil in orange; a ferromagnetic component (perhaps iron ) in light blue; and air in grey. Although the geometry may seem simple, it would be very challenging to calculate the magnetic field for this setup without FEM software using equations alone ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Finite_element_method",
+        "title": "Finite element method",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Structural Analysis Software"
+    },
+    {
+        "section": "Discretization",
+        "text": "P1 and P2 are ready to be discretized, which leads to a common sub-problem (3). The basic idea is to replace the infinite-dimensional linear problem: with a finite-dimensional version: where V {\\displaystyle V} is a finite-dimensional subspace of H 0 1 {\\displaystyle H_{0}^{1}} . There are many possible choices for V {\\displaystyle V} (one possibility leads to the spectral method ). However, we take V {\\displaystyle V} as a space of piecewise polynomial functions for the finite element method.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Finite_element_method_1D_illustration1.png/220px-Finite_element_method_1D_illustration1.png",
+                "caption": "A function in H 0 1 , {\\displaystyle H_{0}^{1},} with zero values at the endpoints (blue) and a piecewise linear approximation (red)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Finite_element_method",
+        "title": "Finite element method",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Structural Analysis Software"
+    },
+    {
+        "section": "For problem P1",
+        "text": "We take the interval ( 0 , 1 ) {\\displaystyle (0,1)} , choose n {\\displaystyle n} values of x {\\displaystyle x} with 0 = x 0 < x 1 < ⋯ < x n < x n + 1 = 1 {\\displaystyle 0=x_{0}<x_{1}<\\cdots <x_{n}<x_{n+1}=1} and we define V {\\displaystyle V} by: V = { v : [ 0 , 1 ] → R : v is continuous, v | [ x k , x k + 1 ] is linear for k = 0 , … , n , and v ( 0 ) = v ( 1 ) = 0 } {\\displaystyle V=\\{v:[0,1]\\to \\mathbb {R} \\;:v{\\text{ is continuous, }}v|_{[x_{k},x_{k+1}]}{\\text{ is linear for }}k=0,\\dots ,n{\\text{, and }}v(0)=v(1)=0\\}} where we define x 0 = 0 {\\displaystyle x_{0}=0} and x n + 1 = 1 {\\displaystyle x_{n+1}=1} . Observe that functions in V {\\displaystyle V} are not differentiable according to the elementary definition of calculus. Indeed, if v ∈ V {\\displaystyle v\\in V} then the derivative is typically not defined at any x = x k {\\displaystyle x=x_{k}} , k = 1 , … , n {\\displaystyle k=1,\\ldots ,n} . However, the derivative exists at every other value of x {\\displaystyle x} , and one can use this derivative for integration by parts .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Piecewise_linear_function2D.svg/220px-Piecewise_linear_function2D.svg.png",
+                "caption": "A piecewise linear function in two dimensions"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Finite_element_method",
+        "title": "Finite element method",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Structural Analysis Software"
+    },
+    {
+        "section": "Choosing a basis",
+        "text": "To complete the discretization, we must select a basis of V {\\displaystyle V} . In the one-dimensional case, for each control point x k {\\displaystyle x_{k}} we will choose the piecewise linear function v k {\\displaystyle v_{k}} in V {\\displaystyle V} whose value is 1 {\\displaystyle 1} at x k {\\displaystyle x_{k}} and zero at every x j , j ≠ k {\\displaystyle x_{j},\\;j\\neq k} , i.e., v k ( x ) = { x − x k − 1 x k − x k − 1 if x ∈ [ x k − 1 , x k ] , x k + 1 − x x k + 1 − x k if x ∈ [ x k , x k + 1 ] , 0 otherwise , {\\displaystyle v_{k}(x)={\\begin{cases}{x-x_{k-1} \\over x_{k}\\,-x_{k-1}}&{\\text{ if }}x\\in [x_{k-1},x_{k}],\\\\{x_{k+1}\\,-x \\over x_{k+1}\\,-x_{k}}&{\\text{ if }}x\\in [x_{k},x_{k+1}],\\\\0&{\\text{ otherwise}},\\end{cases}}} for k = 1 , … , n {\\displaystyle k=1,\\dots ,n} ; this basis is a shifted and scaled tent function . For the two-dimensional case, we choose again one basis function v k {\\displaystyle v_{k}} per vertex x k {\\displaystyle x_{k}} of the triangulation of the planar region Ω {\\displaystyle \\Omega } . The function v k {\\displaystyle v_{k}} is the unique function of V {\\displaystyle V} whose value is 1 {\\displaystyle 1} at x k {\\displaystyle x_{k}} and zero at every x j , j ≠ k {\\displaystyle x_{j},\\;j\\neq k} . Depending on the author, the word \"element\" in the \"finite element method\" refers to the domain's triangles, the piecewise linear basis function, or both. So, for instance, an author interested in curved domains might replace the triangles with curved primitives and so might describe the elements as being curvilinear. On the other hand, some authors replace \"piecewise linear\" with \"piecewise quadratic\" or even \"piecewise polynomial\". The author might then say \"higher order element\" instead of \"higher degree polynomial\". The finite element method is not restricted to triangles (tetrahedra in 3-d or higher-order simplexes in multidimensional spaces). Still, it can be defined on quadrilateral subdomains (hexahedra, prisms, or pyramids in 3-d, and so on). Higher-order shapes (curvilinear elements) can be defined with polynomial and even non-polynomial shapes (e.g., ellipse or circle). Examples of methods that use higher degree piecewise polynomial basis functions are the hp-FEM and spectral FEM . More advanced implementations (adaptive finite element methods) utilize a method to assess the quality of the results (based on error estimation theory) and modify the mesh during the solution aiming to achieve an approximate solution within some bounds from the exact solution of the continuum problem. Mesh adaptivity may utilize various techniques; the most popular are:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Linear_interpolation_of_J0_%28basis_set%29.svg/200px-Linear_interpolation_of_J0_%28basis_set%29.svg.png",
+                "caption": "16 scaled and shifted triangular basis functions (colors) used to reconstruct a zeroeth order Bessel function J 0 (black)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Finite_element_method",
+        "title": "Finite element method",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Structural Analysis Software"
+    },
+    {
+        "section": "Small support of the basis",
+        "text": "The primary advantage of this choice of basis is that the inner products ⟨ v j , v k ⟩ = ∫ 0 1 v j v k d x {\\displaystyle \\langle v_{j},v_{k}\\rangle =\\int _{0}^{1}v_{j}v_{k}\\,dx} and ϕ ( v j , v k ) = ∫ 0 1 v j ′ v k ′ d x {\\displaystyle \\phi (v_{j},v_{k})=\\int _{0}^{1}v_{j}'v_{k}'\\,dx} will be zero for almost all j , k {\\displaystyle j,k} .\n(The matrix containing ⟨ v j , v k ⟩ {\\displaystyle \\langle v_{j},v_{k}\\rangle } in the ( j , k ) {\\displaystyle (j,k)} location is known as the Gramian matrix .)\nIn the one dimensional case, the support of v k {\\displaystyle v_{k}} is the interval [ x k − 1 , x k + 1 ] {\\displaystyle [x_{k-1},x_{k+1}]} . Hence, the integrands of ⟨ v j , v k ⟩ {\\displaystyle \\langle v_{j},v_{k}\\rangle } and ϕ ( v j , v k ) {\\displaystyle \\phi (v_{j},v_{k})} are identically zero whenever | j − k | > 1 {\\displaystyle |j-k|>1} . Similarly, in the planar case, if x j {\\displaystyle x_{j}} and x k {\\displaystyle x_{k}} do not share an edge of the triangulation, then the integrals ∫ Ω v j v k d s {\\displaystyle \\int _{\\Omega }v_{j}v_{k}\\,ds} and ∫ Ω ∇ v j ⋅ ∇ v k d s {\\displaystyle \\int _{\\Omega }\\nabla v_{j}\\cdot \\nabla v_{k}\\,ds} are both zero.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Finite_element_triangulation.svg/220px-Finite_element_triangulation.svg.png",
+                "caption": "Solving the two-dimensional problem u x x + u y y = − 4 {\\displaystyle u_{xx}+u_{yy}=-4} in the disk centered at the origin and radius 1, with zero boundary conditions. (a) The triangulation."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Finite_element_sparse_matrix.png/220px-Finite_element_sparse_matrix.png",
+                "caption": "(b) The sparse matrix L of the discretized linear system"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Finite_element_solution.svg/220px-Finite_element_solution.svg.png",
+                "caption": "(c) The computed solution, u ( x , y ) = 1 − x 2 − y 2 {\\displaystyle u(x,y)=1-x^{2}-y^{2}}"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Finite_element_method",
+        "title": "Finite element method",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Structural Analysis Software"
+    },
+    {
+        "section": "Application",
+        "text": "Various specializations under the umbrella of the mechanical engineering discipline (such as aeronautical, biomechanical, and automotive industries) commonly use integrated FEM in the design and development of their products. Several modern FEM packages include specific components such as thermal, electromagnetic, fluid, and structural working environments. In a structural simulation, FEM helps tremendously in producing stiffness and strength visualizations and minimizing weight, materials, and costs. [28] FEM allows detailed visualization of where structures bend or twist, indicating the distribution of stresses and displacements. FEM software provides a wide range of simulation options for controlling the complexity of modeling and system analysis. Similarly, the desired level of accuracy required and associated computational time requirements can be managed simultaneously to address most engineering applications. FEM allows entire designs to be constructed, refined, and optimized before the design is manufactured. The mesh is an integral part of the model and must be controlled carefully to give the best results. Generally, the higher the number of elements in a mesh, the more accurate the solution of the discretized problem. However, there is a value at which the results converge, and further mesh refinement does not increase accuracy. [29] This powerful design tool has significantly improved both the standard of engineering designs and the design process methodology in many industrial applications. [31] The introduction of FEM has substantially decreased the time to take products from concept to the production line. [31] Testing and development have been accelerated primarily through improved initial prototype designs using FEM. [32] In summary, benefits of FEM include increased accuracy, enhanced design and better insight into critical design parameters, virtual prototyping, fewer hardware prototypes, a faster and less expensive design cycle, increased productivity, and increased revenue. [31] In the 1990s FEM was proposed for use in stochastic modeling for numerically solving probability models [33] and later for reliability assessment. [34]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Vanadis_a1_test.gif/245px-Vanadis_a1_test.gif",
+                "caption": "3D pollution transport model - concentration field on ground level"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Vanadis_a2_test.gif/245px-Vanadis_a2_test.gif",
+                "caption": "3D pollution transport model - concentration field on perpendicular surface"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Human_knee_joint_FE_model.png/245px-Human_knee_joint_FE_model.png",
+                "caption": "Finite Element Model of a human knee joint [30]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Finite_element_method",
+        "title": "Finite element method",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Structural Analysis Software"
+    },
+    {
+        "section": "Education",
+        "text": "Degrees in mechanical engineering are offered at various universities worldwide. Mechanical engineering programs typically take four to five years of study depending on the place and university and result in a Bachelor of Engineering (B.Eng. or B.E.), Bachelor of Science (B.Sc. or B.S.), Bachelor of Science Engineering (B.Sc.Eng.), Bachelor of Technology (B.Tech.), Bachelor of Mechanical Engineering (B.M.E.), or Bachelor of Applied Science (B.A.Sc.) degree, in or with emphasis in mechanical engineering. In Spain, Portugal and most of South America, where neither B.S. nor B.Tech. programs have been adopted, the formal name for the degree is \"Mechanical Engineer\", and the course work is based on five or six years of training. In Italy the course work is based on five years of education, and training, but in order to qualify as an Engineer one has to pass a state exam at the end of the course. In Greece, the coursework is based on a five-year curriculum. [38] In the United States, most undergraduate mechanical engineering programs are accredited by the Accreditation Board for Engineering and Technology (ABET) to ensure similar course requirements and standards among universities. The ABET web site lists 302 accredited mechanical engineering programs as of 11 March 2014. [39] Mechanical engineering programs in Canada are accredited by the Canadian Engineering Accreditation Board (CEAB), [40] and most other countries offering engineering degrees have similar accreditation societies. In Australia , mechanical engineering degrees are awarded as Bachelor of Engineering (Mechanical) or similar nomenclature, although there are an increasing number of specialisations. The degree takes four years of full-time study to achieve. To ensure quality in engineering degrees, Engineers Australia accredits engineering degrees awarded by Australian universities in accordance with the global Washington Accord . Before the degree can be awarded, the student must complete at least 3 months of on the job work experience in an engineering firm. [41] Similar systems are also present in South Africa and are overseen by the Engineering Council of South Africa (ECSA). In India , to become an engineer, one needs to have an engineering degree like a B.Tech. or B.E., have a diploma in engineering, or by completing a course in an engineering trade like fitter from the Industrial Training Institute (ITIs) to receive a \"ITI Trade Certificate\" and also pass the All India Trade Test (AITT) with an engineering trade conducted by the National Council of Vocational Training (NCVT) by which one is awarded a \"National Trade Certificate\". A similar system is used in Nepal. [42] Some mechanical engineers go on to pursue a postgraduate degree such as a Master of Engineering , Master of Technology , Master of Science , Master of Engineering Management (M.Eng.Mgt. or M.E.M.), a Doctor of Philosophy in engineering (Eng.D. or Ph.D.) or an engineer's degree . The master's and engineer's degrees may or may not include research . The Doctor of Philosophy includes a significant research component and is often viewed as the entry point to academia . [43] The Engineer's degree exists at a few institutions at an intermediate level between the master's degree and the doctorate.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mechanical_Engineering_Lab_at_Lord_Hall%2C_The_Ohio_State_University.jpg/220px-Mechanical_Engineering_Lab_at_Lord_Hall%2C_The_Ohio_State_University.jpg",
+                "caption": "Mechanical Engineering teaching lab at Ohio State University (cca. 1900)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mechanical_engineering",
+        "title": "Mechanical engineering",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Structural Analysis Software"
+    },
+    {
+        "section": "Mechanics",
+        "text": "Mechanics is, in the most general sense, the study of forces and their effect upon matter . Typically, engineering mechanics is used to analyze and predict the acceleration and deformation (both elastic and plastic ) of objects under known forces (also called loads) or stresses . Subdisciplines of mechanics include Mechanical engineers typically use mechanics in the design or analysis phases of engineering. If the engineering project were the design of a vehicle, statics might be employed to design the frame of the vehicle, in order to evaluate where the stresses will be most intense. Dynamics might be used when designing the car's engine, to evaluate the forces in the pistons and cams as the engine cycles. Mechanics of materials might be used to choose appropriate materials for the frame and engine. Fluid mechanics might be used to design a ventilation system for the vehicle (see HVAC ), or to design the intake system for the engine.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mohrs_circle.svg/220px-Mohrs_circle.svg.png",
+                "caption": "Mohr's circle , a common tool to study stresses in a mechanical element"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mechanical_engineering",
+        "title": "Mechanical engineering",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Structural Analysis Software"
+    },
+    {
+        "section": "Mechatronics and robotics",
+        "text": "Mechatronics is a combination of mechanics and electronics. It is an interdisciplinary branch of mechanical engineering, electrical engineering and software engineering that is concerned with integrating electrical and mechanical engineering to create hybrid automation systems. In this way, machines can be automated through the use of electric motors , servo-mechanisms , and other electrical systems in conjunction with special software. A common example of a mechatronics system is a CD-ROM drive. Mechanical systems open and close the drive, spin the CD and move the laser, while an optical system reads the data on the CD and converts it to bits . Integrated software controls the process and communicates the contents of the CD to the computer. Robotics is the application of mechatronics to create robots, which are often used in industry to perform tasks that are dangerous, unpleasant, or repetitive. These robots may be of any shape and size, but all are preprogrammed and interact physically with the world. To create a robot, an engineer typically employs kinematics (to determine the robot's range of motion) and mechanics (to determine the stresses within the robot). Robots are used extensively in industrial automation engineering. They allow businesses to save money on labor, perform tasks that are either too dangerous or too precise for humans to perform them economically, and to ensure better quality. Many companies employ assembly lines of robots, especially in Automotive Industries and some factories are so robotized that they can run by themselves . Outside the factory, robots have been employed in bomb disposal, space exploration , and many other fields. Robots are also sold for various residential applications, from recreation to domestic applications. [59]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/FMS1_small.JPG/220px-FMS1_small.JPG",
+                "caption": "Training FMS with learning robot SCORBOT-ER 4u, workbench CNC Mill and CNC Lathe"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mechanical_engineering",
+        "title": "Mechanical engineering",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Structural Analysis Software"
+    },
+    {
+        "section": "Design and drafting",
+        "text": "Drafting or technical drawing is the means by which mechanical engineers design products and create instructions for manufacturing parts. A technical drawing can be a computer model or hand-drawn schematic showing all the dimensions necessary to manufacture a part, as well as assembly notes, a list of required materials, and other pertinent information. [64] A U.S. mechanical engineer or skilled worker who creates technical drawings may be referred to as a drafter or draftsman. Drafting has historically been a two-dimensional process, but computer-aided design (CAD) programs now allow the designer to create in three dimensions. Instructions for manufacturing a part must be fed to the necessary machinery, either manually, through programmed instructions, or through the use of a computer-aided manufacturing (CAM) or combined CAD/CAM program. Optionally, an engineer may also manually manufacture a part using the technical drawings. However, with the advent of computer numerically controlled (CNC) manufacturing, parts can now be fabricated without the need for constant technician input. Manually manufactured parts generally consist of spray coatings , surface finishes, and other processes that cannot economically or practically be done by a machine. Drafting is used in nearly every subdiscipline of mechanical engineering, and by many other branches of engineering and architecture. Three-dimensional models created using CAD software are also commonly used in finite element analysis (FEA) and computational fluid dynamics (CFD).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Mech_2_3D.png/220px-Mech_2_3D.png",
+                "caption": "A CAD model of a mechanical double seal"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mechanical_engineering",
+        "title": "Mechanical engineering",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Structural Analysis Software"
+    },
+    {
+        "section": "Modern tools",
+        "text": "Many mechanical engineering companies, especially those in industrialized nations, have incorporated computer-aided engineering (CAE) programs into their existing design and analysis processes, including 2D and 3D solid modeling computer-aided design (CAD). This method has many benefits, including easier and more exhaustive visualization of products, the ability to create virtual assemblies of parts, and the ease of use in designing mating interfaces and tolerances. Other CAE programs commonly used by mechanical engineers include product lifecycle management (PLM) tools and analysis tools used to perform complex simulations. Analysis tools may be used to predict product response to expected loads, including fatigue life and manufacturability. These tools include finite element analysis (FEA), computational fluid dynamics (CFD), and computer-aided manufacturing (CAM). Using CAE programs, a mechanical design team can quickly and cheaply iterate the design process to develop a product that better meets cost, performance, and other constraints. No physical prototype need be created until the design nears completion, allowing hundreds or thousands of designs to be evaluated, instead of a relative few. In addition, CAE analysis programs can model complicated physical phenomena which cannot be solved by hand, such as viscoelasticity , complex contact between mating parts, or non-Newtonian flows . As mechanical engineering begins to merge with other disciplines, as seen in mechatronics , multidisciplinary design optimization (MDO) is being used with other CAE programs to automate and improve the iterative design process. MDO tools wrap around existing CAE processes, allowing product evaluation to continue even after the analyst goes home for the day. They also use sophisticated optimization algorithms to more intelligently explore possible designs, often finding better, innovative solutions to difficult multidisciplinary design problems.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Cad_crank.jpg/220px-Cad_crank.jpg",
+                "caption": "An oblique view of a four-cylinder inline crankshaft with pistons"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mechanical_engineering",
+        "title": "Mechanical engineering",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Structural Analysis Software"
+    },
+    {
+        "section": "Composites",
+        "text": "Composites or composite materials are a combination of materials which provide different physical characteristics than either material separately. Composite material research within mechanical engineering typically focuses on designing (and, subsequently, finding applications for) stronger or more rigid materials while attempting to reduce weight , susceptibility to corrosion, and other undesirable factors. Carbon fiber reinforced composites, for instance, have been used in such diverse applications as spacecraft and fishing rods.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kohlenstofffasermatte.jpg/220px-Kohlenstofffasermatte.jpg",
+                "caption": "Composite cloth consisting of woven carbon fiber"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mechanical_engineering",
+        "title": "Mechanical engineering",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Structural Analysis Software"
+    }
+]

@@ -1,0 +1,631 @@
+[
+    {
+        "section": "Calculating the amount of available power",
+        "text": "A hydropower resource can be evaluated by its available power . Power is a function of the hydraulic head and volumetric flow rate . The head is the energy per unit weight (or unit mass) of water. [5] The static head is proportional to the difference in height through which the water falls. Dynamic head is related to the velocity of moving water. Each unit of water can do an amount of work equal to its weight times the head. The power available from falling water can be calculated from the flow rate and density of water, the height of fall, and the local acceleration due to gravity: To illustrate, the power output of a turbine that is 85% efficient, with a flow rate of 80 cubic metres per second (2800 cubic feet per second) and a head of 145 metres (476 feet), is 97 megawatts: [note 1] Operators of hydroelectric stations compare the total electrical energy produced with the theoretical potential energy of the water passing through the turbine to calculate efficiency. Procedures and definitions for calculation of efficiency are given in test codes such as ASME PTC 18 and IEC 60041. Field testing of turbines is used to validate the manufacturer's efficiency guarantee. Detailed calculation of the efficiency of a hydropower turbine accounts for the head lost due to flow friction in the power canal or penstock, rise in tailwater level due to flow, the location of the station and effect of varying gravity, the air temperature and barometric pressure, the density of the water at ambient temperature, and the relative altitudes of the forebay and tailbay. For precise calculations, errors due to rounding and the number of significant digits of constants must be considered. [6] Some hydropower systems such as water wheels can draw power from the flow of a body of water without necessarily changing its height. In this case, the available power is the kinetic energy of the flowing water. Over-shot water wheels can efficiently capture both types of energy. [7] The flow in a stream can vary widely from season to season. The development of a hydropower site requires analysis of flow records , sometimes spanning decades, to assess the reliable annual energy supply. Dams and reservoirs provide a more dependable source of power by smoothing seasonal changes in water flow. However, reservoirs have a significant environmental impact , as does alteration of naturally occurring streamflow. Dam design must account for the worst-case, \"probable maximum flood\" that can be expected at the site; a spillway is often included to route flood flows around the dam. A computer model of the hydraulic basin and rainfall and snowfall records are used to predict the maximum flood. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_Dam_%282890371280%29.jpg/280px-The_Dam_%282890371280%29.jpg",
+                "caption": "The Three Gorges Dam in China; the hydroelectric dam is the world's largest power station by installed capacity ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydropower",
+        "title": "Hydropower",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Water Use in Copper Mining",
+        "text": "Chile has emerged as the world's number one copper producer and exports have tripled since the early in 1980s. Primarily mined and processed in the Atacama Desert, copper mining historically uses large quantities of water.  In 2008 and 2009, copper miners have reduced water use on the heels of Chile's worst drought in decades. Water being key ingredient in various stages of copper extraction, miners will consume 11.5 m 3 /s (410 ft 3 /s) of water on average, down from 15 m 3 /s (530 ft 3 /s) in 2000. [23] Growing competition for water between mining, cities and farmers has led to an increase in the value of water in Chile. [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Chuquicamata-002.jpg/200px-Chuquicamata-002.jpg",
+                "caption": "Chuquicamata ( Chile ). The largest open pit copper mines in the world."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Water_resources_management_in_Chile",
+        "title": "Water resources management in Chile",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Lewiston Pump-Generating Plant",
+        "text": "The pump-generating plant in the Lewiston Dam is atypical, in that the dam was constructed not to control the flow of water in a natural river, but to contain a man-made 1,900-acre (770 ha), 22-billion-US-gallon (83,000,000 m 3 ) upper reservoir (named the Lewiston Reservoir) which stores water pumped into the reservoir from the forebay of the Robert Moses Power Station. Water enters the forebay by tunnels from the Niagara River controlled by the International Control Dam upstream of the natural falls. Water in the forebay can be either pumped up into the upper reservoir for later use or immediately sent down over the escarpment downstream of the natural falls through the Robert Moses Power Station turbines. The Lewiston Pump-Generating Plant 43°08′33″N 79°01′18″W ﻿ / ﻿ 43.14250°N 79.02167°W ﻿ / 43.14250; -79.02167 ﻿ ( Lewiston Pump-Generating Plant ) houses 12 electrically powered pump -generators that can generate a combined 240 MW (320,000 hp) when water in the upper reservoir is released. At night, two 46 ft (14 m) wide by 66 ft (20 m) tall tunnels [10] divert a substantial fraction (600,000 US gal (2,300 m 3 ) per second) of the water in the Niagara River 4.5 mi (7.2 km) to the forebay. Electricity generated in the Moses plant powers the Lewiston pumps to push water into the upper reservoir. The water is pumped at night because the demand for electricity is much lower than during the day. In addition to the lower demand for electricity at night, less water can be diverted from the river during the day because of the desire to preserve the appearance of the falls. During the day, when electrical demand is high, water is released from the upper reservoir through the Lewiston Dam pump-generators, generating electricity. The water flows into the forebay, where it then flows through the turbines of the Moses plant back to the main river. This allows water diverted from above Niagara Falls to pass through two sets of turbines, generating electricity both times. This arrangement is an example of pumped-storage hydroelectricity . Engineers copied what had been built by Ontario Hydro, across the river, when a similar system was built during construction of the Sir Adam Beck Generating Station II in the 1950s. This system allows energy to be stored in vast quantities. The potential energy in the diverted water is converted into electrical energy in the Moses plant. At night, some of that electrical energy is converted back to potential energy when water is pumped into the upper reservoir behind the Lewiston Dam. During the day, part of the potential energy of the water in the Lewiston reservoir is converted into electricity at the Lewiston Dam, and then its remaining potential energy is captured by the Moses plant, which is also capturing the potential energy of the water diverted from the river in real-time. Beginning in 2012 and until 2021, the pump-generating plant has undergone a $460 million modernization that increased the plant's efficiency and service life. [11] The Robert Moses Plant was refurbished in 2006. [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Adam_Beck_and_Robert_Moses.jpg/220px-Adam_Beck_and_Robert_Moses.jpg",
+                "caption": "The Robert Moses Niagara Power Station at right."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Robert_Moses_Niagara_Power_Plant",
+        "title": "Robert Moses Niagara Power Plant",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Corporate structure",
+        "text": "Hydro-Québec has created separate business units dealing with the generation , transmission , distribution and construction. In 2017, production division generated 1.9B $ of net income (68.4%), transmission division 0.55B$ (19.4%), distribution division 0.33B $ (11.7%), and construction division did not generate any income. Hydro-Quebec redistributes all profits back to the government. In 2017, the crown corporation contributed $4 billion to the Quebec government by means of net income ($2.8B), royalties ($0.7B), public utilities tax ($0.3B) and debt securities ($0.2B). [22] In the year 2000 with the adoption of Bill 116, which amended the Act respecting the Régie de l'énergie , [23] to enact the functional separation of Hydro-Québec's various business units. Legislation passed in 2000 commits the generation division, Hydro-Québec Production, to provide the distribution division, Hydro-Québec Distribution, a yearly heritage pool of up to 165 TWh of energy plus ancillary services—including an extra 13.9 TWh for losses and a guaranteed peak capacity of 34,342 MW [24] —at a set price of 2.79¢ per kWh. Order in council 1277-2001 specifies quantities to be delivered for each of the 8,760 hourly intervals, which vary from 11,420 to 34,342 MW. [25] According to the 2017 annual report the workforce stood at 19,786 employees, both permanent and temporary workers. And, a total of 1,304 employees were hired. [26]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Quebec_Map_with_Hydro-Qu%C3%A9bec_infrastructures-en.png/330px-Quebec_Map_with_Hydro-Qu%C3%A9bec_infrastructures-en.png",
+                "caption": "Hydro-Québec generation and main transmission network, as of 2008."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec",
+        "title": "Hydro-Québec",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Privatization debate",
+        "text": "In 1981, the Parti Québécois government redefined Hydro-Québec's mission by modifying the terms of the social pact of 1944. The government issued itself 43,741,090 shares worth C$100 each, [27] and the amended statute stated that Hydro-Québec would now pay up to 75% of its net earnings in dividends. [28] This amendment to the Hydro-Québec Act started an episodic debate on whether Hydro-Québec should be fully or partially privatized. In recent years, economist Marcel Boyer and businessman Claude Garcia—both associated with the conservative think tank The Montreal Economic Institute —have often raised the issue, claiming that the company could be better managed by the private sector and that the proceeds from a sale would lower public debt . [29] [30] Without going as far as Boyer and Garcia, Mario Dumont , the head of the Action démocratique du Québec , briefly discussed the possibility of selling a minority stake of Hydro-Québec during the 2008 election campaign . [31] A Léger Marketing poll conducted in November 2008 found that a majority of Quebec respondents (53%) were opposed to his proposal to sell 7.5% of the company's equity to Quebec citizens and businesses, while 38% were in favour. [32] Commenting on the issue on Guy A. Lepage 's talk show , former PQ Premier Jacques Parizeau estimated that such an idea would be quite unpopular in public opinion, adding that Hydro-Québec is often seen by Quebecers as a national success story and a source of pride. [33] This could explain why various privatization proposals in the past have received little public attention. The liberal government has repeatedly stated that Hydro-Québec is not for sale. [34] Like many other economists, [35] [36] Yvan Allaire, from Montreal's Hautes études commerciales business school, advocate increased electricity rates as a way to increase the government's annual dividend without resorting to privatization. [37] Others, like columnist Bertrand Tremblay of Saguenay 's Le Quotidien , claim that privatization would signal a drift to the days when Quebec's natural resources were sold in bulk to foreigners at ridiculously low prices. \"For too long, Tremblay writes, Quebec was somewhat of a banana republic, almost giving away its forestry and water resources. In turn, those foreign interests were exporting our jobs associated with the development of our natural resources with the complicity of local vultures\". [38] Left-wing academics, such as UQAM 's Léo-Paul Lauzon and Gabriel Sainte-Marie, have claimed that privatization would be done at the expense of residential customers, who would pay much higher rates. They say that privatization would also be a betrayal of the social pact between the people and its government, and that the province would be short-selling itself by divesting of a choice asset for a minimal short term gain. [39] [40]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Montreal_skyline_with_Hydro-Qu%C3%A9bec_building.jpg/280px-Montreal_skyline_with_Hydro-Qu%C3%A9bec_building.jpg",
+                "caption": "The Hydro-Québec Building is a landmark of Montreal's downtown."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec",
+        "title": "Hydro-Québec",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Power generation",
+        "text": "On December 31, 2013, Hydro-Québec Production owned and operated 61 hydro plants —including 12 of over 1,000 MW capacity — with 26 major reservoirs. [42] These facilities are located in 13 of Quebec's 430 watersheds , [43] including the Saint Lawrence , Betsiamites , La Grande , Manicouagan , Ottawa , Outardes , and Saint-Maurice rivers. [44] These plants provide the bulk of electricity generated and sold by the company. Non-hydro plants included the baseload 675-MW gross Gentilly nuclear generating station , a CANDU-design reactor which was permanently shut down on December 28, 2012 [45] the 660-MW Tracy Thermal Generating Station , a heavy fuel oil-fired plant shutdown in March 2011 [46] and two gas turbine peaker plants , for a total installed capacity of 36,971 MW in 2011. [47] Hydro-Québec's average generation cost was 2.11 cents per kWh in 2011. [48] The company also purchases the bulk of the output of the 5,428-MW Churchill Falls generating station in Labrador, under a long-term contract expiring in 2041. [49] In 2009, Hydro-Québec bought the 60% stake owned by AbitibiBowater in the McCormick plant (335 MW), located at the mouth of the Manicouagan River near Baie-Comeau , for C$616 million. [50] In 2013, the energy sold by Hydro-Québec to its grid-connected customers in Quebec and exported to neighboring markets came almost exclusively from renewable sources. Hydro (96.78%) is by far the largest source, followed by wind (2.16%) and biomass, biogas and waste (0.75%). The remainder came from nuclear (0.19%) and thermal (0.12%) generation. Emissions of carbon dioxide (1,130 tonnes/TWh), sulfur dioxide (4 tonnes/TWh) and nitrogen oxides (10 tonnes/TWh) were between 49 and 238 times lower than the industry average in northeastern North America. Imported electricity bought on the markets account for most of these emissions. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Barrage_Daniel-Johnson2_edited.jpg/220px-Barrage_Daniel-Johnson2_edited.jpg",
+                "caption": "The Daniel-Johnson Dam on the Manicouagan River , supplying the Manic-5 hydro plant."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec",
+        "title": "Hydro-Québec",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Transmission system",
+        "text": "Hydro-Québec's expertise at building and operating a very high voltage electrical grid spreading over long distances has long been recognized in the electrical industry. [52] [53] TransÉnergie, Hydro-Québec's transmission division, operates the largest electricity transmission network in North America. It acts as the independent system operator and reliability coordinator for the Québec interconnection of the North American Electric Reliability Corporation system, and is part of the Northeast Power Coordinating Council (NPCC). TransÉnergie manages the flow of energy on the Quebec network and ensures non-discriminatory access to all participants involved in the wholesale market. [54] The non-discriminatory access policy allows a company such as Nalcor to sell some of its share of power from Churchill Falls on the open market in the State of New York using TransÉnergie's network, upon payment of a transmission fee. [55] [56] In recent years, TransÉnergie's Contrôle des mouvements d'énergie (CMÉ) unit has been acting as the reliability coordinator of the bulk electricity network for Quebec as a whole, under a bilateral agreement between the Régie de l'énergie du Québec and the Federal Energy Regulatory Commission of the United States. [57] TransÉnergie's high voltage network stretches over 33,630 km (20,900 mi), including 11,422 km (7,097 mi) of 765 and 735 kV lines , and a network of 514 substations. [58] It is connected to neighbouring Canadian provinces and the United States by 17 ties, with a maximum reception capacity of 10,850 MW [note 2] and a maximum transmission capacity of 7,994 MW. [59]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Poste_Micoua.jpg/220px-Poste_Micoua.jpg",
+                "caption": "The Micoua substation on the North Shore of Quebec. This facility converts 315 kV power coming from five hydro plant to 735 kV. This TransÉnergie facility is one of the main nodes of the 11,422-kilometre (7,097 mi) long 735 kV network."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec",
+        "title": "Hydro-Québec",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Interconnections",
+        "text": "The TransÉnergie's network operates asynchronously from that of its neighbours on the Eastern Interconnection . Although Quebec uses the same 60 hertz frequency as the rest of North America, its grid does not use the same phase as surrounding networks. [60] TransÉnergie mainly relies on back to back HVDC converters to export or import electricity from other jurisdictions. This feature of the Quebec network allowed Hydro-Québec to remain unscathed during the Northeast Blackout of August 14, 2003 , with the exception of 5 hydro plants on the Ottawa River radially connected to the Ontario grid at the time. [61] A new 1250-MW back to back HVDC tie has been commissioned at the Outaouais substation, in L'Ange-Gardien , near the Ontario border. The new interconnection has been online since 2009 and the 315 kV line is fully operational since 2010. [60] One drawback of the TransÉnergie network involves the long distances separating the generation sites and the main consumer markets. For instance, the Radisson substation links the James Bay project plants to the Nicolet station near Sainte-Eulalie , south of the Saint Lawrence, over 1,200 kilometres (750 mi) away. [62]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HQ_-_Poste_Outaouais_1.jpg/170px-HQ_-_Poste_Outaouais_1.jpg",
+                "caption": "A rectifier at the Outaouais substation, located in L'Ange-Gardien . The 1,250 MW back-to-back HVDC tie links the Quebec grid with Ontario's Hydro One network."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec",
+        "title": "Hydro-Québec",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Distribution",
+        "text": "Hydro-Québec Distribution is in charge of retail sales to most customers in Quebec. It operates a network of 112,089 kilometres (69,649 mi) of medium and low voltage lines. [69] The division is the sole electric distributor across the province, with the exception of 9 municipal distribution networks — in Alma , Amos , Baie-Comeau , Coaticook , Joliette , Magog , Saguenay , Sherbrooke and Westmount —and the electric cooperative of Saint-Jean-Baptiste de Rouville . [70] Hydro-Québec Distribution buys most of its power from the 165-TWh heritage pool provided by Hydro-Québec Production at 2.79¢/ kWh . The division usually purchases additional power by entering into long-term contracts after a public call for tenders. For shorter term needs, it also buys power from the neighboring systems at market prices. As a last resort, Hydro-Québec Production can also provide short-term relief. [71] Supply contracts above and beyond the heritage pool must be approved by the Régie de l'énergie du Québec and their costs are passed on to customers. The division signed one natural gas cogeneration agreement for 507 MW in 2003, three forest biomass deals (47.5 MW) in 2004 and 2005, and ten contracts for wind power (2,994 MW) in 2005 and 2008, all with private sector producers. It also signed two flexible contracts with Hydro-Québec Production (600 MW) in 2002. [72] Hydro-Québec Distribution is also responsible for the production of power in remote communities not connected to the main power grid. The division operates an off-grid hydroelectric dam serving communities on the Lower North Shore and 23 small diesel power plants in the Magdalen Islands , in Haute-Mauricie and in Nunavik .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hydro-Qu%C3%A9bec_transformateur.jpg/220px-Hydro-Qu%C3%A9bec_transformateur.jpg",
+                "caption": "A Hydro-Québec employee carries out the replacement of an underground transformer in Montreal."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec",
+        "title": "Hydro-Québec",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Electric Circuit network",
+        "text": "In April 2011 the government of Quebec published a plan to encourage the adoption of electric vehicles, setting a target of 25% of cars sold in 2020 to be electric. The plan also called for provincial utility company Hydro-Quebec to develop a strategy for the deployment of public charging infrastructure. [73] This resulted in the creation of \"The Electric Circuit\" ( French : Le Circuit Électrique ), the largest public network of charging stations for electric vehicles in Quebec . [74] The first 30 charging stations were put into use in March 2012. [75] [76] The network's first 400V fast charger was installed in 2013. [77] As of 2019, The Electric Circuit offers 2,389 public charging stations in Quebec and eastern Ontario . [78] Usage is also compatible with the FLO and New Brunswick E-charge network adaptors. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Circuit_electrique_-_Hydro-Quebec_-_11.jpg/220px-Circuit_electrique_-_Hydro-Quebec_-_11.jpg",
+                "caption": "Electric Circuit level 2 charger in use in Montréal"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec",
+        "title": "Hydro-Québec",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Research and development",
+        "text": "Hydro-Québec has made significant investments in research and development over the past 40 years. In addition to funding university research, the company is the only electric utility in North America to operate its own large-scale research institute, L' Institut de recherche d'Hydro-Québec (IREQ). Established by Lionel Boulet in 1967, the research centre is located in Varennes , a suburb on the South Shore of Montreal . [79] IREQ operates on an annual research budget of approximately C$100 million [80] and specializes in the areas of high voltage, mechanics and thermomechanics, network simulations and calibration. [81] Research conducted by scientists and engineers at IREQ has helped to extend the life of dams, improve water turbine performance, automate network management and increase the transmission capacity of high voltage power lines. [82] Another research centre, the Laboratoire des technologies de l'énergie (LTE) in Shawinigan, was opened in 1988 [83] to adapt and develop new products while helping industrial customers improve their energy efficiency . [84] In the last 20 years, the institute has also conducted research and development work towards the electrification of ground transportation . Current projects include battery materials, including innovative work on lithium iron phosphate and nano-titanate, [85] improved electric drive trains and the effects of the large-scale deployment of electric vehicles on the power grid . [86] Projects focus on technologies to increase range , improve performance in cold weather and reduce charging time . [87] Hydro-Québec has been criticized for not having taken advantage of some of its innovations. An electric wheel motor concept that struck a chord with Quebecers, [88] first prototyped in 1994 by Pierre Couture, an engineer and physicist working at IREQ, is one of these. [89] [90] The heir to the Couture wheel motor is now marketed by TM4 Electrodynamic Systems , a spin-off established in 1998 [91] that has made deals with France's Dassault and Heuliez to develop an electric car, the Cleanova , of which prototypes were built in 2006. [92] Hydro-Québec announced in early 2009 at the Montreal International Auto Show that its engine had been chosen by Tata Motors to equip a demonstration version of its Indica model, which will be road tested in Norway . [93] [94]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tata_Indica_EV_Engine_bay.jpg/220px-Tata_Indica_EV_Engine_bay.jpg",
+                "caption": "The TM4 electric engine was developed by Hydro-Québec."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Borne_de_recharge_Circuit_%C3%A9lectrique_Cap-de-la-Madeleine_QC_2019-03-20.jpg/220px-Borne_de_recharge_Circuit_%C3%A9lectrique_Cap-de-la-Madeleine_QC_2019-03-20.jpg",
+                "caption": "Hydro-Québec operates The Electric Circuit , the largest EV charging network in Quebec and Eastern Ontario."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec",
+        "title": "Hydro-Québec",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Environment",
+        "text": "The construction and operation of electric generation, transmission and distribution facilities has environmental effects and Hydro-Québec's activities are no exception. Hydroelectric development affects the natural environment where facilities are built and on the people living in the area. For instance, the development of new reservoirs increases the level of mercury in lakes and rivers, which works up the food chain. [109] It temporarily increases the emission of greenhouse gases from reservoirs [110] and contributes to shoreline erosion. In addition, hydroelectric facilities transform the human environment. They create new obstacles to navigation, flood traditional hunting and trapping grounds, force people to change their eating habits due to the elevated mercury content of some species of fish, destroy invaluable artifacts that would help trace the human presence on the territory, and disrupt the society and culture of Aboriginal people living near the facilities. Since the early 1970s, Hydro-Québec has been aware of the environmental externalities of its operations. The adoption of a Quebec statute on environmental quality in 1972, the cancellation of Champigny Project, a planned pumped storage plant in the Jacques-Cartier River valley in 1973, and the James Bay negotiations leading to the James Bay and Northern Quebec Agreement in 1975, forced the company to reconsider its practices. [111] To address environmental concerns, Hydro-Québec established an environmental protection committee in 1970 and an Environmental Management unit in September 1973. [112] Its mandate is to study and measure the environmental effects of the company, prepare impact assessment, and develop mitigation strategies for new and existing facilities, while conducting research projects in these areas, in cooperation with the scientific community.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Brochet_Luc_Viatour.jpg/220px-Brochet_Luc_Viatour.jpg",
+                "caption": "The northern pike ( Esox lucius ) is more prevalent today in the Robert-Bourassa Reservoir than it was before the flooding of the reservoir. The increase of this population has been counterbalanced by a decline in the walleye (Stizostedion vitreum) population. [108]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec",
+        "title": "Hydro-Québec",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Effects on the natural environment",
+        "text": "In the late 1970s, the company set up a network of 27 monitoring stations to measure the effects of the James Bay Project [114] which provide a wealth of data on northern environments. The first 30 years of studies in the James Bay area have confirmed that mercury levels in fish increase by 3 to 6 times over the first 5 to 10 years after the flooding of a reservoir, but then gradually revert to their initial values after 20 to 30 years. These results confirm similar studies conducted elsewhere in Canada, the United States and Finland. [113] Research also found that it is possible to reduce human exposure to mercury even when fish constitutes a significant part of a population's diet. Exposure risks can be mitigated without overly reducing the consumption of fish, simply by avoiding certain species and fishing spots. [113] Despite the fact that the transformation of a terrestrial environment into an aquatic environment constitutes a major change and that flooding leads to the displacement or death of nonmigratory animals, the riparian environments lost through flooding are partially replaced by new ones on the exposed banks of reduced-flow rivers. The biological diversity of reservoir islands is comparable to other islands in the area and the reservoir drawdown zone is used by a variety of wildlife. The population of migratory species of interest such as the caribou have even increased to the point where the hunt has been expanded. [115] Emissions of greenhouse gases (GHG) rise significantly for a few years after reservoir impoundment, and then stabilize after 10 years to a level similar to that of surrounding lakes. [110] Gross GHG emissions of reservoirs in the James Bay area fluctuate around 30,000 tonnes of CO 2 equivalent per TWh of generated power. [116] Hydro-Québec claims its hydroelectric plants release 35 times less GHG than comparable gas-fired plants and 70 times less than coal-fired ones and that they constitute the \"option with the best performance\" overall. [110]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Caribou_traversant_la_rivi%C3%A8re_aux_Feuilles.jpg/220px-Caribou_traversant_la_rivi%C3%A8re_aux_Feuilles.jpg",
+                "caption": "The caribou population near major reservoirs in northern Quebec has increased between 1970 and 2000. [113]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec",
+        "title": "Hydro-Québec",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Social effects and sustainable development",
+        "text": "Another major environmental concern relates to the population of areas affected by hydroelectric development, specifically the Innu of the North Shore and the Cree and Inuit in Northern Quebec. The hydroelectric developments of the last quarter of the 20th century have accelerated the settling process among Aboriginal populations that started in the 1950s. Among the reasons cited for the increased adoption of a sedentary lifestyle among these peoples are the establishment of Aboriginal businesses, the introduction of paid labor, and the flooding of traditional trapping and fishing lands by the new reservoirs, along with the operation of social and education services run by the communities themselves under the James Bay and Northern Quebec Agreement . [115] Some native communities, particularly the Crees, have come to a point \"where they increasingly resemble the industrialized society of the South\", notes a Hydro-Québec report summarizing the research conducted in the area between 1970 and 2000. The report adds that a similar phenomenon was observed after the construction of roads and hydroelectric plants near isolated communities in northern Canada and Scandinavia. However, growing social problems and rising unemployment have followed the end of the large construction projects in the 1990s. The report concludes that future economic and social development in the area \"will largely depend on the desire for cooperation among the various players\". [115] After the strong rejection of the Suroît project and its subsequent cancellation in November 2004, Hydro-Québec, under the leadership of its new CEO Thierry Vandal , reaffirmed Hydro-Québec's commitment towards energy efficiency, hydropower and development of alternative energy. [117] Since then, Hydro-Québec regularly stresses three criteria for any new hydroelectric development undertaken by the company: projects must be cost effective, environmentally acceptable and well received by the communities. [71] Hydro-Québec has also taken part in a series of sustainable development initiatives since the late 1980s. Its approach is based on three principles: economic development, social development and environmental protection. [118] Since 2007 the company adheres to the Global Reporting Initiative , [119] which governs the collection and publication of sustainability performance information. The company employs 250 professionals and managers in the environmental field and has implemented an ISO 14001 -certified environmental management system. [120] Additionally, the Innu Nation filed a $4 billion claim against Hydro-Québec in October 2020 to receive compensation for damages caused by the Churchill Falls Generating Station . [121]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/03_Chisasibi_-_welcome_sign_closeup.jpg/220px-03_Chisasibi_-_welcome_sign_closeup.jpg",
+                "caption": "Of all Cree communities, Chisasibi was most affected by the James Bay hydroelectric development project [113] Crees living on Fort George island resettled to the new village on the left bank of La Grande River in 1980–1981."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec",
+        "title": "Hydro-Québec",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Quebec market",
+        "text": "At the end of 2010, Hydro-Québec served 4,060,195 customers [122] grouped into three broad categories: residential and farm (D Rate), commercial and institutional (G Rate) and industrial (M and L rates). The Other category includes public lighting systems and municipal distribution systems. About a dozen distribution rates are set annually by the Régie de l'énergie after public hearings. Pricing is based on the cost of delivery, which includes the cost of supply and transmission, depreciation on fixed assets and provisions for the maintenance of facilities, customer growth and a profit margin. Rates are uniform throughout Quebec and are based on consumer type and volume of consumption. All rates vary in block to mitigate any cross-subsidization effect between residential, commercial and industrial customers. Hydro-Québec retail rates are among the lowest in North America. [123] After a five-year rate freeze, between May 1, 1998 and January 1, 2004, [124] the Régie granted rate increases on 8 occasions between 2004 and 2010 for a total of 18.4%. [125] More recently, the regulator ordered two successive rate rollbacks in 2011 (0.4%) and 2012 (0.5%). However, rates are expected to go up by 3.7% a year from 2014 to 2018 to reflect a gradual increase of heritage pool electricity announced in the 2010 Quebec budget. [126]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hq_tarifs-ipc-en.svg/220px-Hq_tarifs-ipc-en.svg.png",
+                "caption": "Evolution of Hydro-Québec residential rates (turquoise) and the Quebec Consumer price index (dark blue) between 1998 and 2011."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec",
+        "title": "Hydro-Québec",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Residential customers",
+        "text": "The average consumption of residential and agricultural customers is relatively high, at 16,857 kWh per year in 2011, [122] because of the widespread use of electricity as the main source of space (77%) and water heating (90%). [127] Hydro-Québec estimates that heating accounts for more than one half of the electricity demand in the residential sector. [128] This preference for electric heating makes electricity demand more unpredictable, but offers some environmental benefits. Despite Quebec's very cold climate in winter, greenhouse gases emissions in the residential sector accounted for only 5.5% (4.65 Mt CO 2 eq.) of all emissions in Quebec in 2006. Emissions from the residential sector in Quebec fell by 30% between 1990 and 2006. [129] Residential use of electricity fluctuates from one year to another, and is strongly correlated with the weather. Contrary to the trend in neighboring networks, Hydro-Québec's system is winter- peaking . A new all-time consumption record was set on January 23, 2013 with a load of 38,910 MW . [130] Previous records were established on January 24, 2011 with 37,717 MW , on January 16, 2009, with a load of 37,230 MW , [131] [132] and on January 15, 2004 when peak reached 36,268 MW . [133] The price of electricity for residences and farms includes a 40.64¢ daily subscription fee, and two price levels depending on consumption. The rates are all-included: power, transmission and distribution costs, but are subject to the Goods and Services Tax (GST) and the Quebec Sales Tax (QST). [134] As of April 1, 2012, customers pay 5.32¢/kWh for the first 30 daily kWh, while the remainder is sold at 7.51¢/kWh. [135] The average monthly bill for a residential customer was approximately C$100 in 2008. [136] Electric meter readings are usually conducted every two months and bills are bimonthly. However, the company offers an optional Equalized Payment Plan allowing residential customers to pay their annual electricity costs in 12 monthly installments, based on past consumption patterns of the current customer address and the average temperature in that location. [137] In 2007, Hydro-Québec pulled out of a Canadian government initiative to install smart meters across the province, stating that it would be \"too costly to deliver real savings\". [138] Since then, Hydro-Québec organized a 2-year pilot project, involving 2,000 customers in 4 cities, with time of use metering . A report, filed with the Régie de l'énergie , in the summer of 2010 concluded that the effect of marginal cost pricing with three levels of pricing in the winter would lead to minimal load and energy savings. [139] The company intends to gradually phase-in Advanced Metering Infrastructure (AMI) between 2011 and 2017. Early efforts will focus on meter data transfer, connect-disconnect, outage detection and theft reduction. [140]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Thermostat_%C3%A9lectronique.jpg/140px-Thermostat_%C3%A9lectronique.jpg",
+                "caption": "Electric heating accounts for more than half of the electricity used by residential customers in Quebec, according to Hydro-Québec."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Landis%2BGyr_FocusAXR-SD_Hydro-Quebec.JPG/90px-Landis%2BGyr_FocusAXR-SD_Hydro-Quebec.JPG",
+                "caption": "A Hydro-Québec digital power meter."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec",
+        "title": "Hydro-Québec",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Industrial customers",
+        "text": "For more than a century, industrial development in Quebec has been stimulated by the abundance of hydroelectric resources. Energy represents a significant expenditure in the pulp and paper and aluminum sectors. two industries with long-standing traditions in Quebec. In 2010, industrial customers purchased 68.4 TWh from Hydro-Québec, representing 40.4% of all electricity sold by the company on the domestic market. [141] The Quebec government uses low electricity rates to attract new business and consolidate existing jobs. Despite its statutory obligation to sell electric power to every person who so requests, the province has reserved the right to grant large load allocations to companies on a case-by-case basis since 1974. The threshold was set at 175 MW from 1987 to 2006 [142] and was reduced to 50 MW in the government's 2006–2015 energy strategy. [143] Large industrial users pay a lower rate than the domestic and commercial customers, because of lower distribution costs. In 2010, the largest industrial users, the Rate L customers, were paying an average of 4.66¢/kWh whereas companies with special contracts paid 3.07¢/kWh. [144] In 1987, Hydro-Québec and the Quebec government agreed to a series of controversial deals with aluminum giants Alcan and Alcoa . These risk sharing contracts set the price of electricity based on a series of factors, including aluminum world prices and the value of the Canadian dollar [145] Those agreements are gradually being replaced by one based on published rates. On May 10, 2007, the Quebec government signed an agreement with Alcan. The agreement, which is still in force despite the company's merger with Rio Tinto Group , renews the water rights concession on the Saguenay and Peribonka rivers. In exchange, Alcan has agreed to invest in its Quebec facilities and to maintain jobs and its corporate headquarters in Montreal. [146] On December 19, 2008, Hydro-Québec and Alcoa signed a similar agreement. This agreement, which expires in 2040, maintains the provision of electricity to Alcoa's three aluminum smelters in the province, located in Baie-Comeau , Bécancour and Deschambault-Grondines . In addition, the deal will allow Alcoa to modernize the Baie-Comeau plant which will increase its production capacity by 110,000 tonnes a year, to a total of 548,000 tonnes. [147] Several economists, including Université Laval 's Jean-Thomas Bernard and Gérard Bélanger, have challenged the government's strategy and argue that sales to large industrial customers are very costly to the Quebec economy. In an article published in 2008, the researchers estimate that, under the current regime, a job in a new aluminum smelter or an expansion project costs the province between C$255,357 and C$729,653 a year, when taking into consideration the money that could be made by selling the excess electricity on the New York market. [148] This argument is disputed by large industrial customers, who point out that data from 2000 to 2006 indicate that electricity exports prices get lower when quantities increase, and vice versa. \"We find that the more we export, the less lucrative it gets\", said Luc Boulanger, the head of the association representing Quebec's large industrial customers. In his opinion, the high volatility of electricity markets and the transmission infrastructure physical limitations reduce the quantities of electricity that can be exported when prices are higher. [149] Hydro Quebec gained attention with Bitcoin miners in 2018 after the crackdown on mining in China. [150] The province has an energy surplus equivalent to 10 Terawatt hours per year. [150]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Usine_Alcan_Laterri%C3%A8re2.JPG/220px-Usine_Alcan_Laterri%C3%A8re2.JPG",
+                "caption": "Rio Tinto Alcan 's Laterriere smelter in Saguenay . Large industrial users, especially the metallurgy and the pulp and paper industries, use 40.6% of all electricity sold in Quebec."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Smurfit-Stone_La_Tuque_1.jpg/220px-Smurfit-Stone_La_Tuque_1.jpg",
+                "caption": "The Smurfit-Stone paper mill in La Tuque ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec",
+        "title": "Hydro-Québec",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Export markets",
+        "text": "Hydro-Québec sells part of its surplus electricity to neighbouring systems in Canada and the United States under long-term contracts and transactions on the New England, New York and Ontario bulk energy markets . In 2017, net exports revenues were at $1,651 million for a total of 34.4 TWh sent to New England (53%), New York (23%), Ontario (13%) and other (5%). [158] [159] Although most export sales are now short-term transactions, Hydro-Québec has entered into long-term export contracts in the past. The corporation has 15 interconnections to neighboring markets. In 1990, the company signed a 328-MW deal with a group of 13 electric distributors in Vermont . On March 11, 2010, Vermont's two largest utilities, Green Mountain Power and Central Vermont Public Service, entered into a tentative 26-year deal with Hydro-Québec to purchase up to 225 MW of hydro power from 2012 to 2038. The memorandum of understanding provides for a price smoothing mechanism shielding Vermont customers from market price spikes. The deal is contingent upon the enactment designating large hydro as \"renewable energy\". [160] In 2015,  Hydro-Quebec and the Ontario Independent Electricity System Operator (IESO) signed a 500-MW seasonal capacity sharing agreement. Ontario has increased capacity in the Winter, and shortages in the summer. Quebec has increased capacity in the summer, and shortages in the Winter. Thus, the agreement serves as to achieve an cost-effective solution for both provinces. Furthermore, in 2016 (IESO) and Hydro-Quebec signed a new long-term agreement starting in 2017 until 2023. The deal will send 2TWh per year to Ontario. On the other hand, Quebec should receive capacity from Ontario during Winter's peak demand. [161]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Christmas_tree_near_the_Quincy_Market.jpg/150px-Christmas_tree_near_the_Quincy_Market.jpg",
+                "caption": "Part of the electricity used in Boston comes from the remote dams in the James Bay area."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydro-Qu%C3%A9bec",
+        "title": "Hydro-Québec",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Geography",
+        "text": "Before damming, the high granite formations produced a valley with an average depth of 1,800 ft (550 m) and a maximum depth of over 3,000 ft (910 m); the length of the valley was 3 mi (4.8 km) with a width ranging from 1 ⁄ 8 to 1 ⁄ 2 mile (660 to 2,640 ft; 200 to 800 m). The valley floor consisted of roughly 1,200 acres (490 ha) of meadows fringed by pine forest, through which meandered the Tuolumne River and numerous tributary streams. [3] Kolana Rock , at 5,772 ft (1,759 m), is a massive rock spire on the south side of the Hetch Hetchy Valley. Hetch Hetchy Dome , at 6,197 ft (1,889 m), lies directly north of it. The locations of these two formations roughly correspond with those of Cathedral Rocks and El Capitan seen from Tunnel View in Yosemite Valley. [4] A broad, low rocky outcrop situated between Kolana Rock and Hetch Hetchy Dome divided the former meadow in two distinct sections. [5] The valley is fed by the Tuolumne River , Falls Creek , Tiltill Creek , Rancheria Creek , and numerous smaller streams which collectively drain a watershed of 459 sq mi (1,190 km 2 ). In its natural state, the valley floor was marshy and often flooded in the spring when snow melt in the high Sierra cascaded down the Tuolumne River and backed up behind the narrow gorge which is now spanned by O'Shaughnessy Dam. The entire valley is now flooded under an average 300 ft (91 m) of water behind the dam, although it occasionally reemerges in droughts, as it did in 1955, 1977, and 1991. [6] [7] Upstream from the valley lies the Grand Canyon of the Tuolumne , while the smaller Poopenaut Valley is directly downstream from O'Shaughnessy Dam. The Hetch Hetchy Road drops into the valley at the dam, but all points east of there are roadless, and accessible only to hikers and equestrians. The O'Shaughnessy Dam is near Yosemite's western boundary, but the long, narrow, fingerlike reservoir stretches eastward for about 8 miles (13 km). [2] Wapama Falls , at 1,080 ft (330 m), and Tueeulala Falls , at  840 ft (260 m) – both among the tallest waterfalls in North America – are both located in Hetch Hetchy Valley. [8] Rancheria Falls is located farther southeast, on Rancheria Creek. [9] Formerly, a \"small but noisy\" [10] waterfall and natural pool existed on the Tuolumne River marked the upper entrance to Hetch Hetchy Valley, [11] informally known as Tuolumne Fall (not to be confused with a similarly named waterfall several miles upriver near Tuolumne Meadows ). The waterfall on the Tuolumne is now submerged under Hetch Hetchy Reservoir. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HetchHetchyWaterfall.jpg/220px-HetchHetchyWaterfall.jpg",
+                "caption": "Tueeulala Falls , 840 ft (260 m), is located on the north side of the valley."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hetch_Hetchy",
+        "title": "Hetch Hetchy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Flora and fauna",
+        "text": "Hetch Hetchy is home to a diverse array of plants and animals. Gray pine , incense-cedar , and California black oak grow in abundance. Many examples of red-barked manzanita can be seen along the Hetch Hetchy Road. Spring and early summer bring wildflowers including lupine , wallflower , monkey flower , and buttercup . Seventeen species of bats inhabit the Hetch Hetchy area, including the largest North American bat, the western mastiff . [8] Before damming, the valley floor contained abundant stands of black oaks, live oak , Ponderosa pine , Douglas fir , and silver fir bordering the meadows, with alder , willow , poplar and dogwood in the riparian zone along the Tuolumne River. [17] The valley's abundant plants provided nourishment for mule deer , black bears and bighorn sheep . Due to large cataracts on the Tuolumne River upstream, Hetch Hetchy Valley may have been in the uppermost range for native rainbow trout in the river. [18] Due to its abundant wetlands and stream pools, Hetch Hetchy was notorious among early travelers for becoming infested with mosquitoes in the summertime. Said San Francisco resident William Denman in 1918, \"The first time I went into the Hetch Hetchy the mosquitoes were intolerable. They would light upon a man's blue shirt and turn it brown, and were voracious as mosquitoes would be.\" [19]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_Hetch_Hetchy_Valley%2C_California%2C_by_Albert_Bierstadt%2C_undated_-_Museum_of_Fine_Arts%2C_Springfield%2C_MA_-_DSC03988.JPG/220px-The_Hetch_Hetchy_Valley%2C_California%2C_by_Albert_Bierstadt%2C_undated_-_Museum_of_Fine_Arts%2C_Springfield%2C_MA_-_DSC03988.JPG",
+                "caption": "Albert Bierstadt , The Hetch Hetchy Valley, California , late 19th century"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hetch_Hetchy",
+        "title": "Hetch Hetchy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Hetch Hetchy Project",
+        "text": "Hetch Hetchy Valley serves as the primary water source for the City and County of San Francisco and several surrounding municipalities in the greater San Francisco Bay Area . The dam and reservoir, combined with a series of aqueducts, tunnels, and hydroelectric plants as well as eight other storage dams, comprise a system known as the Hetch Hetchy Project , which provides 80% of the water supply for 2.6 million people. [51] The project is operated by the San Francisco Public Utilities Commission . The city must pay a lease of $30,000 per year for the use of Hetch Hetchy, which sits on federal land. [52] [53] The aqueduct delivers an average of 265,000 acre⋅ft (327,000,000 m 3 ) of water each year, or 31,900,000 cu ft (900,000 m 3 ) per day, to residents of San Francisco and San Mateo , Santa Clara and Alameda Counties. [54] As completed, O'Shaughnessy Dam is 910 feet (280 m) long, spanning the valley at its narrow outlet. [2] The dam contains 675,000 cu yd (516,000 m 3 ) of concrete. The Hetch Hetchy Reservoir created by the dam has a capacity of 360,400 acre⋅ft (0.4445 km 3 ), with a maximum area of 1,972 acres (798 ha) and a maximum depth of 306 feet (93 m). [2] From Hetch Hetchy Reservoir, the water flows through the Canyon and Mountain Tunnels to Kirkwood and Moccasin Powerhouses , which have capacities of 124 and 110 megawatts , respectively. [55] An additional hydroelectric system comprising Cherry Lake , Lake Eleanor and the Holm Powerhouse is also part of the Hetch Hetchy Project, adding another 169 megawatts of generating capacity. [55] The entire system produces about 1.7 billion kilowatt hours per year, enough to meet 20% of San Francisco's electricity needs. [55] [56] After passing through the powerhouses, Hetch Hetchy water flows into the 167 mi (269 km) Hetch Hetchy Aqueduct which travels across the Central Valley. Just before reaching the Bay Area, it passes through the Irvington tunnel near the city of Fremont , and the aqueduct splits into four pipelines at 37°32′53″N 121°55′55″W ﻿ / ﻿ 37.548104°N 121.932041°W ﻿ / 37.548104; -121.932041 . These are called Bay Division Pipelines (BDPL) 1, 2, 3, and 4, with nominal pipeline diameters of 60, 66, 78, and 96 inches (1.5, 1.7, 2.0 and 2.4 m, respectively). [57] All four pipelines cross the Hayward fault . Pipelines 1 and 2 cross the San Francisco Bay to the south of the Dumbarton Bridge , while pipelines 3 and 4 run to the south of the bay. In the Bay Area, Hetch Hetchy water is stored in local facilities including Calaveras Reservoir , Crystal Springs Reservoir , and San Antonio Reservoir . [58] Pipelines 3 and 4 end at the Pulgas Water Temple , a small park that contains classical architectural elements which celebrate the water delivery. [59] Water from Hetch Hetchy is some of the cleanest municipal water in the United States; San Francisco is one of six U.S. cities not required by law to filter its tap water, although the water is disinfected by ozonation and, since 2011, exposure to UV . [60] The water quality is high because of the unique geology of the upper Tuolumne River drainage basin, which consists mostly of bare granite; as a result, the rivers feeding Hetch Hetchy Reservoir have extremely low loads of sediments and nutrients. The watershed is also strictly protected, so swimming and boating are prohibited at the reservoir (although fishing is permitted at the reservoir and in the rivers which feed it), [61] a measure which is considered unusual for US lakes outside the region. [62] In 2018, the Department of the Interior of the Trump administration began to consider a proposal to allow limited boating on the Hetch Hetchy Reservoir for the first time, supported by the advocacy group Restore Hetch Hetchy which argued that \"San Francisco received [Hetch Hetchy's] benefits long ago, but the American people have not.\" [62] [63]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hetchhetchyprojmap.jpg/460px-Hetchhetchyprojmap.jpg",
+                "caption": "Map of Hetch Hetchy Project facilities"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hetch_Hetchy_May_2011_001.jpg/220px-Hetch_Hetchy_May_2011_001.jpg",
+                "caption": "View of reservoir and Kolana Rock"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hetch_Hetchy_Aqueduct_in_San_Mateo_County.jpg/460px-Hetch_Hetchy_Aqueduct_in_San_Mateo_County.jpg",
+                "caption": "The Hetch Hetchy Aqueduct pipelines 1 and 2 as viewed from the Emerald Hills neighborhood in San Mateo County, California."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Palo_Alto%E2%80%93Los_Altos_bike_path_sign.jpg/220px-Palo_Alto%E2%80%93Los_Altos_bike_path_sign.jpg",
+                "caption": "Palo Alto–Los Altos bike path sign, along the Hetch Hetchy Aqueduct pipelines 3 and 4 right of way"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hetch_Hetchy_Reservoir.jpg/800px-Hetch_Hetchy_Reservoir.jpg",
+                "caption": "Hetch Hetchy Reservoir"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hetch_Hetchy",
+        "title": "Hetch Hetchy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Arguments against",
+        "text": "Those in opposition of dam removal state that demolishing O'Shaughnessy Dam would take away a valuable source of clean, renewable hydroelectric power in the Kirkwood and Moccasin powerhouses; even if measures such as seasonal water diversion into the powerhouses were employed, it would only make up for a fraction of the original power production. [76] The remaining deficit would likely have to be replaced by polluting fossil fuel generation. [51] The removal of the dam would be extremely costly, at least $3–10 billion, [77] and the transport of the demolished material away from the dam site along the narrow, winding Hetch Hetchy Road would be a logistical nightmare with possible environmental impacts. Most importantly, San Francisco would lose its source of high-quality mountain water, and would have to depend on lower-quality water from other reservoirs – which would require costly filtration and re-engineering of the aqueduct system – to meet its needs. [78] [79] The economic wisdom of removing the dam has been frequently questioned. [80] Some observers, such as Carl Pope (director of the Sierra Club ), stated that Hodel had political motives [81] in proposing the study. The imputed motive was to divide the environmental movement: to see residents of the strongly Democratic city of San Francisco coming out against an environmental issue. Dianne Feinstein , the mayor of San Francisco at the time, said in a Los Angeles Times story in 1987: \"All this is for an expanded campground? ... It's dumb, dumb, dumb.\" [82] Hodel, now retired, remains [ when? ] a strong proponent of restoring Hetch Hetchy Valley and Senator Feinstein remained [ when? ] strongly against restoration. [ citation needed ] The George W. Bush administration proposed allocating $7 million to studying the removal of the dam in the 2007 National Park Service budget. [83] Dianne Feinstein opposed this allocation, saying, \"I will do all I can to make sure it isn't included in the final bill. We're not going to remove this dam, and the funding is unnecessary.\" [84] Opponents of dam removal have pointed out that the flooding of the Hetch Hetchy Valley has also deterred the crowds that overrun other areas of Yosemite National Park. Indeed, Hetch Hetchy today [ when? ] remains the least visited developed area of the park. [85] Karin Klein has described Yosemite Valley as \"so crammed ... that it looks more like a ripstop ghetto than the site of a nature experience.\" [86] However, she does support breaching the dam once it has reached the end of its lifespan, and not replacing it. [86] In November 2012, San Francisco voters soundly rejected Proposition F, [87] which would have required the city to conduct an $8 million study on how the flooded valley could be drained and restored to its former state. The proposed study would also have been required to identify potential replacements for the water storage capacity and hydroelectric power production. [88] [89]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/View-at-Hetch-Hetchy-California.jpg/220px-View-at-Hetch-Hetchy-California.jpg",
+                "caption": "View point by the O'Shaughnessy Dam"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hetch_Hetchy",
+        "title": "Hetch Hetchy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Arch dams",
+        "text": "In the arch dam, stability is obtained by a combination of arch and gravity action. If the upstream face is vertical the entire weight of the dam must be carried to the foundation by gravity, while the distribution of the normal hydrostatic pressure between vertical cantilever and arch action will depend upon the stiffness of the dam in a vertical and horizontal direction. When the upstream face is sloped the distribution is more complicated. The normal component of the weight of the arch ring may be taken by the arch action, while the normal hydrostatic pressure will be distributed as described above. For this type of dam, firm reliable supports at the abutments (either buttress or canyon side wall) are more important. The most desirable place for an arch dam is a narrow canyon with steep side walls composed of sound rock. [42] The safety of an arch dam is dependent on the strength of the side wall abutments, hence not only should the arch be well seated on the side walls but also the character of the rock should be carefully inspected. Two types of single-arch dams are in use, namely the constant-angle and the constant-radius dam. The constant-radius type employs the same face radius at all elevations of the dam, which means that as the channel grows narrower towards the bottom of the dam the central angle subtended by the face of the dam becomes smaller. Jones Falls Dam , in Canada, is a constant radius dam. In a constant-angle dam, also known as a variable radius dam, this subtended angle is kept constant and the variation in distance between the abutments at various levels is taken care of by varying the radii. Constant-radius dams are much less common than constant-angle dams. Parker Dam on the Colorado River is a constant-angle arch dam. A similar type is the double-curvature or thin-shell dam. Wildhorse Dam near Mountain City, Nevada , in the United States is an example of the type. This method of construction minimizes the amount of concrete necessary for construction but transmits large loads to the foundation and abutments. The appearance is similar to a single-arch dam but with a distinct vertical curvature to it as well lending it the vague appearance of a concave lens as viewed from downstream. The multiple-arch dam consists of a number of single-arch dams with concrete buttresses as the supporting abutments, as for example the Daniel-Johnson Dam , Québec, Canada. The multiple-arch dam does not require as many buttresses as the hollow gravity type but requires a good rock foundation because the buttress loads are heavy.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gordon_Dam.jpg/170px-Gordon_Dam.jpg",
+                "caption": "Gordon Dam , Tasmania , is an arch dam ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Barrage_Daniel-Johnson2_edited.jpg/220px-Barrage_Daniel-Johnson2_edited.jpg",
+                "caption": "Daniel-Johnson Dam , Quebec , is a multiple-arch buttress dam."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Dam",
+        "title": "Dam",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Gravity dams",
+        "text": "In a gravity dam, the force that holds the dam in place against the push from the water is Earth's gravity pulling down on the mass of the dam. [43] The water presses laterally (downstream) on the dam, tending to overturn the dam by rotating about its toe (a point at the bottom downstream side of the dam). The dam's weight counteracts that force, tending to rotate the dam the other way about its toe. The designer ensures that the dam is heavy enough that the dam's weight wins that contest. In engineering terms, that is true whenever the resultant of the forces of gravity acting on the dam and water pressure on the dam acts in a line that passes upstream of the toe of the dam. [ citation needed ] The designer tries to shape the dam so if one were to consider the part of the dam above any particular height to be a whole dam itself, that dam also would be held in place by gravity, i.e., there is no tension in the upstream face of the dam holding the top of the dam down. The designer does this because it is usually more practical to make a dam of material essentially just piled up than to make the material stick together against vertical tension. [ citation needed ] The shape that prevents tension in the upstream face also eliminates a balancing compression stress in the downstream face, providing additional economy. For this type of dam, it is essential to have an impervious foundation with high bearing strength. Permeable foundations have a greater likelihood of generating uplift pressures under the dam. Uplift pressures are hydrostatic pressures caused by the water pressure of the reservoir pushing up against the bottom of the dam. If large enough uplift pressures are generated there is a risk of destabilizing the concrete gravity dam. [44] [ citation needed ] On a suitable site, a gravity dam can prove to be a better alternative to other types of dams. When built on a solid foundation, the gravity dam probably represents the best-developed example of dam building. Since the fear of flood is a strong motivator in many regions, gravity dams are built in some instances where an arch dam would have been more economical. Gravity dams are classified as \"solid\" or \"hollow\" and are generally made of either concrete or masonry. The solid form is the more widely used of the two, though the hollow dam is frequently more economical to construct. Grand Coulee Dam is a solid gravity dam and Braddock Locks & Dam is a hollow gravity dam. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Grand_Coulee_Dam_spillway.jpg/220px-Grand_Coulee_Dam_spillway.jpg",
+                "caption": "The Grand Coulee Dam is an example of a solid gravity dam."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Dam",
+        "title": "Dam",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Arch-gravity dams",
+        "text": "A gravity dam can be combined with an arch dam into an arch-gravity dam for areas with massive amounts of water flow but less material available for a pure gravity dam. The inward compression of the dam by the water reduces the lateral (horizontal) force acting on the dam. Thus, the gravitational force required by the dam is lessened, i.e., the dam does not need to be so massive. This enables thinner dams and saves resources.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hoover_Dam_%28aerial_view%29_-_30_April_2009.jpg/220px-Hoover_Dam_%28aerial_view%29_-_30_April_2009.jpg",
+                "caption": "The Hoover Dam is an example of an arch-gravity dam."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Dam",
+        "title": "Dam",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Barrages",
+        "text": "A barrage dam is a special kind of dam that consists of a line of large gates that can be opened or closed to control the amount of water passing the dam. The gates are set between flanking piers which are responsible for supporting the water load, and are often used to control and stabilize water flow for irrigation systems. An example of this type of dam is the now-decommissioned Red Bluff Diversion Dam on the Sacramento River near Red Bluff, California . Barrages that are built at the mouths of rivers or lagoons to prevent tidal incursions or use the tidal flow for tidal power are known as tidal barrages . [45]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Koshi.jpg/220px-Koshi.jpg",
+                "caption": "The Koshi Barrage of Nepal"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Dam",
+        "title": "Dam",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Embankment dams",
+        "text": "Embankment dams are made of compacted earth, and are of two main types: rock-fill and earth-fill. Like concrete gravity dams, embankment dams rely on their weight to hold back the force of water.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Chatuge_Dam_is_an_earthen_embankment_dam_in_North_Carolina%2C_United_States.jpg/220px-Chatuge_Dam_is_an_earthen_embankment_dam_in_North_Carolina%2C_United_States.jpg",
+                "caption": "Chatuge Dam is an earthen embankment dam in North Carolina"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Dam",
+        "title": "Dam",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Tailings dam",
+        "text": "A tailings dam is typically an earth-fill embankment dam used to store tailings , which are produced during mining operations after separating the valuable fraction from the uneconomic fraction of an ore . Conventional water retention dams can serve this purpose, but due to cost, a tailings dam is more viable. Unlike water retention dams, a tailings dam is raised in succession throughout the life of the particular mine. Typically, a base or starter dam is constructed, and as it fills with a mixture of tailings and water, it is raised. Material used to raise the dam can include the tailings (depending on their size) along with soil. [70] There are three raised tailings dam designs, the \"upstream\", \"downstream\", and \"centerline\", named according to the movement of the crest during raising. The specific design used is dependent upon topography , geology, climate, the type of tailings, and cost. An upstream tailings dam consists of trapezoidal embankments being constructed on top but toe to crest of another, moving the crest further upstream. This creates a relatively flat downstream side and a jagged upstream side which is supported by tailings slurry in the impoundment. The downstream design refers to the successive raising of the embankment that positions the fill and crest further downstream. A centerlined dam has sequential embankment dams constructed directly on top of another while fill is placed on the downstream side for support and slurry supports the upstream side. [71] [72] Because tailings dams often store toxic chemicals from the mining process, modern designs incorporate an impervious geomembrane liner to prevent seepage. [73] Water/slurry levels in the tailings pond must be managed for stability and environmental purposes as well. [72]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bituminous_geomembrane_installation_on_a_mine_tailings_storage_facility.jpg/220px-Bituminous_geomembrane_installation_on_a_mine_tailings_storage_facility.jpg",
+                "caption": "Bituminous geomembrane installation on a mine tailings storage facility."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Dam",
+        "title": "Dam",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Steel dams",
+        "text": "A steel dam is a type of dam briefly experimented with around the start of the 20th century which uses steel plating (at an angle) and load-bearing beams as the structure. Intended as permanent structures, steel dams were an (failed) experiment to determine if a construction technique could be devised that was cheaper than masonry, concrete or earthworks, but sturdier than timber crib dams.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/RedridgeSteelDam02.jpg/220px-RedridgeSteelDam02.jpg",
+                "caption": "Redridge Steel Dam , built 1905, Michigan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Dam",
+        "title": "Dam",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Timber dams",
+        "text": "Timber dams were widely used in the early part of the industrial revolution and in frontier areas due to ease and speed of construction. Rarely built in modern times because of their relatively short lifespan and the limited height to which they can be built, timber dams must be kept constantly wet in order to maintain their water retention properties and limit deterioration by rot, similar to a barrel. The locations where timber dams are most economical to build are those where timber is plentiful, cement is costly or difficult to transport, and either a low head diversion dam is required or longevity is not an issue. Timber dams were once numerous, especially in the North American West, but most have failed, been hidden under earth embankments, or been replaced with entirely new structures. Two common variations of timber dams were the \"crib\" and the \"plank\". Timber crib dams were erected of heavy timbers or dressed logs in the manner of a log house and the interior filled with earth or rubble. The heavy crib structure supported the dam's face and the weight of the water. Splash dams were timber crib dams used to help float logs downstream in the late 19th and early 20th centuries. \"Timber plank dams\" were more elegant structures that employed a variety of construction methods using heavy timbers to support a water retaining arrangement of planks.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dam_Timber_Crib.jpg/220px-Dam_Timber_Crib.jpg",
+                "caption": "A timber crib dam in Michigan, 1978"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Dam",
+        "title": "Dam",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Cofferdams",
+        "text": "A cofferdam is a barrier, usually temporary, constructed to exclude water from an area that is normally submerged. Made commonly of wood, concrete , or steel sheet piling , cofferdams are used to allow construction on the foundation of permanent dams, bridges, and similar structures. When the project is completed, the cofferdam will usually be demolished or removed unless the area requires continuous maintenance. (See also causeway and retaining wall .) Common uses for cofferdams include the construction and repair of offshore oil platforms. In such cases, the cofferdam is fabricated from sheet steel and welded into place under water. Air is pumped into the space, displacing the water and allowing a dry work environment below the surface.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dam_Coffer.jpg/220px-Dam_Coffer.jpg",
+                "caption": "A cofferdam during the construction of locks at the Montgomery Point Lock and Dam"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Dam",
+        "title": "Dam",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Power generation plant",
+        "text": "As of 2005 [update] , hydroelectric power, mostly from dams, supplies some 19% of the world's electricity, and over 63% of renewable energy . [74] Much of this is generated by large dams, although China uses small-scale hydro generation on a wide scale and is responsible for about 50% of world use of this type of power. [74] Most hydroelectric power comes from the potential energy of dammed water driving a water turbine and generator ; to boost the power generation capabilities of a dam, the water may be run through a large pipe called a penstock before the turbine . A variant on this simple model uses pumped-storage hydroelectricity to produce electricity to match periods of high and low demand, by moving water between reservoirs at different elevations. At times of low electrical demand, excess generation capacity is used to pump water into the higher reservoir. When there is higher demand, water is released back into the lower reservoir through a turbine. (For example, see Dinorwig Power Station .)",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hydroelectric_dam.svg/220px-Hydroelectric_dam.svg.png",
+                "caption": "Hydroelectric dam in cross section"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Water_turbine_-_edit1.svg/170px-Water_turbine_-_edit1.svg.png",
+                "caption": "Hydraulic turbine and electric generator"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Dam",
+        "title": "Dam",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Spillways",
+        "text": "A spillway is a section of a dam designed to pass water from the upstream side of a dam to the downstream side. Many spillways have floodgates designed to control the flow through the spillway. There are several types of spillway. A \"service spillway\" or \"primary spillway\" passes normal flow. An \"auxiliary spillway\" releases flow in excess of the capacity of the service spillway. An \"emergency spillway\" is designed for extreme conditions, such as a serious malfunction of the service spillway. A \" fuse plug spillway\" is a low embankment designed to be overtopped and washed away in the event of a large flood. The elements of a fuse plug are independent free-standing blocks, set side by side which work without any remote control. They allow increasing the normal pool of the dam without compromising the security of the dam because they are designed to be gradually evacuated for exceptional events. They work as fixed weirs at times by allowing overflow in common floods. A spillway can be gradually eroded by water flow, including cavitation or turbulence of the water flowing over the spillway, leading to its failure. It was the inadequate design of the spillway and installation of fish screens that led to the 1889 over-topping of the South Fork Dam in Johnstown, Pennsylvania , resulting in the Johnstown Flood (the \"great flood of 1889\"). [75] Erosion rates are often monitored, and the risk is ordinarily minimized, by shaping the downstream face of the spillway into a curve that minimizes turbulent flow, such as an ogee curve.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Llyn_Brianne_spillway.jpg/170px-Llyn_Brianne_spillway.jpg",
+                "caption": "Spillway on Llyn Brianne dam, Wales , soon after first fill"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Dam",
+        "title": "Dam",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Location",
+        "text": "One of the best places for building a dam is a narrow part of a deep river valley; the valley sides can then act as natural walls. The primary function of the dam's structure is to fill the gap in the natural reservoir line left by the stream channel. The sites are usually those where the gap becomes a minimum for the required storage capacity. The most economical arrangement is often a composite structure such as a masonry dam flanked by earth embankments. The current use of the land to be flooded should be dispensable. Significant other engineering and engineering geology considerations when building a dam include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Takato_Dam_discharge.jpg/220px-Takato_Dam_discharge.jpg",
+                "caption": "The discharge of Takato Dam"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Dam",
+        "title": "Dam",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Environmental impact",
+        "text": "Reservoirs held behind dams affect many ecological aspects of a river. Rivers topography and dynamics depend on a wide range of flows, whilst rivers below dams often experience long periods of very stable flow conditions or sawtooth flow patterns caused by releases followed by no releases. Water releases from a reservoir including that exiting a turbine usually contain very little suspended sediment, and this, in turn, can lead to scouring of river beds and loss of riverbanks; for example, the daily cyclic flow variation caused by the Glen Canyon Dam was a contributor to sand bar erosion . Older dams often lack a fish ladder , which keeps many fish from moving upstream to their natural breeding grounds, causing failure of breeding cycles or blocking of migration paths. [80] Even fish ladders do not prevent a reduction in fish reaching the spawning grounds upstream. [81] In some areas, young fish (\"smolt\") are transported downstream by barge during parts of the year. Turbine and power-plant designs that have a lower impact upon aquatic life are an active area of research. At the same time, however, some particular dams may contribute to the establishment of better conditions for some kinds of fish and other aquatic organisms. Studies have demonstrated the key role played by tributaries in the downstream direction from the main river impoundment, which influenced local environmental conditions and beta diversity patterns of each biological group. [82] Both replacement and richness differences contributed to high values of total beta diversity for fish (average = 0.77) and phytoplankton (average = 0.79), but their relative importance was more associated with the replacement component for both biological groups (average = 0.45 and 0.52, respectively). [82] A study conducted by de Almeida, R. A., Steiner, M.T.A and others found that, while some species declined in population by more than 30% after the building of the dam, others increased their population by 28%. [83] Such changes may be explained by the fact that the fish obtained \"different feeding habits, with almost all species being found in more than one group. [83] A large dam can cause the loss of entire ecospheres , including endangered and undiscovered species in the area, and the replacement of the original environment by a new inland lake.  As a result, the construction of dams have been opposed in various countries with some, such as Tasmania's Franklin Dam project, being cancelled following environmentalist campaigns. [84] Large reservoirs formed behind dams have been indicated in the contribution of seismic activity , due to changes in water load and/or the height of the water table. However, this is a mistaken assumption, because the relatively marginal stress attributed to the water load is orders of magnitude lesser than the force of an earthquake. The increased stress from the water load is insufficient to fracture the Earth's crust, and thus does not increase the severity of an earthquake. [85] Dams are also found to influence global warming . [86] The changing water levels in reservoirs are a source for greenhouse gases like methane . [87] While dams and the water behind them cover only a small portion of earth's surface, they harbour biological activity that can produce large quantities of greenhouse gases. [88]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dam-pollution.JPG/220px-Dam-pollution.JPG",
+                "caption": "Wood and garbage accumulation due to a dam"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Dam",
+        "title": "Dam",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Failure",
+        "text": "Dam failures are generally catastrophic if the structure is breached or significantly damaged. Routine deformation monitoring and monitoring of seepage from drains in and around larger dams is useful to anticipate any problems and permit remedial action to be taken before structural failure occurs. Most dams incorporate mechanisms to permit the reservoir to be lowered or even drained in the event of such problems. Another solution can be rock grouting – pressure pumping Portland cement slurry into weak fractured rock. During an armed conflict, a dam is to be considered as an \"installation containing dangerous forces\" due to the massive impact of possible destruction on the civilian population and the environment. As such, it is protected by the rules of international humanitarian law (IHL) and shall not be made the object of attack if that may cause severe losses among the civilian population. To facilitate the identification, a protective sign consisting of three bright orange circles placed on the same axis is defined by the rules of IHL. The main causes of dam failure include inadequate spillway capacity, piping through the embankment, foundation or abutments, spillway design error ( South Fork Dam ), geological instability caused by changes to water levels during filling or poor surveying ( Vajont , Malpasset , Testalinden Creek dams), poor maintenance, especially of outlet pipes ( Lawn Lake Dam , Val di Stava Dam collapse ), extreme rainfall ( Shakidor Dam ), earthquakes , and human, computer or design error ( Buffalo Creek Flood , Dale Dike Reservoir , Taum Sauk pumped storage plant ). A notable case of deliberate dam failure (prior to the above ruling) was the Royal Air Force 'Dambusters' raid on Germany in World War II (codenamed \" Operation Chastise \"), in which three German dams were selected to be breached in order to damage German infrastructure and manufacturing and power capabilities deriving from the Ruhr and Eder rivers. This raid later became the basis for several films. Since 2007, the Dutch IJkdijk foundation is developing, with an open innovation model and early warning system for levee/dike failures. As a part of the development effort, full-scale dikes are destroyed in the IJkdijk fieldlab. The destruction process is monitored by sensor networks from an international group of companies and scientific institutions.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/%28IDAHO-L-0010%29_Teton_Dam_Flood_-_Newdale.jpg/220px-%28IDAHO-L-0010%29_Teton_Dam_Flood_-_Newdale.jpg",
+                "caption": "Teton Dam failure"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/International_special_sign_for_works_and_installations_containing_dangerous_forces.svg/220px-International_special_sign_for_works_and_installations_containing_dangerous_forces.svg.png",
+                "caption": "International special sign for works and installations containing dangerous forces"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Great_Conemaugh_Valley_Disaster.jpg/220px-The_Great_Conemaugh_Valley_Disaster.jpg",
+                "caption": "South Fork Dam failure and resulting flood that destroyed Johnstown in Pennsylvania in 1889"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Dam",
+        "title": "Dam",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Egypt and Ethiopia",
+        "text": "In 1979, Egyptian President Anwar Sadat said that if Egypt were to ever go to war again it would be over water. Separately, amidst Egypt–Ethiopia relations , Ethiopian Prime Minister Meles Zenawi said: \"I am not worried that the Egyptians will suddenly invade Ethiopia. Nobody who has tried that has lived to tell the story.\" [54] Conflict between Egypt and Ethiopia over the Grand Ethiopian Renaissance Dam escalated in 2020 because of concern the Ethiopian dam on the Blue Nile could reduce flows of water to Egypt, which is highly dependent on Nile River water. [55] [56] [57] Ethiopian Prime Minister Abiy Ahmed warned that \"No force can stop Ethiopia from building a dam. If there is need to go to war, we could get millions readied.\" [56] Egypt sees the dam as an existential threat. Both countries face the threat of water shortage, as demand for water is projected to increase with growing population, increased urbanisation and pursuit of economic growth. Tensions are made worse as a result of fundamental differences in beliefs over water rights; Egypt claims its rights to the Nile water on the basis of historical practice, whereas Ethiopia claims its rights to the water based on geography, [58] where 85% of its water comes from highland sources within its territory. [59] While the Nile Basin Initiative provides a platform to ensure sustainable management of water resources through cooperation of riparian countries, [60] the Cooperative Framework Agreement has only been ratified by six of 11 countries to date. [61]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sameura_dam_20050903.jpg/220px-Sameura_dam_20050903.jpg",
+                "caption": "Due to record low rainfall in Summer 2005, the reservoir behind Sameura Dam runs low. The reservoir supplies water to Takamatsu , Shikoku Island , Japan."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Water_conflict",
+        "title": "Water conflict",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Turkey and the GAP Project",
+        "text": "The Tigris and Euphrates River GAP project , which consists of (1.7 million hectares) [70] has exasperated the situation and has created irreversible and future irreversible environmental damage not only to the surrounding countries but to Turkey as well. The GAP project decreased water by 50% from the Tigris and Euphrates Rivers to the surrounding downstream countries, Syria and Iraq . The lack of downstream water has led to many Kurds becoming homeless, increasing water salinity in the Euphrates reaching 1000 PPM and preventing Iraq from returning to rich organic soil used for agriculture. In addition, the lack of downstream water also prevent natural drainage, including salts and pollution that the rivers naturally got rid of, affecting the health of millions. [70]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mesopotamian_Marshes_2000-2009.gif/220px-Mesopotamian_Marshes_2000-2009.gif",
+                "caption": "Annual time lapse of water levels of the Mesopotamian Marshes throughout early February."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Water_conflict",
+        "title": "Water conflict",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    },
+    {
+        "section": "Mosul and Haditha Reservoirs",
+        "text": "The conflict in Tigris and Euphrates Rivers has resulted in reservoirs decreasing rapidly. In 1985 and 1986, the two biggest reservoirs, Mosul and Haditha , situated in the Tigris and Euphrates , were built to provide hydropower and downstream flow. [72] During the first Gulf War , in 1990 and 1991, [73] 3.3km2 of surface area was lost per day in the Mosul reservoir falling from 372 to 346 km. On January 25 and February 10, 1991, the reservoir continued to lose about 3.4 km2 per day of the lake surface, leading to a final surface area of 215 km2 and a volume of 3.3 km3. [72] This was the same time in February 1991 when multiple British bombers sent multiple missiles hitting bridges in southern and western Iraq , killing more than 100 in each attack [74] and affecting water levels. During the same time, between January 17 and February 10, 1991, the Haditha reservoir, also situated in Iraq , lost an average of 2.5 km2 of lake surface per day and, in three weeks, a total of 21%. In August 2014, ISIS , a rebel group, captured the Mosul Dam, which Kurdish sources feared would be used to flood downstream countries, causing thousands of deaths. [75] The US sent over 130 air strikes to help recapture the dam from ISIS in northern Iraq . [76] The US also sent airstrikes hitting the areas surrounding the Haditha reservoir to stop ISIS from capturing another vital dam that is a source for millions. [77] The conflict over the resource in the area caused both the Mosul and Haditha reservoirs to lose surface area at a rate of 2.0km2 a day. [72]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mosul_Dam_Lake_2019.jpg/220px-Mosul_Dam_Lake_2019.jpg",
+                "caption": "Water levels at a reservoir upstream of Mosul Dam ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Water_conflict",
+        "title": "Water conflict",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Hydropower and water rights"
+    }
+]

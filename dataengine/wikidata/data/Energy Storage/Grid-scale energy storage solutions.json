@@ -1,0 +1,739 @@
+[
+    {
+        "section": "Demand side management and grid storage",
+        "text": "The demand side can also store electricity from the grid, for example charging a battery electric vehicle stores energy for a vehicle and storage heaters , district heating storage or ice storage provide thermal storage for buildings. [6] At present this storage serves only to shift consumption to the off-peak time of day, no electricity is returned to the grid. The need for grid storage to provide peak power is reduced by demand side time of use pricing , one of the benefits of smart meters . At the household level, consumers may choose less expensive off-peak times to wash and dry clothes, use dishwashers, take showers and cook. As well, commercial and industrial users will take advantage of cost savings by deferring some processes to off-peak times. Regional impacts from the unpredictable operation of wind power has created a new need for interactive demand response , where the utility communicates with the demand. Historically this was only done in cooperation with large industrial consumers, but now may be expanded to entire grids. [7] For instance, a few large-scale projects in Europe link variations in wind power to change industrial food freezer loads, causing small variations in temperature. If communicated on a grid-wide scale, small changes to heating/cooling temperatures would instantly change consumption across the grid. A report released in December 2013 by the United States Department of Energy further describes the potential benefits of energy storage and demand side technologies to the electric grid: \"Modernizing the electric system will help the nation meet the challenge of handling projected energy needs—including addressing climate change by integrating more energy from renewable sources and enhancing efficiency from non-renewable energy processes. Advances to the electric grid must maintain a robust and resilient electricity delivery system, and energy storage can play a significant role in meeting these challenges by improving the operating capabilities of the grid, lowering cost and ensuring high reliability, as well as deferring and reducing infrastructure investments. Finally, energy storage can be instrumental for emergency preparedness because of its ability to provide backup power as well as grid stabilization services\". [8] The report was written by a core group of developers representing Office of Electricity Delivery and Energy Reliability , ARPA-E , Office of Science , Office of Energy Efficiency and Renewable Energy , Sandia National Laboratories , and Pacific Northwest National Laboratory ; all of whom are engaged in the development of grid energy storage. [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Energy-Units-01.png/220px-Energy-Units-01.png",
+                "caption": "A sense of units and scale for electrical energy production and consumption"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Batteries",
+        "text": "Battery storage was used in the early days of direct current electric power. Where AC grid power was not readily available, isolated lighting plants run by wind turbines or internal combustion engines provided lighting and power to small motors. The battery system could be used to run the load without starting the engine or when the wind was calm. A bank of lead–acid batteries in glass jars both supplied power to illuminate lamps, as well as to start an engine to recharge the batteries. Battery storage technology is typically around 80% to more than 90% efficient for newer lithium-ion devices. [38] [39] Battery systems connected to large solid-state converters have been used to stabilize power distribution networks. Some grid batteries are co-located with renewable energy plants, either to smooth the power supplied by the intermittent wind or solar output, or to shift the power output into other hours of the day when the renewable plant cannot produce power directly (see Installation examples ). These hybrid systems (generation and storage) can either alleviate the pressure on the grid when connecting renewable sources or be used to reach self-sufficiency and work \"off-the-grid\" (see Stand-alone power system ). Contrary to electric vehicle applications, batteries for stationary storage do not suffer from mass or volume constraints. However, due to the large amounts of energy and power implied, the cost per power or energy unit is crucial. The relevant metrics to assess the interest of a technology for grid-scale storage is the $/Wh (or $/W) rather than the Wh/kg (or W/kg). The electrochemical grid storage was made possible thanks to the development of the electric vehicle, that induced a fast decrease in the production costs of batteries below $300/kWh. By optimizing the production chain, major industrials aimed to reach $150/kWh by the end of 2020, but actually achieved $140/kWh. The rate of decline in battery prices has consistently outpaced most estimates, reaching $132/kWh in 2021. [40] These batteries rely on a lithium-ion technology, which is suited for mobile applications (high cost, high density). Technologies optimized for the grid should focus on low cost per kWh.   Lithium iron phosphate batteries are increasingly being used in both vehicles and grid storage because of their low cost, scale and acceptable energy density for many applications. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Light-plant-Fig1198-Page989-Ch45-Hawkins-Electrical-Guide.png/220px-Light-plant-Fig1198-Page989-Ch45-Hawkins-Electrical-Guide.png",
+                "caption": "A 900 watt direct current light plant using 16 separate lead acid battery cells (32 volts) from 1917. [35]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Battery-cost-learning-curve.png/220px-Battery-cost-learning-curve.png",
+                "caption": "Learning curve of lithium-ion batteries: the price of batteries declined by 97% in three decades. [36] [37]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Electric vehicles",
+        "text": "Companies are researching the possible use of electric vehicles to meet peak demand. A parked and plugged-in electric vehicle could sell the electricity from the battery during peak loads and charge either during night (at home) or during off-peak. [69] Plug-in hybrid or electric cars could be used [70] [71] [72] for their energy storage capabilities. Vehicle-to-grid technology can be employed, turning each vehicle with its 20 to 50 kWh battery pack into a distributed load-balancing device or emergency power source. This represents two to five days per vehicle of average household requirements of 10 kWh per day, assuming annual consumption of 3,650 kWh. This quantity of energy is equivalent to between 60 and 480 kilometres (40 and 300 mi) of range in such vehicles consuming 0.1 to 0.3 kilowatt-hours per kilometre (0.16 to 0.5 kWh/mi). These figures can be achieved even in home-made electric vehicle conversions . Some electric utilities plan to use old plug-in vehicle batteries (sometimes resulting in a giant battery) to store electricity [73] [74] However, a large disadvantage of using vehicle to grid energy storage would be if each storage cycle stressed the battery with one complete charge-discharge cycle. [70] However, one major study showed that used intelligently, vehicle-to-grid storage actually improved the batteries longevity. [75] Conventional (cobalt-based) lithium-ion batteries break down with the number of cycles – newer li-ion batteries do not break down significantly with each cycle, and so have much longer lives. One approach is to reuse unreliable vehicle batteries in dedicated grid storage [76] as they are expected to be good in this role for ten years. [77] If such storage is done on a large scale it becomes much easier to guarantee replacement of a vehicle battery degraded in mobile use, as the old battery has value and immediate use.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg/220px-Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg",
+                "caption": "Nissan Leaf , the world's top-selling highway-capable electric car as of 2015"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Flywheel",
+        "text": "Mechanical inertia is the basis of this storage method. When the electric power flows into the device, an electric motor accelerates a heavy rotating disc. The motor acts as a generator when the flow of power is reversed, slowing down the disc and producing electricity. Electricity is stored as the kinetic energy of the disc. Friction must be kept to a minimum to prolong the storage time. This is often achieved by placing the flywheel in a vacuum and using magnetic bearings , tending to make the method expensive. Greater flywheel speeds allow greater storage capacity but require strong materials such as steel or composite materials to resist the centrifugal forces . The ranges of power and energy storage technology that make this method economic, however, tends to make flywheels unsuitable for general power system application; they are probably best suited to load-leveling applications on railway power systems and for improving power quality in renewable energy systems such as the 20MW system in Ireland. [78] [79] Applications that use flywheel storage are those that require very high bursts of power for very short durations such as tokamak [80] and laser experiments where a motor generator is spun up to operating speed and is partially slowed down during discharge. Flywheel storage is also currently used in the form of the Diesel rotary uninterruptible power supply to provide uninterruptible power supply systems (such as those in large datacenters ) for ride-through power necessary during transfer [81] – that is, the relatively brief amount of time between a loss of power to the mains and the warm-up of an alternate source, such as a diesel generator . This potential solution has been implemented by EDA [82] [ better source needed ] in the Azores on the islands of Graciosa and Flores . This system uses an 18 megawatt-second flywheel to improve power quality and thus allow increased renewable energy usage. As the description suggests, these systems are again designed to smooth out transient fluctuations in supply, and could never be used to cope with an outage exceeding a couple of days. Powercorp in Australia have been developing applications using wind turbines, flywheels and low load diesel (LLD) technology to maximize the wind input to small grids. A system installed in Coral Bay, Western Australia, uses wind turbines coupled with a flywheel based control system and LLDs. The flywheel technology enables the wind turbines to supply up to 95 percent of Coral Bay's energy supply at times, with a total annual wind penetration of 45 percent. [83]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/G2_front2.jpg/220px-G2_front2.jpg",
+                "caption": "NASA G2 flywheel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Pumped water",
+        "text": "In 2008, world pumped-storage generating capacity was 104 GW , [95] while other sources claim 127 GW, which comprises the vast majority of all types of grid electric storage – all other types combined are some hundreds of MW. [96] In many places, pumped-storage hydroelectricity is used to even out the daily generating load, by pumping water to a high storage reservoir during off-peak hours and weekends, using the excess base-load capacity from coal or nuclear sources.  During peak hours, this water can be used for hydroelectric generation, often as a high value rapid-response reserve to cover transient peaks in demand. Pumped storage recovers about 70% to 85% of the energy consumed, and is currently the most cost effective form of mass power storage. [97] The chief problem with pumped storage is that it usually requires two nearby reservoirs at considerably different heights, and often requires considerable capital expenditure. [98] Pumped water systems have high dispatchability , meaning they can come on-line very quickly, typically within 15 seconds, [99] which makes these systems very efficient at soaking up variability in electrical demand from consumers. There is over 90 GW of pumped storage in operation around the world, which is about 3% of instantaneous global generation capacity. Pumped water storage systems, such as the Dinorwig storage system in Britain, hold five or six hours of generating capacity, [99] and are used to smooth out demand variations. Another example is the 1836 MW Tianhuangping Pumped-Storage Hydro Plant in China, which has a reservoir capacity of eight million cubic meters (2.1 billion U.S. gallons or the volume of water over Niagara Falls in 25 minutes) with a vertical distance of 600 m (1970 feet). The reservoir can provide about 13 GW·h of stored gravitational potential energy (convertible to electricity at about 80% efficiency), or about 2% of China's daily electricity consumption. [100] A new concept in pumped-storage is utilizing wind energy or solar power to pump water. Wind turbines or solar cells that direct drive water pumps for an energy storing wind or solar dam can make this a more efficient process but are limited. Such systems can only increase kinetic water volume during windy and daylight periods. A study published in 2013 showed rooftop solar, coupled to existing pumped-storage, could replace the reactors lost at Fukushima with an equivalent capacity factor. [101]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG/220px-Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG",
+                "caption": "Mingtan Pumped-Storage Hydro Power Plant dam in Nantou , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Hydroelectric dams",
+        "text": "Hydroelectric dams with large reservoirs can also be operated to provide peak generation at times of peak demand. Water is stored in the reservoir during periods of low demand and released through the plant when demand is higher.  The net effect is the same as pumped storage, but without the pumping loss. Depending on the reservoir capacity the plant can provide daily, weekly, or seasonal load following. Many existing hydroelectric dams are fairly old (for example, the Hoover Dam was built in the 1930s), and their original design predated the newer intermittent power sources such as wind and solar by decades. A hydroelectric dam originally built to provide baseload power will have its generators sized according to the average flow of water into the reservoir. Uprating such a dam with additional generators increases its peak power output capacity, thereby increasing its capacity to operate as a virtual grid energy storage unit. [102] [103] The United States Bureau of Reclamation reports an investment cost of $69 per kilowatt capacity to uprate an existing dam, [102] compared to more than $400 per kilowatt for oil-fired peaking generators. While an uprated hydroelectric dam does not directly store excess energy from other generating units, it behaves equivalently by accumulating its own fuel – incoming river water – during periods of high output from other generating units. Functioning as a virtual grid storage unit in this way, the uprated dam is one of the most efficient forms of energy storage, because it has no pumping losses to fill its reservoir, only increased losses to evaporation and leakage. A dam which impounds a large reservoir can store and release a correspondingly large amount of energy, by controlling river outflow and raising or lowering its reservoir level a few meters. Limitations do apply to dam operation, their releases are commonly subject to government regulated water rights to limit downstream effect on rivers. For example, there are grid situations where baseload thermal plants, nuclear or wind turbines are already producing excess power at night, dams are still required to release enough water to maintain adequate river levels, whether electricity is generated or not. Conversely there's a limit to peak capacity, which if excessive could cause a river to flood for a few hours each day. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/FeiCueiReservoir.jpg/220px-FeiCueiReservoir.jpg",
+                "caption": "Fetsui hydroelectric dam in New Taipei , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Construction",
+        "text": "Battery storage power plants and uninterruptible power supplies (UPS) are comparable in technology and function. However, battery storage power plants are larger. For safety and security, the actual batteries are housed in their own structures, like warehouses or containers. As with a UPS, one concern is that electrochemical energy is stored or emitted in the form of direct current (DC), while electric power networks are usually operated with alternating current (AC). For this reason, additional inverters are needed to connect the battery storage power plants to the high voltage network. This kind of power electronics include gate turn-off thyristor , commonly used in high-voltage direct current (HVDC) transmission. Various accumulator systems may be used depending on the power-to-energy ratio, the expected lifetime and the costs. In the 1980s, lead-acid batteries were used for the first battery-storage power plants. During the next few decades, nickel–cadmium and sodium–sulfur batteries were increasingly used. [11] Since 2010, more and more utility-scale battery storage plants rely on lithium-ion batteries, as a result of the fast decrease in the cost of this technology, caused by the electric automotive industry. Lithium-ion batteries are mainly used. A flow battery system has emerged, but lead-acid batteries are still used in small budget applications. [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Datacenter_Backup_Batteries.jpg/220px-Datacenter_Backup_Batteries.jpg",
+                "caption": "A rechargeable battery bank used in a data center"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Invenergy_Beech_Ridge_Energy_Storage_System.jpg/220px-Invenergy_Beech_Ridge_Energy_Storage_System.jpg",
+                "caption": "Lithium iron phosphate battery modules packaged in shipping containers installed at Beech Ridge Energy Storage System in West Virginia [9] [10]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Battery_storage_power_station",
+        "title": "Battery storage power station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Operating characteristics",
+        "text": "Since they do not have any mechanical parts, battery storage power plants offer extremely short control times and start times, as little as 10 ms. [ citation needed ] They can therefore help dampen the fast oscillations that occur when electrical power networks are operated close to their maximum capacity. These instabilities – voltage fluctuations with periods of as much as 30 seconds – can produce peak voltage swings of such amplitude that they can cause regional blackouts. A properly sized battery storage power plant can efficiently counteract these oscillations; therefore, applications are found primarily in those regions where electrical power systems are operated at full capacity, leading to a risk of instability. [ citation needed ] However, some batteries have insufficient control systems, failing during moderate disruptions they should have tolerated. [30] Batteries are also commonly used for peak shaving for periods of up to a few hours. [2] Battery storage systems may be active on spot markets while providing systems services such as frequency stabilization. [31] Arbitrage is an attractive way to benefit from the operating characteristics of battery storages. Storage plants can also be used in combination with an intermittent renewable energy source in stand-alone power systems .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schwerin_20140923_wemag2.jpg/220px-Schwerin_20140923_wemag2.jpg",
+                "caption": "Battery storage power plant at Schwerin (interior view 2014, modular rows of accumulators)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Battery_storage_power_station",
+        "title": "Battery storage power station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Market development and deployment",
+        "text": "While the market for grid batteries is small compared to the other major form of grid storage, pumped hydroelectricity, it is growing very fast. For example, in the United States, the market for storage power plants in 2015 increased by 243% compared to 2014. [75] The 2021 price of a 60MW / 240MWh (4-hour) battery installation in the United States was US$379/usable kWh, or US$292/nameplate kWh, a 13% drop from 2020. [76] [77] In 2010, the United States had 59 MW of battery storage capacity from 7 battery power plants. This increased to 49 plants comprising 351 MW of capacity in 2015. In 2018, the capacity was 869 MW from 125 plants, capable of storing a maximum of 1,236 MWh of generated electricity. By the end of 2020, the battery storage capacity reached 1,756 MW. [78] [79] At the end of 2021, the capacity grew to 4,588 MW. [80] In 2022, US capacity doubled to 9 GW / 25 GWh. [81] As of May 2021, 1.3 GW of battery storage was operating in the United Kingdom, with 16 GW of projects in the pipeline potentially deployable over the next few years. [82] In 2022, UK capacity grew by 800 MWh, ending at 2.4 GW / 2.6 GWh. [83] Europe added 1.9 GW, with several more projects planned. [84] In 2020, China added 1,557 MW to its battery storage capacity, while storage facilities for photovoltaics projects accounting for 27% of the capacity, [85] to the total 3,269 MW of electrochemical energy storage capacity. [86] There is a lot of movement in the market, for example, some developers are building storage systems from old batteries of electric cars, where costs can probably be halved compared to conventional systems from new batteries. [87]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/U.S._utility-scale_battery_storage_capacity_as_of_November_2023.svg/350px-U.S._utility-scale_battery_storage_capacity_as_of_November_2023.svg.png",
+                "caption": "Growth in installed battery capacy in the U.S. between 2015 and 2023 [74]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Battery_storage_power_station",
+        "title": "Battery storage power station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Pumped hydro",
+        "text": "Worldwide, pumped-storage hydroelectricity (PSH) is the largest-capacity form of active grid energy storage available, and, as of March 2012, the Electric Power Research Institute (EPRI) reports that PSH accounts for more than 99% of bulk storage capacity worldwide, representing around 127,000 MW . [6] PSH energy efficiency varies in practice between 70% and 80%, [6] [7] [8] [9] with claims of up to 87%. [10] At times of low electrical demand, excess generation capacity is used to pump water from a lower source into a higher reservoir. When demand grows, water is released back into a lower reservoir (or waterway or body of water) through a turbine , generating electricity. Reversible turbine-generator assemblies act as both a pump and turbine (usually a Francis turbine design). Nearly all facilities use the height difference between two water bodies. Pure pumped-storage plants shift the water between reservoirs, while the \"pump-back\" approach is a combination of pumped storage and conventional hydroelectric plants that use natural stream-flow.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adam_Beck_Complex.jpg/300px-Adam_Beck_Complex.jpg",
+                "caption": "The Sir Adam Beck Generating Complex at Niagara Falls, Canada , which includes a large pumped storage hydroelectricity reservoir to provide an extra 174 MW of electricity during periods of peak demand."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Compressed air",
+        "text": "Compressed-air energy storage (CAES) uses surplus energy to compress air for subsequent electricity generation. [11] Small-scale systems have long been used in such applications as propulsion of mine locomotives. The compressed air is stored in an underground reservoir , such as a salt dome . Compressed-air energy storage (CAES) plants can bridge the gap between production volatility and load. CAES storage addresses the energy needs of consumers by effectively providing readily available energy to meet demand. Renewable energy sources like wind and solar energy vary. So at times when they provide little power, they need to be supplemented with other forms of energy to meet energy demand. Compressed-air energy storage plants can take in the surplus energy output of renewable energy sources during times of energy over-production. This stored energy can be used at a later time when demand for electricity increases or energy resource availability decreases. [12] Compression of air creates heat; the air is warmer after compression. Expansion requires heat. If no extra heat is added, the air will be much colder after expansion. If the heat generated during compression can be stored and used during expansion, efficiency improves considerably. [13] A CAES system can deal with the heat in three ways. Air storage can be adiabatic , diabatic , or isothermal . Another approach uses compressed air to power vehicles. [14] [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Compressed_Air_Loco.jpg/300px-Compressed_Air_Loco.jpg",
+                "caption": "A compressed air locomotive used inside a mine between 1928 and 1961."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Flywheel",
+        "text": "Flywheel energy storage (FES) works by accelerating a rotor (a flywheel ) to a very high speed, holding energy as rotational energy . When energy is added the rotational speed of the flywheel increases, and when energy is extracted, the speed declines, due to conservation of energy . Most FES systems use electricity to accelerate and decelerate the flywheel, but devices that directly use mechanical energy are under consideration. [16] FES systems have rotors made of high strength carbon-fiber composites, suspended by magnetic bearings and spinning at speeds from 20,000 to over 50,000 revolutions per minute (rpm) in a vacuum enclosure. [17] Such flywheels can reach maximum speed (\"charge\") in a matter of minutes. The flywheel system is connected to a combination electric motor / generator . FES systems have relatively long lifetimes (lasting decades with little or no maintenance; [17] full-cycle lifetimes quoted for flywheels range from in excess of 10 5 , up to 10 7 , cycles of use), [18] high specific energy (100–130 W·h/kg, or 360–500 kJ/kg) [18] [19] and power density .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Example_of_cylindrical_flywheel_rotor_assembly.png/220px-Example_of_cylindrical_flywheel_rotor_assembly.png",
+                "caption": "The main components of a typical flywheel."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg/220px-Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg",
+                "caption": "A Flybrid Kinetic Energy Recovery System flywheel . Built for use on Formula 1 racing cars , it is employed to recover and reuse kinetic energy captured during braking."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Solid mass gravitational ",
+        "text": "Changing the altitude of solid masses can store or release energy via an elevating system driven by an electric motor/generator. Studies suggest energy can begin to be released with as little as 1 second warning, making  the method a useful supplemental feed into an electricity grid to balance load surges. [20] Efficiencies can be as high as 85% recovery of stored energy. [21] This can be achieved by siting the masses inside old vertical  mine shafts or in specially constructed towers where the heavy weights are winched up to store energy and allowed a controlled descent to release it. At 2020 a prototype vertical store is being built in Edinburgh, Scotland [22] Potential energy storage or gravity energy storage was under active development in 2013 in association with the California Independent System Operator . [23] [24] [25] It examined the movement of earth-filled hopper rail cars driven by electric locomotives from lower to higher elevations. [26] Other proposed methods include:-",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fernw%C3%A4rmespeicher_Theiss.jpg/220px-Fernw%C3%A4rmespeicher_Theiss.jpg",
+                "caption": "District heating accumulation tower from Theiss near Krems an der Donau in Lower Austria with a thermal capacity of 2 GWh"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Rechargeable battery",
+        "text": "A rechargeable battery comprises one or more electrochemical cells . It is known as a 'secondary cell' because its electrochemical reactions are electrically reversible. Rechargeable batteries come in many shapes and sizes, ranging from button cells to megawatt grid systems. Rechargeable batteries have lower total cost of use and environmental impact than non-rechargeable (disposable) batteries. Some rechargeable battery types are available in the same form factors as disposables. Rechargeable batteries have higher initial cost but can be recharged very cheaply and used many times. Common rechargeable battery chemistries include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Datacenter_Backup_Batteries.jpg/220px-Datacenter_Backup_Batteries.jpg",
+                "caption": "A rechargeable battery bank used as an uninterruptible power supply in a data center"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Supercapacitor",
+        "text": "Supercapacitors , also called electric double-layer capacitors (EDLC) or ultracapacitors, are a family of electrochemical capacitors [47] that do not have conventional solid dielectrics . Capacitance is determined by two storage principles, double-layer capacitance and pseudocapacitance . [48] [49] Supercapacitors bridge the gap between conventional capacitors and rechargeable batteries . They store the most energy per unit volume or mass ( energy density ) among capacitors. They support up to 10,000 farads /1.2 Volt, [50] up to 10,000 times that of electrolytic capacitors , but deliver or accept less than half as much power per unit time ( power density ). [47] While supercapacitors have specific energy and energy densities that are approximately 10% of batteries, their power density is generally 10 to 100 times greater. This results in much shorter charge/discharge cycles. Also, they tolerate many more charge-discharge cycles than batteries. Supercapacitors have many applications, including:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Expo_2010_Electric_Bus.jpg/220px-Expo_2010_Electric_Bus.jpg",
+                "caption": "One of a fleet of electric capabuses powered by supercapacitors, at a quick-charge station-bus stop, in service during Expo 2010 Shanghai China . Charging rails can be seen suspended over the bus."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Power-to-gas",
+        "text": "Power-to-gas is the conversion of electricity to a gaseous fuel such as hydrogen or methane . The three commercial methods use electricity to reduce water into hydrogen and oxygen by means of electrolysis . In the first method, hydrogen is injected into the natural gas grid or is used for transportation. The second method is to combine the hydrogen with carbon dioxide to produce methane using a methanation reaction such as the Sabatier reaction , or biological methanation, resulting in an extra energy conversion loss of 8%. The methane may then be fed into the natural gas grid. The third method uses the output gas of a wood gas generator or a biogas plant, after the biogas upgrader is mixed with the hydrogen from the electrolyzer, to upgrade the quality of the biogas.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/World%E2%80%99s_1st_Low-Emission_Hybrid_Battery_Storage%2C_Gas_Turbine_Peaker_System.jpg/220px-World%E2%80%99s_1st_Low-Emission_Hybrid_Battery_Storage%2C_Gas_Turbine_Peaker_System.jpg",
+                "caption": "The new technology helps reduce greenhouse gases and operating costs at two existing peaker plants in Norwalk and Rancho Cucamonga . The 10-megawatt battery storage system, combined with the gas turbine, allows the peaker plant to more quickly respond to changing energy needs, thus increasing the reliability of the electrical grid."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Capacitor",
+        "text": "A capacitor (originally known as a 'condenser') is a passive two-terminal electrical component used to store energy electrostatically . Practical capacitors vary widely, but all contain at least two electrical conductors (plates) separated by a dielectric (i.e., insulator ). A capacitor can store electric energy when disconnected from its charging circuit, so it can be used like a temporary battery , or like other types of rechargeable energy storage system . [72] Capacitors are commonly used in electronic devices to maintain power supply while batteries change. (This prevents loss of information in volatile memory.) Conventional capacitors provide less than 360 joules per kilogram, while a conventional alkaline battery has a density of 590 kJ/kg. Capacitors store energy in an electrostatic field between their plates. Given a potential difference across the conductors (e.g., when a capacitor is attached across a battery), an electric field develops across the dielectric, causing positive charge (+Q) to collect on one plate and negative charge (-Q) to collect on the other plate. If a battery is attached to a capacitor for a sufficient amount of time, no current can flow through the capacitor. However, if an accelerating or alternating voltage is applied across the leads of the capacitor, a displacement current can flow. Besides capacitor plates, charge can also be stored in a dielectric layer. [73] Capacitance is greater given a narrower separation between conductors and when the conductors have a larger surface area. In practice, the dielectric between the plates emits a small amount of leakage current and has an electric field strength limit, known as the breakdown voltage . However, the effect of recovery of a dielectric after a high-voltage breakdown holds promise for a new generation of self-healing capacitors. [74] [75] The conductors and leads introduce undesired inductance and resistance . Research is assessing the quantum effects of nanoscale capacitors [76] for digital quantum batteries. [77] [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_%40_5000_VDC.jpg/175px-Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_%40_5000_VDC.jpg",
+                "caption": "This mylar-film, oil-filled capacitor has very low inductance and low resistance, to provide the high-power (70 megawatts) and the very high speed (1.2 microsecond) discharges needed to operate a dye laser ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Renewable energy",
+        "text": "The largest source and the greatest store of renewable energy is provided by hydroelectric dams. A large reservoir behind a dam can store enough water to average the annual flow of a river between dry and wet seasons, and a very large reservoir can store enough water to average the flow of a river between dry and wet years. While a hydroelectric dam does not directly store energy from intermittent sources, it does balance the grid by lowering its output and retaining its water when power is generated by solar or wind. If wind or solar generation exceeds the region's hydroelectric capacity, then some additional source of energy is needed. Many renewable energy sources (notably solar and wind) produce variable power . [96] Storage systems can level out the imbalances between supply and demand that this causes. Electricity must be used as it is generated or converted immediately into storable forms. [97] The main method of electrical grid storage is pumped-storage hydroelectricity . Areas of the world such as Norway, Wales, Japan and the US have used elevated geographic features for reservoirs , using electrically powered pumps to fill them. When needed, the water passes through generators and converts the gravitational potential of the falling water into electricity. [96] Pumped storage in Norway, which gets almost all its electricity from hydro, has currently a capacity of 1.4 GW but since the total installed capacity is nearly 32 GW and 75% of that is regulable, it can be expanded significantly. [98] Some forms of storage that produce electricity include pumped-storage hydroelectric dams , rechargeable batteries , thermal storage including molten salts which can efficiently store and release very large quantities of heat energy, [99] and compressed air energy storage , flywheels , cryogenic systems and superconducting magnetic coils . Surplus power can also be converted into methane ( sabatier process ) with stockage in the natural gas network. [100] [101] In 2011, the Bonneville Power Administration in the northwestern United States created an experimental program to absorb excess wind and hydro power generated at night or during stormy periods that are accompanied by high winds. Under central control, home appliances absorb surplus energy by heating ceramic bricks in special space heaters to hundreds of degrees and by boosting the temperature of modified hot water heater tanks . After charging, the appliances provide home heating and hot water as needed. The experimental system was created as a result of a severe 2010 storm that overproduced renewable energy to the extent that all conventional power sources were shut down, or in the case of a nuclear power plant, reduced to its lowest possible operating level, leaving a large area running almost completely on renewable energy. [102] [103] Another advanced method used at the former Solar Two project in the United States and the Solar Tres Power Tower in Spain uses molten salt to store thermal energy captured from the sun and then convert it and dispatch it as electrical power. The system pumps molten salt through a tower or other special conduits to be heated by the sun. Insulated tanks store the solution. Electricity is produced by turning water to steam that is fed to turbines . Since the early 21st century batteries have been applied to utility scale load-leveling and frequency regulation capabilities. [96] In vehicle-to-grid storage, electric vehicles that are plugged into the energy grid can deliver stored electrical energy from their batteries into the grid when needed.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Abengoa_Solar_%287336087392%29.jpg/220px-Abengoa_Solar_%287336087392%29.jpg",
+                "caption": "Construction of the Salt Tanks which provide efficient thermal energy storage [92] so that electricity can be generated after the sun goes down, and output can be scheduled to meet demand. [93] The 280 MW Solana Generating Station is designed to provide six hours of storage. This allows the plant to generate about 38% of its rated capacity over the course of a year. [94]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Andasol_3.jpg/220px-Andasol_3.jpg",
+                "caption": "The 150 MW Andasol solar power station in Spain is a parabolic trough solar thermal power plant that stores energy in tanks of molten salt so that it can continue generating electricity when the sun is not shining. [95]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Model S",
+        "text": "The Model S is a full-size luxury car with a liftback body style and a dual motor, all-wheel drive layout. Development of the Model S began prior to 2007 and deliveries started in June 2012. The Model S has seen two major design refreshes, first in April 2016 which introduced a new front-end design and again in June 2021 which revised the interior. The Model S was the top-selling plug-in electric car worldwide in 2015 and 2016. More than 250,000 vehicles have been sold as of December 2018 [update] (when Tesla merged production numbers for the Model S and Model X).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2018_Tesla_Model_S_75D.jpg/220px-2018_Tesla_Model_S_75D.jpg",
+                "caption": "Tesla Model S"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Model X",
+        "text": "The Model X is a mid-size luxury crossover SUV offered in 5-, 6- and 7-passenger configurations with either a dual- or tri-motor, all-wheel drive layout. The rear passenger doors open vertically with an articulating \" falcon-wing \" design. A prototype Model X was first shown in February 2012 and deliveries started in September 2015. [90] The Model X shares around 30 percent of its content with the Model S. The vehicle has seen one major design refresh in June 2021 which revised the interior.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tesla_Model_X_100D_1X7A6736.jpg/220px-Tesla_Model_X_100D_1X7A6736.jpg",
+                "caption": "Tesla Model X"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Model 3",
+        "text": "The Model 3 is a mid-size car with a fastback body style and either a dual-motor, all-wheel drive layout or a rear-motor, rear-wheel drive layout. The vehicle was designed to be more affordable than the luxury Model S sedan. A prototype Model 3 was first shown in 2016 and within a week the company received over 325,000 paid reservations. [50] Deliveries started in July 2017. [91] The Model 3 ranked as the world's bestselling electric car from 2018 to 2021, [92] [93] [94] and cumulative sales passed 1 million in June 2021. [8] The vehicle has seen one major design refresh in September 2023 which revised the exterior and interior.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2021_Tesla_Model_3%2C_front_11.10.21.jpg/220px-2021_Tesla_Model_3%2C_front_11.10.21.jpg",
+                "caption": "Tesla Model 3"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Model Y",
+        "text": "The Model Y is a mid-size crossover SUV offered in 5- and 7-passenger configurations with a single‐motor, rear-wheel drive or a dual-motor, all-wheel drive layout. The vehicle was designed to be more affordable than the luxury Model X SUV. A prototype Model Y was first shown in March 2019, [64] and deliveries started in March 2020. [66] The Model Y shared around 75 percent of its content with the Model 3. [65] In the first quarter of 2023, the Model Y outsold the Toyota Corolla to become the world's best-selling car, the first electric vehicle to claim the title. [95]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tesla_Model_Y_1X7A6211.jpg/220px-Tesla_Model_Y_1X7A6211.jpg",
+                "caption": "Tesla Model Y"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Tesla Semi",
+        "text": "The Tesla Semi is a Class 8 semi-truck by Tesla, Inc. with a tri-motor, rear-wheel drive layout. Tesla claims that the Semi has approximately three times the power of a typical diesel semi truck, a range of 500 miles (800 km). [96] Two prototype trucks were first shown in November 2017 and initial deliveries were made to PepsiCo on December 1, 2022. [97] As of December 2023 [update] , the truck remains in pilot production. [3] An update in 2024 indicates full production to occur in 2025. [98]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_Tesla_Semi_Truck_%2840705940423%29.jpg/220px-The_Tesla_Semi_Truck_%2840705940423%29.jpg",
+                "caption": "Tesla Semi prototype"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Cybertruck",
+        "text": "The Cybertruck is a full-sized pickup truck . First announced in November 2019, pilot production began in July 2023, after being pushed back multiple times, and deliveries began on November 30, 2023. Three models are offered: rear-wheel drive, dual-motor all-wheel drive, and tri-motor all-wheel drive, with EPA range estimates of 320–340 miles (510–550 km), depending on the model. The truck's exterior design made from flat sheets of unpainted stainless steel earned a notably polarizing reception from media. [99] [100] [101]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tesla_Cybertruck_outside_unveil_modified_by_Smnt.jpg/220px-Tesla_Cybertruck_outside_unveil_modified_by_Smnt.jpg",
+                "caption": "Tesla Cybertruck"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Roadster (second generation)",
+        "text": "On November 16, 2017, Tesla unveiled the second generation Roadster with a purported range of 620 miles (1,000 km) with a 200 kilowatt-hours (720 MJ) battery pack that would achieve 0–60 miles per hour (0–97 km/h) in 1.9 seconds; and 0–100 mph (0–161 km/h) in 4.2 seconds, [102] and a top speed over 250 mph (400 km/h). A \" SpaceX Package\" would include cold-gas thrusters . [103] The vehicle would have three electric motors, allowing all-wheel drive and torque vectoring during cornering. [103] The base price was set at $200,000. [103] Musk said in May 2023 that the Roadster should ship in 2024. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/NextGenTeslaRoadster_%28cropped%29.jpg/220px-NextGenTeslaRoadster_%28cropped%29.jpg",
+                "caption": "Tesla Roadster prototype"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Discontinued Tesla Roadster",
+        "text": "The original Tesla Roadster [106] was a two-seater sports car, evolved from the Lotus Elise chassis. [107] It was produced from 2008 to 2012. The Roadster was the first highway-legal serial production electric car to use lithium-ion battery cells and the first production all-electric car to travel more than 200 miles (320 km) per charge.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/IFA_2010_Internationale_Funkausstellung_Berlin_93.JPG/220px-IFA_2010_Internationale_Funkausstellung_Berlin_93.JPG",
+                "caption": "The original Roadster"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Destination charging location network",
+        "text": "Tesla also has a network of \"Destination Chargers,\" slower than Superchargers and intended for locations where customers are expected to park and stay for several hours, such as hotels, restaurants, or shopping centers. Unlike the Supercharger network, Tesla does not own the destination chargers, instead, property owners set up the devices and set pricing. [113] When the network first launched in 2014, Tesla provided free charging equipment and covered installation costs. [114] One of the largest providers is hotel chain Hilton Worldwide which in 2023 announced an agreement with Tesla to install 20,000 chargers across 2,000 of its properties in North America by 2025. [115]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TeslaDestinationCharger.jpg/170px-TeslaDestinationCharger.jpg",
+                "caption": "\"Destination Charger\" in North America"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Energy products",
+        "text": "Tesla subsidiary Tesla Energy develops, builds, sells and installs solar energy generation systems and battery energy storage products (as well as related products and services) to residential, commercial and industrial customers. The subsidiary was created by the merger of Tesla's existing battery energy storage products division with SolarCity, a solar energy company that Tesla acquired in 2016. [121] In 2023, the company deployed 14.7 gigawatt-hours of battery energy storage products, an increase of 125% over 2022, but only deployed solar energy systems capable of generating 223 megawatts , a decrease of 36% over 2022. [122] Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system) and the Tesla Solar Inverter. Storage products include the Powerwall (a home energy storage device) and the Megapack (a large-scale energy storage system). [123] [124] [125] For large-scale customers, Tesla Energy operates an online platform which allows for automated, real-time power trading, demand forecasting and product control. [126] [127] [128] In March 2021, the company said its online products were managing over 1.2 GWh of storage. [129] For home customers, the company operates a virtual power company in Texas called Tesla Electric, which utilizes the company's online platforms to manage customers Powerwall devices, discharging them into the grid to sell power when prices are high, earning money for customers. [130] [131]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Johnstone_000178_172617_517894_4578_%2836736411886%29.jpg/200px-Johnstone_000178_172617_517894_4578_%2836736411886%29.jpg",
+                "caption": "Two Tesla Powerwall 2 home energy storage devices from Tesla Energy"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Business strategy",
+        "text": "At the time of Tesla's founding in 2003, electric vehicles were very expensive. [132] In 2006, Elon Musk stated that Tesla's strategy was to first produce high-price, low-volume vehicles, such as sports cars, for which customers are less sensitive to price. This would allow them to progressively bring down the cost of batteries, which in turn would allow them to offer cheaper and higher volume cars. [19] [133] Tesla's first vehicle, the Roadster, was low-volume (fewer than 2,500 were produced) and priced at over $100,000. The next models, the Model S and Model X, are more affordable but still luxury vehicles. The most recent models, the Model 3 and the Model Y, are priced still lower, and aimed at a higher volume market, [134] [135] selling over 100,000 vehicles each quarter. Tesla continuously updates the hardware of its cars rather than waiting for a new model year, as opposed to nearly every other car manufacturer. [136] Unlike other automakers, Tesla does not rely on franchised dealerships to sell vehicles. Instead, the company directly sells vehicles through its website and a network of company-owned stores. [137] [138] The company is the first automaker in the United States to sell cars directly to consumers. [139] [140] Some jurisdictions, particularly in the United States, prohibit auto manufacturers from directly selling vehicles to consumers. In these areas, Tesla has locations that it calls galleries that the company says \"educate and inform customers about our products, but such locations do not actually transact in the sale of vehicles.\" [141] [142] In total, Tesla operates nearly 400 stores and galleries in more than 35 countries. [143] These locations are typically located in retail shopping districts, inside shopping malls, or other high-traffic areas, [138] instead of near other auto dealerships. [144] [145] [146] Analysts describe Tesla as vertically integrated given how it develops many components in-house, such as batteries, motors, and software. [148] The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to suppliers and focus on engine manufacturing and final assembly. [149] [150] [151] Tesla generally allows its competitors to license its technology, stating that it wants to help its competitors accelerate the world's use of sustainable energy. [152] Licensing agreements include provisions whereby the recipient agrees not to file patent suits against Tesla, or to copy its designs directly. [153] Tesla retains control of its other intellectual property, such as trademarks and trade secrets to prevent direct copying of its technology. [154] On April 15, 2024, Tesla secured a deal with Tata Electronics to supply semiconductor chips, marking a significant step in Tesla’s expansion into India’s automotive market. [155] On May 2, 2024, Tesla announced that it has abandoned its plan for next-generation gigacasting, a cutting-edge manufacturing technique. Initially aiming to revolutionize production and reduce costs, Tesla has now opted for its more proven method of casting vehicle underbodies in three pieces. This strategic shift reflects the company’s focus on self-driving vehicles and adjusting to market challenges. [156]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tesla_auto_bots.jpg/220px-Tesla_auto_bots.jpg",
+                "caption": "Robotic manufacturing of the Model S at the Tesla Factory in Fremont, California"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/The_Tesla_Patent_Wall_at_HQ%2C_now_set_free.jpg/220px-The_Tesla_Patent_Wall_at_HQ%2C_now_set_free.jpg",
+                "caption": "The Tesla Patent Wall at its headquarters was removed after the company announced its patents are part of the open source movement . [147]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Batteries",
+        "text": "As of 2023, Tesla uses four different battery cell form factors: 18650 , 2170 , 4680 , and prismatic . [157] [158] [159] Tesla purchases these batteries from three suppliers, CATL , LG Energy Solution , and Panasonic , the latter of which has co-located some of its battery production inside Tesla's Gigafactory Nevada. Tesla is also currently building out the capacity to produce its own batteries. Tesla batteries sit under the vehicle floor to save interior space. Tesla uses a multi-part aluminum and titanium protection system to protect the battery from road debris and/or vehicle crashes. [160] Business analysis company BloombergNEF estimated Tesla's battery pack cost in 2021 at $112 per kilowatt-hour (kWh), versus an industry average of $132 per kWh. [161]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Tesla_chassis%2C_Sydney_-_Martin_Place%2C_2017_%2801%29.jpg/220px-Tesla_chassis%2C_Sydney_-_Martin_Place%2C_2017_%2801%29.jpg",
+                "caption": "Tesla vehicle chassis used in Model S and X , with the battery visible"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tesla_4680_2170_18650_batteries.svg/220px-Tesla_4680_2170_18650_batteries.svg.png",
+                "caption": "Comparison of Tesla's three cylindrical battery cell form factors"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Autopilot",
+        "text": "Autopilot is an advanced driver-assistance system developed by Tesla. The system requires active driver supervision at all times. [189] Since September 2014, all Tesla cars are shipped with sensors (initially hardware version 1 or \"HW1\") and software to support Autopilot. [190] Tesla upgraded its sensors and software in October 2016 (\"HW2\") to support full self-driving in the future. [191] HW2 includes eight cameras, twelve ultrasonic sensors , and forward-facing radar . [191] HW2.5 was released in mid-2017, and it upgraded HW2 with a second graphics processing unit (GPU) and, for the Model 3 only, a driver-facing camera. [192] HW3 was released in early 2019 with an updated and more powerful computer, employing a custom Tesla-designed system on a chip . [193] In April 2019, Tesla announced that all of its cars will include Autopilot software (defined as just Traffic-Aware Cruise Control and Autosteer (Beta)) as a standard feature moving forward. [194] Full self-driving software ( Autopark , Navigate on Autopilot (Beta), Auto Lane Change (Beta), Summon (Beta), Smart Summon (Beta) and future abilities) is an extra cost option. [194] In 2020, Tesla released software updates where its cars recognize and automatically stop at stop signs and traffic lights. [195] [196] [197] In May 2021, Tesla removed the radar sensor and radar features from its Model 3 and Model Y vehicles, opting instead to rely on camera vision alone. [198] [199] [200] The New York Times reported in December 2021 that Musk \"repeatedly told members of the Autopilot team that humans could drive with only two eyes and that this meant cars should be able to drive with cameras alone,\" an analogy some experts and former Tesla engineers described as \"deeply flawed.\" [201] A statistical analysis conducted in A Methodology for Normalizing Safety Statistics of Partially Automated Vehicles debunked a common Tesla claim that Autopilot reduced crash rates by 40 percent [202] by accounting for the relative safety of the given operating domain when using active safety measures. [203]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tesla_Autopilot_Engaged_in_Model_X.jpg/220px-Tesla_Autopilot_Engaged_in_Model_X.jpg",
+                "caption": "Tesla Autopilot in operation"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "North America",
+        "text": "Tesla was founded in San Carlos, California in 2003. [247] In 2008, the company opened its first production facility at a former Chevrolet dealership in Menlo Park, California . The original roadster was assembled inside the service bays until 2012 and used the company showroom as a retail store. [248] Another retail store was opened in Los Angeles the same year. [249] In 2010, Tesla moved its corporate headquarters and opened a powertrain development facility in Palo Alto. [250] Tesla's first major assembly plant occupies the former NUMMI plant in Fremont, California, known as the Tesla Fremont Factory . The factory was originally opened by General Motors in 1962, and then operated by NUMMI, a joint venture of GM and Toyota from 1984. [251] The joint venture ended when GM entered bankruptcy in 2009. In 2010, Toyota agreed to sell the plant to Tesla at a significant discount. [33] Tesla's first purpose-built facility was opened in Nevada in 2016. Gigafactory Nevada produces the Powerwall, [234] battery cells in partnership with Panasonic, [252] Model 3 drivetrains, [253] and the Tesla Semi. [254] The factory received substantial subsidies ( abatements and credits ) from the local and state government, that, in exchange for opening in their jurisdiction, allowed Tesla to operate essentially tax free for 10 years, [255] later extended to 20 years in exchange for expanding the factory to add a production line for the Tesla Semi and add additional battery manufacturing capacity. [254] As part of the acquisition of SolarCity in 2016, Tesla gained control of Gigafactory New York in Buffalo on the site of a former Republic Steel plant. The state of New York spent cash to build and equip the factory through the Buffalo Billion program. [256] [257] In 2017, the factory started production of the Tesla Solar Roof , [237] but faced multiple production challenges. Since 2020, Tesla has also assembled Superchargers in New York. The plant has been criticized for offering little economic benefit for the state funding. [258] In 2018, Tesla assembled tension fabric buildings at the Fremont plant to meet production goals of 5,000 cars produced a month. The structure was assembled in two weeks and measured 53 feet high, 150 feet wide, and 900 feet long. [259] On July 23, 2020, Tesla picked Austin, Texas, as the site of its fifth Gigafactory, since then known as Gigafactory Texas . [260] Giga Texas is the only factory that produces the Tesla Cybertruck and produces Model Y cars for the Eastern United States.  On December 1, 2021, Tesla announced it relocated its legal headquarters from Palo Alto to the Gigafactory Texas site in Austin. [261] However, Tesla has retained the Palo Alto building. On April 7, 2022, Tesla celebrated the opening of Gigafactory Texas in a public event. [72] Tesla acquired a former JC Penney distribution center near Lathrop, California , in 2021 to build the \"Megafactory\" to manufacture the Megapack , the company's large scale energy storage product. [262] [263] The location opened in 2022. Tesla announced in February it would open a new global engineering headquarters in Palo Alto, moving into a corporate campus once owned by Hewlett Packard , located a couple of miles from Tesla's former headquarters building. [264] Tesla plans to open Gigafactory Mexico , the company's sixth Gigafactory near Monterrey , Mexico in 2025.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/New_Teslas_at_the_factory.jpg/220px-New_Teslas_at_the_factory.jpg",
+                "caption": "New Tesla Model S cars at the Tesla Fremont Factory in 2012"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tesla_Gigafactory_1_-_December_2019.jpg/220px-Tesla_Gigafactory_1_-_December_2019.jpg",
+                "caption": "Gigafactory Nevada in 2019"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gigafactory_Texas_Building_1_June_2022.jpg/220px-Gigafactory_Texas_Building_1_June_2022.jpg",
+                "caption": "Gigafactory Texas in 2022"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Europe",
+        "text": "Tesla opened its first European store in June 2009 in London. [265] Tesla's European headquarters are in the Netherlands, [266] part of a group of Tesla facilities in Tilburg , including the company's European Distribution Centre. [267] In late 2016, Tesla acquired German engineering firm Grohmann Engineering as a new division dedicated to helping Tesla increase the automation and effectiveness of its manufacturing process. [268] After winding down existing contracts with other manufacturers, the renamed Tesla Automation now works exclusively on Tesla projects. [269] Tesla announced its plans to build a car and battery factory in Europe in 2016. [270] Several countries campaigned to be the host, [271] and eventually Germany was chosen in November 2019. [272] On March 22, 2022, Tesla's first European Gigafactory named Gigafactory Berlin-Brandenburg [273] [274] opened with planned capacity to produce 500,000 electric vehicles annually as well as batteries for the cars. [274]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tesla_Gigafactory_4_DJI_20230728123435.JPG/220px-Tesla_Gigafactory_4_DJI_20230728123435.JPG",
+                "caption": "Gigafactory Berlin-Brandenburg in July 2023"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Asia",
+        "text": "Tesla opened its first showroom in Asia in Tokyo, Japan, in October 2010. [276] In July 2018, Tesla signed an agreement with Chinese authorities to build a factory in Shanghai, China, which was Tesla's first Gigafactory outside of the United States. [277] The factory building was finished in August 2019, and the initial Tesla Model 3s were in production from Gigafactory Shanghai in October 2019. [239] In 2021, China accounted for 26% of Tesla sales revenue, and was the second largest market for Tesla after the United States, which accounted for 45% of its sales. [278] Tesla has expressed interest in expanding to India and perhaps building a future Gigafactory in the country. [279] The company established a legal presence in the nation in 2021 and plans to open an office in Pune starting in October 2023. [280]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Tesla_Tokyo_2011.JPG/220px-Tesla_Tokyo_2011.JPG",
+                "caption": "Tesla store in Tokyo, the first in Asia [275]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Panasonic",
+        "text": "In January 2010, Tesla and battery cell maker Panasonic announced that they would together develop nickel-based lithium-ion battery cells for electric vehicles. [281] The partnership was part of Panasonic's $1 billion investment over three years in facilities for lithium-ion cell research, development and production. [282] Beginning in 2010, Panasonic invested $30 million for a multi-year collaboration on new battery cells designed specifically for electric vehicles. [283] In July 2014, Panasonic reached a basic agreement with Tesla to participate in battery production at Giga Nevada. [284] Tesla and Panasonic also collaborated on the manufacturing and production of photovoltaic (PV) cells and modules at the Giga New York factory in Buffalo, New York. [237] The partnership started in mid-2017 and ended in early 2020, before Panasonic exited the solar business entirely in January 2021. [285] [286] In March 2021, the outgoing CEO of Panasonic stated that the company plans to reduce its reliance on Tesla as their battery partnership evolves. [287]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Tesla_Panasonic.jpg/220px-Tesla_Panasonic.jpg",
+                "caption": "Panasonic Energy president Naoto Noguchi presents Tesla executive JB Straubel with lithium-ion cells"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Daimler",
+        "text": "Daimler and Tesla began working together in late 2007. On May 19, 2009, Daimler bought a stake of less than 10% in Tesla for a reported $50 million. [293] [294] As part of the collaboration, Herbert Kohler, vice-president of E-Drive and Future Mobility at Daimler, took a Tesla board seat. [295] On July 13, 2009, Daimler sold 40% of its acquisition to Aabar, an investment company controlled by the International Petroleum Investment Company owned by the government of Abu Dhabi . [296] In October 2014, Daimler sold its remaining holdings for a reported $780 million. [297] Tesla supplied battery packs for Freightliner Trucks in 2010. [298] [299] The company also built electric-powertrain components for the Mercedes-Benz A-Class E-Cell , with 500 cars planned to be built for trial in Europe beginning in September 2011. [300] [301] Tesla produced and co-developed the Mercedes-Benz B250e 's powertrain, which ended production in 2017. [302] The electric motor was rated 134 hp (100 kW) and 230 pound force-feet (310 N⋅m), with a 36 kWh (130 MJ) battery. The vehicle had a driving range of 200 km (124 mi) with a top speed of 150 km/h (93 mph). [303] Daimler division Smart produced the Smart ED2 cars from 2009 to 2012 which had a 14-kilowatt-hour (50 MJ) lithium-ion battery from Tesla. [304] [305]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2018_Mercedes-Benz_B-Class_Electric_Drive_Electric_Art_Premium_Front.jpg/220px-2018_Mercedes-Benz_B-Class_Electric_Drive_Electric_Art_Premium_Front.jpg",
+                "caption": "The Mercedes-Benz B-Class Electric Drive used a Tesla-supplied battery pack. [292]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Toyota",
+        "text": "In May 2010, Tesla and Toyota announced a deal in which Tesla purchased the former NUMMI factory from Toyota for $42 million, Toyota purchased $50 million in Tesla stock, and the two companies collaborated on an electric vehicle. [33] In July 2010, the companies announced they would work together on a second generation Toyota RAV4 EV . [306] The vehicle was unveiled at the October 2010 Los Angeles Auto Show and 35 pilot vehicles were built for a demonstration and evaluation program that ran through 2011. Tesla supplied the lithium metal-oxide battery and other powertrain components [307] [308] based on components from the Roadster. [309] The production version was unveiled in August 2012, using battery pack, electronics and powertrain components from the Tesla Model S sedan (also launched in 2012). [310] The RAV4 EV had a limited production run which resulted in just under 3,000 vehicles being produced, before it was discontinued in 2014. [311] [312] According to Bloomberg News, the partnership between Tesla and Toyota was \"marred by clashes between engineers\". [313] Toyota engineers rejected designs that Tesla had proposed for an enclosure to protect the RAV4 EV's battery pack. Toyota took over responsibility for the enclosure's design and strengthened it. In 2014, Tesla ended up adding a titanium plate to protect the Model S sedan's battery after some debris-related crashes lead to cars catching fire. [313] [160] On June 5, 2017, Toyota announced that it had sold all of its shares in Tesla and halted the partnership. [314] [315]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Toyota_RAV4_EV_WAS_2012_0791.JPG/220px-Toyota_RAV4_EV_WAS_2012_0791.JPG",
+                "caption": "Toyota RAV4 EV , which used a Tesla-supplied battery and powertrain components"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Finances",
+        "text": "For the fiscal (and calendar) year 2021, Tesla reported a net income of $5.52 billion. [528] The annual revenue was $53.8 billion, an increase of 71% over the previous fiscal year. [528] Of the revenue number in 2021, $314 million came from selling regulatory credits to other automakers to meet government pollution standards. That number has been a smaller percentage of revenue for multiple quarters. [528] Tesla ended 2021 with $17.6 billion of cash on hand, down $1.8 billion from the end of 2020. [141] : 31 In February 2021, a 10-K filing revealed that Tesla had invested some $1.5 billion in the cryptocurrency Bitcoin, and the company indicated it would soon accept Bitcoin as a form of payment. [82] Critics then pointed out how investing in cryptocurrency can run counter to Tesla's environmental goals. [530] [531] Tesla made more profit from the 2021 investment than the profit from selling cars in 2020, due to the Bitcoin price increase after the investment was announced. [532] [533] The quarter ending June 2021 was the first time Tesla made a profit independent of Bitcoin and regulatory credits. [534] The key trends for Tesla are (as at the financial year ending December 31):",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png",
+                "caption": "Tesla financial performance"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "title": "Tesla, Inc.",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Applications",
+        "text": "Grid batteries are used for ancillary services such as control of frequency and phase, black start , operating reserve etc.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tesla_Megapack_site_with_solar_canopies.webp/220px-Tesla_Megapack_site_with_solar_canopies.webp.png",
+                "caption": "Tesla Megapack site with solar canopies [19] 3D sketch"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla_Megapack",
+        "title": "Tesla Megapack",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Supercharger stations",
+        "text": "Megapacks have been installed at Tesla Supercharger stations that also have solar canopies to help power the Megapacks. [26] Megapacks can smooth out electric demand on the local power grid and use the stored Megapacks electricity during peak demand so there aren't excessive surcharges on electricity to charge the electric vehicles. [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tesla_Supercharger_station_with_solar_canopy.webp/220px-Tesla_Supercharger_station_with_solar_canopy.webp.png",
+                "caption": "3D sketch of Tesla Supercharger station with solar canopies and 8 Megapack set for close to 32 MWh"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla_Megapack",
+        "title": "Tesla Megapack",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Main components",
+        "text": "A typical system consists of a flywheel supported by rolling-element bearing connected to a motor–generator . The flywheel and sometimes motor–generator may be enclosed in a vacuum chamber to reduce friction and energy loss. First-generation flywheel energy-storage systems use a large steel flywheel rotating on mechanical bearings. Newer systems use carbon-fiber composite rotors that have a higher tensile strength than steel and can store much more energy for the same mass . [3] To reduce friction , magnetic bearings are sometimes used instead of mechanical bearings .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Example_of_cylindrical_flywheel_rotor_assembly.png/220px-Example_of_cylindrical_flywheel_rotor_assembly.png",
+                "caption": "The main components of a typical flywheel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flywheel_energy_storage",
+        "title": "Flywheel energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Automotive",
+        "text": "In the 1950s, flywheel-powered buses, known as gyrobuses , were used in Yverdon ( Switzerland ) and Ghent ( Belgium ) and there is ongoing research to make flywheel systems that are smaller, lighter, cheaper and have a greater capacity.  It is hoped that flywheel systems can replace conventional chemical batteries for mobile applications, such as for electric vehicles.  Proposed flywheel systems would eliminate many of the disadvantages of existing battery power systems, such as low capacity, long charge times, heavy weight and short usable lifetimes. Flywheels may have been used in the experimental Chrysler Patriot , though that has been disputed. [20] Flywheels have also been proposed for use in continuously variable transmissions . Punch Powertrain is currently working on such a device. [21] During the 1990s, Rosen Motors developed a gas turbine powered series hybrid automotive powertrain using a 55,000 rpm flywheel to provide bursts of acceleration which the small gas turbine engine could not provide.  The flywheel also stored energy through regenerative braking .  The flywheel was composed of a titanium hub with a carbon fiber cylinder and was gimbal -mounted to minimize adverse gyroscopic effects on vehicle handling.  The prototype vehicle was successfully road tested in 1997 but was never mass-produced. [22] In 2013, Volvo announced a flywheel system fitted to the rear axle of its S60 sedan. Braking action spins the flywheel at up to 60,000 rpm and stops the front-mounted engine. Flywheel energy is applied via a special transmission to partially or completely power the vehicle. The 20-centimetre (7.9 in), 6-kilogram (13 lb) carbon fiber flywheel spins in a vacuum to eliminate friction. When partnered with a four-cylinder engine, it offers up to a 25 percent reduction in fuel consumption versus a comparably performing turbo six-cylinder, providing an 80 horsepower (60 kW) boost and allowing it to reach 100 kilometres per hour (62 mph) in 5.5 seconds. The company did not announce specific plans to include the technology in its product line. [23] In July 2014 GKN acquired Williams Hybrid Power (WHP) division and intends to supply 500 carbon fiber Gyrodrive electric flywheel systems to urban bus operators over the next two years [24] As the former developer name implies, these were originally designed for Formula one motor racing applications. In September 2014, Oxford Bus Company announced that it is introducing 14 Gyrodrive hybrid buses by Alexander Dennis on its Brookes Bus operation. [25] [26]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gyrobus_G3-1.jpg/220px-Gyrobus_G3-1.jpg",
+                "caption": "One of the older gyrobuses parked in a museum in Antwerp."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flywheel_energy_storage",
+        "title": "Flywheel energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Motor sports",
+        "text": "Using a continuously variable transmission (CVT), energy is recovered from the drive train during braking and stored in a flywheel. This stored energy is then used during acceleration by altering the ratio of the CVT. [40] In motor sports applications this energy is used to improve acceleration rather than reduce carbon dioxide emissions – although the same technology can be applied to road cars to improve fuel efficiency . [41] Automobile Club de l'Ouest , the organizer behind the annual 24 Hours of Le Mans event and the Le Mans Series , is currently \"studying specific rules for LMP1 which will be equipped with a kinetic energy recovery system.\" [42] Williams Hybrid Power, a subsidiary of Williams F1 Racing team, [43] have supplied Porsche and Audi with flywheel based hybrid system for Porsche's 911 GT3 R Hybrid [44] and Audi's R18 e-Tron Quattro. [45] Audi's victory in 2012 24 Hours of Le Mans is the first for a hybrid (diesel-electric) vehicle. [46]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg/220px-Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg",
+                "caption": "A Flybrid Systems Kinetic Energy Recovery System built for use in Formula One"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flywheel_energy_storage",
+        "title": "Flywheel energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Basic principle",
+        "text": "At times of low electrical demand, excess generation capacity is used to pump water into the upper reservoir. When there is higher demand, water is released back into the lower reservoir through a turbine , generating electricity. Reversible turbine/generator assemblies act as combined pump and turbine generator units (usually Francis turbine designs). [15] Variable speed operation further optimizes the round trip efficiency in pumped hydro storage plants. [16] [17] In micro-PSH applications, a group of pumps and Pump As Turbine (PAT) could be implemented respectively for pumping and generating phases. [18] The same pump could be used in both modes by changing rotational direction and speed: [18] the operation point in pumping usually differs from the operation point in PAT mode.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pumpspeicherkraftwerk_engl.png/220px-Pumpspeicherkraftwerk_engl.png",
+                "caption": "Power distribution, over a day, of a pumped-storage hydroelectricity facility. Green represents power consumed in pumping. Red is power generated."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity",
+        "title": "Pumped-storage hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Economic efficiency",
+        "text": "Taking into account conversion losses and evaporation losses from the exposed water surface, energy recovery of 70–80% or more can be achieved. [19] This technique is currently the most cost-effective means of storing large amounts of electrical energy, but capital costs and the necessity of appropriate geography are critical decision factors in selecting pumped-storage plant sites. The relatively low energy density of pumped storage systems requires either large flows and/or large differences in height between reservoirs. The only way to store a significant amount of energy is by having a large body of water located relatively near, but as high as possible above, a second body of water. In some places this occurs naturally, in others one or both bodies of water were man-made. Projects in which both reservoirs are artificial and in which no natural inflows are involved with either reservoir are referred to as \"closed loop\" systems. [20] These systems may be economical because they flatten out load variations on the power grid, permitting thermal power stations such as coal-fired plants and nuclear power plants that provide base-load electricity to continue operating at peak efficiency, while reducing the need for \"peaking\" power plants that use the same fuels as many base-load thermal plants, gas and oil, but have been designed for flexibility rather than maximal efficiency. Hence pumped storage systems are crucial when coordinating large groups of heterogeneous generators . Capital costs for pumped-storage plants are relatively high, although this is somewhat mitigated by their proven long service life of decades - and in some cases over a century, [21] [22] which is three to five times longer than utility-scale batteries. When electricity prices become negative , pumped hydro operators may earn twice - when \"buying\" the electricity to pump the water to the upper reservoir at negative spot prices and again when selling the electricity at a later time when prices are high. Along with energy management, pumped storage systems help stabilize electrical network frequency and provide reserve generation. Thermal plants are much less able to respond to sudden changes in electrical demand that potentially cause frequency and voltage instability. Pumped storage plants, like other hydroelectric plants, can respond to load changes within seconds. The most important use for pumped storage has traditionally been to balance baseload powerplants, but they may also be used to abate the fluctuating output of intermittent energy sources . Pumped storage provides a load at times of high electricity output and low electricity demand, enabling additional system peak capacity. In certain jurisdictions, electricity prices may be close to zero or occasionally negative on occasions that there is more electrical generation available than there is load available to absorb it. Although at present this is rarely due to wind or solar power alone, increased use of such generation will increase the likelihood of those occurrences. [ citation needed ] It is particularly likely that pumped storage will become especially important as a balance for very large-scale photovoltaic and wind generation. [23] Increased long-distance transmission capacity combined with significant amounts of energy storage will be a crucial part of regulating any large-scale deployment of intermittent renewable power sources. [24] The high non-firm renewable electricity penetration in some regions  supplies 40% of annual output, but 60% may be reached before additional storage is necessary. [25] [26] [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stwlan.dam.jpg/220px-Stwlan.dam.jpg",
+                "caption": "The upper reservoir, Llyn Stwlan, and dam of the Ffestiniog Pumped Storage Scheme in North Wales . The lower power station has four water turbines which generate 360 MW of electricity within 60 seconds of the need arising."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity",
+        "title": "Pumped-storage hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Summary",
+        "text": "In 2009, world pumped storage generating capacity was 104 GW , [32] while other sources claim 127 GW, which comprises the vast majority of all types of utility grade electric storage. [33] The EU had 38.3 GW net capacity (36.8% of world capacity) out of a total of 140 GW of hydropower and representing 5% of total net electrical capacity in the EU. Japan had 25.5 GW net capacity (24.5% of world capacity). [32] In 2010 the United States had 21.5 GW of pumped storage generating capacity (20.6% of world capacity). [34] PSH contributed 21,073 GWh of energy  in 2020 in the United States, but −5,321 GWh  (net) because more energy is consumed in pumping than is generated. [35] Nameplate pumped storage capacity had grown to 21.6 GW by 2014, with pumped storage comprising 97% of grid-scale energy storage in the United States. As of late 2014, there were 51 active project proposals with a total of 39 GW of new nameplate capacity across all stages of the FERC licensing process for new pumped storage hydroelectric plants in the United States, but no new plants were currently under construction in the United States at the time. [36] [37] The five largest operational pumped-storage plants are listed below (for a detailed list see List of pumped-storage hydroelectric power stations ) :",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kruonis_Pumped_Storage_Plant.Lithuania.jpg/220px-Kruonis_Pumped_Storage_Plant.Lithuania.jpg",
+                "caption": "Kruonis Pumped Storage Plant , Lithuania"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity",
+        "title": "Pumped-storage hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    },
+    {
+        "section": "Alternatives or complement",
+        "text": "Using a pumped-storage system of cisterns for energy storage and small generators, pico hydro generation may also be effective for \"closed loop\" home energy generation systems. [10] [11] A storage heater or heat bank (Australia) is an electrical heater which stores thermal energy during the evening, or at night when electricity is available at lower cost, and releases the heat during the day as required. Accumulators , like a Hot water storage tank , are another type of storage heater but specifically store hot water for later use. Some systems maybe be portable [12] or partially portable [13] for easier transportation to another location, use during transportation or travel.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cratzenbach%2C_Modell_Pumpspeicherkraftwerk.jpg/220px-Cratzenbach%2C_Modell_Pumpspeicherkraftwerk.jpg",
+                "caption": "Pico hydro"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Home_energy_storage",
+        "title": "Home energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Grid-scale energy storage solutions"
+    }
+]

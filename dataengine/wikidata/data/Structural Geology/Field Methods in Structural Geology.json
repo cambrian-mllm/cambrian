@@ -1,0 +1,659 @@
+[
+    {
+        "section": "Geological material",
+        "text": "The majority of geological data comes from research on solid Earth materials. Meteorites and other extraterrestrial natural materials are also studied by geological methods.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Or_Venezuela.jpg/220px-Or_Venezuela.jpg",
+                "caption": "Native gold from Venezuela"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Quartz%2C_Tibet.jpg/220px-Quartz%2C_Tibet.jpg",
+                "caption": "Quartz from Tibet . Quartz makes up more than 10% of the Earth's crust by mass."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology",
+        "title": "Geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Rock",
+        "text": "A rock is any naturally occurring solid mass or aggregate of minerals or mineraloids . Most research in geology is associated with the study of rocks, as they provide the primary record of the majority of the geological history of the Earth. There are three major types of rock: igneous , sedimentary , and metamorphic . The rock cycle illustrates the relationships among them (see diagram). When a rock solidifies or crystallizes from melt ( magma or lava ), it is an igneous rock . This rock can be weathered and eroded , then redeposited and lithified into a sedimentary rock. Sedimentary rocks are mainly divided into four categories: sandstone, shale, carbonate, and evaporite. This group of classifications focuses partly on the size of sedimentary particles (sandstone and shale), and partly on mineralogy and formation processes (carbonation and evaporation). [6] Igneous and sedimentary rocks can then be turned into metamorphic rocks by heat and pressure that change its mineral content, resulting in a characteristic fabric . All three types may melt again, and when this happens, new magma is formed, from which an igneous rock may once again solidify.\nOrganic matter, such as coal, bitumen, oil, and natural gas, is linked mainly to organic-rich sedimentary rocks. To study all three types of rock, geologists evaluate the minerals of which they are composed and their other physical properties, such as texture and fabric .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cycle_of_rocks_2.png/220px-Cycle_of_rocks_2.png",
+                "caption": "The rock cycle shows the relationship between igneous , sedimentary , and metamorphic rocks ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology",
+        "title": "Geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Plate tectonics",
+        "text": "In the 1960s, it was discovered that the Earth's lithosphere , which includes the crust and rigid uppermost portion of the upper mantle , is separated into tectonic plates that move across the plastically deforming, solid, upper mantle, which is called the asthenosphere . This theory is supported by several types of observations, including seafloor spreading [9] [10] and the global distribution of mountain terrain and seismicity. There is an intimate coupling between the movement of the plates on the surface and the convection of the mantle (that is, the heat transfer caused by the slow movement of ductile mantle rock). Thus, oceanic parts of plates and the adjoining mantle convection currents always move in the same direction – because the oceanic lithosphere is actually the rigid upper thermal boundary layer of the convecting mantle. This coupling between rigid plates moving on the surface of the Earth and the convecting mantle is called plate tectonics . The development of plate tectonics has provided a physical basis for many observations of the solid Earth . Long linear regions of geological features are explained as plate boundaries: [11] Plate tectonics has provided a mechanism for Alfred Wegener 's theory of continental drift , [12] in which the continents move across the surface of the Earth over geological time. They also provided a driving force for crustal deformation, and a new setting for the observations of structural geology. The power of the theory of plate tectonics lies in its ability to combine all of these observations into a single theory of how the lithosphere moves over the convecting mantle.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plates_tect2_en.svg/300px-Plates_tect2_en.svg.png",
+                "caption": "The major tectonic plates of the Earth [8]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Active_Margin.svg/220px-Active_Margin.svg.png",
+                "caption": "Oceanic-continental convergence resulting in subduction and volcanic arcs illustrates one effect of plate tectonics ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology",
+        "title": "Geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Earth structure",
+        "text": "Advances in seismology , computer modeling , and mineralogy and crystallography at high temperatures and pressures give insights into the internal composition and structure of the Earth. Seismologists can use the arrival times of seismic waves to image the interior of the Earth. Early advances in this field showed the existence of a liquid outer core (where shear waves were not able to propagate) and a dense solid inner core . These advances led to the development of a layered model of the Earth, with a lithosphere (including crust) on top, the mantle below (separated within itself by seismic discontinuities at 410 and 660 kilometers), and the outer core and inner core below that. More recently, seismologists have been able to create detailed images of wave speeds inside the earth in the same way a doctor images a body in a CT scan . These images have led to a much more detailed view of the interior of the Earth, and have replaced the simplified layered model with a much more dynamic model. Mineralogists have been able to use the pressure and temperature data from the seismic and modeling studies alongside knowledge of the elemental composition of the Earth to reproduce these conditions in experimental settings and measure changes within the crystal structure. These studies explain the chemical changes associated with the major seismic discontinuities in the mantle and show the crystallographic structures expected in the inner core of the Earth.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Jordens_inre-numbers.svg/220px-Jordens_inre-numbers.svg.png",
+                "caption": "The Earth 's layered structure. (1) inner core; (2) outer core; (3) lower mantle; (4) upper mantle; (5) lithosphere; (6) crust (uppermost part of the lithosphere)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Earthquake_wave_paths.svg/300px-Earthquake_wave_paths.svg.png",
+                "caption": "Earth layered structure. Typical wave paths from earthquakes like these gave early seismologists insights into the layered structure of the Earth."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology",
+        "title": "Geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Relative dating",
+        "text": "Methods for relative dating were developed when geology first emerged as a natural science . Geologists still use the following principles today as a means to provide information about geological history and the timing of geological events. The principle of uniformitarianism states that the geological processes observed in operation that modify the Earth's crust at present have worked in much the same way over geological time. [17] A fundamental principle of geology advanced by the 18th-century Scottish physician and geologist James Hutton is that \"the present is the key to the past.\" In Hutton's words: \"the past history of our globe must be explained by what can be seen to be happening now.\" [18] The principle of intrusive relationships concerns crosscutting intrusions. In geology, when an igneous intrusion cuts across a formation of sedimentary rock , it can be determined that the igneous intrusion is younger than the sedimentary rock. Different types of intrusions include stocks, laccoliths , batholiths , sills and dikes . The principle of cross-cutting relationships pertains to the formation of faults and the age of the sequences through which they cut. Faults are younger than the rocks they cut; accordingly, if a fault is found that penetrates some formations but not those on top of it, then the formations that were cut are older than the fault, and the ones that are not cut must be younger than the fault. Finding the key bed in these situations may help determine whether the fault is a normal fault or a thrust fault . [19] The principle of inclusions and components states that, with sedimentary rocks, if inclusions (or clasts ) are found in a formation, then the inclusions must be older than the formation that contains them. For example, in sedimentary rocks, it is common for gravel from an older formation to be ripped up and included in a newer layer. A similar situation with igneous rocks occurs when xenoliths are found. These foreign bodies are picked up as magma or lava flows, and are incorporated, later to cool in the matrix. As a result, xenoliths are older than the rock that contains them. The principle of original horizontality states that the deposition of sediments occurs as essentially horizontal beds. Observation of modern marine and non-marine sediments in a wide variety of environments supports this generalization (although cross-bedding is inclined, the overall orientation of cross-bedded units is horizontal). [19] The principle of superposition states that a sedimentary rock layer in a tectonically undisturbed sequence is younger than the one beneath it and older than the one above it. Logically a younger layer cannot slip beneath a layer previously deposited. This principle allows sedimentary layers to be viewed as a form of the vertical timeline, a partial or complete record of the time elapsed from deposition of the lowest layer to deposition of the highest bed. [19] The principle of faunal succession is based on the appearance of fossils in sedimentary rocks. As organisms exist during the same period throughout the world, their presence or (sometimes) absence provides a relative age of the formations where they appear. Based on principles that William Smith laid out almost a hundred years before the publication of Charles Darwin 's theory of evolution , the principles of succession developed independently of evolutionary thought. The principle becomes quite complex, however, given the uncertainties of fossilization, localization of fossil types due to lateral changes in habitat ( facies change in sedimentary strata), and that not all fossils formed globally at the same time. [20]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Cross-cutting_relations.svg/300px-Cross-cutting_relations.svg.png",
+                "caption": "Cross-cutting relations can be used to determine the relative ages of rock strata and other geological structures. Explanations: A – folded rock strata cut by a thrust fault ; B – large intrusion (cutting through A); C – erosional angular unconformity (cutting off A & B) on which rock strata were deposited; D – volcanic dyke (cutting through A, B & C); E – even younger rock strata (overlying C & D); F – normal fault (cutting through A, B, C & E)."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/SEUtahStrat.JPG/300px-SEUtahStrat.JPG",
+                "caption": "The Permian through Jurassic stratigraphy of the Colorado Plateau area of southeastern Utah is an example of both original horizontality and the law of superposition. These strata make up much of the famous prominent rock formations in widely spaced protected areas such as Capitol Reef National Park and Canyonlands National Park . From top to bottom: Rounded tan domes of the Navajo Sandstone , layered red Kayenta Formation , cliff-forming, vertically jointed, red Wingate Sandstone , slope-forming, purplish Chinle Formation , layered, lighter-red Moenkopi Formation , and white, layered Cutler Formation sandstone. Picture from Glen Canyon National Recreation Area , Utah."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology",
+        "title": "Geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Absolute dating",
+        "text": "Geologists also use methods to determine the absolute age of rock samples and geological events. These dates are useful on their own and may also be used in conjunction with relative dating methods or to calibrate relative methods. [21] At the beginning of the 20th century, advancement in geological science was facilitated by the ability to obtain accurate absolute dates to geological events using radioactive isotopes and other methods. This changed the understanding of geological time. Previously, geologists could only use fossils and stratigraphic correlation to date sections of rock relative to one another. With isotopic dates, it became possible to assign absolute ages to rock units, and these absolute dates could be applied to fossil sequences in which there was datable material, converting the old relative ages into new absolute ages. For many geological applications, isotope ratios of radioactive elements are measured in minerals that give the amount of time that has passed since a rock passed through its particular closure temperature , the point at which different radiometric isotopes stop diffusing into and out of the crystal lattice . [22] [23] These are used in geochronologic and thermochronologic studies. Common methods include uranium–lead dating , potassium–argon dating , argon–argon dating and uranium–thorium dating . These methods are used for a variety of applications. Dating of lava and volcanic ash layers found within a stratigraphic sequence can provide absolute age data for sedimentary rock units that do not contain radioactive isotopes and calibrate relative dating techniques. These methods can also be used to determine ages of pluton emplacement.\nThermochemical techniques can be used to determine temperature profiles within the crust, the uplift of mountain ranges, and paleo-topography. Fractionation of the lanthanide series elements is used to compute ages since rocks were removed from the mantle. Other methods are used for more recent events. Optically stimulated luminescence and cosmogenic radionuclide dating are used to date surfaces and/or erosion rates. Dendrochronology can also be used for the dating of landscapes. Radiocarbon dating is used for geologically young materials containing organic carbon .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Zircon-tuc1001b.jpg/170px-Zircon-tuc1001b.jpg",
+                "caption": "The mineral zircon is often used in radiometric dating ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology",
+        "title": "Geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Geological development of an area",
+        "text": "The geology of an area changes through time as rock units are deposited and inserted, and deformational processes alter their shapes and locations. Rock units are first emplaced either by deposition onto the surface or intrusion into the overlying rock . Deposition can occur when sediments settle onto the surface of the Earth and later lithify into sedimentary rock, or when as volcanic material such as volcanic ash or lava flows blanket the surface. Igneous intrusions such as batholiths , laccoliths , dikes , and sills , push upwards into the overlying rock, and crystallize as they intrude. After the initial sequence of rocks has been deposited, the rock units can be deformed and/or metamorphosed . Deformation typically occurs as a result of horizontal shortening, horizontal extension , or side-to-side ( strike-slip ) motion. These structural regimes broadly relate to convergent boundaries , divergent boundaries , and transform boundaries, respectively, between tectonic plates. When rock units are placed under horizontal compression , they shorten and become thicker. Because rock units, other than muds, do not significantly change in volume , this is accomplished in two primary ways: through faulting and folding . In the shallow crust, where brittle deformation can occur, thrust faults form, which causes the deeper rock to move on top of the shallower rock. Because deeper rock is often older, as noted by the principle of superposition , this can result in older rocks moving on top of younger ones. Movement along faults can result in folding, either because the faults are not planar or because rock layers are dragged along, forming drag folds as slip occurs along the fault. Deeper in the Earth, rocks behave plastically and fold instead of faulting. These folds can either be those where the material in the center of the fold buckles upwards, creating \" antiforms \", or where it buckles downwards, creating \" synforms \". If the tops of the rock units within the folds remain pointing upwards, they are called anticlines and synclines , respectively. If some of the units in the fold are facing downward, the structure is called an overturned anticline or syncline, and if all of the rock units are overturned or the correct up-direction is unknown, they are simply called by the most general terms, antiforms, and synforms. Even higher pressures and temperatures during horizontal shortening can cause both folding and metamorphism of the rocks. This metamorphism causes changes in the mineral composition of the rocks; creates a foliation , or planar surface, that is related to mineral growth under stress. This can remove signs of the original textures of the rocks, such as bedding in sedimentary rocks, flow features of lavas , and crystal patterns in crystalline rocks . Extension causes the rock units as a whole to become longer and thinner. This is primarily accomplished through normal faulting and through the ductile stretching and thinning. Normal faults drop rock units that are higher below those that are lower. This typically results in younger units ending up below older units. Stretching of units can result in their thinning. In fact, at one location within the Maria Fold and Thrust Belt , the entire sedimentary sequence of the Grand Canyon appears over a length of less than a meter. Rocks at the depth to be ductilely stretched are often also metamorphosed. These stretched rocks can also pinch into lenses, known as boudins , after the French word for \"sausage\" because of their visual similarity. Where rock units slide past one another, strike-slip faults develop in shallow regions, and become shear zones at deeper depths where the rocks deform ductilely. The addition of new rock units, both depositionally and intrusively, often occurs during deformation. Faulting and other deformational processes result in the creation of topographic gradients, causing material on the rock unit that is increasing in elevation to be eroded by hillslopes and channels. These sediments are deposited on the rock unit that is going down. Continual motion along the fault maintains the topographic gradient in spite of the movement of sediment and continues to create accommodation space for the material to deposit. Deformational events are often also associated with volcanism and igneous activity. Volcanic ashes and lavas accumulate on the surface, and igneous intrusions enter from below. Dikes , long, planar igneous intrusions, enter along cracks, and therefore often form in large numbers in areas that are being actively deformed. This can result in the emplacement of dike swarms , such as those that are observable across the Canadian shield, or rings of dikes around the lava tube of a volcano. All of these processes do not necessarily occur in a single environment and do not necessarily occur in a single order. The Hawaiian Islands , for example, consist almost entirely of layered basaltic lava flows. The sedimentary sequences of the mid-continental United States and the Grand Canyon in the southwestern United States contain almost-undeformed stacks of sedimentary rocks that have remained in place since Cambrian time. Other areas are much more geologically complex. In the southwestern United States, sedimentary, volcanic, and intrusive rocks have been metamorphosed, faulted, foliated, and folded. Even older rocks, such as the Acasta gneiss of the Slave craton in northwestern Canada , the oldest known rock in the world have been metamorphosed to the point where their origin is indiscernible without laboratory analysis. In addition, these processes can occur in stages. In many places, the Grand Canyon in the southwestern United States being a very visible example, the lower rock units were metamorphosed and deformed, and then deformation ended and the upper, undeformed units were deposited. Although any amount of rock emplacement and rock deformation can occur, and they can occur any number of times, these concepts provide a guide to understanding the geological history of an area.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Volcanosed.svg/300px-Volcanosed.svg.png",
+                "caption": "An originally horizontal sequence of sedimentary rocks (in shades of tan) are affected by igneous activity. Deep below the surface is a magma chamber and large associated igneous bodies. The magma chamber feeds the volcano , and sends offshoots of magma that will later crystallize into dikes and sills. Magma also advances upwards to form intrusive igneous bodies . The diagram illustrates both a cinder cone volcano, which releases ash, and a composite volcano , which releases both lava and ash."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Fault_types.svg/200px-Fault_types.svg.png",
+                "caption": "An illustration of the three types of faults. A. Strike-slip faults occur when rock units slide past one another. B. Normal faults occur when rocks are undergoing horizontal extension. C. Reverse (or thrust) faults occur when rocks are undergoing horizontal shortening."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/San_Andreas.jpg/170px-San_Andreas.jpg",
+                "caption": "The San Andreas Fault in California"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Antecline_%28PSF%29.png/220px-Antecline_%28PSF%29.png",
+                "caption": "A diagram of folds, indicating an anticline and a syncline"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kittatinny_Mountain_Cross_Section.jpg/290px-Kittatinny_Mountain_Cross_Section.jpg",
+                "caption": "Geological cross section of Kittatinny Mountain . This cross-section shows metamorphic rocks, overlain by younger sediments deposited after the metamorphic event. These rock units were later folded and faulted during the uplift of the mountain."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology",
+        "title": "Geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Investigative methods",
+        "text": "Geologists use a number of fields, laboratory, and numerical modeling methods to decipher Earth history and to understand the processes that occur on and inside the Earth. In typical geological investigations, geologists use primary information related to petrology (the study of rocks), stratigraphy (the study of sedimentary layers), and structural geology (the study of positions of rock units and their deformation). In many cases, geologists also study modern soils, rivers , landscapes , and glaciers ; investigate past and current life and biogeochemical pathways, and use geophysical methods to investigate the subsurface. Sub-specialities of geology may distinguish endogenous and exogenous geology. [24]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Brunton.JPG/220px-Brunton.JPG",
+                "caption": "A standard Brunton Pocket Transit , commonly used by geologists for mapping and surveying"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology",
+        "title": "Geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Field methods",
+        "text": "Geological field work varies depending on the task at hand. Typical fieldwork could consist of:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/USGS_1950s_mapping_field_camp.jpg/220px-USGS_1950s_mapping_field_camp.jpg",
+                "caption": "A typical USGS field mapping camp in the 1950s"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/PDA_Mapping.jpg/220px-PDA_Mapping.jpg",
+                "caption": "Today, handheld computers with GPS and geographic information systems software are often used in geological field work ( digital geological mapping )."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Petrified_forest_log_1_md.jpg/170px-Petrified_forest_log_1_md.jpg",
+                "caption": "A petrified log in Petrified Forest National Park , Arizona , US"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Leica_DMRX.jpg/97px-Leica_DMRX.jpg",
+                "caption": "A petrographic microscope"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology",
+        "title": "Geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Petrology",
+        "text": "In addition to identifying rocks in the field ( lithology ), petrologists identify rock samples in the laboratory. Two of the primary methods for identifying rocks in the laboratory are through optical microscopy and by using an electron microprobe . In an optical mineralogy analysis, petrologists analyze thin sections of rock samples using a petrographic microscope , where the minerals can be identified through their different properties in plane-polarized and cross-polarized light, including their birefringence , pleochroism , twinning , and interference properties with a conoscopic lens . [31] In the electron microprobe, individual locations are analyzed for their exact chemical compositions and variation in composition within individual crystals. [32] Stable [33] and radioactive isotope [34] studies provide insight into the geochemical evolution of rock units. Petrologists can also use fluid inclusion data [35] and perform high temperature and pressure physical experiments [36] to understand the temperatures and pressures at which different mineral phases appear, and how they change through igneous [37] and metamorphic processes. This research can be extrapolated to the field to understand metamorphic processes and the conditions of crystallization of igneous rocks. [38] This work can also help to explain processes that occur within the Earth, such as subduction and magma chamber evolution. [39]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Agiospavlos_DM_2004_IMG003_Felsenformation_nahe.JPG/220px-Agiospavlos_DM_2004_IMG003_Felsenformation_nahe.JPG",
+                "caption": "Folded rock strata"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology",
+        "title": "Geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Structural geology",
+        "text": "Structural geologists use microscopic analysis of oriented thin sections of geological samples to observe the fabric within the rocks, which gives information about strain within the crystalline structure of the rocks. They also plot and combine measurements of geological structures to better understand the orientations of faults and folds to reconstruct the history of rock deformation in the area. In addition, they perform analog and numerical experiments of rock deformation in large and small settings. The analysis of structures is often accomplished by plotting the orientations of various features onto stereonets . A stereonet is a stereographic projection of a sphere onto a plane, in which planes are projected as lines and lines are projected as points. These can be used to find the locations of fold axes, relationships between faults, and relationships between other geological structures. Among the most well-known experiments in structural geology are those involving orogenic wedges , which are zones in which mountains are built along convergent tectonic plate boundaries. [40] In the analog versions of these experiments, horizontal layers of sand are pulled along a lower surface into a back stop, which results in realistic-looking patterns of faulting and the growth of a critically tapered (all angles remain the same) orogenic wedge. [41] Numerical models work in the same way as these analog models, though they are often more sophisticated and can include patterns of erosion and uplift in the mountain belt. [42] This helps to show the relationship between erosion and the shape of a mountain range. These studies can also give useful information about pathways for metamorphism through pressure, temperature, space, and time. [43]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Orogenic_wedge.jpg/400px-Orogenic_wedge.jpg",
+                "caption": "A diagram of an orogenic wedge. The wedge grows through faulting in the interior and along the main basal fault, called the décollement . It builds its shape into a critical taper , in which the angles within the wedge remain the same as failures inside the material balance failures along the décollement. It is analogous to a bulldozer pushing a pile of dirt, where the bulldozer is the overriding plate."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology",
+        "title": "Geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Stratigraphy",
+        "text": "In the laboratory, stratigraphers analyze samples of stratigraphic sections that can be returned from the field, such as those from drill cores . [44] Stratigraphers also analyze data from geophysical surveys that show the locations of stratigraphic units in the subsurface. [45] Geophysical data and well logs can be combined to produce a better view of the subsurface, and stratigraphers often use computer programs to do this in three dimensions. [46] Stratigraphers can then use these data to reconstruct ancient processes occurring on the surface of the Earth, [47] interpret past environments, and locate areas for water, coal, and hydrocarbon extraction. In the laboratory, biostratigraphers analyze rock samples from outcrop and drill cores for the fossils found in them. [44] These fossils help scientists to date the core and to understand the depositional environment in which the rock units formed. Geochronologists precisely date rocks within the stratigraphic section to provide better absolute bounds on the timing and rates of deposition. [48] Magnetic stratigraphers look for signs of magnetic reversals in igneous rock units within the drill cores. [44] Other scientists perform stable-isotope studies on the rocks to gain information about past climate. [44]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Linze%2C_Zhangye%2C_Gansu%2C_China_-_panoramio_%284%29.jpg/220px-Linze%2C_Zhangye%2C_Gansu%2C_China_-_panoramio_%284%29.jpg",
+                "caption": "Different colors caused by the different minerals in tilted layers of sedimentary rock in Zhangye National Geopark , China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology",
+        "title": "Geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Planetary geology",
+        "text": "With the advent of space exploration in the twentieth century, geologists have begun to look at other planetary bodies in the same ways that have been developed to study the Earth . This new field of study is called planetary geology (sometimes known as astrogeology) and relies on known geological principles to study other bodies of the solar system. This is a major aspect of planetary science , and largely focuses on the terrestrial planets , icy moons , asteroids , comets , and meteorites . However, some planetary geophysicists study the giant planets and exoplanets . [49] Although the Greek-language-origin prefix geo refers to Earth, \"geology\" is often used in conjunction with the names of other planetary bodies when describing their composition and internal processes: examples are \"the geology of Mars \" and \" Lunar geology \". Specialized terms such as selenology (studies of the Moon), areology (of Mars), etc., are also in use. Although planetary geologists are interested in studying all aspects of other planets, a significant focus is to search for evidence of past or present life on other worlds. This has led to many missions whose primary or ancillary purpose is to examine planetary bodies for evidence of life. One of these is the Phoenix lander , which analyzed Martian polar soil for water, chemical, and mineralogical constituents related to biological processes.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mars_Viking_21i093.png/220px-Mars_Viking_21i093.png",
+                "caption": "Surface of Mars as photographed by the Viking 2 lander December 9, 1977"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology",
+        "title": "Geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Petroleum geology",
+        "text": "Petroleum geologists study the locations of the subsurface of the Earth that can contain extractable hydrocarbons, especially petroleum and natural gas . Because many of these reservoirs are found in sedimentary basins , [50] they study the formation of these basins, as well as their sedimentary and tectonic evolution and the present-day positions of the rock units.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mudlogging.JPG/220px-Mudlogging.JPG",
+                "caption": "Mud log in process, a common way to study the lithology when drilling oil wells"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology",
+        "title": "Geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Engineering geology",
+        "text": "Engineering geology is the application of geological principles to engineering practice for the purpose of assuring that the geological factors affecting the location, design, construction, operation, and maintenance of engineering works are properly addressed. Engineering geology is distinct from geological engineering , particularly in North America. In the field of civil engineering , geological principles and analyses are used in order to ascertain the mechanical principles of the material on which structures are built. This allows tunnels to be built without collapsing, bridges and skyscrapers to be built with sturdy foundations, and buildings to be built that will not settle in clay and mud. [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/New_water_well_opens_in_Shant_Abak_DVIDS92609.jpg/170px-New_water_well_opens_in_Shant_Abak_DVIDS92609.jpg",
+                "caption": "A child drinks water from a well built as part of a hydrogeological humanitarian project in Kenya ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology",
+        "title": "Geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Natural hazards",
+        "text": "Geologists and geophysicists study natural hazards in order to enact safe building codes and warning systems that are used to prevent loss of property and life. [58] Examples of important natural hazards that are pertinent to geology (as opposed those that are mainly or only pertinent to meteorology) are:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/GCRockfall.JPG/220px-GCRockfall.JPG",
+                "caption": "Rockfall in the Grand Canyon"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geology",
+        "title": "Geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Geometries",
+        "text": "Primary data sets for structural geology are collected in the field. Structural geologists measure a variety of planar features ( bedding planes , foliation planes , fold axial planes, fault planes , and joints), and linear features (stretching lineations, in which minerals are ductilely extended; fold axes; and intersection lineations, the trace of a planar feature on another planar surface).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/StrikeDipPlungeRake.png/290px-StrikeDipPlungeRake.png",
+                "caption": "Illustration of measurement conventions for planar and linear structures"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Structural_geology",
+        "title": "Structural geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Stereographic projections",
+        "text": "Stereographic projection is a method for analyzing the nature and orientation of deformation stresses, lithological units and penetrative fabrics wherein linear and planar features (structural strike and dip readings, typically taken using a compass clinometer ) passing through an imagined sphere are plotted on a two-dimensional grid projection, facilitating more holistic analysis of a set of measurements. Stereonet [4] developed by Richard W. Allmendinger is widely used in the structural geology community.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Stero_projection_structural_geology.png/350px-Stero_projection_structural_geology.png",
+                "caption": "Diagram showing the use of lower hemisphere stereographic projection in structural geology using an example of a fault plane and a slickenside lineation observed within the fault plane."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Structural_geology",
+        "title": "Structural geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Deformation algorithms",
+        "text": "In order to calculate the change in shape of an element within the section, various deformation algorithms are used. Initially many of these were applied manually, but are now available in specialist software packages.  It is worth mentioning that these deformation algorithms are approximations and idealizations of actual strain paths and deviate from reality (Ramsey and Huber, 1987).  Geologic media are typically not continuum materials; that is, they are not isotropic media as is implicitly assumed in all strain algorithms used for cross-section balancing.  That said, balanced cross sections maintain material balance, which is important for conceptualizing kinematic histories of deformed regions.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/SimpleshearRestoration.png/300px-SimpleshearRestoration.png",
+                "caption": ""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Section_restoration",
+        "title": "Section restoration",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Forward modelling",
+        "text": "Section restoration involves undeforming a natural example, a form of inverse modelling. [10] In many cases carrying out forward modelling helps to test out concepts for all or part of the section.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Extensional_fault_bend_fold_forward_model.png/200px-Extensional_fault_bend_fold_forward_model.png",
+                "caption": "forward model of extensional fault bend folding"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Thrusting_fault_bend_fold_forward_model.png/200px-Thrusting_fault_bend_fold_forward_model.png",
+                "caption": "forward model of thrust fault bend folding"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Section_restoration",
+        "title": "Section restoration",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Conjugate fault system",
+        "text": "Anderson [6] [7] was the first to utilize conjugate fault systems in interpreting paleostress, including all kinds of conjugate faults (normal, reverse and strike-slip). Regional conjugate fault can be better understood by comparison to a familiar rock mechanics experiment, i.e. the Uniaxial Compressive Strength (UCS) Test. Basics of their mechanisms are similar except the principal stress orientation applied is rotated from perpendicular to parallel to the ground. The conjugate fault model is a simple way to obtain approximate orientations of stress axes, due to the abundance of such structure in the upper brittle crust.  Therefore, a number of studies have been carried out by other researchers in assorted structural settings and by correlating with other deformation structures. [8] Nonetheless, further development revealed the deficiency of the model: The geometrical properties of conjugate faults are indicative of the sense of stress, but they may not appear in the actual fault patterns. There are often oblique pre-existing faults, planes of weaknesses or striations to the fault slip, which do not belong to the conjugate fault sets. Neglecting this considerable amount of data would cause error in analysis. This ratio provides the relative magnitude of the intermediate stress (σ 2 ) and thus determines the shape of the stress ellipsoid. However, this model does not give an account on the ratio, save for some specific cases.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Conjugate_faults.png/330px-Conjugate_faults.png",
+                "caption": "Conjugate faults in different orientations"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Paleostress_inversion",
+        "title": "Paleostress inversion",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Data analysis",
+        "text": "Reconstruction of paleostress requires large amount of data to attain accuracy, so it is essential to organize the data in comprehensible format prior to any analysis. Attitude of fault planes and slickensides is plotted on rose diagrams, such that the geometry is visible. This is particularly useful when the sample size is enormous, it provides the full picture of the region of interest. Fault movement is resolved into three components (as in 3D), which are vertical transverse, horizontal transverse and lateral components, by trigonometric relation with the measured dips and trends. Net slip is  shown more clearly which paves the way to understanding the deformation. Fault planes are represented by lines in stereonets (equal area lower hemisphere projection), while rakes on them are indicated by dots sitting on the lines. It helps to visualize the geometrical distribution and possible symmetry among individual faults. This is a concluding step of compiling all the data and check their mechanical compatibility, also could be seen a preliminary step in determining major paleostress orientations. As this is a simple graphical representation of the fault geometry (being the boundaries of dihedra) and sense of slip (shortening direction indicated by black and extension depicted by grey), while it is able to provide good constraints on the orientation of principal stress axes. The approximation is built upon the assumption that the orientation of maximum principal stress (σ 1 ) most probably passes through the greatest number of P-quadrants. Since fault plane and auxiliary plane perpendicular to striations are considered the same in this method, the model can be directly applied to focal mechanisms of earthquakes. Nonetheless, due to the same reason, this method cannot provide accurate determination of paleostress, as well as the stress ratio.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rose_diagram.PNG/220px-Rose_diagram.PNG",
+                "caption": "1) Fault population geometry shown in a rose diagram"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fault_motion.png/220px-Fault_motion.png",
+                "caption": "2) Fault movement: components of normal, reverse, sinistral (left-lateral) and dextral (right-lateral) are resolved. Concentration of dots gives a glance at the distribution of stress direction."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Stereonet.png/220px-Stereonet.png",
+                "caption": "3) Individual fault geometry represented on a stereonet"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/P_and_T_dihedra.png/310px-P_and_T_dihedra.png",
+                "caption": "4) Principle of P and T dihedra: incompatibility zones (white) are found by overlapping P (black) and T (grey) regions derived from fault sets"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Paleostress_inversion",
+        "title": "Paleostress inversion",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Reduced stress tensor",
+        "text": "Stress tensor can be considered as a matrix with nine components being the nine stress vectors acting on a point, in which the three vectors along the diagonal (highlighted in brown) represent the principal axes. σ i j = ( σ 11 σ 12 σ 13 σ 21 σ 22 σ 23 σ 31 σ 32 σ 33 ) {\\displaystyle \\sigma _{ij}=\\left({\\begin{matrix}\\color {Brown}{\\sigma _{11}}&\\sigma _{12}&\\sigma _{13}\\\\\\sigma _{21}&\\color {Brown}{\\sigma _{22}}&\\sigma _{23}\\\\\\sigma _{31}&\\sigma _{32}&\\color {Brown}{\\sigma _{33}}\\end{matrix}}\\right)} The reduced stress tensor is a mathematical computation approach to determining the three principal axes and the stress ratio, totally four independent unknowns, calculated as eigenvectors and eigenvalue respectively, so that this method is more complete and accurate than the mentioned graphical approaches. There are a number formulations that can reach the same final results but with distinctive features: (1) T ϕ = ( x 1 x 2 x 3 y 1 y 2 y 3 z 1 z 2 z 3 ) ( 1 0 0 0 Φ 0 0 0 0 ) ( x 1 y 1 z 1 x 2 y 2 z 2 x 3 y 3 z 3 ) {\\displaystyle T_{\\phi }=\\left({\\begin{matrix}x_{1}&x_{2}&x_{3}\\\\y_{1}&y_{2}&y_{3}\\\\z_{1}&z_{2}&z_{3}\\end{matrix}}\\right)\\left({\\begin{matrix}\\color {RubineRed}{1}&0&0\\\\0&\\color {RubineRed}{\\Phi }&0\\\\0&0&\\color {RubineRed}{0}\\end{matrix}}\\right)\\left({\\begin{matrix}x_{1}&y_{1}&z_{1}\\\\x_{2}&y_{2}&z_{2}\\\\x_{3}&y_{3}&z_{3}\\end{matrix}}\\right)} , where stress ratio: Φ = σ 2 − σ 3 σ 1 − σ 3 {\\displaystyle {\\text{stress ratio: }}\\Phi ={\\frac {\\sigma _{2}-\\sigma _{3}}{\\sigma _{1}-\\sigma _{3}}}} , such that 0 ≤ ϕ ≤ 1 {\\displaystyle 0\\leq \\phi \\leq 1} . [10] This tensor is defined by setting σ 1 , σ 2 and σ 3 as 1, Φ and 0 (highlighted in pink) respectively, due to choosing m = ( σ 1 − σ 3 ) − 1 {\\displaystyle m=(\\sigma _{1}-\\sigma _{3})^{-1}} and n = − m σ 3 {\\displaystyle n=-m\\sigma _{3}} as the mode of reduction. The advantage of this formulation is the direct correspondence to stress orientation, thus the stress ellipsoid, and the stress ratio. (2) T ψ = ( c o s ψ α γ α c o s ( ψ + 2 π 3 ) β γ β c o s ( ψ + 4 π 3 ) ) {\\displaystyle T_{\\psi }=\\left({\\begin{matrix}cos\\psi &\\alpha &\\gamma \\\\\\alpha &cos(\\psi +{\\frac {2\\pi }{3}})&\\beta \\\\\\gamma &\\beta &cos(\\psi +{\\frac {4\\pi }{3}})\\end{matrix}}\\right)} This formulation is a deviator, which requires more computation to obtain information of the stress ellipsoid despite maintaining a symmetry in mathematical context. [11]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Stress_vectors.png/220px-Stress_vectors.png",
+                "caption": "Nine stress vectors acting on a cube (point), in which σ 11 ,σ 22 and σ 33 are the principal axes"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Paleostress_inversion",
+        "title": "Paleostress inversion",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Grain boundary bulging (BLG)",
+        "text": "Grain boundary bulging is the process involving the growth of nuclei at the expense of existing grains and then formation of a 'necklace' structure.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/BLG.gif/199px-BLG.gif",
+                "caption": "Grain boundary bulging (BLG) dragged by impurities and driven by locally concentrated dislocations"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BLG_sub.gif/197px-BLG_sub.gif",
+                "caption": "Grain boundary bulging (BLG) dragged and driven by sub-boundaries"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Paleostress_inversion",
+        "title": "Paleostress inversion",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Geology",
+        "text": "Geology is broadly the study of Earth's structure, substance, and processes. Geology is largely the study of the lithosphere , or Earth's surface, including the crust and rocks . It includes the physical characteristics and processes that occur in the lithosphere as well as how they are affected by geothermal energy . It incorporates aspects of chemistry, physics, and biology as elements of geology interact. Historical geology is the application of geology to interpret Earth history and how it has changed over time. Geochemistry studies the chemical components and processes of the Earth. Geophysics studies the physical properties of the Earth. Paleontology studies fossilized biological material in the lithosphere. Planetary geology studies geoscience as it pertains to extraterrestrial bodies. Geomorphology studies the origin of landscapes. Structural geology studies the deformation of rocks to produce mountains and lowlands. Resource geology studies how energy resources can be obtained from minerals. Environmental geology studies how pollution and contaminants affect soil and rock. [2] Mineralogy is the study of minerals and includes the study of mineral formation, crystal structure , hazards associated with minerals, and the physical and chemical properties of minerals. [3] Petrology is the study of rocks, including the formation and composition of rocks. Petrography is a branch of petrology that studies the typology and classification of rocks. [4]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Layers_of_sedimentary_rock_in_Makhtesh_Ramon_%2850754%29.jpg/220px-Layers_of_sedimentary_rock_in_Makhtesh_Ramon_%2850754%29.jpg",
+                "caption": "Layers of sedimentary rock in Makhtesh Ramon"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Earth_science",
+        "title": "Earth science",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Earth's interior",
+        "text": "Plate tectonics , mountain ranges , volcanoes , and earthquakes are geological phenomena that can be explained in terms of physical and chemical processes in the Earth's crust. [6] Beneath the Earth's crust lies the mantle which is heated by the radioactive decay of heavy elements . The mantle is not quite solid and consists of magma which is in a state of semi-perpetual convection . This convection process causes the lithospheric plates to move, albeit slowly. The resulting process is known as plate tectonics. [7] [8] [9] [10] Areas of the crust where new crust is created are called divergent boundaries , those where it is brought back into the Earth are convergent boundaries and those where plates slide past each other, but no new lithospheric material is created or destroyed, are referred to as transform (or conservative) boundaries. [8] [10] [11] Earthquakes result from the movement of the lithospheric plates, and they often occur near convergent boundaries where parts of the crust are forced into the earth as part of subduction. [12] Plate tectonics might be thought of as the process by which the Earth is resurfaced. As the result of seafloor spreading , new crust and lithosphere is created by the flow of magma from the mantle to the near surface, through fissures, where it cools and solidifies. Through subduction , oceanic crust and lithosphere vehemently returns to the convecting mantle. [8] [10] [13] Volcanoes result primarily from the melting of subducted crust material. Crust material that is forced into the asthenosphere melts, and some portion of the melted material becomes light enough to rise to the surface—giving birth to volcanoes. [8] [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Volcano_q.jpg/220px-Volcano_q.jpg",
+                "caption": "A volcanic eruption is the release of stored energy from below Earth's surface. [5]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Earth_science",
+        "title": "Earth science",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Atmospheric science",
+        "text": "Atmospheric science initially developed in the late-19th century as a means to forecast the weather through meteorology , the study of weather. Atmospheric chemistry was developed in the 20th century to measure air pollution and expanded in the 1970s in response to acid rain . Climatology studies the climate and climate change . [14] The troposphere , stratosphere , mesosphere , thermosphere , and exosphere are the five layers which make up Earth's atmosphere. 75% of the mass in the atmosphere is located within the troposphere, the lowest layer. In all, the atmosphere is made up of about 78.0% nitrogen , 20.9% oxygen , and 0.92% argon , and small amounts of other gases including CO 2 and water vapor. [15] Water vapor and CO 2 cause the Earth's atmosphere to catch and hold the Sun's energy through the greenhouse effect . [16] This makes Earth's surface warm enough for liquid water and life. In addition to trapping heat, the atmosphere also protects living organisms by shielding the Earth's surface from cosmic rays . [17] The magnetic field —created by the internal motions of the core—produces the magnetosphere which protects Earth's atmosphere from the solar wind . [18] As the Earth is 4.5 billion years old, [19] [20] it would have lost its atmosphere by now if there were no protective magnetosphere.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Magnetosphere_rendition.jpg/220px-Magnetosphere_rendition.jpg",
+                "caption": "The magnetosphere shields the surface of Earth from the charged particles of the solar wind . ( image not to scale. )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Earth_science",
+        "title": "Earth science",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Hydrology",
+        "text": "Hydrology is the study of the hydrosphere and the movement of water on Earth . It emphasizes the study of how humans use and interact with freshwater supplies. Study of water's movement is closely related to geomorphology and other branches of Earth science. Applied hydrology involves engineering to maintain aquatic environments and distribute water supplies. Subdisciplines of hydrology include oceanography , hydrogeology , ecohydrology , and glaciology . Oceanography is the study of oceans. [24] Hydrogeology is the study of groundwater . It includes the mapping of groundwater supplies and the analysis of groundwater contaminants. Applied hydrogeology seeks to prevent contamination of groundwater and mineral springs and make it available as drinking water . The earliest exploitation of groundwater resources dates back to 3000 BC, and hydrogeology as a science was developed by hydrologists beginning in the 17th century. [25] Ecohydrology is the study of ecological systems in the hydrosphere . It can be divided into the physical study of aquatic ecosystems and the biological study of aquatic organisms. Ecohydrology includes the effects that organisms and aquatic ecosystems have on one another as well as how these ecoystems are affected by humans. [26] Glaciology is the study of the cryosphere, including glaciers and coverage of the Earth by ice and snow. Concerns of glaciology include access to glacial freshwater, mitigation of glacial hazards, obtaining resources that exist beneath frozen land, and addressing the effects of climate change on the cryosphere. [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Watercyclesummary.jpg/220px-Watercyclesummary.jpg",
+                "caption": "Movement of water through the water cycle"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Earth_science",
+        "title": "Earth science",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Characteristics",
+        "text": "At any location, the Earth's magnetic field can be represented by a three-dimensional vector. A typical procedure for measuring its direction is to use a compass to determine the direction of magnetic North. Its angle relative to true North is the declination ( D ) or variation . Facing magnetic North, the angle the field makes with the horizontal is the inclination ( I ) or magnetic dip . The intensity ( F ) of the field is proportional to the force it exerts on a magnet. Another common representation is in X (North), Y (East) and Z (Down) coordinates. [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/XYZ-DIS_magnetic_field_coordinates.svg/500px-XYZ-DIS_magnetic_field_coordinates.svg.png",
+                "caption": "Common coordinate systems used for representing the Earth's magnetic field"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Earth%27s_magnetic_field",
+        "title": "Earth's magnetic field",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Dipolar approximation",
+        "text": "Near the surface of the Earth, its magnetic field can be closely approximated by the field of a magnetic dipole positioned at the center of the Earth and tilted at an angle of about 11° with respect to the rotational axis of the Earth. [18] The dipole is roughly equivalent to a powerful bar magnet , with its south pole pointing towards the geomagnetic North Pole. [19] This may seem surprising, but the north pole of a magnet is so defined because, if allowed to rotate freely, it points roughly northward (in the geographic sense). Since the north pole of a magnet attracts the south poles of other magnets and repels the north poles, it must be attracted to the south pole of Earth's magnet. The dipolar field accounts for 80–90% of the field in most locations. [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Geographical_and_Magnetic_Poles.png/220px-Geographical_and_Magnetic_Poles.png",
+                "caption": "Relationship between Earth's poles. A1 and A2 are the geographic poles; B1 and B2 are the geomagnetic poles; C1 (south) and C2 (north) are the magnetic poles."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Earth%27s_magnetic_field",
+        "title": "Earth's magnetic field",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Magnetic poles",
+        "text": "Historically, the north and south poles of a magnet were first defined by the Earth's magnetic field, not vice versa, since one of the first uses for a magnet was as a compass needle. A magnet's  North pole is defined as the pole that is attracted by the Earth's North Magnetic Pole when the magnet is suspended so it can turn freely. Since opposite poles attract, the North Magnetic Pole of the Earth is really the south pole of its magnetic field (the place where the field is directed downward into the Earth). [20] [21] [22] [23] The positions of the magnetic poles can be defined in at least two ways: locally or globally. [24] The local definition is the point where the magnetic field is vertical. [25] This can be determined by measuring the inclination. The inclination of the Earth's field is 90° (downwards) at the North Magnetic Pole and –90° (upwards) at the South Magnetic Pole. The two poles wander independently of each other and are not directly opposite each other on the globe.  Movements of up to 40 kilometres (25 mi) per year have been observed for the North Magnetic Pole. Over the last 180 years, the North Magnetic Pole has been migrating northwestward, from Cape Adelaide in the Boothia Peninsula in 1831 to 600 kilometres (370 mi) from Resolute Bay in 2001. [26] The magnetic equator is the line where the inclination is zero (the magnetic field is horizontal). The global definition of the Earth's field is based on a mathematical model. If a line is drawn through the center of the Earth, parallel to the moment of the best-fitting magnetic dipole, the two positions where it intersects the Earth's surface are called the North and South geomagnetic poles. If the Earth's magnetic field were perfectly dipolar, the geomagnetic poles and magnetic dip poles would coincide and compasses would point towards them. However, the Earth's field has a significant non-dipolar contribution, so the poles do not coincide and compasses do not generally point at either.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Magnetic_North_Pole_Positions_2015.svg/240px-Magnetic_North_Pole_Positions_2015.svg.png",
+                "caption": "The movement of Earth's North Magnetic Pole across the Canadian arctic"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Earth%27s_magnetic_field",
+        "title": "Earth's magnetic field",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Magnetosphere",
+        "text": "Earth's magnetic field, predominantly dipolar at its surface, is distorted further out by the solar wind. This is a stream of charged particles leaving the Sun's corona and accelerating to a speed of 200 to 1000 kilometres per second. They carry with them a magnetic field, the interplanetary magnetic field (IMF). [27] The solar wind exerts a pressure, and if it could reach Earth's atmosphere it would erode it. However, it is kept away by the pressure of the Earth's magnetic field. The magnetopause , the area where the pressures balance, is the boundary of the magnetosphere. Despite its name, the magnetosphere is asymmetric, with the sunward side being about 10 Earth radii out but the other side stretching out in a magnetotail that extends beyond 200 Earth radii. [28] Sunward of the magnetopause is the bow shock , the area where the solar wind slows abruptly. [27] Inside the magnetosphere is the plasmasphere , a donut-shaped region containing low-energy charged particles, or plasma . This region begins at a height of 60 km, extends up to 3 or 4 Earth radii, and includes the ionosphere. This region rotates with the Earth. [28] There are also two concentric tire-shaped regions, called the Van Allen radiation belts , with high-energy ions (energies from 0.1 to 10 MeV ). The inner belt is 1–2 Earth radii out while the outer belt is at 4–7 Earth radii. The plasmasphere and Van Allen belts have partial overlap, with the extent of overlap varying greatly with solar activity. [29] As well as deflecting the solar wind, the Earth's magnetic field deflects cosmic rays , high-energy charged particles that are mostly from outside the Solar System . Many cosmic rays are kept out of the Solar System by the Sun's magnetosphere, or heliosphere . [30] By contrast, astronauts on the Moon risk exposure to radiation. Anyone who had been on the Moon's surface during a particularly violent solar eruption in 2005 would have received a lethal dose. [27] Some of the charged particles do get into the magnetosphere. These spiral around field lines, bouncing back and forth between the poles several times per second. In addition, positive ions slowly drift westward and negative ions drift eastward, giving rise to a ring current . This current reduces the magnetic field at the Earth's surface. [27] Particles that penetrate the ionosphere and collide with the atoms there give rise to the lights of the aurorae while also emitting X-rays . [28] The varying conditions in the magnetosphere, known as space weather , are largely driven by solar activity. If the solar wind is weak, the magnetosphere expands; while if it is strong, it compresses the magnetosphere and more of it gets in. Periods of particularly intense activity, called geomagnetic storms , can occur when a coronal mass ejection erupts above the Sun and sends a shock wave through the Solar System. Such a wave can take just two days to reach the Earth. Geomagnetic storms can cause a lot of disruption; the \"Halloween\" storm of 2003 damaged more than a third of NASA's satellites. The largest documented storm, the Carrington Event , occurred in 1859. It induced currents strong enough to disrupt telegraph lines, and aurorae were reported as far south as Hawaii. [27] [31]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Magnetosphere_Levels.svg/220px-Magnetosphere_Levels.svg.png",
+                "caption": "An artist's rendering of the structure of a magnetosphere. 1) Bow shock. 2) Magnetosheath. 3) Magnetopause. 4) Magnetosphere. 5) Northern tail lobe. 6) Southern tail lobe. 7) Plasmasphere."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Earth%27s_magnetic_field",
+        "title": "Earth's magnetic field",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Short-term variations",
+        "text": "The geomagnetic field changes on time scales from milliseconds to millions of years. Shorter time scales mostly arise from currents in the ionosphere ( ionospheric dynamo region ) and magnetosphere, and some changes can be traced to geomagnetic storms or daily variations in currents. Changes over time scales of a year or more mostly reflect changes in the Earth's interior , particularly the iron-rich core . [13] Frequently, the Earth's magnetosphere is hit by solar flares causing geomagnetic storms, provoking displays of aurorae. The short-term instability of the magnetic field is measured with the K-index . [32] Data from THEMIS show that the magnetic field, which interacts with the solar wind, is reduced when the magnetic orientation is aligned between Sun and Earth – opposite to the previous hypothesis. During forthcoming solar storms, this could result in blackouts and disruptions in artificial satellites . [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Magnetic_Storm_Oct_2003.jpg/220px-Magnetic_Storm_Oct_2003.jpg",
+                "caption": "Background : a set of traces from magnetic observatories showing a magnetic storm in 2000. Globe : map showing locations of observatories and contour lines giving horizontal magnetic intensity in μ T ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Earth%27s_magnetic_field",
+        "title": "Earth's magnetic field",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Secular variation",
+        "text": "Changes in Earth's magnetic field on a time scale of a year or more are referred to as secular variation . Over hundreds of years, magnetic declination is observed to vary over tens of degrees. [13] The animation shows how global declinations have changed over the last few centuries. [34] The direction and intensity of the dipole change over time. Over the last two centuries the dipole strength has been decreasing at a rate of about 6.3% per century. [13] At this rate of decrease, the field would be negligible in about 1600 years. [35] However, this strength is about average for the last 7 thousand years, and the current rate of change is not unusual. [36] A prominent feature in the non-dipolar part of the secular variation is a westward drift at a rate of about 0.2° per year. [35] This drift is not the same everywhere and has varied over time. The globally averaged drift has been westward since about 1400 AD but eastward between about 1000 AD and 1400 AD. [37] Changes that predate magnetic observatories are recorded in archaeological and geological materials. Such changes are referred to as paleomagnetic secular variation or paleosecular variation (PSV) . The records typically include long periods of small change with occasional large changes reflecting geomagnetic excursions and reversals. [38] A 1995 study of lava flows on Steens Mountain , Oregon appeared to suggest the magnetic field once shifted at a rate of up to 6° per day at some time in Earth's history, a surprising result. [39] However, in 2014 one of the original authors published a new study which found the results were actually due to the continuous thermal demagnitization of the lava, not to a shift in the magnetic field. [40] In July 2020 scientists report that analysis of simulations and a recent observational field model show that maximum rates of directional change of Earth's magnetic field reached ~10° per year – almost 100 times faster than current changes and 10 times faster than previously thought. [41] [42]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Earth_Magnetic_Field_Declination_from_1590_to_1990.gif/220px-Earth_Magnetic_Field_Declination_from_1590_to_1990.gif",
+                "caption": "Estimated declination contours by year, 1590 to 1990 (click to see variation)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Geomagnetic_axial_dipole_strength.svg/220px-Geomagnetic_axial_dipole_strength.svg.png",
+                "caption": "Strength of the axial dipole component of Earth's magnetic field from 1600 to 2020"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Earth%27s_magnetic_field",
+        "title": "Earth's magnetic field",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Magnetic field reversals",
+        "text": "Although generally Earth's field is approximately dipolar, with an axis that is nearly aligned with the rotational axis, occasionally the North and South geomagnetic poles trade places. Evidence for these geomagnetic reversals can be found in basalts , sediment cores taken from the ocean floors, and seafloor magnetic anomalies. [43] Reversals occur nearly randomly in time, with intervals between reversals ranging from less than 0.1 million years to as much as 50 million years. The most recent geomagnetic reversal, called the Brunhes–Matuyama reversal , occurred about 780,000 years ago. [26] [44] A related phenomenon, a geomagnetic excursion , takes the dipole axis across the equator and then back to the original polarity. [45] [46] The Laschamp event is an example of an excursion, occurring during the last ice age (41,000 years ago). The past magnetic field is recorded mostly by strongly magnetic minerals , particularly iron oxides such as magnetite , that can carry a permanent magnetic moment. This remanent magnetization , or remanence , can be acquired in more than one way. In lava flows , the direction of the field is \"frozen\" in small minerals as they cool, giving rise to a thermoremanent magnetization . In sediments, the orientation of magnetic particles acquires a slight bias towards the magnetic field as they are deposited on an ocean floor or lake bottom. This is called detrital remanent magnetization . [8] Thermoremanent magnetization is the main source of the magnetic anomalies around mid-ocean ridges. As the seafloor spreads, magma wells up from the mantle , cools to form new basaltic crust on both sides of the ridge, and is carried away from it by seafloor spreading. As it cools, it records the direction of the Earth's field. When the Earth's field reverses, new basalt records the reversed direction. The result is a series of stripes that are symmetric about the ridge. A ship towing a magnetometer on the surface of the ocean can detect these stripes and infer the age of the ocean floor below. This provides information on the rate at which seafloor has spread in the past. [8] Radiometric dating of lava flows has been used to establish a geomagnetic polarity time scale , part of which is shown in the image. This forms the basis of magnetostratigraphy , a geophysical correlation technique that can be used to date both sedimentary and volcanic sequences as well as the seafloor magnetic anomalies. [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Geomagnetic_polarity_late_Cenozoic.svg/180px-Geomagnetic_polarity_late_Cenozoic.svg.png",
+                "caption": "Geomagnetic polarity during the late Cenozoic Era . Dark areas denote periods where the polarity matches today's polarity, light areas denote periods where that polarity is reversed."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Earth%27s_magnetic_field",
+        "title": "Earth's magnetic field",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Future",
+        "text": "Starting in the late 1800s and throughout the 1900s and later, the overall geomagnetic field has become weaker; the present strong deterioration corresponds to a 10–15% decline and has accelerated since 2000; geomagnetic intensity has declined almost continuously from a maximum 35% above the modern value, from circa year 1 AD. The rate of decrease and the current strength are within the normal range of variation, as shown by the record of past magnetic fields recorded in rocks. The nature of Earth's magnetic field is one of heteroscedastic (seemingly random) fluctuation. An instantaneous measurement of it, or several measurements of it across the span of decades or centuries, are not sufficient to extrapolate an overall trend in the field strength. It has gone up and down in the past for unknown reasons. Also, noting the local intensity of the dipole field (or its fluctuation) is insufficient to characterize Earth's magnetic field as a whole, as it is not strictly a dipole field. The dipole component of Earth's field can diminish even while the total magnetic field remains the same or increases. The Earth's magnetic north pole is drifting from northern Canada towards Siberia with a presently accelerating rate—10 kilometres (6.2 mi) per year at the beginning of the 1900s, up to 40 kilometres (25 mi) per year in 2003, [26] and since then has only accelerated. [51] [52]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brunhes_geomagnetism_western_US.png/220px-Brunhes_geomagnetism_western_US.png",
+                "caption": "Variations in virtual axial dipole moment since the last reversal"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Earth%27s_magnetic_field",
+        "title": "Earth's magnetic field",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Earth's core and the geodynamo",
+        "text": "The Earth's magnetic field is believed to be generated by electric currents in the conductive iron alloys of its core, created by convection currents due to heat escaping from the core. The Earth and most of the planets in the Solar System, as well as the Sun and other stars, all generate magnetic fields through the motion of electrically conducting fluids. [54] The Earth's field originates in its core. This is a region of iron alloys extending to about 3400 km (the radius of the Earth is 6370 km). It is divided into a solid inner core , with a radius of 1220 km, and a liquid outer core . [55] The motion of the liquid in the outer core is driven by heat flow from the inner core, which is about 6,000 K (5,730 °C; 10,340 °F), to the core-mantle boundary , which is about 3,800 K (3,530 °C; 6,380 °F). [56] The heat is generated by potential energy released by heavier materials sinking toward the core ( planetary differentiation , the iron catastrophe ) as well as decay of radioactive elements in the interior.  The pattern of flow is organized by the rotation of the Earth and the presence of the solid inner core. [57] The mechanism by which the Earth generates a magnetic field is known as a geodynamo . [54] The magnetic field is generated by a feedback loop: current loops generate magnetic fields ( Ampère's circuital law ); a changing magnetic field generates an electric field ( Faraday's law ); and the electric and magnetic fields exert a force on the charges that are flowing in currents (the Lorentz force ). [58] These effects can be combined in a partial differential equation for the magnetic field called the magnetic induction equation , where u is the velocity of the fluid; B is the magnetic B-field; and η = 1/σμ is the magnetic diffusivity , which is inversely proportional to the product of the electrical conductivity σ and the permeability μ . [59] The term ∂ B /∂ t is the time derivative of the field; ∇ 2 is the Laplace operator and ∇× is the curl operator . The first term on the right hand side of the induction equation is a diffusion term. In a stationary fluid, the magnetic field declines and any concentrations of field spread out. If the Earth's dynamo shut off, the dipole part would disappear in a few tens of thousands of years. [59] In a perfect conductor ( σ = ∞ {\\displaystyle \\sigma =\\infty \\;} ), there would be no diffusion. By Lenz's law , any change in the magnetic field would be immediately opposed by currents, so the flux through a given volume of fluid could not change. As the fluid moved, the magnetic field would go with it. The theorem describing this effect is called the frozen-in-field theorem . Even in a fluid with a finite conductivity, new field is generated by stretching field lines as the fluid moves in ways that deform it. This process could go on generating new field indefinitely, were it not that as the magnetic field increases in strength, it resists fluid motion. [59] The motion of the fluid is sustained by convection , motion driven by buoyancy . The temperature increases towards the center of the Earth, and the higher temperature of the fluid lower down makes it buoyant. This buoyancy is enhanced by chemical separation: As the core cools, some of the molten iron solidifies and is plated to the inner core. In the process, lighter elements are left behind in the fluid, making it lighter. This is called compositional convection . A Coriolis effect , caused by the overall planetary rotation, tends to organize the flow into rolls aligned along the north–south polar axis. [57] [59] A dynamo can amplify a magnetic field, but it needs a \"seed\" field to get it started. [59] For the Earth, this could have been an external magnetic field. Early in its history the Sun went through a T-Tauri phase in which the solar wind would have had a magnetic field orders of magnitude larger than the present solar wind. [60] However, much of the field may have been screened out by the Earth's mantle. An alternative source is currents in the core-mantle boundary driven by chemical reactions or variations in thermal or electric conductivity. Such effects may still provide a small bias that are part of the boundary conditions for the geodynamo. [61] The average magnetic field in the Earth's outer core was calculated to be 25 gauss, 50 times stronger than the field at the surface. [62]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dynamo_Theory_-_Outer_core_convection_and_magnetic_field_generation.svg/220px-Dynamo_Theory_-_Outer_core_convection_and_magnetic_field_generation.svg.png",
+                "caption": "A schematic illustrating the relationship between motion of conducting fluid, organized into rolls by the Coriolis force, and the magnetic field the motion generates. [53]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Earth%27s_magnetic_field",
+        "title": "Earth's magnetic field",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Crustal magnetic anomalies",
+        "text": "Magnetometers detect minute deviations in the Earth's magnetic field caused by iron artifacts , kilns, some types of stone structures, and even ditches and middens in archaeological geophysics . Using magnetic instruments adapted from airborne magnetic anomaly detectors developed during World War II to detect submarines, [73] the magnetic variations across the ocean floor have been mapped. Basalt — the iron-rich, volcanic rock making up the ocean floor [74] — contains a strongly magnetic mineral (magnetite) and can locally distort compass readings. The distortion was recognized by Icelandic mariners as early as the late 18th century. [75] More important, because the presence of magnetite gives the basalt measurable magnetic properties, these magnetic variations have provided another means to study the deep ocean floor. When newly formed rock cools, such magnetic materials record the Earth's magnetic field. [75]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Magnetic_Field_Earth.png/220px-Magnetic_Field_Earth.png",
+                "caption": "A model of short-wavelength features of Earth's magnetic field, attributed to lithospheric anomalies [72]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Earth%27s_magnetic_field",
+        "title": "Earth's magnetic field",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    },
+    {
+        "section": "Spherical harmonics",
+        "text": "The most common way of analyzing the global variations in the Earth's magnetic field is to fit the measurements to a set of spherical harmonics . This was first done by Carl Friedrich Gauss. [76] Spherical harmonics are functions that oscillate over the surface of a sphere. They are the product of two functions, one that depends on latitude and one on longitude. The function of longitude is zero along zero or more great circles passing through the North and South Poles; the number of such nodal lines is the absolute value of the order m . The function of latitude is zero along zero or more latitude circles; this plus the order is equal to the degree ℓ. Each harmonic is equivalent to a particular arrangement of magnetic charges at the center of the Earth. A monopole is an isolated magnetic charge, which has never been observed. A dipole is equivalent to two opposing charges brought close together and a quadrupole to two dipoles brought together. A quadrupole field is shown in the lower figure on the right. [13] Spherical harmonics can represent any scalar field (function of position) that satisfies certain properties. A magnetic field is a vector field , but if it is expressed in Cartesian components X, Y, Z , each component is the derivative of the same scalar function called the magnetic potential . Analyses of the Earth's magnetic field use a modified version of the usual spherical harmonics that differ by a multiplicative factor. A least-squares fit to the magnetic field measurements gives the Earth's field as the sum of spherical harmonics, each multiplied by the best-fitting Gauss coefficient g m ℓ or h m ℓ . [13] The lowest-degree Gauss coefficient, g 0 0 , gives the contribution of an isolated magnetic charge, so it is zero. The next three coefficients – g 1 0 , g 1 1 , and h 1 1 – determine the direction and magnitude of the dipole contribution. The best fitting dipole is tilted at an angle of about 10° with respect to the rotational axis, as described earlier. [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Spherical_harmonics_positive_negative.svg/220px-Spherical_harmonics_positive_negative.svg.png",
+                "caption": "Schematic representation of spherical harmonics on a sphere and their nodal lines. P ℓ m is equal to 0 along m great circles passing through the poles, and along ℓ- m circles of equal latitude. The function changes sign each ℓtime it crosses one of these lines."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/VFPt_four_charges.svg/220px-VFPt_four_charges.svg.png",
+                "caption": "Example of a quadrupole field. This can also be constructed by moving two dipoles together."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Earth%27s_magnetic_field",
+        "title": "Earth's magnetic field",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Field Methods in Structural Geology"
+    }
+]

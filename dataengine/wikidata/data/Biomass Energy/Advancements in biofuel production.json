@@ -1,0 +1,689 @@
+[
+    {
+        "section": "Sustainable aviation fuels",
+        "text": "Sustainable biofuels do not use food crops , prime agricultural land or fresh water. Sustainable aviation fuel (SAF) is certified by a third-party such as the Roundtable For Sustainable Biofuels . [68] Sustainable fuels can be created with renewable energy without biomaterial. Carbon can be sourced from CO 2 to make kerosene, etc. Hydrogen can be combusted or used in a fuel cell . As of 2022, some 450,000 flights had used sustainable fuels as part of the fuel mix, although such fuels were ~3x more expensive than the traditional fossil jet fuel or kerosene . [69]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Oslo_Airport_terminal_night_view.jpg/220px-Oslo_Airport_terminal_night_view.jpg",
+                "caption": "In 2016, Oslo Airport became the first international airport to offer sustainable aviation fuel as part of the fuel mix."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Aviation_biofuel",
+        "title": "Aviation biofuel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Role in addressing climate change",
+        "text": "As part of the global effort to limit climate change , most countries have committed to net zero greenhouse gas emissions . [26] In practice, this means phasing out fossil fuels and replacing them with low-emissions energy sources. [12] At the 2023 United Nations Climate Change Conference , around three-quarters of the world's countries set a goal of tripling renewable energy capacity by 2030. [27] The European Union aims to generate 40% of its electricity from renewables by the same year. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2021_Death_rates%2C_by_energy_source.svg/300px-2021_Death_rates%2C_by_energy_source.svg.png",
+                "caption": "Deaths caused as a result of fossil fuel use (areas of rectangles in chart) greatly exceed those resulting from production of renewable energy (rectangles barely visible in chart). [25]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Intermittency",
+        "text": "The two most important forms of renewable energy, solar and wind, are intermittent energy sources : they are not available constantly, resulting in lower capacity factors . In contrast, fossil fuel power plants are usually able to produce precisely the amount of energy an electricity grid requires at a given time. Solar energy can only be captured during the day, and ideally in cloudless conditions. Wind power generation can vary significantly not only day-to-day, but even month-to-month. [31] This poses a challenge when transitioning away from fossil fuels: energy demand will often be higher or lower than what renewables can provide. [32] Both scenarios can cause electricity grids to become overloaded, leading to power outages . In the medium-term, this variability may require keeping some gas-fired power plants or other dispatchable generation on standby [33] [34] until there is enough energy storage, demand response , grid improvement, and/or baseload power from non-intermittent sources. In the long-term, energy storage is an important way of dealing with intermittency. [35] Using diversified renewable energy sources and smart grids can also help flatten supply and demand. [36] Sector coupling of the power generation sector with other sectors may increase flexibility: for example the transport sector can be coupled by charging electric vehicles and sending electricity from vehicle to grid . [37] Similarly the industry sector can be coupled by hydrogen produced by electrolysis, [38] and the buildings sector by thermal energy storage for space heating and cooling. [39] Building overcapacity for wind and solar generation can help ensure sufficient electricity production even during poor weather. In optimal weather, it may be necessary to curtail energy generation if it is not possible to use or store excess electricity. [40]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Renewables_need_flexible_backup_not_baseload.png/300px-Renewables_need_flexible_backup_not_baseload.png",
+                "caption": "Estimated power demand over a week in May 2012 and May 2020, Germany, showing the variability in solar and wind power both day-to-day and month-to-month."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Solar energy",
+        "text": "Solar power produced around 1.3 terrawatt-hours (TWh) worldwide in 2022, [10] representing 4.6% of the world's electricity. Almost all of this growth has happened since 2010. [52] Solar energy can be harnessed anywhere that receives sunlight; however, the amount of solar energy that can be harnessed for electricity generation is influenced by weather conditions , geographic location and time of day. [53] There are two mainstream ways of harnessing solar energy: solar thermal , which converts solar energy into heat; and photovoltaics (PV), which converts it into electricity. [12] PV is far more widespread, accounting for around two thirds of the global solar energy capacity as of 2022. [54] It is also growing at a much faster rate, with 170 GW newly installed capacity in 2021, [55] compared to 25 GW of solar thermal. [54] Passive solar refers to a range of construction strategies and technologies that aim to optimize the distribution of solar heat in a building. Examples include solar chimneys , [12] orienting a building to the sun, using construction materials that can store heat , and designing spaces that naturally circulate air . [56] From 2020 to 2022, solar technology investments almost doubled from USD 162 billion to USD 308 billion, driven by the sector's increasing maturity and cost reductions, particularly in solar photovoltaic (PV), which accounted for 90% of total investments. China and the United States were the main recipients, collectively making up about half of all solar investments since 2013. Despite reductions in Japan and India due to policy changes and COVID-19 , growth in China, the United States, and a significant increase from Vietnam's feed-in tariff program offset these declines. Globally, the solar sector added 714 gigawatts (GW) of solar PV and concentrated solar power (CSP) capacity between 2013 and 2021, with a notable rise in large-scale solar heating installations in 2021, especially in China, Europe, Turkey, and Mexico. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/SolarFachwerkhaus.jpg/220px-SolarFachwerkhaus.jpg",
+                "caption": "A small, roof-top mounted PV system in Bonn , Germany"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Mount_Komekura_Photovoltaic_power_plant_Jan2012.JPG/220px-Mount_Komekura_Photovoltaic_power_plant_Jan2012.JPG",
+                "caption": "Komekurayama photovoltaic power station in Kofu , Japan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Photovoltaics",
+        "text": "A photovoltaic system , consisting of solar cells assembled into panels , converts light into electrical direct current via the photoelectric effect . [60] PV has several advantages that make it by far the fastest-growing renewable energy technology. It is cheap, low-maintenance and scalable; adding to an existing PV installation as demanded arises is simple. Its main disadvantage is its poor performance in cloudy weather. [12] PV systems range from small, residential and commercial rooftop or building integrated installations, to large utility-scale photovoltaic power station . [61] A household's solar panels can either be used for just that household or, if connected to an electrical grid, can be aggregated with millions of others. [62] The first utility-scale solar power plant was built in 1982 in Hesperia, California by ARCO . [63] The plant was not profitable and was sold eight years later. [64] However, over the following decades, PV cells became significantly more efficient and cheaper. [65] As a result, PV adoption has grown exponentially since 2010. [66] Global capacity increased from 230 GW at the end of 2015 to 890 GW in 2021. [67] PV grew fastest in China between 2016 and 2021, adding 560 GW, more than all advanced economies combined. [68] Four of the ten biggest solar power stations are in China, including the biggest, Golmud Solar Park in China. [69]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg/220px-1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg.png",
+                "caption": "Swanson's law –stating that solar module prices have dropped about 20% for each doubling of installed capacity—defines the \" learning rate \" of solar photovoltaics . [58] [59]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Wind power",
+        "text": "Humans have harnessed wind energy since at least 3500 BC. Until the 20th century, it was primarily used to power ships, windmills and water pumps. Today, the vast majority of wind power is used to generate electricity using wind turbines. [12] Modern utility-scale wind turbines range from around 600 kW to 9 MW of rated power. The power available from the wind is a function of the cube of the wind speed, so as wind speed increases, power output increases up to the maximum output for the particular turbine. [76] Areas where winds are stronger and more constant, such as offshore and high-altitude sites, are preferred locations for wind farms. Wind-generated electricity met nearly 4% of global electricity demand in 2015, with nearly 63 GW of new wind power capacity installed. Wind energy was the leading source of new capacity in Europe, the US and Canada, and the second largest in China. In Denmark, wind energy met more than 40% of its electricity demand while Ireland, Portugal and Spain each met nearly 20%. [77] Globally, the long-term technical potential of wind energy is believed to be five times total current global energy production, or 40 times current electricity demand, assuming all practical barriers needed were overcome. This would require wind turbines to be installed over large areas, particularly in areas of higher wind resources, such as offshore, and likely also industrial use of new types of VAWT turbines in addition to the horizontal axis units currently in use. As offshore wind speeds average ~90% greater than that of land, offshore resources can contribute substantially more energy than land-stationed turbines. [78] Investments in wind technologies reached USD 161 billion in 2020, with onshore wind dominating at 80% of total investments from 2013 to 2022. Offshore wind investments nearly doubled to USD 41 billion between 2019 and 2020, primarily due to policy incentives in China and expansion in Europe. Global wind capacity increased by 557 GW between 2013 and 2021, with capacity additions increasing by an average of 19% each year. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Pretty_flamingos_-_geograph.org.uk_-_578705.jpg/170px-Pretty_flamingos_-_geograph.org.uk_-_578705.jpg",
+                "caption": "Burbo , NW-England"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fentonwindpark1.jpg/220px-Fentonwindpark1.jpg",
+                "caption": "Sunrise at the Fenton Wind Farm in Minnesota, United States"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wind_energy_generation_by_region%2C_OWID.svg/300px-Wind_energy_generation_by_region%2C_OWID.svg.png",
+                "caption": "Wind energy generation by region over time [72]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Hydropower",
+        "text": "Since water is about 800 times denser than air , even a slow flowing stream of water, or moderate sea swell , can yield considerable amounts of energy. Water can generate electricity with a conversion efficiency of about 90%, which is the highest rate in renewable energy. [82] There are many forms of water energy: Much hydropower is flexible, thus complementing wind and solar. [86] In 2021, the world renewable hydropower capacity was 1,360 GW. [68] Only a third of the world's estimated hydroelectric potential of 14,000 TWh/year has been developed. [87] [88] New hydropower projects face opposition from local communities due to their large impact, including relocation of communities and flooding of wildlife habitats and farming land. [89] High cost and lead times from permission process, including environmental and risk assessments, with lack of environmental and social acceptance are therefore the primary challenges for new developments. [90] It is popular to repower old dams thereby increasing their efficiency and capacity as well as quicker responsiveness on the grid. [91] Where circumstances permit existing dams such as the Russell Dam built in 1985 may be updated with \"pump back\" facilities for pumped-storage which is useful for peak loads or to support intermittent wind and solar power. Because dispatchable power is more valuable than VRE [92] [93] countries with large hydroelectric developments such as Canada and Norway are spending billions to expand their grids to trade with neighboring countries having limited hydro. [94]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/220px-ThreeGorgesDam-China2009.jpg",
+                "caption": "The Three Gorges Dam for hydropower on the Yangtze River in China"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Three_gorges_dam_from_space.jpg/220px-Three_gorges_dam_from_space.jpg",
+                "caption": "Three Gorges Dam and Gezhouba Dam , China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Bioenergy",
+        "text": "Biomass is biological material derived from living, or recently living organisms. Most commonly, it refers to plants or plant-derived materials. As an energy source, biomass can either be used directly via combustion to produce heat, or converted to a more energy-dense biofuel like ethanol. Wood is the most significant biomass energy source as of 2012 [98] and is usually sourced from a trees cleared for silvicultural reasons or fire prevention . Municipal wood waste – for instance, construction materials or sawdust – is also often burned for energy. [99] The biggest per-capita producers of wood-based bioenergy are heavily forested countries like Finland, Sweden, Estonia, Austria, and Denmark. [100] Bioenergy can be environmentally destructive if old-growth forests are cleared to make way for crop production. In particular, demand for palm oil to produce biodiesel has contributed to the deforestation of tropical rainforests in Brazil and Indonesia. [101] In addition, burning biomass still produces carbon emissions, although much less than fossil fuels (39 grams of CO 2 per megajoule of energy, compared to 75 g/MJ for fossil fuels). [102]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Metz_biomass_power_station.jpg/220px-Metz_biomass_power_station.jpg",
+                "caption": "A CHP power station using wood to supply 30,000 households in France"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Biofuel",
+        "text": "Biofuels are primarily used in transportation, providing 3.5% of the world's transport energy demand in 2022, [103] up from 2.7% in 2010. [104] Biojet is expected to be important for short-term reduction of carbon dioxide emissions from long-haul flights. [105] Aside from wood, the major sources of bioenergy are bioethanol and biodiesel . [12] Bioethanol is usually produced by fermenting the sugar components of crops like sugarcane and maize , while biodiesel is mostly made from oils extracted from plants, such as soybean oil and corn oil . [106] Most of the crops used to produce bioethanol and biodiesel are grown specifically for this purpose, [107] although used cooking oil accounted for 14% of the oil used to produce biodiesel as of 2015. [106] The biomass used to produce biofuels varies by region. Maize is the major feedstock in the United States, while sugarcane dominates in Brazil. [108] In the European Union, where biodiesel is more common than bioethanol, rapeseed oil and palm oil are the main feedstocks. [109] China, although it produces comparatively much less biofuel, uses mostly corn and wheat. [110] In many countries, biofuels are either subsidized or mandated to be included in fuel mixtures . [101] There are many other sources of bioenergy that are more niche, or not yet viable at large scales. For instance, bioethanol could be produced from the cellulosic parts of crops, rather than only the seed as is common today. [111] Sweet sorghum may be a promising alternative source of bioethanol, due to its tolerance of a wide range of climates. [112] Cow dung can be converted into methane. [113] There is also a great deal of research involving algal fuel , which is attractive because algae is a non-food resource, grows around 20 times faster than most food crops, and can be grown almost anywhere. [114]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Faz_S_Sofia_canavial_090607_REFON.JPG/220px-Faz_S_Sofia_canavial_090607_REFON.JPG",
+                "caption": "Sugarcane plantation to produce ethanol in Brazil"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Soybeanbus.jpg/220px-Soybeanbus.jpg",
+                "caption": "A bus fueled by biodiesel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Geothermal energy",
+        "text": "Geothermal energy is thermal energy (heat) extracted from the Earth's crust . It originates from several different sources , of which the most significant is slow radioactive decay of minerals contained in the Earth's interior , [12] as well as some leftover heat from the formation of the Earth . [119] Some of the heat is generated near the Earth's surface in the crust, but some also flows from deep within the Earth from the mantle and core . [119] Geothermal energy extraction is viable mostly in countries located on tectonic plate edges, where the Earth's hot mantle is more exposed. [120] As of 2023, the United States has by far the most geothermal capacity (2.7 GW, [121] or less than 0.2% of the country's total energy capacity [122] ), followed by Indonesia and the Philippines. Global capacity in 2022 was 15 GW. [121] Geothermal energy can be either used directly to heat homes, as is common in Iceland, or to generate electricity. At smaller scales, geothermal power can be generated with geothermal heat pumps , which can extract heat from ground temperatures of under 30 °C (86 °F), allowing them to be used at relatively shallow depths of a few meters. [120] Electricity generation requires large plants and ground temperatures of at least 150 °C (302 °F). In some countries, electricity produced from geothermal energy accounts for a large portion of the total, such as Kenya (43%) and Indonesia (5%). [123] Technical advances may eventually make geothermal power more widely available. For example, enhanced geothermal systems involve drilling around 10 kilometres (6.2 mi) into the Earth, breaking apart hot rocks and extracting the heat using water. In theory, this type of geothermal energy extraction could be done anywhere on Earth. [120]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/220px-NesjavellirPowerPlant_edit2.jpg",
+                "caption": "Steam rising from the Nesjavellir Geothermal Power Station in Iceland"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/West_Ford_Flat_Geothermal_Cooling_Tower.JPG/170px-West_Ford_Flat_Geothermal_Cooling_Tower.JPG",
+                "caption": "Geothermal plant at The Geysers , California, US"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Krafla_geothermal_power_station_wiki.jpg/220px-Krafla_geothermal_power_station_wiki.jpg",
+                "caption": "Krafla , a geothermal power station in Iceland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Marine energy",
+        "text": "Marine energy (also sometimes referred to as ocean energy) is the energy carried by ocean waves , tides , salinity , and ocean temperature differences . Technologies to harness the energy of moving water include wave power , marine current power , and tidal power . Reverse electrodialysis (RED) is a technology for generating electricity by mixing fresh water and salty sea water in large power cells. [130] Most marine energy harvesting technologies are still at low technology readiness levels and not used at large scales. Tidal energy is generally considered the most mature, but has not seen wide deployment. [131] The world's largest tidal power station is on Sihwa Lake , South Korea, [132] which produces around 550 gigawatt-hours of electricity per year. [133]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sihwa_Lake_Tidal_Power_Station_aerial_view.jpg/220px-Sihwa_Lake_Tidal_Power_Station_aerial_view.jpg",
+                "caption": "Aerial view of Sihwa Tidal Power Station in South Korea"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Growth of renewables",
+        "text": "The results of a recent review of the literature concluded that as greenhouse gas (GHG) emitters begin to be held liable for damages resulting from GHG emissions resulting in climate change, a high value for liability mitigation would provide powerful incentives for deployment of renewable energy technologies. [181] In the decade of 2010–2019, worldwide investment in renewable energy capacity excluding large hydropower amounted to US$2.7 trillion, of which the top countries China contributed US$818 billion, the United States contributed US$392.3 billion, Japan contributed US$210.9 billion, Germany contributed US$183.4 billion, and the United Kingdom contributed US$126.5 billion. [182] This was an increase of over three and possibly four times the equivalent amount invested in the decade of 2000–2009 (no data is available for 2000–2003). [182] As of 2022, an estimated 28% of the world's electricity was generated by renewables. This is up from 19% in 1990. [183]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20210119_Renewable_energy_investment_-_2004-_BloombergNEF.svg/232px-20210119_Renewable_energy_investment_-_2004-_BloombergNEF.svg.png",
+                "caption": "Investment: Companies, governments and households have committed increasing amounts to decarbonization, including renewable energy (solar, wind), electric vehicles and associated charging infrastructure, energy storage, energy-efficient heating systems, carbon capture and storage, and hydrogen. [171] [172]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20201019_Levelized_Cost_of_Energy_%28LCOE%2C_Lazard%29_-_renewable_energy.svg/232px-20201019_Levelized_Cost_of_Energy_%28LCOE%2C_Lazard%29_-_renewable_energy.svg.png",
+                "caption": "Levelized cost: With increasingly widespread implementation of renewable energy sources, costs have declined, most notably for energy generated by solar panels. [175] [176] Levelized cost of energy (LCOE) is a measure of the average net present cost of electricity generation for a generating plant over its lifetime."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Future projections",
+        "text": "A December 2022 report by the IEA forecasts that over 2022-2027, renewables are seen growing by almost 2 400 GW in its main forecast, equal to the entire installed power capacity of China in 2021. This is an 85% acceleration from the previous five years, and almost 30% higher than what the IEA forecast in its 2021 report, making its largest ever upward revision. Renewables are set to account for over 90% of global electricity capacity expansion over the forecast period. [68] To achieve net zero emissions by 2050, IEA believes that 90% of global electricity generation will need to be produced from renewable sources. [17] In June 2022 IEA Executive Director Fatih Birol said that countries should invest more in renewables to \"ease the pressure on consumers from high fossil fuel prices, make our energy systems more secure, and get the world on track to reach our climate goals.\" [185] China's five year plan to 2025 includes increasing direct heating by renewables such as geothermal and solar thermal. [186] REPowerEU , the EU plan to escape dependence on fossil Russian gas , is expected to call for much more green hydrogen . [187] After a transitional period, [188] renewable energy production is expected to make up most of the world's energy production. In 2018, the risk management firm, DNV GL , forecasts that the world's primary energy mix will be split equally between fossil and non-fossil sources by 2050. [189]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2010-_Fossil_fuels_vs_Wind_%2B_Solar_-_electricity_generation.svg/220px-2010-_Fossil_fuels_vs_Wind_%2B_Solar_-_electricity_generation.svg.png",
+                "caption": "In 2023, electricity generation from wind and solar sources was projected to exceed 30% by 2030. [184]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Policy",
+        "text": "Policies to support renewable energy have been vital in their expansion. Where Europe dominated in establishing energy policy in the early 2000s, most countries around the world now have some form of energy policy. [199] The International Renewable Energy Agency (IRENA) is an intergovernmental organization for promoting the adoption of renewable energy worldwide. It aims to provide concrete policy advice and facilitate capacity building and technology transfer. IRENA was formed in 2009, with 75 countries signing the charter of IRENA. [200] As of April 2019, IRENA has 160 member states. [201] The then United Nations Secretary-General Ban Ki-moon has said that renewable energy can lift the poorest nations to new levels of prosperity, [202] and in September 2011 he launched the UN Sustainable Energy for All initiative to improve energy access, efficiency and the deployment of renewable energy. [203] The 2015 Paris Agreement on climate change motivated many countries to develop or improve renewable energy policies. [204] In 2017, a total of 121 countries adopted some form of renewable energy policy. [199] National targets that year existed in 176 countries. [204] In addition, there is also a wide range of policies at the state/provincial, and local levels. [104] Some public utilities help plan or install residential energy upgrades . Many national, state and local governments have created green banks . A green bank is a quasi-public financial institution that uses public capital to leverage private investment in clean energy technologies. [205] Green banks use a variety of financial tools to bridge market gaps that hinder the deployment of clean energy. Climate neutrality by the year 2050 is the main goal of the European Green Deal . [206] For the European Union to reach their target of climate neutrality, one goal is to decarbonise its energy system by aiming to achieve \"net-zero greenhouse gas emissions by 2050.\" [207]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Share_of_electricity_production_from_renewables.svg/330px-Share_of_electricity_production_from_renewables.svg.png",
+                "caption": "Share of electricity production from renewables, 2022 [8]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Geopolitics",
+        "text": "The geopolitical impact of the growing use of renewable energy is a subject of ongoing debate and research. [219] Many fossil-fuel producing countries, such as Qatar , Russia , Saudi Arabia and Norway , are currently able to exert diplomatic or geopolitical influence as a result of their oil wealth. Most of these countries are expected to be among the geopolitical \"losers\" of the energy transition, although some, like Norway, are also significant producers and exporters of renewable energy. Fossil fuels and the infrastructure to extract them may, in the long term, become stranded assets . [220] It has been speculated that countries dependent on fossil fuel revenue may one day find it in their interests to quickly sell off their remaining fossil fuels. [221] Conversely, nations abundant in renewable resources, and the minerals required for renewables technology, are expected to gain influence. [222] [223] In particular, China has become the world's dominant manufacturer of the technology needed to produce or store renewable energy, especially solar panels , wind turbines , and lithium-ion batteries . [224] Nations rich in solar and wind energy could become major energy exporters. [225] Some may produce and export green hydrogen , [226] [225] although electricity is projected to be the dominant energy carrier in 2050, accounting for almost 50% of total energy consumption (up from 22% in 2015). [227] Countries with large uninhabited areas such as Australia, China, and many African and Middle Eastern countries have a potential for huge installations of renewable energy. The production of renewable energy technologies requires rare-earth elements with new supply chains. [228] Countries with already weak governments that rely on fossil fuel revenue may face even higher political instability or popular unrest. Analysts consider Nigeria, Angola , Chad , Gabon , and Sudan , all countries with a history of military coups , to be at risk of instability due to dwindling oil income. [229] A study found that transition from fossil fuels to renewable energy systems reduces risks from mining, trade and political dependence because renewable energy systems don't need fuel – they depend on trade only for the acquisition of materials and components during construction. [230] In October 2021, European Commissioner for Climate Action Frans Timmermans suggested \"the best answer\" to the 2021 global energy crisis is \"to reduce our reliance on fossil fuels.\" [231] He said those blaming the European Green Deal were doing so \"for perhaps ideological reasons or sometimes economic reasons in protecting their vested interests.\" [231] Some critics blamed the European Union Emissions Trading System (EU ETS) and closure of nuclear plants for contributing to the energy crisis. [232] [233] [234] European Commission President Ursula von der Leyen said that Europe is \"too reliant\" on natural gas and too dependent on natural gas imports . According to Von der Leyen, \"The answer has to do with diversifying our suppliers ... and, crucially, with speeding up the transition to clean energy.\" [235]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TREC-Map-en.jpg/220px-TREC-Map-en.jpg",
+                "caption": "A concept of a super grid"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Public support",
+        "text": "Solar power plants may compete with arable land , [254] [255] while on-shore wind farms often face opposition due to aesthetic concerns and noise. [256] [257] Such opponents are often described as NIMBYs (\"not in my back yard\"). [258] Some environmentalists are concerned about fatal collisions of birds and bats with wind turbines. [259] Although protests against new wind farms occasionally occur around the world, regional and national surveys generally find broad support for both solar and wind power. [260] [261] [262] Community-owned wind energy is sometimes proposed as a way to increase local support for wind farms. [263] A 2011 UK Government document stated that \"projects are generally more likely to succeed if they have broad public support and the consent of local communities. This means giving communities both a say and a stake.\" [264] In the 2000s and early 2010s, many renewable projects in Germany, Sweden and Denmark were owned by local communities, particularly through cooperative structures. [265] [266] In the years since, more installations in Germany have been undertaken by large companies, [263] but community ownership remains strong in Denmark. [267]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg/220px-202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg.png",
+                "caption": "Acceptance of wind and solar facilities in one's community is stronger among U.S. Democrats (blue), while acceptance of nuclear power plants is stronger among U.S. Republicans (red). [253]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Definition",
+        "text": "The concept of biotechnology encompasses a wide range of procedures for modifying living organisms for human purposes, going back to domestication of animals, cultivation of the plants, and \"improvements\" to these through breeding programs that employ artificial selection and hybridization . Modern usage also includes genetic engineering, as well as cell and tissue culture technologies. The American Chemical Society defines biotechnology as the application of biological organisms, systems, or processes by various industries to learning about the science of life and the improvement of the value of materials and organisms, such as pharmaceuticals, crops, and livestock . [6] As per the European Federation of Biotechnology , biotechnology is the integration of natural science and organisms, cells, parts thereof, and molecular analogues for products and services. [7] Biotechnology is based on the basic biological sciences (e.g., molecular biology , biochemistry , cell biology , embryology , genetics , microbiology ) and conversely provides methods to support and perform basic research in biology. [ citation needed ] Biotechnology is the research and development in the laboratory using bioinformatics for exploration, extraction, exploitation, and production from any living organisms and any source of biomass by means of biochemical engineering where high value-added products could be planned (reproduced by biosynthesis , for example), forecasted, formulated, developed, manufactured, and marketed for the purpose of sustainable operations (for the return from bottomless initial investment on R & D) and gaining durable patents rights (for exclusives rights for sales, and prior to this to receive national and international approval from the results on animal experiment and human experiment, especially on the pharmaceutical branch of biotechnology to prevent any undetected side-effects or safety concerns by using the products). [8] [9] [10] The utilization of biological processes, organisms or systems to produce products that are anticipated to improve human lives is termed biotechnology. [11] By contrast, bioengineering is generally thought of as a related field that more heavily emphasizes higher systems approaches (not necessarily the altering or using of biological materials directly ) for interfacing with and utilizing living things. Bioengineering is the application of the principles of engineering and natural sciences to tissues, cells, and molecules. This can be considered as the use of knowledge from working with and manipulating biology to achieve a result that can improve functions in plants and animals. [12] Relatedly, biomedical engineering is an overlapping field that often draws upon and applies biotechnology (by various definitions), especially in certain sub-fields of biomedical or chemical engineering such as tissue engineering , biopharmaceutical engineering , and genetic engineering . [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tissue_engineering_english.jpg/220px-Tissue_engineering_english.jpg",
+                "caption": "Principles of Tissue Engineering"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biotechnology",
+        "title": "Biotechnology",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Medicine",
+        "text": "In medicine, modern biotechnology has many applications in areas such as pharmaceutical drug discoveries and production, pharmacogenomics , and genetic testing (or genetic screening ). In 2021, nearly 40% of the total company value of pharmaceutical biotech companies worldwide were active in Oncology with Neurology and Rare Diseases being the other two big applications. [37] Pharmacogenomics (a combination of pharmacology and genomics ) is the technology that analyses how genetic makeup affects an individual's response to drugs. [38] Researchers in the field investigate the influence of genetic variation on drug responses in patients by correlating gene expression or single-nucleotide polymorphisms with a drug's efficacy or toxicity . [39] The purpose of pharmacogenomics is to develop rational means to optimize drug therapy, with respect to the patients' genotype , to ensure maximum efficacy with minimal adverse effects . [40] Such approaches promise the advent of \" personalized medicine \"; in which drugs and drug combinations are optimized for each individual's unique genetic makeup. [41] [42] Biotechnology has contributed to the discovery and manufacturing of traditional small molecule pharmaceutical drugs as well as drugs that are the product of biotechnology – biopharmaceutics . Modern biotechnology can be used to manufacture existing medicines relatively easily and cheaply. The first genetically engineered products were medicines designed to treat human diseases. To cite one example, in 1978 Genentech developed synthetic humanized insulin by joining its gene with a plasmid vector inserted into the bacterium Escherichia coli . Insulin, widely used for the treatment of diabetes, was previously extracted from the pancreas of abattoir animals (cattle or pigs). The genetically engineered bacteria are able to produce large quantities of synthetic human insulin at relatively low cost. [43] [44] Biotechnology has also enabled emerging therapeutics like gene therapy . The application of biotechnology to basic science (for example through the Human Genome Project ) has also dramatically improved our understanding of biology and as our scientific knowledge of normal and disease biology has increased, our ability to develop new medicines to treat previously untreatable diseases has increased as well. [44] Genetic testing allows the genetic diagnosis of vulnerabilities to inherited diseases , and can also be used to determine a child's parentage (genetic mother and father) or in general a person's ancestry . In addition to studying chromosomes to the level of individual genes, genetic testing in a broader sense includes biochemical tests for the possible presence of genetic diseases, or mutant forms of genes associated with increased risk of developing genetic disorders. Genetic testing identifies changes in chromosomes , genes, or proteins. [45] Most of the time, testing is used to find changes that are associated with inherited disorders. The results of a genetic test can confirm or rule out a suspected genetic condition or help determine a person's chance of developing or passing on a genetic disorder . As of 2011 several hundred genetic tests were in use. [46] [47] Since genetic testing may open up ethical or psychological problems, genetic testing is often accompanied by genetic counseling .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microarray2.gif/220px-Microarray2.gif",
+                "caption": "DNA microarray chip – some can do as many as a million blood tests at once."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/InsulinHexamer.jpg/220px-InsulinHexamer.jpg",
+                "caption": "Computer-generated image of insulin hexamers highlighting the threefold symmetry , the zinc ions holding it together, and the histidine residues involved in zinc binding"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biotechnology",
+        "title": "Biotechnology",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Blends",
+        "text": "Blends of biodiesel and conventional hydrocarbon-based diesel are most commonly distributed for use in the retail diesel fuel marketplace. Much of the world uses a system known as the \"B\" factor to state the amount of biodiesel in any fuel mix: [7] Blends of 20% biodiesel and lower can be used in diesel equipment with no, or only minor modifications, [8] although certain manufacturers do not extend warranty coverage if equipment is damaged by these blends. The B6 to B20 blends are covered by the ASTM D7467 specification. [9] Biodiesel can also be used in its pure form (B100), but may require certain engine modifications to avoid maintenance and performance problems. [10] Blending B100 with petroleum diesel may be accomplished by:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Biodiesel.JPG/170px-Biodiesel.JPG",
+                "caption": "Biodiesel sample"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Historical background",
+        "text": "Transesterification of a vegetable oil was conducted as early as 1853 by Patrick  Duffy, four decades before the first diesel engine became functional. [11] [12] Earlier processes for making lamp oil, were patented (1810, Prague) but not published in peer-reviewed publications. Rudolf Diesel 's prime model, a single 10 ft (3.05 m) iron cylinder with a flywheel at its base, ran on its own power for the first time in Augsburg , Germany, on 10 August 1893 running on nothing but peanut oil . In remembrance of this event, 10 August has been declared \" International Biodiesel Day \". [13] It is often reported that Diesel designed his engine to run on peanut oil, but this is not the case. Diesel stated in his published papers, \"at the Paris Exhibition in 1900 ( Exposition Universelle ) there was shown by the Otto Company a small Diesel engine, which, at the request of the French government ran on arachide (earth-nut or pea-nut) oil (see biodiesel), and worked so smoothly that only a few people were aware of it. The engine was constructed for using mineral oil, and was then worked on vegetable oil without any alterations being made. The French Government at the time thought of testing the applicability to power production of the Arachide, or earth-nut, which grows in considerable quantities in their African colonies, and can easily be cultivated there.\" Diesel himself later conducted related tests and appeared supportive of the idea. [14] In a 1912 speech Diesel said, \"the use of vegetable oils for engine fuels may seem insignificant today but such oils may become, in the course of time, as important as petroleum and the coal-tar products of the present time.\" Despite the widespread use of petroleum-derived diesel fuels, interest in vegetable oils as fuels for internal combustion engines was reported in several countries during the 1920s and 30s and later during World War II. Belgium , France, Italy, the United Kingdom, Portugal , Germany, Brazil , Argentina , Japan and China were reported to have tested and used vegetable oils as diesel fuels during this time. Some operational problems were reported due to the high viscosity of vegetable oils compared to petroleum diesel fuel, which results in poor atomization of the fuel in the fuel spray and often leads to deposits and coking of the injectors, combustion chamber and valves. Attempts to overcome these problems included heating of the vegetable oil, blending it with petroleum-derived diesel fuel or ethanol, pyrolysis and cracking of the oils. On 31 August 1937, Georges Chavanne of the University of Brussels (Belgium) was granted a patent for a \"Procedure for the transformation of vegetable oils for their uses as fuels\" (fr. \" Procédé de Transformation d’Huiles Végétales en Vue de Leur Utilisation comme Carburants \") Belgian Patent 422,877. This patent described the alcoholysis (often referred to as transesterification) of vegetable oils using ethanol (and mentions methanol) in order to separate the fatty acids from the glycerol by replacing the glycerol with short linear alcohols. This appears to be the first account of the production of what is known as \"biodiesel\" today. [15] This is similar (copy) to the patented methods used in the 18th century to make lamp-oil, and may be inspired by some old historical oil lamps, in some places. More recently, in 1977, Brazilian scientist Expedito Parente invented and submitted for patent, the first industrial process for the production of biodiesel. [16] This process is classified as biodiesel by international norms, conferring a \"standardized identity and quality. No other proposed biofuel has been validated by the motor industry.\" [17] As of 2010, Parente's company Tecbio is working with Boeing and NASA to certify bioquerosene (bio-kerosene), another product produced and patented by the Brazilian scientist. [18] Research into the use of transesterified sunflower oil , and refining it to diesel fuel standards, was initiated in South Africa in 1979. By 1983, the process for producing fuel-quality, engine-tested biodiesel was completed and published internationally. [19] An Austrian company, Gaskoks, obtained the technology from the South African Agricultural Engineers; the company erected the first biodiesel pilot plant in November 1987, and the first industrial-scale plant in April 1989 (with a capacity of 30,000 tons of rapeseed per annum). Throughout the 1990s, plants were opened in many European countries, including the Czech Republic , Germany and Sweden . France launched local production of biodiesel fuel (referred to as diester ) from rapeseed oil, which is mixed into regular diesel fuel at a level of 5%, and into the diesel fuel used by some captive fleets (e.g. public transportation ) at a level of 30%. Renault , Peugeot and other manufacturers have certified truck engines for use with up to that level of partial biodiesel; experiments with 50% biodiesel are underway. During the same period, nations in other parts of the world also saw local production of biodiesel starting up: by 1998, the Austrian Biofuels Institute had identified 21 countries with commercial biodiesel projects. 100% biodiesel is now available at many normal service stations across Europe.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Rudolf_Diesel.jpg/170px-Rudolf_Diesel.jpg",
+                "caption": "Rudolf Diesel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Properties",
+        "text": "The color of biodiesel ranges from clear to golden to dark brown, depending on the production method and the feedstock used to make the fuel. This also changes the resulting fuel properties. [20] In general, biodiesel is slightly miscible with water, has a high boiling point and low vapor pressure . The flash point of biodiesel can exceed 130 °C (266 °F), [21] significantly higher than that of petroleum diesel which may be as low as 52 °C (126 °F). [22] [23] Biodiesel has a density around ~0.88 g/cm 3 , higher than petrodiesel (~0.85 g/cm 3 ). [22] [23] The calorific value of biodiesel is about 37.27 MJ/kg. [24] This is 9% lower than regular Number 2 petrodiesel. Variations in biodiesel energy density is more dependent on the feedstock used than the production process. Still, these variations are less than for petrodiesel. [25] It has been claimed biodiesel gives better lubricity and more complete combustion thus increasing the engine energy output and partially compensating for the higher energy density of petrodiesel. [26] Biodiesel also contains virtually no sulfur [27] and although lacking sulfur compounds that in petrodiesel provide much of the lubricity, it has promising lubricating properties and cetane ratings compared to low sulfur diesel fuels and often serves as an additive to ultra-low-sulfur diesel (ULSD) fuel to aid with lubrication. [28] Biodiesel Fuels with higher lubricity may increase the usable life of high-pressure fuel injection equipment that relies on the fuel for its lubrication. Depending on the engine, this might include high pressure injection pumps, pump injectors (also called unit injectors ) and fuel injectors .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Biodiesel_3.jpg/220px-Biodiesel_3.jpg",
+                "caption": "Older diesel Mercedes are popular for running on biodiesel."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Applications",
+        "text": "Biodiesel can be used in pure form (B100) or may be blended with petroleum diesel at any concentration in most injection pump diesel engines. New extreme high-pressure (29,000 psi) common rail engines have strict factory limits of B5 or B20, depending on manufacturer. [29] Biodiesel has different solvent properties from petrodiesel, and will degrade natural rubber gaskets and hoses in vehicles (mostly vehicles manufactured before 1992), although these tend to wear out naturally and most likely will have already been replaced with FKM , which is nonreactive to biodiesel. Biodiesel has been known to break down deposits of residue in the fuel lines where petrodiesel has been used. [30] As a result, fuel filters may become clogged with particulates if a quick transition to pure biodiesel is made. Therefore, it is recommended to change the fuel filters on engines and heaters shortly after first switching to a biodiesel blend. [31]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Targray_Biodiesel_Railcar.png/220px-Targray_Biodiesel_Railcar.png",
+                "caption": "Targray Biofuels railcar transporting Biodiesel."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Railway usage",
+        "text": "British train operating company Virgin Trains West Coast claimed to have run the UK's first \"biodiesel train\", when a Class 220 was converted to run on 80% petrodiesel and 20% biodiesel. [42] [43] The British Royal Train on 15 September 2007 completed its first ever journey run on 100% biodiesel fuel supplied by Green Fuels Ltd. Prince Charles and Green Fuels managing director James Hygate were the first passengers on a train fueled entirely by biodiesel fuel. Since 2007, the Royal Train has operated successfully on B100 (100% biodiesel). [44] A government white paper also proposed converting large portions of the UK railways to biodiesel but the proposal was subsequently dropped in favour of further electrification. [45] Similarly, a state-owned short-line railroad in Eastern Washington ran a test of a 25% biodiesel / 75% petrodiesel blend during the summer of 2008, purchasing fuel from a biodiesel producer sited along the railroad tracks. [46] The train will be powered by biodiesel made in part from canola grown in agricultural regions through which the short line runs. Also in 2007, Disneyland began running the park trains on B98 (98% biodiesel). The program was discontinued in 2008 due to storage issues, but in January 2009, it was announced that the park would then be running all trains on biodiesel manufactured from its own used cooking oils. This is a change from running the trains on soy-based biodiesel. [47] In 2007, the historic Mt. Washington Cog Railway added the first biodiesel locomotive to its all-steam locomotive fleet. The fleet has climbed up the western slopes of Mount Washington in New Hampshire since 1868 with a peak vertical climb of 37.4 degrees. [48] In 2009, the Grand Canyon Railway started running engine 4960 on used cooking oil. On 8 July 2014, [49] the then Indian Railway Minister D.V. Sadananda Gowda announced in Railway Budget that 5% bio-diesel will be used in Indian Railways' Diesel Engines. [50]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Biodiesel_locomotive_at_Mount_Washington_Cog_Railway.JPG/220px-Biodiesel_locomotive_at_Mount_Washington_Cog_Railway.JPG",
+                "caption": "Biodiesel locomotive and its external fuel tank at Mount Washington Cog Railway"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Biodiesel in generators",
+        "text": "In 2001, UC Riverside installed a 6-megawatt backup power system that is entirely fueled by biodiesel. Backup diesel-fueled generators allow companies to avoid damaging blackouts of critical operations at the expense of high pollution and emission rates. By using B100, these generators were able to essentially eliminate the byproducts that result in smog, ozone, and sulfur emissions. [56] The use of these generators in residential areas around schools, hospitals, and the general public result in substantial reductions in poisonous carbon monoxide and particulate matter. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Biodiesel_rental_generator.jpg/170px-Biodiesel_rental_generator.jpg",
+                "caption": "Biodiesel is also used in rental generators"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Production",
+        "text": "Biodiesel is commonly produced by the transesterification of the vegetable oil or animal fat feedstock, and other non-edible raw materials such as frying oil, etc. There are several methods for carrying out this transesterification reaction including the common batch process, heterogeneous catalysts, [73] supercritical processes, ultrasonic methods, and even microwave methods. Chemically, transesterified biodiesel comprises a mix of mono- alkyl esters of long chain fatty acids . The most common form uses methanol (converted to sodium methoxide) to produce methyl esters (commonly referred to as Fatty Acid Methyl Ester – FAME) as it is the cheapest alcohol available, though ethanol can be used to produce an ethyl ester (commonly referred to as Fatty Acid Ethyl Ester – FAEE) biodiesel and higher alcohols such as isopropanol and butanol have also been used. Using alcohols of higher molecular weights improves the cold flow properties of the resulting ester, at the cost of a less efficient transesterification reaction. A lipid transesterification production process is used to convert the base oil to the desired esters. Any free fatty acids (FFAs) in the base oil are either converted to soap and removed from the process, or they are esterified (yielding more biodiesel) using an acidic catalyst. After this processing, unlike straight vegetable oil , biodiesel has combustion properties very similar to those of petroleum diesel, and can replace it in most current uses. The methanol used in most biodiesel production processes is made using fossil fuel inputs. However, there are sources of renewable methanol made using carbon dioxide or biomass as feedstock, making their production processes free of fossil fuels. [74] A by-product of the transesterification process is the production of glycerol . For every 1 tonne of biodiesel that is manufactured, 100 kg of glycerol are produced. Originally, there was a valuable market for the glycerol, which assisted the economics of the process as a whole. However, with the increase in global biodiesel production, the market price for this crude glycerol (containing 20% water and catalyst residues) has crashed. Research is being conducted globally to use this glycerol as a chemical building block (see chemical intermediate under Wikipedia article \" Glycerol \"). One initiative in the UK is The Glycerol Challenge. [75] Usually this crude glycerol has to be purified, typically by performing vacuum distillation. This is rather energy intensive. The refined glycerol (98%+ purity) can then be utilised directly, or converted into other products. The following announcements were made in 2007: A joint venture of Ashland Inc. and Cargill announced plans to make propylene glycol in Europe from glycerol [76] and Dow Chemical announced similar plans for North America. [77] Dow also plans to build a plant in China to make epichlorhydrin from glycerol. [78] Epichlorhydrin is a raw material for epoxy resins . Global biodiesel production reached 3.8 million tons in 2005. Approximately 85% of biodiesel production came from the European Union. [ citation needed ] [79]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bequer-B100-SOJA-SOYBEAM.jpg/170px-Bequer-B100-SOJA-SOYBEAM.jpg",
+                "caption": "Pure biodiesel (B-100) made from soybeans"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Efficiency and economic arguments",
+        "text": "Transitioning fully to biofuels could require immense tracts of land if traditional food crops are used (although non food crops can be utilized). The problem would be especially severe for nations with large economies, since energy consumption scales with economic output. [108] For third world countries, biodiesel sources that use marginal land could make more sense; e.g., pongam oiltree nuts grown along roads or jatropha grown along rail lines. [109] In tropical regions, such as Malaysia and Indonesia, plants that produce palm oil are being planted at a rapid pace to supply growing biodiesel demand in Europe and other markets. Scientists have shown that the removal of rainforest for palm plantations is not ecologically sound since the expansion of oil palm plantations poses a threat to natural rainforest and biodiversity. [110] It has been estimated in Germany that palm oil diesel has less than one third of the production costs of rapeseed biodiesel. [111] In the US, the production of biodiesel was reported in 2018 to support more than 64,000 jobs. [89] The growth in biodiesel also helps significantly increase GDP. In 2011, biodiesel created more than $3 billion in GDP. [112]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Diesel_prices.jpg/130px-Diesel_prices.jpg",
+                "caption": "In some countries biodiesel is less expensive than conventional diesel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Environmental impact of biodiesel",
+        "text": "The surge of interest in biodiesels has highlighted a number of environmental effects associated with its use. These potentially include reductions in greenhouse gas emissions , [129] deforestation , pollution and the rate of biodegradation . According to the Renewable Fuel Standards Program Regulatory Impact Analysis , released by the Environmental Protection Agency (EPA) of the United States in February 2010, biodiesel from soy oil results, on average, in a 57% reduction in greenhouse gases compared to petroleum diesel, and biodiesel produced from waste grease results in an 86% reduction. See chapter 2.6 of the EPA report for more detailed information. However, environmental organizations, for example, Rainforest Rescue [130] and Greenpeace , [131] criticize the cultivation of plants used for biodiesel production, e.g., oil palms, soybeans and sugar cane. The deforestation of rainforests exacerbates climate change and sensitive ecosystems are destroyed to clear land for oil palm, soybean and sugar cane plantations. Moreover, that biofuels contribute to world hunger, since arable land is no longer used for growing foods. The Environmental Protection Agency published data in January 2012, showing that biofuels made from palm oil will not count towards the renewable fuels mandate of the United States as they are not climate-friendly. [132] Environmentalists welcome the conclusion because the growth of oil palm plantations has driven tropical deforestation, for example, in Indonesia and Malaysia. [132] [133] Indonesia produces biodiesel primarily from palm oil . Since agricultural land is limited, in order to plant monocultures of oil palms , land used for other cultivations or the tropical forest need to be cleared. A major environmental threat is then the destruction of rainforests in Indonesia. [134] The environmental impact of biodiesel is diverse and not clearcut. An often mentioned incentive for using biodiesel is its capacity to lower greenhouse gas emissions compared to those of fossil fuels . Whether this is true or not depends on many factors.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Riau_palm_oil_2007.jpg/220px-Riau_palm_oil_2007.jpg",
+                "caption": "Deforestation in Indonesia , to make way for an oil palm plantation."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Greenhouse gas emissions",
+        "text": "A general critique against biodiesel is the land use change, which have potential to cause even more emissions than what would be caused by using fossil fuels alone. [137] Yet this problem would be fixed with algal biofuel which can use land unsuitable for agriculture. Carbon dioxide is one of the major greenhouse gases . Although the burning of biodiesel produces carbon dioxide emissions similar to those from ordinary fossil fuels, the plant feedstock used in the production absorbs carbon dioxide from the atmosphere when it grows. Plants absorb carbon dioxide through a process known as photosynthesis which allows it to store energy from sunlight in the form of sugars and starches. After the biomass is converted into biodiesel and burned as fuel the energy and carbon is released again. Some of that energy can be used to power an engine while the carbon dioxide is released back into the atmosphere. When considering the total amount of greenhouse gas emissions it is therefore important to consider the whole production process and what indirect effects such production might cause. The effect on carbon dioxide emissions is highly dependent on production methods and the type of feedstock used. Calculating the carbon intensity of biofuels is a complex and inexact process, and is highly dependent on the assumptions made in the calculation. A calculation usually includes: Other factors can be very significant but are sometimes not considered. These include: If land use change is not considered and assuming today's production methods, biodiesel from rapeseed and sunflower oil produce 45%-65% lower greenhouse gas emissions than petrodiesel. [138] [139] [140] [141] However, there is ongoing research to improve the efficiency of the production process. [138] [140] Biodiesel produced from used cooking oil or other waste fat could reduce CO 2 emissions by as much as 85%. [135] As long as the feedstock is grown on existing cropland, land use change has little or no effect on greenhouse gas emissions. However, there is concern that increased feedstock production directly affects the rate of deforestation. Such clearcutting cause carbon stored in the forest, soil and peat layers to be released. The amount of greenhouse gas emissions from deforestation is so large that the benefits from lower emissions (caused by biodiesel use alone) would be negligible for hundreds of years. [135] [137] Biofuel produced from feedstock such as palm oil could therefore cause much higher carbon dioxide emissions than some types of fossil fuels. [142]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BioDieselFootprint.jpg/350px-BioDieselFootprint.jpg",
+                "caption": "Calculation of Carbon Intensity of Soy biodiesel grown in the US and burnt in the UK, using figures calculated by the UK government for the purposes of the Renewable transport fuel obligation . [135]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/BiodieselsCountryOfOrigin.jpg/350px-BiodieselsCountryOfOrigin.jpg",
+                "caption": "Graph of UK figures for the Carbon Intensity of Biodiesels and fossil fuels . This graph assumes that all biodiesel is used in its country of origin. It also assumes that the diesel is produced from pre-existing croplands rather than by changing land use [136]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Jatropha",
+        "text": "Several groups in various sectors are conducting research on Jatropha curcas , a poisonous shrub-like tree that produces seeds considered by many to be a viable source of biodiesel feedstock oil. [172] Much of this research focuses on improving the overall per acre oil yield of Jatropha through advancements in genetics, soil science, and horticultural practices. SG Biofuels , a San Diego-based Jatropha developer, has used molecular breeding and biotechnology to produce elite hybrid seeds of Jatropha that show significant yield improvements over first generation varieties. [173] SG Biofuels also claims that additional benefits have arisen from such strains, including improved flowering synchronicity, higher resistance to pests and disease, and increased cold weather tolerance. [174] Plant Research International, a department of the Wageningen University and Research Centre in the Netherlands, maintains an ongoing Jatropha Evaluation Project (JEP) that examines the feasibility of large scale Jatropha cultivation through field and laboratory experiments. [175] The Center for Sustainable Energy Farming (CfSEF) is a Los Angeles-based non-profit research organization dedicated to Jatropha research in the areas of plant science, agronomy, and horticulture. Successful exploration of these disciplines is projected to increase Jatropha farm production yields by 200–300% in the next ten years. [176]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jatropha_Biodiesel_-_DRDO_-_Pride_of_India_-_Exhibition_-_100th_Indian_Science_Congress_-_Kolkata_2013-01-03_2579.JPG/150px-Jatropha_Biodiesel_-_DRDO_-_Pride_of_India_-_Exhibition_-_100th_Indian_Science_Congress_-_Kolkata_2013-01-03_2579.JPG",
+                "caption": "Jatropha Biodiesel from DRDO , India."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Economic and production indicators",
+        "text": "Ethanol production in Brazil uses sugarcane as feedstock and relies on first-generation technologies based on the use of the sucrose content of sugarcane. Ethanol yield has grown 3.77% per year since 1975 and productivity gains have been based on improvements in the agricultural and industrial phases of the production process. Further improvements on best practices are expected to allow in the short to mid-term an average ethanol productivity of 9,000 liters per hectare . [85] There were 378 ethanol plants operating in Brazil by July 2008, 126 dedicated to ethanol production and 252 producing both sugar and ethanol. There are 15 additional plants dedicated exclusively to sugar production. [86] These plants have an installed capacity of crushing 538 million metric tons of sugarcane per year, and there are 25 plants under construction expected to be on line by 2009 that will add an additional capacity of crushing 50 million tons of sugarcane per year. [86] The typical plant costs approximately US$150 million and requires a nearby sugarcane plantation of 30,000 hectares. [85] Ethanol production is concentrated in the Central and Southeast regions of the country, led by São Paulo state , with around 60% of the country's total ethanol production, followed by Paraná (8%), Minas Gerais (8%) and Goiás (5%). [87] These two regions have been responsible for 90% of Brazil's ethanol production since 2005 [11] [87] and the harvest season goes from April to November. The Northeast Region is responsible for the remaining 10% of ethanol production, led by Alagoas with 2% of total production. [87] The harvest season in the North-Northeast region goes from September to March, and the average productivity in this region is lower than the South-Central region. [88] Due to the difference in the two main harvest seasons, Brazilian statistics for sugar and ethanol production are commonly reported on a harvest two-year basis rather than on a calendar year. [ citation needed ] For the 2008/09 harvest it is expected that about 44% of the sugarcane will be used for sugar, 1% for alcoholic beverages , and 55% for ethanol production. [89] An estimate of between 24.9 billion litres (6.58 billion U.S. liquid gallons ) [86] and 27.1 billion litres (7.16 billion gallons) [88] of ethanol are expected to be produced in 2008/09 harvest year, with most of the production being destined for the internal market, and only 4.2 billion liters (1.1 billion gallons) for exports, with an estimated 2.5 billion liters (660 million gallons) destined for the US market. [89] Sugarcane cultivated area grew from 7 million to 7.8 million hectares of land from 2007 to 2008, mainly using abandoned pasture lands. [89] In 2008 Brazil has 276 million hectares of arable land, 72% use for pasture, 16.9% for grain crops, and 2.8% for sugarcane, meaning that ethanol is just requiring approximately 1.5% of all arable land available in the country. [89] As sugar and ethanol share the same feedstock and their industrial processing is fully integrated, formal employment statistics are usually presented together. In 2000 there were 642,848 workers employed by these industries, and as ethanol production expanded, by 2005 there were 982,604 workers employed in the sugarcane cultivation and industrialization, including 414,668 workers in the sugarcane fields, 439,573 workers in the sugar mills, and 128,363 workers in the ethanol distilleries. [90] While employment in the ethanol distilleries grew 88.4% from 2000 to 2005, employment in the sugar fields just grew 16.2% as a direct result of expansion of mechanical harvest instead manual harvesting, which avoids burning the sugarcane fields before manual cutting and also increases productivity. The states with the most employment in 2005 were São Paulo (39.2%), Pernambuco (15%), Alagoas (14.1%), Paraná (7%), and Minas Gerais (5.6%). [90]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Historical_trend_alcohol_production_by_ethanol_type_Brazil_1990_2008.png/250px-Historical_trend_alcohol_production_by_ethanol_type_Brazil_1990_2008.png",
+                "caption": "Production by harvest year 1990/91 to 2007/08. [87] Green is hydrated ethanol (E100) and yellow is anhydrous ethanol use for gasohol blending."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ethanol_fuel_in_Brazil",
+        "title": "Ethanol fuel in Brazil",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Agricultural technology",
+        "text": "A key aspect for the development of the ethanol industry in Brazil was the investment in agricultural research and development by both the public and private sector. [10] The work of EMBRAPA , the state-owned company in charge for applied research on agriculture, together with research developed by state institutes and universities, especially in the State of São Paulo, have allowed Brazil to become a major innovator in the fields of biotechnology and agronomic practices, [98] resulting in the most efficient agricultural technology for sugarcane cultivation in the world. [10] Efforts have been concentrated in increasing the efficiency of inputs and processes to optimize output per hectare of feedstock, and the result has been a threefold increase of sugarcane yields in 29 years, as Brazilian average ethanol yields went from 2,024 liters per ha in 1975 to 5,917 liters per ha in 2004; allowing the efficiency of ethanol production to grow at a rate of 3.77% per year. [85] Brazilian biotechnologies include the development of sugarcane varieties that have a larger sugar or energy content, one of the main drivers for high yields of ethanol per unit of planted area. The increase of the index total recoverable sugar (TRS) from sugarcane has been very significant, 1.5% per year in the period 1977 to 2004, resulting in an increase from 95 to 140 kg/ha. [85] Innovations in the industrial process have allowed an increase in sugar extraction in the period 1977 to 2003. The average annual improvement was 0.3%; some mills have already reached extraction efficiencies of 98%. [85] Biotechnology research and genetic improvement have led to the development of strains that are more resistant to disease, bacteria, and pests, and also have the capacity to respond to different environments, thus allowing the expansion of sugarcane cultivation to areas previously considered inadequate for such cultures. [98] [99] [100] By 2008 more than 500 sugarcane varieties are cultivated in Brazil, and 51 of them were released just during the last ten years. Four research programs, two private and two public, are devoted to further genetic improvement. [99] [100] Since the mid nineties, Brazilian biotechnology laboratories have developed transgenic varieties, still non commerciallized. Identification of 40,000 cane genes was completed in 2003 and there are a couple dozen research groups working on the functional genome , still on the experimental phase, but commercial results are expected within five years. [101] Also, there is ongoing research regarding sugarcane biological nitrogen fixation, with the most promising plant varieties showing yields three times the national average in soils of very low fertility, thus avoiding nitrogenous fertilization. [102] There is also research for the development of second-generation or cellulosic ethanol . [10] In São Paulo state an increase of 12% in sugar cane yield and 6.4% in sugar content is expected over the next decade. This advance combined with an expected 6.2% improvement in fermentation efficiency and 2% in sugar extraction, may increase ethanol yields by 29%, raising average ethanol productivity to 9,000 liters/ha. [85] Approximately US$50 million has recently been allocated for research and projects focused on advancing the obtention of ethanol from sugarcane in São Paulo state. [103]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Canaviais_Sao_Paulo_01_2008_06.jpg/220px-Canaviais_Sao_Paulo_01_2008_06.jpg",
+                "caption": "Sugarcane ( Saccharum officinarum ) plantation ready for harvest, Ituverava , São Paulo State."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Goldemberg_2008_Ethanol_productivity_in_Brazil_1754-6834-1-6-4_Fig_4.jpg/220px-Goldemberg_2008_Ethanol_productivity_in_Brazil_1754-6834-1-6-4_Fig_4.jpg",
+                "caption": "Evolution of the ethanol productivity per hectare of sugarcane planted in Brazil between 1975 and 2004. Source: Goldemberg (2008). [85]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Piracicaba_10_2008_185_Costa_Pinta_Distillary.jpg/220px-Piracicaba_10_2008_185_Costa_Pinta_Distillary.jpg",
+                "caption": "Typical ethanol distillery and dehydration facility, Piracicaba , São Paulo State."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Monthly_variation_of_ethanol_producer_prices_2007_Brazil.png/220px-Monthly_variation_of_ethanol_producer_prices_2007_Brazil.png",
+                "caption": "Variation of ethanol prices to producers in 2007 reflecting the harvest season supply. [97] Yellow is for anhydrous ethanol and green is for hydrated ethanol ( R$ per liter)."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Piracicaba_10_2008_186_Ethanol_distribution_with_cistern_trucks.jpg/220px-Piracicaba_10_2008_186_Ethanol_distribution_with_cistern_trucks.jpg",
+                "caption": "Ethanol fuel ready for distribution, Piracicaba , São Paulo State."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ethanol_fuel_in_Brazil",
+        "title": "Ethanol fuel in Brazil",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Electricity generation from bagasse",
+        "text": "Since the early days, bagasse was burnt in the plant to provide the energy required for the industrial part of the process. Today, the Brazilian best practice uses high-pressure boilers that increases energy recovery , allowing most sugar-ethanol plants to be energetically self-sufficient and even sell surplus electricity to utilities. [85] By 2000, the total amount of sugarcane bagasse produced per year was 50 million tons/ dry basis out of more than 300 million tons of harvested sugarcane. Several authors estimated a potential power generation from the use of sugarcane bagasse ranging from 1,000 to\n9,000 MW , depending on the technology used and the use of harvest trash. One utility in São Paulo is buying more than 1% of its electricity from sugar mills, with a production capacity of 600 MW for self-use and 100 MW for sale. [107] According to analysis from Frost & Sullivan, Brazil's sugarcane bagasse used for power generation has reached 3.0 GW in 2007, and it is expected to reach 12.2 GW in 2014. The analysis also found that sugarcane bagasse cogeneration accounts for 3% of the total Brazilian energy matrix. [108] The energy is especially valuable to utilities because it is produced mainly in the dry season when hydroelectric dams are running low. According to a study commissioned by the Dutch government in 2006 to evaluate the sustainability of Brazilian bioethanol \"there are also substantial gains possible in the efficiency of electricity use and generation: The electricity used for distillery operations has been estimated at 12.9 kWh/tonne cane, with a best available technology rate of 9.6 kWh/tonne cane. For electricity generation the efficiency could be increased from 18 kWh/tonne cane presently, to 29.1 kWh/tonne cane maximum. The production of surplus electricity could in theory be increased from 5.3 kWh/tonne cane to 19 kWh/tonne cane.\" [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Neat_ethanol_car_Piracicaba_05_2009_5664.JPG/220px-Neat_ethanol_car_Piracicaba_05_2009_5664.JPG",
+                "caption": "Neat ethanol car fueling E100 at a Piracicaba gas station, São Paulo ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ethanol_fuel_in_Brazil",
+        "title": "Ethanol fuel in Brazil",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Overall energy use",
+        "text": "Energy-use associated with the production of sugarcane ethanol derives from three primary sources: the agricultural sector, the industrial sector, and the distribution sector. In the agricultural sector, 35.98 GJ of energy are used to plant, maintain, and harvest one hectare (10,000 m2) of sugarcane for usable biofuel. This includes energy from numerous inputs, including nitrogen, phosphate, potassium oxide, lime, seed, herbicides, insecticides, labor and diesel fuel. The industrial sector, which includes the milling and refining sugarcane and the production of ethanol fuel, uses 3.63 GJ of energy and generates 155.57 GJ of energy per hectare of sugarcane plantation. Scientists estimate that the potential power generated from the cogeneration of bagasse could range from 1,000 to 9,000 MW, depending on harvest and technology factors. In Brazil, this is about 3% of the total energy needed. The burning of bagasse can generate 18 kilowatt-hours, or 64.7 MJ per Mg of sugarcane. Distillery facilities require about 45 MJ to operate, leaving a surplus energy supply of 19.3 MJ, or 5.4 kWh. In terms of distribution, researchers calculates sugarcane ethanol's transport energy requirement to be 0.44 GJ per cubic-meter, thus one hectare of land would require 2.82 GJ of energy for successful transport and distribution.  After taking all three sectors into account, the EROEI (Energy Return over Energy Invested) for sugarcane ethanol is about 8. [110] There are several improvements to the industrial processes, such as adopting a hydrolysis process to produce ethanol instead of surplus electricity, or the use of advanced boiler and turbine technology to increase the electricity yield, or a higher use of excess bagasse and harvest trash currently left behind in the fields, that together with various other efficiency improvements in sugarcane farming and the distribution chain have the potential to allow further efficiency increases, translating into higher yields, lower production costs, and also further improvements in the energy balance and the reduction of greenhouse gas emissions . [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Zona_da_Mata_2.jpg/220px-Zona_da_Mata_2.jpg",
+                "caption": "Sugarcane plantation in the State of Pernambuco ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ethanol_fuel_in_Brazil",
+        "title": "Ethanol fuel in Brazil",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Prices and effect on oil consumption",
+        "text": "Most automobiles in Brazil run either on hydrous alcohol ( E100 ) or on gasohol ( E25 blend ), as the mixture of 25% anhydrous ethanol with gasoline is mandatory in the entire country. [16] Since 2003, dual-fuel ethanol flex vehicles that run on any proportion of hydrous ethanol and gasoline have been gaining popularity.  These have electronic sensors that detect the type of fuel and adjust the engine combustion to match, so users can choose the cheapest available fuel. [2] Sales of flex fuel vehicles reached 9.3 million by December 2009, representing 39% of the passenger vehicle fleet. [142] By mid-2010 there were 70 flex models available in the market [22] and production by December 2010 reached more than 12.5 million flex vehicles including more than 500 thousand flex fuel motorcycles. [42] [44] [74] [75] Due to the lower energy content of ethanol fuel, full flex-fuel vehicles get fewer miles per gallon. Ethanol price has to be between 25 and 30% cheaper per gallon to reach the break even point. [3] As a rule of thumb , Brazilian consumers are frequently advised by the media to use more alcohol than gasoline in their mix only when ethanol prices are 30% lower or more than gasoline, as ethanol price fluctuates heavily depending on the harvest yields and seasonal fluctuation of sugarcane harvest. [143] [144] Since 2005, ethanol prices have been very competitive without subsidies, [2] even with gasoline prices kept constant in local currency since mid-2005, [145] at a time when oil was just approaching US$60 a barrel. However, Brazilian gasoline taxes are high, around 54 percent, [146] while ethanol fuel taxes are lower and vary between 12% and 30%, depending on the state. [147] As of October 2008 the average price of E25 gasoline was $4.39 per gallon [148] while the average price for ethanol was US$2.69 per gallon. [149] This differential in taxation favors ethanol fuel consumption, and by the end of July 2008, when oil prices were close to its latest peak and the Brazilian real exchange rate to the US dollar was close to its most recent minimum, the average gasoline retail price at the pump in Brazil reached US$6.00 per gallon. [146] The price ratio between gasoline and ethanol fuel has been well above 30 percent during this period for most states, except during low sugar cane supply between harvests and for states located far away from the ethanol production centers. According to Brazilian producers, ethanol can remain competitive if the price of oil does not fall below US$30 a barrel. [4] By 2008 consumption of ethanol fuel by the Brazilian fleet of light vehicles, as pure ethanol and in gasohol, is replacing gasoline at the rate of about 27,000 cubic meters per day, and by February 2008 the combined consumption of anhydrous and hydrated ethanol fuel surpassed 50 percent of the fuel that would be needed to run the light vehicle fleet on pure gasoline alone. Monthly consumption of anhydrous ethanol for the mandatory E25 blend, together with hydrous ethanol used by flex vehicles, reached 1.432 billion liters, while pure gasoline consumption was 1.411 billion liters. [28] [29] Despite this volumetric parity, when expressed in terms of energy equivalent ( toe ), sugarcane ethanol represented 17.6 percent of the country's total energy consumption by the transport sector in 2008, while gasoline represented 23.3 percent and diesel 49.2 percent. [30] For the first time since 2003 sales of hydrous ethanol fell in 2010, with a decrease of 8.5 percent as compared to 2009. Total consumption of both hydrous and anhydrous ethanol fell by 2.9 percent while gasoline consumption increased by 17.5 percent. Despite the reduction in ethanol consumption, total ethanol sales reached 22.2 billion liters while pure gasoline consumption was 22.7 billion liters, keeping the market share for each fuel close to 50 percent. The decrease in hydrous ethanol consumption was due mainly to high sugar prices in the international markets, which reached a 30-year high in 2010. This peak in sugar prices caused sugarcane processing plants to produce more sugar than ethanol, and as supply contracted, E100 prices increased to the point that several times during 2010 the price of hydrous ethanol was less than 30 percent cheaper than gasoline. Another factor that contributed to this shift was the increase sales of imported gasoline only vehicles that took place during 2010. [134] [135] [136]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fuel_prices_at_Rio_%26_Sao_Paulo_2008.jpg/220px-Fuel_prices_at_Rio_%26_Sao_Paulo_2008.jpg",
+                "caption": "Alcohol and gasoline prices per liter at Rio de Janeiro (left) and São Paulo (right), corresponding to a price ratio of E100 ethanol to E25 gasoline of 0.64 and 0.56."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Historical_trend_ethanol_production_by_region_Brazil_1990_2008.png/220px-Historical_trend_ethanol_production_by_region_Brazil_1990_2008.png",
+                "caption": "Historical variation of ethanol production by region from 1990/91 to 2006/07 (harvest year). [87] Light green is the production for the State of São Paulo."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ethanol_fuel_in_Brazil",
+        "title": "Ethanol fuel in Brazil",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Ethanol diplomacy",
+        "text": "In March 2007, \"ethanol diplomacy\" was the focus of President George W. Bush 's Latin American tour, in which he and Brazil's president, Luiz Inácio Lula da Silva , were seeking to promote the production and use of sugar cane–based ethanol throughout Latin America and the Caribbean . The two countries also agreed to share technology and set international standards for biofuels. [171] The Brazilian sugar cane technology transfer will permit various Central American countries, such as Honduras , Nicaragua , Costa Rica and Panama , several Caribbean countries, and various Andean Countries tariff-free trade with the U.S. thanks to existing concessionary trade agreements. [ citation needed ] Even though the U.S. has imposed a US$0.54 tariff on every gallon of imported ethanol since 1980, [4] [119] the Caribbean nations and Central American countries are exempt from such duties based on the benefits granted by the Caribbean Basin Initiative (CBI) . [116] CBI provisions allow tariff-free access to the US market from ethanol produced from foreign feedstock (outside CBI countries) up to 7% of the previous year US consumption. Also additional quotas are allowed if the beneficiary countries produce at least 30% of the ethanol from local feedstocks up to an additional 35 million gallons (132.5 million liters). [172] Thus, several countries have been importing hydrated ethanol from Brazil, processing it at local distilleries to dehydrate it, and then re-exporting it as anhydrous ethanol . [173] American farmers have complained about this loophole to legally bypass the tariff. [174] [175] The 2005 Dominican Republic – Central America Free Trade Agreement (CAFTA) maintained the benefits granted by the CBI, and CAFTA provisions established country-specific shares for Costa Rica and El Salvador within the overall quota. An initial annual allowance was established for each country, with gradually increasing annual levels of access to the US market. [172] The expectation is that using Brazilian technology for refining sugar cane–based ethanol, such countries could become net exporters to the United States in the short-term. [176] In August 2007, Brazil's president toured Mexico and several countries in Central America and the Caribbean to promote Brazilian ethanol technology. [177] The Memorandum of Understanding (MOU) that the American and Brazilian presidents signed in March 2007 may bring Brazil and the United States closer on energy policy, but it is not clear whether there has been substantive progress implementing the three pillars found in that agreement. [178] Brazil has also extended its technical expertise to several African countries, including Ghana , [179] Mozambique , [180] Angola , [181] and Kenya . [182] This effort is led by EMBRAPA , the state-owned company in charge for applied research on agriculture, and responsible for most of the achievements in increasing sugarcane productivity during the last thirty years. Another 15 African countries have shown interest in receiving Brazilian technical aid to improve sugarcane productivity and to produce ethanol efficiently. [179] Brazil also has bilateral cooperation agreements with several other countries in Europe and Asia. [183] As President Lula wrote for The Economist [184] regarding Brazil's global agenda:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bushlulapetrobras09032007.jpg/220px-Bushlulapetrobras09032007.jpg",
+                "caption": "Presidents Luiz Inácio Lula da Silva and George W. Bush during Bush's visit to Brazil, March 2007."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Etanolbuss%2C_kungen.jpg/220px-Etanolbuss%2C_kungen.jpg",
+                "caption": "President Luiz Inácio Lula da Silva and King Carl XVI Gustaf of Sweden inspecting one of the 400 buses running on ED95 in Stockholm ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Embrapa_gana.jpg/220px-Embrapa_gana.jpg",
+                "caption": "EMBRAPA 's African Regional Office in Ghana ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ethanol_fuel_in_Brazil",
+        "title": "Ethanol fuel in Brazil",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Energy balance",
+        "text": "One of the main concerns about bioethanol production is the energy balance , the total amount of energy input into the process compared to the energy released by burning the resulting ethanol fuel. This balance considers the full cycle of producing the fuel, as cultivation, transportation and production require energy, including the use of oil and fertilizers. A comprehensive life cycle assessment commissioned by the State of São Paulo found that Brazilian sugarcane-based ethanol has a favorable energy balance, varying from 8.3 for average conditions to 10.2 for best practice production. [11] This means that for average conditions one unit of fossil-fuel energy is required to create 8.3 energy units from the resulting ethanol. These findings have been confirmed by other studies. [104] [106] [185]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/BioethanolsCountryOfOrigin.jpg/220px-BioethanolsCountryOfOrigin.jpg",
+                "caption": "UK estimates for the carbon intensity of bioethanol and fossil fuels . [186] As shown, Brazilian ethanol from sugarcane is the most efficient biofuel currently under commercial production in terms of GHG emission reduction. [104]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ethanol_fuel_in_Brazil",
+        "title": "Ethanol fuel in Brazil",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Deforestation",
+        "text": "Other criticism have focused on the potential for clearing rain forests and other environmentally valuable land for sugarcane production, such as the Amazon , the Pantanal or the Cerrado . [159] [163] [164] [188] [209] Embrapa and UNICA have rebutted this concern explaining that 99.7% of sugarcane plantations are located at least 2,000 kilometres (1,200 mi) from the Amazonia, and expansion during the last 25 years took place in the Center-South region, also far away from the Amazonia, the Pantanal or the Atlantic forest. In São Paulo state growth took place in abandoned pasture lands. [99] [100] [219] The impact assessment regarding future changes in land use, forest protection and risks on biodiversity conducted as part of the study commissioned by the Dutch government [104] concluded that \"the direct impact of cane production on biodiversity is limited, because cane production replaces mainly pastures and/or food crop and sugar cane production takes place far from the major biomes in Brazil (Amazon Rain Forest, Cerrado, Atlantic Forest, Caatinga, Campos Sulinos and Pantanal).\" However, \"the indirect impacts from an increase of the area under sugar cane production are likely more severe. The most important indirect impact would be an expansion of the area agricultural land at the expense of cerrados. The cerrados are an important biodiversity reserve. These indirect impacts are difficult to quantify and there is a lack of practically applicable criteria and indicators.\" [104] In order to guarantee a sustainable development of ethanol production, in September 2009 the government issued by decree a countrywide agroecological land use zoning to restrict sugarcane growth in or near environmentally sensitive areas such as the Pantanal wetlands , the Amazon Rainforest and the Upper Paraguay River Basin. [220] [221] [222] The installation of new ethanol production plants will not be permitted on these locations, and only existing plants and new ones with environmental licensed already approved before September 17, 2009, will be allowed to remain operating in these sensitive areas. According to the new criteria, 92.5% of the Brazilian territory is not suitable for sugarcane plantation. The government considers that the suitable areas are more than enough to meet the future demand for ethanol and sugar in the domestic and international markets foreseen for the next decades. [221] [222]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Goldemberg_2008_Brazil_sugarcane_regions_1754-6834-1-6-1_Fig_1.jpg/220px-Goldemberg_2008_Brazil_sugarcane_regions_1754-6834-1-6-1_Fig_1.jpg",
+                "caption": "Location of environmentally valuable areas with respect to sugarcane plantations. São Paulo , located in the Southeast Region of Brazil , concentrates two-thirds of sugarcane cultures. [85]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ethanol_fuel_in_Brazil",
+        "title": "Ethanol fuel in Brazil",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Social implications",
+        "text": "Sugarcane has had an important social contribution to some of the poorest people in Brazil by providing income usually above the minimum wage , and a formal job with fringe benefits. [104] [223] Formal employment in Brazil accounts an average 45% across all sectors, while the sugarcane sector has a share of 72.9% formal jobs in 2007, up from 53.6% in 1992, and in the more developed sugarcane ethanol industry in São Paulo state formal employment reached 93.8% in 2005. [223] Average wages in sugar cane and ethanol production are above the official minimum wage, but minimum wages may be insufficient to avoid poverty. [104] The North-Northeast regions stands out for having much lower levels of education among workers and lower monthly income. The average number workers with 3 or less school years in Brazil is 58.8%, while in the Southeast this percentage is 46.2%, in the Northeast region is 76,4%. [223] Therefore, earnings in the Center-South are not surprisingly higher than those in the North-Northeast for comparable levels of education. [104] In 2005 sugarcane harvesting workers in the Center-South region received an average wage 58.7% higher than the average wage in the North-Northeast region. [223] The main social problems are related to cane cutters which do most of the low-paid work related to ethanol production. [104] The total number of permanent employees in the sector fell by one-third between 1992 and 2003, in part due to the increasing reliance on mechanical harvesting, especially from the richer and more mature sugarcane producers of São Paulo state. During the same period, the share of temporary or seasonal workers has fluctuated, first declining and then increasing in recent years to about one-half of the total jobs in the sector, but in absolute terms the number of temporary workers has declined also. [104] The sugarcane sector in the poorer Northeast region is more labor-intensive as production in this region represents only 18.6% of the country's total production but employs 44.3% of worker force in the sugarcane sector. [223] The manual harvesting of sugarcane has been associated with hardship and poor working conditions. [4] [104] [209] In this regard, the study commissioned by the Dutch government [104] confirmed that the main problem is indeed related to manual cane harvesting. A key problem in working conditions is the high work load. As a result of mechanization the workload per worker has increased from 4 to 6 ton per day in the eighties to 8 to 10 ton per day in the nineties, up to 12 to 15 ton per day in 2007. If the quota is not fulfilled, workers can be fired. [4] [104] Producers say this problem will disappear with greater mechanization in the next decade. [4] Also, as mechanization of the harvesting is increasing and only feasible in flat terrain, more workers are being used in areas where conditions are not suitable for mechanized harvesting equipment, such as rough areas where the crops are planted irregularly, making working conditions harder and more hazardous. [104] Also unhealthy working conditions and even cases of slavery and deaths from overwork (cane cutting) have been reported, [209] but these are likely worst-case examples. [104] Even though sufficiently strict labor laws are present in Brazil, enforcement is weak. [104] Displacement and seasonal labor also implies physical and cultural disruption of multifunctional family farms and traditional communities. [209] Regarding social responsibility the ethanol production sector maintains more than 600 schools, 200 nursery centers and 300 day care units, as legislation requires that 1% of the net sugar cane price and 2% of the net ethanol price must be devoted to medical, dental, pharmaceutical, sanitary, and educational services for sugar cane workers. In practice more than 90% of the mills provide health and dental care, transportation and collective life insurance, and over 80% provide meals and pharmaceutical care. However, for the temporary low wage workers in cane cutting these services may not be available. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Trabalho.JPG/220px-Trabalho.JPG",
+                "caption": "Typical sugarcane worker during the harvest season, São Paulo state."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ethanol_fuel_in_Brazil",
+        "title": "Ethanol fuel in Brazil",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Effect on food prices",
+        "text": "Some environmentalists , such as George Monbiot , have expressed fears that the marketplace will convert crops to fuel for the rich, while the poor starve and biofuels cause environmental problems. [224] Environmental groups have raised concerns about this trade-off for several years. [188] [225] [226] [227] The food vs fuel debate reached a global scale in 2008 as a result of the international community 's concerns regarding the steep increase in food prices . In April 2008, Jean Ziegler , back then United Nations Special Rapporteur on the Right to Food, called biofuels a \"crime against humanity\", [228] [229] a claim he had previously made in October 2007, when he called for a 5-year ban for the conversion of land for the production of biofuels. [230] [231] Also in April 2008, the World Bank 's President, Robert Zoellick , stated that \"While many worry about filling their gas tanks, many others around the world are struggling to fill their stomachs. And it's getting more and more difficult every day.\" [232] [233] [234] Luiz Inácio Lula da Silva gave a strong rebuttal, calling these claims \"fallacies resulting from commercial interests\", and putting the blame instead on U.S. and European agricultural subsidies , and a problem restricted to U.S. ethanol produced from maize. The Brazilian President has also claimed on several occasions that his country's sugar cane–based ethanol industry has not contributed to the food price crises. [5] [156] [235] A report released by Oxfam in June 2008 [236] criticized biofuel policies of rich countries as neither a solution to the climate crisis nor the oil crisis, while contributing to the food price crisis. The report concluded that from all biofuels available in the market, Brazilian sugarcane ethanol is \"far from perfect\" but it is the most favorable biofuel in the world in term of cost and greenhouse gas balance. The report discusses some existing problems and potential risks, and asks the Brazilian government for caution to avoid jeopardizing its environmental and social sustainability. The report also says that: \"Rich countries spent up to $15 billion last year supporting biofuels while blocking cheaper Brazilian ethanol, which is far less damaging for global food security.\" [237] [238] A World Bank research report published in July 2008 [239] found that from June 2002 to June 2008 \"biofuels and the related consequences of low grain stocks, large land use shifts, speculative activity and export bans\" accounted for 70-75% of total price rises. The study found that higher oil prices and a weak dollar explain 25-30% of total price rise. The study said that \"large increases in biofuels production in the United States and Europe are the main reason behind the steep rise in global food prices\" and also stated that \"Brazil's sugar-based ethanol did not push food prices appreciably higher.\" [240] [241] The report argues that increased production of biofuels in these developed regions were supported by subsidies and tariffs on imports, and considers that without such policies, price increases worldwide would have been smaller. This research paper also concluded that Brazil's sugar cane–based ethanol has not raised sugar prices significantly, and recommends removing tariffs on ethanol imports by both the U.S. and EU, to allow more efficient producers such as Brazil and other developing countries, including many African countries, to produce ethanol profitably for export to meet the mandates in the EU and U.S. [239] An economic assessment report also published in July 2008 by the OECD [242] agrees with the World Bank report regarding the negative effects of subsidies and trade restrictions, but found that the impact of biofuels on food prices are much smaller. The OECD study is also critical of the limited reduction of GHG emissions achieved from biofuels produced in Europe and North America, concluding that the current biofuel support policies would reduce greenhouse gas emissions from transport fuel by no more than 0.8% by 2015, while Brazilian ethanol from sugar cane reduces greenhouse gas emissions by at least 80% compared to fossil fuels. The assessment calls on governments for more open markets in biofuels and feedstocks in order to improve efficiency and lower costs. [243] A study by the Brazilian research unit of the Fundação Getúlio Vargas regarding the effects of biofuels on grain prices. [244] concluded that the major driver behind the 2007–2008 rise in food prices was speculative activity on futures markets under conditions of increased demand in a market with low grain stocks. The study also concluded that expansion of biofuel production was not a relevant factor and also that there is no correlation between Brazilian sugarcane cultivated area and average grain prices, as on the contrary, the spread of sugarcane was accompanied by rapid growth of grain crops in the country. [244]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Faz_S_Sofia_canavial_090607_REFON.JPG/220px-Faz_S_Sofia_canavial_090607_REFON.JPG",
+                "caption": "Santa Sofia sugarcane field for ethanol production in Avaré ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Panorama_Usina_Costa_Pinto_Piracicaba_SAO_10_2008.jpg/750px-Panorama_Usina_Costa_Pinto_Piracicaba_SAO_10_2008.jpg",
+                "caption": "Panoramic view of the Costa Pinto Production Plant located in Piracicaba , São Paulo state . This industrial plant is set up to produce sugar, ethanol fuel (both anhydrous and hydrous ), industrial grade ethanol, and alcohol for beverages. The foreground shows the receiving operation of the sugarcane harvest, immediately followed by the mill process, and in the right side of the background is located the distillation facility where ethanol is produced. This plant produces the electricity it needs from baggasse residuals from sugar cane left over by the milling process, and it sells the surplus electricity to public utilities."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ethanol_fuel_in_Brazil",
+        "title": "Ethanol fuel in Brazil",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Biochemical overview",
+        "text": "Fermentation reacts the reduced form of nicotinamide adenine dinucleotide (NADH) with an endogenous , organic electron acceptor . [12] Usually this is pyruvate formed from sugar through glycolysis . The reaction produces oxidized NAD + and an organic product, typical examples being ethanol , lactic acid , and hydrogen gas (H 2 ), and often also carbon dioxide . However, more exotic compounds can be produced by fermentation, such as butyric acid and acetone . Fermentation products are considered waste products, since they cannot be metabolized further without the use of oxygen. [ citation needed ] Fermentation normally occurs in an anaerobic environment . In the presence of O 2 , NADH, and pyruvate are used to generate adenosine triphosphate (ATP) in respiration . This is called oxidative phosphorylation . This generates much more ATP than glycolysis alone. For this reason, fermentation is rarely used when oxygen is available. However, even in the presence of abundant oxygen, some strains of yeast such as Saccharomyces cerevisiae prefer fermentation to aerobic respiration as long as there is an adequate supply of sugars (a phenomenon known as the Crabtree effect ). [13] Some fermentation processes involve obligate anaerobes , which cannot tolerate oxygen. [ citation needed ] Although yeast carries out the fermentation in the production of ethanol in beers , wines , and other alcoholic drinks, this is not the only possible agent: bacteria carry out the fermentation in the production of xanthan gum . [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cellular_respiration.gif/260px-Cellular_respiration.gif",
+                "caption": "Comparison of an aerobic respiration and most known fermentation types in eukaryotic cell. [11] Numbers in circles indicate counts of carbon atoms in molecules, C6 is glucose C 6 H 12 O 6 , C1 carbon dioxide CO 2 . Mitochondrial outer membrane is omitted."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fermentation",
+        "title": "Fermentation",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    },
+    {
+        "section": "Covalent binding",
+        "text": "Many binding chemistries may be used to adhere an enzyme to a surface to varying degrees of success. The most successful covalent binding techniques include binding via glutaraldehyde to amino groups and N-hydroxysuccinide esters . These immobilization techniques occur at ambient temperatures in mild conditions, which have limited potential to modify the structure and function of the enzyme. [6]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Figure_1_Example_of_Enzyme_Immobilization_by_Covalent_Binding.png/495px-Figure_1_Example_of_Enzyme_Immobilization_by_Covalent_Binding.png",
+                "caption": "Example of Enzyme Immobilization through Covalent Binding"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Industrial_enzymes",
+        "title": "Industrial enzymes",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Advancements in biofuel production"
+    }
+]

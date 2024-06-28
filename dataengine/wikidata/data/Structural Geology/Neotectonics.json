@@ -1,0 +1,32 @@
+[
+    {
+        "section": "Strike-slip tectonics",
+        "text": "Strike-slip tectonics is associated with the relative lateral movement of parts of the crust or the lithosphere. This type of tectonics is found along oceanic and continental transform faults which connect offset segments of mid-ocean ridges . Strike-slip tectonics also occurs at lateral offsets in extensional and thrust fault systems. In areas involved with plate collisions strike-slip deformation occurs in the over-riding plate in zones of oblique collision and accommodates deformation in the foreland to a collisional belt. [9]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aerial-SanAndreas-CarrizoPlain.jpg/220px-Aerial-SanAndreas-CarrizoPlain.jpg",
+                "caption": "San Andreas transform fault on the Carrizo Plain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tectonics",
+        "title": "Tectonics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Neotectonics"
+    },
+    {
+        "section": "Plate tectonics",
+        "text": "In plate tectonics, the outermost part of the Earth known as the lithosphere (the crust and uppermost mantle ) act as a single mechanical layer. The lithosphere is divided into separate \"plates\" that move relative to each other on the underlying, relatively weak asthenosphere in a process ultimately driven by the continuous loss of heat from the Earth's interior. There are three main types of plate boundaries: divergent , where plates move apart from each other and new lithosphere is formed in the process of sea-floor spreading ; transform , where plates slide past each other, and convergent , where plates converge and lithosphere is \"consumed\" by the process of subduction . Convergent and transform boundaries are responsible for most of the world's major ( M w > 7) earthquakes . Convergent and divergent boundaries are also the site of most of the world's volcanoes , such as around the Pacific Ring of Fire . Most of the deformation in the lithosphere is related to the interaction between plates at or near plate boundaries.\nThe latest studies, based on the integration of available geological data, and satellite imagery and Gravimetric and magnetic anomaly datasets have shown that the crust of the Earth is dissected by thousands of different types of tectonic elements which define the subdivision into numerous smaller microplates which have amalgamated into the larger Plates. [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/JPVD-NGTM2023-Network.jpg/440px-JPVD-NGTM2023-Network.jpg",
+                "caption": "The Tectonic Network of the Earth. Legend: Brown: Terrane (microplate) boundaries in the continents and Mobile Belts, Cyan: Terranes of the Oceanic Plates, Blue: Oceanic transform faults; Red and orange: Fault zones in the Continental and Mountain belt domain; Purple: Main subduction zones and suture zones; Green: Continental margins"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tectonics",
+        "title": "Tectonics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Neotectonics"
+    }
+]

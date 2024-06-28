@@ -1,0 +1,566 @@
+[
+    {
+        "section": "Pumped hydro",
+        "text": "Worldwide, pumped-storage hydroelectricity (PSH) is the largest-capacity form of active grid energy storage available, and, as of March 2012, the Electric Power Research Institute (EPRI) reports that PSH accounts for more than 99% of bulk storage capacity worldwide, representing around 127,000 MW . [6] PSH energy efficiency varies in practice between 70% and 80%, [6] [7] [8] [9] with claims of up to 87%. [10] At times of low electrical demand, excess generation capacity is used to pump water from a lower source into a higher reservoir. When demand grows, water is released back into a lower reservoir (or waterway or body of water) through a turbine , generating electricity. Reversible turbine-generator assemblies act as both a pump and turbine (usually a Francis turbine design). Nearly all facilities use the height difference between two water bodies. Pure pumped-storage plants shift the water between reservoirs, while the \"pump-back\" approach is a combination of pumped storage and conventional hydroelectric plants that use natural stream-flow.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adam_Beck_Complex.jpg/300px-Adam_Beck_Complex.jpg",
+                "caption": "The Sir Adam Beck Generating Complex at Niagara Falls, Canada , which includes a large pumped storage hydroelectricity reservoir to provide an extra 174 MW of electricity during periods of peak demand."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Compressed air",
+        "text": "Compressed-air energy storage (CAES) uses surplus energy to compress air for subsequent electricity generation. [11] Small-scale systems have long been used in such applications as propulsion of mine locomotives. The compressed air is stored in an underground reservoir , such as a salt dome . Compressed-air energy storage (CAES) plants can bridge the gap between production volatility and load. CAES storage addresses the energy needs of consumers by effectively providing readily available energy to meet demand. Renewable energy sources like wind and solar energy vary. So at times when they provide little power, they need to be supplemented with other forms of energy to meet energy demand. Compressed-air energy storage plants can take in the surplus energy output of renewable energy sources during times of energy over-production. This stored energy can be used at a later time when demand for electricity increases or energy resource availability decreases. [12] Compression of air creates heat; the air is warmer after compression. Expansion requires heat. If no extra heat is added, the air will be much colder after expansion. If the heat generated during compression can be stored and used during expansion, efficiency improves considerably. [13] A CAES system can deal with the heat in three ways. Air storage can be adiabatic , diabatic , or isothermal . Another approach uses compressed air to power vehicles. [14] [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Compressed_Air_Loco.jpg/300px-Compressed_Air_Loco.jpg",
+                "caption": "A compressed air locomotive used inside a mine between 1928 and 1961."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Flywheel",
+        "text": "Flywheel energy storage (FES) works by accelerating a rotor (a flywheel ) to a very high speed, holding energy as rotational energy . When energy is added the rotational speed of the flywheel increases, and when energy is extracted, the speed declines, due to conservation of energy . Most FES systems use electricity to accelerate and decelerate the flywheel, but devices that directly use mechanical energy are under consideration. [16] FES systems have rotors made of high strength carbon-fiber composites, suspended by magnetic bearings and spinning at speeds from 20,000 to over 50,000 revolutions per minute (rpm) in a vacuum enclosure. [17] Such flywheels can reach maximum speed (\"charge\") in a matter of minutes. The flywheel system is connected to a combination electric motor / generator . FES systems have relatively long lifetimes (lasting decades with little or no maintenance; [17] full-cycle lifetimes quoted for flywheels range from in excess of 10 5 , up to 10 7 , cycles of use), [18] high specific energy (100–130 W·h/kg, or 360–500 kJ/kg) [18] [19] and power density .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Example_of_cylindrical_flywheel_rotor_assembly.png/220px-Example_of_cylindrical_flywheel_rotor_assembly.png",
+                "caption": "The main components of a typical flywheel."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg/220px-Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg",
+                "caption": "A Flybrid Kinetic Energy Recovery System flywheel . Built for use on Formula 1 racing cars , it is employed to recover and reuse kinetic energy captured during braking."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Solid mass gravitational ",
+        "text": "Changing the altitude of solid masses can store or release energy via an elevating system driven by an electric motor/generator. Studies suggest energy can begin to be released with as little as 1 second warning, making  the method a useful supplemental feed into an electricity grid to balance load surges. [20] Efficiencies can be as high as 85% recovery of stored energy. [21] This can be achieved by siting the masses inside old vertical  mine shafts or in specially constructed towers where the heavy weights are winched up to store energy and allowed a controlled descent to release it. At 2020 a prototype vertical store is being built in Edinburgh, Scotland [22] Potential energy storage or gravity energy storage was under active development in 2013 in association with the California Independent System Operator . [23] [24] [25] It examined the movement of earth-filled hopper rail cars driven by electric locomotives from lower to higher elevations. [26] Other proposed methods include:-",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fernw%C3%A4rmespeicher_Theiss.jpg/220px-Fernw%C3%A4rmespeicher_Theiss.jpg",
+                "caption": "District heating accumulation tower from Theiss near Krems an der Donau in Lower Austria with a thermal capacity of 2 GWh"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Rechargeable battery",
+        "text": "A rechargeable battery comprises one or more electrochemical cells . It is known as a 'secondary cell' because its electrochemical reactions are electrically reversible. Rechargeable batteries come in many shapes and sizes, ranging from button cells to megawatt grid systems. Rechargeable batteries have lower total cost of use and environmental impact than non-rechargeable (disposable) batteries. Some rechargeable battery types are available in the same form factors as disposables. Rechargeable batteries have higher initial cost but can be recharged very cheaply and used many times. Common rechargeable battery chemistries include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Datacenter_Backup_Batteries.jpg/220px-Datacenter_Backup_Batteries.jpg",
+                "caption": "A rechargeable battery bank used as an uninterruptible power supply in a data center"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Supercapacitor",
+        "text": "Supercapacitors , also called electric double-layer capacitors (EDLC) or ultracapacitors, are a family of electrochemical capacitors [47] that do not have conventional solid dielectrics . Capacitance is determined by two storage principles, double-layer capacitance and pseudocapacitance . [48] [49] Supercapacitors bridge the gap between conventional capacitors and rechargeable batteries . They store the most energy per unit volume or mass ( energy density ) among capacitors. They support up to 10,000 farads /1.2 Volt, [50] up to 10,000 times that of electrolytic capacitors , but deliver or accept less than half as much power per unit time ( power density ). [47] While supercapacitors have specific energy and energy densities that are approximately 10% of batteries, their power density is generally 10 to 100 times greater. This results in much shorter charge/discharge cycles. Also, they tolerate many more charge-discharge cycles than batteries. Supercapacitors have many applications, including:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Expo_2010_Electric_Bus.jpg/220px-Expo_2010_Electric_Bus.jpg",
+                "caption": "One of a fleet of electric capabuses powered by supercapacitors, at a quick-charge station-bus stop, in service during Expo 2010 Shanghai China . Charging rails can be seen suspended over the bus."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Power-to-gas",
+        "text": "Power-to-gas is the conversion of electricity to a gaseous fuel such as hydrogen or methane . The three commercial methods use electricity to reduce water into hydrogen and oxygen by means of electrolysis . In the first method, hydrogen is injected into the natural gas grid or is used for transportation. The second method is to combine the hydrogen with carbon dioxide to produce methane using a methanation reaction such as the Sabatier reaction , or biological methanation, resulting in an extra energy conversion loss of 8%. The methane may then be fed into the natural gas grid. The third method uses the output gas of a wood gas generator or a biogas plant, after the biogas upgrader is mixed with the hydrogen from the electrolyzer, to upgrade the quality of the biogas.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/World%E2%80%99s_1st_Low-Emission_Hybrid_Battery_Storage%2C_Gas_Turbine_Peaker_System.jpg/220px-World%E2%80%99s_1st_Low-Emission_Hybrid_Battery_Storage%2C_Gas_Turbine_Peaker_System.jpg",
+                "caption": "The new technology helps reduce greenhouse gases and operating costs at two existing peaker plants in Norwalk and Rancho Cucamonga . The 10-megawatt battery storage system, combined with the gas turbine, allows the peaker plant to more quickly respond to changing energy needs, thus increasing the reliability of the electrical grid."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Capacitor",
+        "text": "A capacitor (originally known as a 'condenser') is a passive two-terminal electrical component used to store energy electrostatically . Practical capacitors vary widely, but all contain at least two electrical conductors (plates) separated by a dielectric (i.e., insulator ). A capacitor can store electric energy when disconnected from its charging circuit, so it can be used like a temporary battery , or like other types of rechargeable energy storage system . [72] Capacitors are commonly used in electronic devices to maintain power supply while batteries change. (This prevents loss of information in volatile memory.) Conventional capacitors provide less than 360 joules per kilogram, while a conventional alkaline battery has a density of 590 kJ/kg. Capacitors store energy in an electrostatic field between their plates. Given a potential difference across the conductors (e.g., when a capacitor is attached across a battery), an electric field develops across the dielectric, causing positive charge (+Q) to collect on one plate and negative charge (-Q) to collect on the other plate. If a battery is attached to a capacitor for a sufficient amount of time, no current can flow through the capacitor. However, if an accelerating or alternating voltage is applied across the leads of the capacitor, a displacement current can flow. Besides capacitor plates, charge can also be stored in a dielectric layer. [73] Capacitance is greater given a narrower separation between conductors and when the conductors have a larger surface area. In practice, the dielectric between the plates emits a small amount of leakage current and has an electric field strength limit, known as the breakdown voltage . However, the effect of recovery of a dielectric after a high-voltage breakdown holds promise for a new generation of self-healing capacitors. [74] [75] The conductors and leads introduce undesired inductance and resistance . Research is assessing the quantum effects of nanoscale capacitors [76] for digital quantum batteries. [77] [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_%40_5000_VDC.jpg/175px-Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_%40_5000_VDC.jpg",
+                "caption": "This mylar-film, oil-filled capacitor has very low inductance and low resistance, to provide the high-power (70 megawatts) and the very high speed (1.2 microsecond) discharges needed to operate a dye laser ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Renewable energy",
+        "text": "The largest source and the greatest store of renewable energy is provided by hydroelectric dams. A large reservoir behind a dam can store enough water to average the annual flow of a river between dry and wet seasons, and a very large reservoir can store enough water to average the flow of a river between dry and wet years. While a hydroelectric dam does not directly store energy from intermittent sources, it does balance the grid by lowering its output and retaining its water when power is generated by solar or wind. If wind or solar generation exceeds the region's hydroelectric capacity, then some additional source of energy is needed. Many renewable energy sources (notably solar and wind) produce variable power . [96] Storage systems can level out the imbalances between supply and demand that this causes. Electricity must be used as it is generated or converted immediately into storable forms. [97] The main method of electrical grid storage is pumped-storage hydroelectricity . Areas of the world such as Norway, Wales, Japan and the US have used elevated geographic features for reservoirs , using electrically powered pumps to fill them. When needed, the water passes through generators and converts the gravitational potential of the falling water into electricity. [96] Pumped storage in Norway, which gets almost all its electricity from hydro, has currently a capacity of 1.4 GW but since the total installed capacity is nearly 32 GW and 75% of that is regulable, it can be expanded significantly. [98] Some forms of storage that produce electricity include pumped-storage hydroelectric dams , rechargeable batteries , thermal storage including molten salts which can efficiently store and release very large quantities of heat energy, [99] and compressed air energy storage , flywheels , cryogenic systems and superconducting magnetic coils . Surplus power can also be converted into methane ( sabatier process ) with stockage in the natural gas network. [100] [101] In 2011, the Bonneville Power Administration in the northwestern United States created an experimental program to absorb excess wind and hydro power generated at night or during stormy periods that are accompanied by high winds. Under central control, home appliances absorb surplus energy by heating ceramic bricks in special space heaters to hundreds of degrees and by boosting the temperature of modified hot water heater tanks . After charging, the appliances provide home heating and hot water as needed. The experimental system was created as a result of a severe 2010 storm that overproduced renewable energy to the extent that all conventional power sources were shut down, or in the case of a nuclear power plant, reduced to its lowest possible operating level, leaving a large area running almost completely on renewable energy. [102] [103] Another advanced method used at the former Solar Two project in the United States and the Solar Tres Power Tower in Spain uses molten salt to store thermal energy captured from the sun and then convert it and dispatch it as electrical power. The system pumps molten salt through a tower or other special conduits to be heated by the sun. Insulated tanks store the solution. Electricity is produced by turning water to steam that is fed to turbines . Since the early 21st century batteries have been applied to utility scale load-leveling and frequency regulation capabilities. [96] In vehicle-to-grid storage, electric vehicles that are plugged into the energy grid can deliver stored electrical energy from their batteries into the grid when needed.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Abengoa_Solar_%287336087392%29.jpg/220px-Abengoa_Solar_%287336087392%29.jpg",
+                "caption": "Construction of the Salt Tanks which provide efficient thermal energy storage [92] so that electricity can be generated after the sun goes down, and output can be scheduled to meet demand. [93] The 280 MW Solana Generating Station is designed to provide six hours of storage. This allows the plant to generate about 38% of its rated capacity over the course of a year. [94]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Andasol_3.jpg/220px-Andasol_3.jpg",
+                "caption": "The 150 MW Andasol solar power station in Spain is a parabolic trough solar thermal power plant that stores energy in tanks of molten salt so that it can continue generating electricity when the sun is not shining. [95]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Demand side management and grid storage",
+        "text": "The demand side can also store electricity from the grid, for example charging a battery electric vehicle stores energy for a vehicle and storage heaters , district heating storage or ice storage provide thermal storage for buildings. [6] At present this storage serves only to shift consumption to the off-peak time of day, no electricity is returned to the grid. The need for grid storage to provide peak power is reduced by demand side time of use pricing , one of the benefits of smart meters . At the household level, consumers may choose less expensive off-peak times to wash and dry clothes, use dishwashers, take showers and cook. As well, commercial and industrial users will take advantage of cost savings by deferring some processes to off-peak times. Regional impacts from the unpredictable operation of wind power has created a new need for interactive demand response , where the utility communicates with the demand. Historically this was only done in cooperation with large industrial consumers, but now may be expanded to entire grids. [7] For instance, a few large-scale projects in Europe link variations in wind power to change industrial food freezer loads, causing small variations in temperature. If communicated on a grid-wide scale, small changes to heating/cooling temperatures would instantly change consumption across the grid. A report released in December 2013 by the United States Department of Energy further describes the potential benefits of energy storage and demand side technologies to the electric grid: \"Modernizing the electric system will help the nation meet the challenge of handling projected energy needs—including addressing climate change by integrating more energy from renewable sources and enhancing efficiency from non-renewable energy processes. Advances to the electric grid must maintain a robust and resilient electricity delivery system, and energy storage can play a significant role in meeting these challenges by improving the operating capabilities of the grid, lowering cost and ensuring high reliability, as well as deferring and reducing infrastructure investments. Finally, energy storage can be instrumental for emergency preparedness because of its ability to provide backup power as well as grid stabilization services\". [8] The report was written by a core group of developers representing Office of Electricity Delivery and Energy Reliability , ARPA-E , Office of Science , Office of Energy Efficiency and Renewable Energy , Sandia National Laboratories , and Pacific Northwest National Laboratory ; all of whom are engaged in the development of grid energy storage. [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Energy-Units-01.png/220px-Energy-Units-01.png",
+                "caption": "A sense of units and scale for electrical energy production and consumption"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Batteries",
+        "text": "Battery storage was used in the early days of direct current electric power. Where AC grid power was not readily available, isolated lighting plants run by wind turbines or internal combustion engines provided lighting and power to small motors. The battery system could be used to run the load without starting the engine or when the wind was calm. A bank of lead–acid batteries in glass jars both supplied power to illuminate lamps, as well as to start an engine to recharge the batteries. Battery storage technology is typically around 80% to more than 90% efficient for newer lithium-ion devices. [38] [39] Battery systems connected to large solid-state converters have been used to stabilize power distribution networks. Some grid batteries are co-located with renewable energy plants, either to smooth the power supplied by the intermittent wind or solar output, or to shift the power output into other hours of the day when the renewable plant cannot produce power directly (see Installation examples ). These hybrid systems (generation and storage) can either alleviate the pressure on the grid when connecting renewable sources or be used to reach self-sufficiency and work \"off-the-grid\" (see Stand-alone power system ). Contrary to electric vehicle applications, batteries for stationary storage do not suffer from mass or volume constraints. However, due to the large amounts of energy and power implied, the cost per power or energy unit is crucial. The relevant metrics to assess the interest of a technology for grid-scale storage is the $/Wh (or $/W) rather than the Wh/kg (or W/kg). The electrochemical grid storage was made possible thanks to the development of the electric vehicle, that induced a fast decrease in the production costs of batteries below $300/kWh. By optimizing the production chain, major industrials aimed to reach $150/kWh by the end of 2020, but actually achieved $140/kWh. The rate of decline in battery prices has consistently outpaced most estimates, reaching $132/kWh in 2021. [40] These batteries rely on a lithium-ion technology, which is suited for mobile applications (high cost, high density). Technologies optimized for the grid should focus on low cost per kWh.   Lithium iron phosphate batteries are increasingly being used in both vehicles and grid storage because of their low cost, scale and acceptable energy density for many applications. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Light-plant-Fig1198-Page989-Ch45-Hawkins-Electrical-Guide.png/220px-Light-plant-Fig1198-Page989-Ch45-Hawkins-Electrical-Guide.png",
+                "caption": "A 900 watt direct current light plant using 16 separate lead acid battery cells (32 volts) from 1917. [35]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Battery-cost-learning-curve.png/220px-Battery-cost-learning-curve.png",
+                "caption": "Learning curve of lithium-ion batteries: the price of batteries declined by 97% in three decades. [36] [37]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Electric vehicles",
+        "text": "Companies are researching the possible use of electric vehicles to meet peak demand. A parked and plugged-in electric vehicle could sell the electricity from the battery during peak loads and charge either during night (at home) or during off-peak. [69] Plug-in hybrid or electric cars could be used [70] [71] [72] for their energy storage capabilities. Vehicle-to-grid technology can be employed, turning each vehicle with its 20 to 50 kWh battery pack into a distributed load-balancing device or emergency power source. This represents two to five days per vehicle of average household requirements of 10 kWh per day, assuming annual consumption of 3,650 kWh. This quantity of energy is equivalent to between 60 and 480 kilometres (40 and 300 mi) of range in such vehicles consuming 0.1 to 0.3 kilowatt-hours per kilometre (0.16 to 0.5 kWh/mi). These figures can be achieved even in home-made electric vehicle conversions . Some electric utilities plan to use old plug-in vehicle batteries (sometimes resulting in a giant battery) to store electricity [73] [74] However, a large disadvantage of using vehicle to grid energy storage would be if each storage cycle stressed the battery with one complete charge-discharge cycle. [70] However, one major study showed that used intelligently, vehicle-to-grid storage actually improved the batteries longevity. [75] Conventional (cobalt-based) lithium-ion batteries break down with the number of cycles – newer li-ion batteries do not break down significantly with each cycle, and so have much longer lives. One approach is to reuse unreliable vehicle batteries in dedicated grid storage [76] as they are expected to be good in this role for ten years. [77] If such storage is done on a large scale it becomes much easier to guarantee replacement of a vehicle battery degraded in mobile use, as the old battery has value and immediate use.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg/220px-Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg",
+                "caption": "Nissan Leaf , the world's top-selling highway-capable electric car as of 2015"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Flywheel",
+        "text": "Mechanical inertia is the basis of this storage method. When the electric power flows into the device, an electric motor accelerates a heavy rotating disc. The motor acts as a generator when the flow of power is reversed, slowing down the disc and producing electricity. Electricity is stored as the kinetic energy of the disc. Friction must be kept to a minimum to prolong the storage time. This is often achieved by placing the flywheel in a vacuum and using magnetic bearings , tending to make the method expensive. Greater flywheel speeds allow greater storage capacity but require strong materials such as steel or composite materials to resist the centrifugal forces . The ranges of power and energy storage technology that make this method economic, however, tends to make flywheels unsuitable for general power system application; they are probably best suited to load-leveling applications on railway power systems and for improving power quality in renewable energy systems such as the 20MW system in Ireland. [78] [79] Applications that use flywheel storage are those that require very high bursts of power for very short durations such as tokamak [80] and laser experiments where a motor generator is spun up to operating speed and is partially slowed down during discharge. Flywheel storage is also currently used in the form of the Diesel rotary uninterruptible power supply to provide uninterruptible power supply systems (such as those in large datacenters ) for ride-through power necessary during transfer [81] – that is, the relatively brief amount of time between a loss of power to the mains and the warm-up of an alternate source, such as a diesel generator . This potential solution has been implemented by EDA [82] [ better source needed ] in the Azores on the islands of Graciosa and Flores . This system uses an 18 megawatt-second flywheel to improve power quality and thus allow increased renewable energy usage. As the description suggests, these systems are again designed to smooth out transient fluctuations in supply, and could never be used to cope with an outage exceeding a couple of days. Powercorp in Australia have been developing applications using wind turbines, flywheels and low load diesel (LLD) technology to maximize the wind input to small grids. A system installed in Coral Bay, Western Australia, uses wind turbines coupled with a flywheel based control system and LLDs. The flywheel technology enables the wind turbines to supply up to 95 percent of Coral Bay's energy supply at times, with a total annual wind penetration of 45 percent. [83]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/G2_front2.jpg/220px-G2_front2.jpg",
+                "caption": "NASA G2 flywheel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Pumped water",
+        "text": "In 2008, world pumped-storage generating capacity was 104 GW , [95] while other sources claim 127 GW, which comprises the vast majority of all types of grid electric storage – all other types combined are some hundreds of MW. [96] In many places, pumped-storage hydroelectricity is used to even out the daily generating load, by pumping water to a high storage reservoir during off-peak hours and weekends, using the excess base-load capacity from coal or nuclear sources.  During peak hours, this water can be used for hydroelectric generation, often as a high value rapid-response reserve to cover transient peaks in demand. Pumped storage recovers about 70% to 85% of the energy consumed, and is currently the most cost effective form of mass power storage. [97] The chief problem with pumped storage is that it usually requires two nearby reservoirs at considerably different heights, and often requires considerable capital expenditure. [98] Pumped water systems have high dispatchability , meaning they can come on-line very quickly, typically within 15 seconds, [99] which makes these systems very efficient at soaking up variability in electrical demand from consumers. There is over 90 GW of pumped storage in operation around the world, which is about 3% of instantaneous global generation capacity. Pumped water storage systems, such as the Dinorwig storage system in Britain, hold five or six hours of generating capacity, [99] and are used to smooth out demand variations. Another example is the 1836 MW Tianhuangping Pumped-Storage Hydro Plant in China, which has a reservoir capacity of eight million cubic meters (2.1 billion U.S. gallons or the volume of water over Niagara Falls in 25 minutes) with a vertical distance of 600 m (1970 feet). The reservoir can provide about 13 GW·h of stored gravitational potential energy (convertible to electricity at about 80% efficiency), or about 2% of China's daily electricity consumption. [100] A new concept in pumped-storage is utilizing wind energy or solar power to pump water. Wind turbines or solar cells that direct drive water pumps for an energy storing wind or solar dam can make this a more efficient process but are limited. Such systems can only increase kinetic water volume during windy and daylight periods. A study published in 2013 showed rooftop solar, coupled to existing pumped-storage, could replace the reactors lost at Fukushima with an equivalent capacity factor. [101]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG/220px-Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG",
+                "caption": "Mingtan Pumped-Storage Hydro Power Plant dam in Nantou , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Hydroelectric dams",
+        "text": "Hydroelectric dams with large reservoirs can also be operated to provide peak generation at times of peak demand. Water is stored in the reservoir during periods of low demand and released through the plant when demand is higher.  The net effect is the same as pumped storage, but without the pumping loss. Depending on the reservoir capacity the plant can provide daily, weekly, or seasonal load following. Many existing hydroelectric dams are fairly old (for example, the Hoover Dam was built in the 1930s), and their original design predated the newer intermittent power sources such as wind and solar by decades. A hydroelectric dam originally built to provide baseload power will have its generators sized according to the average flow of water into the reservoir. Uprating such a dam with additional generators increases its peak power output capacity, thereby increasing its capacity to operate as a virtual grid energy storage unit. [102] [103] The United States Bureau of Reclamation reports an investment cost of $69 per kilowatt capacity to uprate an existing dam, [102] compared to more than $400 per kilowatt for oil-fired peaking generators. While an uprated hydroelectric dam does not directly store excess energy from other generating units, it behaves equivalently by accumulating its own fuel – incoming river water – during periods of high output from other generating units. Functioning as a virtual grid storage unit in this way, the uprated dam is one of the most efficient forms of energy storage, because it has no pumping losses to fill its reservoir, only increased losses to evaporation and leakage. A dam which impounds a large reservoir can store and release a correspondingly large amount of energy, by controlling river outflow and raising or lowering its reservoir level a few meters. Limitations do apply to dam operation, their releases are commonly subject to government regulated water rights to limit downstream effect on rivers. For example, there are grid situations where baseload thermal plants, nuclear or wind turbines are already producing excess power at night, dams are still required to release enough water to maintain adequate river levels, whether electricity is generated or not. Conversely there's a limit to peak capacity, which if excessive could cause a river to flood for a few hours each day. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/FeiCueiReservoir.jpg/220px-FeiCueiReservoir.jpg",
+                "caption": "Fetsui hydroelectric dam in New Taipei , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Social acceptance",
+        "text": "Multiple studies indicate that risk and benefit perception are the most essential components of social acceptance. [23] Risk perception is mostly related to the concerns on its safety issues in terms of hazards from its operations and the possibility of CO 2 leakage which may endanger communities, commodities, and the environment in the vicinity of the infrastructure. [129] Other perceived risks relate to tourism and property values. [23] CCS public perceptions appear among other controversial technologies to tackle climate change such as nuclear power, wind, and geoengineering [130] People who are already affected by climate change, such as drought, [131] tend to be more supportive of CCS. Locally, communities are sensitive to economic factors, including job creation, tourism or related investment. [23] Experience is another relevant feature. Several field studies concluded that people already involved or used to industry are likely to accept the technology. In the same way, communities who have been negatively affected by any industrial activity are also less supportive of CCS. [23] Perception of CCS as a viable technology has a strong geographic component. Public perception of the risks and benefits of CSS can depend on the available information about pilot projects, trust in the government entities and developers involved, and awareness of successes and failures of CCS projects both locally and globally. These considerations vary by country and by community. [132] If only considering technical feasibility, countries with no known viable storage sites may dismiss CCS as an option in national emissions reduction strategies. In contrast, countries with several, or an abundance of viable storage sites may consider CCS as essential to reducing emissions. [133] Few members of the public know about CCS. This can allow misconceptions that lead to less approval. No strong evidence links knowledge of CCS and public acceptance. However, one study  found that communicating information about monitoring tends to have a negative impact on attitudes. [134] Conversely, approval seems to be reinforced when CCS is compared to natural phenomena. [23] Connected to how public perception influences the success or failure of a CCS project is consideration for how decision-making processes are implemented equitably and meaningfully for impacted communities at all stages of the project. Public participation alone does not encompass all aspects of procedural justice needed for CCS projects to receive the \"social license\" to operate. [135] Due to the lack of knowledge, people rely on organizations that they trust. [ citation needed ] In general, non-governmental organizations and researchers experience higher trust than stakeholders and governments. Opinions amongst NGOs are mixed. [136] [137] Moreover, the link between trust and acceptance is at best indirect. Instead, trust has an influence on the perception of risks and benefits. [23] CCS is embraced by the Shallow ecology worldview, [138] which promotes the search for solutions to the effects of climate change in lieu of/in addition to addressing the causes. This involves the use of advancing technology and CCS acceptance is common among techno-optimists . CCS is an \"end-of-pipe\" solution [23] that reduces atmospheric CO 2 , that can be used alongside minimizing the use of fossil fuel. [23] [138]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Protest_Against_Carbon_Capture_and_Storage_%2851697298019%29.jpg/220px-Protest_Against_Carbon_Capture_and_Storage_%2851697298019%29.jpg",
+                "caption": "Protest against CCS in 2021 in Torquay , England"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Protest_Against_Carbon_Capture_and_Storage_%2851695827702%29.jpg/220px-Protest_Against_Carbon_Capture_and_Storage_%2851695827702%29.jpg",
+                "caption": "Protest against CCS at the same event as above"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Carbon_capture_and_storage",
+        "title": "Carbon capture and storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Basic principle",
+        "text": "At times of low electrical demand, excess generation capacity is used to pump water into the upper reservoir. When there is higher demand, water is released back into the lower reservoir through a turbine , generating electricity. Reversible turbine/generator assemblies act as combined pump and turbine generator units (usually Francis turbine designs). [15] Variable speed operation further optimizes the round trip efficiency in pumped hydro storage plants. [16] [17] In micro-PSH applications, a group of pumps and Pump As Turbine (PAT) could be implemented respectively for pumping and generating phases. [18] The same pump could be used in both modes by changing rotational direction and speed: [18] the operation point in pumping usually differs from the operation point in PAT mode.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pumpspeicherkraftwerk_engl.png/220px-Pumpspeicherkraftwerk_engl.png",
+                "caption": "Power distribution, over a day, of a pumped-storage hydroelectricity facility. Green represents power consumed in pumping. Red is power generated."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity",
+        "title": "Pumped-storage hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Economic efficiency",
+        "text": "Taking into account conversion losses and evaporation losses from the exposed water surface, energy recovery of 70–80% or more can be achieved. [19] This technique is currently the most cost-effective means of storing large amounts of electrical energy, but capital costs and the necessity of appropriate geography are critical decision factors in selecting pumped-storage plant sites. The relatively low energy density of pumped storage systems requires either large flows and/or large differences in height between reservoirs. The only way to store a significant amount of energy is by having a large body of water located relatively near, but as high as possible above, a second body of water. In some places this occurs naturally, in others one or both bodies of water were man-made. Projects in which both reservoirs are artificial and in which no natural inflows are involved with either reservoir are referred to as \"closed loop\" systems. [20] These systems may be economical because they flatten out load variations on the power grid, permitting thermal power stations such as coal-fired plants and nuclear power plants that provide base-load electricity to continue operating at peak efficiency, while reducing the need for \"peaking\" power plants that use the same fuels as many base-load thermal plants, gas and oil, but have been designed for flexibility rather than maximal efficiency. Hence pumped storage systems are crucial when coordinating large groups of heterogeneous generators . Capital costs for pumped-storage plants are relatively high, although this is somewhat mitigated by their proven long service life of decades - and in some cases over a century, [21] [22] which is three to five times longer than utility-scale batteries. When electricity prices become negative , pumped hydro operators may earn twice - when \"buying\" the electricity to pump the water to the upper reservoir at negative spot prices and again when selling the electricity at a later time when prices are high. Along with energy management, pumped storage systems help stabilize electrical network frequency and provide reserve generation. Thermal plants are much less able to respond to sudden changes in electrical demand that potentially cause frequency and voltage instability. Pumped storage plants, like other hydroelectric plants, can respond to load changes within seconds. The most important use for pumped storage has traditionally been to balance baseload powerplants, but they may also be used to abate the fluctuating output of intermittent energy sources . Pumped storage provides a load at times of high electricity output and low electricity demand, enabling additional system peak capacity. In certain jurisdictions, electricity prices may be close to zero or occasionally negative on occasions that there is more electrical generation available than there is load available to absorb it. Although at present this is rarely due to wind or solar power alone, increased use of such generation will increase the likelihood of those occurrences. [ citation needed ] It is particularly likely that pumped storage will become especially important as a balance for very large-scale photovoltaic and wind generation. [23] Increased long-distance transmission capacity combined with significant amounts of energy storage will be a crucial part of regulating any large-scale deployment of intermittent renewable power sources. [24] The high non-firm renewable electricity penetration in some regions  supplies 40% of annual output, but 60% may be reached before additional storage is necessary. [25] [26] [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stwlan.dam.jpg/220px-Stwlan.dam.jpg",
+                "caption": "The upper reservoir, Llyn Stwlan, and dam of the Ffestiniog Pumped Storage Scheme in North Wales . The lower power station has four water turbines which generate 360 MW of electricity within 60 seconds of the need arising."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity",
+        "title": "Pumped-storage hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Summary",
+        "text": "In 2009, world pumped storage generating capacity was 104 GW , [32] while other sources claim 127 GW, which comprises the vast majority of all types of utility grade electric storage. [33] The EU had 38.3 GW net capacity (36.8% of world capacity) out of a total of 140 GW of hydropower and representing 5% of total net electrical capacity in the EU. Japan had 25.5 GW net capacity (24.5% of world capacity). [32] In 2010 the United States had 21.5 GW of pumped storage generating capacity (20.6% of world capacity). [34] PSH contributed 21,073 GWh of energy  in 2020 in the United States, but −5,321 GWh  (net) because more energy is consumed in pumping than is generated. [35] Nameplate pumped storage capacity had grown to 21.6 GW by 2014, with pumped storage comprising 97% of grid-scale energy storage in the United States. As of late 2014, there were 51 active project proposals with a total of 39 GW of new nameplate capacity across all stages of the FERC licensing process for new pumped storage hydroelectric plants in the United States, but no new plants were currently under construction in the United States at the time. [36] [37] The five largest operational pumped-storage plants are listed below (for a detailed list see List of pumped-storage hydroelectric power stations ) :",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kruonis_Pumped_Storage_Plant.Lithuania.jpg/220px-Kruonis_Pumped_Storage_Plant.Lithuania.jpg",
+                "caption": "Kruonis Pumped Storage Plant , Lithuania"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity",
+        "title": "Pumped-storage hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Faculties",
+        "text": "At present the university has eight Faculties (founding date in parentheses):",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BME_f%C5%91bej%C3%A1rat.jpg/300px-BME_f%C5%91bej%C3%A1rat.jpg",
+                "caption": "The main entrance of the university's \"K\" central building with the statues of the first four faculties"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/14-05-06-budapest-RalfR-50.jpg/300px-14-05-06-budapest-RalfR-50.jpg",
+                "caption": "The \"Ch\" building"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/BME%2C_I_%C3%A9s_Q_%C3%A9p%C3%BClet%2C_Budapest.JPG/300px-BME%2C_I_%C3%A9s_Q_%C3%A9p%C3%BClet%2C_Budapest.JPG",
+                "caption": "The \"I\" and \"Q\" buildings"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Budapest_University_of_Technology_and_Economics",
+        "title": "Budapest University of Technology and Economics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "The organizational structure",
+        "text": "The Budapest University of Technology and Economics (BME) is a public higher education institute operating as a central budgetary institution. Its founding regulation has been issued by the Minister of Human Resources. Its Organizational and operational conditions are summarized in its own regulation in accordance with laws. The steering body of the university is the Senate. BME is divided into faculties. The faculties in the order of their founding: Education, research, innovation and direct additional services are proceeded by the faculties. Work-sharing between the faculties are subject oriented both in the fields of education and that of technology. The organogram of BME is available here. The faculties consist of departments, institutes, research centres that are supported by deans offices and other units.\nGoverning is assisted by the Rectors Office and the Chancellors Office. There is a highly independent Group of integrated internal control. Faculties and Students organizations are supported by service units. The core and ancillary activities are supported There are other organizations like companies established or owned by the university, welfare institutions, student or teacher activity groups and other organizations associated to the university. The Rector is the top manager and representative of the university. The Chancellor ensures the technical conditions, the administration, the financial management in order to complete the functions of the university. The Rector and the Chancellor regularly calls executive board meetings to prepare strategic decisions. Employment relations between are regulated in the Annex of the Human Resource Policy.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Budapesti_M%C5%B1szaki_Egyetem_R_%C3%A9p%C3%BClete.jpg/300px-Budapesti_M%C5%B1szaki_Egyetem_R_%C3%A9p%C3%BClete.jpg",
+                "caption": "The \"R\" building is the seat of the Chancellery and the Central Student Office"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Budapest_University_of_Technology_and_Economics",
+        "title": "Budapest University of Technology and Economics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Location",
+        "text": "The university is located on the Buda side of the Danube between Szabadság Bridge and Petőfi Bridge and towards Rákóczi Bridge . This makes the university campus especially long and narrow: walking from one side of the university to the other can take as much as 20 minutes. The Inner City of Budapest (Pest) is just across the river, about 10 minutes' walk by either of the bridges.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Panorama_BME.jpg/500px-Panorama_BME.jpg",
+                "caption": "Panoramic view of the buildings of BME"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Budapest_University_of_Technology_and_Economics",
+        "title": "Budapest University of Technology and Economics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "The Central Library of BME",
+        "text": "The library of the Budapest University of Technology and Economics (then Joseph Polytechnics) was formally founded in 1848 when Baron József Eötvös , Minister of Religion and Public Education donated a book in five volumes that become the first item in the inventory of the library. Since its foundation it moved with the university from Pest to the Buda Castle in 1854 and back to Pest in 1872. In 1882 it moved again, to the campus near the National Museum, now the campus of Faculty of Humanities of Eötvös Loránd University . In 1909 the Library was moved to a separated cathedral like building in the new Campus of BME. The building was designed by Samu Pécz , professor of architecture at the university. The central Aula connects the spacious, 16.5-meter (54 ft) wide reading room to the north, the multi floor storage facility to the west and the workrooms of library procedures to the south. The eastern facade is connected to the central building of the university with the 'Bridge of Sighs'. The architectural concept has been proven timeless. Later on the storage capacity was enlarged with the introduction of compact storage technology, and adding a large capacity underground storage facility under the garden of the Campus. Today a remote storage building near Budapest is also used. In the beginning the library was directed by university professors. The first full-time director was appointed in 1936. In the early years the library served only professors. It was opened for students in 1869, and for the general public in 1884. In 1884 the first classification system of the library was elaborated and the first printed catalogue of the library was published by Vince Wartha, who was by the way professor of urban chemical technologies, dealing with construction materials, with gas production and water supply, and rector of university two times. In the following years extended editions of the printed catalogue were published and distributed to the departments and to other major libraries in the country. In 1936 the library introduced the index card system of catalogue.\nTransition to electronic cataloguing began in the 1980s, and the integrated library system was introduced in the 1990s. With the spreading of internet and widening the bandwidth the catalogue has become available from anywhere. The library collection was extended by acquisitions, and with donations of professors. There were two major additions by receiving the heritage of baron József Eötvös in 1872, and of Károly Hieronymi engineer and politician in 1912. During the Second World War both the building and the collection were damaged. Nevertheless, it continued its work in 1945, and the main reading room was reopened during the academic year of 1949–1950. Since 1952, increasing amount of the collection has been placed on open shelves for direct access of the readers. In the beginning only fiction, later on handbooks, and nowadays textbooks and current literature can be found on the shelves in the reading rooms.\nIn 1953 the library started publishing serials (Methodical papers of the Central Library of Budapest Technical University, publications on history of science and engineering, Scientific Technical Bibliographies) and some other serials in the 1960s. Since the mid sixties the library takes part in the instruction of first year students with training on using the library and in teaching literature search skills. In 1991 the library opened the Study of Natural Sciences with mostly chemistry-regarded literature open shelves. The library is the centre of the library network of the university, and the thematic library in mathematics and physics.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/BME-OMIKK.jpg/300px-BME-OMIKK.jpg",
+                "caption": "BME OMIKK"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Budapest_University_of_Technology_and_Economics",
+        "title": "Budapest University of Technology and Economics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Criticism of EROI",
+        "text": "EROI is calculated by dividing the energy output by the energy input. Measuring total energy output is often easy, especially in the case for an electrical output where some appropriate electricity meter can be used. However, researchers disagree on how to determine energy input accurately and therefore arrive at different numbers for the same source of energy. [32] How deep should the probing in the supply chain of the tools being used to generate energy go? For example, if steel is being used to drill for oil or construct a nuclear power plant, should the energy input of the steel be taken into account? Should the energy input into building the factory being used to construct the steel be taken into account and amortized? Should the energy input of the roads which are used to ferry the goods be taken into account? What about the energy used to cook the steelworkers' breakfasts? These are complex questions evading simple answers. [33] A full accounting would require considerations of opportunity costs and comparing total energy expenditures in the presence and absence of this economic activity. However, when comparing two energy sources a standard practice for the supply chain energy input can be adopted. For example, consider the steel, but don't consider the energy invested in factories deeper than the first level in the supply chain. It is in part for these fully encompassed systems reasons, that in the conclusions of Murphy and Hall's paper in 2010, an EROI of 5 by their extended methodology is considered necessary to reach the minimum threshold of sustainability, [22] while a value of 12–13 by Hall's methodology is considered the minimum value necessary for technological progress and a society supporting high art. [23] [24] Richards and Watt propose an Energy Yield Ratio for photovoltaic systems as an alternative to EROI (which they refer to as Energy Return Factor ). The difference is that it uses the design lifetime of the system, which is known in advance, rather than the actual lifetime. This also means that it can be adapted to multi-component systems where the components have different lifetimes. [34] Another issue with EROI that many studies attempt to tackle is that the energy returned can be in different forms, and these forms can have different utility. For example, electricity can be converted more efficiently than thermal energy into motion, due to electricity's lower entropy. In addition, the form of energy of the input can be completely different from the output.  For example, energy in the form of coal could be used in the production of ethanol. This might have an EROI of less than one, but could still be desirable due to the benefits of liquid fuels (assuming the latters are not used in the processes of extraction and transformation).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hydro_quebec_meter.JPG/220px-Hydro_quebec_meter.JPG",
+                "caption": "Measuring energy output is a solved problem; measuring the input remains highly debated."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_return_on_investment",
+        "title": "Energy return on investment",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Storage",
+        "text": "Early electronic computers such as Colossus made use of punched tape , a long strip of paper on which data was represented by a series of holes, a technology now obsolete . [21] Electronic data storage, which is used in modern computers, dates from World War II, when a form of delay-line memory was developed to remove the clutter from radar signals, the first practical application of which was the mercury delay line. [22] The first random-access digital storage device was the Williams tube , which was based on a standard cathode ray tube . [23] However, the information stored in it and delay-line memory was volatile in the fact that it had to be continuously refreshed, and thus was lost once power was removed. The earliest form of non-volatile computer storage was the magnetic drum , invented in 1932 [24] and used in the Ferranti Mark 1 , the world's first commercially available general-purpose electronic computer. [25] IBM introduced the first hard disk drive in 1956, as a component of their 305 RAMAC computer system. [26] : 6 Most digital data today is still stored magnetically on hard disks, or optically on media such as CD-ROMs . [27] : 4–5 Until 2002 most information was stored on analog devices , but that year digital storage capacity exceeded analog for the first time. As of 2007 [update] , almost 94% of the data stored worldwide was held digitally: [28] 52% on hard disks, 28% on optical devices, and 11% on digital magnetic tape. It has been estimated that the worldwide capacity to store information on electronic devices grew from less than 3 exabytes in 1986 to 295 exabytes in 2007, [29] doubling roughly every 3 years. [30]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/PaperTapes-5and8Hole.jpg/300px-PaperTapes-5and8Hole.jpg",
+                "caption": "Punched tapes were used in early computers to store and represent data ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Information_technology",
+        "title": "Information technology",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Transmission",
+        "text": "Data transmission has three aspects: transmission, propagation, and reception. [37] It can be broadly categorized as broadcasting , in which information is transmitted unidirectionally downstream, or telecommunications , with bidirectional upstream and downstream channels. [29] XML has been increasingly employed as a means of data interchange since the early 2000s, [38] particularly for machine-oriented interactions such as those involved in web-oriented protocols such as SOAP , [36] describing \"data-in-transit rather than... data-at-rest\". [38]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/IBM_card_storage.NARA.jpg/220px-IBM_card_storage.NARA.jpg",
+                "caption": "IBM card storage warehouse located in Alexandria, Virginia in 1959. This is where the government kept storage of punched cards."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Information_technology",
+        "title": "Information technology",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Major enabling factors",
+        "text": "Numerous innovations by scientists and engineers have sustained Moore's law since the beginning of the IC era. Some of the key innovations are listed below, as examples of breakthroughs that have advanced integrated circuit and semiconductor device fabrication technology, allowing transistor counts to grow by more than seven orders of magnitude in less than five decades. Computer industry technology road maps predicted in 2001 that Moore's law would continue for several generations of semiconductor chips. [71]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/NAND_scaling_timeline.png/440px-NAND_scaling_timeline.png",
+                "caption": "The trend of MOSFET scaling for NAND flash memory allows the doubling of floating-gate MOSFET components manufactured in the same wafer area in less than 18 months."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Moore%27s_law",
+        "title": "Moore's law",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Recent trends",
+        "text": "One of the key technical challenges of engineering future nanoscale transistors is the design of gates. As device dimension shrinks, controlling the current flow in the thin channel becomes more difficult. Modern nanoscale transistors typically take the form of multi-gate MOSFETs , with the FinFET being the most common nanoscale transistor. The FinFET has gate dielectric on three sides of the channel. In comparison, the gate-all-around MOSFET ( GAAFET ) structure has even better gate control. Microprocessor architects report that semiconductor advancement has slowed industry-wide since around 2010, below the pace predicted by Moore's law. [17] Brian Krzanich, the former CEO of Intel, announced, \"Our cadence today is closer to two and a half years than two.\" [103] Intel stated in 2015 that improvements in MOSFET devices have slowed, starting at the 22 nm feature width around 2012, and continuing at 14 nm . [104] Pat Gelsinger, Intel CEO, stated at the end of 2023 that \"we're no longer in the golden era of Moore's Law, it's much, much harder now, so we're probably doubling effectively closer to every three years now, so we've definitely seen a slowing.\" [105] The physical limits to transistor scaling have been reached due to source-to-drain leakage, limited gate metals and limited options for channel material. Other approaches are being investigated, which do not rely on physical scaling. These include the spin state of electron spintronics , tunnel junctions , and advanced confinement of channel materials via nano-wire geometry. [106] Spin-based logic and memory options are being developed actively in labs. [107] [108]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Threshold_formation_nowatermark.gif/440px-Threshold_formation_nowatermark.gif",
+                "caption": "A simulation of electron density as gate voltage (Vg) varies in a nanowire MOSFET. The threshold voltage is around 0.45 V. Nanowire MOSFETs lie toward the end of the ITRS road map for scaling devices below 10 nm gate lengths."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Moore%27s_law",
+        "title": "Moore's law",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Alternative materials research",
+        "text": "The vast majority of current transistors on ICs are composed principally of doped silicon and its alloys. As silicon is fabricated into single nanometer transistors, short-channel effects adversely change desired material properties of silicon as a functional transistor. Below are several non-silicon substitutes in the fabrication of small nanometer transistors. One proposed material is indium gallium arsenide , or InGaAs. Compared to their silicon and germanium counterparts, InGaAs transistors are more promising for future high-speed, low-power logic applications. Because of intrinsic characteristics of III-V compound semiconductors , quantum well and tunnel effect transistors based on InGaAs have been proposed as alternatives to more traditional MOSFET designs. Biological computing research shows that biological material has superior information density and energy efficiency compared to silicon-based computing. [116] Various forms of graphene are being studied for graphene electronics , e.g. graphene nanoribbon transistors have shown promise since its appearance in publications in 2008. (Bulk graphene has a band gap of zero and thus cannot be used in transistors because of its constant conductivity, an inability to turn off. The zigzag edges of the nanoribbons introduce localized energy states in the conduction and valence bands and thus a bandgap that enables switching when fabricated as a transistor. As an example, a typical GNR of width of 10 nm has a desirable bandgap energy of 0.4 eV. [117] [118] ) More research will need to be performed, however, on sub-50 nm graphene layers, as its resistivity value increases and thus electron mobility decreases. [117]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Graphene_SPM.jpg/180px-Graphene_SPM.jpg",
+                "caption": "Scanning probe microscopy image of graphene in its hexagonal lattice structure"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Moore%27s_law",
+        "title": "Moore's law",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Consequences",
+        "text": "Digital electronics have contributed to world economic growth in the late twentieth and early twenty-first centuries. [127] The primary driving force of economic growth is the growth of productivity , [128] which Moore's law factors into. Moore (1995) expected that \"the rate of technological progress is going to be controlled from financial realities\". [129] The reverse could and did occur around the late-1990s, however, with economists reporting that \"Productivity growth is the key economic indicator of innovation.\" [130] Moore's law describes a driving force of technological and social change, productivity, and economic growth. [131] [132] [128] An acceleration in the rate of semiconductor progress contributed to a surge in U.S. productivity growth, [133] [134] [135] which reached 3.4% per year in 1997–2004, outpacing the 1.6% per year during both 1972–1996 and 2005–2013. [136] As economist Richard G. Anderson notes, \"Numerous studies have traced the cause of the productivity acceleration to technological innovations in the production of semiconductors that sharply reduced the prices of such components and of the products that contain them (as well as expanding the capabilities of such products).\" [137] The primary negative implication of Moore's law is that obsolescence pushes society up against the Limits to Growth . As technologies continue to rapidly \"improve\", they render predecessor technologies obsolete. In situations in which security and survivability of hardware or data are paramount, or in which resources are limited, rapid obsolescence often poses obstacles to smooth or continued operations. [138] Because of the intensive resource footprint and toxic materials used in the production of computers, obsolescence leads to serious harmful environmental impacts . Americans throw out 400,000 cell phones every day, [139] but this high level of obsolescence appears to companies as an opportunity to generate regular sales of expensive new equipment, instead of retaining one device for a longer period of time, leading to industry using planned obsolescence as a profit centre . [140] An alternative source of improved performance is in microarchitecture techniques exploiting the growth of available transistor count. Out-of-order execution and on-chip caching and prefetching reduce the memory latency bottleneck at the expense of using more transistors and increasing the processor complexity. These increases are described empirically by Pollack's Rule , which states that performance increases due to microarchitecture techniques approximate the square root of the complexity (number of transistors or the area) of a processor. [141] For years, processor makers delivered increases in clock rates and instruction-level parallelism , so that single-threaded code executed faster on newer processors with no modification. [142] Now, to manage CPU power dissipation , processor makers favor multi-core chip designs, and software has to be written in a multi-threaded manner to take full advantage of the hardware. Many multi-threaded development paradigms introduce overhead, and will not see a linear increase in speed versus number of processors. This is particularly true while accessing shared or dependent resources, due to lock contention. This effect becomes more noticeable as the number of processors increases. There are cases where a roughly 45% increase in processor transistors has translated to roughly 10–20% increase in processing power. [143] On the other hand, manufacturers are adding specialized processing units to deal with features such as graphics, video, and cryptography. For one example, Intel's Parallel JavaScript extension not only adds support for multiple cores, but also for the other non-general processing features of their chips, as part of the migration in client side scripting toward HTML5 . [144] Moore's law has affected the performance of other technologies significantly: Michael S. Malone wrote of a Moore's War following the apparent success of shock and awe in the early days of the Iraq War . Progress in the development of guided weapons depends on electronic technology. [145] Improvements in circuit density and low-power operation associated with Moore's law also have contributed to the development of technologies including mobile telephones [146] and 3-D printing . [147]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Intel.svg/310px-Intel.svg.png",
+                "caption": "Intel transistor gate length trend. Transistor scaling has slowed down significantly at advanced (smaller) nodes."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Moore%27s_law",
+        "title": "Moore's law",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Hierarchy of storage",
+        "text": "Generally, the lower a storage is in the hierarchy, the lesser its bandwidth and the greater its access latency is from the CPU. This traditional division of storage to primary, secondary, tertiary, and off-line storage is also guided by cost per bit. In contemporary usage, memory is usually fast but temporary semiconductor read-write memory , typically DRAM (dynamic RAM) or other such devices. Storage consists of storage devices and their media not directly accessible by the CPU ( secondary or tertiary storage ), typically hard disk drives , optical disc drives, and other devices slower than RAM but non-volatile (retaining contents when powered down). [2] Historically, memory has, depending on technology, been called central memory , core memory , core storage , drum , main memory , real storage , or internal memory . Meanwhile, slower persistent storage devices have been referred to as secondary storage , external memory , or auxiliary/peripheral storage .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Computer_storage_types.svg/350px-Computer_storage_types.svg.png",
+                "caption": "Various forms of storage, divided according to their distance from the central processing unit . The fundamental components of a general-purpose computer are arithmetic and logic unit , control circuitry , storage space, and input/output devices. Technology and capacity as in common home computers around 2005."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Computer_data_storage",
+        "title": "Computer data storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Tertiary storage",
+        "text": "Tertiary storage or tertiary memory [6] is a level below secondary storage. Typically, it involves a robotic mechanism which will mount (insert) and dismount removable mass storage media into a storage device according to the system's demands; such data are often copied to secondary storage before use. It is primarily used for archiving rarely accessed information since it is much slower than secondary storage (e.g. 5–60 seconds vs. 1–10 milliseconds). This is primarily useful for extraordinarily large data stores, accessed without human operators. Typical examples include tape libraries and optical jukeboxes . When a computer needs to read information from the tertiary storage, it will first consult a catalog database to determine which tape or disc contains the information. Next, the computer will instruct a robotic arm to fetch the medium and place it in a drive. When the computer has finished reading the information, the robotic arm will return the medium to its place in the library. Tertiary storage is also known as nearline storage because it is \"near to online\". The formal distinction between online, nearline, and offline storage is: [7] For example, always-on spinning hard disk drives are online storage, while spinning drives that spin down automatically, such as in massive arrays of idle disks ( MAID ), are nearline storage. Removable media such as tape cartridges that can be automatically loaded, as in tape libraries , are nearline storage, while tape cartridges that must be manually loaded are offline storage.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/StorageTek_Powderhorn_tape_library.jpg/220px-StorageTek_Powderhorn_tape_library.jpg",
+                "caption": "A large tape library , with tape cartridges placed on shelves in the front, and a robotic arm moving in the back. The visible height of the library is about 180 cm."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Computer_data_storage",
+        "title": "Computer data storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Characteristics of storage",
+        "text": "Storage technologies at all levels of the storage hierarchy can be differentiated by evaluating certain core characteristics as well as measuring characteristics specific to a particular implementation. These core characteristics are volatility, mutability, accessibility, and addressability. For any particular implementation of any storage technology, the characteristics worth measuring are capacity and performance.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Samsung-1GB-DDR2-Laptop-RAM.jpg/250px-Samsung-1GB-DDR2-Laptop-RAM.jpg",
+                "caption": "A 1 GiB module of laptop DDR2 RAM"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Computer_data_storage",
+        "title": "Computer data storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Vulnerability and reliability",
+        "text": "Distinct types of data storage have different points of failure and various methods of predictive failure analysis . Vulnerabilities that can instantly lead to total loss are head crashing on mechanical hard drives and failure of electronic components on flash storage.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/S.M.A.R.T._warning.png/220px-S.M.A.R.T._warning.png",
+                "caption": "S.M.A.R.T. software warning suggests impending hard drive failure."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Computer_data_storage",
+        "title": "Computer data storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Error detection",
+        "text": "Impending failure on hard disk drives is estimable using S.M.A.R.T. diagnostic data that includes the hours of operation and the count of spin-ups, though its reliability is disputed. [20] Flash storage may experience downspiking transfer rates as a result of accumulating errors, which the flash memory controller attempts to correct. The health of optical media can be determined by measuring correctable minor errors , of which high counts signify deteriorating and/or low-quality media. Too many consecutive minor errors can lead to data corruption. Not all vendors and models of optical drives support error scanning. [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/QPxTool_DVD_error_rate_graph.png/220px-QPxTool_DVD_error_rate_graph.png",
+                "caption": "Error rate measurement on a DVD+R . The minor errors are correctable and within a healthy range."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Computer_data_storage",
+        "title": "Computer data storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    },
+    {
+        "section": "Large scale",
+        "text": "Pumped-storage hydroelectricity (PSH) is the most widely used and highest-capacity form of grid-energy storage. In PSH, water is pumped from a lower reservoir to a higher reservoir, which can then be released through turbines to produce energy. An alternative PSH proposal uses a  proprietary high-density liquid, 2 + 1 ⁄ 2 times denser than water, which requires a smaller head (elevation) and thus decreases the size and cost of the necessary infrastructure. [23] [24] Energy-storage-by-rail is a concept where excess renewable energy is used to run heavy train cars uphill during times of low energy demand.  The potential energy is released later by using regenerative braking as they roll downhill, acting as a gravity battery. [25] A utility-scale (50 MW) facility called GravityLine began construction in October 2020 by Advanced Rail Energy Storage, located at the Gamebird Pit gravel mine in the Pahrump Valley , Nevada , and is planned to deliver up to 15 minutes of service at full capacity. [26] Lift Renewable Energy uses a form of gravity battery. To store energy, buoyant gas containers are pulled down into water by a winch, water is in effect lifted hundreds of meters. The cycle is then reversed and electricity is generated as the gas containers rise.  Relatively little infrastructure is required, the batteries can be sited near major population centers, round trip efficiency is 85+%, and the system can be built at a GWh scale. [ citation needed ] Lifted Weight Storage (LWS) technology uses surplus energy to mechanically lift solid weights vertically, typically on a pulley system. When extra energy is needed, the mass is lowered, and the pulley turns a generator. [27] EnergyVault is designing a LWS system using a tower built from 32-ton concrete blocks, stacked with 120-meter cranes. One commercial unit is expected to store 20 MWh of energy, or enough to power 2,000 Swiss homes a day. [16] Gravitricity's LWS system in an underground shaft uses an electric winch to lift a 500-to-5000-tonne weight, which when lowered turns the winch motor as a generator. The system generates 10 MWh, enough to power 13,000 homes for two hours. The weight can also be dropped quickly for a small burst of power. [28] [29]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Energy_Vault_Test_Tower_2021.jpg/220px-Energy_Vault_Test_Tower_2021.jpg",
+                "caption": "Energy Vault 60 meter prototype in Arbedo-Castione , Switzerland, in 2021"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gravity_battery",
+        "title": "Gravity battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Economics of storage technologies"
+    }
+]

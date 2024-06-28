@@ -1,0 +1,463 @@
+[
+    {
+        "section": "Wind resource maps",
+        "text": "High resolution mapping of wind power resource potential has traditionally been carried out at the country level by government or research agencies, in part due to the complexity of the process and the intensive computing requirements involved. However, in 2015 the Technical University of Denmark , under framework of the Clean Energy Ministerial , launched the Global Wind Atlas (version 1.0) to provide freely available data on wind resource potential globally. The Global Wind Atlas was relaunched in November 2017 (version 2.0) in partnership with the World Bank , with wind resource maps now available for all countries at 250m resolution. Another similar international example is the European Wind Atlas , which is in the process of being updated under the New European Wind Atlas project funded by the European Union . Examples of country wind resource maps include the Canadian Wind Atlas , the Wind Resource Atlas of the United States , and a series of wind maps published by the World Bank under an initiative launched by ESMAP in 2013 focused on developing countries. [1] This followed a previous initiative of the United Nations Environment Program , the Solar and Wind Energy Resource Assessment (SWERA) project, which was launched in 2002 with funding from the Global Environment Facility .  However, these country wind resource maps have been largely superseded by the Global Wind Atlas in terms of data quality, methodology, and output resolution. The above global and country mapping outputs, and many others, are also available via the Global Atlas for Renewable Energy [2] developed by the International Renewable Energy Agency (IRENA), which brings together publicly available GIS data on wind and other renewable energy resources effort. Wind prospecting can begin with the use of such maps, but the lack of accuracy and fine detail make them useful only for preliminary selection of sites for collecting wind speed data. [3] With increasing numbers of ground-based measurements from specially installed anemometer stations, as well as operating data from commissioned wind farms, the accuracy of wind resource maps in many countries has improved over time, although coverage in most developing countries is still patchy. In addition to the publicly available sources listed above, maps are available as commercial products through specialist consultancies, or users of GIS software can make their own using publicly available GIS data such as the US National Renewable Energy Laboratory's High Resolution Wind Data Set. [4] Although the accuracy has improved, it is unlikely that wind resource maps, whether public or commercial, will eliminate the need for on-site measurements for utility-scale wind generation projects. [5] However, mapping can help speed up the process of site identification and the existence of high quality, ground-based data can shorten the amount of time that on-site measurements need to be collected. In addition to 'static' wind resource atlases which average estimates of wind speed and power density across multiple years, tools such as Renewables.ninja provide time-varying simulations of wind speed and power output from different wind turbine models at an hourly resolution. [6]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Philippines_Wind_Power_Density_Map.jpg/220px-Philippines_Wind_Power_Density_Map.jpg",
+                "caption": "Wind resource map for the Philippines, from the Global Wind Atlas"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_resource_assessment",
+        "title": "Wind resource assessment",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Wind energy resources",
+        "text": "Wind is air movement in the Earth's atmosphere. In a unit of time, say 1 second, the volume of air that had passed an area A {\\displaystyle A} is A v {\\displaystyle Av} . If the air density is ρ {\\displaystyle \\rho } , the mass of this volume of air is M = ρ A v {\\displaystyle M=\\rho Av} , and the power transfer, or energy transfer per second is P = 1 2 M v 2 = 1 2 ρ A v 3 {\\displaystyle P={\\tfrac {1}{2}}Mv^{2}={\\tfrac {1}{2}}\\rho Av^{3}} . Wind power is thus proportional to the third power of the wind speed; the available power increases eightfold when the wind speed doubles. Change of wind speed by a factor of 2.1544 increases the wind power by one order of magnitude (multiply by 10). The global wind kinetic energy averaged approximately 1.50 MJ/m 2 over the period from 1979 to 2010, 1.31 MJ/m 2 in the Northern Hemisphere with 1.70 MJ/m 2 in the Southern Hemisphere. The atmosphere acts as a thermal engine, absorbing heat at higher temperatures, releasing heat at lower temperatures. The process is responsible for the production of wind kinetic energy at a rate of 2.46 W/m 2 thus sustaining the circulation of the atmosphere against friction. [15] Through wind resource assessment , it is possible to estimate wind power potential globally, by country or region, or for a specific site. The Global Wind Atlas provided by the Technical University of Denmark in partnership with the World Bank provides a global assessment of wind power potential. [13] [16] [17] Unlike 'static' wind resource atlases which average estimates of wind speed and power density across multiple years, tools such as Renewables.ninja provide time-varying simulations of wind speed and power output from different wind turbine models at an hourly resolution. [18] More detailed, site-specific assessments of wind resource potential can be obtained from specialist commercial providers, and many of the larger wind developers have in-house modeling capabilities. The total amount of economically extractable power available from the wind is considerably more than present human power use from all sources. [19] The strength of wind varies, and an average value for a given location does not alone indicate the amount of energy a wind turbine could produce there. To assess prospective wind power sites, a probability distribution function is often fit to the observed wind speed data. [20] Different locations will have different wind speed distributions. The Weibull model closely mirrors the actual distribution of hourly/ten-minute wind speeds at many locations. The Weibull factor is often close to 2 and therefore a Rayleigh distribution can be used as a less accurate, but simpler model. [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mean_Wind_Speed.png/220px-Mean_Wind_Speed.png",
+                "caption": "Global map of wind speed at 100 meters on land and around coasts. [13]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Lee_Ranch_Wind_Speed_Frequency.svg/350px-Lee_Ranch_Wind_Speed_Frequency.svg.png",
+                "caption": "Distribution of wind speed (red) and energy (blue) for all of 2002 at the Lee Ranch facility in Colorado. The histogram shows measured data, while the curve is the Rayleigh model distribution for the same average wind speed."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Global_Map_of_Wind_Power_Density_Potential.png/220px-Global_Map_of_Wind_Power_Density_Potential.png",
+                "caption": "Global map of wind power density potential [14]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Offshore wind power",
+        "text": "Offshore wind power is wind farms in large bodies of water, usually the sea. These installations can use the more frequent and powerful winds that are available in these locations and have less visual impact on the landscape than land-based projects. However, the construction and maintenance costs are considerably higher. [36] [37] As of November 2021, the Hornsea Wind Farm in the United Kingdom is the largest offshore wind farm in the world at 1,218 MW . [38]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Agucadoura_WindFloat_Prototype.jpg/225px-Agucadoura_WindFloat_Prototype.jpg",
+                "caption": "The world's second full-scale floating wind turbine (and first to be installed without the use of heavy-lift vessels), WindFloat, operating at rated capacity (2  MW) approximately 5  km offshore of Póvoa de Varzim , Portugal"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Growth trends",
+        "text": "In 2020, wind supplied almost 1600 TWh of electricity, which was over 5% of worldwide electrical generation and about 2% of energy consumption. [2] [3] With over 100 GW added during 2020, mostly in China , global installed wind power capacity reached more than 730 GW. [4] [3] But to help meet the Paris Agreement 's goals to limit climate change , analysts say it should expand much faster - by over 1% of electricity generation per year. [6] Expansion of wind power is being hindered by fossil fuel subsidies . [48] [49] [50] The actual amount of electric power that wind can generate is calculated by multiplying the nameplate capacity by the capacity factor , which varies according to equipment and location. Estimates of the capacity factors for wind installations are in the range of 35% to 44%. [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2010-_Power_capacity_by_technology_-_Dec_2022_International_Energy_Agency.svg/210px-2010-_Power_capacity_by_technology_-_Dec_2022_International_Energy_Agency.svg.png",
+                "caption": "Renewable energy sources, especially solar photovoltaic and wind power, are providing an increasing share of power capacity. [45]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png",
+                "caption": "Log graph of global wind power cumulative capacity (Data:GWEC) [47]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Penetration",
+        "text": "Wind energy penetration is the fraction of energy produced by wind compared with the total generation. Wind power's share of worldwide electricity usage in 2021 was almost 7%, [55] up from 3.5% in 2015. [56] [57] There is no generally accepted maximum level of wind penetration. The limit for a particular grid will depend on the existing generating plants, pricing mechanisms, capacity for energy storage , demand management, and other factors. An interconnected electric power grid will already include reserve generating and transmission capacity to allow for equipment failures. This reserve capacity can also serve to compensate for the varying power generation produced by wind stations. Studies have indicated that 20% of the total annual electrical energy consumption may be incorporated with minimal difficulty. [58] These studies have been for locations with geographically dispersed wind farms, some degree of dispatchable energy or hydropower with storage capacity, demand management, and interconnected to a large grid area enabling the export of electric power when needed. Electrical utilities continue to study the effects of large-scale penetration of wind generation on system stability. [59] A wind energy penetration figure can be specified for different duration of time but is often quoted annually. To generate almost all electricity from wind annually requires substantial interconnection to other systems, for example some wind power in Scotland is sent to the rest of the British grid . [60] On a monthly, weekly, daily, or hourly basis—or less—wind might supply as much as or more than 100% of current use, with the rest stored, exported or curtailed. The seasonal industry might then take advantage of high wind and low usage times such as at night when wind output can exceed normal demand. Such industry might include the production of silicon, aluminum, [61] steel, or natural gas, and hydrogen, and using future long-term storage to facilitate 100% energy from variable renewable energy . [62] [63] [ better source needed ] Homes and businesses can also be programmed to vary electricity demand , [64] [65] for example by remotely turning up water heater thermostats. [66]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Share_of_electricity_production_from_wind.svg/350px-Share_of_electricity_production_from_wind.svg.png",
+                "caption": "Share of electricity production from wind, 2022 [54]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Variability",
+        "text": "Wind power is variable, and during low wind periods, it may need to be replaced by other power sources. Transmission networks presently cope with outages of other generation plants and daily changes in electrical demand, but the variability of intermittent power sources such as wind power is more frequent than those of conventional power generation plants which, when scheduled to be operating, may be able to deliver their nameplate capacity around 95% of the time. Electric power generated from wind power can be highly variable at several different timescales: hourly, daily, or seasonally. Annual variation also exists but is not as significant. [ citation needed ] Because instantaneous electrical generation and consumption must remain in balance to maintain grid stability, this variability can present substantial challenges to incorporating large amounts of wind power into a grid system. Intermittency and the non- dispatchable nature of wind energy production can raise costs for regulation, incremental operating reserve , and (at high penetration levels) could require an increase in the already existing energy demand management , load shedding , storage solutions, or system interconnection with HVDC cables. Fluctuations in load and allowance for the failure of large fossil-fuel generating units require operating reserve capacity, which can be increased to compensate for the variability of wind generation. Utility-scale batteries are often used to balance hourly and shorter timescale variation, [67] [68] but car batteries may gain ground from the mid-2020s. [69] Wind power advocates argue that periods of low wind can be dealt with by simply restarting existing power stations that have been held in readiness, or interlinking with HVDC. [70] The combination of diversifying variable renewables by type and location, forecasting their variation, and integrating them with dispatchable renewables, flexible fueled generators, and demand response can create a power system that has the potential to meet power supply needs reliably. Integrating ever-higher levels of renewables is being successfully demonstrated in the real world. [71] Solar power tends to be complementary to wind. [73] [74] On daily to weekly timescales, high-pressure areas tend to bring clear skies and low surface winds, whereas low-pressure areas tend to be windier and cloudier. On seasonal timescales, solar energy peaks in summer, whereas in many areas wind energy is lower in summer and higher in winter. [A] [75] Thus the seasonal variation of wind and solar power tend to cancel each other somewhat. [72] Wind hybrid power systems are becoming more popular. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Toro_de_osborne.jpg/220px-Toro_de_osborne.jpg",
+                "caption": "Wind turbines are typically installed in windy locations. In the image, wind power generators in Spain , near an Osborne bull ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Roscoe_Wind_Farm_in_West_Texas.jpg/220px-Roscoe_Wind_Farm_in_West_Texas.jpg",
+                "caption": "Roscoe Wind Farm : an onshore wind farm in West Texas near Roscoe"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png/220px-Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png",
+                "caption": "Seasonal cycle of capacity factors for wind and photovoltaics in Europe under idealized assumptions. The figure illustrates the balancing effects of wind and solar energy at the seasonal scale (Kaspar et al., 2019). [72]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Economics",
+        "text": "Onshore wind is an inexpensive source of electric power, cheaper than coal plants and new gas plants. [10] According to BusinessGreen , wind turbines reached grid parity (the point at which the cost of wind power matches traditional sources) in some areas of Europe in the mid-2000s, and in the US around the same time. Falling prices continue to drive the Levelized cost down and it has been suggested that it has reached general grid parity in Europe in 2010, and will reach the same point in the US around 2016 due to an expected reduction in capital costs of about 12%. [88] [ needs update ] In 2021, the CEO of Siemens Gamesa warned that increased demand for low-cost wind turbines combined with high input costs and high costs of steel result in increased pressure on the manufacturers and decreasing profit margins. [89] Northern Eurasia, Canada, some parts of the United States, and Patagonia in Argentina are the best areas for onshore wind: whereas in other parts of the world solar power, or a combination of wind and solar, tend to be cheaper. [90] : 8",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Onshore-wind-lcoe.png/310px-Onshore-wind-lcoe.png",
+                "caption": "Onshore wind cost per kilowatt-hour between 1983 and 2017 [87]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Electric power cost and trends",
+        "text": "Wind power is capital intensive but has no fuel costs. [91] The price of wind power is therefore much more stable than the volatile prices of fossil fuel sources. [92] However, the estimated average cost per unit of electric power must incorporate the cost of construction of the turbine and transmission facilities, borrowed funds, return to investors (including the cost of risk), estimated annual production, and other components, averaged over the projected useful life of the equipment, which may be more than 20 years. Energy cost estimates are highly dependent on these assumptions so published cost figures can differ substantially. The presence of wind energy, even when subsidized, can reduce costs for consumers (€5 billion/yr in Germany) by reducing the marginal price, by minimizing the use of expensive peaking power plants . [93] The cost has decreased as wind turbine technology has improved. There are now longer and lighter wind turbine blades, improvements in turbine performance, and increased power generation efficiency. Also, wind project capital expenditure costs and maintenance costs have continued to decline. [94] In 2021, a Lazard study of unsubsidized electricity said that wind power levelized cost of electricity continues to fall but more slowly than before. The study estimated new wind-generated electricity cost from $26 to $50/MWh, compared to new gas power from $45 to $74/MWh. The median cost of fully deprecated existing coal power was $42/MWh, nuclear $29/MWh and gas $24/MWh. The study estimated offshore wind at around $83/MWh. Compound annual growth rate was 4% per year from 2016 to 2021, compared to 10% per year from 2009 to 2021. [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Turbine_Blade_Convoy_Passing_through_Edenfield.jpg/220px-Turbine_Blade_Convoy_Passing_through_Edenfield.jpg",
+                "caption": "A turbine blade convoy passing through Edenfield in the U.K. (2008). Even longer 2-piece blades are now manufactured, and then assembled on-site to reduce difficulties in transportation."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Small-scale wind power",
+        "text": "Small-scale wind power is the name given to wind generation systems with the capacity to produce up to 50 kW of electrical power. [102] Isolated communities, that may otherwise rely on diesel generators, may use wind turbines as an alternative. Individuals may purchase these systems to reduce or eliminate their dependence on grid electric power for economic reasons, or to reduce their carbon footprint . Wind turbines have been used for household electric power generation in conjunction with battery storage over many decades in remote areas. [103] Examples of small-scale wind power projects in an urban setting can be found in New York City , where, since 2009, several building projects have capped their roofs with Gorlov-type helical wind turbines . Although the energy they generate is small compared to the buildings' overall consumption, they help to reinforce the building's 'green' credentials in ways that \"showing people your high-tech boiler\" cannot, with some of the projects also receiving the direct support of the New York State Energy Research and Development Authority . [104] Grid-connected domestic wind turbines may use grid energy storage, thus replacing purchased electric power with locally produced power when available. The surplus power produced by domestic microgenerators can, in some jurisdictions, be fed into the network and sold to the utility company, producing a retail credit for the microgenerators' owners to offset their energy costs. [105] Off-grid system users can either adapt to intermittent power or use batteries, photovoltaic , or diesel systems to supplement the wind turbine. [106] Equipment such as parking meters, traffic warning signs, street lighting, or wireless Internet gateways may be powered by a small wind turbine, possibly combined with a photovoltaic system, that charges a small battery replacing the need for a connection to the power grid. [107] Airborne wind turbines , such as kites, can be used in places at risk of hurricanes, as they can be taken down in advance. [108]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Quietrevolution_Bristol_3513051949.jpg/220px-Quietrevolution_Bristol_3513051949.jpg",
+                "caption": "A small Quietrevolution QR5 Gorlov type vertical axis wind turbine on the roof of Bristol Beacon in Bristol, England . Measuring 3 m in diameter and 5 m high, it has a nameplate rating of 6.5 kW."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Impact on environment and landscape",
+        "text": "The environmental impact of electricity generation from wind power is minor when compared to that of fossil fuel power . [110] Wind turbines have some of the lowest life-cycle greenhouse-gas emissions of energy sources : far less greenhouse gas is emitted than for the average unit of electricity, so wind power helps limit climate change. [111] Use of engineered wood may allow carbon negative wind power. [112] Wind power consumes no fuel, and emits no local air pollution , unlike fossil fuel power sources. Onshore wind farms can have a significant visual impact. [113] Due to a very low surface power density and spacing requirements, wind farms typically need to be spread over more land than other power stations. [7] [114] Their network of turbines, access roads, transmission lines, and substations can result in \"energy sprawl\"; [8] although land between the turbines and roads can still be used for agriculture. [115] [116] Some wind farms are opposed for potentially spoiling protected scenic areas, archaeological landscapes and heritage sites. [117] [118] [119] A report by the Mountaineering Council of Scotland concluded that wind farms harmed tourism in areas known for natural landscapes and panoramic views. [120] Habitat loss and fragmentation are the greatest potential impacts on wildlife of onshore wind farms, [8] but the worldwide ecological impact is minimal. [110] Thousands of birds and bats, including rare species, have been killed by wind turbine blades, [121] though wind turbines are responsible for far fewer bird deaths than fossil-fueled power stations. [122] This can be mitigated with proper wildlife monitoring. [123] Many wind turbine blades are made of fiberglass , and have a lifetime of 20 years. [124] Blades are hollow: some blades are crushed to reduce their volume and then landfilled. [125] However, as they can take a lot of weight they can be made into long lasting small bridges for walkers or cyclists. [126] Blade end-of-life is complicated, [127] and blades manufactured in the 2020s are more likely to be designed to be completely recyclable. [128] Wind turbines also generate noise. At a distance of 300 metres (980 ft), this may be around 45 dB, which is slightly louder than a refrigerator. At 1.5 km (1 mi), they become inaudible. [129] [130] There are anecdotal reports of negative health effects on people who live very close to wind turbines. [131] Peer-reviewed research has generally not supported these claims. [132] [133] [134]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Greenhouse_gas_emissions_per_energy_source.png/220px-Greenhouse_gas_emissions_per_energy_source.png",
+                "caption": "Greenhouse gas emissions per energy source. Wind energy is one of the sources with the least greenhouse gas emissions."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Wb_deichh_drei_kuhs.jpg/220px-Wb_deichh_drei_kuhs.jpg",
+                "caption": "Livestock grazing near a wind turbine. [109]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Central government",
+        "text": "Although wind turbines with fixed bases are a mature technology and new installations are generally no longer subsidized, [135] [136] floating wind turbines are a relatively new technology so some governments subsidize them, for example to use deeper waters. [137] Fossil fuel subsidies by some governments are slowing the growth of renewables. [138] Permitting of wind farms can take years and some governments are trying to speed up - the wind industry says this will help limit climate change and increase energy security [139] - sometimes groups such as fishers resist this [140] but governments say that rules protecting biodiversity will still be followed. [141]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Floatgen.jpg/220px-Floatgen.jpg",
+                "caption": "Wind turbine floating off France"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Public opinion",
+        "text": "Surveys of public attitudes across Europe and in many other countries show strong public support for wind power. [143] [144] [145] Bakker et al. (2012) found in their study that residents who did not want turbines built near them suffered significantly more stress than those who \"benefited economically from wind turbines\". [146] Although wind power is a popular form of energy generation, onshore or near offshore wind farms are sometimes opposed for their impact on the landscape (especially scenic areas, heritage areas and archaeological landscapes), as well as noise, and impact on tourism. [147] [148] In other cases, there is direct community ownership of wind farms . The hundreds of thousands of people who have become involved in Germany's small and medium-sized wind farms demonstrate such support there. [149] A 2010 Harris Poll found strong support for wind power in Germany, other European countries, and the United States. [143] [144] [150] Public support in the United States has decreased from 75% in 2020 to 62% in 2021, with the Democrat Party supporting the use of wind energy twice as much as the Republican Party. [151] President Biden has signed an executive order to begin building large scale wind farms. [152] In China , Shen et al. (2019) found that Chinese city-dwellers may be resistant to building wind turbines in urban areas, with a surprisingly high proportion of people citing an unfounded fear of radiation as driving their concerns. [153] Also, the study finds that like their counterparts in OECD countries, urban Chinese respondents are sensitive to direct costs and wildlife externalities. Distributing relevant information about turbines to the public may alleviate resistance.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg/220px-202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg.png",
+                "caption": "Acceptance of wind and solar facilities in one's community is stronger among U.S. Democrats (blue), while acceptance of nuclear power plants is stronger among U.S. Republicans (red). [142]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Community",
+        "text": "Many wind power companies work with local communities to reduce environmental and other concerns associated with particular wind farms. [156] [157] [158] In other cases there is direct community ownership of wind farm projects . Appropriate government consultation, planning and approval procedures also help to minimize environmental risks. [143] [159] [160] Some may still object to wind farms [161] but many say their concerns should be weighed against the need to address the threats posed by air pollution , [162] [111] climate change [163] and the opinions of the broader community. [164] In the US, wind power projects are reported to boost local tax bases, helping to pay for schools, roads, and hospitals, and to revitalize the economies of rural communities by providing steady income to farmers and other landowners. [98] In the UK, both the National Trust and the Campaign to Protect Rural England have expressed concerns about the effects on the rural landscape caused by inappropriately sited wind turbines and wind farms. [165] [166] Some wind farms have become tourist attractions. The Whitelee Wind Farm Visitor Centre has an exhibition room, a learning hub, a café with a viewing deck and also a shop. It is run by the Glasgow Science Centre . [167] In Denmark, a loss-of-value scheme gives people the right to claim compensation for loss of value of their property if it is caused by proximity to a wind turbine. The loss must be at least 1% of the property's value. [168] Despite this general support for the concept of wind power in the public at large, local opposition often exists and has delayed or aborted a number of projects. [169] [170] [171] As well as concerns about the landscape, there are concerns that some installations can produce excessive sound and vibration levels leading to a decrease in property values. [172] A study of 50,000 home sales near wind turbines found no statistical evidence that prices were affected. [173] While aesthetic issues are subjective and some find wind farms pleasant and optimistic, or symbols of energy independence and local prosperity, protest groups are often formed to attempt to block some wind power stations for various reasons. [161] [174] [175] Some opposition to wind farms is dismissed as NIMBYism , [176] but research carried out in 2009 found that there is little evidence to support the belief that residents only object to wind farms because of a \"Not in my Back Yard\" attitude. [177]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wind_tubines_cumbria.JPG/450px-Wind_tubines_cumbria.JPG",
+                "caption": "Wind turbines such as these, in Cumbria , England, have been opposed for a number of reasons, including aesthetics, by some sectors of the population. [154] [155]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Whitelee_panorama.JPG/450px-Whitelee_panorama.JPG",
+                "caption": "A panoramic view of the United Kingdom's Whitelee Wind Farm with Lochgoin Reservoir in the foreground."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Wind power by state",
+        "text": "There is a growing number of wind energy installations in states across India. Gujarat has the highest installed wind power capacity, followed by Tamil Nadu .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/A_Wind_turbine_near_Kanyakumari.jpg/220px-A_Wind_turbine_near_Kanyakumari.jpg",
+                "caption": "Muppandal Wind farm near NH44"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Aralvaimozhy_station.jpg/220px-Aralvaimozhy_station.jpg",
+                "caption": "Muppandal Wind Farm in Tamil Nadu"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power_in_India",
+        "title": "Wind power in India",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Projects",
+        "text": "India's largest wind power production facilities (20 MW and greater) [44] [45]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tirumala_Wind_Mills.jpg/220px-Tirumala_Wind_Mills.jpg",
+                "caption": "Windmills on the Tirumala hills in Andhra Pradesh"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Turbines-thar-india.jpg/220px-Turbines-thar-india.jpg",
+                "caption": "A wind farm in Rajasthan"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/India_fields_and_wind_turbines.jpg/220px-India_fields_and_wind_turbines.jpg",
+                "caption": "Wind turbines in India's agricultural farms"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power_in_India",
+        "title": "Wind power in India",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Largest wind farms",
+        "text": "The ten largest wind farms in the United States are:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Installed_wind_capacity_and_average_wind_speed_of_the_contiguous_United_States.jpg/400px-Installed_wind_capacity_and_average_wind_speed_of_the_contiguous_United_States.jpg",
+                "caption": "Wind plants by capacity with average wind speeds at 100 meters, 2020."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power_in_the_United_States",
+        "title": "Wind power in the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Production",
+        "text": "As of 2022, the United States has over 141 GW of installed wind power capacity. Wind power has increased dramatically over the past years. In 2010, however, newly installed generating capacity was about half of the previous year due to various factors, including the financial crisis, and recession. In 2013 there was a 92% reduction in newly installed generating capacity compared to 2012, due to the late extension of the PTC (see image on the right). [34] The graph at left shows the growth in installed wind generation capacity in the United States based on data from the Office of Energy Efficiency and Renewable Energy . [29] In 2008, installed capacity in the U.S. increased by 50% over the prior year. The world average growth rate that year was 28.8%. [35] By 2014, the wind industry in the USA was able to produce more power at lower cost by using taller wind turbines with longer blades, capturing the faster winds at higher elevations. This opened up new opportunities and in Indiana, Michigan, and Ohio, the price of power from wind turbines 300 to 400 feet (90 to 120 m) above the ground competed with conventional fossil fuels like coal. Prices had fallen to about 4 cents per kilowatt-hour in some cases and utilities had been increasing the amount of wind energy in their portfolio, saying it is their cheapest option. [36] For power contracts made in the year 2014, the average price of wind power fell to 2.5¢/kWh. [37] The capacity factor is the ratio of power actually produced divided by the nameplate capacity of the turbines. The overall average capacity factor for wind generation in the US increased from 31.7% in 2008, to 32.3% in 2013. [38] In 2023, U.S. wind power production fell by 2% despite an increase of 6.2 gigawatts in capacity, primarily due to weaker-than-normal winds in the Midwest. This marked the first decrease in 25 years and was reflected in the capacity factor dropping to an eight-year low of 33.5%. The decline highlights the challenges of depending on intermittent renewable energy sources like wind, which are significantly influenced by variable climatic conditions such as the El Niño phenomenon , reducing wind speeds. [39]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/US_Monthly_Wind_Generated_Electricity.svg/220px-US_Monthly_Wind_Generated_Electricity.svg.png",
+                "caption": "Monthly wind electric power generation in the US, 2007–2017"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/US_monthly_wind_capacity_factor.svg/220px-US_monthly_wind_capacity_factor.svg.png",
+                "caption": "Average monthly capacity factors for electric power generation by utility-scale wind turbines in the United States, 2011–2015 (US Energy Information Administration data)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power_in_the_United_States",
+        "title": "Wind power in the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Wind generation potential",
+        "text": "According to the National Renewable Energy Laboratory , the contiguous United States has the potential for\n10,459 GW of onshore wind power. [41] [42] The capacity could generate 37 petawatt-hours (PW·h) annually, an amount nine times larger than total U.S. electricity consumption . [43] The U.S. also has large wind resources in Alaska , [44] and Hawaii . [45] In addition to the large onshore wind resources, the U.S. has large offshore wind power potential, [46] with another NREL report released in September 2010 showing that the U.S. has 4,150 GW of potential offshore wind power nameplate capacity, an amount 4 times that of the country's 2008 installed capacity from all sources, of 1,010 GW. [47] Some experts estimate that the entire East Coast could be powered by offshore wind farms. [48] The U.S. Department of Energy's 2008 report 20% Wind Energy by 2030 [49] envisioned that wind power could supply 20% of all U.S. electric power, which included a contribution of 4% to the nation's total electric power from offshore wind power. [50] In order to achieve this, significant advances in cost, performance and reliability are needed, based on a 2011 report from a coalition of researchers from universities, industry, and government, supported by the Atkinson Center for a Sustainable Future . [51] Obtaining 20% from wind requires about 305 GW of wind turbines, an increase of 16 GW/year after 2018, or an average increase of 14.6%/year, and transmission line improvements. [49] Analysts estimate around 25 GW of added US wind power in 2016–18, [52] depending on the Clean Power Plan and PTC extensions. After the PTC phase-out in 2021, additional wind power capacity is expected to be around 5 GW per year. [53]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2000-_Clean_power_installation_-_wind%2C_solar%2C_storage_-_US.svg/220px-2000-_Clean_power_installation_-_wind%2C_solar%2C_storage_-_US.svg.png",
+                "caption": "New installation of wind and solar capacity increased surged in 2020, but was then affected by sourcing problems for solar panels, supply chain constraints, interconnection issues, and policy uncertainty. [40]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power_in_the_United_States",
+        "title": "Wind power in the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Wind power by state",
+        "text": "In 2019, electric power generation from wind power was 10 percent or more in fourteen U.S. states: Colorado, Idaho, Iowa, Kansas, Maine, Minnesota, North Dakota, Oklahoma, Oregon, South Dakota, Vermont, Nebraska, New Mexico, and Texas. [54] Iowa, South Dakota, North Dakota, Oklahoma, and Kansas each had more than 20 percent of their electric power generation come from wind. [55] Twenty states now have more than five percent of their generation coming from wind. [55] Iowa became the first state in the nation to generate 50% of its electricity from wind power in 2020, as predicted in 2015. [56] The five states with the most wind capacity installed at the end of 2020 were: [33] The top five states according to percentage of generation by wind in 2020 were: [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Top_Five_US_Wind_States.svg/220px-Top_Five_US_Wind_States.svg.png",
+                "caption": "Trends of wind electrical generation in the top five states, 1990–2013 (US EIA data)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wind_electricity_generation_in_the_United_States%2C_2001-2018_%2848018477816%29.png/220px-Wind_electricity_generation_in_the_United_States%2C_2001-2018_%2848018477816%29.png",
+                "caption": "Wind electricity generation in the United States, 2001–2018. In 2018, 4 states made up over half of total wind power output"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power_in_the_United_States",
+        "title": "Wind power in the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Texas",
+        "text": "In July 2008, Texas approved a $4.93 billion expansion of the state's electric grid to bring wind energy to its major cities from western areas of the state. Transmission companies will recoup the cost of constructing the new power lines, expected to be completed in 2013, from fees estimated at $4 per month for residential customers. [59] A lack of transmission capacity forced wind turbines to be shut down at times and reduced wind power generation in Texas by 17% in 2009. [60] In 2011, Texas had become the first state to surpass the 10,000 MW mark. [61] On completion in 2016, the Los Vientos Wind Farm became Texas's most powerful wind farm with a total installed capacity of 912 MW. [17] It is spread out over two counties in South Texas . It is followed by the Roscoe Wind Farm with 627 wind turbines and a total installed capacity of 781.5 MW which is located about 200 miles (320 km) west of Fort Worth in an area that spans parts of four Texas counties. [62] [63] The Horse Hollow Wind Energy Center is third with 735.5 MW. [64] By 2016 Texas surpassed the 20,000 MW mark by adding over 1800 MW of generating capacity in 2016 alone, including Los Vientos. [9]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2022_Wind_and_solar_energy_generation_leaders_among_U.S._states_-_variable_width_bar_chart_-_IEA_data.svg/248px-2022_Wind_and_solar_energy_generation_leaders_among_U.S._states_-_variable_width_bar_chart_-_IEA_data.svg.png",
+                "caption": "Though Texas generates the most wind + solar power of all states, various other states generate more wind + solar power per capita . [58]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power_in_the_United_States",
+        "title": "Wind power in the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Iowa",
+        "text": "More than 57 percent of the electric power generated in Iowa now comes from wind power as of February 2021. [69] Iowa had over 10,950 megawatts (MW) of generation capacity at the end of 2020, with over 1,500 megawatts planned to come online in the near future. [69] Electrical energy generated in Iowa by wind in 2020 amounted to over 34 million Megawatt-hours. [69] Since Iowa adopted a renewable energy standard in 1983, the wind power industry has generated over $19 billion in investment. [70] The second concrete wind turbine tower to be built in the U.S., and also the country's tallest (377 feet) at the time built, is in Adams county. The tower was completed in the spring of 2016. [71] In 2018, Invenergy announced it plans to develop a pair of wind farms in Iowa. Each farm will be capable of generating 200 MW. Construction is planned to begin in early 2019. [72]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/WindPowrPctg.svg/220px-WindPowrPctg.svg.png",
+                "caption": "State wind generation percentages for 2017. Five states exceeded 25% of generation."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Iowa_wind_farms-2.jpg/220px-Iowa_wind_farms-2.jpg",
+                "caption": "Northern Iowa wind farm Pioneer Prairie"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power_in_the_United_States",
+        "title": "Wind power in the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "California",
+        "text": "With nearly 4,000 megawatts installed, as of the end of 2011, wind energy supplied about 5% of California's total electric power needs, or enough to power more than 400,000 households. The amount varies greatly from day to day. [76] In 2011, 921.3 megawatts were installed. Most of that activity occurred in the Tehachapi area of Kern County, with some big projects in Solano, Contra Costa and Riverside counties as well. [ citation needed ] After 2014, California ranked second nationwide in terms of capacity, behind Texas with a capacity of 5,917 MW. [1] In 2020, wind power accounted for 7.2% of the combined total energy generated in California. [77] Large portions of California's wind output, are located in three primary regions: Altamont Pass Wind Farm (east of San Francisco); Tehachapi Pass Wind Farm (south east of Bakersfield), and San Gorgonio Pass Wind Farm , near Palm Springs, east of Los Angeles. The giant new Alta Wind Energy Center , is also located within the Tehachapi Pass region. [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/San_gorgonio_pass_wind_farm_california_pano.jpg/1000px-San_gorgonio_pass_wind_farm_california_pano.jpg",
+                "caption": "The majority of the San Gorgonio Pass Wind Farm as viewed from the San Jacinto Mountains to the south. The farm continues over the hills to the north along California State Route 62 and is not visible from this vantagepoint. The layout includes a variety of large modern and older smaller turbine designs"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power_in_the_United_States",
+        "title": "Wind power in the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Illinois",
+        "text": "Wind power has been supported by a renewable portfolio standard , [80] passed in 2007, and strengthened in 2009, which requires 10% renewable energy from electric companies by 2010 and 25% by 2025. Illinois has the potential for installing up to an estimated 249,882 MW of wind generation capacity at a hub height of 80 meters. [81]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/State_Per_Capita_Monthly_Wind_Generation_2017.svg/220px-State_Per_Capita_Monthly_Wind_Generation_2017.svg.png",
+                "caption": "The 2017 average monthly per person wind generation for the top 20 U.S. states is shown. For reference, the average monthly residential electricity use in the U.S. is about 900 kW-hours."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power_in_the_United_States",
+        "title": "Wind power in the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Other government involvement",
+        "text": "The DOE's National Renewable Energy Laboratory (NREL) has announced a number of wind technology projects, including a new state-of-the-art wind turbine blade test facility to be built in Ingleside, Texas . The Texas-NREL Large Blade Research and Test Facility will be capable of testing blades as long as 70 meters (230 feet). It will be built and operated through a partnership among NREL, DOE, and a state consortium led by University of Houston , with the university owning and operating the facility's buildings, DOE funding up to $2 million in capital costs, and NREL providing technical and operational assistance. The blade test facility is estimated to cost between $12 million and $15 million and should be completed by 2010. Located on the Gulf Coast, the Texas facility will complement a similar facility that is being built on the coast of Massachusetts . [88] NREL has also recently signed agreements with Siemens Power Generation and First Wind, a wind power developer. Siemens is launching a new research and development facility in nearby Boulder, Colorado , and has agreed to locate and test a commercial-scale wind turbine at NREL's National Wind Technology Center (NWTC). First Wind (formerly called UPC Wind Partners, LLC) owns and operates the 30-megawatt Kaheawa Wind Power farm in West Maui, Hawaii , and has agreed to let the NWTC establish a Remote Research Affiliate Partner Site at the facility. The Maui satellite of NWTC will collaborate with First Wind on studies to develop advanced wind energy technologies, including energy storage and integration of renewable electric power into Maui's electrical grid. [89] In 2010, the DOE awarded $60 million for a study of transmission requirements. [90] Beginning in 2006, the DOE is required to provide a transmission congestion report once every three years. [91] Recent U.S. policy has generally been to provide an inflation-adjusted federal production tax credit (PTC) of $15 per MW·h (in 1995 dollars) generated for the first ten years of operation for wind energy sold. As of 2015, the credit was $23 per MW·h. [92] Renewable portfolio standards mandating a certain percentage of electric power sales come from renewable energy sources, which are in place in about half of the states, also have boosted the development of the wind industry. [93] Each time Congress has allowed the production tax credit to expire, wind power development has slowed as investors wait for the credit to be restored. Each year it is renewed, development has expanded. The tax credit expired at the end of 2012, bringing wind power development activity to a near halt. A short term, one-year policy was enacted at the beginning of 2013 which provides a tax credit to projects under construction by the end of 2013 and completed before the end of 2014. [94] The PTC was first introduced in 1992. [95] When it was allowed to expire, development dropped 93%, 73%, and 77% the following year. The Energy Information Administration has reported that wind power received the largest share of direct federal subsidies and support in fiscal year 2013 (the latest year for which statistics are available), accounting for 37% ($5.936 billion) of total electric power-related subsidies. Almost three-quarters of wind energy subsidies in that year were direct expenditures and largely resulted from the ARRA programs. These figures do not include subsidies and supports from other levels of government. [96] The development of wind power in the United States has been supported primarily through a production tax credit (PTC), which pays producers on the amount of electric power produced. On January 1, 2013, the production tax credit was extended for another year. [94] In late 2015 authorities provided an extension of the Production Tax Credit. The extension phases out the credit over a period of five years. The 30 percent wind and solar tax credit will extend through 2019 and then taper to 10 percent in 2022. [97] The average price of Power purchase agreements was $23.5/MWh in 2014. [87] Operating expenses were estimated to $10/MWh. [37]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kaheawa_Wind_Farm_428371965_88dfaa760a_o.jpg/220px-Kaheawa_Wind_Farm_428371965_88dfaa760a_o.jpg",
+                "caption": "Kaheawa Wind Farm near Maalaea, Maui , with 20 GE Energy 1.5 MW wind turbines"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power_in_the_United_States",
+        "title": "Wind power in the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Siting considerations",
+        "text": "There is competition for wind farms among farmers in places like Iowa or ranchers in Colorado. In 2007, farmers, with no investment on their part, typically received $3,000–5,000 per year in royalties [98] from the local utility for siting a single, large, advanced-design wind turbine. [99] [100] [101] [102] [103] Landscape and ecological issues may be significant for some wind farm proposals, [104] and environmental issues are a consideration in site selection. [105] Worldwide experience has shown that community consultation and direct involvement of the general public in wind farm projects has helped to increase community approval, and some wind farms overseas have become tourist attractions , like the Ten Mile Lagoon Wind Farm .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Windmills_south_of_Dumas%2C_TX_IMG_0570.JPG/220px-Windmills_south_of_Dumas%2C_TX_IMG_0570.JPG",
+                "caption": "In 2008, landowners typically received $3,000 to $5,000 per year in rental income from each wind turbine, while farmers continue to grow crops or graze cattle up to the foot of the turbines. [11]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power_in_the_United_States",
+        "title": "Wind power in the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "Offshore wind power",
+        "text": "Offshore development is hindered by relatively high cost compared to onshore facilities. Several projects are under development with some at advanced stages of development. [106] The United States, though, has very large offshore wind energy resources due to strong, consistent winds off the long U.S. coastline. [50] The 2011 NREL report, Large-Scale Offshore Wind Power in the United States , analyzes the current state of the offshore wind energy industry. According to the report, offshore wind resource development would help the country to achieve 20% of its electric power from wind by 2030 and to revitalize the manufacturing sector. Offshore wind could supply 54 gigawatts of capacity to the nation's electrical grid, thereby increasing energy security . It could also generate an estimated $200 billion in new economic activity and create thousands of permanent jobs. [107] NREL's report concludes that \"the development of the nation's offshore wind resources can provide many potential benefits, and that offshore wind energy could play a vital role in future U.S. energy markets\". [107] Coastal residents have opposed offshore wind farms because of fears about impacts on marine life, the environment, electric power rates, aesthetics, and recreation such as fishing and boating. However, residents also cite improved electric power rates, air quality, and job creation as positive impacts they would expect from wind farms. [108] [109] Because the bases of offshore turbines function as artificial reefs, studies have shown that after the initial disturbance of construction, local fish and shellfish are positively affected. [108] [110] Because wind turbines can be positioned at some distance from shore, impacts to recreation and fishing can be managed by careful planning of wind farm locations. [108] Five exploratory leases for wind power production on the Outer Continental Shelf offshore from New Jersey and Delaware were issued in June 2009 by the Secretary of the Interior. The leases authorize data gathering activities, allowing for the construction of meteorological towers on the Outer Continental Shelf from six to 18 miles (29 km) offshore. [111] Four areas were being considered. [112] On February 7, 2011, Salazar and Steven Chu announced a national strategy to have offshore wind power of 10 GW in 2020, and 54 GW in 2030. [113] In 2021 the Biden Administration announced a target of 30 GW of offshore wind by 2030. [114] In the first quarter of 2024, there was a significant increase in the installed offshore wind capacity in the U.S., rising from 42 megawatts (MW) to 242 MW.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Offshore_wind_power_potential_in_the_United_States.jpg/220px-Offshore_wind_power_potential_in_the_United_States.jpg",
+                "caption": "Offshore wind power potential in the United States"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power_in_the_United_States",
+        "title": "Wind power in the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    },
+    {
+        "section": "New England",
+        "text": "Rhode Island and Massachusetts state officials picked Deepwater Wind to build a $1.5-billion, 385-megawatt wind farm in federal waters off Block Island . The 100-turbine project could provide 1.3 terawatt-hours (TW·h) of electric power per year – 15 percent of all electric power used in the state of Rhode Island. [115] [116] [117] In 2009, Deepwater signed an agreement with National Grid to sell the power from a smaller $200-million, 30-MW wind farm off Block Island, at an initial price of 24.4 ¢/kW·h. [118] Construction of the Block Island Wind Farm , a five turbine project began in April 2015 and was completed in December 2016 to become the first offshore wind farm in the United States. Cape Wind started development around 2002, but faced opposition and eventually ceased before being realized. The floating VolturnUS operated in Penobscot Bay near Castine from June 2013 to November 2014. [119] [120] Maine Aqua Ventus intends to have an 11 MW floating turbine in operation off the coast of Monhegan Island by the end of 2023. [121] Construction began on the 804 MW Vineyard Wind off-shore project on November 18, 2021, after a long fight for approval. [122] Power from the first turbine started flowing into the ISO New England grid on January 2, 2024. [123] A second large offshore project, SouthCoast Wind (formerly Mayflower Wind), is in development, among others.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wind_energy_leases_offshore_Massachusetts_and_Rhode_Island%2C_2022.png/220px-Wind_energy_leases_offshore_Massachusetts_and_Rhode_Island%2C_2022.png",
+                "caption": "Designated wind power leasing parcels in federal waters off the coasts of Massachusetts and Rhode Island, with project names as of 2022."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Massachusetts_wind_resource_map_50m_800.jpg/350px-Massachusetts_wind_resource_map_50m_800.jpg",
+                "caption": "Massachusetts and Rhode Island have strong offshore wind resources."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power_in_the_United_States",
+        "title": "Wind power in the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Wind resource assessments"
+    }
+]

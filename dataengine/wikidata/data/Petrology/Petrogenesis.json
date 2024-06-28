@@ -1,0 +1,296 @@
+[
+    {
+        "section": "Methodology",
+        "text": "Petrology utilizes the fields of mineralogy , petrography, optical mineralogy , and chemical analysis to describe the composition and texture of rocks. Petrologists also include the principles of geochemistry and geophysics through the study of geochemical trends and cycles and the use of thermodynamic data and experiments in order to better understand the origins of rocks.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ljudmila_Dolar_Mantuani.jpg/170px-Ljudmila_Dolar_Mantuani.jpg",
+                "caption": "Ljudmila Dolar Mantuani (1906–1988), first female professor of petrography in Yugoslavia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Petrology",
+        "title": "Petrology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Microscopic characteristics",
+        "text": "When dealing with unfamiliar types or with rocks so fine grained that their component minerals cannot be determined with the aid of a hand lens, a microscope is used. Characteristics observed under the microscope include colour, colour variation under plane polarised light ( pleochroism , produced by the lower Nicol prism , or more recently polarising films ), fracture characteristics of the grains, refractive index (in comparison to the mounting adhesive, typically Canada balsam ), and optical symmetry ( birefringent or isotropic ). In toto , these characteristics are sufficient to identify the mineral, and often to quite tightly estimate its major element composition.\nThe process of identifying minerals under the microscope is fairly subtle, but also mechanistic - it would be possible to develop an identification key that would allow a computer to do it. The more difficult and skilful part of optical petrography is identifying the interrelationships between grains and relating them to features seen in hand-sized specimen, at outcrop, or in mapping.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/LvMS-Lvm.jpg/220px-LvMS-Lvm.jpg",
+                "caption": "Photomicrograph of a volcanic sand grain ; upper picture is plane-polarized light, bottom picture is cross-polarized light, scale box at left-center is 0.25 millimeter."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Petrography",
+        "title": "Petrography",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Origin",
+        "text": "When two tectonic plates collide, relatively denser oceanic crust will be subducted under relatively lighter continental crust . Because of the subduction process, the relatively cooler oceanic crust, along with water, is subducted to the asthenosphere , where pressures and temperatures are much higher than the surface of Earth. Under such conditions, the downgoing plate releases volatiles such as H 2 O and CO 2 , which cause partial melting of the above asthenosphere. [1] This process can create relatively buoyant magma , which subsequently forms a series of volcanoes at the surface along the subduction zone . There are some researchers who argue that refertilization of arc lithospheric mantle may also be an important process associated with arc magmatism. [2] [3] Because the subduction zone (which is also the plate boundary) is generally an arc-shape, geologists named those volcanoes volcanic arcs . A volcanic arc built on continental crust is called a continental arc; when built on oceanic crust the volcanoes form an island arc .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Active_Margin.svg/220px-Active_Margin.svg.png",
+                "caption": "Schematic diagram of the formation of a continental arc."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Continental_arc",
+        "title": "Continental arc",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Magmatism",
+        "text": "The dehydration of the downgoing slab and the partial melting of asthenosphere together generate the primary magma of continental arcs. Primary magma is composed of olivine tholeiitic basalt because of mixture of peridotites from the mantle wedge and large ion lithophile enriched (LIL-enriched) fluids from the dehydrating subducting plate. [4] Because the larger thickness and lower density, the continental crust is likely to prevent the upwards rising of primary magma. Ascending primary magma is likely to pond at the bottom of continental crust, forming a magma chamber. In this chamber an underplating process will take place, the assimilation and fractional crystallization of primary magma and lower crustal rocks forms underplate at the bottom of crust. [4] [5] Through those procedure the olivine tholeiitic primary magma would change to calc-alkaline magmas and more evolved and enriched alkaline or siliceous magmas. [6] A further enriched source may be provided by the tectonic erosion process that causes scraping and dragging of lower continental lithosphere into the melting zone. Thus, a high concentrations of Rb , Cs , Ba , K , Th , and LREE (light rare-earth elements ) and enriched isotopes can be found in the continental arc magmas. [7]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Continental_Arc_Sketch.jpg/220px-Continental_Arc_Sketch.jpg",
+                "caption": "Cross-sectional diagram of magmatic processes in a continental arc"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Continental_arc",
+        "title": "Continental arc",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Petrology",
+        "text": "Magmas of komatiitic compositions have a very high melting point , with calculated eruption temperatures up to, and possibly in excess of 1600 °C. [6] [7] [8] [9] Basaltic lavas normally have eruption temperatures of about 1100 to 1250 °C.  The higher melting temperatures required to produce komatiite have been attributed to the presumed higher geothermal gradients in the Archaean Earth. Komatiitic lava was extremely fluid when it erupted (possessing the viscosity close to that of water but with the density of rock). Compared to the basaltic lava of the Hawaiian plume basalts at ~1200 °C, which flows the way treacle or honey does, the komatiitic lava would have flowed swiftly across the surface, leaving extremely thin lava flows (down to 10 mm thick). The major komatiitic sequences preserved in Archaean rocks are thus considered to be lava tubes , ponds of lava etc., where the komatiitic lava accumulated. Komatiite chemistry is different from that of basaltic and other common mantle-produced magmas, because of differences in degrees of partial melting . Komatiites are considered to have been formed by high degrees of partial melting, usually greater than 50%, and hence have high MgO with low K 2 O and other incompatible elements . There are two geochemical classes of komatiite; aluminium undepleted komatiite (AUDK) (also known as Group I komatiites) and aluminium depleted komatiite (ADK) (also known as Group II komatiites), defined by their Al 2 O 3 /TiO 2 ratios. These two classes of komatiite are often assumed to represent a real petrological source difference between the two types related to depth of melt generation. Al-depleted komatiites have been modeled by melting experiments as being produced by high degrees of partial melting at high pressure where garnet in the source is not melted, whereas Al-undepleted komatiites are produced by high degrees of partial melts at lesser depth. However, recent studies of fluid inclusions in chrome spinels from the cumulate zones of komatiite flows have shown that a single komatiite flow can be derived from the mixing of parental magmas with a range of Al 2 O 3 /TiO 2 ratios, calling into question this interpretation of the formations of the different komatiite groups. [10] Komatiites probably form in extremely hot mantle plumes [11] or in Archaean subduction zones. [12] Boninite magmatism is similar to komatiite magmatism but is produced by fluid-fluxed melting above a subduction zone . Boninites with 10–18% MgO tend to have higher large-ion lithophile elements (LILE: Ba , Rb , Sr ) than komatiites.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/KomatiiteCanada_682By512.jpg/220px-KomatiiteCanada_682By512.jpg",
+                "caption": "Komatiite sample collected from the Abitibi greenstone belt near Englehart, Ontario , Canada. Specimen is 9 cm wide.  Bladed olivine crystals are visible, though spinifex texture is weak or absent in this sample."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Komatiite",
+        "title": "Komatiite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Mineralogy",
+        "text": "The pristine volcanic mineralogy of komatiites is composed of forsteritic olivine (Fo90 and upwards), calcic and often chromian pyroxene , anorthite (An85 and upwards) and chromite . A considerable population of komatiite examples show a cumulate texture and morphology . The usual cumulate mineralogy is highly magnesium rich forsterite olivine, though chromian pyroxene cumulates are also possible (though rarer). Volcanic rocks rich in magnesium may be produced by accumulation of olivine phenocrysts in basalt melts of normal chemistry: an example is picrite . Part of the evidence that komatiites are not magnesium-rich simply because of cumulate olivine is textural: some contain spinifex texture , a texture attributable to rapid crystallization of the olivine in a thermal gradient in the upper part of a lava flow. \"Spinifex\" texture is named after the common name for the Australian grass Triodia , [13] which grows in clumps with similar shapes. Another line of evidence is that the MgO content of olivines formed in komatiites is toward the nearly pure MgO forsterite composition, which can only be achieved in bulk by crystallisation of olivine from a highly magnesian melt. The rarely preserved flow top breccia and pillow margin zones in some komatiite flows are essentially volcanic glass, quenched in contact with overlying water or air. Because they are rapidly cooled, they represent the liquid composition of the komatiites, and thus record an anhydrous MgO content of up to 32% MgO. Some of the highest magnesian komatiites with clear textural preservation are those of the Barberton belt in South Africa, where liquids with up to 34% MgO can be inferred using bulk rock and olivine compositions. The mineralogy of a komatiite varies systematically through the typical stratigraphic section of a komatiite flow and reflects magmatic processes which komatiites are susceptible to during their eruption and cooling. The typical mineralogical variation is from a flow base composed of olivine cumulate, to a spinifex textured zone composed of bladed olivine and ideally a pyroxene spinifex zone and olivine-rich chill zone on the upper eruptive rind of the flow unit. Primary (magmatic) mineral species also encountered in komatiites include olivine, the pyroxenes augite , pigeonite and bronzite , plagioclase , chromite , ilmenite and rarely pargasitic amphibole . Secondary (metamorphic) minerals include serpentine , chlorite , amphibole, sodic plagioclase, quartz , iron oxides and rarely phlogopite , baddeleyite , and pyrope or hydrogrossular garnet .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/KomatiiteGraph.jpg/310px-KomatiiteGraph.jpg",
+                "caption": "Graph of komatiite geochemistry MgO% vs Cr ppm, from basal flows, Wannaway, Western Australia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Komatiite",
+        "title": "Komatiite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Textural features",
+        "text": "A common and distinctive texture is known as spinifex texture and consists of long acicular phenocrysts of olivine (or pseudomorphs of alteration minerals after olivine) or pyroxene which give the rock a bladed appearance especially on a weathered surface. Spinifex texture is the result of rapid crystallization of highly magnesian liquid in the thermal gradient at the margin of the flow or sill . Harrisite texture , first described from intrusive rocks (not komatiites) at Harris Bay on the island of Rùm in Scotland , is formed by nucleation of crystals on the floor of a magma chamber . [15] [16] Harrisites are known to form megacrystal aggregates of pyroxene and olivine up to 1 metre in length. [17] Harrisite texture is found in some very thick lava flows of komatiite, for example in the Norseman-Wiluna Greenstone Belt of Western Australia, in which crystallization of cumulates has occurred. [18]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/CSIRO_ScienceImage_1484_Komatiite_Pyroxene_Needles.jpg/220px-CSIRO_ScienceImage_1484_Komatiite_Pyroxene_Needles.jpg",
+                "caption": "Photomicrograph of a thin section of komatiite showing spinifex texture of pyroxene needle-like crystals"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/KomatiiteA2.jpg/220px-KomatiiteA2.jpg",
+                "caption": "A2 facies dendritic feathery olivine crystals, drill hole WDD18, Widgiemooltha, Western Australia"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KomatiiteA3.jpg/220px-KomatiiteA3.jpg",
+                "caption": "A3 facies bladed olivine spinifex, drill hole WDD18, Widgiemooltha Komatiite, Western Australia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Komatiite",
+        "title": "Komatiite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Morphology and volcanology",
+        "text": "Many kimberlite structures are emplaced as carrot-shaped, vertical intrusions termed \" pipes \". This classic carrot shape is formed due to a complex intrusive process of kimberlitic magma, which inherits a large proportion of CO 2 (lower amounts of H 2 O) in the system, which produces a deep explosive boiling stage that causes a significant amount of vertical flaring. [1] Kimberlite classification is based on the recognition of differing rock facies . These differing facies are associated with a particular style of magmatic activity, namely crater, diatreme and hypabyssal rocks. [2] [3] The morphology of kimberlite pipes and their classical carrot shape is the result of explosive diatreme volcanism from very deep mantle -derived sources. These volcanic explosions produce vertical columns of rock that rise from deep magma reservoirs. The eruptions forming these pipes fracture the surrounding rock as it explodes, bringing up unaltered xenoliths of peridotite to surface. These xenoliths provide valuable information to geologists about mantle conditions and composition. [4] [5] The morphology of kimberlite pipes is varied, but includes a sheeted dyke complex of tabular, vertically dipping feeder dykes in the root of the pipe, which extends down to the mantle. Within 1.5–2 km (0.93–1.24 mi) of the surface, the highly pressured magma explodes upwards and expands to form a conical to cylindrical diatreme , which erupts to the surface. The surface expression is rarely preserved but is usually similar to a maar volcano . Kimberlite dikes and sills can be thin (1–4 meters), while pipes range in diameter from about 75 meters to 1.5 kilometers. [6]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kimberlite_Pipes_in_Africa.png/220px-Kimberlite_Pipes_in_Africa.png",
+                "caption": "Distribution of kimberlites in Africa. Cratons: CA-Central African (Kasai), SA-South African (Kalahari), WA-West African; Kimberlites (shown as red dots): B-Banankoro, Cu-Cuango Valley, Do-Dokolwayo, F-Finsch, G-Gope, J-Kwaneng, Ja-Jagersfontein, k-Koidu, Kb-Kimberley, Ko-Koffiefontein, L-Letlhakane, Le-Letseng, Lu-Lunda, M-Mitzic, Mb-Mbuji-Mayi, Mw-Mwadui, O-Orapa, P- Premier , R-River Ranch, V-Venetia."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Kimberlite",
+        "title": "Kimberlite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Economic importance",
+        "text": "Kimberlites are the most important source of primary diamonds . Many kimberlite pipes also produce rich alluvial or eluvial diamond placer deposits . About 6,400 kimberlite pipes have been discovered in the world, of those about 900 have been classified as diamondiferous, and of those just over 30 have been economic enough to diamond mine. [25] [26] The deposits occurring at Kimberley , South Africa , were the first recognized and the source of the name. The Kimberley diamonds were originally found in weathered kimberlite, which was colored yellow by limonite , and so was called \"yellow ground\". Deeper workings encountered less altered rock, serpentinized kimberlite, which miners call \"blue ground\". Yellow ground kimberlite is easy to break apart and was the first source of diamonds to be mined. Blue ground kimberlite needs to be run through rock crushers to extract the diamonds. [27] See also Mir Mine and Udachnaya pipe , both in the Sakha Republic , Siberia . The blue and yellow ground were both prolific producers of diamonds. After the yellow ground had been exhausted, miners in the late 19th century accidentally cut into the blue ground and found gem-quality diamonds in quantity. The economic situation at the time was such that, with a flood of diamonds being found, the miners undercut each other's prices and eventually decreased the diamonds' value down to cost in a short time. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mirny_in_Yakutia.jpg/220px-Mirny_in_Yakutia.jpg",
+                "caption": "Mir mine"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Kimberlite",
+        "title": "Kimberlite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Description",
+        "text": "The word \"granite\" comes from the Latin granum , a grain, in reference to the coarse-grained structure of such a completely crystalline rock. [1] Granitic rocks mainly consist of feldspar , quartz , mica , and amphibole minerals , which form an interlocking, somewhat equigranular matrix of feldspar and quartz with scattered darker biotite mica and amphibole (often hornblende ) peppering the lighter color minerals. Occasionally some individual crystals ( phenocrysts ) are larger than the groundmass , in which case the texture is known as porphyritic . A granitic rock with a porphyritic texture is known as a granite porphyry . Granitoid is a general, descriptive field term for lighter-colored, coarse-grained igneous rocks. Petrographic examination is required for identification of specific types of granitoids.  Granites can be predominantly white, pink, or gray in color, depending on their mineralogy . [2] The alkali feldspar in granites is typically orthoclase or microcline and is often perthitic . The plagioclase is typically sodium-rich oligoclase . Phenocrysts are usually alkali feldspar. [3] Granitic rocks are classified according to the QAPF diagram for coarse grained plutonic rocks and are named according to the percentage of quartz , alkali feldspar ( orthoclase , sanidine , or microcline ) and plagioclase feldspar on the A-Q-P half of the diagram. True granite (according to modern petrologic convention) contains between 20% and 60% quartz by volume, with 35% to 90% of the total feldspar consisting of alkali feldspar . Granitic rocks poorer in quartz are classified as syenites or monzonites , while granitic rocks dominated by plagioclase are classified as granodiorites or tonalites . Granitic rocks with over 90% alkali feldspar are classified as alkali feldspar granites . Granitic rock with more than 60% quartz, which is uncommon, is classified simply as quartz-rich granitoid or, if composed almost entirely of quartz, as quartzolite . [4] [5] [6] True granites are further classified by the percentage of their total feldspar that is alkali feldspar. Granites whose feldspar is 65% to 90% alkali feldspar are syenogranites , while the feldspar in monzogranite is 35% to 65% alkali feldspar. [5] [6] A granite containing both muscovite and biotite micas is called a binary or two-mica granite. Two-mica granites are typically high in potassium and low in plagioclase, and are usually S-type granites or A-type granites, as described below . [7] [8] Another aspect of granite classification is the ratios of metals that potentially form feldspars. Most granites have a composition such that almost all their aluminum and alkali metals (sodium and potassium) are combined as feldspar. This is the case when K 2 O + Na 2 O + CaO > Al 2 O 3 > K 2 O + Na 2 O. Such granites are described as normal or metaluminous . Granites in which there is not enough aluminum to combine with all the alkali oxides as feldspar (Al 2 O 3 < K 2 O + Na 2 O) are described as peralkaline , and they contain unusual sodium amphiboles such as riebeckite . Granites in which there is an excess of aluminum beyond what can be taken up in feldspars (Al 2 O 3 > CaO + K 2 O + Na 2 O) are described as peraluminous , and they contain aluminum-rich minerals such as muscovite . [9]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/QAPF_diagram_granite.svg/310px-QAPF_diagram_granite.svg.png",
+                "caption": "QAPF diagram with granite field highlighted"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mineralogy_igneous_rocks_EN.svg/310px-Mineralogy_igneous_rocks_EN.svg.png",
+                "caption": "Mineral assemblage of igneous rocks"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Occurrence",
+        "text": "Granitic rock is widely distributed throughout the continental crust . [17] Much of it was intruded during the Precambrian age; it is the most abundant basement rock that underlies the relatively thin sedimentary veneer of the continents. Outcrops of granite tend to form tors , domes or bornhardts , and rounded massifs . Granites sometimes occur in circular depressions surrounded by a range of hills, formed by the metamorphic aureole or hornfels . Granite often occurs as relatively small, less than 100 km 2 stock masses ( stocks ) and in batholiths that are often associated with orogenic mountain ranges. Small dikes of granitic composition called aplites are often associated with the margins of granitic intrusions . In some locations, very coarse-grained pegmatite masses occur with granite. [18]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/The_Cheesewring.jpg/170px-The_Cheesewring.jpg",
+                "caption": "The Cheesewring , a granite tor in England"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HuangShan.JPG/220px-HuangShan.JPG",
+                "caption": "A granite peak at Huangshan , China"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hiltaba_pink_granite.jpg/220px-Hiltaba_pink_granite.jpg",
+                "caption": "Pink granite at Hiltaba , South Australia (part of the Hiltaba Suite )"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/ArideGranite1.jpg/170px-ArideGranite1.jpg",
+                "caption": "Granite with quartz veins at Gros la Tête cliff, Aride Island , Seychelles"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Weathering",
+        "text": "Physical weathering occurs on a large scale in the form of exfoliation joints , which are the result of granite's expanding and fracturing as pressure is relieved when overlying material is removed by erosion or other processes. Chemical weathering of granite occurs when dilute carbonic acid , and other acids present in rain and soil waters, alter feldspar in a process called hydrolysis . [49] [50] As demonstrated in the following reaction, this causes potassium feldspar to form kaolinite , with potassium ions, bicarbonate, and silica in solution as byproducts. An end product of granite weathering is grus , which is often made up of coarse-grained fragments of disintegrated granite. Climatic variations also influence the weathering rate of granites. For about two thousand years, the relief engravings on Cleopatra's Needle obelisk had survived the arid conditions of its origin before its transfer to London. Within two hundred years, the red granite has drastically deteriorated in the damp and polluted air there. [51] Soil development on granite reflects the rock's high quartz content and dearth of available bases, with the base-poor status predisposing the soil to acidification and podzolization in cool humid climates as the weather-resistant quartz yields much sand. [52] Feldspars also weather slowly in cool climes, allowing sand to dominate the fine-earth fraction. In warm humid regions, the weathering of feldspar as described above is accelerated so as to allow a much higher proportion of clay with the Cecil soil series a prime example of the consequent Ultisol great soil group. [53]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GrusSand.JPG/220px-GrusSand.JPG",
+                "caption": "Grus sand and granitoid from which it derived"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Industry",
+        "text": "Granite and related marble industries are considered one of the oldest industries in the world, existing as far back as Ancient Egypt . [61] Major modern exporters of granite include China, India, Italy, Brazil, Canada, Germany, Sweden, Spain and the United States. [62]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hilloinen_2017_2.jpg/220px-Hilloinen_2017_2.jpg",
+                "caption": "Granite dimension stone quarry in Taivassalo , Finland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Antiquity",
+        "text": "The Red Pyramid of Egypt ( c. 2590 BC ), named for the light crimson hue of its exposed limestone surfaces, is the third largest of Egyptian pyramids . Pyramid of Menkaure , likely dating 2510 BC, was constructed of limestone and granite blocks. The Great Pyramid of Giza (c. 2580 BC ) contains a huge granite sarcophagus fashioned of \"Red Aswan Granite\". The mostly ruined Black Pyramid dating from the reign of Amenemhat III once had a polished granite pyramidion or capstone, which is now on display in the main hall of the Egyptian Museum in Cairo (see Dahshur ). Other uses in Ancient Egypt include columns , door lintels , sills , jambs , and wall and floor veneer. [63] How the Egyptians worked the solid granite is still a matter of debate. Patrick Hunt [64] has postulated that the Egyptians used emery , which has greater hardness on the Mohs scale . The Seokguram Grotto in Korea is a Buddhist shrine and part of the Bulguksa temple complex. Completed in 774 AD, it is an artificial grotto constructed entirely of granite. The main Buddha of the grotto is a highly regarded piece of Buddhist art , [65] and along with the temple complex to which it belongs, Seokguram was added to the UNESCO World Heritage List in 1995. [66] Rajaraja Chola I of the Chola Dynasty in South India built the world's first temple entirely of granite in the 11th century AD in Tanjore , India . The Brihadeeswarar Temple dedicated to Lord Shiva was built in 1010. The massive Gopuram (ornate, upper section of shrine) is believed to have a mass of around 81 tonnes. It was the tallest temple in south India. [67] Imperial Roman granite was quarried mainly in Egypt, and also in Turkey, and on the islands of Elba and Giglio . Granite became \"an integral part of the Roman language of monumental architecture\". [68] The quarrying ceased around the third century AD. Beginning in Late Antiquity the granite was reused, which since at least the early 16th century became known as spolia . Through the process of case-hardening , granite becomes harder with age. The technology required to make tempered metal chisels was largely forgotten during the Middle Ages. As a result, Medieval stoneworkers were forced to use saws or emery to shorten ancient columns or hack them into discs. Giorgio Vasari noted in the 16th century that granite in quarries was \"far softer and easier to work than after it has lain exposed\" while ancient columns, because of their \"hardness and solidity have nothing to fear from fire or sword, and time itself, that drives everything to ruin, not only has not destroyed them but has not even altered their colour.\" [68]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cleopatra%27s_Needle_%28London%29_inscriptions.jpg/170px-Cleopatra%27s_Needle_%28London%29_inscriptions.jpg",
+                "caption": "Cleopatra's Needle, London"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Sculpture and memorials",
+        "text": "In some areas, granite is used for gravestones and memorials. Granite is a hard stone and requires skill to carve by hand. Until the early 18th century, in the Western world, granite could be carved only by hand tools with generally poor results. A key breakthrough was the invention of steam-powered cutting and dressing tools by Alexander MacDonald of Aberdeen , inspired by seeing ancient Egyptian granite carvings. In 1832, the first polished tombstone of Aberdeen granite to be erected in an English cemetery was installed at Kensal Green Cemetery . It caused a sensation in the London monumental trade and for some years all polished granite ordered came from MacDonald's. [69] As a result of the work of sculptor William Leslie, and later Sidney Field, granite memorials became a major status symbol in Victorian Britain. The royal sarcophagus at Frogmore was probably the pinnacle of its work, and at 30 tons one of the largest. It was not until the 1880s that rival machinery and works could compete with the MacDonald works. Modern methods of carving include using computer-controlled rotary bits and sandblasting over a rubber stencil. Leaving the letters, numbers, and emblems exposed and the remainder of the stone covered with rubber, the blaster can create virtually any kind of artwork or epitaph. The stone known as \"black granite\" is usually gabbro , which has a completely different chemical composition. [70]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Various_granites.jpg/330px-Various_granites.jpg",
+                "caption": "Granites (cut and polished surfaces)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Buildings",
+        "text": "Granite has been extensively used as a dimension stone and as flooring tiles in public and commercial buildings and monuments. Aberdeen in Scotland, which is constructed principally from local granite, is known as \"The Granite City\". Because of its abundance in New England , granite was commonly used to build foundations for homes there. The Granite Railway , America's first railroad, was built to haul granite from the quarries in Quincy, Massachusetts , to the Neponset River in the 1820s. [71]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Graniittilinna.jpg/220px-Graniittilinna.jpg",
+                "caption": "The granite castle of Aulanko in Hämeenlinna , Finland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Curling stones",
+        "text": "Curling stones are traditionally fashioned of Ailsa Craig granite. The first stones were made in the 1750s, the original source being Ailsa Craig in Scotland . Because of the rarity of this granite, the best stones can cost as much as US$1,500. Between 60 and 70 percent of the stones used today are made from Ailsa Craig granite. Although the island is now a wildlife reserve, it is still quarried under license for Ailsa granite by Kays of Scotland for curling stones. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Curling_stones_yellow.jpg/220px-Curling_stones_yellow.jpg",
+                "caption": "Curling stones"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Granite",
+        "title": "Granite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    },
+    {
+        "section": "Occurrence",
+        "text": "Syenite is not a common rock. Regions where it occurs in significant quantities include the following.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bulletin_426_Plate_XVI_B_Bowlder_Outcrop_of_Syenite.jpg/220px-Bulletin_426_Plate_XVI_B_Bowlder_Outcrop_of_Syenite.jpg",
+                "caption": "Boulders of syenite near Concord , North Carolina, c. 1910."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Syenite",
+        "title": "Syenite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrogenesis"
+    }
+]

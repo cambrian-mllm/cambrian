@@ -1,0 +1,869 @@
+[
+    {
+        "section": "Modern volcanology",
+        "text": "In 1841, the first volcanological observatory, the Vesuvius Observatory , was founded in the Kingdom of the Two Sicilies . [1] Volcanology advances have required more than just structured observation, and the science relies upon the understanding and integration of knowledge in many fields including geology , tectonics , physics , chemistry and mathematics , with many advances only being able to occur after the advance had occurred in another field of science. For example the study of radioactivity only commenced in 1896, [2] and its application to the theory of plate tectonics and radiometric dating took about 50 years after this. Many other developments in fluid dynamics , experimental physics and chemistry, techniques of mathematical modelling , instrumentation and in other sciences have been applied to volcanology since 1841.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Icelandic_tephra.JPG/220px-Icelandic_tephra.JPG",
+                "caption": "Volcanologist examining tephra horizons in south-central Iceland ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Destructive_plate_margin.png/220px-Destructive_plate_margin.png",
+                "caption": "A diagram of a destructive plate margin , where subduction fuels volcanic activity at the subduction zones of tectonic plate boundaries."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanology",
+        "title": "Volcanology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Plate tectonics",
+        "text": "According to the theory of plate tectonics, Earth's lithosphere , its rigid outer shell, is broken into sixteen larger and several smaller plates. These are in slow motion, due to convection in the underlying ductile mantle , and most volcanic activity on Earth takes place along plate boundaries, where plates are converging (and lithosphere is being destroyed) or are diverging (and new lithosphere is being created). [6] During the development of geological theory, certain concepts that allowed the grouping of volcanoes in time, place, structure and composition have developed that ultimately have had to be explained in the theory of plate tectonics. For example, some volcanoes are polygenetic with more than one period of activity during their history; other volcanoes that become extinct after erupting exactly once are monogenetic (meaning \"one life\") and such volcanoes are often grouped together in a geographical region. [7]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Spreading_ridges_volcanoes_map-en.svg/400px-Spreading_ridges_volcanoes_map-en.svg.png",
+                "caption": "Map showing the divergent plate boundaries (oceanic spreading ridges) and recent sub-aerial volcanoes (mostly at convergent boundaries)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Fissure vents",
+        "text": "Volcanic fissure vents are flat, linear fractures through which lava emerges.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lakagigar_Iceland_2004-07-01.jpg/220px-Lakagigar_Iceland_2004-07-01.jpg",
+                "caption": "Lakagigar fissure vent in Iceland , the source of the major world climate alteration of 1783–84 , has a chain of volcanic cones along its length."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Shield volcanoes",
+        "text": "Shield volcanoes, so named for their broad, shield-like profiles, are formed by the eruption of low-viscosity lava that can flow a great distance from a vent. They generally do not explode catastrophically, but are characterized by relatively gentle effusive eruptions . Since low-viscosity magma is typically low in silica, shield volcanoes are more common in oceanic than continental settings. The Hawaiian volcanic chain is a series of shield cones, and they are common in Iceland , as well.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Skjaldbreidur_Herbst_2004.jpg/220px-Skjaldbreidur_Herbst_2004.jpg",
+                "caption": "Skjaldbreiður , a shield volcano whose name means \"broad shield\""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Cinder cones",
+        "text": "Cinder cones result from eruptions of mostly small pieces of scoria and pyroclastics (both resemble cinders, hence the name of this volcano type) that build up around the vent. These can be relatively short-lived eruptions that produce a cone-shaped hill perhaps 30 to 400 meters (100 to 1,300 ft) high. Most cinder cones erupt only once and some may be found in monogenetic volcanic fields that may include other features that form when magma comes into contact with water such as maar explosion craters and tuff rings . [16] Cinder cones may form as flank vents on larger volcanoes, or occur on their own. Parícutin in Mexico and Sunset Crater in Arizona are examples of cinder cones. In New Mexico , Caja del Rio is a volcanic field of over 60 cinder cones. Based on satellite images, it has been suggested that cinder cones might occur on other terrestrial bodies in the Solar system too; on the surface of Mars and the Moon. [17] [18] [19] [20]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Izalco_Volcano.jpg/220px-Izalco_Volcano.jpg",
+                "caption": "Izalco volcano , the youngest volcano in El Salvador. Izalco erupted almost continuously from 1770 (when it formed) to 1958, earning it the nickname of \"Lighthouse of the Pacific\"."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Stratovolcanoes (composite volcanoes)",
+        "text": "Stratovolcanoes (composite volcanoes) are tall conical mountains composed of lava flows and tephra in alternate layers, the strata that gives rise to the name. They are also known as composite volcanoes because they are created from multiple structures during different kinds of eruptions. Classic examples include Mount Fuji in Japan, Mayon Volcano in the Philippines, and Mount Vesuvius and Stromboli in Italy. Ash produced by the explosive eruption of stratovolcanoes has historically posed the greatest volcanic hazard to civilizations. The lavas of stratovolcanoes are higher in silica, and therefore much more viscous, than lavas from shield volcanoes. High-silica lavas also tend to contain more dissolved gas. The combination is deadly, promoting explosive eruptions that produce great quantities of ash, as well as pyroclastic surges like the one that destroyed the city of Saint-Pierre in Martinique in 1902. They are also steeper than shield volcanoes, with slopes of 30–35° compared to slopes of generally 5–10°, and their loose tephra are material for dangerous lahars . [21] Large pieces of tephra are called volcanic bombs . Big bombs can measure more than 4 feet (1.2 meters) across and weigh several tons. [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Volcano_scheme.svg/310px-Volcano_scheme.svg.png",
+                "caption": "Cross-section through a stratovolcano (vertical scale is exaggerated) : Large magma chamber Bedrock Conduit (pipe) Base Sill Dike Layers of ash emitted by the volcano Flank Layers of lava emitted by the volcano Throat Parasitic cone Lava flow Vent Crater Ash cloud"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Submarine volcanoes",
+        "text": "Submarine volcanoes are common features of the ocean floor. Volcanic activity during the Holocene Epoch has been documented at only 119 submarine volcanoes, but there may be more than one million geologically young submarine volcanoes on the ocean floor. [27] [28] In shallow water, active volcanoes disclose their presence by blasting steam and rocky debris high above the ocean's surface. In the deep ocean basins, the tremendous weight of the water prevents the explosive release of steam and gases; however, submarine eruptions can be detected by hydrophones and by the discoloration of water because of volcanic gases . Pillow lava is a common eruptive product of submarine volcanoes and is characterized by thick sequences of discontinuous pillow-shaped masses which form under water. Even large submarine eruptions may not disturb the ocean surface, due to the rapid cooling effect and increased buoyancy in water (as compared to air), which often causes volcanic vents to form steep pillars on the ocean floor. Hydrothermal vents are common near these volcanoes, and some support peculiar ecosystems based on chemotrophs feeding on dissolved minerals. Over time, the formations created by submarine volcanoes may become so large that they break the ocean surface as new islands or floating pumice rafts . In May and June 2018, a multitude of seismic signals were detected by earthquake monitoring agencies all over the world. They took the form of unusual humming sounds, and some of the signals detected in November of that year had a duration of up to 20 minutes. An oceanographic research campaign in May 2019 showed that the previously mysterious humming noises were caused by the formation of a submarine volcano off the coast of Mayotte . [29]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif/220px-Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif",
+                "caption": "Satellite images of the 15 January 2022 eruption of Hunga Tonga-Hunga Haʻapai"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Erupted material",
+        "text": "The material that is expelled in a volcanic eruption can be classified into three types:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lava_channel_overflow.JPG/220px-Lava_channel_overflow.JPG",
+                "caption": "Pāhoehoe lava flow on Hawaii . The picture shows overflows of a main lava channel ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Litli-Hr%C3%BAtur_eruption_2023.jpg/220px-Litli-Hr%C3%BAtur_eruption_2023.jpg",
+                "caption": "Litli-Hrútur ( Fagradalsfjall ) eruption 2023. View from an airplane"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg/220px-Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg",
+                "caption": "The Stromboli stratovolcano off the coast of Sicily has erupted continuously for thousands of years, giving rise to its nickname \"Lighthouse of the Mediterranean\"."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Lava flows",
+        "text": "The form and style of eruption of a volcano is largely determined by the composition of the lava it erupts. The viscosity (how fluid the lava is) and the amount of dissolved gas are the most important characteristics of magma, and both are largely determined by the amount of silica in the magma. Magma rich in silica is much more viscous than silica-poor magma, and silica-rich magma also tends to contain more dissolved gases. Lava can be broadly classified into four different compositions: [39] Mafic lava flows show two varieties of surface texture: ʻAʻa (pronounced [ˈʔaʔa] ) and pāhoehoe ( [paːˈho.eˈho.e] ), both Hawaiian words. ʻAʻa is characterized by a rough, clinkery surface and is the typical texture of cooler basalt lava flows. Pāhoehoe is characterized by its smooth and often ropey or wrinkly surface and is generally formed from more fluid lava flows. Pāhoehoe flows are sometimes observed to transition to ʻaʻa flows as they move away from the vent, but never the reverse. [53] More silicic lava flows take the form of block lava, where the flow is covered with angular, vesicle-poor blocks. Rhyolitic flows typically consist largely of obsidian . [54]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rinjani_1994_cropped.jpg/220px-Rinjani_1994_cropped.jpg",
+                "caption": "Mount Rinjani eruption in 1994, in Lombok , Indonesia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Tephra",
+        "text": "Tephra is made when magma inside the volcano is blown apart by the rapid expansion of hot volcanic gases. Magma commonly explodes as the gas dissolved in it comes out of solution as the pressure decreases when it flows to the surface . These violent explosions produce particles of material that can then fly from the volcano. Solid particles smaller than 2 mm in diameter ( sand-sized or smaller) are called volcanic ash. [36] [37] Tephra and other volcaniclastics (shattered volcanic material) make up more of the volume of many volcanoes than do lava flows. Volcaniclastics may have contributed as much as a third of all sedimentation in the geologic record. The production of large volumes of tephra is characteristic of explosive volcanism. [55]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tuff_shards.jpg/220px-Tuff_shards.jpg",
+                "caption": "Light-microscope image of tuff as seen in thin section (long dimension is several mm): the curved shapes of altered glass shards (ash fragments) are well preserved, although the glass is partly altered. The shapes were formed around bubbles of expanding, water-rich gas."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Types of volcanic eruptions",
+        "text": "Eruption styles are broadly divided into magmatic, phreatomagmatic, and phreatic eruptions. [56] The intensity of explosive volcanism is expressed using the Volcanic Explosivity Index (VEI), which ranges from 0 for Hawaiian-type eruptions to 8 for supervolcanic eruptions. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Volcanic_injection.svg/220px-Volcanic_injection.svg.png",
+                "caption": "Schematic of volcano injection of aerosols and gases"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Volcanic activity",
+        "text": "As of December 2022 [update] , the Smithsonian Institution 's Global Volcanism Program database of volcanic eruptions in the Holocene Epoch (the last 11,700 years) lists 9,901 confirmed eruptions from 859 volcanoes. The database also lists 1,113 uncertain eruptions and 168 discredited eruptions for the same time interval. [58] [59] Volcanoes vary greatly in their level of activity, with individual volcanic systems having an eruption recurrence ranging from several times a year to once in tens of thousands of years. [60] Volcanoes are informally described as erupting , active , dormant , or extinct , but the definitions of these terms are not entirely uniform amongst volcanologists. The level of activity of most volcanoes falls upon a graduated spectrum, with much overlap between categories, and does not always fit neatly into only one of these three separate categories. [61]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pompeii_-_Casa_del_Centenario_-_MAN.jpg/170px-Pompeii_-_Casa_del_Centenario_-_MAN.jpg",
+                "caption": "Fresco with Mount Vesuvius behind Bacchus and Agathodaemon , as seen in Pompeii 's House of the Centenary"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Dormant and reactivated",
+        "text": "The USGS defines a dormant volcano as any volcano that is not showing any signs of unrest such as earthquake swarms, ground swelling, or excessive noxious gas emissions, but which shows signs that it could yet become active again. [63] Many dormant volcanoes have not erupted for thousands of years, but have still shown signs that they may be likely to erupt again in the future. [64] [65] In an article justifying the re-classification of Alaska's Mount Edgecumbe volcano from \"dormant\" to \"active\", volcanologists at the Alaska Volcano Observatory pointed out that the term \"dormant\" in reference to volcanoes has been deprecated over the past few decades and that \"[t]he term \"dormant volcano\" is so little used and undefined in modern volcanology that the Encyclopedia of Volcanoes (2000) does not contain it in the glossaries or index\", [66] however the USGS still widely employs the term. Previously a volcano was often considered to be extinct if there were no written records of its activity. Such a generalisation is inconsistent with observation and deeper study, as has occurred recently with the unexpected eruption of the Chaitén volcano in 2008. [67] Modern volcanic activity monitoring techniques, and improvements in the modelling of the factors that produce eruptions, have helped the understanding of why volcanoes may remain dormant for a long period of time, and then become unexpectedly active again. The potential for eruptions, and their style, depend mainly upon the state of the magma storage system under the volcano, the eruption trigger mechanism and its timescale. [68] : 95 For example, the Yellowstone volcano has a repose/recharge period of around 700,000 years, and Toba of around 380,000 years. [69] Vesuvius was described by Roman writers as having been covered with gardens and vineyards before its unexpected eruption of 79 CE , which destroyed the towns of Herculaneum and Pompeii . Accordingly, it can sometimes be difficult to distinguish between an extinct volcano and a dormant (inactive) one. Long volcano dormancy is known to decrease awareness. [68] : 96 Pinatubo was an inconspicuous volcano, unknown to most people in the surrounding areas, and initially not seismically monitored before its unanticipated and catastrophic eruption of 1991. Two other examples of volcanoes which were once thought to be extinct, before springing back into eruptive activity were the long-dormant Soufrière Hills volcano on the island of Montserrat , thought to be extinct until activity resumed in 1995 (turning its capital Plymouth into a ghost town ) and Fourpeaked Mountain in Alaska, which, before its September 2006 eruption, had not erupted since before 8000 BCE.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Narcondam_island.jpg/220px-Narcondam_island.jpg",
+                "caption": "Narcondam Island , India, is classified as a dormant volcano by the Geological Survey of India ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Extinct",
+        "text": "Extinct volcanoes are those that scientists consider unlikely to erupt again because the volcano no longer has a magma supply. Examples of extinct volcanoes are many volcanoes on the Hawaiian–Emperor seamount chain in the Pacific Ocean (although some volcanoes at the eastern end of the chain are active), Hohentwiel in Germany , Shiprock in New Mexico , US , Capulin in New Mexico, US, Zuidwal volcano in the Netherlands , and many volcanoes in Italy such as Monte Vulture . Edinburgh Castle in Scotland is located atop an extinct volcano, which forms Castle Rock . Whether a volcano is truly extinct is often difficult to determine. Since \"supervolcano\" calderas can have eruptive lifespans sometimes measured in millions of years, a caldera that has not produced an eruption in tens of thousands of years may be considered dormant instead of extinct. An individual volcano in a monogenetic volcanic field can be extinct but that does not mean a completely new volcano might not erupt close by with little or no warning as its field may have an active magma supply.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Capulin_1980_tde00005.jpg/220px-Capulin_1980_tde00005.jpg",
+                "caption": "Capulin Volcano National Monument in New Mexico, US"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Decade volcanoes",
+        "text": "The Decade Volcanoes are 16 volcanoes identified by the International Association of Volcanology and Chemistry of the Earth's Interior (IAVCEI) as being worthy of particular study in light of their history of large, destructive eruptions and proximity to populated areas. They are named Decade Volcanoes because the project was initiated as part of the United Nations-sponsored International Decade for Natural Disaster Reduction (the 1990s). The 16 current Decade Volcanoes are: The Deep Earth Carbon Degassing Project , an initiative of the Deep Carbon Observatory , monitors nine volcanoes, two of which are Decade volcanoes. The focus of the Deep Earth Carbon Degassing Project is to use Multi-Component Gas Analyzer System instruments to measure CO 2 /SO 2 ratios in real-time and in high-resolution to allow detection of the pre-eruptive degassing of rising magmas, improving prediction of volcanic activity . [71]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg/220px-Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg",
+                "caption": "Koryaksky volcano towering over Petropavlovsk-Kamchatsky on Kamchatka Peninsula , Far Eastern Russia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Volcanoes and humans",
+        "text": "Volcanic eruptions pose a significant threat to human civilization. However, volcanic activity has also provided humans with important resources.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mauna_Loa_atmospheric_transmission.png/220px-Mauna_Loa_atmospheric_transmission.png",
+                "caption": "Solar radiation graph 1958–2008, showing how the radiation is reduced after major volcanic eruptions"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SO2_Galapagos_20051101.jpg/220px-SO2_Galapagos_20051101.jpg",
+                "caption": "Sulfur dioxide concentration over the Sierra Negra Volcano , Galapagos Islands , during an eruption in October 2005"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Hazards",
+        "text": "There are many different types of volcanic eruptions and associated activity: phreatic eruptions (steam-generated eruptions), explosive eruption of high- silica lava (e.g., rhyolite ), effusive eruption of low-silica lava (e.g., basalt ), sector collapses , pyroclastic flows , lahars (debris flow) and carbon dioxide emission . All of these activities can pose a hazard to humans. Earthquakes, hot springs , fumaroles , mud pots and geysers often accompany volcanic activity. Volcanic gases can reach the stratosphere, where they form sulfuric acid aerosols that can reflect solar radiation and lower surface temperatures significantly. [72] Sulfur dioxide from the eruption of Huaynaputina may have caused the Russian famine of 1601–1603 . [73] Chemical reactions of sulfate aerosols in the stratosphere can also damage the ozone layer , and acids such as hydrogen chloride (HCl) and hydrogen fluoride (HF) can fall to the ground as acid rain . Excessive fluoride salts from eruptions have poisoned livestock in Iceland on multiple occasions. [74] : 39–58 Explosive volcanic eruptions release the greenhouse gas carbon dioxide and thus provide a deep source of carbon for biogeochemical cycles . [75] Ash thrown into the air by eruptions can present a hazard to aircraft, especially jet aircraft where the particles can be melted by the high operating temperature; the melted particles then adhere to the turbine blades and alter their shape, disrupting the operation of the turbine. This can cause major disruptions to air travel. A volcanic winter is thought to have taken place around 70,000 years ago after the supereruption of Lake Toba on Sumatra island in Indonesia. [76] This may have created a population bottleneck that affected the genetic inheritance of all humans today. [77] Volcanic eruptions may have contributed to major extinction events, such as the End-Ordovician , Permian-Triassic , and Late Devonian mass extinctions . [78] The 1815 eruption of Mount Tambora created global climate anomalies that became known as the \" Year Without a Summer \" because of the effect on North American and European weather. [79] The freezing winter of 1740–41, which led to widespread famine in northern Europe, may also owe its origins to a volcanic eruption. [80]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Large_eruptions.jpg/290px-Large_eruptions.jpg",
+                "caption": "Comparison of major United States prehistoric eruptions ( VEI 7 and 8 ) with major historical volcanic eruptions in the 19th and 20th century (VEI 5, 6 and 7). From left to right: Yellowstone 2.1 Ma, Yellowstone 1.3 Ma, Long Valley 6.26 Ma, Yellowstone 0.64 Ma . 19th century eruptions: Tambora 1815, Krakatoa 1883. 20th century eruptions: Novarupta 1912, St. Helens 1980, Pinatubo 1991."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Volcanoes on other celestial bodies",
+        "text": "Earth's Moon has no large volcanoes and no current volcanic activity, although recent evidence suggests it may still possess a partially molten core. [91] However, the Moon does have many volcanic features such as maria [92] (the darker patches seen on the Moon), rilles [93] and domes . [94] The planet Venus has a surface that is 90% basalt , indicating that volcanism played a major role in shaping its surface. The planet may have had a major global resurfacing event about 500 million years ago, [95] from what scientists can tell from the density of impact craters on the surface. Lava flows are widespread and forms of volcanism not present on Earth occur as well. Changes in the planet's atmosphere and observations of lightning have been attributed to ongoing volcanic eruptions, although there is no confirmation of whether or not Venus is still volcanically active. However, radar sounding by the Magellan probe revealed evidence for comparatively recent volcanic activity at Venus's highest volcano Maat Mons , in the form of ash flows near the summit and on the northern flank. [96] However, the interpretation of the flows as ash flows has been questioned. [97] There are several extinct volcanoes on Mars , four of which are vast shield volcanoes far bigger than any on Earth. They include Arsia Mons , Ascraeus Mons , Hecates Tholus , Olympus Mons , and Pavonis Mons . These volcanoes have been extinct for many millions of years, [98] but the European Mars Express spacecraft has found evidence that volcanic activity may have occurred on Mars in the recent past as well. [98] Jupiter 's moon Io is the most volcanically active object in the Solar System because of tidal interaction with Jupiter. It is covered with volcanoes that erupt sulfur , sulfur dioxide and silicate rock, and as a result, Io is constantly being resurfaced. Its lavas are the hottest known anywhere in the Solar System, with temperatures exceeding 1,800 K (1,500 °C). In February 2001, the largest recorded volcanic eruptions in the Solar System occurred on Io. [99] Europa , the smallest of Jupiter's Galilean moons , also appears to have an active volcanic system, except that its volcanic activity is entirely in the form of water, which freezes into ice on the frigid surface. This process is known as cryovolcanism , and is apparently most common on the moons of the outer planets of the Solar System . [100] In 1989, the Voyager 2 spacecraft observed cryovolcanoes (ice volcanoes) on Triton , a moon of Neptune , and in 2005 the Cassini–Huygens probe photographed fountains of frozen particles erupting from Enceladus , a moon of Saturn . [101] [102] The ejecta may be composed of water, liquid nitrogen , ammonia , dust, or methane compounds. Cassini–Huygens also found evidence of a methane-spewing cryovolcano on the Saturnian moon Titan , which is believed to be a significant source of the methane found in its atmosphere. [103] It is theorized that cryovolcanism may also be present on the Kuiper Belt Object Quaoar . A 2010 study of the exoplanet COROT-7b , which was detected by transit in 2009, suggested that tidal heating from the host star very close to the planet and neighboring planets could generate intense volcanic activity similar to that found on Io. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tvashtarvideo.gif/220px-Tvashtarvideo.gif",
+                "caption": "The Tvashtar volcano erupts a plume 330 km (205 mi) above the surface of Jupiter 's moon Io ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Olympus_Mons.jpeg/170px-Olympus_Mons.jpeg",
+                "caption": "Olympus Mons ( Latin , \"Mount Olympus\"), located on the planet Mars , is the tallest known mountain in the Solar System ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Largest Holocene eruptions",
+        "text": "Due to incomplete surveys, which also need to be confined to subaerial eruptions and not include igneous intrusions , the accumulative amounts of dense-rock equivalent erupted in Iceland will be underestimated. [4] The amounts known are some of the most significant contributions to recent eruptive volumes on Earth. [4] Since the last ice age 91% of the magma erupted in Iceland has been mafic , 6% intermediate in composition and 3% silicic . [4] : 203 The number of eruptions estimated in this 11,700 odd year period can only be an approxiamate figure, [a] but about three to four explosive ones occur for every purely effusive one. [4] : 203",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eyjafjallaj%C3%B6kull_ash_cloud_20100417.jpg/220px-Eyjafjallaj%C3%B6kull_ash_cloud_20100417.jpg",
+                "caption": "Eruption column of Eyjafjallajökull in 2010"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/B%C3%A1r%C3%B0arbunga_Volcano%2C_September_4_2014_-_15123275226.jpg/220px-B%C3%A1r%C3%B0arbunga_Volcano%2C_September_4_2014_-_15123275226.jpg",
+                "caption": "Eruptions at Holuhraun (Bárðarbunga-Veiðivötn volcanic system), 2014"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gr%C3%A1br%C3%B3kkrater.jpg/220px-Gr%C3%A1br%C3%B3kkrater.jpg",
+                "caption": "The craters of Grábrók"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Geldingadalagos.jpg/220px-Geldingadalagos.jpg",
+                "caption": "2021 Fagradalsfjall volcanic eruption"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Litli-Hr%C3%BAtur_eruption_2023.jpg/220px-Litli-Hr%C3%BAtur_eruption_2023.jpg",
+                "caption": "Litli-Hrútur eruption 2023"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Iceland_Volcano_Eruption_19_December_2023.jpg/220px-Iceland_Volcano_Eruption_19_December_2023.jpg",
+                "caption": "Sundhnúkur in Iceland on December 19th 2023."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_of_Iceland",
+        "title": "Volcanism of Iceland",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Fagradalsfjall 2021-2022",
+        "text": "Following a three-week period of increased seismic activity, an eruption fissure developed near Fagradalsfjall , [43] a mountain on the Reykjanes Peninsula .  Lava flow from a 200-meter fissure was first discovered by an Icelandic Coast Guard helicopter on March 19, 2021, in the Geldingadalur area near Grindavík , and within hours the fissure had grown to 500 m (1,600 ft) in length. [44] Another eruption, very similar to the 2021 eruption, began on 3 August 2022, [45] and ceased on 21 August 2022.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_blue_Lagoon%2C_Iceland_%285454149170%29.jpg/220px-The_blue_Lagoon%2C_Iceland_%285454149170%29.jpg",
+                "caption": "ʻAʻā ( apalhraun ) field near Blue Lagoon"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_of_Iceland",
+        "title": "Volcanism of Iceland",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Structure of lava fields",
+        "text": "The smooth flowing basaltic lava pāhoehoe is known in Icelandic as helluhraun [ˈhɛtlʏˌr̥œyːn] . [Islandsbok 1] It forms smooth surfaces that are quite easy to cross. More viscous lava forms ʻaʻā flows, known in Icelandic as apalhraun [ˈaːpalˌr̥œyːn] . [Islandsbok 1] The loose, broken, sharp, spiny surface of an ʻaʻā flow makes hiking across it difficult, slow and dangerous, it is easy to stick a foot into a hole and break a leg.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2014-04-28_13-14-48_Iceland_Nor%C3%B0urland_Eystra_-_Reykjahl%C3%AD%C3%B0.JPG/220px-2014-04-28_13-14-48_Iceland_Nor%C3%B0urland_Eystra_-_Reykjahl%C3%AD%C3%B0.JPG",
+                "caption": "Pāhoehoe ( helluhraun ) lava fields in Iceland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_of_Iceland",
+        "title": "Volcanism of Iceland",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Sequence",
+        "text": "On Santorini, there is a 60 m (200 ft) thick layer of white tephra that overlies the soil clearly delineating the ground level before the eruption. This layer has three distinct bands that indicate the different phases of the eruption. [17] Studies have identified four major eruption phases, and one minor precursory tephra fall. The thinness of the first ash layer, along with the lack of noticeable erosion of that layer by winter rains before the next layer was deposited, indicate that the volcano gave the local population a few months' warning. Since no human remains have been found at the Akrotiri site, this preliminary volcanic activity probably caused the island's population to flee. It is also suggested that several months before the eruption, Santorini experienced one or more earthquakes, which damaged the local settlements. [18] [19] [20] Intense magmatic activity of the first major phase (BO 1 /Minoan A) [21] of the eruption deposited up to 7 m (23 ft) of pumice and ash, with a minor lithic component, southeast and east. Archaeological evidence indicated burial of man-made structures with limited damage. The second (BO 2 /Minoan B) and third (BO 3 /Minoan C) eruption phases involved pyroclastic surges and lava fountaining , as well as the possible generation of tsunamis . Man-made structures not buried during Minoan A were completely destroyed. The third phase was also characterized by the initiation of caldera collapse. The fourth, and last, major phase (BO 4 /Minoan D) was marked by varied activity: lithic-rich base surge deposits, lava flows, lahar floods, and co- ignimbrite ash-fall deposits. This phase was characterized by the completion of caldera collapse, which produced megatsunamis . [21] [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Akrotiri-Santorini_volcanic-pumice_Aegean-Sea_Greece.jpg/170px-Akrotiri-Santorini_volcanic-pumice_Aegean-Sea_Greece.jpg",
+                "caption": "Early phase of Late-Bronze-Age volcano eruption (~ 1500 BC), southern border of the Caldera island. The lower layer of pumice is finer, almost white and without rock intrusions."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Minoan_eruption",
+        "title": "Minoan eruption",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Geomorphology",
+        "text": "Although the fracturing process is not yet known, the altitudinal statistical analysis indicates that the caldera had formed just before the eruption. The area of the island was smaller, and the southern and eastern coastlines appeared regressed. During the eruption, the landscape was covered by the pumice sediments. In some places, the coastline vanished under thick tuff depositions. In others, recent coastlines were extended towards the sea. After the eruption, the geomorphology of the island was characterized by an intense erosional phase during which the pumice was progressively removed from the higher altitudes to the lower ones. [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Santoryn-Ia_4.jpg/170px-Santoryn-Ia_4.jpg",
+                "caption": "Mansions and hotels atop steep cliffs."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Minoan_eruption",
+        "title": "Minoan eruption",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Akrotiri",
+        "text": "The eruption devastated the settlement at Akrotiri on Santorini, which was entombed in a layer of pumice and ash . Evidence at the site suggests that survivors returned and attempted to recover their possessions and perhaps to bury victims. [83]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Akrotiri-greece-feve.jpg/220px-Akrotiri-greece-feve.jpg",
+                "caption": "Excavation of Akrotiri on Thera"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Minoan_eruption",
+        "title": "Minoan eruption",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Minoan Crete",
+        "text": "The eruption was felt at Minoan sites on Crete. In northeastern Crete, earthquakes destroyed sites including Petras , while 9 meter high tsunamis swept over coastal sites such as Palaikastro . [84] Ash and pumice fell across the island, where it was sometimes collected and stored. [84] [85] [86] After the eruption, the Minoans quickly recovered, and the subsequent period is considered the zenith of Minoan culture. [87] [88] [89] Many affected sites were rebuilt, including Petras and Palaikastro, at the latter of which, new buildings were constructed using high quality ashlar masonry. New Minoan palaces were constructed at Zakros and Phaistos . [90] [86] However, other sites fell into decline, including Galatas and Kommos . [89] [84] [91] The longer term impact of the eruption remains a matter of debate. The immediate aftermath saw a number of puzzling cultural changes including the filling in of lustral basins . [89] In their book The Troubled Island , Driessen and MacDonald argued that the richness of the post-eruption material culture masked deep economic and political problems that eventually led to the collapse of Neopalatial society. Subsequent evidence suggests that this was not a general pattern across the island. [92] [93]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/AMI_-_Oktopusvase.jpg/225px-AMI_-_Oktopusvase.jpg",
+                "caption": "A Marine Style vase, typical of the Late Minoan IB period that followed the eruption of Thera."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Minoan_eruption",
+        "title": "Minoan eruption",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Facilities",
+        "text": "Etna is one of Sicily's main tourist attractions, with thousands of visitors every year. [66] The most common route is through the road leading to Sapienza Refuge ski area, lying at the south of the crater at elevation of 1,910 m. [67] From the Refuge, a cableway runs uphill to an elevation of 2,500 m, from where the crater area at 2,920 m is accessible. [68] Ferrovia Circumetnea – Round-Etna railway – is a narrow-gauge railway constructed between 1889 and 1895. It runs around the volcano in a 110-km long semi-circle starting in Catania and ending in Riposto 28 km north of Catania. There are two ski resorts on Etna: one at the Sapienza Refuge, with a chairlift and three ski lifts, and a smaller one on the north, at Piano Provenzana near Linguaglossa , with three lifts and a chairlift. [69] Sapienza Refuge was the finish of Stage 9 of the 2011 Giro d'Italia and Stage 4 of the 2017 Giro .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sapienza_Refuge_Etna_060313.JPG/220px-Sapienza_Refuge_Etna_060313.JPG",
+                "caption": "Sapienza Refuge, the main tourist hub"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Skiing_Etna_nord_%2C_slope_anfiteatro.JPG/220px-Skiing_Etna_nord_%2C_slope_anfiteatro.JPG",
+                "caption": "Etna North Linguaglossa and Etna South Nicolosi are the two ski resorts of the volcano"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mount_Etna",
+        "title": "Mount Etna",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Background",
+        "text": "Volcanism is a process in which magma from a planet's interior rises through the crust and erupts on the surface. The erupted materials consist of molten rock ( lava ), hot fragmental debris ( tephra or ash), and gases . Volcanism is a principal way that planets release their internal heat. Volcanic eruptions produce distinctive landforms , rock types, and terrains that provide a window on the chemical composition, thermal state , and history of a planet's interior. [10] Magma is a complex, high-temperature mixture of molten silicates , suspended crystals , and dissolved gases. Magma on Mars likely ascends in a similar manner to that on Earth. [11] It rises through the lower crust in diapiric bodies that are less dense than the surrounding material. As the magma rises, it eventually reaches regions of lower density. When the magma density matches that of the host rock, buoyancy is neutralized and the magma body stalls. At this point, it may form a magma chamber and spread out laterally into a network of dikes and sills . Subsequently, the magma may cool and solidify to form intrusive igneous bodies ( plutons ). Geologists estimate that about 80% of the magma generated on Earth stalls in the crust and never reaches the surface. [12] As magma rises and cools, it undergoes many complex and dynamic compositional changes. Heavier minerals may crystallize and settle to the bottom of the magma chamber. The magma may also assimilate portions of host rock or mix with other batches of magma. These processes alter the composition of the remaining melt, so that any magma reaching the surface may be chemically quite different from its parent melt. Magmas that have been so altered are said to be \"evolved\" to distinguish them from \"primitive\" magmas that more closely resemble the composition of their mantle source. (See igneous differentiation and fractional crystallization .) More highly evolved magmas are usually felsic , that is enriched in silica , volatiles , and other light elements compared to iron- and magnesium-rich ( mafic ) primitive magmas. The degree and extent to which magmas evolve over time is an indication of a planet's level of internal heat and tectonic activity. The Earth's continental crust is made up of evolved granitic rocks that developed through many episodes of magmatic reprocessing. Evolved igneous rocks are much less common on cold, dead bodies such as the Moon. Mars, being intermediate in size between the Earth and the Moon, is thought to be intermediate in its level of magmatic activity. At shallower depths in the crust, the lithostatic pressure on the magma body decreases. The reduced pressure can cause gases ( volatiles ), such as carbon dioxide and water vapor, to exsolve from the melt into a froth of gas bubbles. The nucleation of bubbles causes a rapid expansion and cooling of the surrounding melt, producing glassy shards that may erupt explosively as tephra (also called pyroclastics ). Fine-grained tephra is commonly referred to as volcanic ash . Whether a volcano erupts explosively or effusively as fluid lava depends on the composition of the melt. Felsic magmas of andesitic and rhyolitic composition tend to erupt explosively. They are very viscous (thick and sticky) and rich in dissolved gases. Mafic magmas, on the other hand, are low in volatiles and commonly erupt effusively as basaltic lava flows. However, these are only generalizations. For example, magma that comes into sudden contact with groundwater or surface water may erupt violently in steam explosions called hydromagmatic ( phreatomagmatic or phreatic ) eruptions. Erupting magmas may also behave differently on planets with different interior compositions, atmospheres, and gravitational fields .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Fractional_crystallization.svg/330px-Fractional_crystallization.svg.png",
+                "caption": "Schematic diagrams showing the principles behind fractional crystallisation in a magma . While cooling, the magma evolves in composition because different minerals crystallize from the melt. 1 : olivine crystallizes; 2 : olivine and pyroxene crystallize; 3 : pyroxene and plagioclase crystallize; 4 : plagioclase crystallizes. At the bottom of the magma reservoir, a cumulate rock forms."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_on_Mars",
+        "title": "Volcanism on Mars",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Differences in volcanic styles between Earth and Mars",
+        "text": "The most common form of volcanism on the Earth is basaltic. Basalts are extrusive igneous rocks derived from the partial melting of the upper mantle. They are rich in iron and magnesium ( mafic ) minerals and commonly dark gray in color. The principal type of volcanism on Mars is almost certainly basaltic too. [13] On Earth, basaltic magmas commonly erupt as highly fluid flows, which either emerge directly from vents or form by the coalescence of molten clots at the base of lava fountains ( Hawaiian eruption ). These styles are also common on Mars, but the lower gravity and atmospheric pressure on Mars allow nucleation of gas bubbles (see above) to occur more readily and at greater depths than on Earth. As a consequence, Martian basaltic volcanoes are also capable of erupting large quantities of ash in Plinian-style eruptions. In a Plinian eruption, hot ash is incorporated into the atmosphere, forming a huge convective column (cloud). If insufficient atmosphere is incorporated, the column may collapse to form pyroclastic flows . [14] Plinian eruptions are rare in basaltic volcanoes on Earth where such eruptions are most commonly associated with silica-rich andesitic or rhyolitic magmas (e.g., Mount St. Helens ). Because the lower gravity of Mars generates less buoyancy forces on magma rising through the crust, the magma chambers that feed volcanoes on Mars are thought to be deeper and much larger than those on Earth. [15] If a magma body on Mars is to reach close enough to the surface to erupt before solidifying, it must be big. Consequently, eruptions on Mars are less frequent than on Earth, but are of enormous scale and eruptive rate when they do occur. Somewhat paradoxically, the lower gravity of Mars also allows for longer and more widespread lava flows. Lava eruptions on Mars may be unimaginably huge. A vast lava flow the size of the state of Oregon has recently been described in western Elysium Planitia . The flow is believed to have been emplaced turbulently over the span of several weeks and thought to be one of the youngest lava flows on Mars. [16] [17] The tectonic settings of volcanoes on Earth and Mars are very different. Most active volcanoes on Earth occur in long, linear chains along plate boundaries, either in zones where the lithosphere is spreading apart ( divergent boundaries ) or being subducted back into the mantle ( convergent boundaries ). Because Mars currently lacks plate tectonics , volcanoes there do not show the same global pattern as on Earth. Martian volcanoes are more analogous to terrestrial mid-plate volcanoes, such as those in the Hawaiian Islands , which are thought to have formed over a stationary mantle plume . [19] (See hot spot .) The paragenetic tephra from a Hawaiian cinder cone has been mined to create Martian regolith simulant for researchers to use since 1998. [20] [21] The largest and most conspicuous volcanoes on Mars occur in Tharsis and Elysium regions. These volcanoes are strikingly similar to shield volcanoes on Earth. Both have shallow-sloping flanks and summit calderas . The main difference between Martian shield volcanoes and those on Earth is in size: Martian shield volcanoes are truly colossal. For example, the tallest volcano on Mars, Olympus Mons , is 550 km across and 21 km high. It is nearly 100 times greater in volume than Mauna Loa in Hawaii , the largest active shield volcano on Earth. Geologists think one of the reasons that volcanoes on Mars are able to grow so large is because Mars lacks plate tectonics. The Martian lithosphere does not slide over the upper mantle ( asthenosphere ) as on Earth, so lava from a stationary hot spot is able to accumulate at one location on the surface for a billion years or longer. In 2012, the Curiosity rover on the planet Mars at \" Rocknest \" performed the first X-ray diffraction analysis of Martian soil . The results from the rover's CheMin analyzer revealed the presence of several minerals, including feldspar , pyroxenes and olivine , and suggested that the Martian soil in the sample was similar to the \"weathered basaltic soils \" of volcanoes in Hawaii . [18] In 2015, the same rover identified tridymite in a rock sample from Gale Crater, leading scientists to believe that silicic volcanism might have played a much more prevalent role in the planet's volcanic history than previously thought. [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Volatiles_on_Mars.svg/280px-Volatiles_on_Mars.svg.png",
+                "caption": "Planet Mars – volatile gases ( Curiosity rover , October 2012)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PIA16217-MarsCuriosityRover-1stXRayView-20121017.jpg/220px-PIA16217-MarsCuriosityRover-1stXRayView-20121017.jpg",
+                "caption": "First X-ray diffraction view of Martian soil – CheMin analysis reveals minerals (including feldspar , pyroxenes and olivine ) suggestive of \"weathered basaltic soils \" of volcanoes in Hawaii ( Curiosity rover at \" Rocknest \", 2012). [18] Each ring is a diffraction peak that corresponds to a specific atom-atom distance, which are unique enough to identify minerals. Smaller rings corresponds to larger features and vice versa."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_on_Mars",
+        "title": "Volcanism on Mars",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Tharsis volcanic province",
+        "text": "The western hemisphere of Mars is dominated by a massive volcano-tectonic complex known as the Tharsis region or the Tharsis bulge. This immense, elevated structure is thousands of kilometers in diameter and covers up to 25% of the planet's surface. [23] Averaging 7–10 km above datum (Martian \"sea\" level), Tharsis contains the highest elevations on the planet. Three enormous volcanoes, Ascraeus Mons , Pavonis Mons , and Arsia Mons (collectively known as the Tharsis Montes ), sit aligned northeast–southwest along the crest of the bulge. The vast Alba Mons (formerly Alba Patera) occupies the northern part of the region. The huge shield volcano Olympus Mons lies off the main bulge, at the western edge of the province. Built up by countless generations of lava flows and ash, the Tharsis bulge contains some of the youngest lava flows on Mars, but the bulge itself is believed to be very ancient. Geologic evidence indicates that most of the mass of Tharsis was in place by the end of the Noachian Period, about 3.7 billion years ago (Gya). [24] Tharsis is so massive that it has placed tremendous stresses on the planet's lithosphere , generating immense extensional fractures ( grabens and rift valleys ) that extend halfway around the planet. [25] The mass of Tharsis could have even altered the orientation of Mars' rotational axis, causing climate changes. [26] [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Tharsis_-_Valles_Marineris_MOLA_shaded_colorized_zoom_32.jpg/220px-Tharsis_-_Valles_Marineris_MOLA_shaded_colorized_zoom_32.jpg",
+                "caption": "MOLA colorized shaded-relief map of western hemisphere of Mars showing Tharsis bulge (shades of red and brown). Tall volcanoes appear white."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tharsis_mons_Viking.jpg/170px-Tharsis_mons_Viking.jpg",
+                "caption": "Viking orbiter image of the three Tharsis Montes : Arsia Mons (bottom), Pavonis Mons (center), and Ascraeus Mons (top)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_on_Mars",
+        "title": "Volcanism on Mars",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Tharsis Montes",
+        "text": "The three Tharsis Montes are shield volcanoes centered near the equator at longitude 247°E. All are several hundred kilometers in diameter and range in height from 14 to 18 km. Arsia Mons , the southernmost of the group, has a large summit caldera that is 130 kilometres (81 mi) across and 1.3 kilometres (0.81 mi) deep. Pavonis Mons , the middle volcano, has two nested calderas with the smaller one being almost 5 kilometres (3.1 mi) deep. Ascraeus Mons in the north, has a complex set of internested calderas and a long history of eruption that is believed to span most of Mars' history. [28] The three Tharsis Montes are about 700 kilometres (430 mi) apart. They show a distinctive northeast–southwest alignment that has been the source of some interest. Ceraunius Tholus and Uranius Mons follow the same trend to the northeast, and aprons of young lava flows on the flanks of all three Tharsis Montes are aligned in the same northeast–southwest orientation. This line clearly marks a major structural feature in the Martian crust, but its origin is uncertain.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Olympus_Mons_Region_map-la.svg/440px-Olympus_Mons_Region_map-la.svg.png",
+                "caption": "Topographic map centered on Olympus and Tharsis"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_on_Mars",
+        "title": "Volcanism on Mars",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Elysium volcanic province",
+        "text": "A smaller volcanic center lies several thousand kilometers west of Tharsis in Elysium . The Elysium volcanic complex is about 2,000 kilometers in diameter and consists of three main volcanoes, Elysium Mons , Hecates Tholus , and Albor Tholus . The northwestern edge of the province is characterized by large channels ( Granicus and Tinjar Valles) that emerge from several grabens on the flanks of Elysium Mons. The grabens may have formed from subsurface dikes . The dikes may have fractured the cryosphere , releasing large volumes of ground water to form the channels. Associated with the channels are widespread sedimentary deposits that may have formed from mudflows or lahars . [38] The Elysium group of volcanoes is thought to be somewhat different from the Tharsis Montes, in that development of the former involved both lavas and pyroclastics . [39] Elysium Mons is the largest volcanic edifice in the province. It is 375 km across (depending on how one defines the base) and 14 km high. It has single, simple caldera at its summit that measures 14 km wide and 100 m deep. The volcano is distinctly conical in profile, leading some to call it a stratocone ; [40] however, given the predominantly low slopes, it is probably a shield. Elysium Mons is only about one-fifth the volume of Arsia Mons. [38] Hecates Tholus is 180 km across and 4.8 km high. The slopes of the volcano are heavily dissected with channels, suggesting that the volcano is composed of easily erodible material such as volcanic ash. The origin of the channels is unknown; they have been attributed to lava, ash flows, or even water from snow or rainfall. [41] Albor Tholus, the southernmost of the Elysium volcanoes, is 150 km in diameter and 4.1 km high. Its slopes are smoother and less heavily cratered than the slopes of the other Elysium volcanoes. [42]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/MOLA_elysium_mons.jpg/220px-MOLA_elysium_mons.jpg",
+                "caption": "MOLA view of Elysium province. Elysium Mons is in the center. Albor Tholus and Hecates Tholus are at bottom and top, respectively."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_on_Mars",
+        "title": "Volcanism on Mars",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Highland paterae",
+        "text": "In the southern hemisphere, particularly around the Hellas impact basin, are several flat-lying volcanic structures called highland paterae [46] These volcanoes are some of the oldest identifiable volcanic edifices on Mars. [47] They are characterized by having extremely low profiles with highly eroded ridges and channels that radiate outward from a degraded, central caldera complex. They include Tyrrhena Patera , Hadriaca Patera to the northeast of Hellas and Amphitrites Patera , Peneus Patera , Malea Patera and Pityusa Patera to the southwest of Hellas. Geomorphologic evidence suggests that the highland patera were produced through a combination of lava flows and pyroclastics from the interaction of magma with water. Some researchers speculate that the location of the highland paterae around Hellas is due to deep-seated fractures caused by the impact that provided conduits for magma to rise to the surface. [48] [49] [50] Although they are not very high, some paterae cover large areas—Amphritrites Patera, for example, covers a larger area than Olympus Mons while Pityusa Patera, the largest, has a caldera nearly large enough to fit Olympus Mons inside it.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/PIA00410_Amphitrites_Patera.jpg/220px-PIA00410_Amphitrites_Patera.jpg",
+                "caption": "Viking orbiter view of Peneus Patera (left) and Amphitrites Patera (right). Both are ancient volcanic edifices southwest of Hellas."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_on_Mars",
+        "title": "Volcanism on Mars",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Potential current volcanism",
+        "text": "Scientists have never recorded an active volcano eruption on the surface of Mars; [55] moreover, searches for thermal signatures and surface changes before 2011 did not yield any positive evidence for active volcanism. [7] However, the European Space Agency's Mars Express orbiter photographed lava flows interpreted in 2004 to have occurred within the past two million years, suggesting a relatively recent geologic activity. [56] An updated study in 2011 estimated that the youngest lava flows occurred in the last few tens of millions of years. [57] The authors consider this age makes it possible that Mars is not yet volcanically extinct. [7] [57] The InSight lander mission would determine if there is any seismic activity , measure the amount of heat flow from the interior, estimate the size of Mars' core and whether the core is liquid or solid. The findings were that Mars possesses a molten outer core and a solid inner core with a partially molten mantle. [58] In 2020, astronomers reported evidence for volcanic activity on Mars as recently as 53,000 years ago in the Cerberus Fossae amid Elysium Planitia . Such activity could have provided the environment, in terms of energy and chemicals, needed to support life forms . [59] [60]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rootless_Cones.jpg/220px-Rootless_Cones.jpg",
+                "caption": "HiRISE image of possible rootless cones east of Elysium region. The chains of rings are interpreted to be caused by steam explosions when lava moved over ground that was rich in water ice."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/MarsCones-ESP_030192_2020.jpg/220px-MarsCones-ESP_030192_2020.jpg",
+                "caption": "\" Rootless Cones \" on Mars – due to lava flows interacting with water ( MRO , 4 January 2013) ( 21°57′54″N 197°48′25″E ﻿ / ﻿ 21.965°N 197.807°E ﻿ / 21.965; 197.807 )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_on_Mars",
+        "title": "Volcanism on Mars",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Volcanoes and ice",
+        "text": "Large amounts of water ice are believed to be present in the Martian subsurface. The interaction of ice with molten rock can produce distinct landforms. On Earth, when hot volcanic material comes into contact with surface ice, large amounts of liquid water and mud may form that flow catastrophically down slope as massive debris flows ( lahars ). Some channels in Martian volcanic areas, such as Hrad Vallis near Elysium Mons , may have been similarly carved or modified by lahars. [61] Lava flowing over water-saturated ground can cause the water to erupt violently in an explosion of steam (see phreatic eruption ), producing small volcano-like landforms called pseudocraters , or rootless cones. Features that resemble terrestrial rootless cones occur in Elysium, Amazonis , and Isidis and Chryse Planitiae . [62] Also, phreatomagmatism produce tuff rings or tuff cones on Earth and existence of similar landforms on Mars is expected too. [63] Their existence was suggested from Nepenthes / Amenthes region. [64] Finally, when a volcano erupts under an ice sheet, it can form a distinct, mesa-like landform called a tuya or table mountain. Some researchers [65] cite geomorphic evidence that many of the layered interior deposits in Valles Marineris may be the Martian equivalent of tuyas.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hrad_Vallis_in_Cebrenia.jpg/220px-Hrad_Vallis_in_Cebrenia.jpg",
+                "caption": "THEMIS image of Hrad Vallis . This valley may have formed when eruptions in the Elysium Mons volcanic complex melted ground or surface ice."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_on_Mars",
+        "title": "Volcanism on Mars",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Tectonic boundaries",
+        "text": "Tectonic boundaries have been discovered on Mars. Valles Marineris is a horizontally sliding tectonic boundary that divides two major partial or complete plates of Mars. The recent finding suggests that Mars is geologically active with occurrences in the millions of years. [66] [67] [68] There has been previous evidence of Mars' geologic activity. The Mars Global Surveyor (MGS) discovered magnetic stripes in the crust of Mars, [69] especially in the Phaethontis and Eridania quadrangles . The magnetometer on MGS discovered 100 km wide stripes of magnetized crust running roughly parallel for up to 2000 km. These stripes alternate in polarity with the north magnetic pole of one pointing up from the surface and the north magnetic pole of the next pointing down. When similar stripes were discovered on Earth in the 1960s, they were taken as evidence of plate tectonics . However, there are some differences, between the magnetic stripes on Earth and those on Mars. The Martian stripes are wider, much more strongly magnetized, and do not appear to spread out from a middle crustal spreading zone.\nBecause the area with the magnetic stripes is about 4 billion years old, it is believed that the global magnetic field probably lasted for only the first few hundred million years of Mars' life. At that time the temperature of the molten iron in the planet's core might have been high enough to mix it into a magnetic dynamo. Younger rock does not show any stripes.\nWhen molten rock containing magnetic material, such as hematite (Fe 2 O 3 ), cools and solidifies in the presence of a magnetic field, it becomes magnetized and takes on the polarity of the background field. This magnetism is lost only if the rock is subsequently heated above the Curie temperature , which is 770 °C for pure iron, but lower for oxides such as hematite (approximately 650 °C) or magnetite (approximately 580 °C). [70] The magnetism left in rocks is a record of the magnetic field when the rock solidified. [71] Mars' volcanic features can be likened to Earth's geologic hotspots . Pavonis Mons is the middle of three volcanoes (collectively known as Tharsis Montes) on the Tharsis bulge near the equator of the planet Mars. The other Tharsis volcanoes are Ascraeus Mons and Arsia Mons. The three Tharsis Montes, together with some smaller volcanoes to the north, form a straight line. This arrangement suggests that they were formed by a crustal plate moving over a hot spot. Such an arrangement exists in the Earth's Pacific Ocean as the Hawaiian Islands . The Hawaiian Islands are in a straight line, with the youngest in the south and the oldest in the north. So geologists believe the plate is moving while a stationary plume of hot magma rises and punches through the crust to produce volcanic mountains. However, the largest volcano on the planet, Olympus Mons, is thought to have formed when the plates were not moving. Olympus Mons may have formed just after the plate motion stopped. The mare-like plains on Mars are roughly 3 to 3.5 billion years old. [72] The giant shield volcanoes are younger, formed between 1 and 2 billion years ago. Olympus Mons may be \"as young as 200 million years.\" [73] In 1994, Norman H. Sleep, professor of geophysics at Stanford University, described how the three volcanoes that form a line along the Tharsis Ridge may be extinct island arc volcanoes like the island chain of Japan. [74] [ needs update? ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mars_Crustal_Magnetism_MGS.png/220px-Mars_Crustal_Magnetism_MGS.png",
+                "caption": "Mars crustal magnetism"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_on_Mars",
+        "title": "Volcanism on Mars",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Formation",
+        "text": "Volcanic ash is formed during explosive volcanic eruptions and phreatomagmatic eruptions, [2] and may also be formed during transport in pyroclastic density currents . [3] Explosive eruptions occur when magma decompresses as it rises, allowing dissolved volatiles (dominantly water and carbon dioxide ) to exsolve into gas bubbles. [4] As more bubbles nucleate a foam is produced, which decreases the density of the magma, accelerating it up the conduit. Fragmentation occurs when bubbles occupy ~70–80 vol% of the erupting mixture. [5] When fragmentation occurs, violently expanding bubbles tear the magma apart into fragments which are ejected into the atmosphere where they solidify into ash particles. Fragmentation is a very efficient process of ash formation and is capable of generating very fine ash even without the addition of water. [6] Volcanic ash is also produced during phreatomagmatic eruptions. During these eruptions fragmentation occurs when magma comes into contact with bodies of water (such as the sea, lakes and marshes) groundwater, snow or ice. As the magma, which is significantly hotter than the boiling point of water, comes into contact with water an insulating vapor film forms ( Leidenfrost effect ). [7] Eventually this vapor film will collapse leading to direct coupling of the cold water and hot magma. This increases the heat transfer which leads to the rapid expansion of water and fragmentation of the magma into small particles which are subsequently ejected from the volcanic vent. Fragmentation causes an increase in contact area between magma and water creating a feedback mechanism, [7] leading to further fragmentation and production of fine ash particles. Pyroclastic density currents can also produce ash particles. These are typically produced by lava dome collapse or collapse of the eruption column . [8] Within pyroclastic density currents particle abrasion occurs as particles violently collide, resulting in a reduction in grain size and production of fine grained ash particles. In addition, ash can be produced during secondary fragmentation of pumice fragments, due to the conservation of heat within the flow. [9] These processes produce large quantities of very fine grained ash which is removed from pyroclastic density currents in co-ignimbrite ash plumes. Physical and chemical characteristics of volcanic ash are primarily controlled by the style of volcanic eruption. [10] Volcanoes display a range of eruption styles which are controlled by magma chemistry, crystal content, temperature and dissolved gases of the erupting magma and can be classified using the volcanic explosivity index (VEI) . Effusive eruptions (VEI 1) of basaltic composition produce <10 5 m 3 of ejecta, whereas extremely explosive eruptions (VEI 5+) of rhyolitic and dacitic composition can inject large quantities (>10 9 m 3 ) of ejecta into the atmosphere. [11]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Vulkaanilise_tuha_kiht.JPG/220px-Vulkaanilise_tuha_kiht.JPG",
+                "caption": "454 million-year-old volcanic ash between layers of limestone in the catacombs of Peter the Great's Naval Fortress in Estonia near Laagri . This is a remnant of one of the oldest large eruptions preserved. The diameter of the black camera lens cover is 58 mm (2.3 in)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanic_ash",
+        "title": "Volcanic ash",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Components",
+        "text": "Volcanic ash particles erupted during magmatic eruptions are made up of various fractions of vitric (glassy, non-crystalline), crystalline or lithic (non-magmatic) particles. Ash produced during low viscosity magmatic eruptions (e.g., Hawaiian and Strombolian basaltic eruptions) produce a range of different pyroclasts dependent on the eruptive process. For example, ash collected from Hawaiian lava fountains consists of sideromelane (light brown basaltic glass) pyroclasts which contain microlites (small quench crystals, not to be confused with the rare mineral microlite ) and phenocrysts . Slightly more viscous eruptions of basalt (e.g., Strombolian) form a variety of pyroclasts from irregular sideromelane droplets to blocky tachylite (black to dark brown microcrystalline pyroclasts). In contrast, most high-silica ash (e.g. rhyolite) consists of pulverised products of pumice (vitric shards), individual phenocrysts (crystal fraction) and some lithic fragments ( xenoliths ). [24] Ash generated during phreatic eruptions primarily consists of hydrothermally altered lithic and mineral fragments, commonly in a clay matrix. Particle surfaces are often coated with aggregates of zeolite crystals or clay and only relict textures remain to identify pyroclast types. [24]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Ashsem_small.jpg",
+                "caption": "A scanning electron micrograph image  of a particle of volcanic ash from Mount St. Helens"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanic_ash",
+        "title": "Volcanic ash",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Morphology",
+        "text": "The morphology (shape) of volcanic ash is controlled by a plethora of different eruption and kinematic processes. [24] [25] Eruptions of low-viscosity magmas (e.g., basalt) typically form droplet shaped particles. This droplet shape is, in part, controlled by surface tension , acceleration of the droplets after they leave the vent, and air friction. Shapes range from perfect spheres to a variety of twisted, elongate droplets with smooth, fluidal surfaces. [25] The morphology of ash from eruptions of high-viscosity magmas (e.g., rhyolite, dacite, and some andesites) is mostly dependent on the shape of vesicles in the rising magma before disintegration. Vesicles are formed by the expansion of magmatic gas before the magma has solidified. Ash particles can have varying degrees of vesicularity and vesicular particles can have extremely high surface area to volume ratios. [24] Concavities, troughs, and tubes observed on grain surfaces are the result of broken vesicle walls. [25] Vitric ash particles from high-viscosity magma eruptions are typically angular, vesicular pumiceous fragments or thin vesicle-wall fragments while lithic fragments in volcanic ash are typically equant, or angular to subrounded. Lithic morphology in ash is generally controlled by the mechanical properties of the wall rock broken up by spalling or explosive expansion of gases in the magma as it reaches the surface. The morphology of ash particles from phreatomagmatic eruptions is controlled by stresses within the chilled magma which result in fragmentation of the glass to form small blocky or pyramidal glass ash particles. [24] Vesicle shape and density play only a minor role in the determination of grain shape in phreatomagmatic eruptions. In this sort of eruption, the rising magma is quickly cooled on contact with ground or surface water. Stresses within the \"quenched\" magma cause fragmentation into five dominant pyroclast shape-types: (1) blocky and equant; (2) vesicular and irregular with smooth surfaces; (3) moss-like and convoluted; (4) spherical or drop-like; and (5) plate-like.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/MtStHelensAsh1980eruption.jpg/220px-MtStHelensAsh1980eruption.jpg",
+                "caption": "Light microscope image of ash from the 1980 eruption of Mount St. Helens, Washington"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanic_ash",
+        "title": "Volcanic ash",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Grain size",
+        "text": "Volcanic ash consists of particles (pyroclasts) with diameters less than 2 mm (particles larger than 2 mm are classified as lapilli ), [1] and can be as fine as 1 μm. [10] The overall grain size distribution of ash can vary greatly with different magma compositions. Few attempts have been made to correlate the grain size characteristics of a deposit with those of the event which produced it, though some predictions can be made. Rhyolitic magmas generally produce finer grained material compared to basaltic magmas, due to the higher viscosity and therefore explosivity. The proportions of fine ash are higher for silicic explosive eruptions, probably because vesicle size in the pre-eruptive magma is smaller than those in mafic magmas. [1] There is good evidence that pyroclastic flows produce high proportions of fine ash by communition and it is likely that this process also occurs inside volcanic conduits and would be most efficient when the magma fragmentation surface is well below the summit crater. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Volcanic_ash_grain_size_distributions.jpg/220px-Volcanic_ash_grain_size_distributions.jpg",
+                "caption": "Volcanic ash grain size distributions from four volcanic eruptions"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanic_ash",
+        "title": "Volcanic ash",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Dispersal",
+        "text": "Ash particles are incorporated into eruption columns as they are ejected from the vent at high velocity. The initial momentum from the eruption propels the column upwards. As air is drawn into the column, the bulk density decreases and it starts to rise buoyantly into the atmosphere. [8] At a point where the bulk density of the column is the same as the surrounding atmosphere, the column will cease rising and start moving laterally. Lateral dispersion is controlled by prevailing winds and the ash may be deposited hundreds to thousands of kilometres from the volcano, depending on eruption column height, particle size of the ash and climatic conditions (especially wind direction and strength and humidity). [28] Ash fallout occurs immediately after the eruption and is controlled by particle density. Initially, coarse particles fall out close to source. This is followed by fallout of accretionary lapilli , which is the result of particle agglomeration within the column. [29] Ash fallout is less concentrated during the final stages as the column moves downwind. This results in an ash fall deposit which generally decreases in thickness and grain size exponentially with increasing distance from the volcano. [30] Fine ash particles may remain in the atmosphere for days to weeks and be dispersed by high-altitude winds. These particles can impact on the aviation industry (refer to impacts section) and, combined with gas particles, can affect global climate. Volcanic ash plumes can form above pyroclastic density currents. These are called co-ignimbrite plumes. As pyroclastic density currents travel away from the volcano, smaller particles are removed from the flow by elutriation and form a less dense zone overlying the main flow. This zone then entrains the surrounding air and a buoyant co-ignimbrite plume is formed. These plumes tend to have higher concentrations of fine ash particles compared to magmatic eruption plumes due to the abrasion within the pyroclastic density current. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/MountRedoubtEruption.jpg/220px-MountRedoubtEruption.jpg",
+                "caption": "Ash plume rising from Mount Redoubt after an eruption on April 21, 1990"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ash_Plume_and_Ash_Fall_of_May_1994_Eruption_of_Mount_Pagan_volcano_in_Northern_Mariana_Islands.jpg/220px-Ash_Plume_and_Ash_Fall_of_May_1994_Eruption_of_Mount_Pagan_volcano_in_Northern_Mariana_Islands.jpg",
+                "caption": "Ash plume and ash fallout at Mount Pagan , May 1994"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanic_ash",
+        "title": "Volcanic ash",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Impacts",
+        "text": "Population growth has caused the progressive encroachment of urban development into higher risk areas, closer to volcanic centres, increasing the human exposure to volcanic ash fall events. [31] Direct health effects of volcanic ash on humans are usually short-term and mild for persons in normal health, though prolonged exposure potentially poses some risk of silicosis in unprotected workers. [32] Of greater concern is the impact of volcanic ash on the infrastructure critical to supporting modern societies, particularly in urban areas, where high population densities create high demand for services. [33] [31] Several recent eruptions have illustrated the vulnerability of urban areas that received only a few millimetres or centimetres of volcanic ash. [34] [35] [36] [37] [38] This has been sufficient to cause disruption of transportation, [39] electricity , [40] water , [41] [42] sewage and storm water systems. [43] Costs have been incurred from business disruption, replacement of damaged parts and insured losses. Ash fall impacts on critical infrastructure can also cause multiple knock-on effects, which may disrupt many different sectors and services. [44] Volcanic ash fall is physically, socially, and economically disruptive. [45] Volcanic ash can affect both proximal areas and areas many hundreds of kilometres from the source, [46] and causes disruptions and losses in a wide variety of different infrastructure sectors. Impacts are dependent on: ash fall thickness; the grain size and chemistry of the ash; whether the ash is wet or dry; the duration of the ash fall; and any preparedness , management and prevention (mitigation) measures employed to reduce effects from the ash fall. Different sectors of infrastructure and society are affected in different ways and are vulnerable to a range of impacts or consequences. These are discussed in the following sections. [31]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cast_victim_eruptions_Pompeii.jpg/220px-Cast_victim_eruptions_Pompeii.jpg",
+                "caption": "Cast of a victim of the 79 AD Mount Vesuvius eruptions, Pompeii , Italy"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanic_ash",
+        "title": "Volcanic ash",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Electricity",
+        "text": "Volcanic ash can disrupt electric power supply systems at all levels of power generation, transformation, transmission, and distribution. There are four main impacts arising from ash-contamination of apparatus used in the power delivery process: [53]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Electrical_insulator_flashover_from_volcanic_ash.jpg/220px-Electrical_insulator_flashover_from_volcanic_ash.jpg",
+                "caption": "Electrical insulator flashover caused by volcanic ash contamination"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanic_ash",
+        "title": "Volcanic ash",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Drinking water supplies",
+        "text": "Groundwater-fed systems are resilient to impacts from ashfall, although airborne ash can interfere with the operation of well-head pumps. Electricity outages caused by ashfall can also disrupt electrically powered pumps if there is no backup generation. [58] The physical impacts of ashfall can affect the operation of water treatment plants. Ash can block intake structures, cause severe abrasion damage to pump impellers and overload pump motors. [58] Ash can enter filtration systems such as open sand filters both by direct fallout and via intake waters. In most cases, increased maintenance will be required to manage the effects of an ashfall, but there will not be service interruptions. [59] The final step of drinking water treatment is disinfection to ensure that final drinking water is free from infectious microorganisms. As suspended particles (turbidity) can provide a growth substrate for microorganisms and can protect them from disinfection treatment, it is extremely important that the water treatment process achieves a good level of removal of suspended particles. Chlorination may have to be increased to ensure adequate disinfection. [60] Many households, and some small communities, rely on rainwater for their drinking water supplies. Roof-fed systems are highly vulnerable to contamination by ashfall, as they have a large surface area relative to the storage tank volume. In these cases, leaching of chemical contaminants from the ashfall can become a health risk and drinking of water is not recommended. Prior to an ashfall, downpipes should be disconnected so that water in the tank is protected. A further problem is that the surface coating of fresh volcanic ash can be acidic. Unlike most surface waters, rainwater generally has a very low alkalinity (acid-neutralising capacity) and thus ashfall may acidify tank waters. This may lead to problems with plumbosolvency , whereby the water is more aggressive towards materials that it comes into contact with. This can be a particular problem if there are lead-head nails or lead flashing used on the roof, and for copper pipes and other metallic plumbing fittings. [61] During ashfall events, large demands are commonly placed on water resources for cleanup and shortages can result. Shortages compromise key services such as firefighting and can lead to a lack of water for hygiene, sanitation and drinking. Municipal authorities need to monitor and manage this water demand carefully, and may need to advise the public to utilise cleanup methods that do not use water (e.g., cleaning with brooms rather than hoses). [62]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Water_turbine_eroded_by_volcanic_ash.jpg/220px-Water_turbine_eroded_by_volcanic_ash.jpg",
+                "caption": "Water turbine from the Agoyan hydroelectric plant eroded by volcanic ash laden water"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanic_ash",
+        "title": "Volcanic ash",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Detection",
+        "text": "Volcanic ash clouds are very difficult to detect from aircraft as no onboard cockpit instruments exist to detect them. However, a new system called Airborne Volcanic Object Infrared Detector (AVOID) has recently been developed by Dr Fred Prata [73] while working at CSIRO Australia [74] and the Norwegian Institute for Air Research , which will allow pilots to detect ash plumes up to 60 km (37 mi) ahead and fly safely around them. [75] The system uses two fast-sampling infrared cameras, mounted on a forward-facing surface, that are tuned to detect volcanic ash. This system can detect ash concentrations of <1 mg/m 3 to > 50 mg/m 3 , giving pilots approximately 7–10 minutes warning. [75] The camera was tested [76] [77] by the easyJet airline company, [78] AIRBUS and Nicarnica Aviation (co-founded by Dr Fred Prata).  The results showed the system could work to distances of ~60 km and up to 10,000 ft [79] but not any higher without some significant modifications. In addition, ground and satellite based imagery, radar , and lidar can be used to detect ash clouds. This information is passed between meteorological agencies, volcanic observatories and airline companies through Volcanic Ash Advisory Centers (VAAC) . There is one VAAC for each of the nine regions of the world. VAACs can issue advisories describing the current and future extent of the ash cloud. [80]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/VAAC_Coverage.jpg/250px-VAAC_Coverage.jpg",
+                "caption": "Coverage of the nine VAAC around the world"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/AIRBUS-AVOID.jpg/220px-AIRBUS-AVOID.jpg",
+                "caption": "The AVOID instrument mounted on the fuselage of an AIRBUS A340 test aircraft"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanic_ash",
+        "title": "Volcanic ash",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Environment and agriculture",
+        "text": "Volcanic ash can have a detrimental impact on the environment which can be difficult to predict due to the large variety of environmental conditions that exist within the ash fall zone. Natural waterways can be impacted in the same way as urban water supply networks. Ash will increase water turbidity which can reduce the amount of light reaching lower depths, which can inhibit growth of submerged aquatic plants and consequently affect species which are dependent on them such as fish and shellfish . [88] High turbidity can also affect the ability of fish gills to absorb dissolved oxygen . [89] Acidification will also occur, which will reduce the pH of the water and impact the fauna and flora living in the environment. Fluoride contamination will occur if the ash contains high concentrations of fluoride. [90] Ash accumulation will also affect pasture, plants and trees which are part of the horticulture and agriculture industries. Thin ash falls (<20 mm) may put livestock off eating, and can inhibit transpiration and photosynthesis and alter growth. There may be an increase in pasture production due to a mulching effect and slight fertilizing effect, such as occurred following the 1980 Mount St. Helens and 1995/96 Mt Ruapehu eruptions. [91] [92] Heavier falls will completely bury pastures and soil leading to death of pasture and sterilization of the soil due to oxygen deprivation. Plant survival is dependent on ash thickness, ash chemistry, compaction of ash, amount of rainfall, duration of burial and the length of plant stalks at the time of ash fall. [10] Young forests (trees <2 years old) are most at risk from ash falls and are likely to be destroyed by ash deposits >100 mm. [93] Ash fall is unlikely to kill mature trees, but ash loading may break large branches during heavy ash falls (>500 mm). Defoliation of trees may also occur, especially if there is a coarse ash component within the ash fall. [10] Land rehabilitation after ash fall may be possible depending on the ash deposit thickness. Rehabilitation treatment may include: direct seeding of deposit; mixing of deposit with buried soil; scraping of ash deposit from land surface; and application of new topsoil over the ash deposit. [37]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/A062%2C_Mount_Saint_Helens_National_Volcanic_Monument%2C_Washington%2C_USA%2C_stripped_trees%2C_2002.jpg/220px-A062%2C_Mount_Saint_Helens_National_Volcanic_Monument%2C_Washington%2C_USA%2C_stripped_trees%2C_2002.jpg",
+                "caption": "Defoliated and fallen trees on Windy Ridge, Mount St. Helens , 22 years after the 1980 eruption"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanic_ash",
+        "title": "Volcanic ash",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Interdependence",
+        "text": "Critical infrastructure and infrastructure services are vital to the functionality of modern society, to provide: medical care, policing, emergency services , and lifelines such as water, wastewater, and power and transportation links. Often critical facilities themselves are dependent on such lifelines for operability, which makes them vulnerable to both direct impacts from a hazard event and indirect effects from lifeline disruption. [94] The impacts on lifelines may also be inter-dependent . The vulnerability of each lifeline may depend on: the type of hazard, the spatial density of its critical linkages, the dependency on critical linkages, susceptibility to damage and speed of service restoration, state of repair or age, and institutional characteristics or ownership. [33] The 2010 eruption of Eyjafjallajokull in Iceland highlighted the impacts of volcanic ash fall in modern society and our dependence on the functionality of infrastructure services. During this event, the airline industry suffered business interruption losses of €1.5–2.5 billion from the closure of European airspace for six days in April 2010 and subsequent closures into May 2010. [95] Ash fall from this event is also known to have caused local crop losses in agricultural industries, losses in the tourism industry, destruction of roads and bridges in Iceland (in combination with glacial melt water), and costs associated with emergency response and clean-up. However, across Europe there were further losses associated with travel disruption, the insurance industry, the postal service, and imports and exports across Europe and worldwide. These consequences demonstrate the interdependency and diversity of impacts from a single event. [38]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Interdependency_of_volcanic_ashfall_impacts.jpg/220px-Interdependency_of_volcanic_ashfall_impacts.jpg",
+                "caption": "Interdependency of volcanic ashfall impacts from the Eyjafjallajökull 2010 eruptions"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanic_ash",
+        "title": "Volcanic ash",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Preparedness, mitigation and management",
+        "text": "Preparedness for ashfalls should involve sealing buildings, protecting infrastructure and homes, and storing sufficient supplies of food and water to last until the ash fall is over and clean-up can begin. Dust masks can be worn to reduce inhalation of ash and mitigate against any respiratory health affects. [47] Goggles can be worn to protect against eye irritation. At home, staying informed about volcanic activity, and having contingency plans in place for alternative shelter locations, constitutes good preparedness for an ash fall event. This can prevent some impacts associated with ash fall, reduce the effects, and increase the human capacity to cope with such events. A few items such as a flashlight, plastic sheeting to protect electronic equipment from ash ingress, and battery operated radios, are extremely useful during ash fall events. [10] Communication plans should be made beforehand to inform of mitigation actions being undertaken. Spare parts and back-up systems should be in place prior to ash fall events to reduce service disruption and return functionality as quickly as possible. Good preparedness also includes the identification of ash disposal sites, before ash fall occurs, to avoid further movement of ash and to aid clean-up. [96] Some effective techniques for the management of ash have been developed including cleaning methods and cleaning apparatus, and actions to mitigate or limit damage. The latter include covering of openings such as: air and water intakes, aircraft engines and windows during ash fall events. Roads may be closed to allow clean-up of ash falls, or speed restrictions may be put in place, in order to prevent motorists from developing motor problems and becoming stranded following an ash fall. [97] To prevent further effects on underground water systems or waste water networks, drains and culverts should be unblocked and ash prevented from entering the system. [96] Ash can be moistened (but not saturated) by sprinkling with water, to prevent remobilisation of ash and to aid clean-up. [97] Prioritisation of clean-up operations for critical facilities and coordination of clean-up efforts also constitute good management practice. [96] [97] [98] It is recommended to evacuate livestock in areas where ashfall may reach 5 cm or more. [99]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ash_in_Yogyakarta_during_the_2014_eruption_of_Kelud_01.jpg/220px-Ash_in_Yogyakarta_during_the_2014_eruption_of_Kelud_01.jpg",
+                "caption": "Two management methods during the 2014 eruptions of Kelud : sweeping (top) and spraying with water (bottom)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanic_ash",
+        "title": "Volcanic ash",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Geology",
+        "text": "The Cascade Arc includes nearly 20 major volcanoes, among a total of over 4,000 separate volcanic vents including numerous stratovolcanoes , shield volcanoes , lava domes , and cinder cones , along with a few isolated examples of rarer volcanic forms such as tuyas . Volcanism in the arc began about 37 million years ago; however, most of the present-day Cascade volcanoes are less than 2,000,000 years old, and the highest peaks are less than 100,000 years old. Twelve volcanoes in the arc are over 10,000 feet (3,000 m) in elevation, and the two highest, Mount Rainier and Mount Shasta , exceed 14,000 feet (4,300 m) . By volume, the two largest Cascade volcanoes are the broad shields of Medicine Lake Volcano and Newberry Volcano , which are about 145 and 108 cubic miles (600 and 450 km 3 ) respectively. Glacier Peak is the only Cascade volcano that is made exclusively of dacite . The history of the cascade volcanoes can be separated into three major chapters which are discussed below.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lassen-Peak-Large.jpg/220px-Lassen-Peak-Large.jpg",
+                "caption": "Lassen Peak and Devastated Area from Cinder Cone"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Cascade_Volcanoes",
+        "title": "Cascade Volcanoes",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Modern arc",
+        "text": "The volcanoes of the Cascade Arc share some general characteristics, but each has its own unique geological traits and history. Lassen Peak in California, which last erupted in 1917, is the southernmost historically active volcano in the arc, while the Mount Meager massif in British Columbia, which erupted about 2,350 years ago, is generally considered the northernmost member of the arc. A few isolated volcanic centers northwest of the Mount Meager massif such as the Silverthrone Caldera , which is a circular 20 km (12 mi) wide, deeply dissected caldera complex , may also be the product of Cascadia subduction because the igneous rocks andesite , basaltic andesite , dacite and rhyolite can also be found at these volcanoes as they are elsewhere along the subduction zone. [6] [7] At issue are the current estimates of plate configuration and rate of subduction , but based on the chemistry of these volcanoes, they are also subduction related and therefore part of the Cascade Volcanic Arc. [8] [9] The Cascade Volcanic Arc appears to be segmented; the central portion of the arc is the most active and the northern end least active. The Garibaldi Volcanic Belt is the northern extension of the Cascade Arc. Volcanoes within the volcanic belt are mostly stratovolcanoes along with the rest of the arc, but also include calderas , cinder cones , and small isolated lava masses. The eruption styles within the belt range from effusive to explosive , with compositions from basalt to rhyolite. Due to repeated continental and alpine glaciations, many of the volcanic deposits in the belt reflect complex interactions between magma composition, topography , and changing ice configurations. Four volcanoes within the belt appear related to seismic activity since 1975, including: Mount Meager massif, Mount Garibaldi and Mount Cayley . The Pemberton Volcanic Belt is an eroded volcanic belt north of the Garibaldi Volcanic Belt, which appears to have formed during the Miocene before fracturing of the northern end of the Juan de Fuca Plate. The Silverthrone Caldera is the only volcano within the belt that appears related to seismic activity since 1975. The Mount Meager massif is the most unstable volcanic massif in Canada. It has dumped clay and rock several meters deep into the Pemberton Valley at least three times during the past 7,300 years. Recent drilling into the Pemberton Valley bed encountered remnants of a debris flow that had traveled 50 km (31 mi) from the volcano shortly before it last erupted 2,350 years ago. About 1,000,000,000 cubic metres (0.24 cu mi) of rock and sand extended over the width of the valley. Two previous debris flows, about 4,450 and 7,300 years ago, sent debris at least 32 km (20 mi) from the volcano. Recently, the volcano has created smaller landslides about every ten years, including one in 1975 that killed four geologists near Meager Creek . The possibility of the Mount Meager massif covering stable sections of the Pemberton Valley in a debris flow is estimated at one in 2,400 years. There is no sign of volcanic activity with these events. However, scientists warn the volcano could release another massive debris flow over populated areas any time without warning. In the past, Mount Rainier has had large debris avalanches, and has also produced enormous lahars due to the large amount of glacial ice present. Its lahars have reached all the way to Puget Sound . Around 5,000 years ago, a large chunk of the volcano slid away and that debris avalanche helped to produce the massive Osceola Mudflow , which went all the way to the site of present-day Tacoma and south Seattle. This massive avalanche of rock and ice took out the top 1,600 feet (490 m) of Rainier, bringing its height down to around 14,100 feet (4,300 m). About 530 to 550 years ago, the Electron Mudflow occurred, although this was not as large-scale as the Osceola Mudflow. While the Cascade volcanic arc (a geological term) includes volcanoes such as the Mount Meager massif and Mount Garibaldi , which lie north of the Fraser River , the Cascade Range (a geographic term) is considered to have its northern boundary at the Fraser.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mount_Garibaldi_%2850997016501%29.jpg/220px-Mount_Garibaldi_%2850997016501%29.jpg",
+                "caption": "Mount Garibaldi as seen from the south"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mount_Cayley.jpg/220px-Mount_Cayley.jpg",
+                "caption": "Mount Cayley as seen from its southeast slopes"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Cascade_Volcanoes",
+        "title": "Cascade Volcanoes",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Largest eruptions",
+        "text": "The table below lists some of the greatest eruptions to have occurred in the Cascade chain.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dusty_Creek_drainage.jpg/209px-Dusty_Creek_drainage.jpg",
+                "caption": "Overview of Dusty Creek drainage, to the left pyroclastic deposits from Gamma Ridge can be seen."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kulshan_intracaldera_ignimbrite_deposit.jpg/167px-Kulshan_intracaldera_ignimbrite_deposit.jpg",
+                "caption": "Ignimbrite deposited by the Lake Tapps eruption that formed the Kulshan caldera."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Cascade_Volcanoes",
+        "title": "Cascade Volcanoes",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Cascadia subduction zone",
+        "text": "The Cascade Volcanoes were formed by the subduction of the Juan de Fuca , Explorer and the Gorda Plate (remnants of the much larger Farallon Plate ) under the North American Plate along the Cascadia subduction zone . This is a 680-mile (1,090 km) long fault , running 50 miles (80 km) off the coast of the Pacific Northwest from northern California to Vancouver Island , British Columbia . The plates move at a relative rate of over 0.4 inches (10 mm) per year at a somewhat oblique angle to the subduction zone. Because of the very large fault area, the Cascadia subduction zone can produce very large earthquakes, magnitude 9.0 or greater, if rupture occurred over its whole area. When the \"locked\" zone stores up energy for an earthquake, the \"transition\" zone, although somewhat plastic, can rupture. Thermal and deformation studies indicate that the locked zone is fully locked for 60 km (37 mi) downdip from the deformation front. Farther downdip, there is a transition from fully locked to aseismic sliding . Unlike most subduction zones worldwide, there is no oceanic trench present along the continental margin in Cascadia . [17] Instead, terranes and the accretionary wedge have been uplifted to form a series of coast ranges and exotic mountains. A high rate of sedimentation from the outflow of the three major rivers ( Fraser River , Columbia River , and Klamath River ) which cross the Cascade Range contributes to further obscuring the presence of a trench. However, in common with most other subduction zones, the outer margin is slowly being compressed, similar to a giant spring . When the stored energy is suddenly released by slippage across the fault at irregular intervals, the Cascadia subduction zone can create very large earthquakes such as the M w 8.7–9.2 Cascadia earthquake of 1700 .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cascadia_subduction_zone_USGS.png/220px-Cascadia_subduction_zone_USGS.png",
+                "caption": "Area of the Cascadia subduction zone , including Cascade volcanoes (red triangles)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Cascade_Volcanoes",
+        "title": "Cascade Volcanoes",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "7700 BP (5783 BC) eruption of Mount Mazama",
+        "text": "The 7,700 BP eruption of Mount Mazama was a large catastrophic eruption in the U.S. state of Oregon . It began with a large eruption column with pumice and ash that erupted from a single vent. The eruption was so great that most of Mount Mazama collapsed to form a caldera and subsequent smaller eruptions occurred as water began to fill in the caldera to form Crater Lake . Volcanic ash from the eruption was carried across most of the Pacific Northwest as well as parts of western Canada.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Crater_Lake_2.jpg/280px-Crater_Lake_2.jpg",
+                "caption": "The caldera of Mount Mazama , filled by Crater Lake"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Cascade_Volcanoes",
+        "title": "Cascade Volcanoes",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    },
+    {
+        "section": "Mount Baker",
+        "text": "During the mid-19th century, Mount Baker erupted for the first time in several thousand years. Fumarole activity remains in Sherman Crater , just south of the volcano's summit, became more intense in 1975 and is still energetic. However, an eruption is not expected in the near future. [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mount_Baker_22181.JPG/400px-Mount_Baker_22181.JPG",
+                "caption": "Panorama from the northwest of Mount Baker and the Black Buttes"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Cascade_Volcanoes",
+        "title": "Cascade Volcanoes",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Historical Volcanology"
+    }
+]

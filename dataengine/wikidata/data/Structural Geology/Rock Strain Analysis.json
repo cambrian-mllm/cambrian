@@ -1,0 +1,427 @@
+[
+    {
+        "section": "Procedure of the ADECO-RS",
+        "text": "The procedure of the ADECO-RS consists of two main stages: design stage and construction stage. The design stage includes a survey phase(1), a diagnosis phase(2) and a therapy phase(3). The construction stage consists of an operational phase(4), a monitoring phase and a final design adjustment phase(5). [2] In survey phase(1): to determine the geomechanical knowledge and characteristics of the medium where the tunnel is located in. In diagnosis phase(2): to predict and classify the surrounding rock of tunnel face into A, B, C three forms based on its stability conditions. In therapy phase(3): to the determine methods of stabilizing (preconfinement or simple confinement) and excavating the tunnel on the basis of three behaviour categories, A, B, C. and then, to the theoretical evaluation of the effectiveness. In operational phase(4): to begin with the construction, during which the stabilizing methods (confinement and preconfinement) for controlling the Deformation Response are adopted. In the monitoring phase and a final design adjustment phase(5): the deformation behavior of the tunnel face and advance core are monitored and interpreted. Then to compare the prediction data made in the diagnosis phase and therapy phase with monitored data. After which, to fine tune the design by adjusting the balance of stabilisation techniques between the face and the cavity.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Implication_procedure_of_ADECO-RS.jpg/150px-Implication_procedure_of_ADECO-RS.jpg",
+                "caption": "Implication procedure of ADECO-RS"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Analysis_of_controlled_deformation_in_rocks_and_soils",
+        "title": "Analysis of controlled deformation in rocks and soils",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Principles",
+        "text": "ADECO-RS predicts the stability of the tunnel face by surveying the material of the advanced core and studies the stability of the core-face in terms of extrusion, convergence and pre-convergence. [5] The behavior is then categorized according to its stress-strain behavior including, Category A : stable core-face; Category B : stable core-face in the short term; Category C: unstable core-face. ADECO-RS emphasizes the control of surrounding rock deformation, the advanced support and reinforcement of the surrounding rock in front of the tunnel face. An important philosophy of the ADECO-RS method is the introduction of a new conceptual framework for underground engineering. It regards the advance core medium as a new long-term and short-term stability tool for tunnels. The strength of the advance core medium and its sensitivity to deformation determine the stability and the deformation characteristics of the tunnel. Taking measures to improve the stiffness of the advance core medium can relieve the deformation reaction of the tunnel face and cavity. [6] ADECO-RS are broadly based on the following principles :",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_ADECO-RS_stress-strain_behaviour_categories.png/200px-The_ADECO-RS_stress-strain_behaviour_categories.png",
+                "caption": "The ADECO-RS stress-strain behaviour categories"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Analysis_of_controlled_deformation_in_rocks_and_soils",
+        "title": "Analysis of controlled deformation in rocks and soils",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Comparing with new Austrian tunnelling method (NATM)",
+        "text": "The famous theory of characteristic lines and convergence-confinement method are the two fundamental bases of NATM. Although in the theory of NATM, it acknowledges the positive role of the presence of the advance core to support the stability of cavity, it does not come up with any effective suggestions on how to exploit that effect, nor did it indicates how do deal with an unstable face. Afterwards, by adopting geomechanical classifications, NATM progresses a lot compared to its past on the basis of principal merits as following: [8] However, compared with ADECO-RS, NATM still encounters several limitations for the reason that NATM considers the construction of the tunnels as a two-dimensional problem. The limitations of NATM with respect to ADECO-DS shown as following： [2] The detailed contrast between ADECO-RS with NATM are shown in the following table:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/ADECO-RS_and_NATM_compasion_in_analysis_deformation.jpg/220px-ADECO-RS_and_NATM_compasion_in_analysis_deformation.jpg",
+                "caption": "ADECO-RS and NATM compasion in analysis deformation"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ADECO-RS_and_NATM_compasion_in_control_deformation.jpg/220px-ADECO-RS_and_NATM_compasion_in_control_deformation.jpg",
+                "caption": "ADECO-RS and NATM compasion in control deformation"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Analysis_of_controlled_deformation_in_rocks_and_soils",
+        "title": "Analysis of controlled deformation in rocks and soils",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Geometries",
+        "text": "Primary data sets for structural geology are collected in the field. Structural geologists measure a variety of planar features ( bedding planes , foliation planes , fold axial planes, fault planes , and joints), and linear features (stretching lineations, in which minerals are ductilely extended; fold axes; and intersection lineations, the trace of a planar feature on another planar surface).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/StrikeDipPlungeRake.png/290px-StrikeDipPlungeRake.png",
+                "caption": "Illustration of measurement conventions for planar and linear structures"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Structural_geology",
+        "title": "Structural geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Stereographic projections",
+        "text": "Stereographic projection is a method for analyzing the nature and orientation of deformation stresses, lithological units and penetrative fabrics wherein linear and planar features (structural strike and dip readings, typically taken using a compass clinometer ) passing through an imagined sphere are plotted on a two-dimensional grid projection, facilitating more holistic analysis of a set of measurements. Stereonet [4] developed by Richard W. Allmendinger is widely used in the structural geology community.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Stero_projection_structural_geology.png/350px-Stero_projection_structural_geology.png",
+                "caption": "Diagram showing the use of lower hemisphere stereographic projection in structural geology using an example of a fault plane and a slickenside lineation observed within the fault plane."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Structural_geology",
+        "title": "Structural geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Experimental methods",
+        "text": "Stress analysis can be performed experimentally by applying forces to a test element or structure and then determining the resulting stress using sensors . In this case the process would more properly be known as testing ( destructive or non-destructive ). Experimental methods may be used in cases where mathematical approaches are cumbersome or inaccurate. Special equipment appropriate to the experimental method is used to apply the static or dynamic loading. There are a number of experimental methods which may be used:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Plastic_Protractor_Polarized_05375.jpg/220px-Plastic_Protractor_Polarized_05375.jpg",
+                "caption": "Stress in plastic protractor causes birefringence ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress%E2%80%93strain_analysis",
+        "title": "Stress–strain analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Built-in stress (preloaded)",
+        "text": "A preloaded structure is one that has internal forces, stresses, and strains imposed within it by various means prior to application of externally applied forces. For example, a structure may have cables that are tightened, causing forces to develop in the structure, before any other loads are applied. Tempered glass is a commonly found example of a preloaded structure that has tensile forces and stresses that act on the plane of the glass and in the central plane of glass that causes compression forces to act on the external surfaces of that glass. The mathematical problem represented is typically ill-posed because it has an infinitude of solutions. In fact, in any three-dimensional solid body one may have infinitely many (and infinitely complicated) non-zero stress tensor fields that are in stable equilibrium even in the absence of external forces.  These stress fields are often termed hyperstatic stress fields [5] and they co-exist with the stress fields that balance the external forces.  In linear elasticity, their presence is required to satisfy the strain/displacement compatibility requirements and in limit analysis their presence is required to maximise the load carrying capacity of the structure or component. Such built-in stress may occur due to many physical causes, either during manufacture (in processes like extrusion , casting or cold working ), or after the fact (for example because of uneven heating, or changes in moisture content or chemical composition).  However, if the system can be assumed to behave in a linear fashion with respect to the loading and response of the system, then effect of preload can be accounted for by adding the results of a preloaded structure and the same non-preloaded structure. If linearity cannot be assumed, however, any built-in stress may affect the distribution of internal forces induced by applied loads (for example, by changing the effective stiffness of the material) or even cause an unexpected material failure.  For these reasons, a number of techniques have been developed to avoid or reduce built-in stress, such as annealing of cold-worked glass and metal parts, expansion joints in buildings, and roller joints for bridges.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hyperstatic_Stress_Field.jpg/240px-Hyperstatic_Stress_Field.jpg",
+                "caption": "Example of a Hyperstatic Stress Field."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hyperstatic_Moment_Field.jpg/240px-Hyperstatic_Moment_Field.jpg",
+                "caption": "Example of a Hyperstatic Moment Field."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress%E2%80%93strain_analysis",
+        "title": "Stress–strain analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Simplifications",
+        "text": "Stress analysis is simplified when the physical dimensions and the distribution of loads allow the structure to be treated as one- or two-dimensional. In the analysis of a bridge, its three dimensional structure may be idealized  as a single planar structure, if all forces are acting in the plane of the trusses of the bridge. Further, each member of the truss structure might then be treated a uni-dimensional members with the forces acting along the axis of each member. In which case, the differential equations reduce to a finite set of equations  with finitely many unknowns. If the stress distribution can be assumed to be uniform (or predictable, or unimportant) in one direction, then one may use the assumption of plane stress and plane strain behavior and the equations that describe the stress field are then a function of two coordinates only, instead of three. Even under the assumption of linear elastic behavior of the material, the relation between the stress and strain tensors is generally expressed by a fourth-order stiffness tensor with 21 independent coefficients (a symmetric 6 × 6 stiffness matrix). This complexity may be required for general anisotropic materials, but for many common materials it can be simplified. For orthotropic materials such as wood, whose stiffness is symmetric with respect to each of three orthogonal planes, nine coefficients suffice to express the stress–strain relationship.  For isotropic materials, these coefficients reduce to only two. One may be able to determine a priori that, in some parts of the system, the stress will be of a certain type, such as uniaxial tension or compression , simple shear , isotropic compression or tension, torsion , bending , etc.  In those parts, the stress field may then be represented by fewer than six numbers, and possibly just one.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Loaded_truss.svg/240px-Loaded_truss.svg.png",
+                "caption": "Simplified modeling of a truss by unidimensional elements under uniaxial uniform stress."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress%E2%80%93strain_analysis",
+        "title": "Stress–strain analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Cauchy's stress quadric",
+        "text": "The Cauchy's stress quadric, also called the stress surface , is a surface of the second order that traces the variation of the normal stress vector σ n {\\displaystyle \\sigma _{\\mathrm {n} }} as the orientation of the planes passing through a given point is changed. The complete state of stress in a body at a particular deformed configuration, i.e., at a particular time during the motion of the body, implies knowing the six independent components of the stress tensor ( σ 11 , σ 22 , σ 33 , σ 12 , σ 23 , σ 13 ) {\\displaystyle (\\sigma _{11},\\sigma _{22},\\sigma _{33},\\sigma _{12},\\sigma _{23},\\sigma _{13})\\,\\!} , or the three principal stresses ( σ 1 , σ 2 , σ 3 ) {\\displaystyle (\\sigma _{1},\\sigma _{2},\\sigma _{3})\\,\\!} , at each material point in the body at that time. However, numerical analysis and analytical methods allow only for the calculation of the stress tensor at a certain number of discrete material points. To graphically represent in two dimensions this partial picture of the stress field different sets of contour lines can be used: [6]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Stress_Trajectories_in_a_Plate_Membrane.jpg/220px-Stress_Trajectories_in_a_Plate_Membrane.jpg",
+                "caption": "Stress Trajectories in a Plate Membrane"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress%E2%80%93strain_analysis",
+        "title": "Stress–strain analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Definition",
+        "text": "Stress is defined as the force across a small boundary per unit area of that boundary, for all orientations of the boundary. [7] Derived from a fundamental physical quantity (force) and a purely geometrical quantity (area), stress is also a fundamental quantity, like velocity, torque or energy , that can be quantified and analyzed without explicit consideration of the nature of the material or of its physical causes. Following the basic premises of continuum mechanics, stress is a macroscopic concept.  Namely, the particles considered in its definition and analysis should be just small enough to be treated as homogeneous in composition and state, but still large enough to ignore quantum effects and the detailed motions of molecules.  Thus, the force between two particles is actually the average of a very large number of atomic forces between their molecules; and physical quantities like mass, velocity, and forces that act through the bulk of three-dimensional bodies, like gravity, are assumed to be smoothly distributed over them. [8] : 90–106 Depending on the context, one may also assume that the particles are large enough to allow the averaging out of other microscopic features, like the grains of a metal rod or the fibers of a piece of wood . Quantitatively, the stress is expressed by the Cauchy traction vector T defined as the traction force F between adjacent parts of the material across an imaginary separating surface S , divided by the area of S . [9] : 41–50 In a fluid at rest the force is perpendicular to the surface, and is the familiar pressure .  In a solid , or in a flow of viscous liquid , the force F may not be perpendicular to S ; hence the stress across a surface must be regarded a vector quantity, not a scalar. Moreover, the direction and magnitude generally depend on the orientation of S .  Thus the stress state of the material must be described by a tensor , called the (Cauchy) stress tensor ; which is a linear function that relates the normal vector n of a surface S to the traction vector T across S .  With respect to any chosen coordinate system , the Cauchy stress tensor can be represented as a symmetric matrix of 3×3 real numbers. Even within a homogeneous body, the stress tensor may vary from place to place, and may change over time; therefore, the stress within a material is, in general, a time-varying tensor field .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cmec_stress_defn_f02_t6.png/220px-Cmec_stress_defn_f02_t6.png",
+                "caption": "The stress across a surface element (yellow disk) is the force that the material on one side (top ball) exerts on the material on the other side (bottom ball), divided by the area of the surface."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Causes and effects",
+        "text": "Stress in a material body may be due to multiple physical causes, including external influences and internal physical processes. Some of these agents (like gravity, changes in temperature and phase , and electromagnetic fields) act on the bulk of the material, varying continuously with position and time. Other agents (like external loads and friction, ambient pressure, and contact forces) may create stresses and forces that are concentrated on certain surfaces, lines or points; and possibly also on very short time intervals (as in the impulses due to collisions). In active matter , self-propulsion of microscopic particles generates macroscopic stress profiles. [11] In general, the stress distribution in a body is expressed as a piecewise continuous function of space and time. Conversely, stress is usually correlated with various effects on the material, possibly including changes in physical properties like birefringence , polarization , and permeability . The imposition of stress by an external agent usually creates some strain (deformation) in the material, even if it is too small to be detected. In a solid material, such strain will in turn generate an internal elastic stress, analogous to the reaction force of a stretched spring , tending to restore the material to its original undeformed state. Fluid materials (liquids, gases and plasmas ) by definition can only oppose deformations that would change their volume. If the deformation changes with time, even in fluids there will usually be some viscous stress, opposing that change. Such stresses can be either shear or normal in nature. Molecular origin of shear stresses in fluids is given in the article on viscosity . The same for normal viscous stresses can be found in Sharma (2019). [12] The relation between stress and its effects and causes, including deformation and rate of change of deformation, can be quite complicated (although a linear approximation may be adequate in practice if the quantities are small enough). Stress that exceeds certain strength limits of the material will result in permanent deformation (such as plastic flow , fracture , cavitation ) or even change its crystal structure and chemical composition .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vase-craquele-Emile-Galle-vers-1880-decor-mante-religieuse-cigale-1301.jpg/170px-Vase-craquele-Emile-Galle-vers-1880-decor-mante-religieuse-cigale-1301.jpg",
+                "caption": "Glass vase with the craquelé effect. The cracks are the result of brief but intense stress created when the semi-molten piece is briefly dipped in water. [10]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Uniaxial normal",
+        "text": "A common situation with a simple stress pattern is when a straight rod, with uniform material and cross section, is subjected to tension by opposite forces of magnitude F {\\displaystyle F} along its axis. If the system is in equilibrium and not changing with time, and the weight of the bar can be neglected, then through each transversal section of the bar the top part must pull on the bottom part with the same force, F with continuity through the full cross-sectional area , A . Therefore, the stress σ throughout the bar, across any horizontal surface, can be expressed simply by the single number σ, calculated simply with the magnitude of those forces, F , and cross sectional area, A . σ = F A {\\displaystyle \\sigma ={\\frac {F}{A}}} On the other hand, if one imagines the bar being cut along its length, parallel to the axis, there will be no force (hence no stress) between the two halves across the cut.\nThis type of stress may be called (simple) normal stress or uniaxial stress; specifically, (uniaxial, simple, etc.) tensile stress. [13] If the load is compression on the bar, rather than stretching it, the analysis is the same except that the force F and the stress σ {\\displaystyle \\sigma } change sign, and the stress is called compressive stress. This analysis assumes the stress is evenly distributed over the entire cross-section. In practice, depending on how the bar is attached at the ends and how it was manufactured, this assumption may not be valid. In that case, the value σ {\\displaystyle \\sigma } = F / A will be only the average stress, called engineering stress or nominal stress . If the bar's length L is many times its diameter D , and it has no gross defects or built-in stress , then the stress can be assumed to be uniformly distributed over any cross-section that is more than a few times D from both ends. (This observation is known as the Saint-Venant's principle ). Normal stress occurs in many other situations besides axial tension and compression. If an elastic bar with uniform and symmetric cross-section is bent in one of its planes of symmetry, the resulting bending stress will still be normal (perpendicular to the cross-section), but will vary over the cross section: the outer part will be under tensile stress, while the inner part will be compressed. Another variant of normal stress is the hoop stress that occurs on the walls of a cylindrical pipe or vessel filled with pressurized fluid.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Axial_stress_noavg.svg/240px-Axial_stress_noavg.svg.png",
+                "caption": "Idealized stress in a straight bar with uniform cross-section."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Normal_stress.svg/240px-Normal_stress.svg.png",
+                "caption": "The ratio σ = F / A {\\displaystyle \\sigma =F/A} may be only an average stress. The stress may be unevenly distributed over the cross section ( m – m ), especially near the attachment points ( n – n )."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Shear",
+        "text": "Another simple type of stress occurs when a uniformly thick layer of elastic material like glue or rubber is firmly attached to two stiff bodies that are pulled in opposite directions by forces parallel to the layer; or a section of a soft metal bar that is being cut by the jaws of a scissors-like tool . Let F be the magnitude of those forces, and M be the midplane of that layer. Just as in the normal stress case, the part of the layer on one side of M must pull the other part with the same force F . Assuming that the direction of the forces is known, the stress across M can be expressed simply by the single number τ {\\displaystyle \\tau } , calculated simply with the magnitude of those forces, F and the cross sectional area, A . τ = F A {\\displaystyle \\tau ={\\frac {F}{A}}} Unlike normal stress, this simple shear stress is directed parallel to the cross-section considered, rather than perpendicular to it. [13] For any plane S that is perpendicular to the layer, the net internal force across S , and hence the stress, will be zero. As in the case of an axially loaded bar, in practice the shear stress may not be uniformly distributed over the layer; so, as before, the ratio F / A will only be an average (\"nominal\", \"engineering\") stress. That average is often sufficient for practical purposes. [14] : 292 Shear stress is observed also when a cylindrical bar such as a shaft is subjected to opposite torques at its ends. In that case, the shear stress on each cross-section is parallel to the cross-section, but oriented tangentially relative to the axis, and increases with distance from the axis. Significant shear stress occurs in the middle plate (the \"web\") of I-beams under bending loads, due to the web constraining the end plates (\"flanges\").",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Shear_stress.svg/240px-Shear_stress.svg.png",
+                "caption": "Shear stress in a horizontal bar loaded by two offset blocks."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Isotropic",
+        "text": "Another simple type of stress occurs when the material body is under equal compression or tension in all directions.  This is the case, for example, in a portion of liquid or gas at rest, whether enclosed in some container or as part of a larger mass of fluid; or inside a cube of elastic material that is being pressed or pulled on all six faces by equal perpendicular forces — provided, in both cases, that the material is homogeneous, without built-in stress, and that the effect of gravity and other external forces can be neglected. In these situations, the stress across any imaginary internal surface turns out to be equal in magnitude and always directed perpendicularly to the surface independently of the surface's orientation. This type of stress may be called isotropic normal or just isotropic ; if it is compressive, it is called hydrostatic pressure or just pressure . Gases by definition cannot withstand tensile stresses, but some liquids may withstand very large amounts of isotropic tensile stress under some circumstances. see Z-tube .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Isotropic_stress_noavg.svg/240px-Isotropic_stress_noavg.svg.png",
+                "caption": "Isotropic tensile stress. Top left: Each face of a cube of homogeneous material is pulled by a force with magnitude F , applied evenly over the entire face whose area is A .  The force across any section S of the cube must balance the forces applied below the section. In the three sections shown, the forces are F (top right), F 2 {\\displaystyle {\\sqrt {2}}} (bottom left), and F 3 / 2 {\\displaystyle {\\sqrt {3}}/2} (bottom right); and the area of S is A , A 2 {\\displaystyle {\\sqrt {2}}} and A 3 / 2 {\\displaystyle {\\sqrt {3}}/2} , respectively. So the stress across S is F / A in all three cases."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Cauchy tensor",
+        "text": "Combined stresses cannot be described by a single vector. Even if the material is stressed in the same way throughout the volume of the body, the stress across any imaginary surface will depend on the orientation of that surface, in a non-trivial way. Cauchy observed that the stress vector T {\\displaystyle T} across a surface will always be a linear function of the surface's normal vector n {\\displaystyle n} , the unit-length vector that is perpendicular to it.  That is, T = σ ( n ) {\\displaystyle T={\\boldsymbol {\\sigma }}(n)} , where the function σ {\\displaystyle {\\boldsymbol {\\sigma }}} satisfies σ ( α u + β v ) = α σ ( u ) + β σ ( v ) {\\displaystyle {\\boldsymbol {\\sigma }}(\\alpha u+\\beta v)=\\alpha {\\boldsymbol {\\sigma }}(u)+\\beta {\\boldsymbol {\\sigma }}(v)} for any vectors u , v {\\displaystyle u,v} and any real numbers α , β {\\displaystyle \\alpha ,\\beta } .\nThe function σ {\\displaystyle {\\boldsymbol {\\sigma }}} , now called the (Cauchy) stress tensor , completely describes the stress state of a uniformly stressed body. (Today, any linear connection between two physical vector quantities is called a tensor , reflecting Cauchy's original use to describe the \"tensions\" (stresses) in a material.) In tensor calculus , σ {\\displaystyle {\\boldsymbol {\\sigma }}} is classified as a second-order tensor of type (0,2) or (1,1) depending on convention. Like any linear map between vectors, the stress tensor can be represented in any chosen Cartesian coordinate system by a 3×3 matrix of real numbers. Depending on whether the coordinates are numbered x 1 , x 2 , x 3 {\\displaystyle x_{1},x_{2},x_{3}} or named x , y , z {\\displaystyle x,y,z} , the matrix may be written as [ σ 11 σ 12 σ 13 σ 21 σ 22 σ 23 σ 31 σ 32 σ 33 ] {\\displaystyle {\\begin{bmatrix}\\sigma _{11}&\\sigma _{12}&\\sigma _{13}\\\\\\sigma _{21}&\\sigma _{22}&\\sigma _{23}\\\\\\sigma _{31}&\\sigma _{32}&\\sigma _{33}\\end{bmatrix}}} or [ σ x x σ x y σ x z σ y x σ y y σ y z σ z x σ z y σ z z ] {\\displaystyle {\\begin{bmatrix}\\sigma _{xx}&\\sigma _{xy}&\\sigma _{xz}\\\\\\sigma _{yx}&\\sigma _{yy}&\\sigma _{yz}\\\\\\sigma _{zx}&\\sigma _{zy}&\\sigma _{zz}\\\\\\end{bmatrix}}} The stress vector T = σ ( n ) {\\displaystyle T={\\boldsymbol {\\sigma }}(n)} across a surface with normal vector n {\\displaystyle n} (which is covariant - \"row; horizontal\" - vector) with coordinates n 1 , n 2 , n 3 {\\displaystyle n_{1},n_{2},n_{3}} is then a matrix product T = n ⋅ σ {\\displaystyle T=n\\cdot {\\boldsymbol {\\sigma }}} (where T in upper index is transposition , and as a result we get covariant (row) vector) (look on Cauchy stress tensor ), that is [ T 1 T 2 T 3 ] = [ n 1 n 2 n 3 ] ⋅ [ σ 11 σ 21 σ 31 σ 12 σ 22 σ 32 σ 13 σ 23 σ 33 ] {\\displaystyle {\\begin{bmatrix}T_{1}&T_{2}&T_{3}\\end{bmatrix}}={\\begin{bmatrix}n_{1}&n_{2}&n_{3}\\end{bmatrix}}\\cdot {\\begin{bmatrix}\\sigma _{11}&\\sigma _{21}&\\sigma _{31}\\\\\\sigma _{12}&\\sigma _{22}&\\sigma _{32}\\\\\\sigma _{13}&\\sigma _{23}&\\sigma _{33}\\end{bmatrix}}} The linear relation between T {\\displaystyle T} and n {\\displaystyle n} follows from the fundamental laws of conservation of linear momentum and static equilibrium of forces, and is therefore mathematically exact, for any material and any stress situation. The components of the Cauchy stress tensor at every point in a material satisfy the equilibrium equations ( Cauchy's equations of motion for zero acceleration). Moreover, the principle of conservation of angular momentum implies that the stress tensor is symmetric , that is σ 12 = σ 21 {\\displaystyle \\sigma _{12}=\\sigma _{21}} , σ 13 = σ 31 {\\displaystyle \\sigma _{13}=\\sigma _{31}} , and σ 23 = σ 32 {\\displaystyle \\sigma _{23}=\\sigma _{32}} . Therefore, the stress state of the medium at any point and instant can be specified by only six independent parameters, rather than nine.  These may be written [ σ x τ x y τ x z τ x y σ y τ y z τ x z τ y z σ z ] {\\displaystyle {\\begin{bmatrix}\\sigma _{x}&\\tau _{xy}&\\tau _{xz}\\\\\\tau _{xy}&\\sigma _{y}&\\tau _{yz}\\\\\\tau _{xz}&\\tau _{yz}&\\sigma _{z}\\end{bmatrix}}} where the elements σ x , σ y , σ z {\\displaystyle \\sigma _{x},\\sigma _{y},\\sigma _{z}} are called the orthogonal normal stresses (relative to the chosen coordinate system), and τ x y , τ x z , τ y z {\\displaystyle \\tau _{xy},\\tau _{xz},\\tau _{yz}} the orthogonal shear stresses . [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Components_stress_tensor_cartesian.svg/220px-Components_stress_tensor_cartesian.svg.png",
+                "caption": "Components of stress in three dimensions"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Cmec_stress_ball_f02_t6.png/220px-Cmec_stress_ball_f02_t6.png",
+                "caption": "Illustration of typical stresses (arrows) across various surface elements on the boundary of a particle (sphere), in a homogeneous material under uniform (but not isotropic) triaxial stress. The normal stresses on the principal axes are +5, +2, and −3 units."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Thin plates",
+        "text": "Human-made objects are often made from stock plates of various materials by operations that do not change their essentially two-dimensional character, like cutting, drilling, gentle bending and welding along the edges. The description of stress in such bodies can be simplified by modeling those parts as two-dimensional surfaces rather than three-dimensional bodies. In that view, one redefines a \"particle\" as being an infinitesimal patch of the plate's surface, so that the boundary between adjacent particles becomes an infinitesimal line element; both are implicitly extended in the third dimension, normal to (straight through) the plate. \"Stress\" is then redefined as being a measure of the internal forces between two adjacent \"particles\" across their common line element, divided by the length of that line. Some components of the stress tensor can be ignored, but since particles are not infinitesimal in the third dimension one can no longer ignore the torque that a particle applies on its neighbors. That torque is modeled as a bending stress that tends to change the curvature of the plate. These simplifications may not hold at welds, at sharp bends and creases (where the radius of curvature is comparable to the thickness of the plate).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/W39504_stat_Nbk2007.jpg/220px-W39504_stat_Nbk2007.jpg",
+                "caption": "A tank car made from bent and welded steel plates."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Thin beams",
+        "text": "The analysis of stress can be considerably simplified also for thin bars, beams or wires of uniform (or smoothly varying) composition and cross-section that are subjected to moderate bending and twisting. For those bodies, one may consider only cross-sections that are perpendicular to the bar's axis, and redefine a \"particle\" as being a piece of wire with infinitesimal length between two such cross sections. The ordinary stress is then reduced to a scalar (tension or compression of the bar), but one must take into account also a bending stress (that tries to change the bar's curvature, in some direction perpendicular to the axis) and a torsional stress (that tries to twist or un-twist it about its axis).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sandy_Hook_NJ_beach_fisherman%27s_pole.jpg/140px-Sandy_Hook_NJ_beach_fisherman%27s_pole.jpg",
+                "caption": "For stress modeling, a fishing pole may be considered one-dimensional."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Methods",
+        "text": "Stress analysis may be carried out experimentally, by applying loads to the actual artifact or to scale model, and measuring the resulting stresses, by any of several available methods. This approach is often used for safety certification and monitoring. Most stress is analysed by mathematical methods, especially during design.\nThe basic stress analysis problem can be formulated by Euler's equations of motion for continuous bodies (which are consequences of Newton's laws for conservation of linear momentum and angular momentum ) and the Euler-Cauchy stress principle , together with the appropriate constitutive equations. Thus one obtains a system of partial differential equations involving the stress tensor field and the strain tensor field, as unknown functions to be determined. The external body forces appear as the independent (\"right-hand side\") term in the differential equations, while the concentrated forces appear as boundary conditions. The basic stress analysis problem is therefore a boundary-value problem . Stress analysis for elastic structures is based on the theory of elasticity and infinitesimal strain theory . When the applied loads cause permanent deformation, one must use more complicated constitutive equations, that can account for the physical processes involved ( plastic flow , fracture , phase change , etc.). Engineered structures are usually designed so the maximum expected stresses are well within the range of linear elasticity (the generalization of Hooke's law for continuous media); that is, the deformations caused by internal stresses are linearly related to them. In this case the differential equations that define the stress tensor are linear, and the problem becomes much easier. For one thing, the stress at any point will be a linear function of the loads, too. For small enough stresses, even non-linear systems can usually be assumed to be linear. Stress analysis is simplified when the physical dimensions and the distribution of loads allow the structure to be treated as one- or two-dimensional. In the analysis of trusses, for example, the stress field may be assumed to be uniform and uniaxial over each member. Then the differential equations reduce to a finite set of equations (usually linear) with finitely many unknowns. In other contexts one may be able to reduce the three-dimensional problem to a two-dimensional one, and/or replace the general stress and strain tensors by simpler models like uniaxial tension/compression, simple shear, etc. Still, for two- or three-dimensional cases one must solve a partial differential equation problem.\nAnalytical or closed-form solutions to the differential equations can be obtained when the geometry,  constitutive relations, and boundary conditions are simple enough. Otherwise one must generally resort to numerical approximations such as the finite element method , the finite difference method , and the boundary element method .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Loaded_truss.svg/240px-Loaded_truss.svg.png",
+                "caption": "Simplified model of a truss for stress analysis, assuming unidimensional elements under uniform axial tension or compression."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_(mechanics)",
+        "title": "Stress (mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Brittle–Ductile Transition Zone",
+        "text": "The brittle–ductile transition zone is characterized by a change in rock failure mode, at an approximate average depth of 10–15 km (~ 6.2–9.3 miles) in continental crust , below which rock becomes less likely to fracture and more likely to deform ductilely. The zone exists because as depth increases confining pressure increases, and brittle strength increases with confining pressure whilst ductile strength decreases with increasing temperature. The transition zone occurs at the point where brittle strength equals ductile strength. [1] In glacial ice this zone is at approximately 30 m (100 ft) depth. Not all materials, however, abide by this transition. It is possible and not rare for material above the transition zone to deform ductilely, and for material below to deform in a brittle manner. The depth of the material does exert an influence on the mode of deformation, but other substances, such as loose soils in the upper crust, malleable rocks, biological debris, and more are just a few examples of that which does not deform in accordance to the transition zone. [1] [2] The type of dominating deformation process also has a great impact on the types of rocks and structures found at certain depths within the Earth's crust. As evident from Fig. 1.1, different geological formations and rocks are found in accordance to the dominant deformation process. Gouge and Breccia form in the uppermost, brittle regime while Cataclasite and Pseudotachylite form in the lower parts of the brittle regime, edging upon the transition zone. Mylonite forms in the more ductile regime at greater depths while Blastomylonite forms well past the transition zone and well into the ductile regime, even deeper into the crust.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Brittle_Ductile.png/350px-Brittle_Ductile.png",
+                "caption": "Fig. 1.1 – A generalized diagram of the deformation mechanisms and structural formations that dominate at certain depths within the Earth's crust."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ductility_(Earth_science)",
+        "title": "Ductility (Earth science)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Quantification",
+        "text": "Ductility is a material property that can be expressed in a variety of ways. Mathematically, it is commonly expressed as a total quantity of elongation or a total quantity of the change in cross sectional area of a specific rock until macroscopic brittle behavior, such as fracturing, is observed. For accurate measurement, this must be done under several controlled conditions, including but not limited to Pressure , Temperature , Moisture Content , Sample Size, etc., for all can impact the measured ductility. It is important to understand that even the same type of rock or mineral may exhibit different behavior and degrees of ductility due to internal heterogeneities small scale differences between each individual sample. The two quantities are expressed in the form of a ratio or a percent. [3] % Elongation of a Rock = % Δ l = l f − l i l i × 100 {\\displaystyle \\%\\Delta l={\\frac {l_{f}-l_{i}}{l_{i}}}\\times 100} [3] Where: l i {\\displaystyle l_{i}} = Initial Length of Rock l f {\\displaystyle l_{f}} = Final Length of Rock % Change in Area of a Rock = % Δ A = A f − A i A i × 100 {\\displaystyle \\%\\Delta A={\\frac {A_{f}-A_{i}}{A_{i}}}\\times 100} [3] Where: A i {\\displaystyle A_{i}} = Initial Area A f {\\displaystyle A_{f}} = Final Area For each of these methods of quantifying, one must take measurements of both the initial and final dimensions of the rock sample. For Elongation, the measurement is a uni-dimensional initial and final length, the former measured before any Stress is applied and the latter measuring the length of the sample after fracture occurs. For Area, it is strongly preferable to use a rock that has been cut into a cylindrical shape before stress application so that the cross-sectional area of the sample can be taken. Cross-Sectional Area of a Cylinder = Area of a Circle = A = π r 2 {\\displaystyle A=\\pi r^{2}} Using this, the initial and final areas of the sample can be used to quantify the % change in the area of the rock.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Stress_Strain_Ductile_Material.pdf/page1-220px-Stress_Strain_Ductile_Material.pdf.jpg",
+                "caption": "Fig. 1.2 – Stress vs Strain Curve displaying both ductile and brittle deformation behavior."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ductility_(Earth_science)",
+        "title": "Ductility (Earth science)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Limit equilibrium analysis",
+        "text": "Conventional methods of slope stability analysis can be divided into three groups: kinematic analysis, limit equilibrium analysis, and rock fall simulators. [10] Most slope stability analysis computer programs are based on the limit equilibrium concept for a two- or three-dimensional model. [11] [12] Two-dimensional sections are analyzed assuming plane strain conditions. Stability analyses of two-dimensional slope geometries using simple analytical approaches can provide important insights into the initial design and risk assessment of slopes. Limit equilibrium methods investigate the equilibrium of a soil mass tending to slide down under the influence of gravity . Translational or rotational movement is considered on an assumed or known potential slip surface below the soil or rock mass. [13] In rock slope engineering, methods may be highly significant to simple block failure along distinct discontinuities. [10] All these methods are based on the comparison of forces , moments , or stresses resisting movement of the mass with those that can cause unstable motion (disturbing forces). The output of the analysis is a factor of safety , defined as the ratio of the shear strength (or, alternatively, an equivalent measure of shear resistance or capacity) to the shear stress (or other equivalent measure) required for equilibrium. If the value of factor of safety is less than 1.0, the slope is unstable. All limit equilibrium methods assume that the shear strengths of the materials along the potential failure surface are governed by linear ( Mohr-Coulomb ) or non-linear relationships between shear strength and the normal stress on the failure surface. [13] The most commonly used variation is Terzaghi's theory of shear strength which states that where τ {\\displaystyle \\tau } is the shear strength of the interface, σ ′ = σ − u {\\displaystyle \\sigma '=\\sigma -u} is the effective stress ( σ {\\displaystyle \\sigma } is the total stress normal to the interface and u {\\displaystyle u} is the pore water pressure on the interface), ϕ ′ {\\displaystyle \\phi '} is the effective friction angle, and c ′ {\\displaystyle c'} is the effective cohesion. The methods of slices is the most popular limit equilibrium technique.  In this approach, the soil mass is discretized into vertical slices. [12] [14] Several versions of the method are in use.  These variations can produce different results (factor of safety) because of different assumptions and inter-slice boundary conditions. [13] [15] The location of the interface is typically unknown but can be found using numerical optimization methods. [16] For example, functional slope design considers the critical slip surface to be the location where that has the lowest value of factor of safety from a range of possible surfaces. A wide variety of slope stability software use the limit equilibrium concept with automatic critical slip surface determination. Typical slope stability software can analyze the stability of generally layered soil slopes, embankments, earth cuts, and anchored sheeting structures . Earthquake effects, external loading , groundwater conditions, stabilization forces (i.e., anchors, geo-reinforcements etc.) can  also be included.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Slope_2d_plain.svg/250px-Slope_2d_plain.svg.png",
+                "caption": "A typical cross-section of a slope used in two-dimensional analyses."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Slope_stability_analysis",
+        "title": "Slope stability analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Analytical techniques: Method of slices",
+        "text": "Many slope stability analysis tools use various versions of the methods of slices such as Bishop simplified , Ordinary method of slices ( Swedish circle method/Petterson/Fellenius ), Spencer , Sarma etc. Sarma and Spencer are called rigorous methods because they satisfy all three conditions of equilibrium: force equilibrium in horizontal and vertical direction and moment equilibrium condition. Rigorous methods can provide more accurate results than non-rigorous methods. Bishop simplified or Fellenius are non-rigorous methods satisfying only some of the equilibrium conditions and making some simplifying assumptions. [14] [15] Some of these approaches are discussed below.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pett_bish.gif/250px-Pett_bish.gif",
+                "caption": "Schematic of the method of slices showing rotation center."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Slope_stability_analysis",
+        "title": "Slope stability analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Ordinary Method of Slices",
+        "text": "In the method of slices, also called OMS or the Fellenius method, the sliding mass above the failure surface is divided into a number of slices. The forces acting on each slice are obtained by considering the mechanical (force and moment) equilibrium for the slices. Each slice is considered on its own and interactions between slices are neglected because the resultant forces are parallel to the base of each slice.  However, Newton's third law is not satisfied by this method because, in general, the resultants on the left and right of a slice do not have the same magnitude and are not collinear. [17] This allows for a simple static equilibrium calculation, considering only soil weight, along with shear and normal stresses along the failure plane.  Both the friction angle and cohesion can be considered for each slice.  In the general case of the method of slices, the forces acting on a slice are shown in the figure below.  The normal ( E r , E l {\\displaystyle E_{r},E_{l}} ) and shear ( S r , S l {\\displaystyle S_{r},S_{l}} ) forces between adjacent slices constrain each slice and make the problem statically indeterminate when they are included in the computation. For the ordinary method of slices, the resultant vertical and horizontal forces are where k {\\displaystyle k} represents a linear factor that determines the increase in horizontal force with the depth of the slice. Solving for N {\\displaystyle N} gives Next, the method assumes that each slice can rotate about a center of rotation and that moment balance about this point is also needed for equilibrium.  A balance of moments for all the slices taken together gives where j {\\displaystyle j} is the slice index, x j , R j , f j , e j {\\displaystyle x_{j},R_{j},f_{j},e_{j}} are the moment arms, and loads on the surface have been ignored.  The moment equation can be used to solve for the shear forces at the interface after substituting the expression for the normal force: Using Terzaghi's strength theory and converting the stresses into moments, we have where u j {\\displaystyle u_{j}} is the pore pressure.\nThe factor of safety is the ratio of the maximum moment from Terzaghi's theory to the estimated moment,",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Slope_2d_mos_plain.svg/250px-Slope_2d_mos_plain.svg.png",
+                "caption": "Division of the slope mass in the method of slices."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Slope_2d_equil_mos_plain.svg/250px-Slope_2d_equil_mos_plain.svg.png",
+                "caption": "Force equilibrium for a slice in the method of slices.  The block is assumed to have thickness b {\\displaystyle b} .  The slices on the left and right exert normal forces E l , E r {\\displaystyle E_{l},E_{r}} and shear forces S l , s r {\\displaystyle S_{l},s_{r}} , the weight of the slice causes the force W {\\displaystyle W} .  These forces are balanced by the pore pressure and reactions of the base N , T {\\displaystyle N,T} ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Slope_stability_analysis",
+        "title": "Slope stability analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Continuum modelling",
+        "text": "Modelling of the continuum is suitable for the analysis of soil slopes, massive intact rock or heavily jointed rock masses. This approach includes the finite-difference and finite element methods that discretize the whole mass to finite number of elements with the help of generated mesh (Fig. 3). In finite-difference method (FDM) differential equilibrium equations (i.e. strain-displacement and stress-strain relations ) are solved. finite element method (FEM) uses the approximations to the connectivity of elements, continuity of displacements and stresses between elements. [40] Most of numerical codes allows modelling of discrete fractures , e.g. bedding planes , faults . Several constitutive models are usually available, e.g. elasticity , elasto-plasticity, strain-softening, elasto-viscoplasticity etc. [39]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mesh_fem.jpg/250px-Mesh_fem.jpg",
+                "caption": "Figure 3: Finite element mesh"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Slope_stability_analysis",
+        "title": "Slope stability analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "True stress and strain",
+        "text": "In the above definitions of engineering stress and strain, two behaviors of materials in tensile tests are ignored: True stress and true strain are defined differently than engineering stress and strain to account for these behaviors. They are given as Here the dimensions are instantaneous values. Assuming volume of the sample conserves and deformation happens uniformly, The true stress and strain can be expressed by engineering stress and strain. For true stress, For the strain, Integrate both sides and apply the boundary condition, So in a tension test , true stress is larger than engineering stress and true strain is less than engineering strain. Thus, a point defining true stress–strain curve is displaced upwards and to the left to define the equivalent engineering stress–strain curve. The difference between the true and engineering stresses and strains will increase with plastic deformation. At low strains (such as elastic deformation), the differences between the two is negligible. As for the tensile strength point, it is the maximal point in engineering stress–strain curve but is not a special point in true stress–strain curve. Because engineering stress is proportional to the force applied along the sample, the criterion for necking formation can be set as δ F = 0. {\\displaystyle \\delta F=0.} This analysis suggests nature of the ultimate tensile strength (UTS) point. The work strengthening effect is exactly balanced by the shrinking of section area at UTS point. After the formation of necking, the sample undergoes heterogeneous deformation, so equations above are not valid. The stress and strain at the necking can be expressed as: An empirical equation is commonly used to describe the relationship between true stress and true strain. Here, n is the strain-hardening exponent and K is the strength coefficient. n is a measure of a material's work hardening behavior. Materials with a higher n have a greater resistance to necking. Typically, metals at room temperature have n ranging from 0.02 to 0.5. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Stress_strain_comparison.svg/328px-Stress_strain_comparison.svg.png",
+                "caption": "The difference between true stress–strain curve and engineering stress–strain curve"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress%E2%80%93strain_curve",
+        "title": "Stress–strain curve",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Classification",
+        "text": "It is possible to distinguish some common characteristics among the stress–strain curves of various groups of materials and, on this basis, to divide materials into two broad categories; namely, the ductile materials and the brittle materials. [2] : 51",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stress_strain_comparison_brittle_ductile.svg/340px-Stress_strain_comparison_brittle_ductile.svg.png",
+                "caption": "Stress–strain curve for brittle materials compared to ductile materials"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress%E2%80%93strain_curve",
+        "title": "Stress–strain curve",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    },
+    {
+        "section": "Toughness",
+        "text": "Materials that are both strong and ductile are classified as tough . Toughness is a material property defined as the area under the stress-strain curve. Toughness can be determined by integrating the stress-strain curve. [4] It is the energy of mechanical deformation per unit volume prior to fracture. The explicit mathematical description is: [5] energy volume = ∫ 0 ε f σ d ε {\\displaystyle {\\tfrac {\\mbox{energy}}{\\mbox{volume}}}=\\int _{0}^{\\varepsilon _{f}}\\sigma \\,d\\varepsilon } where",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Toughness_area_under_curve.svg/220px-Toughness_area_under_curve.svg.png",
+                "caption": "Toughness as defined by the area under the stress–strain curve"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress%E2%80%93strain_curve",
+        "title": "Stress–strain curve",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Rock Strain Analysis"
+    }
+]

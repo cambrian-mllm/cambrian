@@ -1,0 +1,475 @@
+[
+    {
+        "section": "Forces",
+        "text": "The main motive force behind stress in the Earth is provided by thermal energy from radioisotope decay, friction, and residual heat. [8] [9] Cooling at the surface and heat production within the Earth create a metastable thermal gradient from the hot core to the relatively cool lithosphere. [10] This thermal energy is converted into mechanical energy by thermal expansion. Deeper and hotter rocks often have higher thermal expansion and lower density relative to overlying rocks. Conversely, rock that is cooled at the surface can become less buoyant than the rock below it. Eventually this can lead to a Rayleigh-Taylor instability (Figure 2), or interpenetration of rock on different sides of the buoyancy contrast. [2] [11] Negative thermal buoyancy of the oceanic plates is the primary cause of subduction and plate tectonics, [12] while positive thermal buoyancy may lead to mantle plumes, which could explain intraplate volcanism. [13] The relative importance of heat production vs. heat loss for buoyant convection throughout the whole Earth remains uncertain and understanding the details of buoyant convection is a key focus of geodynamics. [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Model_of_the_initiation_of_termination_of_a_Rayleigh-Taylor_instability_in_2D.gif/220px-Model_of_the_initiation_of_termination_of_a_Rayleigh-Taylor_instability_in_2D.gif",
+                "caption": "Figure 2 shows a Rayleigh-Taylor instability in 2D using the Shan-Chen model . The red fluid is initially located in a layer on top of the blue fluid, and is less buoyant than the blue fluid. After some time, a Rayleigh-Taylor instability occurs, and the red fluid penetrates the blue one."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geodynamics",
+        "title": "Geodynamics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Dynamic similarity",
+        "text": "When the models and the natural world are geometrically and kinematically similar, dynamic similarity additionally requires that the various forces acting on a point in the model are proportional to those at a corresponding point in nature. [15] When the forces ( F n {\\displaystyle F_{n}} ) acting on the system are F g {\\displaystyle F_{g}} ( gravity ), F v {\\displaystyle F_{v}} ( viscous force ), and F f {\\displaystyle F_{f}} ( friction ): [15] F g m F g p = F v m F v p = F f m F f p = F n m F n p {\\displaystyle {\\frac {F_{g}^{m}}{F_{g}^{p}}}={\\frac {F_{v}^{m}}{F_{v}^{p}}}={\\frac {F_{f}^{m}}{F_{f}^{p}}}={\\frac {F_{n}^{m}}{F_{n}^{p}}}} However, since the forces acting in the nature are unmeasurable, it is impossible to scale the forces and stresses directly. Scientists have been using different formulas to convert forces into the parameters that can be measured. Cauchy momentum equation is usually used for showing the relationship between forces and densities ( ρ {\\displaystyle \\rho } is density): [1] F m F p = ρ m ( l m ) 3 ρ p ( l p ) 3 {\\displaystyle {\\frac {F^{m}}{F^{p}}}={\\frac {\\rho ^{m}(l^{m})^{3}}{\\rho ^{p}(l^{p})^{3}}}} (Generating from Cauchy momentum equation [16] ) Stokes' law is usually used for showing the relationship between forces and density contrasts ( Δ ρ {\\displaystyle \\Delta \\rho } is density constant): [1] F m F p = Δ ρ m ( l m ) 3 Δ ρ p ( l p ) 3 {\\displaystyle {\\frac {F^{m}}{F^{p}}}={\\frac {\\Delta \\rho ^{m}(l^{m})^{3}}{\\Delta \\rho ^{p}(l^{p})^{3}}}} (Generating from Stokes' law [17] ) (While the gravitational acceleration g m = g p {\\displaystyle g^{m}=g^{p}} ) Since the densities and density contrasts are proportional to forces and stresses, it is easy to scale densities or density contrasts instead of scaling forces and stresses. [1] However, these two equations can lead to different topography scales. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Analogue_modelling_of_fold-thrust_belt_system.gif/559px-Analogue_modelling_of_fold-thrust_belt_system.gif",
+                "caption": "The simple analogue modelling of the fold-thrust belt system taken in the Nanjing University physical laboratory. The white and blue materials are quartz sands."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Analogue_modelling_(geology)",
+        "title": "Analogue modelling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Gravity field",
+        "text": "Because the major research object of analogue modelling is Earth, the gravity field that most experiments utilize is ordinarily the Earth's field of gravity. However, many models are carried out using simulated gravity, for example, by use of a centrifuge . These technologies are usually used in studying development of gravity-controlled structures, such as dome formation , [21] and diapirism . [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Analogue_Modelling_of_a_Subduction_Zone_%28update%29.gif/533px-Analogue_Modelling_of_a_Subduction_Zone_%28update%29.gif",
+                "caption": "The simple analogue modelling of a subduction zone . The materials this model uses are sand mixture and silicone putty for the continental crust (left in layered brown) and oceanic crust (right in layered brown), and glucose syrup for the asthenosphere (greenish-blue liquid in the glass tank). There is a heater in the tank for heating the liquid. [2] [19] [20]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Analogue_modelling_(geology)",
+        "title": "Analogue modelling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Applications",
+        "text": "Analogue modelling can be used to simulate different geodynamic processes and geological phenomena, such as small-scale problems – folding , fracturing, boudinage and shear zone , and large-scale problems – subduction , collision, diapirism , and mantle convection . [1] [4] The following are some examples of applications of analogue modelling.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Analogue_Modelling_of_the_Growth_and_erosion_of_an_orogenic_wedge_%28update%29.gif/584px-Analogue_Modelling_of_the_Growth_and_erosion_of_an_orogenic_wedge_%28update%29.gif",
+                "caption": "Simple analogue modelling of the growth and erosion of an orogenic wedge. This simulation is done in a glass tank, with layered different granular materials that represent the crust. [1]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Analogue_modelling_(geology)",
+        "title": "Analogue modelling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Compressional tectonics",
+        "text": "The first analogue model was built by James Hall for simulating folds . He used a lateral compression machine for the simulation, and this machine is still shown in the Royal Society of Edinburgh . [2] The final result from the model is quite close to observation of the Berwickshire coast . [2] Although the model he used is simpler than current ones, the idea remains in use. The use of more complex compression machines substantially increases the number of simulations of compressional tectonics, including subduction , collision, lithospheric shortening, fracture formation, thrust and accretionary wedge . If the simulation only focuses on the upper crustal, the model is always built in the glass box (or two lateral glass walls) with a piston and/or wedges to supply forces to layers of granular materials (normally called sandbox). Depending on the different natural features, erosion (removal of top materials at a certain angle), décollement (inserted layers with low cohesion, normally glass microbeads), and any other parameters can put into the model, producing various results. [25] Simulations of mantle influences vary. Because of the different physical and chemical properties between the asthenosphere and lithosphere, viscous materials and a heater (for mantle convection ) are also used. [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Analogue_Model_of_extension_tectonics%2C_forming_of_Normal_Fault_and_Diapirs_%28salt_dome%29_%28update%29.gif/589px-Analogue_Model_of_extension_tectonics%2C_forming_of_Normal_Fault_and_Diapirs_%28salt_dome%29_%28update%29.gif",
+                "caption": "The simple analogue modelling of the extension tectonics which showing the formation of normal fault and salt dome (diapirism). This model is built in a glass box. The darker greyish layer is silicone which represents salt, and brownish layers are dry quartz sands which represent the brittle sedimentary rocks. [13] [2]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Analogue_modelling_(geology)",
+        "title": "Analogue modelling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Strike-slip tectonics",
+        "text": "Strike-slip tectonics differ from the dominantly vertical crust movements associated with shortening and extension, being dominantly horizontal in character (in relative terms sinistral or dextral ). This kind of horizontal movement will create a shear zone and several types of fractures and faults. A typical model used for strike-slip tectonics has two (or more) horizontal basal plates moving in opposite directions (or only move one of the plates, other are fixed). The visual results are shown from bird's-eye view. Scientists used CT -analysis to collect the cross-section images for the observation of the most influenced area during the simulation. [26]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Experimental_Set-up_of_Shear_Deformation_Analogue_Modelling_%28update%29.png/445px-Experimental_Set-up_of_Shear_Deformation_Analogue_Modelling_%28update%29.png",
+                "caption": "The simplified analogue modelling setting of shear deformation. This model is built on two separate horizontal plates. The brownish layers are dry sand, wet clay, and viscous materials, such as silicone or polydimethylsiloxane. [26]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Analogue_modelling_(geology)",
+        "title": "Analogue modelling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Observation of exoplanets",
+        "text": "Indirect and direct observation methods such as radial velocity and coronagraphs can give envelope estimates of exoplanet parameters such as mass, planetary radius, and orbital radius/eccentricity. Since distance from the host star and planetary size are generally believed to influence exoplanet geodynamic regime, inferences can be drawn from such information. For example, an exoplanet close enough to its host star to be tidally locked may have drastically different \"dark\" and \"light\" side temperatures and correspondingly bipolar geodynamic regimes (see insolation section below). Spectroscopy has been used to characterize extrasolar gas giants , but has not yet been used on rocky exoplanets. However, numerical modeling has demonstrated that spectroscopy could detect atmospheric sulfur dioxide levels as low as 1 ppm; presence of sulfur dioxide at this concentration may be indicative of a planet without surface water and with volcanism 1500–80000 times higher than Earth. [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/444226main_exoplanet20100414-a-full.jpg/250px-444226main_exoplanet20100414-a-full.jpg",
+                "caption": "Three identified exoplanets around the roughly sun-sized star HR8799 , imaged through a vector vortex coronagraph on a 1.5m section of the Hale Telescope ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geodynamics_of_terrestrial_exoplanets",
+        "title": "Geodynamics of terrestrial exoplanets",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Scaling parameters",
+        "text": "Early models of rocky exoplanets scaled different factors (namely mantle viscosity, lithospheric yield strength, and planetary size) up and down to predict the geodynamic regime of an exoplanet with given parameters. Two scaling studies of exoplanet size published in 2007 came to fundamentally different conclusions: O’Neill and Lenardic (2007) [3] showed that a planet of 1.1 Earth mass would have Earth-like lithospheric yield stress but reduced mantle driving stresses, resulting in a stagnant lid regime. Conversely, Valencia et al. (2007) [4] concluded the increase in mantle velocity (driving force) is large compared to the gravitationally-forced increase of plate viscosity as planets increase beyond one Earth mass, increasing the likelihood of plate tectonics with planet size.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Size_of_Kepler_Planet_Candidates.jpg/330px-Size_of_Kepler_Planet_Candidates.jpg",
+                "caption": "Bar chart showing the size distribution of observed Kepler planet candidates ( terrestrial exoplanets in the habitable zone of their host star). Data set is 2,740 planets orbiting 2,036 stars. The Earth-size and Super Earth-size (leftmost) columns represent potential terrestrial exoplanets."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geodynamics_of_terrestrial_exoplanets",
+        "title": "Geodynamics of terrestrial exoplanets",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Insolation",
+        "text": "External sources of planetary heat (namely, radiation from a planet's host star) can have drastic effects on geodynamic regime. With all other variables held constant, an Earth-sized exoplanet with a surface temperature of 273 K will evolve over its geological lifetime from a plate tectonic regime, to episodic periods of plate tectonics interspersed with stagnant lid geodynamics, to a terminal stagnant lid phase as interior heat is exhausted. Meanwhile, a \"hot\" planet (759 K surface temperature) under the same initial conditions will have an amorphous surface (due to lithospheric yield stress being constantly exceeded) to a stagnant lid as interior heat is exhausted, with no plate tectonics observed. [5] Planets closer than 0.5 astronomical units from their star are likely to be tidally locked; these planets are expected to have drastically different temperature regimes on their \"day\" and \"night\" sides. When this scenario is modeled, the day side displays mobile lid convection with diffuse surface deformation flowing toward the night side, while the night side has a plate tectonic regime of downwelling plates and a deep mantle return flow in the direction of the night side. A temperature contrast of 400 K between day and night sides is required to create such a stable system. [5]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Exoplanet_wiki_figure.jpg/800px-Exoplanet_wiki_figure.jpg",
+                "caption": "Conceptual plot of the effect of distance from a host star vs. planetary age on terrestrial exoplanet geodynamics. Example planets not drawn to scale."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geodynamics_of_terrestrial_exoplanets",
+        "title": "Geodynamics of terrestrial exoplanets",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Types of plate boundaries",
+        "text": "Three types of plate boundaries exist, [13] characterized by the way the plates move relative to each other. They are associated with different types of surface phenomena. The different types of plate boundaries are: [14] [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Continental-continental_constructive_plate_boundary.svg/250px-Continental-continental_constructive_plate_boundary.svg.png",
+                "caption": "Divergent boundary"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Continental-continental_destructive_plate_boundary.svg/250px-Continental-continental_destructive_plate_boundary.svg.png",
+                "caption": "Convergent boundary"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Continental-continental_conservative_plate_boundary_opposite_directions.svg/250px-Continental-continental_conservative_plate_boundary_opposite_directions.svg.png",
+                "caption": "Transform boundary"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Plate_tectonics",
+        "title": "Plate tectonics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Driving forces of plate motion",
+        "text": "Tectonic plates are able to move because of the relative density of oceanic lithosphere and the relative weakness of the asthenosphere . Dissipation of heat from the mantle is the original source of the energy required to drive plate tectonics through convection or large scale upwelling and doming. As a consequence, a powerful source generating plate motion is the excess density of the oceanic lithosphere sinking in subduction zones. When the new crust forms at mid-ocean ridges, this oceanic lithosphere is initially less dense than the underlying asthenosphere, but it becomes denser with age as it conductively cools and thickens. The greater density of old lithosphere relative to the underlying asthenosphere allows it to sink into the deep mantle at subduction zones, providing most of the driving force for plate movement. The weakness of the asthenosphere allows the tectonic plates to move easily towards a subduction zone. [17]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Global_plate_motion_2008-04-17.jpg/300px-Global_plate_motion_2008-04-17.jpg",
+                "caption": "Plate motion based on Global Positioning System (GPS) satellite data from NASA JPL . Each red dot is a measuring point and vectors show direction and magnitude of motion."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Plate_tectonics",
+        "title": "Plate tectonics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Modern plates",
+        "text": "Depending on how they are defined, there are usually seven or eight \"major\" plates: African , Antarctic , Eurasian , North American , South American , Pacific , and Indo-Australian . The latter is sometimes subdivided into the Indian and Australian plates. There are dozens of smaller plates, the eight largest of which are the Arabian , Caribbean , Juan de Fuca , Cocos , Nazca , Philippine Sea , Scotia and Somali . During the twenties of the 21st Century new proposals have come forward that divide the Earth's crust into many smaller plates, called terranes, which reflects the fact that Plate reconstructions show that the larger plates have been internally deformed and oceanic and continental plates have been fragmented over time. This has resulted in the definition of ca. 1200 terranes inside the oceanic plates, continental blocks and the mobile zones (mountainous belts) that separate them. [92] [93] The motion of the tectonic plates is determined by remote sensing satellite data sets, calibrated with ground station measurements.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Plate_tectonics_map.gif/440px-Plate_tectonics_map.gif",
+                "caption": "Plate tectonics map"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Plate_tectonics",
+        "title": "Plate tectonics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Components",
+        "text": "A general numerical model study usually consists of the following components: [12] [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flowchart_of_Numerical_modelling.svg/300px-Flowchart_of_Numerical_modelling.svg.png",
+                "caption": "Steps in numerical modeling. The first step in numerical modeling is to capture the actual geological scenario quantitatively. For example, in mantle convection modeling, heat equations are used to describe the heat energy circulating in the system while Navier–Stokes equations describe the flow of viscous fluid (the mantle rock). Second, since these equations are difficult to solve, discretization and numerical methods are chosen to make an approximation to the governing equations. Then, algorithms in the computer can calculate the approximated solutions. Finally, interpretation can be made from those solutions. For instance, in mantle convection modeling, the flow of mantle can first be visualized. Then, the relationship between the patterns of flow and the input parameters may be concluded."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Numerical methods",
+        "text": "Numerical methods are techniques to approximate the governing equations in the mathematical models. Common numerical methods include finite element method , spectral method , finite difference method , and finite volume method . These methods are used to approximate the solution of governing differential equations in the mathematical model by dissecting the domain into meshes or grids and applying simpler equations to individual elements or nodes in the mesh. [2] [18] The discrete element method uses another approach. The object is considered an assemblage of small particles. [19]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Example_of_2D_mesh.png/300px-Example_of_2D_mesh.png",
+                "caption": "An example of 2D finite element mesh. The domain is subdivided into numerous non-overlapping triangles (elements). Nodes are the vertices of the triangles."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Finite element method",
+        "text": "The finite element method subdivides the object (or domain) into smaller, non-overlapping elements (or subdomains) and these elements are connected at the nodes. The solution for the partial differential equations are then approximated by simpler element equations, usually polynomials . [2] [20] [21] Then these element equations are combined into equations for the entire object, i.e. the contribution of each element is summed up to model the response of the whole object. [2] [20] [21] This method is commonly used to solve mechanical problems. [21] The following are the general steps of using the finite element method: [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Inviscid_Burgers_Equation_in_Two_Dimensions.gif/300px-Inviscid_Burgers_Equation_in_Two_Dimensions.gif",
+                "caption": "Solution of Burgers Equation , which describes how shock waves behave, using spectral method . The domain is first subdivided into rectangular mesh. The idea of this method is similar to the finite element method."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Finite difference method",
+        "text": "The finite difference method approximates differential equations by approximating the derivative with a difference equation , which is the major method to solve partial differential equations . [26] [27] [28] [29] Consider a function f ( x ) {\\displaystyle f(x)} with single-valued derivatives that are continuous and finite functions of x {\\displaystyle x} , according to Taylor's theorem : [30] f ( x + Δ x ) = f ( x ) + Δ x f ′ ( x ) + 1 2 Δ x 2 f ″ ( x ) + 1 6 Δ x 3 f ‴ ( x ) + ⋯ {\\displaystyle f(x+\\Delta x)=f(x)+\\Delta xf'(x)+{\\frac {1}{2}}\\Delta x^{2}f''(x)+{\\frac {1}{6}}\\Delta x^{3}f'''(x)+\\cdots } and f ( x − Δ x ) = f ( x ) − Δ x f ′ ( x ) + 1 2 Δ x 2 f ″ ( x ) − 1 6 Δ x 3 f ‴ ( x ) + ⋯ {\\displaystyle f(x-\\Delta x)=f(x)-\\Delta xf'(x)+{\\frac {1}{2}}\\Delta x^{2}f''(x)-{\\frac {1}{6}}\\Delta x^{3}f'''(x)+\\cdots } Summing up the above expressions: [30] f ( x + Δ x ) + f ( x − Δ x ) = 2 f ( x ) + Δ x 2 f ″ ( x ) + terms with higher than 4th power of Δ x {\\displaystyle f(x+\\Delta x)+f(x-\\Delta x)=2f(x)+\\Delta x^{2}f''(x)+{\\text{terms with higher than 4th power of }}\\Delta x} Ignore the terms with higher than 4th power of x {\\displaystyle x} , then: [30] f ″ ( x ) ≃ 1 Δ x 2 [ f ( x + Δ x ) − 2 f ( x ) − f ( x − Δ x ) ] {\\displaystyle f''(x)\\simeq {\\frac {1}{\\Delta x^{2}}}\\left[f(x+\\Delta x)-2f(x)-f(x-\\Delta x)\\right]} f ′ ( x ) ≃ 1 2 Δ x [ f ( x + Δ x ) − f ( x − Δ x ) ] {\\displaystyle f'(x)\\simeq {\\frac {1}{2\\Delta x}}\\left[f(x+\\Delta x)-f(x-\\Delta x)\\right]} The above is the central-difference approximation of the derivatives, [30] which can also be approximated by forward-difference : f ′ ( x ) ≃ 1 Δ x [ f ( x + Δ x ) − f ( x ) ] {\\displaystyle f'(x)\\simeq {\\frac {1}{\\Delta x}}\\left[f(x+\\Delta x)-f(x)\\right]} or backward-difference : f ′ ( x ) ≃ 1 Δ x [ f ( x ) − f ( x − Δ x ) ] {\\displaystyle f'(x)\\simeq {\\frac {1}{\\Delta x}}\\left[f(x)-f(x-\\Delta x)\\right]} The accuracy of the finite differences can be improved when more higher order terms are used.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Finite_difference_method_2.svg/400px-Finite_difference_method_2.svg.png",
+                "caption": "Finite difference method"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Discrete element method",
+        "text": "The discrete element method , sometimes called distinct element method, is usually used to model discontinuous materials, such as rocks with fractures like joints and bedding, since it can explicitly model the properties of discontinuities. [19] This method was developed to simulate rock mechanics problems at the beginning. [19] [31] The main idea of this method is to model the objects as an assemblage of smaller particles, [19] which is similar to building a castle out of sand . These particles are of simple geometry, such as a sphere. The physical quantities of each particle, such as velocity, are continuously updated at the contacts between them. [19] This model is relatively computationally intensive, as a large quantity of particles needs to be used, [19] especially for large-scale models, like a slope. [32] Therefore, this model is usually applied to small-scale objects.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cundall_DEM.gif/300px-Cundall_DEM.gif",
+                "caption": "An example of model using discrete element method, which uses photo of Peter A. Cundall to initiate the particles"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Pecube",
+        "text": "Pecube is one of the numerical models developed to predict the thermochronological pattern. [43] It solves the following generalized heat transfer equation with advection using finite element method. [41] The first three terms on the right-hand side are the heat transferred by conduction in x {\\displaystyle x} , y {\\displaystyle y} and z {\\displaystyle z} directions while A {\\displaystyle A} is the advection. ∂ T ∂ t + u ∂ T ∂ x + v ∂ T ∂ y + w ∂ T ∂ z = ∂ ∂ x κ ∂ T ∂ x + ∂ ∂ y κ ∂ T ∂ y + ∂ ∂ z κ ∂ T ∂ z + A {\\displaystyle {\\frac {\\partial T}{\\partial t}}+u{\\frac {\\partial T}{\\partial x}}+v{\\frac {\\partial T}{\\partial y}}+w{\\frac {\\partial T}{\\partial z}}={\\frac {\\partial }{\\partial x}}\\kappa {\\frac {\\partial T}{\\partial x}}+{\\frac {\\partial }{\\partial y}}\\kappa {\\frac {\\partial T}{\\partial y}}+{\\frac {\\partial }{\\partial z}}\\kappa {\\frac {\\partial T}{\\partial z}}+A} After the temperature field is constructed in the model, particle paths are traced and the cooling history of the particles can be obtained. [41] The pattern of thermochronological age can then be computed. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Thermal_and_exhumation_pattern_due_to_a_fault_generated_by_Helsinki_University_Geodynamics_Group_%28HUGG%29_version_of_the_thermokinematic_and_thermochronometer_age_prediction_program_Pecube_%28Pecube-HUGG%29.gif",
+                "caption": "A cross-section showing the thermal and exhumation patterns of the crust generated by the movement of a fault . The simulation is generated by Pecube [Helsinki University Geodynamics Group (HUGG) version]. [43] [44] [45] The model is three-dimensional; [43] [44] the figure shows a slice of the model for simplicity. In the figure, the white line indicates the fault . The small black arrows indicate the direction of movement of the material at that point. The red lines are isotherm (the point of the line are of same temperature). The Pecube model uses both Eulerian and Lagrangian approaches. [43] The fault can be regarded as stationary and the crust is moving. Initially, the temperature of the crust depends on the depth. The deeper the depth, the hotter the material. During this event, the motion of crust along the fault moves the material with different temperatures. In the hanging wall (the block above the fault), hotter material from deeper depth moves towards the surface; while the cooler material at shallower depth in the footwall (the block below the fault) moves deeper. The flow of material changes the thermal pattern (the isotherm bends across the fault) of the crust, which may reset the thermochronometers in the rock. On the other hand, the exhumation rate also affects the thermochronometers in the rock. A positive rate of exhumation indicates the rock is moving towards the surface, while a negative rate of exhumation indicate the rock is moving downwards. The fault geometry impacts the pattern exhumation rate on the surface."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Hydrogeology",
+        "text": "In hydrogeology , groundwater flow is often modeled numerically by the finite element method [46] [47] [48] and finite difference method. [49] These two methods have been shown to produce similar results if the mesh is fine enough. [50] [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/MODFLOW_3D_grid.png/300px-MODFLOW_3D_grid.png",
+                "caption": "Finite difference grid used in MODFLOW"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "FLAC",
+        "text": "The Fast Lagrangian Analysis of Continua (FLAC) is one of the most popular approaches in modeling crustal dynamics. [2] The approach is fast as it solves the equations of momentum and continuity without using a matrix, hence it is fast but time steps must be small enough. [56] The approach has been used in 2D, [57] [58] [59] 2.5D, [60] and 3D [61] studies of crustal dynamics, in which the 2.5D results were generated by combining multiple slices of two-dimensional results. [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Boundary_conditions_applied_to_models.tif/lossy-page1-600px-Boundary_conditions_applied_to_models.tif.jpg",
+                "caption": "This figure shows the setup of the numerical model used in the study of tectonic evolution of the Cathaysia Block , [54] which makes up the southeast part of the South China carton . [62] This model uses the code called Flamar , which is a FLAC-like code that combines finite difference and finite element methods. [54] The element used in this Lagrangian mesh is quadrilateral. [54] The boundary conditions applied to the land surface are free, which is affected by erosion and sediment deposition. [54] The boundary on the sides is at constant velocity, which will push the crust to subduct . [54] The boundary condition used at the bottom is called \"Winkler's pliable basement\". It is at hydrostatic equilibrium and it allows the base to slip freely horizontally. [54]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Mantle convection",
+        "text": "There are many attempts to model mantle convection. Finite element , [65] finite volume , finite difference [66] and spectral methods have all been used in modeling mantle convection, and almost every model used an Eulerian grid. [2] Due to the simplicity and speed of the finite-difference and spectral methods, they were used in some early models, but finite-element or finite volume methods were generally adopted in the 2010s. [2] Many benchmark papers have investigated the validity of these numerical models. [2] [67] [68] [69] [70] [71] [72] Current approaches mostly uses a fixed and uniform grid. [2] Grid refinement, in which the size of the elements is reduced in the part that requires more accurate approximation, is possibly the direction of future development in numerical modeling of mantle convection. [2] [73]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Simulation_of_2D_mantle_convection_in_a_quarter_of_annulus_using_ASPECT_mantle_convection_code.gif/300px-Simulation_of_2D_mantle_convection_in_a_quarter_of_annulus_using_ASPECT_mantle_convection_code.gif",
+                "caption": "A simulation of mantle convection in a form of a quarter of 2D annulus using ASPECT . [63] [64] In the model, the temperature of the core-mantle boundary (inner boundary) is a constant of 4273 K (about 4000°C), while that at the boundary between crust and mantle (outer boundary) is 973 K (about 700°C). [63] The mesh in the simulation changes over time. The code uses adaptive mesh refinement , the mesh is finer in the areas that need more accurate calculation, such as the rising plumes, while the mesh is coarser in other area to save the computational power. [63] In the figure, red color indicates a warmer temperature while blue color indicate a cooler temperature; hot material rises from the core mantle boundary due to lower density. When the hot material reaches the outer boundary, it starts to move in horizontally and eventually sinks due to cooling."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Spectral method",
+        "text": "The spectral method in mantle convection breaks down the three-dimensional governing equation into several one-dimensional equations, which solves the equations much faster. It was one of the popular approaches in early models of mantle convection. [2] Many program were developed using this method during the 1980s to early 2000s. [2] [90] [91] [92] [93] [94] [95] [96] However, the lateral changes of viscosity of mantle are difficult to manage in this approach, and other methods became more popular in the 2010s. [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Tectonic_plates.png/300px-Tectonic_plates.png",
+                "caption": "The Earth consists of several plates. Numerical models can be used to model the kinematics of plates."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Geodynamo",
+        "text": "Numerical models have been made to verify the geodynamo theory , a theory that posits that the geomagnetic field is generated by the motion of conductive iron and nickel fluid in the Earth's core . [2] [98] Modeling of the flow of Earth's liquid outer core is difficult because: [2] Most of the models use the spectral method to simulate the geodynamo, [2] [99] for example the Glatzmaier-Roberts model. [100] [101] Finite difference method has also been used in the model by Kageyama and Sato. [99] [102] Some study also tried other methods, like finite volume [103] and finite element methods. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_54559main_comparison1_strip.gif",
+                "caption": "A numerical geodynamo model (Glatzmaier-Roberts model) showing the magnetic field generated by the flowing liquid outer core. [105] This figure shows how the magnetic field of the Earth behaves during a magnetic reversal ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Seismology",
+        "text": "Finite difference methods have been widely used in simulations of the propagation of seismic waves . [106] [107] [108] However, due to limitations in computation power, in some models, the spacing of the mesh is too large (compared with the wavelength of the seismic waves) so that the results are inaccurate due to grid dispersion , in which the seismic waves with different frequencies separate. [106] [109] Some researchers suggest using the spectral method to model seismic wave propagation. [106] [110]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Global_Seismic_Wave_Propagation_Simulation.gif/299px-Global_Seismic_Wave_Propagation_Simulation.gif",
+                "caption": "Simulation of seismic wave propagation through the Earth. [1]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Gravity",
+        "text": "The gravitational pull of the Moon and Sun gives rise to two high tides and two low tides every lunar day, or every 24 hours and 50 minutes. Therefore, there is a gap of 12 hours and 25 minutes between every high tide and between every low tide. [9] Gravitational forces make rocks press down on deeper rocks, increasing their density as the depth increases. [10] Measurements of gravitational acceleration and gravitational potential at the Earth's surface and above it can be used to look for mineral deposits (see gravity anomaly and gravimetry ). [11] The surface gravitational field provides information on the dynamics of tectonic plates . The geopotential surface called the geoid is one definition of the shape of the Earth. The geoid would be the global mean sea level if the oceans were in equilibrium and could be extended through the continents (such as with very narrow canals). [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Earth_gravity.png/220px-Earth_gravity.png",
+                "caption": "A map of deviations in gravity from a perfectly smooth, idealized Earth"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geophysics",
+        "title": "Geophysics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Heat flow",
+        "text": "The Earth is cooling, and the resulting heat flow generates the Earth's magnetic field through the geodynamo and plate tectonics through mantle convection . [13] The main sources of heat are: primordial heat due to Earth's cooling and radioactivity in the planets upper crust. [14] There is also some contributions from phase transitions . Heat is mostly carried to the surface by thermal convection , although there are two thermal boundary layers – the core–mantle boundary and the lithosphere – in which heat is transported by conduction . [15] Some heat is carried up from the bottom of the mantle by mantle plumes . The heat flow at the Earth's surface is about 4.2 × 10 13 W , and it is a potential source of geothermal energy. [16]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Convection-snapshot.png/310px-Convection-snapshot.png",
+                "caption": "A model of thermal convection in the Earth's mantle . The thin red columns are mantle plumes ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geophysics",
+        "title": "Geophysics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Vibrations",
+        "text": "Seismic waves are vibrations that travel through the Earth's interior or along its surface. [17] The entire Earth can also oscillate in forms that are called normal modes or free oscillations of the Earth . Ground motions from waves or normal modes are measured using seismographs . If the waves come from a localized source such as an earthquake or explosion, measurements at more than one location can be used to locate the source. The locations of earthquakes provide information on plate tectonics and mantle convection. [18] [19] Recording of seismic waves from controlled sources provides information on the region that the waves travel through. If the density or composition of the rock changes, waves are reflected. Reflections recorded using Reflection Seismology can provide a wealth of information on the structure of the earth up to several kilometers deep and are used to increase our understanding of the geology as well as to explore for oil and gas. [11] Changes in the travel direction, called refraction , can be used to infer the deep structure of the Earth . [19] Earthquakes pose a risk to humans . Understanding their mechanisms, which depend on the type of earthquake (e.g., intraplate or deep focus ), can lead to better estimates of earthquake risk and improvements in earthquake engineering . [20]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pswaves.jpg/290px-Pswaves.jpg",
+                "caption": "Illustration of the deformations of a block by body waves and surface waves (see seismic wave )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geophysics",
+        "title": "Geophysics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Magnetism",
+        "text": "The Earth's magnetic field protects the Earth from the deadly solar wind and has long been used for navigation. It originates in the fluid motions of the outer core. [24] The magnetic field in the upper atmosphere gives rise to the auroras . [26] The Earth's field is roughly like a tilted dipole , but it changes over time (a phenomenon called geomagnetic secular variation). Mostly the geomagnetic pole stays near the geographic pole , but at random intervals averaging 440,000 to a million years or so, the polarity of the Earth's field reverses. These geomagnetic reversals , analyzed within a Geomagnetic Polarity Time Scale , contain 184 polarity intervals in the last 83 million years, with change in frequency over time, with the most recent brief complete reversal of the Laschamp event occurring 41,000 years ago during the last glacial period . Geologists observed geomagnetic reversal recorded in volcanic rocks, through magnetostratigraphy correlation (see natural remanent magnetization ) and their signature can be seen as parallel linear magnetic anomaly stripes on the seafloor. These stripes provide quantitative information on seafloor spreading , a part of plate tectonics. They are the basis of magnetostratigraphy , which correlates magnetic reversals with other stratigraphies to construct geologic time scales. [27] In addition, the magnetization in rocks can be used to measure the motion of continents. [24]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Geomagnetisme.svg/240px-Geomagnetisme.svg.png",
+                "caption": "Earth's dipole axis (pink line) is tilted away from the rotational axis (blue line)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geophysics",
+        "title": "Geophysics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Radioactivity",
+        "text": "Radioactive decay accounts for about 80% of the Earth's internal heat , powering the geodynamo and plate tectonics. [28] The main heat-producing isotopes are potassium-40 , uranium-238 , uranium-235, and thorium-232 . [29] Radioactive elements are used for radiometric dating , the primary method for establishing an absolute time scale in geochronology . Unstable isotopes decay at predictable rates, and the decay rates of different isotopes cover several orders of magnitude, so radioactive decay can be used to accurately date both recent events and events in past geologic eras . [30] Radiometric mapping using ground and airborne gamma spectrometry can be used to map the concentration and distribution of radioisotopes near the Earth's surface, which is useful for mapping lithology and alteration. [31] [32]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Thorium_decay_chain_from_lead-212_to_lead-208.svg/240px-Thorium_decay_chain_from_lead-212_to_lead-208.svg.png",
+                "caption": "Example of a radioactive decay chain (see Radiometric dating )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geophysics",
+        "title": "Geophysics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Structure of the interior",
+        "text": "Evidence from seismology , heat flow at the surface, and mineral physics is combined with the Earth's mass and moment of inertia to infer models of the Earth's interior – its composition, density, temperature, pressure. For example, the Earth's mean specific gravity ( 5.515 ) is far higher than the typical specific gravity of rocks at the surface ( 2.7–3.3 ), implying that the deeper material is denser. This is also implied by its low moment of inertia ( 0.33 M R 2 , compared to 0.4 M R 2 for a sphere of constant density). However, some of the density increase is compression under the enormous pressures inside the Earth. The effect of pressure can be calculated using the Adams–Williamson equation . The conclusion is that pressure alone cannot account for the increase in density. Instead, we know that the Earth's core is composed of an alloy of iron and other minerals. [10] Reconstructions of seismic waves in the deep interior of the Earth show that there are no S-waves in the outer core. This indicates that the outer core is liquid, because liquids cannot support shear. The outer core is liquid, and the motion of this highly conductive fluid generates the Earth's field. Earth's inner core , however, is solid because of the enormous pressure. [12] Reconstruction of seismic reflections in the deep interior indicates some major discontinuities in seismic velocities that demarcate the major zones of the Earth: inner core , outer core , mantle, lithosphere and crust . The mantle itself is divided into the upper mantle , transition zone, lower mantle and D′′ layer. Between the crust and the mantle is the Mohorovičić discontinuity . [12] The seismic model of the Earth does not by itself determine the composition of the layers. For a complete model of the Earth, mineral physics is needed to interpret seismic velocities in terms of composition. The mineral properties are temperature-dependent, so the geotherm must also be determined. This requires physical theory for thermal conduction and convection and the heat contribution of radioactive elements . The main model for the radial structure of the interior of the Earth is the preliminary reference Earth model (PREM). Some parts of this model have been updated by recent findings in mineral physics (see post-perovskite ) and supplemented by seismic tomography . The mantle is mainly composed of silicates , and the boundaries between layers of the mantle are consistent with phase transitions. [10] The mantle acts as a solid for seismic waves, but under high pressures and temperatures, it deforms so that over millions of years it acts like a liquid. This makes plate tectonics possible.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Earthquake_wave_paths.svg/290px-Earthquake_wave_paths.svg.png",
+                "caption": "Seismic velocities and boundaries in the interior of the Earth sampled by seismic waves"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geophysics",
+        "title": "Geophysics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    },
+    {
+        "section": "Magnetosphere",
+        "text": "If a planet's magnetic field is strong enough, its interaction with the solar wind forms a magnetosphere. Early space probes mapped out the gross dimensions of the Earth's magnetic field, which extends about 10 Earth radii towards the Sun. The solar wind, a stream of charged particles, streams out and around the terrestrial magnetic field, and continues behind the magnetic tail , hundreds of Earth radii downstream. Inside the magnetosphere, there are relatively dense regions of solar wind particles called the Van Allen radiation belts. [26]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Structure_of_the_magnetosphere_mod.svg/290px-Structure_of_the_magnetosphere_mod.svg.png",
+                "caption": "Schematic of Earth's magnetosphere. The solar wind flows from left to right."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geophysics",
+        "title": "Geophysics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geodynamic Modeling"
+    }
+]

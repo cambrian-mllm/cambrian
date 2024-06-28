@@ -1,0 +1,363 @@
+[
+    {
+        "section": "Fluid saturation",
+        "text": "Most rock is completely saturated with groundwater .  Sometimes, under the right conditions, some of the pore space in the rock is occupied by other liquids or gases.  In the energy industry, oil and natural gas are the fluids most commonly being modelled.  The preferred methods for calculating hydrocarbon saturations in a geologic model incorporate an estimate of pore throat size, the densities of the fluids, and the height of the cell above the water contact , since these factors exert the strongest influence on capillary action , which ultimately controls fluid saturations.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/MODFLOW_3D_grid.png/220px-MODFLOW_3D_grid.png",
+                "caption": "A 3D finite difference grid used in MODFLOW for simulating groundwater flow in an aquifer."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geologic_modelling",
+        "title": "Geologic modelling",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Technology",
+        "text": "Geomodelling and CAD share a lot of common technologies. Software is usually implemented using object-oriented programming technologies in C++ , Java or C# on one or multiple computer platforms. The graphical user interface generally consists of one or several 3D and 2D graphics windows to visualize spatial data, interpretations and modelling output. Such visualization is generally achieved by exploiting graphics hardware . User interaction is mostly performed through mouse and keyboard, although 3D pointing devices and immersive environments may be used in some specific cases. GIS (Geographic Information System) is also a widely used tool to manipulate geological data. Geometric objects are represented with parametric curves and surfaces or discrete models such as polygonal meshes . [4] [6]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Gravity_Highs.jpg/220px-Gravity_Highs.jpg",
+                "caption": "Gravity Highs"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geologic_modelling",
+        "title": "Geologic modelling",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Process",
+        "text": "Exploring Different Types of 3D Modelling Techniques [12] The modeling stage consists of shaping individual objects that are later used in the scene. There are a number of modeling techniques, including: Modeling can be performed by means of a dedicated program (e.g., 3D modeling software by Adobe Substance , Blender , Cinema 4D , LightWave , Maya , Modo , 3ds Max ) or an application component (Shaper, Lofter in 3ds Max) or some scene description language (as in POV-Ray ). In some cases, there is no strict distinction between these phases; in such cases modeling is just part of the scene creation process (this is the case, for example, with Caligari trueSpace and Realsoft 3D ). 3D models can also be created using the technique of Photogrammetry with dedicated programs such as RealityCapture , Metashape and 3DF Zephyr . Cleanup and further processing can be performed with applications such as MeshLab , the GigaMesh Software Framework , netfabb or MeshMixer. Photogrammetry creates models using algorithms to interpret the shape and texture of real-world objects and environments based on photographs taken from many angles of the subject. Complex materials such as blowing sand, clouds, and liquid sprays are modeled with particle systems , and are a mass of 3D coordinates which have either points , polygons , texture splats , or sprites assigned to them.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lai4d_3D_fantasy_fish.jpg/220px-Lai4d_3D_fantasy_fish.jpg",
+                "caption": "A 3D fantasy fish composed of organic surfaces generated using LAI4D"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/3D_modeling",
+        "title": "3D modeling",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "3D clothing",
+        "text": "The development of cloth simulation software such as Marvelous Designer, CLO3D and Optitex, has enabled artists and fashion designers to model dynamic 3D clothing on the computer. [14] Dynamic 3D clothing is used for virtual fashion catalogs, as well as for dressing 3D characters for video games, 3D animation movies, for digital doubles in movies, [15] as a creation tool for digital fashion brands, as well as for making clothes for avatars in virtual worlds such as SecondLife .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dynamic_3D_Digital_Clothing_Model_by_CG_Elves_Purple.jpg/220px-Dynamic_3D_Digital_Clothing_Model_by_CG_Elves_Purple.jpg",
+                "caption": "Dynamic 3D clothing model made in Marvelous Designer"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/3D_modeling",
+        "title": "3D modeling",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Uses",
+        "text": "Today, 3D modeling is used in various industries like film, animation and gaming, interior design and architecture . [23] They are also used in the medical industry to create interactive representations of anatomy. [24] The medical industry uses detailed models of organs; these may be created with multiple 2-D image slices from an MRI or CT scan . The movie industry uses them as characters and objects for animated and real-life motion pictures . The video game industry uses them as assets for computer and video games . The science sector uses them as highly detailed models of chemical compounds. [25] The architecture industry uses them to demonstrate proposed buildings and landscapes in lieu of traditional, physical architectural models . Additionally, the use of Level of Detail (LOD) in 3D models is becoming increasingly important in the AEC industry. LOD is a measure of the level of detail and accuracy included in a 3D model. The LOD levels range from 100 to 500, with LOD 100 representing a conceptual model that shows the basic massing and location of objects, and LOD 500 representing an extremely detailed model that includes information about every aspect of the building, including MEP systems and interior finishes. By using LOD, architects , engineers , and General contractor can more effectively communicate design intent and make more informed decisions throughout the construction process. [26] [27] The archaeology community is now creating 3D models of cultural heritage for research and visualization. [28] [29] The engineering community utilizes them as designs of new devices, vehicles and structures as well as a host of other uses. In recent decades the earth science community has started to construct 3D geological models as a standard practice. 3D models can also be the basis for physical devices that are built with 3D printers or CNC machines . In terms of video game development, 3D modeling is one stage in a longer development process.  Simply put, the source of the geometry for the shape of an object can be: A wide number of 3D software are also used in constructing digital representation of mechanical models or parts before they are actually manufactured. CAD- and CAM -related software is used in such fields, and with this software, not only can you construct the parts, but also assemble them, and observe their functionality. 3D modeling is also used in the field of industrial design , wherein products are 3D modeled [30] before representing them to the clients. In media and event industries, 3D modeling is used in stage and set design . [31] The OWL 2 translation of the vocabulary of X3D can be used to provide semantic descriptions for 3D models , which is suitable for indexing and retrieval of 3D models by features such as geometry, dimensions, material, texture, diffuse reflection, transmission spectra, transparency, reflectivity, opalescence, glazes, varnishes, and enamels (as opposed to unstructured textual descriptions or 2.5D virtual museums and exhibitions using Google Street View on Google Arts & Culture , for example). [32] The RDF representation of 3D models can be used in reasoning , which enables intelligent 3D applications which, for example, can automatically compare two 3D models by volume. [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Steps_of_forensic_facial_reconstruction_-_Virtual_Mummy_-_cogitas3d.gif/300px-Steps_of_forensic_facial_reconstruction_-_Virtual_Mummy_-_cogitas3d.gif",
+                "caption": "Steps of forensic facial reconstruction of a mummy made in Blender by the Brazilian 3D designer Cícero Moraes"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/3D_modeling",
+        "title": "3D modeling",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Components",
+        "text": "A general numerical model study usually consists of the following components: [12] [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flowchart_of_Numerical_modelling.svg/300px-Flowchart_of_Numerical_modelling.svg.png",
+                "caption": "Steps in numerical modeling. The first step in numerical modeling is to capture the actual geological scenario quantitatively. For example, in mantle convection modeling, heat equations are used to describe the heat energy circulating in the system while Navier–Stokes equations describe the flow of viscous fluid (the mantle rock). Second, since these equations are difficult to solve, discretization and numerical methods are chosen to make an approximation to the governing equations. Then, algorithms in the computer can calculate the approximated solutions. Finally, interpretation can be made from those solutions. For instance, in mantle convection modeling, the flow of mantle can first be visualized. Then, the relationship between the patterns of flow and the input parameters may be concluded."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Numerical methods",
+        "text": "Numerical methods are techniques to approximate the governing equations in the mathematical models. Common numerical methods include finite element method , spectral method , finite difference method , and finite volume method . These methods are used to approximate the solution of governing differential equations in the mathematical model by dissecting the domain into meshes or grids and applying simpler equations to individual elements or nodes in the mesh. [2] [18] The discrete element method uses another approach. The object is considered an assemblage of small particles. [19]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Example_of_2D_mesh.png/300px-Example_of_2D_mesh.png",
+                "caption": "An example of 2D finite element mesh. The domain is subdivided into numerous non-overlapping triangles (elements). Nodes are the vertices of the triangles."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Finite element method",
+        "text": "The finite element method subdivides the object (or domain) into smaller, non-overlapping elements (or subdomains) and these elements are connected at the nodes. The solution for the partial differential equations are then approximated by simpler element equations, usually polynomials . [2] [20] [21] Then these element equations are combined into equations for the entire object, i.e. the contribution of each element is summed up to model the response of the whole object. [2] [20] [21] This method is commonly used to solve mechanical problems. [21] The following are the general steps of using the finite element method: [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Inviscid_Burgers_Equation_in_Two_Dimensions.gif/300px-Inviscid_Burgers_Equation_in_Two_Dimensions.gif",
+                "caption": "Solution of Burgers Equation , which describes how shock waves behave, using spectral method . The domain is first subdivided into rectangular mesh. The idea of this method is similar to the finite element method."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Finite difference method",
+        "text": "The finite difference method approximates differential equations by approximating the derivative with a difference equation , which is the major method to solve partial differential equations . [26] [27] [28] [29] Consider a function f ( x ) {\\displaystyle f(x)} with single-valued derivatives that are continuous and finite functions of x {\\displaystyle x} , according to Taylor's theorem : [30] f ( x + Δ x ) = f ( x ) + Δ x f ′ ( x ) + 1 2 Δ x 2 f ″ ( x ) + 1 6 Δ x 3 f ‴ ( x ) + ⋯ {\\displaystyle f(x+\\Delta x)=f(x)+\\Delta xf'(x)+{\\frac {1}{2}}\\Delta x^{2}f''(x)+{\\frac {1}{6}}\\Delta x^{3}f'''(x)+\\cdots } and f ( x − Δ x ) = f ( x ) − Δ x f ′ ( x ) + 1 2 Δ x 2 f ″ ( x ) − 1 6 Δ x 3 f ‴ ( x ) + ⋯ {\\displaystyle f(x-\\Delta x)=f(x)-\\Delta xf'(x)+{\\frac {1}{2}}\\Delta x^{2}f''(x)-{\\frac {1}{6}}\\Delta x^{3}f'''(x)+\\cdots } Summing up the above expressions: [30] f ( x + Δ x ) + f ( x − Δ x ) = 2 f ( x ) + Δ x 2 f ″ ( x ) + terms with higher than 4th power of Δ x {\\displaystyle f(x+\\Delta x)+f(x-\\Delta x)=2f(x)+\\Delta x^{2}f''(x)+{\\text{terms with higher than 4th power of }}\\Delta x} Ignore the terms with higher than 4th power of x {\\displaystyle x} , then: [30] f ″ ( x ) ≃ 1 Δ x 2 [ f ( x + Δ x ) − 2 f ( x ) − f ( x − Δ x ) ] {\\displaystyle f''(x)\\simeq {\\frac {1}{\\Delta x^{2}}}\\left[f(x+\\Delta x)-2f(x)-f(x-\\Delta x)\\right]} f ′ ( x ) ≃ 1 2 Δ x [ f ( x + Δ x ) − f ( x − Δ x ) ] {\\displaystyle f'(x)\\simeq {\\frac {1}{2\\Delta x}}\\left[f(x+\\Delta x)-f(x-\\Delta x)\\right]} The above is the central-difference approximation of the derivatives, [30] which can also be approximated by forward-difference : f ′ ( x ) ≃ 1 Δ x [ f ( x + Δ x ) − f ( x ) ] {\\displaystyle f'(x)\\simeq {\\frac {1}{\\Delta x}}\\left[f(x+\\Delta x)-f(x)\\right]} or backward-difference : f ′ ( x ) ≃ 1 Δ x [ f ( x ) − f ( x − Δ x ) ] {\\displaystyle f'(x)\\simeq {\\frac {1}{\\Delta x}}\\left[f(x)-f(x-\\Delta x)\\right]} The accuracy of the finite differences can be improved when more higher order terms are used.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Finite_difference_method_2.svg/400px-Finite_difference_method_2.svg.png",
+                "caption": "Finite difference method"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Discrete element method",
+        "text": "The discrete element method , sometimes called distinct element method, is usually used to model discontinuous materials, such as rocks with fractures like joints and bedding, since it can explicitly model the properties of discontinuities. [19] This method was developed to simulate rock mechanics problems at the beginning. [19] [31] The main idea of this method is to model the objects as an assemblage of smaller particles, [19] which is similar to building a castle out of sand . These particles are of simple geometry, such as a sphere. The physical quantities of each particle, such as velocity, are continuously updated at the contacts between them. [19] This model is relatively computationally intensive, as a large quantity of particles needs to be used, [19] especially for large-scale models, like a slope. [32] Therefore, this model is usually applied to small-scale objects.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cundall_DEM.gif/300px-Cundall_DEM.gif",
+                "caption": "An example of model using discrete element method, which uses photo of Peter A. Cundall to initiate the particles"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Pecube",
+        "text": "Pecube is one of the numerical models developed to predict the thermochronological pattern. [43] It solves the following generalized heat transfer equation with advection using finite element method. [41] The first three terms on the right-hand side are the heat transferred by conduction in x {\\displaystyle x} , y {\\displaystyle y} and z {\\displaystyle z} directions while A {\\displaystyle A} is the advection. ∂ T ∂ t + u ∂ T ∂ x + v ∂ T ∂ y + w ∂ T ∂ z = ∂ ∂ x κ ∂ T ∂ x + ∂ ∂ y κ ∂ T ∂ y + ∂ ∂ z κ ∂ T ∂ z + A {\\displaystyle {\\frac {\\partial T}{\\partial t}}+u{\\frac {\\partial T}{\\partial x}}+v{\\frac {\\partial T}{\\partial y}}+w{\\frac {\\partial T}{\\partial z}}={\\frac {\\partial }{\\partial x}}\\kappa {\\frac {\\partial T}{\\partial x}}+{\\frac {\\partial }{\\partial y}}\\kappa {\\frac {\\partial T}{\\partial y}}+{\\frac {\\partial }{\\partial z}}\\kappa {\\frac {\\partial T}{\\partial z}}+A} After the temperature field is constructed in the model, particle paths are traced and the cooling history of the particles can be obtained. [41] The pattern of thermochronological age can then be computed. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Thermal_and_exhumation_pattern_due_to_a_fault_generated_by_Helsinki_University_Geodynamics_Group_%28HUGG%29_version_of_the_thermokinematic_and_thermochronometer_age_prediction_program_Pecube_%28Pecube-HUGG%29.gif",
+                "caption": "A cross-section showing the thermal and exhumation patterns of the crust generated by the movement of a fault . The simulation is generated by Pecube [Helsinki University Geodynamics Group (HUGG) version]. [43] [44] [45] The model is three-dimensional; [43] [44] the figure shows a slice of the model for simplicity. In the figure, the white line indicates the fault . The small black arrows indicate the direction of movement of the material at that point. The red lines are isotherm (the point of the line are of same temperature). The Pecube model uses both Eulerian and Lagrangian approaches. [43] The fault can be regarded as stationary and the crust is moving. Initially, the temperature of the crust depends on the depth. The deeper the depth, the hotter the material. During this event, the motion of crust along the fault moves the material with different temperatures. In the hanging wall (the block above the fault), hotter material from deeper depth moves towards the surface; while the cooler material at shallower depth in the footwall (the block below the fault) moves deeper. The flow of material changes the thermal pattern (the isotherm bends across the fault) of the crust, which may reset the thermochronometers in the rock. On the other hand, the exhumation rate also affects the thermochronometers in the rock. A positive rate of exhumation indicates the rock is moving towards the surface, while a negative rate of exhumation indicate the rock is moving downwards. The fault geometry impacts the pattern exhumation rate on the surface."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Hydrogeology",
+        "text": "In hydrogeology , groundwater flow is often modeled numerically by the finite element method [46] [47] [48] and finite difference method. [49] These two methods have been shown to produce similar results if the mesh is fine enough. [50] [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/MODFLOW_3D_grid.png/300px-MODFLOW_3D_grid.png",
+                "caption": "Finite difference grid used in MODFLOW"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "FLAC",
+        "text": "The Fast Lagrangian Analysis of Continua (FLAC) is one of the most popular approaches in modeling crustal dynamics. [2] The approach is fast as it solves the equations of momentum and continuity without using a matrix, hence it is fast but time steps must be small enough. [56] The approach has been used in 2D, [57] [58] [59] 2.5D, [60] and 3D [61] studies of crustal dynamics, in which the 2.5D results were generated by combining multiple slices of two-dimensional results. [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Boundary_conditions_applied_to_models.tif/lossy-page1-600px-Boundary_conditions_applied_to_models.tif.jpg",
+                "caption": "This figure shows the setup of the numerical model used in the study of tectonic evolution of the Cathaysia Block , [54] which makes up the southeast part of the South China carton . [62] This model uses the code called Flamar , which is a FLAC-like code that combines finite difference and finite element methods. [54] The element used in this Lagrangian mesh is quadrilateral. [54] The boundary conditions applied to the land surface are free, which is affected by erosion and sediment deposition. [54] The boundary on the sides is at constant velocity, which will push the crust to subduct . [54] The boundary condition used at the bottom is called \"Winkler's pliable basement\". It is at hydrostatic equilibrium and it allows the base to slip freely horizontally. [54]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Mantle convection",
+        "text": "There are many attempts to model mantle convection. Finite element , [65] finite volume , finite difference [66] and spectral methods have all been used in modeling mantle convection, and almost every model used an Eulerian grid. [2] Due to the simplicity and speed of the finite-difference and spectral methods, they were used in some early models, but finite-element or finite volume methods were generally adopted in the 2010s. [2] Many benchmark papers have investigated the validity of these numerical models. [2] [67] [68] [69] [70] [71] [72] Current approaches mostly uses a fixed and uniform grid. [2] Grid refinement, in which the size of the elements is reduced in the part that requires more accurate approximation, is possibly the direction of future development in numerical modeling of mantle convection. [2] [73]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Simulation_of_2D_mantle_convection_in_a_quarter_of_annulus_using_ASPECT_mantle_convection_code.gif/300px-Simulation_of_2D_mantle_convection_in_a_quarter_of_annulus_using_ASPECT_mantle_convection_code.gif",
+                "caption": "A simulation of mantle convection in a form of a quarter of 2D annulus using ASPECT . [63] [64] In the model, the temperature of the core-mantle boundary (inner boundary) is a constant of 4273 K (about 4000°C), while that at the boundary between crust and mantle (outer boundary) is 973 K (about 700°C). [63] The mesh in the simulation changes over time. The code uses adaptive mesh refinement , the mesh is finer in the areas that need more accurate calculation, such as the rising plumes, while the mesh is coarser in other area to save the computational power. [63] In the figure, red color indicates a warmer temperature while blue color indicate a cooler temperature; hot material rises from the core mantle boundary due to lower density. When the hot material reaches the outer boundary, it starts to move in horizontally and eventually sinks due to cooling."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Spectral method",
+        "text": "The spectral method in mantle convection breaks down the three-dimensional governing equation into several one-dimensional equations, which solves the equations much faster. It was one of the popular approaches in early models of mantle convection. [2] Many program were developed using this method during the 1980s to early 2000s. [2] [90] [91] [92] [93] [94] [95] [96] However, the lateral changes of viscosity of mantle are difficult to manage in this approach, and other methods became more popular in the 2010s. [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Tectonic_plates.png/300px-Tectonic_plates.png",
+                "caption": "The Earth consists of several plates. Numerical models can be used to model the kinematics of plates."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Geodynamo",
+        "text": "Numerical models have been made to verify the geodynamo theory , a theory that posits that the geomagnetic field is generated by the motion of conductive iron and nickel fluid in the Earth's core . [2] [98] Modeling of the flow of Earth's liquid outer core is difficult because: [2] Most of the models use the spectral method to simulate the geodynamo, [2] [99] for example the Glatzmaier-Roberts model. [100] [101] Finite difference method has also been used in the model by Kageyama and Sato. [99] [102] Some study also tried other methods, like finite volume [103] and finite element methods. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_54559main_comparison1_strip.gif",
+                "caption": "A numerical geodynamo model (Glatzmaier-Roberts model) showing the magnetic field generated by the flowing liquid outer core. [105] This figure shows how the magnetic field of the Earth behaves during a magnetic reversal ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Seismology",
+        "text": "Finite difference methods have been widely used in simulations of the propagation of seismic waves . [106] [107] [108] However, due to limitations in computation power, in some models, the spacing of the mesh is too large (compared with the wavelength of the seismic waves) so that the results are inaccurate due to grid dispersion , in which the seismic waves with different frequencies separate. [106] [109] Some researchers suggest using the spectral method to model seismic wave propagation. [106] [110]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Global_Seismic_Wave_Propagation_Simulation.gif/299px-Global_Seismic_Wave_Propagation_Simulation.gif",
+                "caption": "Simulation of seismic wave propagation through the Earth. [1]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Numerical_modeling_(geology)",
+        "title": "Numerical modeling (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Terminology",
+        "text": "There is no universal usage of the terms digital elevation model (DEM), digital terrain model (DTM) and digital surface model (DSM) in scientific literature. In most cases the term digital surface model represents the earth's surface and includes all objects on it. In contrast to a DSM, the digital terrain model (DTM) represents the bare ground surface without any objects like plants and buildings (see the figure on the right). [3] [4] DEM is often used as a generic term for DSMs and DTMs, [5] only representing height information without any further definition about the surface. [6] Other definitions equalise the terms DEM and DTM, [7] equalise the terms DEM and DSM, [8] define the DEM as a subset of the DTM, which also represents other morphological elements, [9] or define a DEM as a rectangular grid and a DTM as a three-dimensional model ( TIN ). [10] Most of the data providers ( USGS , ERSDAC , CGIAR , Spot Image ) use the term DEM as a generic term for DSMs and DTMs. Some datasets such as SRTM or the ASTER GDEM are originally DSMs, although in forested areas, SRTM reaches into the tree canopy giving readings somewhere between a DSM and a DTM). DTMs are created from high resolution DSM datasets using complex algorithms to filter out buildings and other objects, a process known as \"bare-earth extraction\". [11] [12] In the following, the term DEM is used as a generic term for DSMs and DTMs.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/DTM_DSM.svg/220px-DTM_DSM.svg.png",
+                "caption": "Surfaces represented by a Digital Surface Model include buildings and other objects. Digital Terrain Models represent the bare ground."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Digital_elevation_model",
+        "title": "Digital elevation model",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Types",
+        "text": "A DEM can be represented as a raster (a grid of squares, also known as a heightmap when representing elevation) or as a vector-based triangular irregular network (TIN). [13] The TIN DEM dataset is also referred to as a primary (measured) DEM, whereas the Raster DEM is referred to as a secondary (computed) DEM. [14] The DEM could be acquired through techniques such as photogrammetry , lidar , IfSAR or InSAR , land surveying , etc. (Li et al. 2005). DEMs are commonly built using data collected using remote sensing techniques, but they may also be built from land surveying.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Srtm_ramp2.world.21600x10800.jpg/220px-Srtm_ramp2.world.21600x10800.jpg",
+                "caption": "Heightmap of Earth's surface (including water and ice), rendered as an equirectangular projection with elevations indicated as normalized 8-bit grayscale, where lighter values indicate higher elevation"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Digital_elevation_model",
+        "title": "Digital elevation model",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Rendering",
+        "text": "The digital elevation model itself consists of a matrix of numbers, but the data from a DEM is often rendered in visual form to make it understandable to humans.  This visualization may be in the form of a contoured topographic map , or could use shading and false color assignment (or \"pseudo-color\") to render elevations as colors (for example, using green for the lowest elevations, shading to red, with white for the highest elevation.). Visualizations are sometimes also done as oblique views, reconstructing a synthetic visual image of the terrain as it would appear looking down at an angle. In these oblique visualizations, elevations are sometimes scaled using \" vertical exaggeration \" in order to make subtle elevation differences more noticeable. [15] Some scientists, [16] [17] however, object to vertical exaggeration as misleading the viewer about the true landscape.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Maps-for-free_Sierra_Nevada.png/220px-Maps-for-free_Sierra_Nevada.png",
+                "caption": "Relief map of Spain's Sierra Nevada, showing use of both shading and false color as visualization tools to indicate elevation"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Digital_elevation_model",
+        "title": "Digital elevation model",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Planetary mapping",
+        "text": "A tool of increasing value in planetary science has been use of orbital altimetry used to make digital elevation map of planets.  A primary tool for this is laser altimetry but radar altimetry is also used. [20] Planetary digital elevation maps made using laser altimetry include the Mars Orbiter Laser Altimeter (MOLA) mapping of Mars, [21] the Lunar Orbital Laser Altimeter (LOLA) [22] and Lunar Altimeter (LALT) mapping of the Moon, and the Mercury Laser Altimeter (MLA) mapping of Mercury. [23] In planetary mapping, each planetary body has a unique reference surface. [24]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/PIA02040_Martian_hemispheres_by_MOLA.jpg/260px-PIA02040_Martian_hemispheres_by_MOLA.jpg",
+                "caption": "MOLA digital elevation model showing the two hemispheres of Mars. This image appeared on the cover of Science magazine in May 1999."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Digital_elevation_model",
+        "title": "Digital elevation model",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Uses",
+        "text": "Common uses of DEMs include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Digital_Elevation_Model_-_Red_Rocks_Amphitheater%2C_Colorado.jpg/220px-Digital_Elevation_Model_-_Red_Rocks_Amphitheater%2C_Colorado.jpg",
+                "caption": "Digital Elevation Model - Red Rocks Amphitheater, Colorado obtained using a UAV"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bezmiechowa_DSM_3D_2010-05-29_Pteryx_UAV.jpg/220px-Bezmiechowa_DSM_3D_2010-05-29_Pteryx_UAV.jpg",
+                "caption": "Bezmiechowa airfield 3D Digital Surface Model obtained using Pteryx UAV flying 200 m above hilltop"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/DSM_construction_site.jpg/220px-DSM_construction_site.jpg",
+                "caption": "Digital Surface Model of motorway interchange construction site . Note that tunnels are closed."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/DEM_Assenede1.PNG/220px-DEM_Assenede1.PNG",
+                "caption": "Example DEM flown with the Gatewing X100 in Assenede"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Geabios3d.jpg/220px-Geabios3d.jpg",
+                "caption": "Digital Terrain Model Generator + Textures(Maps) + Vectors"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Digital_elevation_model",
+        "title": "Digital elevation model",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    },
+    {
+        "section": "Websites",
+        "text": "OpenTopography [38] is a web based community resource for access to high-resolution, Earth science-oriented, topography data (lidar and DEM data), and processing tools running on commodity and high performance compute system along with educational resources. [39] OpenTopography is based at the San Diego Supercomputer Center [40] at the University of California San Diego and is operated in collaboration with colleagues in the School of Earth and Space Exploration at Arizona State University and UNAVCO. [41] Core operational support for OpenTopography comes from the National Science Foundation, Division of Earth Sciences. The OpenDemSearcher is a Mapclient with a visualization of regions with free available middle and high resolution DEMs. [42]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Moon_elevation.stl/220px-Moon_elevation.stl.png",
+                "caption": "STL 3D model of the Moon with 10× elevation exaggeration rendered with data from the Lunar Orbiter Laser Altimeter of the Lunar Reconnaissance Orbiter"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Digital_elevation_model",
+        "title": "Digital elevation model",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "3D Geological Modelling"
+    }
+]

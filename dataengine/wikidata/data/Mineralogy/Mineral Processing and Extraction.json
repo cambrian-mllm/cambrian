@@ -1,0 +1,960 @@
+[
+    {
+        "section": "Sizing",
+        "text": "Sizing is the general term for separation of particles according to their size. The simplest sizing process is screening, or passing the particles to be sized through a screen or number of screens. Screening equipment can include grizzlies, [16] bar screens, wedge wire screens, radial sieves, banana screens, multi-deck screens, vibratory screen, fine screens, flip flop screens, and wire mesh screens. Screens can be static (typically the case for very coarse material), or they can incorporate mechanisms to shake or vibrate the screen. Some considerations in this process include the screen material, the aperture size, shape and orientation, the amount of near sized particles, the addition of water, the amplitude and frequency of the vibrations, the angle of inclination, the presence of harmful materials, like steel and wood, and the size distribution of the particles. Classification refers to sizing operations that exploit the differences in settling velocities exhibited by particles of different size. Classification equipment may include ore sorters , gas cyclones , hydrocyclones , rotating trommels , rake classifiers or fluidized classifiers. An important factor in both comminution and sizing operations is the determination of the particle size distribution of the materials being processed, commonly referred to as particle size analysis . Many techniques for analyzing particle size are used, and the techniques include both off-line analyses which require that a sample of the material be taken for analysis and on-line techniques that allow for analysis of the material as it flows through the process.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/THC_2003.902.122_Ore_Crushing_Machinery.tif/lossy-page1-170px-THC_2003.902.122_Ore_Crushing_Machinery.tif.jpg",
+                "caption": "Screening ore through a sieve, Fixed Nitrogen Research Laboratory, 1930"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Sizer_2000.jpg/170px-Sizer_2000.jpg",
+                "caption": "Sizer 2000 for screening coarse to small particles"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral_processing",
+        "title": "Mineral processing",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Froth flotation",
+        "text": "Froth flotation is an important concentration process. This process can be used to separate any two different particles and operated by the surface chemistry of the particles. In flotation, bubbles are introduced into a pulp and the bubbles rise through the pulp. [19] In the process, hydrophobic particles become bound to the surface of the bubbles. The driving force for this attachment is the change in the surface free energy when the attachment occurs. These bubbles rise through the slurry and are collected from the surface. To enable these particles to attach, careful consideration of the chemistry of the pulp needs to be made. These considerations include the pH, Eh and the presence of flotation reagents. The pH is important as it changes the charge of the particles surface and the pH affects the chemisorption of collectors on the surface of the particles. The addition of flotation reagents also affects the operation of these processes. The most important chemical that is added is the collector. This chemical binds to the surface of the particles as it is a surfactant . The main considerations in this chemical is the nature of the head group and the size of the hydrocarbon chain. The hydrocarbon tail needs to be short to maximize the selectivity of the desired mineral and the headgroup dictates which minerals it attaches to. The frothers are another important chemical addition to the pulp or slurry as they enable stable bubbles to be formed. This is important because if the bubbles coalesce, minerals will fall off their surface. The bubbles however should not be too stable as this prevents easy transportation and dewatering of the concentrate formed. The mechanism of these frothers is not completely known and further research into their mechanisms is being performed. Depressants and activators are used to selectively separate one mineral from another. Depressants inhibit the flotation of one mineral or minerals while activators enable the flotation of others. Examples of these include CN − , used to depress all sulfides but galena and this depressant is believed to operate by changing the solubility of chemisorbed and physisorbed collectors on sulfides. This theory originates from Russia. An example of an activator is Cu 2+ ions, used for the flotation of sphalerite. There are a number of cells able to be used for the flotation of minerals. these include flotation columns and mechanical flotation cells. The flotation columns are used for finer minerals and typically have a higher grade and lower recovery of minerals than mechanical flotation cells. The cells in use at the moment can exceed 300 m 3 . This is done as they are cheaper per unit volume than smaller cells, but they are not able to be controlled as easily as smaller cells. This process was invented in the 19th century in Australia. It was used to recover a sphalerite concentrate from tailings, produced using gravity concentration. Further improvements have come from Australia in the form of the Jameson Cell , developed at the University of Newcastle, Australia. This operated by the use of a plunging jet that generates fine bubbles. These fine bubbles have a higher kinetic energy and as such they can be used for the flotation of fine grained minerals, such as those produced by the IsaMill. Staged flotation reactors (SFRs) split the flotation process into three defined stages per cell. They are becoming increasingly more common in use as they require much less energy, air and installation space.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FlotationFalconbridgeOnt.jpg/170px-FlotationFalconbridgeOnt.jpg",
+                "caption": "Froth flotation cells used to concentrate copper and nickel sulfide minerals"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral_processing",
+        "title": "Mineral processing",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Mine development and life cycle",
+        "text": "The process of mining from discovery of an ore body through extraction of minerals and finally to returning the land to its natural state consists of several distinct steps. The first is discovery of the ore body, which is carried out through prospecting or exploration to find and then define the extent, location and value of the ore body. This leads to a mathematical resource estimation to estimate the size and grade of the deposit. This estimation is used to conduct a pre-feasibility study to determine the theoretical economics of the ore deposit. This identifies, early on, whether further investment in estimation and engineering studies is warranted and identifies key risks and areas for further work. The next step is to conduct a feasibility study to evaluate the financial viability, the technical and financial risks, and the robustness of the project. This is when the mining company makes the decision whether to develop the mine or to walk away from the project. This includes mine planning to evaluate the economically recoverable portion of the deposit, the metallurgy and ore recoverability, marketability and payability of the ore concentrates, engineering concerns, milling and infrastructure costs, finance and equity requirements, and an analysis of the proposed mine from the initial excavation all the way through to reclamation. The proportion of a deposit that is economically recoverable is dependent on the enrichment factor of the ore in the area. To gain access to the mineral deposit within an area it is often necessary to mine through or remove waste material which is not of immediate interest to the miner. The total movement of ore and waste constitutes the mining process. Often more waste than ore is mined during the life of a mine, depending on the nature and location of the ore body. Waste removal and placement is a major cost to the mining operator, so a detailed characterization of the waste material forms an essential part of the geological exploration program for a mining operation. Once the analysis determines a given ore body is worth recovering, development begins to create access to the ore body. The mine buildings and processing plants are built, and any necessary equipment is obtained. The operation of the mine to recover the ore begins and continues as long as the company operating the mine finds it economical to do so. Once all the ore that the mine can produce profitably is recovered, reclamation can begin, to make the land used by the mine suitable for future use. Technical and economic challenges notwithstanding, successful mine development must also address human factors. Working conditions are paramount to success, especially with regard to exposures to dusts, radiation, noise, explosives hazards, and vibration, as well as illumination standards. Mining today increasingly must address environmental and community impacts, including psychological and sociological dimensions. Thus, mining educator Frank T. M. White (1909–1971), broadened the focus to the “total environment of mining”, including reference to community development around mining, and how mining is portrayed to an urban society, which depends on the industry, although seemingly unaware of this dependency. He stated, “[I]n the past, mining engineers have not been called upon to study the psychological, sociological and personal problems of their own industry – aspects that nowadays are assuming tremendous importance. The mining engineer must rapidly expand his knowledge and his influence into these newer fields.” [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cut_and_fill_schematic.png/330px-Cut_and_fill_schematic.png",
+                "caption": "Schematic of a cut and fill mining operation in hard rock"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Techniques",
+        "text": "Mining techniques can be divided into two common excavation types: surface mining and sub-surface (underground) mining . Today, surface mining is much more common, and produces, for example, 85% of minerals (excluding petroleum and natural gas) in the United States, including 98% of metallic ores. [42] Targets are divided into two general categories of materials: placer deposits , consisting of valuable minerals contained within river gravels, beach sands, and other unconsolidated materials ; and lode deposits , where valuable minerals are found in veins, in layers, or in mineral grains generally distributed throughout a mass of actual rock. Both types of ore deposit, placer or lode, are mined by both surface and underground methods. [ citation needed ] Some mining, including much of the rare earth elements and uranium mining , is done by less-common methods, such as in-situ leaching : this technique involves digging neither at the surface nor underground. The extraction of target minerals by this technique requires that they be soluble, e.g., potash , potassium chloride , sodium chloride , sodium sulfate , which dissolve in water. Some minerals, such as copper minerals and uranium oxide , require acid or carbonate solutions to dissolve. [43] Explosives in Mining Explosives have been used in surface mining and sub-surface mining to blast out rock and ore intended for processing. The most common explosive used in mining is ammonium nitrate . [44] Between 1870 and 1920, in Queensland Australia, an increase in mining accidents lead to more safety measures surrounding the use of explosives for mining. [45] In the United States of America, between 1990 and 1999, about 22.3 billion kilograms of explosives were used in mining quarrying and other industries; Moreover \" coal mining used 66.4%, nonmetal mining and quarrying 13.5%, metal mining 10.4%, construction 7.1%, and all other users 2.6%\". [44]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/SL500_01.jpg/220px-SL500_01.jpg",
+                "caption": "Underground longwall mining"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Surface",
+        "text": "Surface mining is done by removing surface vegetation, dirt, and bedrock to reach buried ore deposits. Techniques of surface mining include: open-pit mining , which is the recovery of materials from an open pit in the ground; quarrying , identical to open-pit mining except that it refers to sand, stone and clay; strip mining , which consists of stripping surface layers off to reveal ore underneath; and mountaintop removal , commonly associated with coal mining, which involves taking the top of a mountain off to reach ore deposits at depth. Most placer deposits, because they are shallowly buried, are mined by surface methods. Finally, landfill mining involves sites where landfills are excavated and processed. [50] Landfill mining has been thought of as a long-term solution to methane emissions and local pollution. [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tagebau_Garzweiler_Panorama_2005.jpg/1000px-Tagebau_Garzweiler_Panorama_2005.jpg",
+                "caption": "Garzweiler surface mine , Germany"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "High wall",
+        "text": "High wall mining, which evolved from auger mining, is another form of surface mining. In high wall mining, the remaining part of a coal seam previously exploited by other surface-mining techniques has too much overburden to be removed but can still be profitably exploited from the side of the artificial cliff made by previous mining. [52] A typical cycle alternates sumping, which undercuts the seam, and shearing, which raises and lowers the cutter-head boom to cut the entire height of the coal seam. As the coal recovery cycle continues, the cutter-head is progressively launched further into the coal seam. High wall mining can produce thousands of tons of coal in contour-strip operations with narrow benches, previously mined areas, trench mine applications and steep-dip seams. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mega_HIghwall_Mining_ADDCAR_16.jpg/220px-Mega_HIghwall_Mining_ADDCAR_16.jpg",
+                "caption": "Coalburg Seam highwall mining at ADDCAR 16 Logan County WV"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Myslowice_kopalnia_Myslowice_07.jpg/170px-Myslowice_kopalnia_Myslowice_07.jpg",
+                "caption": "Mysłowice coal mine shaft tower, Upper Silesian Coal Basin"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Underground mining",
+        "text": "Sub-surface mining consists of digging tunnels or shafts into the earth to reach buried ore deposits. Ore, for processing, and waste rock, for disposal, are brought to the surface through the tunnels and shafts. Sub-surface mining can be classified by the type of access shafts used, and the extraction method or the technique used to reach the mineral deposit. Drift mining uses horizontal access tunnels, slope mining uses diagonally sloping access shafts, and shaft mining uses vertical access shafts. Mining in hard and soft rock formations requires different techniques. [53] Other methods include shrinkage stope mining , which is mining upward, creating a sloping underground room, long wall mining , which is grinding a long ore surface underground, and room and pillar mining, which is removing ore from rooms while leaving pillars in place to support the roof of the room. Room and pillar mining often leads to retreat mining , in which supporting pillars are removed as miners retreat, allowing the room to cave in, thereby loosening more ore. Additional sub-surface mining methods include hard rock mining , bore hole mining, drift and fill mining, long hole slope mining, sub level caving, and block caving . [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kilianstollen_Zug.jpg/220px-Kilianstollen_Zug.jpg",
+                "caption": "Mantrip used for transporting miners within an underground mine"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caterpillar_Highwall_Mine_HW300.jpg/220px-Caterpillar_Highwall_Mine_HW300.jpg",
+                "caption": "Caterpillar Highwall Miner HW300 – Technology Bridging Underground and Open Pit Mining"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Machines",
+        "text": "Heavy machinery is used in mining to explore and develop sites, to remove and stockpile overburden, to break and remove rocks of various hardness and toughness, to process the ore, and to carry out reclamation projects after the mine is closed. Bulldozers, drills, explosives and trucks are all necessary for excavating the land. In the case of placer mining , unconsolidated gravel, or alluvium , is fed into machinery consisting of a hopper and a shaking screen or trommel which frees the desired minerals from the waste gravel. The minerals are then concentrated using sluices or jigs. [ citation needed ] Large drills are used to sink shafts, excavate stopes, and obtain samples for analysis. Trams are used to transport miners, minerals and waste. Lifts carry miners into and out of mines, and move rock and ore out, and machinery in and out, of underground mines. Huge trucks, shovels and cranes are employed in surface mining to move large quantities of overburden and ore. Processing plants use large crushers, mills, reactors, roasters and other equipment to consolidate the mineral-rich material and extract the desired compounds and metals from the ore. [54]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bagger-garzweiler.jpg/300px-Bagger-garzweiler.jpg",
+                "caption": "The Bagger 288 is a bucket-wheel excavator used in strip mining . It is also one of the largest land vehicles of all time."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Coal_Haul_Truck_at_North_Antelope_Rochelle.png/220px-Coal_Haul_Truck_at_North_Antelope_Rochelle.png",
+                "caption": "A Bucyrus Erie 2570 dragline and CAT 797 haul truck at the North Antelope Rochelle opencut coal mine"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Environmental regulation",
+        "text": "Countries with strongly enforced mining regulations commonly require environmental impact assessment , development of environmental management plans, and mine closure planning prior beginning mine operations. Environmental monitoring during operation and after closure may also be required. Government regulations may not be well enforced, especially in the developing world. [40] For major mining companies and any company seeking international financing, there are a number of other mechanisms to enforce environmental standards. These generally relate to financing standards such as the Equator Principles , IFC environmental standards, and criteria for Socially responsible investing . Mining companies have used this oversight from the financial sector to argue for some level of industry self-regulation . [64] In 1992, a Draft Code of Conduct for Transnational Corporations was proposed at the Rio Earth Summit by the UN Centre for Transnational Corporations (UNCTC), but the Business Council for Sustainable Development (BCSD) together with the International Chamber of Commerce (ICC) argued successfully for self-regulation instead. [65] This was followed by the Global Mining Initiative which was begun by nine of the largest metals and mining companies and which led to the formation of the International Council on Mining and Metals , whose purpose was to \"act as a catalyst\" in an effort to improve social and environmental performance in the mining and metals industry internationally. [64] The mining industry has provided funding to various conservation groups, some of which have been working with conservation agendas that are at odds with an emerging acceptance of the rights of indigenous people – particularly the right to make land-use decisions. [66] Certification of mines with good practices occurs through the International Organization for Standardization (ISO). For example, ISO 9000 and ISO 14001 , which certify an \"auditable environmental management system\", involve short inspections, although they have been accused of lacking rigor. [ clarification needed ] [64] : 183–84 Certification is also available through Ceres ' Global Reporting Initiative , but these reports are voluntary and unverified. Miscellaneous other certification programs exist for various projects, typically through nonprofit groups. [64] : 185–86 The purpose of a 2012 EPS PEAKS paper [67] was to provide evidence on policies managing ecological costs and maximize socio-economic benefits of mining using host country regulatory initiatives. It found existing literature suggesting donors encourage developing countries to:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Iron_hydroxide_precipitate_in_stream.jpg/170px-Iron_hydroxide_precipitate_in_stream.jpg",
+                "caption": "Iron hydroxide precipitate stains a stream receiving acid drainage from surface coal mining."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Waste",
+        "text": "Ore mills generate large amounts of waste, called tailings . [68] For example, 99 tons of waste is generated per ton of copper , with even higher ratios in gold mining – because only 5.3 g of gold is extracted per ton of ore, a ton of gold produces 200,000 tons of tailings. [69] (As time goes on and richer deposits are exhausted – and technology improves – this number is going down to .5 g and less.) These tailings can be toxic. Tailings, which are usually produced as a slurry , are most commonly dumped into ponds made from naturally existing valleys. [70] These ponds are secured by impoundments ( dams or embankment dams ). [70] In 2000 it was estimated that 3,500 tailings impoundments existed, and that every year, 2 to 5 major failures and 35 minor failures occurred. [71] For example, in the Marcopper mining disaster at least 2 million tons of tailings were released into a local river. [71] In 2015, Barrick Gold Corporation spilled over 1 million liters of cyanide into a total of five rivers in Argentina near their Veladero mine . [72] Since 2007 in central Finland, the Talvivaara Terrafame polymetal mine's waste effluent and leaks of saline mine water have resulted in ecological collapse of a nearby lake. [73] Subaqueous tailings disposal is another option. [70] The mining industry has argued that submarine tailings disposal (STD), which disposes of tailings in the sea, is ideal because it avoids the risks of tailings ponds. The practice is illegal in the United States and Canada , but it is used in the developing world. [74] The waste is classified as either sterile or mineralized, with acid generating potential, and the movement and storage of this material form a major part of the mine planning process. When the mineralised package is determined by an economic cut-off, the near-grade mineralised waste is usually dumped separately with view to later treatment should market conditions change and it becomes economically viable. Civil engineering design parameters are used in the design of the waste dumps, and special conditions apply to high-rainfall areas and to seismically active areas. Waste dump designs must meet all regulatory requirements of the country in whose jurisdiction the mine is located. It is also common practice to rehabilitate dumps to an internationally acceptable standard, which in some cases means that higher standards than the local regulatory standard are applied. [71]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Teghut_Mine_-_waste_rock_storage.jpg/220px-Teghut_Mine_-_waste_rock_storage.jpg",
+                "caption": "Location of waste rock storage (center) at Teghut (village) Copper-Molybdenum Mine in Armenia 's northern Lori province"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Industry",
+        "text": "Mining exists in many countries. London is the headquarters for large miners such as Anglo American , BHP and Rio Tinto . [75] The US mining industry is also large, but it is dominated by extraction of coal and other nonmetal minerals (e.g., rock and sand), and various regulations have worked to reduce the significance of mining in the United States. [75] In 2007, the total market capitalization of mining companies was reported at US$962 billion, which compares to a total global market cap of publicly traded companies of about US$50 trillion in 2007. [76] In 2002, Chile and Peru were reportedly the major mining countries of South America . [77] The mineral industry of Africa includes the mining of various minerals; it produces relatively little of the industrial metals copper , lead , and zinc , but according to one estimate has as a percent of world reserves 40% of gold , 60% of cobalt , and 90% of the world's platinum group metals. [78] Mining in India is a significant part of that country's economy. In the developed world, mining in Australia , with BHP founded and headquartered in the country, and mining in Canada are particularly significant. For rare earth minerals mining, China reportedly controlled 95% of production in 2013. [79] While exploration and mining can be conducted by individual entrepreneurs or small businesses, most modern-day mines are large enterprises requiring large amounts of capital to establish. Consequently, the mining sector of the industry is dominated by large, often multinational, companies, most of them publicly listed . It can be argued that what is referred to as the 'mining industry' is actually two sectors, one specializing in exploration for new resources and the other in mining those resources. The exploration sector is typically made up of individuals and small mineral resource companies, called \"juniors\", which are dependent on venture capital . The mining sector is made up of large multinational companies that are sustained by production from their mining operations. Various other industries such as equipment manufacture, environmental testing, and metallurgy analysis rely on, and support, the mining industry throughout the world. Canadian stock exchanges have a particular focus on mining companies, particularly junior exploration companies through Toronto's TSX Venture Exchange ; Canadian companies raise capital on these exchanges and then invest the money in exploration globally. [75] Some have argued that below juniors there exists a substantial sector of illegitimate companies primarily focused on manipulating stock prices. [75] Mining operations can be grouped into five major categories in terms of their respective resources. These are oil and gas extraction , coal mining , metal ore mining, nonmetallic mineral mining and quarrying, and mining support activities. [80] Of all of these categories, oil and gas extraction remains one of the largest in terms of its global economic importance. Prospecting potential mining sites, a vital area of concern for the mining industry, is now done using sophisticated new technologies such as seismic prospecting and remote-sensing satellites . Mining is heavily affected by the prices of the commodity minerals, which are often volatile. The 2000s commodities boom (\"commodities supercycle\") increased the prices of commodities, driving aggressive mining. In addition, the price of gold increased dramatically in the 2000s, which increased gold mining ; for example, one study found that conversion of forest in the Amazon increased six-fold from the period 2003–2006 (292 ha/yr) to the period 2006–2009 (1,915 ha/yr), largely due to artisanal mining. [81]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Siilinj%C3%A4rvi_S%C3%A4rkij%C3%A4rvi_pit.jpg/220px-Siilinj%C3%A4rvi_S%C3%A4rkij%C3%A4rvi_pit.jpg",
+                "caption": "The Särkijärvi pit of the apatite mine in Siilinjärvi , Finland"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bingham_Canyon_April_2005.jpg/220px-Bingham_Canyon_April_2005.jpg",
+                "caption": "The Bingham Canyon Mine of Rio Tinto's subsidiary, Kennecott Utah Copper"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Regulation and governance",
+        "text": "New regulations and a process of legislative reforms aim to improve the harmonization and stability of the mining sector in mineral-rich countries. [83] New legislation for mining industry in African countries still appears to be an issue, but has the potential to be solved, when a consensus is reached on the best approach. [84] By the beginning of the 21st century, the booming and increasingly complex mining sector in mineral-rich countries was providing only slight benefits to local communities, especially in given the sustainability issues. Increasing debate and influence by NGOs and local communities called for new approaches which would also include disadvantaged communities, and work towards sustainable development even after mine closure (including transparency and revenue management). By the early 2000s, community development issues and resettlements became mainstream concerns in World Bank mining projects. [84] Mining-industry expansion after mineral prices increased in 2003 and also potential fiscal revenues in those countries created an omission in the other economic sectors in terms of finances and development. Furthermore, this highlighted regional and local demand for mining revenues and an inability of sub-national governments to effectively use the revenues. The Fraser Institute (a Canadian think tank) has highlighted [ clarification needed ] the environmental protection laws in developing countries, as well as voluntary efforts by mining companies to improve their environmental impact. [85] In 2007, the Extractive Industries Transparency Initiative (EITI) was mainstreamed [ clarification needed ] in all countries cooperating with the World Bank in mining industry reform. [84] The EITI operates and was implemented with the support of the EITI multi-donor trust fund, managed by the World Bank. [86] The EITI aims to increase transparency in transactions between governments and companies in extractive industries [87] by monitoring the revenues and benefits between industries and recipient governments. The entrance process is voluntary for each country and is monitored by multiple stakeholders including governments, private companies and civil society representatives, responsible for disclosure and dissemination of the reconciliation report; [84] however, the competitive disadvantage of company-by-company public report is for some of the businesses in Ghana at least, the main constraint. [88] Therefore, the outcome assessment in terms of failure or success of the new EITI regulation does not only \"rest on the government's shoulders\" but also on civil society and companies. [89] However, implementation has issues; inclusion or exclusion of artisanal mining and small-scale mining (ASM) from the EITI and how to deal with \"non-cash\" payments made by companies to subnational governments. Furthermore, the disproportionate revenues the mining industry can bring to the comparatively small number of people that it employs, [90] causes other problems, like a lack of investment in other less lucrative sectors, leading to swings in government revenue because of volatility in the oil markets. Artisanal mining is clearly an issue in EITI Countries such as the Central African Republic, D.R. Congo, Guinea, Liberia and Sierra Leone – i.e. almost half of the mining countries implementing the EITI. [90] Among other things, limited scope of the EITI involving disparity in terms of knowledge of the industry and negotiation skills, thus far flexibility of the policy (e.g. liberty of the countries to expand beyond the minimum requirements and adapt it to their needs), creates another risk of unsuccessful implementation. Public awareness increase, where government should act as a bridge between public and initiative for a successful outcome of the policy is an important element to be considered. [91]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EITI_Global_Conference_2016.jpg/220px-EITI_Global_Conference_2016.jpg",
+                "caption": "EITI Global Conference 2016"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "World Bank",
+        "text": "The World Bank has been involved in mining since 1955, mainly through grants from its International Bank for Reconstruction and Development , with the Bank's Multilateral Investment Guarantee Agency offering political risk insurance. [92] Between 1955 and 1990 it provided about $2 billion to fifty mining projects, broadly categorized as reform and rehabilitation, greenfield mine construction, mineral processing, technical assistance, and engineering. These projects have been criticized, particularly the Ferro Carajas project of Brazil, begun in 1981. [93] The World Bank established mining codes intended to increase foreign investment; in 1988, it solicited feedback from 45 mining companies on how to increase their involvement. [64] : 20 In 1992, the World Bank began to push for privatization of government-owned mining companies with a new set of codes, beginning with its report The Strategy for African Mining . In 1997, Latin America's largest miner Companhia Vale do Rio Doce (CVRD) was privatized. These and other developments, such as the Philippines 1995 Mining Act, led the bank to publish a third report ( Assistance for Minerals Sector Development and Reform in Member Countries ) which endorsed mandatory environment impact assessments and attention to the concerns of the local population. The codes based on this report are influential in the legislation of developing nations. The new codes are intended to encourage development through tax holidays, zero custom duties, reduced income taxes, and related measures. [64] : 22 The results of these codes were analyzed by a group from the University of Quebec, which concluded that the codes promote foreign investment but \"fall very short of permitting sustainable development\". [94] The observed negative correlation between natural resources and economic development is known as the resource curse . [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/World_Bank_logo.svg/170px-World_Bank_logo.svg.png",
+                "caption": "World Bank logo"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Safety",
+        "text": "Safety has long been a concern in the mining business, especially in sub-surface mining. The Courrières mine disaster , Europe's worst mining accident , involved the death of 1,099 miners in Northern France on March 10, 1906. This disaster was surpassed only by the Benxihu Colliery accident in China on April 26, 1942, which killed 1,549 miners. [95] While mining today is substantially safer than it was in previous decades, mining accidents still occur. Government figures indicate that 5,000 Chinese miners die in accidents each year, while other reports have suggested a figure as high as 20,000. [96] Between 1870 and 1920, in Queensland Australia, an increase in mining accidents lead to more safety measures surrounding the use of explosives for mining. [97] Mining accidents continue worldwide, including accidents causing dozens of fatalities at a time such as the 2007 Ulyanovskaya Mine disaster in Russia, the 2009 Heilongjiang mine explosion in China, and the 2010 Upper Big Branch Mine disaster in the United States. Mining has been identified by the National Institute for Occupational Safety and Health (NIOSH) as a priority industry sector in the National Occupational Research Agenda (NORA) to identify and provide intervention strategies regarding occupational health and safety issues. [98] The Mining Safety and Health Administration (MSHA) was established in 1978 to \"work to prevent death, illness, and injury from mining and promote safe and healthful workplaces for US miners.\" [99] Since its implementation in 1978, the number of miner fatalities has decreased from 242 miners in 1978 to 24 miners in 2019. [ citation needed ] There are numerous occupational hazards associated with mining, including exposure to rockdust which can lead to diseases such as silicosis , asbestosis , and pneumoconiosis . Gases in the mine can lead to asphyxiation and could also be ignited. Mining equipment can generate considerable noise, putting workers at risk for hearing loss . Cave-ins , rock falls , and exposure to excess heat are also known hazards. The current NIOSH Recommended Exposure Limit (REL) of noise is 85 dBA with a 3 dBA exchange rate and the MSHA Permissible Exposure Limit (PEL) is 90 dBA with a 5 dBA exchange rate as an 8-hour time-weighted average. NIOSH has found that 25% of noise-exposed workers in Mining, Quarrying, and Oil and Gas Extraction have hearing impairment. [100] The prevalence of hearing loss increased by 1% from 1991 to 2001 within these workers. [ citation needed ] Noise studies have been conducted in several mining environments. Stageloaders (84-102 dBA), shearers (85-99 dBA), auxiliary fans (84–120 dBA), continuous mining machines (78–109 dBA), and roof bolters (92–103 dBA) represent some of the noisiest equipment in underground coal mines . [101] Dragline oilers, dozer operators, and welders using air arcing were occupations with the highest noise exposures among surface coal miners. [102] Coal mines had the highest hearing loss injury likelihood. [103]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Transporte_por_cable_de_minerales%2C_Devnya%2C_Bulgaria%2C_2016-05-27%2C_DD_65.jpg/220px-Transporte_por_cable_de_minerales%2C_Devnya%2C_Bulgaria%2C_2016-05-27%2C_DD_65.jpg",
+                "caption": "Mining transport in Devnya, Bulgaria"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Coal_miner_spraying_rock_dust.jpg/220px-Coal_miner_spraying_rock_dust.jpg",
+                "caption": "A coal miner in West Virginia spraying rockdust to reduce the combustible fraction of coal dust in the air"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Child labor",
+        "text": "Included within the human rights abuses that occur during mining processes are instances of child labor . These instances are a cause for widespread criticism of mining cobalt , a mineral essential for powering modern technologies such as laptops , smartphones and electric vehicles . Many of these cases of child laborers are found in the Democratic Republic of Congo . Reports have risen of children carrying sacks of cobalt weighing 25 kg from small mines to local traders [106] being paid for their work only in food and accommodation. A number of companies such as Apple , Google , Microsoft and Tesla have been implicated in lawsuits brought by families whose children were severely injured or killed during mining activities in Congo. [107] In December 2019, 14 Congolese families filed a lawsuit against Glencore , a mining company which supplies the essential cobalt to these multinational corporations with allegations of negligence that led to the deaths of children or injuries such as broken spines, emotional distress and forced labor. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Breaker_Boys_1.jpg/220px-Breaker_Boys_1.jpg",
+                "caption": "Breaker boys : child workers who broke down coal at a mine in South Pittston , Pennsylvania , United States in the early 20th century"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Records",
+        "text": "As of 2019, Mponeng is the world's deepest mine from ground level, reaching a depth of 4 km (2.5 mi) below ground level. The trip from the surface to the bottom of the mine takes over an hour. It is a gold mine in South Africa 's Gauteng province. Previously known as Western Deep Levels #1 Shaft, the underground and surface works were commissioned in 1987. The mine is considered to be one of the most substantial gold mines in the world. The Moab Khutsong gold mine in North West Province (South Africa) has the world's longest winding steel wire rope, which is able to lower workers to 3,054 metres (10,020 ft) in one uninterrupted four-minute journey. [114] The deepest mine in Europe is the 16th shaft of the uranium mines in Příbram , Czech Republic , at 1,838 metres (6,030 ft). [115] Second is Bergwerk Saar in Saarland , Germany , at 1,750 metres (5,740 ft). [ citation needed ] The deepest open-pit mine in the world is Bingham Canyon Mine in Bingham Canyon , Utah , United States , at over 1,200 metres (3,900 ft). The largest and second deepest open-pit copper mine in the world is Chuquicamata in northern Chile at 900 metres (3,000 ft), which annually produces 443,000 tons of copper and 20,000 tons of molybdenum. [116] [117] [118] The deepest open-pit mine with respect to sea level is Tagebau Hambach in Germany, where the base of the pit is 299 metres (981 ft) below sea level. [119] The largest underground mine is Kiirunavaara Mine in Kiruna , Sweden . With 450 kilometres (280 mi) of roads, 40 million tonnes of annually produced ore, and a depth of 1,270 metres (4,170 ft), it is also one of the most modern underground mines. The deepest borehole in the world is Kola Superdeep Borehole at 12,262 metres (40,230 ft), but this is connected to scientific drilling , not mining. [120]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Chuquicamata-002.jpg/220px-Chuquicamata-002.jpg",
+                "caption": "Chuquicamata , Chile , site of the largest circumference and second deepest open pit copper mine in the world"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Metal reserves and recycling",
+        "text": "During the 20th century, the variety of metals used in society grew rapidly. Today, the development of major nations such as China and India and advances in technologies are fueling an ever-greater demand. The result is that metal mining activities are expanding and more and more of the world's metal stocks are above ground in use rather than below ground as unused reserves. An example is the in-use stock of copper . Between 1932 and 1999, copper in use in the US rose from 73 kilograms (161 lb) to 238 kilograms (525 lb) per person. [121] 95% of the energy used to make aluminium from bauxite ore is saved by using recycled material. [122] However, levels of metals recycling are generally low. In 2010, the International Resource Panel , hosted by the United Nations Environment Programme (UNEP), published reports on metal stocks that exist within society [123] and their recycling rates. [121] The report's authors observed that the metal stocks in society can serve as huge anthropogenic mines above ground. [123] However, they warned that the recycling rates of some rare metals used in applications such as mobile phones, battery packs for hybrid cars, and fuel cells are so low that unless future end-of-life recycling rates are dramatically stepped up these critical metals will become unavailable for use in modern technology. [ citation needed ] As recycling rates are low and so much metal has already been extracted, some landfills now contain higher concentrations of metal than mines themselves. [124] This is especially true of aluminum , used in cans, and precious metals , found in discarded electronics. [125] Furthermore, waste after 15 years has still not broken down, so less processing would be required when compared to mining ores. A study undertaken by Cranfield University has found £360 million of metals could be mined from just four landfill sites. [126] There is also up to 20 MJ/kg of energy in waste, potentially making the re-extraction more profitable. [127] However, although the first landfill mine opened in Tel Aviv , Israel in 1953, little work has followed due to the abundance of accessible ores. [128]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NatCopper.jpg/220px-NatCopper.jpg",
+                "caption": "Macro of native copper about 1 + 1 ⁄ 2 inches (4 cm) in size"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pyhasalmi_mine.jpg/220px-Pyhasalmi_mine.jpg",
+                "caption": "The Pyhäsalmi Mine , a metal mine in Pyhäjärvi , Finland"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Abandoned_Metal_Recycling_Plant.png/220px-Abandoned_Metal_Recycling_Plant.png",
+                "caption": "A metal recycling plant in South Carolina that has been abandoned for years"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Pyrometallurgy",
+        "text": "Pyrometallurgy involves high temperature processes where chemical reactions take place among gases, solids, and molten materials.  Solids containing valuable metals are treated to form intermediate compounds for further processing or converted into their elemental or metallic state.  Pyrometallurgical processes that involve gases and solids are typified by calcining and roasting operations.  Processes that produce molten products are collectively referred to as smelting operations.  The energy required to sustain the high temperature pyrometallurgical processes may derive from the exothermic nature of the chemical reactions taking place.  Typically, these reactions are oxidation, e.g. of sulfide to sulfur dioxide .  Often, however, energy must be added to the process by combustion of fuel or, in the case of some smelting processes, by the direct application of electrical energy. Ellingham diagrams are a useful way of analysing the possible reactions, and so predicting their outcome.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ellingham-Richardson.svg/220px-Ellingham-Richardson.svg.png",
+                "caption": "Ellingham diagram for high temperature oxidation"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Extractive_metallurgy",
+        "title": "Extractive metallurgy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Hard rock mining",
+        "text": "Hard rock mining extracts gold encased in rock, rather than fragments in loose sediment, and produces most of the world's gold. Sometimes open-pit mining is used, such as at the Fort Knox Mine in central Alaska. Barrick Gold Corporation has one of the largest open-pit gold mines in North America located on its Goldstrike mine property in north eastern Nevada. Other gold mines use underground mining, where the ore is extracted through tunnels or shafts. South Africa has the world's deepest hard rock gold mine up to 3,900 metres (12,800 ft) underground. At such depths, the heat is unbearable for humans, and air conditioning is required for the safety of the workers. The first such mine to receive air conditioning was Robinson Deep , at that time the deepest mine in the world for any mineral. [40]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Associated_Gold_Mine_Kalgoorlie_1951.jpg/220px-Associated_Gold_Mine_Kalgoorlie_1951.jpg",
+                "caption": "Hard rock mining at the Associated Gold Mine , Kalgoorlie , Australia, 1951"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kittil%C3%A4_mine.jpg/220px-Kittil%C3%A4_mine.jpg",
+                "caption": "A large open-pit gold mine in Kittilä, Finland , in 2017"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Miner_Emerging_From_Tunnel.jpg/220px-Miner_Emerging_From_Tunnel.jpg",
+                "caption": "Gold mining in Coromandel Peninsula , New Zealand, in the 1890s"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gold_mining",
+        "title": "Gold mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Sluicing",
+        "text": "Using a sluice box to extract gold from placer deposits has long been a very common practice in prospecting and small-scale mining. Sluices work on the principle that heavier particles will sink to the bottom of a stream, while those that are lighter will be carried downstream and expelled. [46] [47] A sluice box is essentially a man made channel with riffles set in the bottom. The riffles are designed to create dead zones in the current to allow gold to drop out of suspension. [46] [47] The box is placed in the stream to channel water flow. Gold-bearing material is placed at the top of the box. The material is carried by the current through the volt where gold and other dense material settles out behind the riffles. Less dense material flows out of the box as tailings . [46] [47] Larger commercial placer mining operations employ screening plants, or trommels , to remove the larger alluvial materials such as boulders and gravel, before concentrating the remainder in a sluice box or jig plant. [48] After the gold is sorted through trommels, it is then placed through regular sluice boxes for further sorting. [48] These operations typically include diesel powered, earth moving equipment including excavators, bulldozers, wheel loaders , and rock trucks.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gold_sluicing%2C_Dillman_Town%2C_West_Coast%2C_188-%3F.jpg/220px-Gold_sluicing%2C_Dillman_Town%2C_West_Coast%2C_188-%3F.jpg",
+                "caption": "Gold sluicing at Dilban Town, New Zealand, 1880s"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Taking_gold_out_of_a_sluice_box.jpg/220px-Taking_gold_out_of_a_sluice_box.jpg",
+                "caption": "Taking gold out of a sluice box, western North America, 1900s"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gold_mining",
+        "title": "Gold mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Dredging",
+        "text": "Although this method has largely been replaced by modern methods, some dredging is done by small-scale miners using suction dredges. These are small machines that float on the water and are usually operated by one or two people. A suction dredge consists of a sluice box supported by pontoons, attached to a suction hose which is controlled by a miner working beneath the water. This method is particularly popular in areas where gold is found at river bottoms or submerge deposits . [49] [50] Suction dredging can have environmental impacts, moreso on aquatic habitats and water quality. [51] Regulations and best practices are often in place to minimize these impacts. [51] State dredging permits in many of the United States gold dredging areas specify a seasonal time period and area closures to avoid conflicts between dredgers and the spawning time of fish populations. Some US states, such as Montana, require an extensive permitting procedure, including permits. Some large suction dredges [100 horsepower (75 kW) & 250 mm (10 in)] are used in commercial production throughout the world. Small suction dredges are much more efficient at extracting smaller gold than the old bucket line . This has improved the chances of finding gold. Smaller dredges with 50-to-100-millimetre (2 to 4 in) suction tubes are used to sample areas behind boulders and along potential pay streaks, until \"colour\" (gold) appears. Other larger scale dredging operations take place on exposed river gravel bars at seasonal low water. These operations typically use a land based excavator to feed a gravel screening plant and sluice box floating in a temporary pond. The pond is excavated in the gravel bar and filled from the natural water table. [46] \"Pay\" gravel is excavated from the front face of the pond and processed through the floating plant, with the gold trapped in the onboard sluice box and tailings stacked behind the plant, steadily filling in the back of the pond as the operation moves forward. [46] This type of gold mining is characterized by its low cost, as each rock is moved only once. It also has low environmental impact, as no stripping of vegetation or overburden is necessary, and all process water is fully recycled. Such operations are typical on New Zealand's South Island and in the Klondike region of Canada. [52]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Yankee_Fork_gold_dredge.jpg/220px-Yankee_Fork_gold_dredge.jpg",
+                "caption": "The Yankee Fork gold dredge in Idaho. It was powered by two 350 horse Ingersoll-Rand, 7 cylinder diesel engines, burning 400 to 500 gallons of fuel a day."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gold_mining",
+        "title": "Gold mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Rocker box",
+        "text": "Also called a cradle, a rocker box uses riffles located in a high-walled box to trap gold in a similar manner to the sluice box. A rocker box uses less water than a sluice box and is well suited for areas where water is limited. A rocking motion provides the water movement needed for the gravity separation of gold in placer material. [46] Rocker boxes gained popularity during the California Gold Rush in the 19th century and remain in use today. [46] [53] Although simple and inexpensive, it is not efficient as the previously discussed mining techniques . [54] [55]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Four_men_using_rocker_to_mine_for_gold_on_Nome_beach%2C_Alaska%2C_ca_1900_%28HEGG_542%29.jpeg/220px-Four_men_using_rocker_to_mine_for_gold_on_Nome_beach%2C_Alaska%2C_ca_1900_%28HEGG_542%29.jpeg",
+                "caption": "Four men using rocker boxes to mine for gold on Nome beach, Alaska."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gold_mining",
+        "title": "Gold mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Cyanide process",
+        "text": "The dominant method for refining gold is a cyanide extraction method, or gold cyanidation, introduced in the late 1800s. This a metallurgical technique used to extract gold from lower grade ores by converting gold into a water-soluble coordination complex. [56] [57] Finely ground rock is treated with a solution of sodium cyanide . The extract is absorbed onto carbon and then removed from the carbon with a solution of caustic soda and cyanide. Gold cyanide is then converted to relatively pure gold through gold parting . [56] [57] There are many environmental hazards associated with this extraction method, largely due to the high toxicity of the cyanide compounds. Furthermore, there are potentials for accidental spills or leaks to cause harm to aquatic ecosystems and human health. [58] [59] For example, in 2000, the Baia Mare cyanide spill in northern Romania released approximately 100,000 cubic metres (3,500,000 cu ft) of waste water contaminated with heavy metal sludge and up to 120 long tons (122 t) of cyanide into the Tisza River. [60]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gold_heap_leaching.jpeg/220px-Gold_heap_leaching.jpeg",
+                "caption": "Cyanide leaching \"heap\" at a gold mining operation near Elko, Nevada . On top of the large mounds of ore, are sprinklers dispensing a solution of cyanide."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gold_mining",
+        "title": "Gold mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Small operations",
+        "text": "While most gold is produced by major corporations, there are an estimated 10 to 15 million small-scale artisanal gold miners worldwide. Around 4.5 million of them are women, and an estimated 600,000 children work in illegal artisanal gold mines. Artisanal miners use rudimentary methods to extract and process gold. Many of these people are mining to escape extreme poverty , unemployment and landlessness . In Ghana, galamsey miners are estimated to number 20,000 to 50,000. [66] In neighboring francophone countries, such workers are called orpailleurs . In Brazil, Venezuela, Suriname, and French Guiana, workers are called garimpeiros . [67] [68] [69] These workers are not required to claim responsibility for their social and environmental impacts. [70] [71] Miners risk government persecution, mine shaft collapses, and toxic poisoning from unsafe chemicals used in processing, such as mercury. For example, in Ghana during 2009, the Dompoase mine collapse killed 18 workers. It was the worst mining disaster in Ghanaian history. [66] Children in these mines suffer extremely harsh working conditions and various hazards such as collapsing tunnels, explosions, and chemical exposure. Children may be especially vulnerable to these hazards and many suffer from serious respiratory conditions, hearing, and vision problems. [72]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Guinea_Siguiri_miner_woman.jpg/220px-Guinea_Siguiri_miner_woman.jpg",
+                "caption": "Woman panning for gold in Guinea"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Harold_with_old_bellows_1976.jpg/220px-Harold_with_old_bellows_1976.jpg",
+                "caption": "Old hand bellows on abandoned gold mine in western New South Wales , Australia"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Artisanal_gold_Dodoma003.jpg/220px-Artisanal_gold_Dodoma003.jpg",
+                "caption": "Artisanal subsurface mining in Tanzania"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gold_mining",
+        "title": "Gold mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Responses",
+        "text": "Human Rights Watch produced a report in 2015 that outlined some of challenges faced globally. The report notes that Fairtrade and Fairmined dual certification for gold was launched across the United Kingdom on 14 February 2011, [113] a joint scheme between The Fairtrade Foundation and The Association for Responsible Mining . The Fairmined mark ensures that the gold has been extracted in a fair and responsible manner. A UN investigation reported human rights abuses such as sexual exploitation of women and children, mercury poisoning , and child labor affecting communities where illegal gold production occurs. The reports said global buyers such as Switzerland , through which roughly two-thirds of global trade transits, need to ensure that human rights are respected throughout supply chains. [114] The \"No Dirty Gold\" campaign, working with a number of campaigning partners, was established in 2004 and aims \"to ensure that gold mining operations respect human rights and the environment\" through a call for changes in gold mining techniques and processes. [115] [116] The impacts of mining on the environment are long-lasting, and active land management and restoration are needed to ensure recovery. [117] A barrier to the restoration of environments is cost. Limited funding is a major barrier in implementing commitments. [118] Restoration costs vary widely between difference approaches, such as passive and active restoration. [119] [120] Additionally, governments have started to promote the formalization of gold mining. [121] This formalization puts the government in a better position to govern the sectors, manage environmental impacts, and direct mining away from ecologically sensitive areas. [121] [122]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Lone_Tree_Gold_Mine_From_The_California_Zephyr_-_panoramio.jpg/220px-Lone_Tree_Gold_Mine_From_The_California_Zephyr_-_panoramio.jpg",
+                "caption": "Lone Tree gold mine taken from the California Zephyr train; showing the extent of deforestation."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Top_5_Gold_Producers.png/220px-Top_5_Gold_Producers.png",
+                "caption": "Trends in the top five gold-producing countries"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/World_Gold_Production_1900-2014.png/220px-World_Gold_Production_1900-2014.png",
+                "caption": "World mined gold production, 1900–2014. Data from USGS"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gold_mining",
+        "title": "Gold mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Chemical reactions",
+        "text": "The chemical reaction for the dissolution of gold, the \"Elsner equation\", follows: Potassium cyanide and calcium cyanide are sometimes used in place of sodium cyanide. Gold is one of the few metals that dissolves in the presence of cyanide ions and oxygen. The soluble gold species is dicyanoaurate . [13] from which it can be recovered by adsorption onto activated carbon. [14]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dicyanoaurate%28I%29-3D-balls.png/220px-Dicyanoaurate%28I%29-3D-balls.png",
+                "caption": "Ball-and-stick model of the aurocyanide or dicyanoaurate(I) complex anion, [Au(CN) 2 ] − [12]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gold_heap_leaching.jpeg/220px-Gold_heap_leaching.jpeg",
+                "caption": "Cyanide leaching \"heap\" at a gold mining operation near Elko, Nevada"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gold_cyanidation",
+        "title": "Gold cyanidation",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Effects on the environment",
+        "text": "Despite being used in 90% of gold production: [19] gold cyanidation is controversial due to the toxic nature of cyanide. Although aqueous solutions of cyanide degrade rapidly in sunlight, the less-toxic products, such as cyanates and thiocyanates, may persist for some years. The famous disasters have killed few people — humans can be warned not to drink or go near polluted water, but cyanide spills can have a devastating effect on rivers, sometimes killing everything for several miles downstream. The cyanide is soon washed out of river systems and, as long as organisms can migrate from unpolluted areas upstream, affected areas can soon be repopulated. According to Romanian authorities, in the Someș river below Baia Mare , the plankton returned to 60% of normal within 16 days of the spill; the numbers were not confirmed by Hungary or Yugoslavia. [16] Famous cyanide spills include: Such spills have prompted fierce protests at new mines that involve use of cyanide, such as Roşia Montană in Romania, Lake Cowal in Australia, Pascua Lama in Chile, and Bukit Koman in Malaysia.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Chemung_mine-sodium_cyanide.jpeg/220px-Chemung_mine-sodium_cyanide.jpeg",
+                "caption": "Sodium cyanide drum at the abandoned Chemung Mine in Masonic, California"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gold_cyanidation",
+        "title": "Gold cyanidation",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Concentration (beneficiation)",
+        "text": "The average grade of copper ores in the 21st century is below 0.6% copper, with a proportion of economic ore minerals being less than 2% of the total volume of the ore rock. Thus, all mining operations, the ore must usually be beneficiated (concentrated). The concentrate is typically sold to distant smelters , although some large mines have smelters located nearby. Such colocation of mines and smelters was more typical in the 19th and early 20th centuries, when smaller smelters could be economic. The subsequent processing techniques depend on the nature of the ore. In the usual case when it is primarily sulfide copper minerals (such as chalcopyrite , FeCuS 2 ), the ore is treated by comminution , where the rock is crushed to produce small particles (<100 μm) consisting of individual mineral phases. These particles are then ready to be separated to remove gangue (silicate rocks residues) using froth flotation. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Evolution_minerai_cuivre.svg/300px-Evolution_minerai_cuivre.svg.png",
+                "caption": "The decreasing concentration of copper in ores now requires pre-treatment of ores."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Copper_extraction",
+        "title": "Copper extraction",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Froth flotation",
+        "text": "In froth flotation, the crushed ore is wetted, suspended in a slurry, and mixed with reagents that render the sulfide particles hydrophobic . Typical reagents (\"collectors\") include potassium ethylxanthate and sodium ethylxanthate , but dithiophosphates and dithiocarbamates are also used. The slurry is introduced to a water-filled aeration tank containing a surfactant such as methylisobutyl carbinol (MIBC). Air is constantly forced through the slurry. The air bubbles attach to the hydrophobic copper sulfide particles, which are conveyed to the surface where the froth is skimmed off. These skimmings are generally subjected to a cleaner-scavenger cell to remove excess silicates and to remove other sulfide minerals that can deleteriously impact the concentrate quality (typically, galena ), and the final concentrate sent for smelting. The rock that has not floated off in the flotation cell is either discarded as tailings or further processed to extract other metals such as lead (from galena) and zinc (from sphalerite ), should they exist. A variety of measures are taken to improve the efficiency of the froth flotation. Lime is used to raise the pH of the water bath, causing the collector to bond more efficiently to the copper sulfides. The process can produce a concentrates with 27–29% and 37–40% copper contents from chalcopyrite and chalcocite , respectively.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FlotationFalconbridgeOnt.jpg/220px-FlotationFalconbridgeOnt.jpg",
+                "caption": "Froth flotation cells to concentrate copper and nickel sulfide minerals, Falconbridge, Ontario."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Prominenthill-flotation.jpg/220px-Prominenthill-flotation.jpg",
+                "caption": "Copper sulfide loaded air bubbles on a Jameson Cell at the flotation plant of the Prominent Hill mine in South Australia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Copper_extraction",
+        "title": "Copper extraction",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Hydrometallurgy",
+        "text": "Oxidised copper ores include carbonates such as azurite and malachite , the silicate chrysocolla , and sulfates such as atacamite . In some cases, sulfide ores are allowed to degrade to oxides. Such ores are amenable to hydrometallurgy. Specifically, such oxide ores are usually extracted into aqueous sulfuric acid , usually in a heap leaching or dump leaching . The resulting pregnant leach solution is purified by solvent extraction (SX). It is treated with an organic solvent and an organic chelators. The chelators bind the copper ions (and no other ions, ideally), the resulting complexes dissolve in the organic phase. This organic solvent is evaporated, leaving a residue of the copper complexes. The copper ions are liberated from the residue with sulfuric acid. The barred (denuded) sulfuric acid recycled back on to the heaps. The organic ligands are recovered and recycled as well. Alternatively, the copper can be precipitated out of the pregnant solution by contacting it with scrap iron; a process called cementation . Cement copper is normally less pure than SX-EW copper. [16]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cu%28Salox%292.png/170px-Cu%28Salox%292.png",
+                "caption": "In some hydrometallurgical schemes, copper(II) is extracted from aqueous solution as by complexation to salicylaldoxime ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Copper_extraction",
+        "title": "Copper extraction",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Specialized ores",
+        "text": "Secondary sulfides—those formed by supergene secondary enrichment—are resistant ( refractory ) to sulfuric leaching. [17] Secondary copper sulfides are dominated by the mineral chalcocite; a mineral formed from primary sulfides, like chalcopyrite , that undergo chemical processes such as oxidation or reduction. [18] Typically, secondary sulfide ores are concentrated using froth flotation. [19] Other extraction processes like leaching are effectively used for the extraction of secondary copper sulfides, but as demand for copper rises, extraction processes tailored for low-grade ores are required, due to the depletion of copper resources. [20] Processes including in situ, dump, and heap leaching are cost-effective methods that are suitable for extracting copper from low-grade ores. [21] Extraction processes for secondary copper sulfides and low-grade ores includes the process of heap bioleaching. Heap bioleaching presents a cost efficient extraction method that requires a less intensive energy input resulting in a higher profit. [22] This extraction process can be applied to large quantities of low-grade ores, at a lower capital cost with minimal environmental impact. [22] [23] Generally, direct froth flotation is not used to concentrate copper oxide ores, as a result of the largely ionic and hydrophilic structure of the copper oxide mineral surface. [24] Copper oxide ores are typically treated via chelating-reagent flotation and fatty-acid flotation, which use organic reagents to ensure adsorption onto the mineral surface through the formation of hydrophobic compounds on the mineral surface. [24] [25] Some supergene sulfide deposits can be leached using a bacterial oxidation heap leach process to oxidize the sulfides to sulfuric acid, which also allows for simultaneous leaching with sulfuric acid to produce a copper sulfate solution. [26] [27] For oxide ores, solvent extraction and electrowinning technologies are used to recover the copper from the pregnant leach solution . [28] To ensure the best recovery of copper, it is important to acknowledge the effect copper dissolution, acid consumption, and gangue mineral composition has on the efficacy of extraction. [28] Supergene sulfide ores rich in native copper are refractory to treatment with sulfuric acid leaching on all practicable time scales, and the dense metal particles do not react with froth flotation media. Typically, if native copper is a minor part of a supergene profile it will not be recovered and will report to the tailings . When rich enough, native copper ore bodies may be treated to recover the contained copper by gravity separation . Often, the nature of the gangue is important, as clay-rich native copper ores prove difficult to liberate. This is because clay minerals interact with flotation reagents used in extraction processes, that are then consumed, which results in minimal recovery of a high grade copper concentrate. [29]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Chalcocite-271692.jpg/220px-Chalcocite-271692.jpg",
+                "caption": "A specimen of the mineral chalcocite from the Geevor Mine, Cornwall."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Copper_extraction",
+        "title": "Copper extraction",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Smelting",
+        "text": "The initial melting of the material to be smelted is usually referred to as the smelting or matte smelting stage. It can be undertaken in a variety of furnaces, including the largely obsolete blast furnaces and reverberatory furnaces , as well as flash furnaces , Isasmelt furnaces, etc. The product of this smelting stage is a mixture of copper, iron and sulfur that is enriched in copper, which is called matte or copper matte . [8] The term matte grade is normally used to refer to the copper content of the matte. [32] The purpose of the matte smelting stage is to eliminate as much of the unwanted iron, sulfur and gangue minerals (such as silica, magnesia, alumina and limestone) as possible, while minimizing the loss of copper. [8] This is achieved by reacting iron sulfides with oxygen (in air or oxygen enriched air) to produce iron oxides (mainly as FeO , but with some magnetite (Fe 3 O 4 )) and sulfur dioxide . [32] Copper sulfide and iron oxide can mix, but when sufficient silica is added, a separate slag layer is formed. [33] Adding silica also reduces the melting point (or, more properly, the liquidus temperature) of the slag, meaning that the smelting process can be operated at a lower temperature. [33] The slag forming reaction is: Slag is less dense than matte, so it forms a layer that floats on top of the matte. [34] Copper can be lost from the matte in three ways: as cuprous oxide (Cu 2 O) dissolved in the slag, [35] as sulfide copper dissolved in the slag [36] or as tiny droplets (or prills ) of matte suspended in the slag. [37] [38] The amount of copper lost as oxide copper increases as the oxygen potential of the slag increases. [38] The oxygen potential generally increases as the copper content of the matte is increased. [39] Thus, the loss of copper as oxide increases as the copper content of the matte increases. [40] On the other hand, the solubility of sulfidic copper in slag decreases as the copper content of the matte increases beyond about 40%. [36] Nagamori calculated that more than half the copper dissolved in slags from mattes containing less than 50% copper is sulfidic copper. Above this figure, oxidic copper begins to dominate. [36] The loss of copper as prills suspended in the slag depends on the size of the prills, the viscosity of the slag and the settling time available. [41] Rosenqvist suggested that about half the copper losses to slag were due to suspended prills. [41] The mass of slag generated in the smelting stage depends on the iron content of the material fed into the smelting furnace and the target matte grade. The greater the iron content of the feed, the more iron that will need to be rejected to the slag for a given matte grade. Similarly, increasing the target matte grade requires the rejection of more iron and an increase in the slag volume. Thus, the two factors that most affect the loss of copper to slag in the smelting stage are: This means that there is a practical limit on how high the matte grade can be if the loss of copper to slag is to be minimized. Therefore, further stages of processing (converting and fire refining) are required. The following subsections briefly describe some of the processes used in matte smelting.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Evolution_copper_smelting.svg/300px-Evolution_copper_smelting.svg.png",
+                "caption": "Replacement of reverberatory furnace smelting by flash smelting, related to the number of copper smelters using this technology."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Inco_flash_smelting_furnace.png/220px-Inco_flash_smelting_furnace.png",
+                "caption": "Flash smelting furnace from Inco."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Copper_extraction",
+        "title": "Copper extraction",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Converting",
+        "text": "The matte, which is produced in the smelter, contains 30–70% copper (depending on the process used and the operating philosophy of the smelter), primarily as copper sulfide, as well as iron sulfide. The sulfur is removed at a high temperature as sulfur dioxide by blowing air through molten matte: In a parallel reaction the iron sulfide is converted to slag: The purity of this product is 98%, it is known as blister because of the broken surface created by the escape of sulfur dioxide gas as blister copper pigs or ingots are cooled. By-products generated in the process are sulfur dioxide and slag . The sulfur dioxide is captured and converted to sulfuric acid and either sold on the open market or used in copper leaching processes.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tough-Pitch_Copper_Containing_Antimony_And_Nickel.jpg/220px-Tough-Pitch_Copper_Containing_Antimony_And_Nickel.jpg",
+                "caption": "Oxygen-free copper aka \"Tough-pitch\" copper (ca. 98% pure), containing antimony and nickel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Copper_extraction",
+        "title": "Copper extraction",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Fire refining",
+        "text": "The blister copper is put into an anode furnace , a furnace that refines the blister copper to anode-grade copper in two stages by removing most of the remaining sulfur and iron, and then removing oxygen introduced during the first stage. This second stage, often referred to as poling is done by blowing natural gas , or some other reducing agent, through the molten copper oxide. When this flame burns green, indicating the copper oxidation spectrum, the oxygen has mostly been burned off. This creates copper at about 99% pure.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/CopperAnodeRejects.jpg/220px-CopperAnodeRejects.jpg",
+                "caption": "Copper anodes after fire refining and casting."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Copper_extraction",
+        "title": "Copper extraction",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Electrolysis",
+        "text": "The final stage in the production of copper is refining. Refining is achieved by electrolysis , which exploits the easy (low potential) and selective conversion of copper(II) solutions to the metal. The anodes cast from processed blister copper are placed into an aqueous solution of 3–4% copper sulfate and 10–16% sulfuric acid . Cathodes are thin rolled sheets of highly pure copper or, more commonly these days, reusable stainless steel starting sheets (as in the IsaKidd process ). [49] A potential of only 0.2–0.4 volts is required for the process to commence. In industrial plants current densities up to 420 A/m 2 are possible. [50] At the anode ( oxidation reaction), copper and less noble metals dissolve . More noble metals and less soluble elements such as silver , gold , selenium , and tellurium settle to the bottom of the cell as anode slime , which forms a salable by-product. Copper(II) ions migrate through the electrolyte to the cathode. At the cathode ( reduction reaction), Cu 2+ ions are reduced in copper metal and Cu (s) plates out, but less noble constituents such as arsenic and zinc remain in solution unless a higher voltage is used. [51] The reactions involving metallic copper and Cu 2+ ions at the electrodes are the following:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CuElectrolyticRefineApparatus.png/300px-CuElectrolyticRefineApparatus.png",
+                "caption": "Apparatus for electrolytic refining of copper"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Copper_extraction",
+        "title": "Copper extraction",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Peak copper",
+        "text": "Peak copper is the point in time at which the maximum global copper production rate is reached. Since copper is a finite resource, at some point in the future new production from mining will diminish, and at some earlier time production will reach a maximum. When this will occur is a matter of dispute. Unlike fossil fuels , copper is scrapped and reused, and it has been estimated that at least 80% of all copper ever mined is still available (having been repeatedly recycled). [53] Copper is among the most important industrial metals, ranking third after iron and aluminium in terms of quantity used. [54] It is valued for its heat and electrical conductivities, ductility, malleability and resistance to corrosion. Electrical uses account for about three quarters of total copper consumption, including power cables, data cables and electrical equipment. It is also used in cooling and refrigeration tubing, heat exchangers , water pipes and consumer products. [54] Copper has been used by humans for at least 10,000 years. More than 97% of all copper ever mined and smelted has been extracted since 1900. [ citation needed ] The increased demand for copper due to the growing Indian and Chinese economies since 2006 has led to increased prices and an increase in copper theft . [55]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Copper_-_world_production_trend.svg/300px-Copper_-_world_production_trend.svg.png",
+                "caption": "World copper production, 1900–2012"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Copper_extraction",
+        "title": "Copper extraction",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Education",
+        "text": "Becoming an accredited mining engineer requires a university or college degree. Training includes a Bachelor of Engineering (B.Eng. or B.E.), Bachelor of Science (B.Sc. or B.S.), Bachelor of Technology (B.Tech.) or Bachelor of Applied Science (B.A.Sc.) in mining engineering. Depending on the country and jurisdiction, to be licensed as a mining engineer may require a Master of Engineering (M.Eng.), Master of Science (M.Sc or M.S.) or Master of Applied Science (M.A.Sc.) degree. Some mining engineers who have come from other disciplines, primarily from engineering fields (e.g.: mechanical, civil, electrical, geomatics or environmental engineering) or from science fields (e.g.: geology, geophysics, physics, geomatics, earth science, or mathematics), typically completing a graduate degree such as M.Eng, M.S., M.Sc. or M.A.Sc. in mining engineering after graduating from a different quantitative undergraduate program. The fundamental subjects of mining engineering study usually include: In the United States , about 14 universities offer a B.S. degree in mining and mineral engineering. The top rated universities [ according to whom? ] include West Virginia University , South Dakota School of Mines and Technology , Virginia Tech , the University of Kentucky , the University of Arizona , Montana Tech , and Colorado School of Mines . [6] Most of these universities offer M.S. and Ph.D. degrees. In Canada , there are 19 undergraduate degree programs in mining engineering or equivalent. [7] McGill University Faculty of Engineering offers both undergraduate (B.Sc., B.Eng.) and graduate (M.Sc., Ph.D.) degrees in Mining Engineering. [8] [9] and the University of British Columbia in Vancouver offers a Bachelor of Applied Science (B.A.Sc.) in Mining Engineering [10] and also graduate degrees (M.A.Sc. or M.Eng and Ph.D.) in Mining Engineering. [11] [ promotion? ] In Europe , most programs are integrated (B.S. plus M.S. into one) after the Bologna Process and take five years to complete. In Portugal , the University of Porto offers an M.Eng. in Mining and Geo-Environmental Engineering [12] and in Spain the Technical University of Madrid offers degrees in Mining Engineering with tracks in Mining Technology, Mining Operations, Fuels and Explosives, Metallurgy. [13] In the United Kingdom , The Camborne School of Mines offers a wide choice of BEng and MEng degrees in Mining engineering and other Mining related disciplines. This is done through the University of Exeter . [14] In Romania , the University of Petroșani (formerly known as the Petroşani Institute of Mines , or rarely as the Petroşani Institute of Coal ) is the only university that offers a degree in Mining Engineering, Mining Surveying or Underground Mining Constructions, albeit, after the closure of Jiu Valley coal mines, those degrees had fallen out of interest for most high-school graduates. [15] In South Africa , leading institutions include the University of Pretoria , offering a 4-year Bachelor of Engineering (B.Eng in Mining Engineering) as well as post-graduate studies in various specialty fields such as rock engineering and numerical modelling, explosives engineering, ventilation engineering, underground mining methods and mine design; [16] and the University of the Witwatersrand offering a 4-year Bachelor of Science in Engineering (B.Sc.(Eng.)) in Mining Engineering [17] as well as graduate programs (M.Sc.(Eng.) and Ph.D.) in Mining Engineering. [18] Some mining engineers go on to pursue Doctorate degree programs such as Doctor of Philosophy (Ph.D., DPhil), Doctor of Engineering (D.Eng., Eng.D.). These programs involve a significant original research component and are usually seen as entry points into academia . In the Russian Federation , 85 universities across all federal districts are training specialists for the mineral resource sector. 36 universities are training specialists for extracting and processing solid minerals (mining). 49 are training specialists for extracting, primary processing, and transporting liquid and gaseous minerals (oil and gas). 37 are training specialists for geological exploration (applied geology, geological exploration). Among the universities that train specialists for the mineral resource sector, 7 are federal universities, and 13 are national research universities of Russia. [19] Personnel training for the mineral resource sector in Russian universities is currently carried out in the following main specializations of training (specialist's degree): \"Applied Geology\" with the qualification of mining engineer (5 years of training);  \"Geological Exploration\" with the qualification of mining engineer (5 years of training); \"Mining\" with the qualification of mining engineer (5.5 years of training); \"Physical Processes in Mining or Oil and Gas Production\" with the qualification of mining engineer (5.5 years of training); \"Oil and Gas Engineering and Technologies\" with the qualification of mining engineer (5.5 years of training). Universities develop and implement the main professional educational programs of higher education in the directions and specializations of training by forming their profile (name of the program). For example, within the framework of the specialization \"Mining\", universities often adhere to the classical names of the programs \"Open-pit mining\", \"Underground mining of mineral deposits\", \"Surveying\", \"Mineral enrichment\", \"Mining machines\", \"Technological safety and mine rescue\", \"Mine and underground construction\", \"Blasting work\", \"Electrification of the mining industry\", etc. In the last ten years, under the influence of various factors, new names of programs have begun to appear, such as: \"Mining and geological information systems\", \"Mining ecology\", etc. Thus, universities, using their freedom to form new training programs for specialists, can look to the future and try to foresee new professions of mining engineers. After the specialist's degree, you can immediately enrol in postgraduate school (analogue of Doctorate degree programs, four years of training). [19]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Co_mines.jpg/220px-Co_mines.jpg",
+                "caption": "Colorado School of Mines"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining_engineering",
+        "title": "Mining engineering",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Pre-mining",
+        "text": "As there is considerable capital expenditure required for mining operations, an array of pre-mining activities are normally carried out to assess whether a mining operation would be worthwhile. Mineral exploration is the process of locating minerals and assessing their concentrations (grade) and quantities (tonnage), to determine if they are commercially viable ores for mining . Mineral exploration is much more intensive, organized, involved, and professional than mineral prospecting – though it frequently utilizes services exploration, enlisting geologists and surveyors in the necessary pre-feasibility study of the possible mining operation. Mineral exploration and estimation of the reserve can determine the profitability conditions and advocate the form and type of mining required. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_Prospector_NC_Wyeth.jpg/170px-The_Prospector_NC_Wyeth.jpg",
+                "caption": "The Prospector by N. C. Wyeth , 1906"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining_engineering",
+        "title": "Mining engineering",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Extraction",
+        "text": "Extractive metallurgy is the practice of removing valuable metals from an ore and refining the extracted raw metals into a purer form. In order to convert a metal oxide or sulphide to a purer metal, the ore must be reduced physically, chemically , or electrolytically . Extractive metallurgists are interested in three primary streams: feed, concentrate (metal oxide/sulphide) and tailings (waste). After mining, large pieces of the ore feed are broken through crushing or grinding in order to obtain particles small enough, where each particle is either mostly valuable or mostly waste. Concentrating the particles of value in a form supporting separation enables the desired metal to be removed from waste products. Mining may not be necessary, if the ore body and physical environment are conducive to leaching . Leaching dissolves minerals in an ore body and results in an enriched solution. The solution is collected and processed to extract valuable metals. Ore bodies often contain more than one valuable metal. Tailings of a previous process may be used as a feed in another process to extract a secondary product from the original ore. Additionally, a concentrate may contain more than one valuable metal. That concentrate would then be processed to separate the valuable metals into individual constituents.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yuan_Dynasty_-_waterwheels_and_smelting.png/220px-Yuan_Dynasty_-_waterwheels_and_smelting.png",
+                "caption": "An illustration of a furnace bellows operated by waterwheels during the Yuan Dynasty in China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metallurgy",
+        "title": "Metallurgy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Metal and its alloys",
+        "text": "Much effort has been placed on understanding iron –carbon alloy system, which includes steels and cast irons . Plain carbon steels (those that contain essentially only carbon as an alloying element) are used in low-cost, high-strength applications, where neither weight nor corrosion are a major concern. Cast irons, including ductile iron , are also part of the iron-carbon system.  Iron-Manganese-Chromium alloys (Hadfield-type steels) are also used in non-magnetic applications such as directional drilling. Other engineering metals include aluminium , chromium , copper , magnesium , nickel , titanium , zinc , and silicon . These metals are most often used as alloys with the noted exception of silicon, which is not a metal. Other forms include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Iron_electrolytic_and_1cm3_cube.jpg/220px-Iron_electrolytic_and_1cm3_cube.jpg",
+                "caption": "Iron , the most common metal used in metallurgy, is shown in different forms, including cubes, chips, and nuggets"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metallurgy",
+        "title": "Metallurgy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Metalworking processes",
+        "text": "Cold-working processes, in which the product's shape is altered by rolling, fabrication or other processes, while the product is cold, can increase the strength of the product by a process called work hardening . Work hardening creates microscopic defects in the metal, which resist further changes of shape.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bochumer_Verein-08-50124.jpg/220px-Bochumer_Verein-08-50124.jpg",
+                "caption": "An open-die drop forging with two dies of an ingot, which is then further processed into a wheel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metallurgy",
+        "title": "Metallurgy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Heat treatment",
+        "text": "Metals can be heat-treated to alter the properties of strength, ductility, toughness, hardness and resistance to corrosion. Common heat treatment processes include annealing, precipitation strengthening , quenching, and tempering: [31] Often, mechanical and thermal treatments are combined in what are known as thermo-mechanical treatments for better properties and more efficient processing of materials. These processes are common to high-alloy special steels, superalloys and titanium alloys.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Heat-Treating-Furnace.jpg/220px-Heat-Treating-Furnace.jpg",
+                "caption": "A heat treating furnace at 1,800 °F (980 °C)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metallurgy",
+        "title": "Metallurgy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Plating",
+        "text": "Electroplating is a chemical surface-treatment technique. It involves bonding a thin layer of another metal such as gold , silver , chromium or zinc to the surface of the product. This is done by selecting the coating material electrolyte solution, which is the material that is going to coat the workpiece (gold, silver, zinc). There needs to be two electrodes of different materials: one the same material as the coating material and one that is receiving the coating material. Two electrodes are electrically charged and the coating material is stuck to the work piece. It is used to reduce corrosion as well as to improve the product's aesthetic appearance. It is also used to make inexpensive metals look like the more expensive ones (gold, silver). [32]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Copper_electroplating_principle_%28multilingual%29.svg/220px-Copper_electroplating_principle_%28multilingual%29.svg.png",
+                "caption": "A simplified diagram of electroplating copper on a metal"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metallurgy",
+        "title": "Metallurgy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Characterization",
+        "text": "Metallurgists study the microscopic and macroscopic structure of metals using metallography , a technique invented by Henry Clifton Sorby . In metallography, an alloy of interest is ground flat and polished to a mirror finish. The sample can then be etched to reveal the microstructure and macrostructure of the metal. The sample is then examined in an optical or electron microscope , and the image contrast provides details on the composition, mechanical properties, and processing history. Crystallography , often using diffraction of x-rays or electrons , is another valuable tool available to the modern metallurgist. Crystallography allows identification of unknown materials and reveals the crystal structure of the sample. Quantitative crystallography can be used to calculate the amount of phases present as well as the degree of strain to which a sample has been subjected.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/AlubronzeCuAl20v500.png/220px-AlubronzeCuAl20v500.png",
+                "caption": "Metallography allows the metallurgist to study the microstructure of metals."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Metallurgy",
+        "title": "Metallurgy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Concentration",
+        "text": "While the romantic picture of gold mining focuses on nuggets, the reality is that gold is typically recovered from ores containing >10 ppm of the metal.  Thus, the main challenge is concentrating this trace amount. [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Potassium_dicyanoaurate.svg/220px-Potassium_dicyanoaurate.svg.png",
+                "caption": "Chemical structure of potassium dicyanoaurate ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gold_extraction",
+        "title": "Gold extraction",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Refractory gold processes",
+        "text": "A \"refractory\" gold ore is an ore that has ultra-fine gold particles disseminated throughout its gold occluded minerals. These ores are naturally resistant to recovery by standard cyanidation and carbon adsorption processes.  These refractory ores require pre-treatment in order for cyanidation to be effective in recovery of the gold.  A refractory ore generally contains sulphide minerals, organic carbon, or both.  Sulphide minerals are impermeable minerals that occlude gold particles, making it difficult for the leach solution to form a complex with the gold.  Organic carbon present in gold ore may adsorb dissolved gold-cyanide complexes in much the same way as activated carbon.  This so-called \"preg-robbing\" carbon is washed away because it is significantly finer than the carbon recovery screens typically used to recover activated carbon. [3] Pre-treatment options for refractory ores include: The refractory ore treatment processes may be preceded by concentration (usually sulphide flotation).  Roasting is used to oxidize both the sulphur and organic carbon at high temperatures using air and/or oxygen.  Bio-oxidation involves the use of bacteria that promote oxidation reactions in an aqueous environment.  Pressure oxidation is an aqueous process for sulphur removal carried out in a continuous autoclave, operating at high pressures and somewhat elevated temperatures.  The Albion process utilises a combination of ultrafine grinding and atmospheric, auto-thermal, oxidative leaching.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gold-Quartz-273364.jpg/220px-Gold-Quartz-273364.jpg",
+                "caption": "High-grade gold ore from a quartz vein near Alma, Colorado . The appearance is typical of very good gold-quartz ore."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gold_extraction",
+        "title": "Gold extraction",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Surface mining",
+        "text": "When coal seams are near the surface, it may be economical to extract the coal using open-cut , also referred to as open-cast, open-pit, mountaintop removal or strip, mining methods. Opencast coal mining recovers a greater proportion of the coal deposit than underground methods, as more of the coal seams in the strata may be exploited. This equipment can include the following: Draglines which operate by removing the overburden, power shovels, large trucks in which transport overburden and coal, bucket wheel excavators, and conveyors. In this mining method, explosives are first used in order to break through the surface or overburden, of the mining area. The overburden is then removed by draglines or by shovel and truck. Once the coal seam is exposed, it is drilled, fractured and thoroughly mined in strips. The coal is then loaded onto large trucks or conveyors for transport to either the coal preparation plant or directly to where it will be used. [9] Most open cast mines in the United States extract bituminous coal . In Canada, Australia, and South Africa, open cast mining is used for both thermal and metallurgical coals . In New South Wales open casting for steam coal and anthracite is practiced. Surface mining accounts for around 80 percent of production in Australia, while in the US it is used for about 67 percent of production. Globally, about 40 percent of coal production involves surface mining. [9]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cerrejonmine1.png/220px-Cerrejonmine1.png",
+                "caption": "Trucks loaded with coal at the Cerrejón coal mine in Colombia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Coal_mining",
+        "title": "Coal mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Underground mining",
+        "text": "Most coal seams are too deep underground for opencast mining and require underground mining, a method that currently accounts for about 60 percent of world coal production. [9] In deep mining, the room and pillar or bord and pillar method progresses along the seam, while pillars and timber are left standing to support the mine roof. Once room and pillar mines have been developed to a stopping point limited by geology, ventilation, or economics, a supplementary version of room and pillar mining, termed second mining or retreat mining , is commonly started. Miners remove the coal in the pillars, thereby recovering as much coal from the coal seam as possible. A work area involved in pillar extraction is called a pillar section. [15] Modern pillar sections use remote-controlled equipment, including large hydraulic mobile roof-supports, which can prevent cave-ins until the miners and their equipment have left a work area. The mobile roof supports are similar to a large dining-room table, but with hydraulic jacks for legs. After the large pillars of coal have been mined away, the mobile roof support's legs shorten and it is withdrawn to a safe area. The mine roof typically collapses once the mobile roof supports leave an area. [ citation needed ] There are six principal methods of underground mining:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Coal_Washer.JPG/220px-Coal_Washer.JPG",
+                "caption": "A coal wash plant in Clay County, Kentucky"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Continuous_Miner.jpg/220px-Continuous_Miner.jpg",
+                "caption": "A remote Joy HM21 continuous miner used underground"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Coal_mining",
+        "title": "Coal mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Production",
+        "text": "Coal is mined commercially in over 50 countries. 7,921 million metric tons (Mt) of coal were produced in 2019, a 70% increase over the 20 years since 1999. In 2018, the world production of brown coal (lignite) was 803.2 Mt, with Germany the world's largest producer at 166.3 Mt. China is most likely the second largest producer and consumer of lignite globally although specific lignite production data is not made available. [1] [17] Coal production has grown fastest in Asia, while Europe has declined. Since 2011, world coal production has been stable, with decreases in Europe and US offset by increases from China, Indonesia and Australia. [18] The top coal mining nations are:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Coal_mine_in_Inner_Mongolia_002.jpg/220px-Coal_mine_in_Inner_Mongolia_002.jpg",
+                "caption": "A lignite brown coal mine in Inner Mongolia , China"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Loy_Yang_open_cut_brown_coal_mine_and_dredgers.jpg/220px-Loy_Yang_open_cut_brown_coal_mine_and_dredgers.jpg",
+                "caption": "A lignite mine in Victoria , Australia"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Historical_coal_production_of_different_countries.svg/220px-Historical_coal_production_of_different_countries.svg.png",
+                "caption": "The historical coal production of various countries"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Coal_mining",
+        "title": "Coal mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Modern mining",
+        "text": "The use of sophisticated sensing equipment to monitor air quality is common and has replaced the use of small animals such as canaries, often referred to as \" miner's canaries \". [29] In the United States, the increase in technology has significantly decreased the mining workforce. in 2015 US coal mines had 65,971 employees, the lowest figure since EIA began collecting data in 1978. [30] However, a 2016 study reported that a relatively minor investment would allow most coal workers to retrain for the solar energy industry. [31]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Coal_Miner_Laser_Profiling.png/220px-Coal_Miner_Laser_Profiling.png",
+                "caption": "Laser profiling of a mine site by a coal miner using a Maptek I-site laser scanner in 2014"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Coal_mining",
+        "title": "Coal mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Dangers to miners",
+        "text": "Coal mining has been a very dangerous activity and the list of historical coal mining disasters is long. In the U.S., 104,895 coal miners were killed in mine accidents since 1900, [32] 90 percent of the fatalities occurring in the first half of the 20th century. 3,242 died in 1907, the worst year ever; in 2020 there were five. [33] Open cut hazards are principally mine wall failures and vehicle collisions; underground mining hazards include suffocation, gas poisoning, roof collapse, rock burst , outbursts , and gas explosions. [ citation needed ] Firedamp explosions can trigger the far more dangerous coal dust explosions, which can engulf an entire mine. Most of these risks are greatly reduced in modern mines, and multiple fatality incidents are now rare in most parts of the developed world. Modern coal mining in the US has an average 23 deaths per year due to mine accidents (2001–2020). [33] [34] However, in lesser developed countries and some developing countries, many miners continue to die annually, either through direct accidents in coal mines or through adverse health consequences from working under poor conditions. China , in particular, has the highest number of coal mining related deaths in the world, with official statistics claiming that 6,027 deaths occurred in 2004. [35] To compare, 28 deaths were reported in the U.S. in the same year. [36] Coal production in China is twice that in the US, [37] while the number of coal miners is around 50 times that of the US, making deaths in coal mines in China 4 times as common per worker (108 times as common per unit output) as in the US. [ citation needed ] Mine disasters have still occurred in recent years in the U.S., [38] Examples include the Sago Mine disaster of 2006, and the 2007 mine accident in Utah 's Crandall Canyon Mine , where nine miners were killed and six entombed. [39] In the decade 2005–2014, US coal mining fatalities averaged 28 per year. [40] The most fatalities during the 2005–2014 decade were 48 in 2010, the year of the Upper Big Branch Mine disaster in West Virginia, which killed 29 miners. [41] Chronic lung diseases, such as pneumoconiosis (black lung) were once common in miners, leading to reduced life expectancy . In some mining countries black lung is still common, with 4,000 new cases of black lung every year in the US (4 percent of workers annually) and 10,000 new cases every year in China (0.2 percent of workers). [42] The use of water sprays in mining equipment reduces the risk to miners' lungs. [43]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Farmington-Mine-Disaster-smoke.jpg/220px-Farmington-Mine-Disaster-smoke.jpg",
+                "caption": "The Farmington Mine disaster , which killed 78 people in West Virginia in 1968"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Miner_spirometry_%289253624711%29.jpg/220px-Miner_spirometry_%289253624711%29.jpg",
+                "caption": "Miners can be regularly monitored for reduced lung function due to coal dust exposure using spirometry ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Coal_mining",
+        "title": "Coal mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Coal mining by country",
+        "text": "Top 10 hard and brown coal producers in 2012 were (in million metric tons): China 3,621, United States 922, India 629, Australia 432, Indonesia 410, Russia 351, South Africa 261, Germany 196, Poland 144, and Kazakhstan 122. [58] [59]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Top_coal_production_countries.svg/220px-Top_coal_production_countries.svg.png",
+                "caption": "The six largest coal producing nations as of 2015, according to the U.S. Energy Information Agency"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Coal_mining",
+        "title": "Coal mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Australia",
+        "text": "Coal has been mined in every state of Australia, but mainly in Queensland, New South Wales and Victoria. It is mostly used to generate electricity, and 75% of annual coal production is exported, mostly to eastern Asia. In 2007, 428 million tonnes of coal was mined in Australia. [60] In 2007, coal provided about 85% of Australia's electricity production. [61] In the fiscal year 2008/09, 487 million tonnes of coal was mined, and 261 million tonnes was exported. [62] In the fiscal year 2013/14, 430.9 million tonnes of coal was mined, and 375.1 million tonnes was exported. [63] In 2013/14, coal provided about 69% of Australia's electricity production. [64] In 2013, Australia was the world's fifth-largest coal producer, after China, the United States, India, and Indonesia. However, in terms of proportion of production exported, Australia is the world's second largest coal exporter, as it exports roughly 73% of its coal production. Indonesia exports about 87% of its coal production. [64] A court in Australia has cited climate change in ruling against a new coal mine. [65]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SLNSW_31753_Balmain_Coal_Mine_for_LJ_Hooker_Ltd.jpg/220px-SLNSW_31753_Balmain_Coal_Mine_for_LJ_Hooker_Ltd.jpg",
+                "caption": "A balmain coal mine in Sydney , Australia, in 1950"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Coal_mining",
+        "title": "Coal mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Germany",
+        "text": "Germany has a long history of coal mining, going back to the Middle Ages . Coal mining greatly increased during the industrial revolution and the following decades. The main mining areas were around Aachen and the Ruhr area, along with many smaller areas in other parts of Germany, and until 1945 also in Upper Silesia , while the Saarland was repeatedly under French control. These areas grew and were shaped by coal mining and coal processing, and this is still visible even after the end of the coal mining. [72] [73] Coal mining reached its peak in the first half of the 20th century. After 1950, the coal producers started to struggle financially. In 1975, a subsidy was introduced ( Kohlepfennig , coal penny as part of the electricity bill), which was discontinued in the 1990s. In 2007, due to EU regulations, the Bundestag decided to end subsidies by 2018. As a consequence, RAG AG , the owner of the two remaining coal mines in Germany, Prosper Haniel and Ibbenbüren, announced it would close all mines by 2018, thus ended underground coal mining in Germany. Open pit lignite mining for electricity continues in Nordrhein-Westfalen, and in the eastern states of Brandenburg, Saxony and Saxony-Anhalt.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ende_Gel%C3%A4nde_2017_CHB_23_%28cropped%29.jpg/220px-Ende_Gel%C3%A4nde_2017_CHB_23_%28cropped%29.jpg",
+                "caption": "An open-pit coal mine in the Rhineland lignite mining area in Germany"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Coal_mining",
+        "title": "Coal mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "India",
+        "text": "Coal mining in India has a long history of commercial exploitation starting in 1774 with John Sumner and Suetonius Grant Heatly of the East India Company in the Raniganj Coalfield along the Western bank of Damodar River . Demand for coal remained low until the introduction of steam locomotives in 1853. After this, production rose to an annual average of 1 Mt and India produced 6.12 Mt per year by 1900 and 18 Mt per year by 1920, following increased demand in the First World War, but went through a slump in the early thirties. The production reached a level of 29 Mt by 1942 and 30 Mt by 1946. After independence, the country embarked upon five-year development plans. At the beginning of the 1st Plan, annual production went up to 33 Mt. During the 1st Plan period, the need for increasing coal production efficiently by systematic and scientific development of the coal industry was being felt. Setting up the National Coal Development Corporation (NCDC), a Government of India undertaking, in 1956 with the collieries owned by the railways as its nucleus was the first major step towards planned development of Indian Coal Industry. Along with the Singareni Collieries Company Ltd. (SCCL) which was already in operation since 1945 and which became a government company under the control of Government of Andhra Pradesh in 1956, India thus had two Government coal companies in the fifties. SCCL is now a joint undertaking of Government of Telangana and Government of India. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Coal_Mine.jpg/220px-Coal_Mine.jpg",
+                "caption": "A coal mine in Jharia , India"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Coal_mining",
+        "title": "Coal mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Japan",
+        "text": "The richest Japanese coal deposits have been found on Hokkaido and Kyushu . Japan has a long history of coal mining dating back into the Japanese Middle Ages . It is said that coal was first discovered in 1469 by a farming couple near Ōmuta , central Kyushu. [75] In 1478, farmers discovered burning stones in the north of the island, which led to the exploitation of the Chikuhõ coalfield. [76] Following Japanese industrialization, additional coalfields were discovered in northern Japan. One of the first mines in Hokkaido was the Hokutan Horonai coal mine . [77]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Daikodo_of_Horonai_Coal_Mine.jpg/220px-Daikodo_of_Horonai_Coal_Mine.jpg",
+                "caption": "Daikōdō, the first adit of the Horonai mine , dug in 1879"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Coal_mining",
+        "title": "Coal mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "Taiwan",
+        "text": "In Taiwan , coal is distributed mainly in the northern area. All of the commercial coal deposits occurred in three Miocene coal-bearing formations, which are the Upper, the Middle, and the Lower Coal Measures. The Middle Coal Measures was the most important with its wide distribution, great number of coal beds and extensive potential reserves. Taiwan has coal reserves estimated to be 100–180 Mt. However, coal output had been small, amounting to 6,948 metric tonnes per month from 4 pits before it ceased production effectively in 2000. [102] The abandoned coal mine in Pingxi District , New Taipei , has now turned into the Taiwan Coal Mine Museum . [103]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/New_Pinghsi_Coal_Tunnel.JPG/220px-New_Pinghsi_Coal_Tunnel.JPG",
+                "caption": "An abandoned coal mine in the Pingxi District of New Taipei , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Coal_mining",
+        "title": "Coal mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    },
+    {
+        "section": "United States",
+        "text": "Coal began being mined in the United States in the early 18th century, and commercial mining started around 1730 in Midlothian, Virginia . [132] The U.S. share of world coal production remained steady at about 20 percent from 1980 to 2005, at about 1 billion short tons per year. The United States was ranked as the second highest coal producing country in the world in 2010, and possesses the largest coal reserves in the world. In 2008 then- President George W. Bush stated that coal was the most reliable source of electricity. [133] In 2011, former U.S. president Barack Obama said that the U.S. should rely more on cleaner sources of energy that emit lower or no carbon dioxide pollution . [134] For a time, while domestic coal consumption for electric power was being displaced by natural gas, exports grew. [135] U.S. net coal exports increased ninefold from 2006 to 2012, peaked at 117 million short tons in 2012, then declined to 63 million tons in 2015. In 2015, 60% of net US exports went to Europe, 27% to Asia.  US coal production increasingly comes from strip mines in the western United States, such as from the Powder River Basin in Wyoming and Montana . [10] [136] Coal has come under continued price pressure from natural gas and renewable energy , which has resulted in a rapid decline of coal in the U.S. and several notable bankruptcies including Peabody Energy . On 13 April 2016 the company reported that its revenue had reduced by 17 percent as coal prices fell and that it had lost two billion dollars the previous year. [137] It then filed Chapter 11 bankruptcy on 13 April 2016. [137] Harvard Business Review addressed retraining coal workers for solar photovoltaic employment because of the rapid rise in U.S. solar jobs. [138] A 2016 study indicated that this was technically possible and would account for only 5% of the industrial revenue from a single year to provide coal workers with job security in the energy industry as whole. [31] Donald Trump pledged to bring back coal jobs during the 2016 US presidential election , and as president he announced plans to reduce environmental protection, particularly by repealing the Clean Power Plan (CPP). However, industry observers have warned that this might not lead to a boom in mining jobs [139] A 2019 projection by the Energy Information Administration estimated that coal production without CPP would decline over coming decades at a faster rate than indicated in the agency's 2017 projection, which had assumed the CPP was in effect. [140]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/GROUP_OF_MINERS_WAITING_TO_GO_TO_WORK_ON_THE_4_P.M._TO_MIDNIGHT_SHIFT_AT_THE_VIRGINIA-POCAHONTAS_COAL_COMPANY_MINE_%5E4..._-_NARA_-_556348.jpg/220px-GROUP_OF_MINERS_WAITING_TO_GO_TO_WORK_ON_THE_4_P.M._TO_MIDNIGHT_SHIFT_AT_THE_VIRGINIA-POCAHONTAS_COAL_COMPANY_MINE_%5E4..._-_NARA_-_556348.jpg",
+                "caption": "Miners at the Virginia-Pocahontas Coal Company Mine in 1974 waiting to go to work on the 4 pm to midnight shift"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Coal_mining",
+        "title": "Coal mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Mineral Processing and Extraction"
+    }
+]

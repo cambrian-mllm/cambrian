@@ -1,0 +1,419 @@
+[
+    {
+        "section": "Main components",
+        "text": "A typical system consists of a flywheel supported by rolling-element bearing connected to a motor–generator . The flywheel and sometimes motor–generator may be enclosed in a vacuum chamber to reduce friction and energy loss. First-generation flywheel energy-storage systems use a large steel flywheel rotating on mechanical bearings. Newer systems use carbon-fiber composite rotors that have a higher tensile strength than steel and can store much more energy for the same mass . [3] To reduce friction , magnetic bearings are sometimes used instead of mechanical bearings .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Example_of_cylindrical_flywheel_rotor_assembly.png/220px-Example_of_cylindrical_flywheel_rotor_assembly.png",
+                "caption": "The main components of a typical flywheel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flywheel_energy_storage",
+        "title": "Flywheel energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Automotive",
+        "text": "In the 1950s, flywheel-powered buses, known as gyrobuses , were used in Yverdon ( Switzerland ) and Ghent ( Belgium ) and there is ongoing research to make flywheel systems that are smaller, lighter, cheaper and have a greater capacity.  It is hoped that flywheel systems can replace conventional chemical batteries for mobile applications, such as for electric vehicles.  Proposed flywheel systems would eliminate many of the disadvantages of existing battery power systems, such as low capacity, long charge times, heavy weight and short usable lifetimes. Flywheels may have been used in the experimental Chrysler Patriot , though that has been disputed. [20] Flywheels have also been proposed for use in continuously variable transmissions . Punch Powertrain is currently working on such a device. [21] During the 1990s, Rosen Motors developed a gas turbine powered series hybrid automotive powertrain using a 55,000 rpm flywheel to provide bursts of acceleration which the small gas turbine engine could not provide.  The flywheel also stored energy through regenerative braking .  The flywheel was composed of a titanium hub with a carbon fiber cylinder and was gimbal -mounted to minimize adverse gyroscopic effects on vehicle handling.  The prototype vehicle was successfully road tested in 1997 but was never mass-produced. [22] In 2013, Volvo announced a flywheel system fitted to the rear axle of its S60 sedan. Braking action spins the flywheel at up to 60,000 rpm and stops the front-mounted engine. Flywheel energy is applied via a special transmission to partially or completely power the vehicle. The 20-centimetre (7.9 in), 6-kilogram (13 lb) carbon fiber flywheel spins in a vacuum to eliminate friction. When partnered with a four-cylinder engine, it offers up to a 25 percent reduction in fuel consumption versus a comparably performing turbo six-cylinder, providing an 80 horsepower (60 kW) boost and allowing it to reach 100 kilometres per hour (62 mph) in 5.5 seconds. The company did not announce specific plans to include the technology in its product line. [23] In July 2014 GKN acquired Williams Hybrid Power (WHP) division and intends to supply 500 carbon fiber Gyrodrive electric flywheel systems to urban bus operators over the next two years [24] As the former developer name implies, these were originally designed for Formula one motor racing applications. In September 2014, Oxford Bus Company announced that it is introducing 14 Gyrodrive hybrid buses by Alexander Dennis on its Brookes Bus operation. [25] [26]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gyrobus_G3-1.jpg/220px-Gyrobus_G3-1.jpg",
+                "caption": "One of the older gyrobuses parked in a museum in Antwerp."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flywheel_energy_storage",
+        "title": "Flywheel energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Motor sports",
+        "text": "Using a continuously variable transmission (CVT), energy is recovered from the drive train during braking and stored in a flywheel. This stored energy is then used during acceleration by altering the ratio of the CVT. [40] In motor sports applications this energy is used to improve acceleration rather than reduce carbon dioxide emissions – although the same technology can be applied to road cars to improve fuel efficiency . [41] Automobile Club de l'Ouest , the organizer behind the annual 24 Hours of Le Mans event and the Le Mans Series , is currently \"studying specific rules for LMP1 which will be equipped with a kinetic energy recovery system.\" [42] Williams Hybrid Power, a subsidiary of Williams F1 Racing team, [43] have supplied Porsche and Audi with flywheel based hybrid system for Porsche's 911 GT3 R Hybrid [44] and Audi's R18 e-Tron Quattro. [45] Audi's victory in 2012 24 Hours of Le Mans is the first for a hybrid (diesel-electric) vehicle. [46]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg/220px-Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg",
+                "caption": "A Flybrid Systems Kinetic Energy Recovery System built for use in Formula One"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flywheel_energy_storage",
+        "title": "Flywheel energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Physics",
+        "text": "The kinetic energy (or more specifically rotational energy ) stored by the flywheel's rotor can be calculated by 1 2 I ω 2 {\\textstyle {\\frac {1}{2}}I\\omega ^{2}} . ω is the angular velocity , and I {\\displaystyle I} is the moment of inertia of the flywheel about its axis of symmetry. The moment of inertia is a measure of resistance to torque applied on a spinning object (i.e. the higher the moment of inertia, the slower it will accelerate when a given torque is applied). The moment of inertia can be known by mass ( m {\\textstyle m} ) and radius ( r {\\displaystyle r} ). For a solid cylinder it is 1 2 m r 2 {\\textstyle {\\frac {1}{2}}mr^{2}} , for a thin-walled empty cylinder it is approximately m r 2 {\\textstyle mr^{2}} , and for a thick-walled empty cylinder with constant density it is 1 2 m ( r e x t e r n a l 2 + r i n t e r n a l 2 ) {\\textstyle {\\frac {1}{2}}m({r_{\\mathrm {external} }}^{2}+{r_{\\mathrm {internal} }}^{2})} . [7] For a given flywheel design, the kinetic energy is proportional to the ratio of the hoop stress to the material density and to the mass. The specific tensile strength of a flywheel can be defined as σ t ρ {\\textstyle {\\frac {\\sigma _{t}}{\\rho }}} . The flywheel material with the highest specific tensile strength will yield the highest energy storage per unit mass. This is one reason why carbon fiber is a material of interest. For a given design the stored energy is proportional to the hoop stress and the volume. [ citation needed ] An electric motor-powered flywheel is common in practice. The output power of the electric motor is approximately equal to the output power of the flywheel. It can be calculated by ( V i ) ( V t ) ( sin ⁡ ( δ ) X S ) {\\textstyle (V_{i})(V_{t})\\left({\\frac {\\sin(\\delta )}{X_{S}}}\\right)} , where V i {\\displaystyle V_{i}} is the voltage of rotor winding, V t {\\displaystyle V_{t}} is stator voltage, and δ {\\displaystyle \\delta } is the angle between two voltages. Increasing amounts of rotation energy can be stored in the flywheel until the rotor shatters. This happens when the hoop stress within the rotor exceeds the ultimate tensile strength of the rotor material. Tensile stress can be calculated by ρ r 2 ω 2 {\\displaystyle \\rho r^{2}\\omega ^{2}} , where ρ {\\displaystyle \\rho } is the density of the cylinder, r {\\displaystyle r} is the radius of the cylinder, and ω {\\displaystyle \\omega } is the angular velocity of the cylinder.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Volin.jpg/220px-Volin.jpg",
+                "caption": "A mass-produced flywheel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flywheel",
+        "title": "Flywheel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Applications",
+        "text": "Flywheels are often used to provide continuous power output in systems where the energy source is not continuous. For example, a flywheel is used to smooth the fast angular velocity fluctuations of the crankshaft in a reciprocating engine. In this case, a crankshaft flywheel stores energy when torque is exerted on it by a firing piston and then returns that energy to the piston to compress a fresh charge of air and fuel. Another example is the friction motor which powers devices such as toy cars . In unstressed and inexpensive cases, to save on cost, the bulk of the mass of the flywheel is toward the rim of the wheel. Pushing the mass away from the axis of rotation heightens rotational inertia for a given total mass. A flywheel may also be used to supply intermittent pulses of energy at power levels that exceed the abilities of its energy source. This is achieved by accumulating energy in the flywheel over a period of time, at a rate that is compatible with the energy source, and then releasing energy at a much higher rate over a relatively short time when it is needed. For example, flywheels are used in power hammers and riveting machines . Flywheels can be used to control direction and oppose unwanted motions. Flywheels in this context have a wide range of applications: gyroscopes for instrumentation, ship stability , satellite stabilization ( reaction wheel ), keeping a toy spin spinning ( friction motor ), stabilizing magnetically-levitated objects ( Spin-stabilized magnetic levitation ). Flywheels may also be used as an electric compensator, like a synchronous compensator , that can either produce or sink reactive power but would not affect the real power. The purposes for that application are to improve the power factor of the system or adjust the grid voltage. Typically, the flywheels used in this field are similar in structure and installation as the synchronous motor (but it is called synchronous compensator or synchronous condenser in this context). There are also some other kinds of compensator using flywheels, like the single phase induction machine. But the basic ideas here are the same, the flywheels are controlled to spin exactly at the frequency which you want to compensate. For a synchronous compensator, you also need to keep the voltage of rotor and stator in phase, which is the same as keeping the magnetic field of rotor and the total magnetic field in phase (in the rotating frame reference ).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Landini_VL30%28Italien%292.JPG/220px-Landini_VL30%28Italien%292.JPG",
+                "caption": "A Landini tractor with exposed flywheel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flywheel",
+        "title": "Flywheel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Large scale",
+        "text": "Pumped-storage hydroelectricity (PSH) is the most widely used and highest-capacity form of grid-energy storage. In PSH, water is pumped from a lower reservoir to a higher reservoir, which can then be released through turbines to produce energy. An alternative PSH proposal uses a  proprietary high-density liquid, 2 + 1 ⁄ 2 times denser than water, which requires a smaller head (elevation) and thus decreases the size and cost of the necessary infrastructure. [23] [24] Energy-storage-by-rail is a concept where excess renewable energy is used to run heavy train cars uphill during times of low energy demand.  The potential energy is released later by using regenerative braking as they roll downhill, acting as a gravity battery. [25] A utility-scale (50 MW) facility called GravityLine began construction in October 2020 by Advanced Rail Energy Storage, located at the Gamebird Pit gravel mine in the Pahrump Valley , Nevada , and is planned to deliver up to 15 minutes of service at full capacity. [26] Lift Renewable Energy uses a form of gravity battery. To store energy, buoyant gas containers are pulled down into water by a winch, water is in effect lifted hundreds of meters. The cycle is then reversed and electricity is generated as the gas containers rise.  Relatively little infrastructure is required, the batteries can be sited near major population centers, round trip efficiency is 85+%, and the system can be built at a GWh scale. [ citation needed ] Lifted Weight Storage (LWS) technology uses surplus energy to mechanically lift solid weights vertically, typically on a pulley system. When extra energy is needed, the mass is lowered, and the pulley turns a generator. [27] EnergyVault is designing a LWS system using a tower built from 32-ton concrete blocks, stacked with 120-meter cranes. One commercial unit is expected to store 20 MWh of energy, or enough to power 2,000 Swiss homes a day. [16] Gravitricity's LWS system in an underground shaft uses an electric winch to lift a 500-to-5000-tonne weight, which when lowered turns the winch motor as a generator. The system generates 10 MWh, enough to power 13,000 homes for two hours. The weight can also be dropped quickly for a small burst of power. [28] [29]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Energy_Vault_Test_Tower_2021.jpg/220px-Energy_Vault_Test_Tower_2021.jpg",
+                "caption": "Energy Vault 60 meter prototype in Arbedo-Castione , Switzerland, in 2021"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gravity_battery",
+        "title": "Gravity battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Pumped hydro",
+        "text": "Worldwide, pumped-storage hydroelectricity (PSH) is the largest-capacity form of active grid energy storage available, and, as of March 2012, the Electric Power Research Institute (EPRI) reports that PSH accounts for more than 99% of bulk storage capacity worldwide, representing around 127,000 MW . [6] PSH energy efficiency varies in practice between 70% and 80%, [6] [7] [8] [9] with claims of up to 87%. [10] At times of low electrical demand, excess generation capacity is used to pump water from a lower source into a higher reservoir. When demand grows, water is released back into a lower reservoir (or waterway or body of water) through a turbine , generating electricity. Reversible turbine-generator assemblies act as both a pump and turbine (usually a Francis turbine design). Nearly all facilities use the height difference between two water bodies. Pure pumped-storage plants shift the water between reservoirs, while the \"pump-back\" approach is a combination of pumped storage and conventional hydroelectric plants that use natural stream-flow.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adam_Beck_Complex.jpg/300px-Adam_Beck_Complex.jpg",
+                "caption": "The Sir Adam Beck Generating Complex at Niagara Falls, Canada , which includes a large pumped storage hydroelectricity reservoir to provide an extra 174 MW of electricity during periods of peak demand."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Compressed air",
+        "text": "Compressed-air energy storage (CAES) uses surplus energy to compress air for subsequent electricity generation. [11] Small-scale systems have long been used in such applications as propulsion of mine locomotives. The compressed air is stored in an underground reservoir , such as a salt dome . Compressed-air energy storage (CAES) plants can bridge the gap between production volatility and load. CAES storage addresses the energy needs of consumers by effectively providing readily available energy to meet demand. Renewable energy sources like wind and solar energy vary. So at times when they provide little power, they need to be supplemented with other forms of energy to meet energy demand. Compressed-air energy storage plants can take in the surplus energy output of renewable energy sources during times of energy over-production. This stored energy can be used at a later time when demand for electricity increases or energy resource availability decreases. [12] Compression of air creates heat; the air is warmer after compression. Expansion requires heat. If no extra heat is added, the air will be much colder after expansion. If the heat generated during compression can be stored and used during expansion, efficiency improves considerably. [13] A CAES system can deal with the heat in three ways. Air storage can be adiabatic , diabatic , or isothermal . Another approach uses compressed air to power vehicles. [14] [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Compressed_Air_Loco.jpg/300px-Compressed_Air_Loco.jpg",
+                "caption": "A compressed air locomotive used inside a mine between 1928 and 1961."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Flywheel",
+        "text": "Flywheel energy storage (FES) works by accelerating a rotor (a flywheel ) to a very high speed, holding energy as rotational energy . When energy is added the rotational speed of the flywheel increases, and when energy is extracted, the speed declines, due to conservation of energy . Most FES systems use electricity to accelerate and decelerate the flywheel, but devices that directly use mechanical energy are under consideration. [16] FES systems have rotors made of high strength carbon-fiber composites, suspended by magnetic bearings and spinning at speeds from 20,000 to over 50,000 revolutions per minute (rpm) in a vacuum enclosure. [17] Such flywheels can reach maximum speed (\"charge\") in a matter of minutes. The flywheel system is connected to a combination electric motor / generator . FES systems have relatively long lifetimes (lasting decades with little or no maintenance; [17] full-cycle lifetimes quoted for flywheels range from in excess of 10 5 , up to 10 7 , cycles of use), [18] high specific energy (100–130 W·h/kg, or 360–500 kJ/kg) [18] [19] and power density .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Example_of_cylindrical_flywheel_rotor_assembly.png/220px-Example_of_cylindrical_flywheel_rotor_assembly.png",
+                "caption": "The main components of a typical flywheel."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg/220px-Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg",
+                "caption": "A Flybrid Kinetic Energy Recovery System flywheel . Built for use on Formula 1 racing cars , it is employed to recover and reuse kinetic energy captured during braking."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Solid mass gravitational ",
+        "text": "Changing the altitude of solid masses can store or release energy via an elevating system driven by an electric motor/generator. Studies suggest energy can begin to be released with as little as 1 second warning, making  the method a useful supplemental feed into an electricity grid to balance load surges. [20] Efficiencies can be as high as 85% recovery of stored energy. [21] This can be achieved by siting the masses inside old vertical  mine shafts or in specially constructed towers where the heavy weights are winched up to store energy and allowed a controlled descent to release it. At 2020 a prototype vertical store is being built in Edinburgh, Scotland [22] Potential energy storage or gravity energy storage was under active development in 2013 in association with the California Independent System Operator . [23] [24] [25] It examined the movement of earth-filled hopper rail cars driven by electric locomotives from lower to higher elevations. [26] Other proposed methods include:-",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fernw%C3%A4rmespeicher_Theiss.jpg/220px-Fernw%C3%A4rmespeicher_Theiss.jpg",
+                "caption": "District heating accumulation tower from Theiss near Krems an der Donau in Lower Austria with a thermal capacity of 2 GWh"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Rechargeable battery",
+        "text": "A rechargeable battery comprises one or more electrochemical cells . It is known as a 'secondary cell' because its electrochemical reactions are electrically reversible. Rechargeable batteries come in many shapes and sizes, ranging from button cells to megawatt grid systems. Rechargeable batteries have lower total cost of use and environmental impact than non-rechargeable (disposable) batteries. Some rechargeable battery types are available in the same form factors as disposables. Rechargeable batteries have higher initial cost but can be recharged very cheaply and used many times. Common rechargeable battery chemistries include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Datacenter_Backup_Batteries.jpg/220px-Datacenter_Backup_Batteries.jpg",
+                "caption": "A rechargeable battery bank used as an uninterruptible power supply in a data center"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Supercapacitor",
+        "text": "Supercapacitors , also called electric double-layer capacitors (EDLC) or ultracapacitors, are a family of electrochemical capacitors [47] that do not have conventional solid dielectrics . Capacitance is determined by two storage principles, double-layer capacitance and pseudocapacitance . [48] [49] Supercapacitors bridge the gap between conventional capacitors and rechargeable batteries . They store the most energy per unit volume or mass ( energy density ) among capacitors. They support up to 10,000 farads /1.2 Volt, [50] up to 10,000 times that of electrolytic capacitors , but deliver or accept less than half as much power per unit time ( power density ). [47] While supercapacitors have specific energy and energy densities that are approximately 10% of batteries, their power density is generally 10 to 100 times greater. This results in much shorter charge/discharge cycles. Also, they tolerate many more charge-discharge cycles than batteries. Supercapacitors have many applications, including:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Expo_2010_Electric_Bus.jpg/220px-Expo_2010_Electric_Bus.jpg",
+                "caption": "One of a fleet of electric capabuses powered by supercapacitors, at a quick-charge station-bus stop, in service during Expo 2010 Shanghai China . Charging rails can be seen suspended over the bus."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Power-to-gas",
+        "text": "Power-to-gas is the conversion of electricity to a gaseous fuel such as hydrogen or methane . The three commercial methods use electricity to reduce water into hydrogen and oxygen by means of electrolysis . In the first method, hydrogen is injected into the natural gas grid or is used for transportation. The second method is to combine the hydrogen with carbon dioxide to produce methane using a methanation reaction such as the Sabatier reaction , or biological methanation, resulting in an extra energy conversion loss of 8%. The methane may then be fed into the natural gas grid. The third method uses the output gas of a wood gas generator or a biogas plant, after the biogas upgrader is mixed with the hydrogen from the electrolyzer, to upgrade the quality of the biogas.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/World%E2%80%99s_1st_Low-Emission_Hybrid_Battery_Storage%2C_Gas_Turbine_Peaker_System.jpg/220px-World%E2%80%99s_1st_Low-Emission_Hybrid_Battery_Storage%2C_Gas_Turbine_Peaker_System.jpg",
+                "caption": "The new technology helps reduce greenhouse gases and operating costs at two existing peaker plants in Norwalk and Rancho Cucamonga . The 10-megawatt battery storage system, combined with the gas turbine, allows the peaker plant to more quickly respond to changing energy needs, thus increasing the reliability of the electrical grid."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Capacitor",
+        "text": "A capacitor (originally known as a 'condenser') is a passive two-terminal electrical component used to store energy electrostatically . Practical capacitors vary widely, but all contain at least two electrical conductors (plates) separated by a dielectric (i.e., insulator ). A capacitor can store electric energy when disconnected from its charging circuit, so it can be used like a temporary battery , or like other types of rechargeable energy storage system . [72] Capacitors are commonly used in electronic devices to maintain power supply while batteries change. (This prevents loss of information in volatile memory.) Conventional capacitors provide less than 360 joules per kilogram, while a conventional alkaline battery has a density of 590 kJ/kg. Capacitors store energy in an electrostatic field between their plates. Given a potential difference across the conductors (e.g., when a capacitor is attached across a battery), an electric field develops across the dielectric, causing positive charge (+Q) to collect on one plate and negative charge (-Q) to collect on the other plate. If a battery is attached to a capacitor for a sufficient amount of time, no current can flow through the capacitor. However, if an accelerating or alternating voltage is applied across the leads of the capacitor, a displacement current can flow. Besides capacitor plates, charge can also be stored in a dielectric layer. [73] Capacitance is greater given a narrower separation between conductors and when the conductors have a larger surface area. In practice, the dielectric between the plates emits a small amount of leakage current and has an electric field strength limit, known as the breakdown voltage . However, the effect of recovery of a dielectric after a high-voltage breakdown holds promise for a new generation of self-healing capacitors. [74] [75] The conductors and leads introduce undesired inductance and resistance . Research is assessing the quantum effects of nanoscale capacitors [76] for digital quantum batteries. [77] [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_%40_5000_VDC.jpg/175px-Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_%40_5000_VDC.jpg",
+                "caption": "This mylar-film, oil-filled capacitor has very low inductance and low resistance, to provide the high-power (70 megawatts) and the very high speed (1.2 microsecond) discharges needed to operate a dye laser ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Renewable energy",
+        "text": "The largest source and the greatest store of renewable energy is provided by hydroelectric dams. A large reservoir behind a dam can store enough water to average the annual flow of a river between dry and wet seasons, and a very large reservoir can store enough water to average the flow of a river between dry and wet years. While a hydroelectric dam does not directly store energy from intermittent sources, it does balance the grid by lowering its output and retaining its water when power is generated by solar or wind. If wind or solar generation exceeds the region's hydroelectric capacity, then some additional source of energy is needed. Many renewable energy sources (notably solar and wind) produce variable power . [96] Storage systems can level out the imbalances between supply and demand that this causes. Electricity must be used as it is generated or converted immediately into storable forms. [97] The main method of electrical grid storage is pumped-storage hydroelectricity . Areas of the world such as Norway, Wales, Japan and the US have used elevated geographic features for reservoirs , using electrically powered pumps to fill them. When needed, the water passes through generators and converts the gravitational potential of the falling water into electricity. [96] Pumped storage in Norway, which gets almost all its electricity from hydro, has currently a capacity of 1.4 GW but since the total installed capacity is nearly 32 GW and 75% of that is regulable, it can be expanded significantly. [98] Some forms of storage that produce electricity include pumped-storage hydroelectric dams , rechargeable batteries , thermal storage including molten salts which can efficiently store and release very large quantities of heat energy, [99] and compressed air energy storage , flywheels , cryogenic systems and superconducting magnetic coils . Surplus power can also be converted into methane ( sabatier process ) with stockage in the natural gas network. [100] [101] In 2011, the Bonneville Power Administration in the northwestern United States created an experimental program to absorb excess wind and hydro power generated at night or during stormy periods that are accompanied by high winds. Under central control, home appliances absorb surplus energy by heating ceramic bricks in special space heaters to hundreds of degrees and by boosting the temperature of modified hot water heater tanks . After charging, the appliances provide home heating and hot water as needed. The experimental system was created as a result of a severe 2010 storm that overproduced renewable energy to the extent that all conventional power sources were shut down, or in the case of a nuclear power plant, reduced to its lowest possible operating level, leaving a large area running almost completely on renewable energy. [102] [103] Another advanced method used at the former Solar Two project in the United States and the Solar Tres Power Tower in Spain uses molten salt to store thermal energy captured from the sun and then convert it and dispatch it as electrical power. The system pumps molten salt through a tower or other special conduits to be heated by the sun. Insulated tanks store the solution. Electricity is produced by turning water to steam that is fed to turbines . Since the early 21st century batteries have been applied to utility scale load-leveling and frequency regulation capabilities. [96] In vehicle-to-grid storage, electric vehicles that are plugged into the energy grid can deliver stored electrical energy from their batteries into the grid when needed.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Abengoa_Solar_%287336087392%29.jpg/220px-Abengoa_Solar_%287336087392%29.jpg",
+                "caption": "Construction of the Salt Tanks which provide efficient thermal energy storage [92] so that electricity can be generated after the sun goes down, and output can be scheduled to meet demand. [93] The 280 MW Solana Generating Station is designed to provide six hours of storage. This allows the plant to generate about 38% of its rated capacity over the course of a year. [94]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Andasol_3.jpg/220px-Andasol_3.jpg",
+                "caption": "The 150 MW Andasol solar power station in Spain is a parabolic trough solar thermal power plant that stores energy in tanks of molten salt so that it can continue generating electricity when the sun is not shining. [95]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Development",
+        "text": "The concept of a flywheel-powered bus was developed and brought to fruition during the 1940s by Oerlikon (of Switzerland ), with the intention of creating an alternative to trolleybuses for quieter, lower-frequency routes, where full overhead-wire electrification could not be justified. Rather than carrying an internal combustion engine or batteries , or connecting to overhead powerlines, a gyrobus carries a large flywheel that is spun at up to 3,000 RPM by a \"squirrel cage\" motor . [1] Power for charging the flywheel was sourced by means of three booms mounted on the vehicle's roof, which contacted charging points located as required or where appropriate (at passenger stops en route, or at terminals, for instance). To obtain tractive power, capacitors would excite the flywheel's charging motor so that it became a generator, in this way transforming the energy stored in the flywheel back into electricity. Vehicle braking was electric, and some of the energy was recycled back into the flywheel, thereby extending its range. Fully charged, a gyrobus could typically travel as far as 6 km (3.7 mi) on a level route at speeds of up to 50 to 60 km/h (31 to 37 mph), depending on the total weight of passengers, as top speeds varied as passenger levels varied from stop to stop. The installation in Yverdon-les-Bains ( Switzerland ) sometimes saw vehicles needing to travel as far as 10 km (6.2 mi)  on one charge, although it is not known how well they performed towards the upper end of that distance. Charging a flywheel took between 30 seconds and 3 minutes; in an effort to reduce the charge time, the supply voltage was increased from 380 volts to 500 volts. Given the relatively restricted range between charges, it is likely that several charging stops would have been required on longer routes, or in dense urban traffic. It is not clear whether vehicles that require such frequent delays would have been practical and/or suitable for modern-day service applications. The demonstrator was first displayed (and used) publicly in summer 1950 and, to promote the system, this vehicle continued to be used for short periods of public service in myriad locations at least until 1954. In 1979, General Electric was awarded a $5 million four-year contract by the United States government, the Department of Energy and the Department of Transportation , to develop a prototype flywheel bus. [2] In the 1980s, Volvo briefly experimented with using flywheels charged by a small diesel engine and recharged via braking energy.  This was eventually dumped in favour of using hydraulic accumulators . During the 1990s, the Dutch Centre for Concepts in Mechatronics had developed a flywheel for both mobile and stationary applications. [3] In 2005, the Center for Transportation and the Environment , working with the University of Texas at Austin , Center for Electromechanics, Test Devices, Inc., and DRS Technologies sought funding for the development of a prototype gyrobus. [4]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gyrobus_aan_het_opladen.jpg/220px-Gyrobus_aan_het_opladen.jpg",
+                "caption": "Loading up the flywheel with three-phase charging"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gyrobus",
+        "title": "Gyrobus",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Demand side management and grid storage",
+        "text": "The demand side can also store electricity from the grid, for example charging a battery electric vehicle stores energy for a vehicle and storage heaters , district heating storage or ice storage provide thermal storage for buildings. [6] At present this storage serves only to shift consumption to the off-peak time of day, no electricity is returned to the grid. The need for grid storage to provide peak power is reduced by demand side time of use pricing , one of the benefits of smart meters . At the household level, consumers may choose less expensive off-peak times to wash and dry clothes, use dishwashers, take showers and cook. As well, commercial and industrial users will take advantage of cost savings by deferring some processes to off-peak times. Regional impacts from the unpredictable operation of wind power has created a new need for interactive demand response , where the utility communicates with the demand. Historically this was only done in cooperation with large industrial consumers, but now may be expanded to entire grids. [7] For instance, a few large-scale projects in Europe link variations in wind power to change industrial food freezer loads, causing small variations in temperature. If communicated on a grid-wide scale, small changes to heating/cooling temperatures would instantly change consumption across the grid. A report released in December 2013 by the United States Department of Energy further describes the potential benefits of energy storage and demand side technologies to the electric grid: \"Modernizing the electric system will help the nation meet the challenge of handling projected energy needs—including addressing climate change by integrating more energy from renewable sources and enhancing efficiency from non-renewable energy processes. Advances to the electric grid must maintain a robust and resilient electricity delivery system, and energy storage can play a significant role in meeting these challenges by improving the operating capabilities of the grid, lowering cost and ensuring high reliability, as well as deferring and reducing infrastructure investments. Finally, energy storage can be instrumental for emergency preparedness because of its ability to provide backup power as well as grid stabilization services\". [8] The report was written by a core group of developers representing Office of Electricity Delivery and Energy Reliability , ARPA-E , Office of Science , Office of Energy Efficiency and Renewable Energy , Sandia National Laboratories , and Pacific Northwest National Laboratory ; all of whom are engaged in the development of grid energy storage. [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Energy-Units-01.png/220px-Energy-Units-01.png",
+                "caption": "A sense of units and scale for electrical energy production and consumption"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Batteries",
+        "text": "Battery storage was used in the early days of direct current electric power. Where AC grid power was not readily available, isolated lighting plants run by wind turbines or internal combustion engines provided lighting and power to small motors. The battery system could be used to run the load without starting the engine or when the wind was calm. A bank of lead–acid batteries in glass jars both supplied power to illuminate lamps, as well as to start an engine to recharge the batteries. Battery storage technology is typically around 80% to more than 90% efficient for newer lithium-ion devices. [38] [39] Battery systems connected to large solid-state converters have been used to stabilize power distribution networks. Some grid batteries are co-located with renewable energy plants, either to smooth the power supplied by the intermittent wind or solar output, or to shift the power output into other hours of the day when the renewable plant cannot produce power directly (see Installation examples ). These hybrid systems (generation and storage) can either alleviate the pressure on the grid when connecting renewable sources or be used to reach self-sufficiency and work \"off-the-grid\" (see Stand-alone power system ). Contrary to electric vehicle applications, batteries for stationary storage do not suffer from mass or volume constraints. However, due to the large amounts of energy and power implied, the cost per power or energy unit is crucial. The relevant metrics to assess the interest of a technology for grid-scale storage is the $/Wh (or $/W) rather than the Wh/kg (or W/kg). The electrochemical grid storage was made possible thanks to the development of the electric vehicle, that induced a fast decrease in the production costs of batteries below $300/kWh. By optimizing the production chain, major industrials aimed to reach $150/kWh by the end of 2020, but actually achieved $140/kWh. The rate of decline in battery prices has consistently outpaced most estimates, reaching $132/kWh in 2021. [40] These batteries rely on a lithium-ion technology, which is suited for mobile applications (high cost, high density). Technologies optimized for the grid should focus on low cost per kWh.   Lithium iron phosphate batteries are increasingly being used in both vehicles and grid storage because of their low cost, scale and acceptable energy density for many applications. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Light-plant-Fig1198-Page989-Ch45-Hawkins-Electrical-Guide.png/220px-Light-plant-Fig1198-Page989-Ch45-Hawkins-Electrical-Guide.png",
+                "caption": "A 900 watt direct current light plant using 16 separate lead acid battery cells (32 volts) from 1917. [35]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Battery-cost-learning-curve.png/220px-Battery-cost-learning-curve.png",
+                "caption": "Learning curve of lithium-ion batteries: the price of batteries declined by 97% in three decades. [36] [37]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Electric vehicles",
+        "text": "Companies are researching the possible use of electric vehicles to meet peak demand. A parked and plugged-in electric vehicle could sell the electricity from the battery during peak loads and charge either during night (at home) or during off-peak. [69] Plug-in hybrid or electric cars could be used [70] [71] [72] for their energy storage capabilities. Vehicle-to-grid technology can be employed, turning each vehicle with its 20 to 50 kWh battery pack into a distributed load-balancing device or emergency power source. This represents two to five days per vehicle of average household requirements of 10 kWh per day, assuming annual consumption of 3,650 kWh. This quantity of energy is equivalent to between 60 and 480 kilometres (40 and 300 mi) of range in such vehicles consuming 0.1 to 0.3 kilowatt-hours per kilometre (0.16 to 0.5 kWh/mi). These figures can be achieved even in home-made electric vehicle conversions . Some electric utilities plan to use old plug-in vehicle batteries (sometimes resulting in a giant battery) to store electricity [73] [74] However, a large disadvantage of using vehicle to grid energy storage would be if each storage cycle stressed the battery with one complete charge-discharge cycle. [70] However, one major study showed that used intelligently, vehicle-to-grid storage actually improved the batteries longevity. [75] Conventional (cobalt-based) lithium-ion batteries break down with the number of cycles – newer li-ion batteries do not break down significantly with each cycle, and so have much longer lives. One approach is to reuse unreliable vehicle batteries in dedicated grid storage [76] as they are expected to be good in this role for ten years. [77] If such storage is done on a large scale it becomes much easier to guarantee replacement of a vehicle battery degraded in mobile use, as the old battery has value and immediate use.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg/220px-Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg",
+                "caption": "Nissan Leaf , the world's top-selling highway-capable electric car as of 2015"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Flywheel",
+        "text": "Mechanical inertia is the basis of this storage method. When the electric power flows into the device, an electric motor accelerates a heavy rotating disc. The motor acts as a generator when the flow of power is reversed, slowing down the disc and producing electricity. Electricity is stored as the kinetic energy of the disc. Friction must be kept to a minimum to prolong the storage time. This is often achieved by placing the flywheel in a vacuum and using magnetic bearings , tending to make the method expensive. Greater flywheel speeds allow greater storage capacity but require strong materials such as steel or composite materials to resist the centrifugal forces . The ranges of power and energy storage technology that make this method economic, however, tends to make flywheels unsuitable for general power system application; they are probably best suited to load-leveling applications on railway power systems and for improving power quality in renewable energy systems such as the 20MW system in Ireland. [78] [79] Applications that use flywheel storage are those that require very high bursts of power for very short durations such as tokamak [80] and laser experiments where a motor generator is spun up to operating speed and is partially slowed down during discharge. Flywheel storage is also currently used in the form of the Diesel rotary uninterruptible power supply to provide uninterruptible power supply systems (such as those in large datacenters ) for ride-through power necessary during transfer [81] – that is, the relatively brief amount of time between a loss of power to the mains and the warm-up of an alternate source, such as a diesel generator . This potential solution has been implemented by EDA [82] [ better source needed ] in the Azores on the islands of Graciosa and Flores . This system uses an 18 megawatt-second flywheel to improve power quality and thus allow increased renewable energy usage. As the description suggests, these systems are again designed to smooth out transient fluctuations in supply, and could never be used to cope with an outage exceeding a couple of days. Powercorp in Australia have been developing applications using wind turbines, flywheels and low load diesel (LLD) technology to maximize the wind input to small grids. A system installed in Coral Bay, Western Australia, uses wind turbines coupled with a flywheel based control system and LLDs. The flywheel technology enables the wind turbines to supply up to 95 percent of Coral Bay's energy supply at times, with a total annual wind penetration of 45 percent. [83]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/G2_front2.jpg/220px-G2_front2.jpg",
+                "caption": "NASA G2 flywheel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Pumped water",
+        "text": "In 2008, world pumped-storage generating capacity was 104 GW , [95] while other sources claim 127 GW, which comprises the vast majority of all types of grid electric storage – all other types combined are some hundreds of MW. [96] In many places, pumped-storage hydroelectricity is used to even out the daily generating load, by pumping water to a high storage reservoir during off-peak hours and weekends, using the excess base-load capacity from coal or nuclear sources.  During peak hours, this water can be used for hydroelectric generation, often as a high value rapid-response reserve to cover transient peaks in demand. Pumped storage recovers about 70% to 85% of the energy consumed, and is currently the most cost effective form of mass power storage. [97] The chief problem with pumped storage is that it usually requires two nearby reservoirs at considerably different heights, and often requires considerable capital expenditure. [98] Pumped water systems have high dispatchability , meaning they can come on-line very quickly, typically within 15 seconds, [99] which makes these systems very efficient at soaking up variability in electrical demand from consumers. There is over 90 GW of pumped storage in operation around the world, which is about 3% of instantaneous global generation capacity. Pumped water storage systems, such as the Dinorwig storage system in Britain, hold five or six hours of generating capacity, [99] and are used to smooth out demand variations. Another example is the 1836 MW Tianhuangping Pumped-Storage Hydro Plant in China, which has a reservoir capacity of eight million cubic meters (2.1 billion U.S. gallons or the volume of water over Niagara Falls in 25 minutes) with a vertical distance of 600 m (1970 feet). The reservoir can provide about 13 GW·h of stored gravitational potential energy (convertible to electricity at about 80% efficiency), or about 2% of China's daily electricity consumption. [100] A new concept in pumped-storage is utilizing wind energy or solar power to pump water. Wind turbines or solar cells that direct drive water pumps for an energy storing wind or solar dam can make this a more efficient process but are limited. Such systems can only increase kinetic water volume during windy and daylight periods. A study published in 2013 showed rooftop solar, coupled to existing pumped-storage, could replace the reactors lost at Fukushima with an equivalent capacity factor. [101]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG/220px-Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG",
+                "caption": "Mingtan Pumped-Storage Hydro Power Plant dam in Nantou , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Hydroelectric dams",
+        "text": "Hydroelectric dams with large reservoirs can also be operated to provide peak generation at times of peak demand. Water is stored in the reservoir during periods of low demand and released through the plant when demand is higher.  The net effect is the same as pumped storage, but without the pumping loss. Depending on the reservoir capacity the plant can provide daily, weekly, or seasonal load following. Many existing hydroelectric dams are fairly old (for example, the Hoover Dam was built in the 1930s), and their original design predated the newer intermittent power sources such as wind and solar by decades. A hydroelectric dam originally built to provide baseload power will have its generators sized according to the average flow of water into the reservoir. Uprating such a dam with additional generators increases its peak power output capacity, thereby increasing its capacity to operate as a virtual grid energy storage unit. [102] [103] The United States Bureau of Reclamation reports an investment cost of $69 per kilowatt capacity to uprate an existing dam, [102] compared to more than $400 per kilowatt for oil-fired peaking generators. While an uprated hydroelectric dam does not directly store excess energy from other generating units, it behaves equivalently by accumulating its own fuel – incoming river water – during periods of high output from other generating units. Functioning as a virtual grid storage unit in this way, the uprated dam is one of the most efficient forms of energy storage, because it has no pumping losses to fill its reservoir, only increased losses to evaporation and leakage. A dam which impounds a large reservoir can store and release a correspondingly large amount of energy, by controlling river outflow and raising or lowering its reservoir level a few meters. Limitations do apply to dam operation, their releases are commonly subject to government regulated water rights to limit downstream effect on rivers. For example, there are grid situations where baseload thermal plants, nuclear or wind turbines are already producing excess power at night, dams are still required to release enough water to maintain adequate river levels, whether electricity is generated or not. Conversely there's a limit to peak capacity, which if excessive could cause a river to flood for a few hours each day. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/FeiCueiReservoir.jpg/220px-FeiCueiReservoir.jpg",
+                "caption": "Fetsui hydroelectric dam in New Taipei , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Offline/standby",
+        "text": "The offline/standby UPS offers only the most basic features, providing surge protection and battery backup. The protected equipment is normally connected directly to incoming utility power. When the incoming voltage falls below or rises above a predetermined level the UPS turns on its internal DC-AC inverter circuitry, which is powered from an internal storage battery. The UPS then mechanically switches the connected equipment on to its DC-AC inverter output. The switch-over time can be as long as 25 milliseconds depending on the amount of time it takes the standby UPS to detect the lost utility voltage. The UPS will be designed to power certain equipment, such as a personal computer, without any objectionable dip or brownout to that device.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Standby_UPS_Diagram_SVG.svg/350px-Standby_UPS_Diagram_SVG.svg.png",
+                "caption": "Offline/standby UPS: The green line illustrates the flow of electric power. Typical protection time: 5–20 minutes. Capacity expansion: Usually not available."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Uninterruptible_power_supply",
+        "title": "Uninterruptible power supply",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Line-interactive",
+        "text": "The line-interactive UPS is similar in operation to a standby UPS, but with the addition of a multi-tap variable-voltage autotransformer . This is a special type of transformer that can add or subtract powered coils of wire, thereby increasing or decreasing the magnetic field and the output voltage of the transformer. This may also be performed by a buck–boost transformer which is distinct from an autotransformer, since the former may be wired to provide galvanic isolation . This type of UPS is able to tolerate continuous under voltage brownouts and overvoltage surges without consuming the limited reserve battery power. It instead compensates by automatically selecting different power taps on the autotransformer. Depending on the design, changing the autotransformer tap can cause a very brief output power disruption, [6] which may cause UPSs equipped with a power-loss alarm to \"chirp\" for a moment. This has become popular even in the cheapest UPSes because it takes advantage of components already included. The main 50/60 Hz transformer used to convert between line voltage and battery voltage needs to provide two slightly different turns ratios: One to convert the battery output voltage (typically a multiple of 12 V) to line voltage, and a second one to convert the line voltage to a slightly higher battery charging voltage (such as a multiple of 14 V). The difference between the two voltages is because charging a battery requires a delta voltage (up to 13–14 V for charging a 12 V battery). Furthermore, it is easier to do the switching on the line-voltage side of the transformer because of the lower currents on that side. To gain the buck/boost feature, all that is required is two separate switches so that the AC input can be connected to one of the two primary taps, while the load is connected to the other, thus using the main transformer's primary windings as an autotransformer. The battery can still be charged while \"bucking\" an overvoltage, but while \"boosting\" an undervoltage, the transformer output is too low to charge the batteries. Autotransformers can be engineered to cover a wide range of varying input voltages, but this requires more taps and increases complexity, as well as the expense of the UPS. It is common for the autotransformer to cover a range only from about 90 V to 140 V for 120 V power, and then switch to battery if the voltage goes much higher or lower than that range. In low-voltage conditions the UPS will use more current than normal, so it may need a higher current circuit than a normal device. For example, to power a 1000-W device at 120 V, the UPS will draw 8.33 A. If a brownout occurs and the voltage drops to 100 V, the UPS will draw 10 A to compensate. This also works in reverse, so that in an overvoltage condition, the UPS will need less current.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Line-Interactive_UPS_Diagram_SVG.svg/500px-Line-Interactive_UPS_Diagram_SVG.svg.png",
+                "caption": "Line-interactive UPS: The green line illustrates the flow of electric power. Typical protection time: 5–30 minutes. Capacity expansion: several hours."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Uninterruptible_power_supply",
+        "title": "Uninterruptible power supply",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Outdoor use",
+        "text": "When a UPS system is placed outdoors, it should have some specific features that guarantee that it can tolerate weather without any effects on performance. Factors such as temperature, humidity , rain, and snow among others should be considered by the manufacturer when designing an outdoor UPS system. Operating temperature ranges for outdoor UPS systems could be around −40 °C to +55 °C . [17] Outdoor UPS systems can either be pole, ground (pedestal), or host mounted. Outdoor environment could mean extreme cold, in which case the outdoor UPS system should include a battery heater mat, or extreme heat, in which case the outdoor UPS system should include a fan system or an air conditioning system. A solar inverter , or PV inverter , or solar converter , converts the variable direct current (DC) output of a photovoltaic (PV) solar panel into a utility frequency alternating current (AC) that can be fed into a commercial electrical grid or used by a local, off-grid electrical network. It is a critical BOS –component in a photovoltaic system , allowing the use of ordinary AC-powered equipment. Solar inverters have special functions adapted for use with photovoltaic arrays, including maximum power point tracking and anti- islanding protection.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sunny_Boy_3000.jpg/300px-Sunny_Boy_3000.jpg",
+                "caption": "Internal view of a solar inverter. Note the many large capacitors (blue cylinders), used to store energy briefly and improve the output waveform."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Uninterruptible_power_supply",
+        "title": "Uninterruptible power supply",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Harmonic distortion",
+        "text": "The output of some electronic UPSes can have a significant departure from an ideal sinusoidal waveform. This is especially true of inexpensive consumer-grade single-phase units designed for home and office use. These often utilize simple switching AC power supplies and the output resembles a square wave rich in harmonics. These harmonics can cause interference with other electronic devices including radio communication and some devices (e.g. inductive loads such as AC motors) may perform with reduced efficiency or not at all. More sophisticated (and expensive) UPS units can produce nearly pure sinusoidal AC power.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/APC_Back-UPS_550_Uninterruptible_Power_Supply_Output_Waveform.jpg/360px-APC_Back-UPS_550_Uninterruptible_Power_Supply_Output_Waveform.jpg",
+                "caption": "UPS output waveform (yellow) compared to normal 120 VAC 60 Hz power waveform (violet)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Uninterruptible_power_supply",
+        "title": "Uninterruptible power supply",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    },
+    {
+        "section": "Batteries",
+        "text": "There are three main types of UPS batteries: Valve Regulated Lead Acid (VRLA), Flooded Cell or VLA batteries, and Lithium Ion batteries.\nThe run-time for a battery-operated UPS depends on the type and size of batteries and rate of discharge, and the efficiency of the inverter. The total capacity of a lead–acid battery is a function of the rate at which it is discharged, which is described as Peukert's law . Manufacturers supply run-time rating in minutes for packaged UPS systems. Larger systems (such as for data centers) require detailed calculation of the load, inverter efficiency, and battery characteristics to ensure the required endurance is attained. [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/EPS_6000_Battery_Cabinet.jpg/220px-EPS_6000_Battery_Cabinet.jpg",
+                "caption": "Battery cabinet"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Uninterruptible_power_supply",
+        "title": "Uninterruptible power supply",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Flywheel energy storage"
+    }
+]

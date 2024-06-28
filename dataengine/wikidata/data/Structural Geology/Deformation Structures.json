@@ -1,0 +1,560 @@
+[
+    {
+        "section": "Types of deformation",
+        "text": "Depending on the type of material, size and geometry of the object, and the forces applied, various types of deformation may result. The image to the right shows the engineering stress vs. strain diagram for a typical ductile material such as steel. Different deformation modes may occur under different conditions, as can be depicted using a deformation mechanism map . Permanent deformation is irreversible; the deformation stays even after removal of the applied forces, while the temporary deformation is recoverable as it disappears after the removal of applied forces.\nTemporary deformation is also called elastic deformation, while the permanent deformation is called plastic deformation.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Stress_Strain_Ductile_Material.png/330px-Stress_Strain_Ductile_Material.png",
+                "caption": "Typical stress vs. strain diagram indicating the various stages of deformation."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Deformation_(engineering)",
+        "title": "Deformation (engineering)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Elastic deformation",
+        "text": "The study of temporary or elastic deformation in the case of engineering strain is applied to materials used in mechanical and structural engineering, such as concrete and steel , which are subjected to very small deformations. Engineering strain is modeled by infinitesimal strain theory , also called small strain theory , small deformation theory , small displacement theory , or small displacement-gradient theory where strains and rotations are both small. For some materials, e.g. elastomers and polymers, subjected to large deformations, the engineering definition of strain is not applicable, e.g. typical engineering strains greater than 1%, [1] thus other more complex definitions of strain are required, such as stretch , logarithmic strain , Green strain , and Almansi strain . Elastomers and shape memory metals such as Nitinol exhibit large elastic deformation ranges, as does rubber . However, elasticity is nonlinear in these materials. Normal metals, ceramics and most crystals show linear elasticity and a smaller elastic range. Linear elastic deformation is governed by Hooke's law , which states: where This relationship only applies in the elastic range and indicates that the slope of the stress vs. strain curve can be used to find Young's modulus ( E ). Engineers often use this calculation in tensile tests. The area under this elastic region is known as resilience. Note that not all elastic materials undergo linear elastic deformation; some, such as concrete , gray cast iron , and many polymers, respond in a nonlinear fashion. For these materials Hooke's law is inapplicable. [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Stress_strain_comparison.gif",
+                "caption": "Difference in true and engineering stress-strain curves"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Deformation_(engineering)",
+        "title": "Deformation (engineering)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Plastic deformation",
+        "text": "This type of deformation is not undone simply by removing the applied force. An object in the plastic deformation range, however, will first have undergone elastic deformation, which is undone simply be removing the applied force, so the object will return part way to its original shape. Soft thermoplastics have a rather large plastic deformation range as do ductile metals such as copper , silver , and gold . Steel does, too, but not cast iron . Hard thermosetting plastics, rubber, crystals, and ceramics have minimal plastic deformation ranges. An example of a material with a large plastic deformation range is wet chewing gum , which can be stretched to dozens of times its original length. Under tensile stress, plastic deformation is characterized by a strain hardening region and a necking region and finally, fracture (also called rupture). During strain hardening the material becomes stronger through the movement of atomic dislocations . The necking phase is indicated by a reduction in cross-sectional area of the specimen. Necking begins after the ultimate strength is reached. During necking, the material can no longer withstand the maximum stress and the strain in the specimen rapidly increases. Plastic deformation ends with the fracture of the material.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pannzerung_plastische_deformation.png/220px-Pannzerung_plastische_deformation.png",
+                "caption": "Swebor-brand high-strength low alloy steel plate, showing both sides, after plastic deformation from bringing to rest projectiles in ballistics testing."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stress-strain1.svg/290px-Stress-strain1.svg.png",
+                "caption": "Diagram of a stress–strain curve , showing the relationship between stress (force applied) and strain (deformation) of a ductile metal."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Deformation_(engineering)",
+        "title": "Deformation (engineering)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "True stress and strain",
+        "text": "Since we disregard the change of area during deformation above, the true stress and strain curve should be re-derived. For deriving the stress strain curve, we can assume that the volume change is 0 even if we deformed the materials. We can assume that: Then, the true stress can be expressed as below: Additionally, the true strain ε T can be expressed as below: Then, we can express the value as Thus, we can induce the plot in terms of σ T {\\displaystyle \\sigma _{T}} and ε E {\\displaystyle \\varepsilon _{E}} as right figure. Additionally, based on the true stress-strain curve, we can estimate the region where necking starts to happen. Since necking starts to appear after ultimate tensile stress where the maximum force applied, we can express this situation as below: so this form can be expressed as below: It indicates that the necking starts to appear where reduction of area becomes much significant compared to the stress change. Then the stress will be localized to specific area where the necking appears. Additionally, we can induce various relation based on true stress-strain curve. 1) True strain and stress curve can be expressed by the approximate linear relationship by taking a log on true stress and strain. The relation can be expressed as below: Where K {\\displaystyle K} is stress coefficient and n {\\displaystyle n} is strain-hardening coefficient. Usually, the value of n {\\displaystyle n} has range around 0.02 to 0.5 at room temperature. If n {\\displaystyle n} is 1, we can express this material as perfect elastic material. [3] [4] 2) In reality, stress is also highly dependent on the rate of strain variation. Thus, we can induce the empirical equation based on the strain rate variation. Where K ′ {\\displaystyle K'} is constant related to the material flow stress. ε T ˙ {\\displaystyle {\\dot {\\varepsilon _{T}}}} indicates the derivative of strain by the time, which is also known as strain rate. m {\\displaystyle m} is the strain-rate sensitivity. Moreover, value of m {\\displaystyle m} is related to the resistance toward the necking. Usually, the value of m {\\displaystyle m} is at the range of 0-0.1 at room temperature and as high as 0.8 when the temperature is increased. By combining the 1) and 2), we can create the ultimate relation as below: Where K ″ {\\displaystyle K''} is the global constant for relating strain, strain rate and stress. 3) Based on the true stress-strain curve and its derivative form, we can estimate the strain necessary to start necking. This can be calculated based on the intersection between true stress-strain curve as shown in right. This figure also shows the dependency of the necking strain at different temperature. In case of FCC metals, both of the stress-strain curve at its derivative are highly dependent on temperature. Therefore, at higher temperature, necking starts to appear even under lower strain value. All of these properties indicate the importance of calculating the true stress-strain curve for further analyzing the behavior of materials in sudden environment. 4) A graphical method, so-called \"Considere construction\", can help determine the behavior of stress-strain curve whether necking or drawing happens on the sample. By setting λ = L / L 0 {\\displaystyle \\lambda =L/L_{0}} as determinant, the true stress and strain can be expressed with engineering stress and strain as below: Therefore, the value of engineering stress can be expressed by the secant line from made by true stress and λ {\\displaystyle \\lambda } value where λ = 0 {\\displaystyle \\lambda =0} to λ = 1 {\\displaystyle \\lambda =1} . By analyzing the shape of σ T − λ {\\displaystyle \\sigma _{T}-\\lambda } diagram and secant line, we can determine whether the materials show drawing or necking. On the figure (a), there is only concave upward Considere plot. It indicates that there is no yield drop so the material will be suffered from fracture before it yields. On the figure (b), there is specific point where the tangent matches with secant line at point where λ = λ Y {\\displaystyle \\lambda =\\lambda _{Y}} . After this value, the slope becomes smaller than the secant line where necking starts to appear. On the figure (c), there is point where yielding starts to appear but when λ = λ d {\\displaystyle \\lambda =\\lambda _{d}} , the drawing happens. After drawing, all the material will stretch and eventually show fracture. Between λ Y {\\displaystyle \\lambda _{Y}} and λ d {\\displaystyle \\lambda _{d}} , the material itself does not stretch but rather, only the neck starts to stretch out.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/The_way_to_calculate_the_true_strain_where_necking_starts.png",
+                "caption": "True stress-strain curve of FCC metal and its derivative form [3]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Figureforneckdraw.jpg/590px-Figureforneckdraw.jpg",
+                "caption": "Considere Plot. (a) True stress-strain curve without tangents. There is neither necking nor drawing. (b) With one tangent. There is only necking. (c) With two tangents. There are both necking and drawing. [5]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Deformation_(engineering)",
+        "title": "Deformation (engineering)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Experimental methods",
+        "text": "Stress analysis can be performed experimentally by applying forces to a test element or structure and then determining the resulting stress using sensors . In this case the process would more properly be known as testing ( destructive or non-destructive ). Experimental methods may be used in cases where mathematical approaches are cumbersome or inaccurate. Special equipment appropriate to the experimental method is used to apply the static or dynamic loading. There are a number of experimental methods which may be used:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Plastic_Protractor_Polarized_05375.jpg/220px-Plastic_Protractor_Polarized_05375.jpg",
+                "caption": "Stress in plastic protractor causes birefringence ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress%E2%80%93strain_analysis",
+        "title": "Stress–strain analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Built-in stress (preloaded)",
+        "text": "A preloaded structure is one that has internal forces, stresses, and strains imposed within it by various means prior to application of externally applied forces. For example, a structure may have cables that are tightened, causing forces to develop in the structure, before any other loads are applied. Tempered glass is a commonly found example of a preloaded structure that has tensile forces and stresses that act on the plane of the glass and in the central plane of glass that causes compression forces to act on the external surfaces of that glass. The mathematical problem represented is typically ill-posed because it has an infinitude of solutions. In fact, in any three-dimensional solid body one may have infinitely many (and infinitely complicated) non-zero stress tensor fields that are in stable equilibrium even in the absence of external forces.  These stress fields are often termed hyperstatic stress fields [5] and they co-exist with the stress fields that balance the external forces.  In linear elasticity, their presence is required to satisfy the strain/displacement compatibility requirements and in limit analysis their presence is required to maximise the load carrying capacity of the structure or component. Such built-in stress may occur due to many physical causes, either during manufacture (in processes like extrusion , casting or cold working ), or after the fact (for example because of uneven heating, or changes in moisture content or chemical composition).  However, if the system can be assumed to behave in a linear fashion with respect to the loading and response of the system, then effect of preload can be accounted for by adding the results of a preloaded structure and the same non-preloaded structure. If linearity cannot be assumed, however, any built-in stress may affect the distribution of internal forces induced by applied loads (for example, by changing the effective stiffness of the material) or even cause an unexpected material failure.  For these reasons, a number of techniques have been developed to avoid or reduce built-in stress, such as annealing of cold-worked glass and metal parts, expansion joints in buildings, and roller joints for bridges.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hyperstatic_Stress_Field.jpg/240px-Hyperstatic_Stress_Field.jpg",
+                "caption": "Example of a Hyperstatic Stress Field."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hyperstatic_Moment_Field.jpg/240px-Hyperstatic_Moment_Field.jpg",
+                "caption": "Example of a Hyperstatic Moment Field."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress%E2%80%93strain_analysis",
+        "title": "Stress–strain analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Simplifications",
+        "text": "Stress analysis is simplified when the physical dimensions and the distribution of loads allow the structure to be treated as one- or two-dimensional. In the analysis of a bridge, its three dimensional structure may be idealized  as a single planar structure, if all forces are acting in the plane of the trusses of the bridge. Further, each member of the truss structure might then be treated a uni-dimensional members with the forces acting along the axis of each member. In which case, the differential equations reduce to a finite set of equations  with finitely many unknowns. If the stress distribution can be assumed to be uniform (or predictable, or unimportant) in one direction, then one may use the assumption of plane stress and plane strain behavior and the equations that describe the stress field are then a function of two coordinates only, instead of three. Even under the assumption of linear elastic behavior of the material, the relation between the stress and strain tensors is generally expressed by a fourth-order stiffness tensor with 21 independent coefficients (a symmetric 6 × 6 stiffness matrix). This complexity may be required for general anisotropic materials, but for many common materials it can be simplified. For orthotropic materials such as wood, whose stiffness is symmetric with respect to each of three orthogonal planes, nine coefficients suffice to express the stress–strain relationship.  For isotropic materials, these coefficients reduce to only two. One may be able to determine a priori that, in some parts of the system, the stress will be of a certain type, such as uniaxial tension or compression , simple shear , isotropic compression or tension, torsion , bending , etc.  In those parts, the stress field may then be represented by fewer than six numbers, and possibly just one.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Loaded_truss.svg/240px-Loaded_truss.svg.png",
+                "caption": "Simplified modeling of a truss by unidimensional elements under uniaxial uniform stress."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress%E2%80%93strain_analysis",
+        "title": "Stress–strain analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Cauchy's stress quadric",
+        "text": "The Cauchy's stress quadric, also called the stress surface , is a surface of the second order that traces the variation of the normal stress vector σ n {\\displaystyle \\sigma _{\\mathrm {n} }} as the orientation of the planes passing through a given point is changed. The complete state of stress in a body at a particular deformed configuration, i.e., at a particular time during the motion of the body, implies knowing the six independent components of the stress tensor ( σ 11 , σ 22 , σ 33 , σ 12 , σ 23 , σ 13 ) {\\displaystyle (\\sigma _{11},\\sigma _{22},\\sigma _{33},\\sigma _{12},\\sigma _{23},\\sigma _{13})\\,\\!} , or the three principal stresses ( σ 1 , σ 2 , σ 3 ) {\\displaystyle (\\sigma _{1},\\sigma _{2},\\sigma _{3})\\,\\!} , at each material point in the body at that time. However, numerical analysis and analytical methods allow only for the calculation of the stress tensor at a certain number of discrete material points. To graphically represent in two dimensions this partial picture of the stress field different sets of contour lines can be used: [6]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Stress_Trajectories_in_a_Plate_Membrane.jpg/220px-Stress_Trajectories_in_a_Plate_Membrane.jpg",
+                "caption": "Stress Trajectories in a Plate Membrane"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress%E2%80%93strain_analysis",
+        "title": "Stress–strain analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Columns",
+        "text": "The ratio of the effective length of a column to the least radius of gyration of its cross section is called the slenderness ratio (sometimes expressed with the Greek letter lambda, λ). This ratio affords a means of classifying columns and their failure mode. The slenderness ratio is important for design considerations. All the following are approximate values used for convenience. If the load on a column is applied through the center of gravity (centroid) of its cross section, it is called an axial load . A load at any other point in the cross section is known as an eccentric load. A short column under the action of an axial load will fail  by direct compression before it buckles, but a long column loaded in the same manner will fail by springing suddenly outward laterally (buckling) in a bending mode. The buckling mode of deflection is considered a failure mode, and it generally occurs before the axial compression stresses (direct compression) can cause failure of the material by yielding or fracture of that compression member. However, intermediate-length columns will fail by a combination of direct compressive stress and bending. In particular: The theory of the behavior of columns was investigated in 1757 by mathematician Leonhard Euler . He derived the formula, termed Euler's critical load , that gives the maximum axial load that a long, slender, ideal column can carry without buckling. An ideal column is one that is: When the applied load reaches the Euler load, sometimes called the critical load, the column comes to be in a state of unstable equilibrium . At that load, the introduction of the slightest lateral force will cause the column to fail by suddenly \"jumping\" to a new configuration, and the column is said to have buckled. This is what happens when a person stands on an empty aluminum can and then taps the sides briefly, causing it to then become instantly crushed (the vertical sides of the can may be understood as an infinite series of extremely thin columns). [ citation needed ] The formula derived by Euler for long slender columns is F c = π 2 E I ( K L ) 2 {\\displaystyle F_{c}={\\frac {\\pi ^{2}EI}{(KL)^{2}}}} where Examination of this formula reveals the following facts with regard to the load-bearing ability of slender columns. A conclusion from the above is that the buckling load of a column may be increased by changing its material to one with a higher modulus of elasticity (E), or changing the design of the column's cross section so as to increase its moment of inertia. The latter can be done without increasing the weight of the column by distributing the material as far from the principal axis of the column's cross section as possible. For most purposes, the most effective use of the material of a column is that of a tubular section. Another insight that may be gleaned from this equation is the effect of length on critical load. Doubling the unsupported length of the column quarters the allowable load. The restraint offered by the end connections of a column also affects its critical load. If the connections are perfectly rigid (not allowing rotation of its ends), the critical load will be four times that for a similar column where the ends are pinned (allowing rotation of its ends). Since the radius of gyration is defined as the square root of the ratio of the column's moment of inertia about an axis to its cross sectional area, the above Euler formula may be reformatted by substituting the radius of gyration A r 2 {\\displaystyle Ar^{2}} for I {\\displaystyle I} : σ = F A = π 2 E ( l / r ) 2 {\\displaystyle \\sigma ={\\frac {F}{A}}={\\frac {\\pi ^{2}E}{(l/r)^{2}}}} where σ = F / A {\\displaystyle \\sigma =F/A} is the stress that causes buckling in the column, and l / r {\\displaystyle l/r} is the slenderness ratio. Since structural columns are commonly of intermediate length, the Euler formula has little practical application for ordinary design. Issues that cause deviation from the pure Euler column behaviour include imperfections in geometry of the column in combination with plasticity/non-linear stress strain behaviour of the column's material. Consequently, a number of empirical column formulae have been developed that agree with test data, all of which embody the slenderness ratio. Due to the uncertainty in the behavior of columns, for design, appropriate safety factors are introduced into these formulae. One such formula is the Perry Robertson formula which estimates the critical buckling load based on an assumed small initial curvature, hence an eccentricity of the axial load. The Rankine Gordon formula, named for William John Macquorn Rankine and Perry Hugesworth Gordon (1899 – 1966), is also based on experimental results and suggests that a column will buckle at a load F max given by: 1 F max = 1 F e + 1 F c {\\displaystyle {\\frac {1}{F_{\\max }}}={\\frac {1}{F_{e}}}+{\\frac {1}{F_{c}}}} where F e {\\displaystyle F_{e}} is the Euler maximum load and F c {\\displaystyle F_{c}} is the maximum compressive load. This formula typically produces a conservative estimate of F max {\\displaystyle F_{\\max }} .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Buckled_column.svg/220px-Buckled_column.svg.png",
+                "caption": "A column under a concentric axial load exhibiting the characteristic deformation of buckling"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Buckling_beam_element.svg/220px-Buckling_beam_element.svg.png",
+                "caption": "The eccentricity of the axial force results in a bending moment acting on the beam element."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Buckledmodel.JPG/220px-Buckledmodel.JPG",
+                "caption": "A demonstration model illustrating the different \"Euler\" buckling modes. The model shows how the boundary conditions affect the critical load of a slender column. The columns are identical, apart from the boundary conditions."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Buckling",
+        "title": "Buckling",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Lateral-torsional buckling",
+        "text": "When a simply supported beam is loaded in bending , the top side is in compression , and the bottom side is in tension . If the beam is not supported in the lateral direction (i.e., perpendicular to the plane of bending), and the flexural load increases to a critical limit, the beam will experience a lateral deflection of the compression flange as it buckles locally. The lateral deflection of the compression flange is restrained by the beam web and tension flange, but for an open section the twisting mode is more flexible, hence the beam both twists and deflects laterally in a failure mode known as lateral-torsional buckling . In wide-flange sections (with high lateral bending stiffness), the deflection mode will be mostly twisting in torsion. In narrow-flange sections, the bending stiffness is lower and the column's deflection will be closer to that of lateral bucking deflection mode. The use of closed sections such as square hollow section will mitigate the effects of lateral-torsional buckling by virtue of their high torsional stiffness . C b is a modification factor used in the equation for nominal flexural strength when determining lateral-torsional buckling.  The reason for this factor is to allow for non-uniform moment diagrams when the ends of a beam segment are braced.  The conservative value for C b can be taken as 1, regardless of beam configuration or loading, but in some cases it may be excessively conservative. C b is always equal to or greater than 1, never less. For cantilevers or overhangs where the free end is unbraced, C b is equal to 1. Tables of values of C b for simply supported beams exist. If an appropriate value of C b is not given in tables, it can be obtained via the following formula: C b = 12.5 M max 2.5 M max + 3 M A + 4 M B + 3 M C {\\displaystyle C_{b}={\\frac {12.5M_{\\max }}{2.5M_{\\max }+3M_{A}+4M_{B}+3M_{C}}}} where The result is the same for all unit systems.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Biegedrillknicken-svg.svg/330px-Biegedrillknicken-svg.svg.png",
+                "caption": "Lateral-torsional buckling of an I-beam with vertical force in center: a) longitudinal view, b) cross section near support, c) cross section in center with lateral-torsional buckling"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Buckling",
+        "title": "Buckling",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Rail tracks",
+        "text": "Similarly, rail tracks also expand when heated , and can fail by buckling, a phenomenon called sun kink . It is more common for rails to move laterally, often pulling the underlying ties (sleepers) along. These accidents were deemed to be sun kink-related ( more information available at List of rail accidents (2000–2009) ):",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Spoorspatting_Landgraaf.jpg/220px-Spoorspatting_Landgraaf.jpg",
+                "caption": "Railway tracks in the Netherlands affected by sun kink"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Buckling",
+        "title": "Buckling",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Geometries",
+        "text": "Primary data sets for structural geology are collected in the field. Structural geologists measure a variety of planar features ( bedding planes , foliation planes , fold axial planes, fault planes , and joints), and linear features (stretching lineations, in which minerals are ductilely extended; fold axes; and intersection lineations, the trace of a planar feature on another planar surface).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/StrikeDipPlungeRake.png/290px-StrikeDipPlungeRake.png",
+                "caption": "Illustration of measurement conventions for planar and linear structures"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Structural_geology",
+        "title": "Structural geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Stereographic projections",
+        "text": "Stereographic projection is a method for analyzing the nature and orientation of deformation stresses, lithological units and penetrative fabrics wherein linear and planar features (structural strike and dip readings, typically taken using a compass clinometer ) passing through an imagined sphere are plotted on a two-dimensional grid projection, facilitating more holistic analysis of a set of measurements. Stereonet [4] developed by Richard W. Allmendinger is widely used in the structural geology community.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Stero_projection_structural_geology.png/350px-Stero_projection_structural_geology.png",
+                "caption": "Diagram showing the use of lower hemisphere stereographic projection in structural geology using an example of a fault plane and a slickenside lineation observed within the fault plane."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Structural_geology",
+        "title": "Structural geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Ripple marks",
+        "text": "Ripple marks usually form in conditions with flowing water, in the lower part of the Lower Flow Regime.  There are two types of ripple marks :",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WaveRipple.JPG/220px-WaveRipple.JPG",
+                "caption": "Wave ripple or symmetric ripple, from Permian rocks in Nomgon , Mongolia with \"decapitation\" of ripple crests due to change in current"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_structures",
+        "title": "Sedimentary structures",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Biological structures",
+        "text": "A number of biologically-created sedimentary structures exist, called trace fossils .  Examples include burrows and various expressions of bioturbation . Ichnofacies are groups of trace fossils that together help give information on the depositional environment.  In general, as deeper (into the sediment) burrows become more common, the shallower the water.  As (intricate) surface traces become more common, the water becomes deeper. Microbes may also interact with sediment to form microbially induced sedimentary structures .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Skolithos.jpg/220px-Skolithos.jpg",
+                "caption": "Skolithos trace fossil (scale bar is 10 mm)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_structures",
+        "title": "Sedimentary structures",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Soft sediment deformation structures",
+        "text": "Soft-sediment deformation structures or SSD, is a consequence of the loading of wet sediment as burial continues after deposition.  The heavier sediment \"squeezes\" the water out of the underlying sediment due to its own weight.  There are three common variants of SSD:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Soft_Sediment_Deformation_Dead_Sea.JPG/220px-Soft_Sediment_Deformation_Dead_Sea.JPG",
+                "caption": "Soft sediment deformation (possibly a seismite ) in Dead Sea sediments, Israel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_structures",
+        "title": "Sedimentary structures",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Bedding plane structures",
+        "text": "Bedding Plane Structures are commonly used as paleocurrent indicators.  They are formed when sediment has been deposited and then reworked and reshaped.  They include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/FluteCast.JPG/220px-FluteCast.JPG",
+                "caption": "Flute cast from Book Cliffs area, Utah"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mudcracks_roundtop_hill_MD.jpg/220px-Mudcracks_roundtop_hill_MD.jpg",
+                "caption": "Mudcracks in rock at Roundtop Hill , Maryland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_structures",
+        "title": "Sedimentary structures",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Within bedding structures",
+        "text": "These structures are within sedimentary bedding and can help with the interpretation of depositional environment and paleocurrent directions.  They are formed when the sediment is deposited.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Logan_Formation_Cross_Bedding_Scour.jpg/220px-Logan_Formation_Cross_Bedding_Scour.jpg",
+                "caption": "Cross-bedding and scour in a fine sandstone ( Logan Formation , Mississippian , Jackson County, Ohio )"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Halite_Teepee_structure_Dead_Sea_031712.JPG/220px-Halite_Teepee_structure_Dead_Sea_031712.JPG",
+                "caption": "A teepee structure in modern halite deposits along the western shore of the Dead Sea, Israel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sedimentary_structures",
+        "title": "Sedimentary structures",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Theoretical framework",
+        "text": "Creep behavior can be split into three main stages. In primary, or transient, creep, the strain rate is a function of time. In Class M materials, which include most pure materials, primary strain rate decreases over time. This can be due to increasing dislocation density , or it can be due to evolving grain size . In class A materials, which have large amounts of solid solution hardening, strain rate increases over time due to a thinning of solute drag atoms as dislocations move. [5] In the secondary, or steady-state, creep, dislocation structure and grain size have reached equilibrium, and therefore strain rate is constant. Equations that yield a strain rate refer to the steady-state strain rate. Stress dependence of this rate depends on the creep mechanism. In tertiary creep, the strain rate exponentially increases with stress. This can be due to necking phenomena, internal cracks, or voids, which all decrease the cross-sectional area and increase the true stress on the region, further accelerating deformation and leading to fracture. [6]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/3StageCreep.svg/220px-3StageCreep.svg.png",
+                "caption": "Strain ( ε ) as a function of time due to constant stress over an extended period for a Class M material"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Creep_(deformation)",
+        "title": "Creep (deformation)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Nabarro–Herring creep",
+        "text": "Nabarro–Herring (NH) creep is a form of diffusion creep , while dislocation glide creep does not involve atomic diffusion. Nabarro–Herring creep dominates at high temperatures and low stresses. As shown in the figure on the right, the lateral sides of the crystal are subjected to tensile stress and the horizontal sides to compressive stress. The atomic volume is altered by applied stress: it increases in regions under tension and decreases in regions under compression. So the activation energy for vacancy formation is changed by ± σΩ , where Ω is the atomic volume, the positive value is for compressive regions and negative value is for tensile regions. Since the fractional vacancy concentration is proportional to exp(− Q f ± σΩ / RT ) , where Q f is the vacancy-formation energy, the vacancy concentration is higher in tensile regions than in compressive regions, leading to a net flow of vacancies from the regions under tension to the regions under compression, and this is equivalent to a net atom diffusion in the opposite direction, which causes the creep deformation: the grain elongates in the tensile stress axis and contracts in the compressive stress axis. In Nabarro–Herring creep, k is related to the diffusion coefficient of atoms through the lattice, Q = Q (self diffusion), m = 1, and b = 2. Therefore, Nabarro–Herring creep has a weak stress dependence and a moderate grain size dependence, with the creep rate decreasing as the grain size is increased. Nabarro–Herring creep is strongly temperature dependent. For lattice diffusion of atoms to occur in a material, neighboring lattice sites or interstitial sites in the crystal structure must be free. A given atom must also overcome the energy barrier to move from its current site (it lies in an energetically favorable potential well ) to the nearby vacant site (another potential well). The general form of the diffusion equation is where D 0 has a dependence on both the attempted jump frequency and the number of nearest neighbor sites and the probability of the sites being vacant. Thus there is a double dependence upon temperature. At higher temperatures the diffusivity increases due to the direct temperature dependence of the equation, the increase in vacancies through Schottky defect formation, and an increase in the average energy of atoms in the material. Nabarro–Herring creep dominates at very high temperatures relative to a material's melting temperature.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Nabarro_Herring_Creep1.png/220px-Nabarro_Herring_Creep1.png",
+                "caption": "A diagram showing the diffusion of atoms and vacancies under Nabarro–Herring creep"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Creep_(deformation)",
+        "title": "Creep (deformation)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Polymers",
+        "text": "Creep can occur in polymers and metals which are considered viscoelastic materials. When a polymeric material is subjected to an abrupt force, the response can be modeled using the Kelvin–Voigt model . In this model, the material is represented by a Hookean spring and a Newtonian dashpot in parallel. The creep strain is given by the following convolution integral: where σ is applied stress, C 0 is instantaneous creep compliance, C is creep compliance coefficient, τ is retardation time, and f ( τ ) is the distribution of retardation times. When subjected to a step constant stress, viscoelastic materials experience a time-dependent increase in strain. This phenomenon is known as viscoelastic creep. At a time t 0 , a viscoelastic material is loaded with a constant stress that is maintained for a sufficiently long time period. The material responds to the stress with a strain that increases until the material ultimately fails. When the stress is maintained for a shorter time period, the material undergoes an initial strain until a time t 1 at which the stress is relieved, at which time the strain immediately decreases (discontinuity) then continues decreasing gradually to a residual strain. Viscoelastic creep data can be presented in one of two ways. Total strain can be plotted as a function of time for a given temperature or temperatures. Below a critical value of applied stress, a material may exhibit linear viscoelasticity. Above this critical stress, the creep rate grows disproportionately faster. The second way of graphically presenting viscoelastic creep in a material is by plotting the creep modulus (constant applied stress divided by total strain at a particular time) as a function of time. [31] Below its critical stress, the viscoelastic creep modulus is independent of the stress applied. A family of curves describing strain versus time response to various applied stress may be represented by a single viscoelastic creep modulus versus time curve if the applied stresses are below the material's critical stress value. Additionally, the molecular weight of the polymer of interest is known to affect its creep behavior. The effect of increasing molecular weight tends to promote secondary bonding between polymer chains and thus make the polymer more creep resistant. Similarly, aromatic polymers are even more creep resistant due to the added stiffness from the rings. Both molecular weight and aromatic rings add to polymers' thermal stability, increasing the creep resistance of a polymer. [32] Both polymers and metals can creep. Polymers experience significant creep at temperatures above around −200 °C (−330 °F); however, there are three main differences between polymeric and metallic creep. In metals, creep is not linearly viscoelastic, it is not recoverable, and it is only present at high temperatures. [33] Polymers show creep basically in two different ways. At typical work loads (5% up to 50%) ultra-high-molecular-weight polyethylene (Spectra, Dyneema ) will show time-linear creep, whereas polyester or aramids ( Twaron , Kevlar ) will show a time-logarithmic creep.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Creep.svg/220px-Creep.svg.png",
+                "caption": "a) Applied stress and b) induced strain as functions of time over a short period for a viscoelastic material"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Creep_(deformation)",
+        "title": "Creep (deformation)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Case studies",
+        "text": "Although mostly due to the reduced yield strength at higher temperatures, the collapse of the World Trade Center was due in part to creep from increased temperature. [41] The creep rate of hot pressure-loaded components in a nuclear reactor at power can be a significant design constraint, since the creep rate is enhanced by the flux of energetic particles. Creep in epoxy anchor adhesive was blamed for the Big Dig tunnel ceiling collapse in Boston , Massachusetts that occurred in July 2006. [42] The design of tungsten light bulb filaments attempts to reduce creep deformation. Sagging of the filament coil between its supports increases with time due to the weight of the filament itself. If too much deformation occurs, the adjacent turns of the coil touch one another, causing local overheating, which quickly leads to failure of the filament. The coil geometry and supports are therefore designed to limit the stresses caused by the weight of the filament, and a special tungsten alloy with small amounts of oxygen trapped in the crystallite grain boundaries is used to slow the rate of Coble creep . Creep can cause gradual cut-through of wire insulation, especially when stress is concentrated by pressing insulated wire against a sharp edge or corner. Special creep-resistant insulations such as Kynar ( polyvinylidene fluoride ) are used in wire wrap applications to resist cut-through due to the sharp corners of wire wrap terminals. Teflon insulation is resistant to elevated temperatures and has other desirable properties, but is notoriously vulnerable to cold-flow cut-through failures caused by creep. In steam turbine power plants, pipes carry steam at high temperatures (566 °C, 1,051 °F) and pressures (above 24.1 MPa, 3,500 psi). In jet engines, temperatures can reach up to 1,400 °C (2,550 °F) and initiate creep deformation in even advanced-design coated turbine blades. Hence, it is crucial for correct functionality to understand the creep deformation behavior of materials. Creep deformation is important not only in systems where high temperatures are endured such as nuclear power plants, jet engines and heat exchangers, but also in the design of many everyday objects. For example, metal paper clips are stronger than plastic ones because plastics creep at room temperatures. Aging glass windows are often erroneously used as an example of this phenomenon: measurable creep would only occur at temperatures above the glass transition temperature around 500 °C (932 °F). While glass does exhibit creep under the right conditions, apparent sagging in old windows may instead be a consequence of obsolete manufacturing processes, such as that used to create crown glass , which resulted in inconsistent thickness. [43] [44] Fractal geometry, using a deterministic Cantor structure, is used to model the surface topography, where recent advancements in thermoviscoelastic creep contact of rough surfaces are introduced. Various viscoelastic idealizations are used to model the surface materials, including the Maxwell, Kelvin–Voigt, standard linear solid and Jeffrey models. [45] Nimonic 75 has been certified by the European Union as a standard creep reference material. [46] The practice of tinning stranded wires to facilitate the process of connecting the wire to a screw terminal , though having been prevalent and considered standard practice for quite a while, has been discouraged by professional electricians, [47] owing to the fact that the solder is likely to creep under the pressure exerted on the tinned wire end by the screw of the terminal, causing the joint to lose tension and hence create a loose contact over time. The accepted practice when connecting stranded wire to a screw terminal is to use a wire ferrule on the end of the wire.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Creep_in_cardboard.jpg/220px-Creep_in_cardboard.jpg",
+                "caption": "Creep on the underside of a cardboard box: a largely empty box was placed on a smaller box, and more boxes were placed on top of it.  Due to the weight, the portions of the empty box not upheld by the lower support gradually deflected downward"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Creep_(deformation)",
+        "title": "Creep (deformation)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Superalloys",
+        "text": "Materials operating in high-performance systems, such as jet engines, often reach extreme temperatures surpassing 1,000 °C (1,830 °F), necessitating specialized material design. Superalloys based on cobalt , nickel , and iron have been engineered to be highly resistant to creep. The term ‘superalloy’ generally refers to austenitic nickel-, iron-, or cobalt-based alloys that use either γ′ or γ″ precipitation strengthening to maintain strength at high temperature. The γ′ phase is a cubic L1 2 -structure Ni 3 (Al,Ti,Ta,Nb) phase that produces cuboidal precipitates. Superalloys often have a high (60–75%) volume fraction of γ′ precipitates. [48] γ′ precipitates are coherent with the parent γ phase, and are resistant to shearing due to the development of an anti-phase boundary when the precipitate is sheared. The γ″ phase is a tetragonal Ni 3 Nb or Ni 3 V structure. The γ″ phase, however, is unstable above 650 °C (1,202 °F), so γ″ is less commonly used as a strengthening phase in high temperature applications. Carbides are also used in polycrystalline superalloys to inhibit grain boundary sliding . [49] Many other elements can be added to superalloys to tailor their properties. They can be used for solid solution strengthening, to reduce the formation of undesirable brittle precipitates, and to increase oxidation or corrosion resistance. Nickel-based superalloys have found widespread use in high-temperature, low stress applications. Iron-based superalloys are generally not used at high temperatures as the γ′ phase is not stable in the iron matrix, but are sometimes used at moderately high temperatures, as iron is significantly cheaper than nickel. Cobalt-based γ′ structure was found in 2006, allowing the development of cobalt-based superalloys, which are superior to nickel-based superalloys in corrosion resistance. However, in the base (cobalt–tungsten–aluminum) system, γ′ is only stable below 900 °C (1,650 °F), and cobalt-based superalloys tend to be weaker than their Ni counterparts. [50]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Turbinenschaufel_RB199.jpg/220px-Turbinenschaufel_RB199.jpg",
+                "caption": "Materials operating at high temperatures, such as this nickel superalloy jet engine ( RB199 ) turbine blade, must be able to withstand creep present at these temperatures."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Creep_(deformation)",
+        "title": "Creep (deformation)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Motivation",
+        "text": "The motivating insight behind topology is that some geometric problems depend not on the exact shape of the objects involved, but rather on the way they are put together. For example, the square and the circle have many properties in common: they are both one dimensional objects (from a topological point of view) and both separate the plane into two parts, the part inside and the part outside. In one of the first papers in topology, Leonhard Euler demonstrated that it was impossible to find a route through the town of Königsberg (now Kaliningrad ) that would cross each of its seven bridges exactly once. This result did not depend on the lengths of the bridges or on their distance from one another, but only on connectivity properties: which bridges connect to which islands or riverbanks. This Seven Bridges of Königsberg problem led to the branch of mathematics known as graph theory . Similarly, the hairy ball theorem of algebraic topology says that \"one cannot comb the hair flat on a hairy ball without creating a cowlick .\" This fact is immediately convincing to most people, even though they might not recognize the more formal statement of the theorem, that there is no nonvanishing continuous tangent vector field on the sphere. As with the Bridges of Königsberg , the result does not depend on the shape of the sphere; it applies to any kind of smooth blob, as long as it has no holes. To deal with these problems that do not rely on the exact shape of the objects, one must be clear about just what properties these problems do rely on. From this need arises the notion of homeomorphism . The impossibility of crossing each bridge just once applies to any arrangement of bridges homeomorphic to those in Königsberg, and the hairy ball theorem applies to any space homeomorphic to a sphere. Intuitively, two spaces are homeomorphic if one can be deformed into the other without cutting or gluing. A traditional joke is that a topologist cannot distinguish a coffee mug from a doughnut, since a sufficiently pliable doughnut could be reshaped to a coffee cup by creating a dimple and progressively enlarging it, while shrinking the hole into a handle. [1] Homeomorphism can be considered the most basic topological equivalence . Another is homotopy equivalence . This is harder to describe without getting technical, but the essential notion is that two objects are homotopy equivalent if they both result from \"squishing\" some larger object.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/M%C3%B6bius_strip.jpg/240px-M%C3%B6bius_strip.jpg",
+                "caption": "Möbius strips , which have only one surface and one edge, are a kind of object studied in topology."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Topology",
+        "title": "Topology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Continuous functions and homeomorphisms",
+        "text": "A function or map from one topological space to another is called continuous if the inverse image of any open set is open. If the function maps the real numbers to the real numbers (both spaces with the standard topology), then this definition of continuous is equivalent to the definition of continuous in calculus . If a continuous function is one-to-one and onto , and if the inverse of the function is also continuous, then the function is called a homeomorphism and the domain of the function is said to be homeomorphic to the range. Another way of saying this is that the function has a natural extension to the topology. If two spaces are homeomorphic, they have identical topological properties, and are considered topologically the same. The cube and the sphere are homeomorphic, as are the coffee cup and the doughnut. However, the sphere is not homeomorphic to the doughnut.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mug_and_Torus_morph.gif/200px-Mug_and_Torus_morph.gif",
+                "caption": "A continuous deformation (a type of homeomorphism) of a mug into a doughnut (torus) and of a (holeless) cow into a sphere"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Topology_joke.jpg/240px-Topology_joke.jpg",
+                "caption": "A continuous transformation can turn a coffee mug into a donut. Ceramic model by Keenan Crane and Henry Segerman ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Topology",
+        "title": "Topology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Definition",
+        "text": "Twinning is a form of symmetrical intergrowth between two or more adjacent crystals of the same mineral. It differs from the ordinary random intergrowth of mineral grains in a mineral deposit, because the relative orientations of the two crystal segments show a fixed relationship that is characteristic of the mineral structure. The relationship is defined by a symmetry operation called a twin operation . [1] [2] The twin operation is not one of the normal symmetry operations of the untwinned crystal structure. For example, the twin operation may be reflection across a plane that is not a symmetry plane of the single crystal. [1] [2] On the microscopic level, the twin boundary is characterized by a set of atomic positions in the crystal lattice that are shared between the two orientations. [1] [2] These shared lattice points give the junction between the crystal segments much greater strength than that between randomly oriented grains, so that the twinned crystals do not easily break apart. [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Twin_lattice_%282D%29.png/220px-Twin_lattice_%282D%29.png",
+                "caption": "Twin lattice (2D). The long horizontal red line is the composition plane where the two crystal segments join. The upper crystal lattice is the reflection of the lower crystal lattice. The red points are the shared crystal lattice points."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Crystal_twinning",
+        "title": "Crystal twinning",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Common twin laws",
+        "text": "In the isometric system, the most common types of twins are the Spinel Law (twin plane, parallel to an octahedron ) <111>, where the twin axis is perpendicular to an octahedral face, and the Iron Cross <001>, which is the interpenetration of two pyritohedrons, a subtype of dodecahedron . [5] In the hexagonal system, calcite shows the contact twin laws {0001} and {0112}. Quartz shows the Brazil Law {1120}, and Dauphiné Law <0001>, which are penetration twins caused by transformation, and Japan Law {1122}, which is often caused by accidents during growth. [5] In the tetragonal system, cyclical contact twins are the most commonly observed type of twin, such as in rutile titanium dioxide and cassiterite tin oxide. [5] In the orthorhombic system, crystals usually twin on planes parallel to the prism face, where the most common is a {110} twin, which produces cyclical twins, such as in aragonite , chrysoberyl , and cerussite . [5] In the monoclinic system, twins occur most often on the planes {100} and {001} by the Manebach Law {001}, Carlsbad Law [001], Baveno Law {021} in orthoclase , and the Swallow Tail Twins (Manebach law) {001} in gypsum . [5] In the triclinic system, the most commonly twinned crystals are the feldspar minerals plagioclase and microcline . These minerals show the Albite and Pericline Laws. [4] [5] The most common twin operations by crystal system are tabulated below. This list is not exhaustive, particularly for the crystal systems of lowest symmetry, such as the triclinic system. [6] [1] [5]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Spinel_twin.png/220px-Spinel_twin.png",
+                "caption": "Spinel law contact twinning. A single crystal is shown at left with the composition plane in red. At right, the crystal has effectively been cut on the composition plane and the front half rotated by 180° to produce a contact twin. This creates reentrants at the top, lower left, and lower right of the composition plane. [3]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Twin_of_Staurolite_%28cropped%29.JPG/170px-Twin_of_Staurolite_%28cropped%29.JPG",
+                "caption": "30° twin of staurolite"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Staurolite_002.jpg/170px-Staurolite_002.jpg",
+                "caption": "90° twins of staurolite"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pyrite-254452.jpg/170px-Pyrite-254452.jpg",
+                "caption": "Iron pyrite cross twin"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Crystal_twinning",
+        "title": "Crystal twinning",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Types of twinning",
+        "text": "Simple twinned crystals may be contact twins or penetration twins. Contact twins meet on a single composition plane, often appearing as mirror images across the boundary. Plagioclase , quartz , gypsum , and spinel often exhibit contact twinning. [3] Merohedral twinning occurs when the lattices of the contact twins superimpose in three dimensions, such as by relative rotation of one twin from the other. [7] An example is metazeunerite . [8] Contact twinning characteristically creates reentrant faces where faces of the crystal segments meet on the contact plane at an angle greater than 180°. [3] A type of twinning involving 180° relationships is called hemitropism or hemitropy . In penetration twins the individual crystals have the appearance of passing through each other in a symmetrical manner. [3] Orthoclase , staurolite , pyrite , and fluorite often show penetration twinning. The composition surface in penetration twins is usually irregular and extends to the center of the crystal. [2] Contact twinning can arise from either reflection or rotation, whereas penetration twinning is usually produced by rotation. [2] If several twin crystal parts are aligned by the same twin law they are referred to as multiple or repeated twins . If these multiple twins are aligned in parallel they are called polysynthetic twins . When the multiple twins are not parallel they are cyclic twins . Albite , calcite , and pyrite often show polysynthetic twinning. Closely spaced polysynthetic twinning is often observed as striations or fine parallel lines on the crystal face. Cyclic twins are caused by repeated twinning around a rotation axis. This type of twinning occurs around three, four, five, six, or eight-fold axes, the corresponding patterns are called threelings, fourlings, fivelings , sixlings, and eightlings. Sixlings are common in aragonite. [9] [10] Rutile , aragonite , cerussite , and chrysoberyl often exhibit cyclic twinning, typically in a radiating pattern. [3] [2] For rotational twinning the relationship between the twin axis and twin plane falls into one of three types: [11]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chrysoberyl-282796_%28cropped%29.jpg/170px-Chrysoberyl-282796_%28cropped%29.jpg",
+                "caption": "Chrysoberyl showing cyclic twinning"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Crystal_twinning",
+        "title": "Crystal twinning",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Modes of formation",
+        "text": "There are three modes of formation of twinned crystals.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pyromorphite-171937.jpg/170px-Pyromorphite-171937.jpg",
+                "caption": "Parallel growth of pyromorphite"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Crystal_twinning",
+        "title": "Crystal twinning",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Growth twinning (nanotwinning)",
+        "text": "There are two types of twinning that can occur during growth, accidental and ones where the twinned structure has lower energy. In accidental growth twinning an atom joins a crystal face in a less than ideal position, forming a seed for growth of a twin. The original crystal and its twin then grow together and closely resemble each other. This is characteristic enough of certain minerals to suggest that it is thermodynamically or kinetically favored under conditions of rapid growth. [3] [1] Different from these are twins found in nanoparticles such as the image here, these fivefold or decahedral nanoparticles being one of the most common. [14] These cyclic twins occur as they are lower in energy at small sizes. [15] For the five-fold case shown, there is a disclination along the common axis [16] which leads to an additional strain energy. [17] Balancing this there is a reduction in the surface free energy, in large part due to more (111) surface facets. [18] In small nanoparticles the decahedral and a more complicated icosahedral structure (with twenty units) are lower energy, but at larger energies single crystals become lower energy. [19] [20] However, they do not have to transform into single crystals and can grow very large, and are known as fivelings, documented as early as 1831 by Gustav Rose ; [21] further drawings are available in the Atlas der Kristallformen, and see also the article on fivelings . [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Twin2.jpg/170px-Twin2.jpg",
+                "caption": "Fivefold twin in a gold nanoparticle ( electron microscope micrograph )."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Crystal_twinning",
+        "title": "Crystal twinning",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Transformation twinning",
+        "text": "Transformation and annealing twinning takes place when a cooling crystal experiences a displacive polymorphic transition. For example, leucite has an isometric crystal structure above about 665 °C (1,229 °F), but becomes tetragonal below this temperature. Any one of the three original axes of a crystal can become the long axis when this phase change takes place. Twinning results when different parts of the crystal break their isometric symmetry along a different choice of axis. This is typically polysynthetic twinning, which enables the crystal to maintain its isometric shape by averaging out the displacement in each direction. This produces a pseudomorphic crystal that appears to have isometric symmetry. Potassium feldspar likewise experiences polysynthetic twinning as it transforms from a monoclinic structure ( orthoclase ) to a triclinic structure ( microcline ) on slow cooling. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Transform_twin.png/220px-Transform_twin.png",
+                "caption": "Illustration of transformation twinning in 2-D. The orthorhombic crystal at left transforms to a monoclinic crystal at right, with two parallel twinning planes (polysynthetic twinning)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Crystal_twinning",
+        "title": "Crystal twinning",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Deformation twinning",
+        "text": "Deformation twinning is a response to shear stress. The crystal structure is displaced along successive planes of the crystal, a process also called glide . The twinning is always reflection twinning and the glide plane is also the mirror plane. Deformation twinning can be observed in a calcite cleavage fragment by applying gentle pressure with a knife blade near an edge. This particular glide twinning, {102}, is found almost universally in deformed rock beds containing calcite. [1] Twinning and slip are competitive mechanisms for crystal deformation . Each mechanism is dominant in certain crystal systems and under certain conditions. [23] In fcc metals , slip is almost always dominant because the stress required is far less than twinning stress. [24] Twinning can occur by cooperative displacement of atoms along the face of the twin boundary. This displacement of a large quantity of atoms simultaneously requires significant energy to perform. Therefore, the theoretical stress required to form a twin is quite high. It is believed that twinning is associated with dislocation motion on a coordinated scale, in contrast to slip, which is caused by independent glide at several locations in the crystal . Compared to slip, twinning produces a deformation pattern that is more heterogeneous in nature. This deformation produces a local gradient across the material and near intersections between twins and grain boundaries. The deformation gradient can lead to fracture along the boundaries, particularly in bcc transition metals at low temperatures. Of the three common crystalline structures bcc , fcc , and hcp , the hcp structure is the most likely to form deformation twins when strained, because they rarely have a sufficient number of slip systems for an arbitrary shape change. High strain rates, low stacking-fault energy and low temperatures facilitate deformation twinning. [25] If a metal with face-centered cubic (fcc) structure, like Al, Cu, Ag, Au, etc., is subjected to stress, it will experience twinning. The formation and migration of twin boundaries is partly responsible for ductility and malleability of fcc metals. [26] Twin boundaries are partly responsible for shock hardening and for many of the changes that occur in cold work of metals with limited slip systems or at very low temperatures. They also occur due to martensitic transformations : the motion of twin boundaries is responsible for the pseudoelastic and shape-memory behavior of nitinol , and their presence is partly responsible for the hardness due to quenching of steel . In certain types of high strength steels, very fine deformation twins act as primary obstacles against dislocation motion. These steels are referred to as 'TWIP' steels, where TWIP stands for twinning-induced plasticity . [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Output_JqJHfp.gif/220px-Output_JqJHfp.gif",
+                "caption": "Animation of deformation twinning of crystal"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Crystal_twinning",
+        "title": "Crystal twinning",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Deformation twinning crystallography",
+        "text": "Twinning is crystallographically defined by its twin plane 𝑲 𝟏 , the mirror plane in the twin and parent material, and 𝜼 𝟏, which is the twinning shear direction. Deformation twins in Zr are generally lenticular in shape, lengthening in the 𝜼 𝟏 direction and thickening along the 𝑲 𝟏 plane normal. [28] The twin plane, shear direction, and shear plane form the basis vectors of an orthogonal set. The axis-angle misorientation relationship between the parent and twin is a rotation of angle 𝜉 about the shear plane's normal direction 𝑷. More generally, twinning can be described as a 180° rotation about an axis (𝑲 𝟏 for type I twins or 𝜼 𝟏 for type II twins normal direction) , or a mirror reflection in a plane (𝑲 𝟏 or 𝜼 𝟏 normal plane). [29] In addition to a homogeneous shear, atomic shuffles are sometimes required to reform the correct crystal structure in the twinned lattice. For each twin variant, a reciprocal twin with swapped 𝑲 𝟏 and 𝑲 2 , 𝜼 𝟏 and 𝜼 2 is possible, but one variant may appear more frequently in reality due to complexities with the required shuffles. [30] there are only two crystallographic planes in a shearing action that do not change their shape and size as a consequence of the shear. The first 𝑲 𝟏 is the plane defining the upper and lower surfaces of the sheared volume. This plane contains the shear direction. The other plane, designated C. The shear direction is shown with an arrow and labelled with its customary designation 𝜼 𝟏 . It follows from the above that there are three ways that a crystal lattice can be sheared while still retaining its crystal structure and symmetry:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Deformation_twinning.png/405px-Deformation_twinning.png",
+                "caption": "Deformation twinning crystallographic planes"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Crystal_twinning",
+        "title": "Crystal twinning",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    },
+    {
+        "section": "Deformation twinning configuration",
+        "text": "A deformation twin embryo forms in BCC metal by accumulating stacking faults, with a variant selection governed by the local stress state. [31] [32] [33] Variation of the stress field close to twins inferred from HR- EBSD experimental [34] [35] and crystal plasticity finite element ( CPFE ) simulation data indicated that twins nucleate on sites with maximum strain energy density and twin resolved shear stress ; thus, reducing the total elastic energy after formation. This relaxation depends on the twin thickness and is a deciding factor in the spacing between twins. [36] Experimental [37] and three-dimensional [38] analysis has focussed on the (stored) strain energy density measured along a path. This highly localised stress field can provide a sufficient driving force for concurrent twin nucleation [39] and inter/intra-granular crack nucleation. Deformation twin growth can be perceived as a two-step process of i) thickening that is mediated by the interaction between the residual and mobile twin partials at the coherent twin-parent interface, [40] and ii) dislocation mobility along the twin shear direction. [41] The twin propagates when the homogeneous shear stress reaches a critical value, and a twin-parent interface advances inside the parent grain [240]. The propagating deformation twin generates a stress field due to its confinement by the surrounding parent crystal, and deformation twins develop a 3D oblate spheroid shape (which appears in 2D sections as a bi-convex lens ) with a mixed coherent and non-coherent interface (Figure b). [41] Kannan et al. [42] found, using in-situ ultra-high-speed optical imaging, that twin nucleation in single-crystal magnesium is stress -driven accompanied by instantaneous propagation at a speed of 1 km/s (initially) that prioritises volume lateral thickening over forward propagation, past a critical width where growth is then become faster along the shear direction. Barnett [43] also indicated that growth is due to twin tip extension. Furthermore, elastic simulations of the local stress field surrounding the ellipsoidal twin tip find that the field can be described using its lens angle ( β {\\displaystyle \\beta } ) and that the stress field magnitude increases with twin thickness. [44] In practice, plastic accommodation occurs in the parent crystal ; thus, it also depends on the material’s yield stress, the anisotropic elastic stiffness of the parent crystal lattice, and the deformation twinning shear magnitude. [40] This can also be accompanied by long-range diffusion of elements and elemental segregation (e.g., Cr and Co in single crystal Ni -based superalloy MD2), which occurs at the twin boundary to facilitate twin growth by lowering the critical stacking fault energy. [46] A linear variation has been observed between twin thickness, stacking fault energy and grain size, [47] and to a lesser degree, the stress state of the twinning grain ( Schmid Factor ). [48] The twin thickness saturated once a critical residual dislocations’ density reached the coherent twin-parent crystal boundary. [33] [49] Significant attention has been paid to the crystallography , [50] morphology [51] and macro mechanical effects [52] of deformation twinning. Although the criterion for deformation twin growth is not entirely understood, it is a tip-controlled phenomenon linked to the interaction between the residual and mobile twin partials at the twin interface; thermodynamically, this involves the elastic energy of the strained lattice, the interface and volume free-energy of the twin, and the dissipated energy of the growth  mechanism. [53] To fully understand the interactions between microstructure (i.e., grain size, texture), temperature and strain rate on deformation twinning, it is crucial to characterise the (high) local stress and strain field associated with twin thickening and propagation. This is especially important for materials where cleavage fracture can be initiated by twinning (e.g., iron-silicon, the ferrite phase of age-hardened duplex stainless-steel, and single-crystal magnesium ) as a stress-relieving mechanism. Early studies of deformation twins arrested within grains of niobium [54] and iron [55] visualised the highly local strain concentration at the twin tip using an etch-pit procedure. More recently, high-resolution electron backscatter diffraction (HR- EBSD ) has been used to investigate the strain 'singularity' ahead of a twin tip in hexagonal close-packed (HCP) zirconium alloy. A deformation twin in commercial purity titanium was characterised similarly and then quantified using a local Schmid factor (LSF) at the twin tip, [56] as described in equation below. L S F = σ : P i ‖ σ ‖ , S i = d i ⊗ n i {\\displaystyle \\mathrm {LSF} ={\\frac {{\\boldsymbol {\\sigma }}:{\\boldsymbol {P}}^{i}}{\\|{\\boldsymbol {\\sigma }}\\|}},\\quad {\\boldsymbol {S}}^{i}={\\boldsymbol {d}}^{i}\\otimes \\mathbf {n} ^{i}} where σ is the stress tensor, S i is the Schmid tensor, P i is its symmetric part, d i is the shear direction and n i is the shear plane normal for i th slip system. The authors concluded that conditions at the twin tip control thickening and propagation in a manner analogous to the operation of dislocation sources ahead of a crack-tip. [57] In the analysis, a broad region of high LSF ahead of the twin tip favoured propagation, whereas a narrow region of high LSF promoted thickening. Since then, it has been argued [58] that the LSF firmly controls the twin variant selection, as twinning has strong polarity. The LSF novelty – compared to other criteria to describe conditions at the twin [47] – lies in combining a geometrical criterion with the deformation field in the parent grain to provide an approximate indication of the local twin mode (i.e., thickening or propagation). However, the LSF analysis does not take advantage of the available full-field data, relies on global information on the applied stress , and does not consider the energy balance that drives twin growth. There have been few in-situ experiments to quantify the strain field ahead of a propagating deformation twin. [45] [35] Such observations might validate geometrical or hybrid geometrical-energy-based criteria [58] for growth. Nanoscale testing (i.e., transmission electron microscopy ) may not represent the behaviour in bulk samples due to plasticity starvation, i.e., large surface area to volume ratio, [59] so a suitable analysis method is needed. Lloyd [49] described the stress concentration field ahead of the twin tip using a two-dimensional dislocation -based model within a single magnesium grain. Wang and Li, [60] who considered microscopic phase-field (MPF) models of cracks, noted that the stress fields were similar for dislocations , deformation twinning and martensitic transformations, with differences only in the traction of the created surface, i.e., there is 100% traction recovery for dislocations and a traction-free surface for a crack. They highlighted that the stress field singularity regulates the advancement of the crack-tip and dislocations . This stress concentration can be characterised using a path-independent line integral , as shown by Eshelby for dislocations considering the contribution from the surface traction and ellipsoidal inclusions , [61] and Rice [62] for cracks and stress concentrations with traction-free surfaces. Furthermore, Venables [63] noted that the oblate spheroid shape of the twin tip is the ideal example of an ellipsoid inclusion or a notch.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Crystal_Lines.JPG/305px-Crystal_Lines.JPG",
+                "caption": "Regular twinning planes in calcite crystal. Crossed nicols image, magnification 10× (Field of view = 2 mm)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Twinforescatter_diode.tif/lossless-page1-376px-Twinforescatter_diode.tif.png",
+                "caption": "(a) forescatter electron diode (FSD) image for deformation twins at grain boundary in age-hardened ferrite at I) 18 mm working distance and II) 38 mm working distance. (b) Schematic of a lenticular twin with interface dislocations and (c) Twin band. [45]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Crystal_twinning",
+        "title": "Crystal twinning",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Deformation Structures"
+    }
+]

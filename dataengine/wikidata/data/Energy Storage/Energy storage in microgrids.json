@@ -1,0 +1,986 @@
+[
+    {
+        "section": "Definitions",
+        "text": "The United States Department of Energy Microgrid Exchange Group [9] defines a microgrid as ‘‘a group of interconnected loads and distributed energy resources within clearly defined electrical boundaries that acts as a single controllable entity with respect to the grid. A microgrid can connect and disconnect from the grid to enable it to operate in both grid-connected or island-mode.’’ [10] The Berkeley Lab defines: \"A microgrid consists of energy generation and energy storage that can power a building, campus, or community when not connected to the electric grid, e.g. in the event of a disaster.\" A microgrid that can be disconnected from the utility grid (at the 'point of common coupling' or PCC) is called an 'islandable microgrid'. [7] An EU research project [11] describes a microgrid as comprising Low-Voltage (LV) distribution systems with distributed energy resources (DERs) ( microturbines , fuel cells , photovoltaics (PV), etc.), storage devices ( batteries , flywheels ) energy storage system and flexible loads. Such systems can operate either connected or disconnected from the main grid. The operation of microsources in the network can provide benefits to the overall system performance, if managed and coordinated efficiently. [ citation needed ] Electropedia defines a microgrid as a group of interconnected loads and distributed energy resources with defined electrical boundaries, which form a local electric power system at distribution voltage levels, meaning both low and medium voltage up to 35 kV. This cluster of associated consumer and producer nodes acts as a single controllable entity and is able to operate in either grid-connected or island mode . [3] A stand-alone microgrid or isolated microgrid, sometimes called an \"island grid\", only operates off-the-grid and cannot be connected to a wider electric power system. They are usually designed for geographical islands or for rural electrification. [4] In many non-industrialized countries, microgrids that are used to provide access to electricity in previously unelectrified areas are often referred to as \" mini grids \". [12] Nanogrids belong to a single home or building and the interconnection of multiple nanogrids forming a network (microgrid), facilitating the sharing of power between individual nanogrids. [5]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Microgrid_with_RES_BESS_GRIDconnected.png/220px-Microgrid_with_RES_BESS_GRIDconnected.png",
+                "caption": "A typical scheme of an electric based microgrid with renewable energy resources in grid-connected mode"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Microgrid",
+        "title": "Microgrid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Microgrid control",
+        "text": "In regards to the architecture of microgrid control, or any control problem, there are two different approaches that can be identified: centralized [39] [53] and decentralized. [54] A fully centralized control relies on a large amount of information transmittance between involving units before a decision is made at a single point. Implementation is difficult since interconnected power systems usually cover extended geographic locations and involve an enormous number of units. On the other hand, in a fully decentralized control, each unit is controlled by\nits local controller without knowing the situation of others. [55] A compromise between those two extreme control schemes can be achieved by means of a hierarchical control scheme [56] consisting of three control levels: primary, secondary, and tertiary. [39] [40] [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Microgrid_Hierarchical_Control.png/330px-Microgrid_Hierarchical_Control.png",
+                "caption": "Hierarchical Control"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Microgrid",
+        "title": "Microgrid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Pumped hydro",
+        "text": "Worldwide, pumped-storage hydroelectricity (PSH) is the largest-capacity form of active grid energy storage available, and, as of March 2012, the Electric Power Research Institute (EPRI) reports that PSH accounts for more than 99% of bulk storage capacity worldwide, representing around 127,000 MW . [6] PSH energy efficiency varies in practice between 70% and 80%, [6] [7] [8] [9] with claims of up to 87%. [10] At times of low electrical demand, excess generation capacity is used to pump water from a lower source into a higher reservoir. When demand grows, water is released back into a lower reservoir (or waterway or body of water) through a turbine , generating electricity. Reversible turbine-generator assemblies act as both a pump and turbine (usually a Francis turbine design). Nearly all facilities use the height difference between two water bodies. Pure pumped-storage plants shift the water between reservoirs, while the \"pump-back\" approach is a combination of pumped storage and conventional hydroelectric plants that use natural stream-flow.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adam_Beck_Complex.jpg/300px-Adam_Beck_Complex.jpg",
+                "caption": "The Sir Adam Beck Generating Complex at Niagara Falls, Canada , which includes a large pumped storage hydroelectricity reservoir to provide an extra 174 MW of electricity during periods of peak demand."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Compressed air",
+        "text": "Compressed-air energy storage (CAES) uses surplus energy to compress air for subsequent electricity generation. [11] Small-scale systems have long been used in such applications as propulsion of mine locomotives. The compressed air is stored in an underground reservoir , such as a salt dome . Compressed-air energy storage (CAES) plants can bridge the gap between production volatility and load. CAES storage addresses the energy needs of consumers by effectively providing readily available energy to meet demand. Renewable energy sources like wind and solar energy vary. So at times when they provide little power, they need to be supplemented with other forms of energy to meet energy demand. Compressed-air energy storage plants can take in the surplus energy output of renewable energy sources during times of energy over-production. This stored energy can be used at a later time when demand for electricity increases or energy resource availability decreases. [12] Compression of air creates heat; the air is warmer after compression. Expansion requires heat. If no extra heat is added, the air will be much colder after expansion. If the heat generated during compression can be stored and used during expansion, efficiency improves considerably. [13] A CAES system can deal with the heat in three ways. Air storage can be adiabatic , diabatic , or isothermal . Another approach uses compressed air to power vehicles. [14] [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Compressed_Air_Loco.jpg/300px-Compressed_Air_Loco.jpg",
+                "caption": "A compressed air locomotive used inside a mine between 1928 and 1961."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Flywheel",
+        "text": "Flywheel energy storage (FES) works by accelerating a rotor (a flywheel ) to a very high speed, holding energy as rotational energy . When energy is added the rotational speed of the flywheel increases, and when energy is extracted, the speed declines, due to conservation of energy . Most FES systems use electricity to accelerate and decelerate the flywheel, but devices that directly use mechanical energy are under consideration. [16] FES systems have rotors made of high strength carbon-fiber composites, suspended by magnetic bearings and spinning at speeds from 20,000 to over 50,000 revolutions per minute (rpm) in a vacuum enclosure. [17] Such flywheels can reach maximum speed (\"charge\") in a matter of minutes. The flywheel system is connected to a combination electric motor / generator . FES systems have relatively long lifetimes (lasting decades with little or no maintenance; [17] full-cycle lifetimes quoted for flywheels range from in excess of 10 5 , up to 10 7 , cycles of use), [18] high specific energy (100–130 W·h/kg, or 360–500 kJ/kg) [18] [19] and power density .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Example_of_cylindrical_flywheel_rotor_assembly.png/220px-Example_of_cylindrical_flywheel_rotor_assembly.png",
+                "caption": "The main components of a typical flywheel."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg/220px-Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg",
+                "caption": "A Flybrid Kinetic Energy Recovery System flywheel . Built for use on Formula 1 racing cars , it is employed to recover and reuse kinetic energy captured during braking."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Solid mass gravitational ",
+        "text": "Changing the altitude of solid masses can store or release energy via an elevating system driven by an electric motor/generator. Studies suggest energy can begin to be released with as little as 1 second warning, making  the method a useful supplemental feed into an electricity grid to balance load surges. [20] Efficiencies can be as high as 85% recovery of stored energy. [21] This can be achieved by siting the masses inside old vertical  mine shafts or in specially constructed towers where the heavy weights are winched up to store energy and allowed a controlled descent to release it. At 2020 a prototype vertical store is being built in Edinburgh, Scotland [22] Potential energy storage or gravity energy storage was under active development in 2013 in association with the California Independent System Operator . [23] [24] [25] It examined the movement of earth-filled hopper rail cars driven by electric locomotives from lower to higher elevations. [26] Other proposed methods include:-",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fernw%C3%A4rmespeicher_Theiss.jpg/220px-Fernw%C3%A4rmespeicher_Theiss.jpg",
+                "caption": "District heating accumulation tower from Theiss near Krems an der Donau in Lower Austria with a thermal capacity of 2 GWh"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Rechargeable battery",
+        "text": "A rechargeable battery comprises one or more electrochemical cells . It is known as a 'secondary cell' because its electrochemical reactions are electrically reversible. Rechargeable batteries come in many shapes and sizes, ranging from button cells to megawatt grid systems. Rechargeable batteries have lower total cost of use and environmental impact than non-rechargeable (disposable) batteries. Some rechargeable battery types are available in the same form factors as disposables. Rechargeable batteries have higher initial cost but can be recharged very cheaply and used many times. Common rechargeable battery chemistries include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Datacenter_Backup_Batteries.jpg/220px-Datacenter_Backup_Batteries.jpg",
+                "caption": "A rechargeable battery bank used as an uninterruptible power supply in a data center"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Supercapacitor",
+        "text": "Supercapacitors , also called electric double-layer capacitors (EDLC) or ultracapacitors, are a family of electrochemical capacitors [47] that do not have conventional solid dielectrics . Capacitance is determined by two storage principles, double-layer capacitance and pseudocapacitance . [48] [49] Supercapacitors bridge the gap between conventional capacitors and rechargeable batteries . They store the most energy per unit volume or mass ( energy density ) among capacitors. They support up to 10,000 farads /1.2 Volt, [50] up to 10,000 times that of electrolytic capacitors , but deliver or accept less than half as much power per unit time ( power density ). [47] While supercapacitors have specific energy and energy densities that are approximately 10% of batteries, their power density is generally 10 to 100 times greater. This results in much shorter charge/discharge cycles. Also, they tolerate many more charge-discharge cycles than batteries. Supercapacitors have many applications, including:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Expo_2010_Electric_Bus.jpg/220px-Expo_2010_Electric_Bus.jpg",
+                "caption": "One of a fleet of electric capabuses powered by supercapacitors, at a quick-charge station-bus stop, in service during Expo 2010 Shanghai China . Charging rails can be seen suspended over the bus."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Power-to-gas",
+        "text": "Power-to-gas is the conversion of electricity to a gaseous fuel such as hydrogen or methane . The three commercial methods use electricity to reduce water into hydrogen and oxygen by means of electrolysis . In the first method, hydrogen is injected into the natural gas grid or is used for transportation. The second method is to combine the hydrogen with carbon dioxide to produce methane using a methanation reaction such as the Sabatier reaction , or biological methanation, resulting in an extra energy conversion loss of 8%. The methane may then be fed into the natural gas grid. The third method uses the output gas of a wood gas generator or a biogas plant, after the biogas upgrader is mixed with the hydrogen from the electrolyzer, to upgrade the quality of the biogas.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/World%E2%80%99s_1st_Low-Emission_Hybrid_Battery_Storage%2C_Gas_Turbine_Peaker_System.jpg/220px-World%E2%80%99s_1st_Low-Emission_Hybrid_Battery_Storage%2C_Gas_Turbine_Peaker_System.jpg",
+                "caption": "The new technology helps reduce greenhouse gases and operating costs at two existing peaker plants in Norwalk and Rancho Cucamonga . The 10-megawatt battery storage system, combined with the gas turbine, allows the peaker plant to more quickly respond to changing energy needs, thus increasing the reliability of the electrical grid."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Capacitor",
+        "text": "A capacitor (originally known as a 'condenser') is a passive two-terminal electrical component used to store energy electrostatically . Practical capacitors vary widely, but all contain at least two electrical conductors (plates) separated by a dielectric (i.e., insulator ). A capacitor can store electric energy when disconnected from its charging circuit, so it can be used like a temporary battery , or like other types of rechargeable energy storage system . [72] Capacitors are commonly used in electronic devices to maintain power supply while batteries change. (This prevents loss of information in volatile memory.) Conventional capacitors provide less than 360 joules per kilogram, while a conventional alkaline battery has a density of 590 kJ/kg. Capacitors store energy in an electrostatic field between their plates. Given a potential difference across the conductors (e.g., when a capacitor is attached across a battery), an electric field develops across the dielectric, causing positive charge (+Q) to collect on one plate and negative charge (-Q) to collect on the other plate. If a battery is attached to a capacitor for a sufficient amount of time, no current can flow through the capacitor. However, if an accelerating or alternating voltage is applied across the leads of the capacitor, a displacement current can flow. Besides capacitor plates, charge can also be stored in a dielectric layer. [73] Capacitance is greater given a narrower separation between conductors and when the conductors have a larger surface area. In practice, the dielectric between the plates emits a small amount of leakage current and has an electric field strength limit, known as the breakdown voltage . However, the effect of recovery of a dielectric after a high-voltage breakdown holds promise for a new generation of self-healing capacitors. [74] [75] The conductors and leads introduce undesired inductance and resistance . Research is assessing the quantum effects of nanoscale capacitors [76] for digital quantum batteries. [77] [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_%40_5000_VDC.jpg/175px-Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_%40_5000_VDC.jpg",
+                "caption": "This mylar-film, oil-filled capacitor has very low inductance and low resistance, to provide the high-power (70 megawatts) and the very high speed (1.2 microsecond) discharges needed to operate a dye laser ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Renewable energy",
+        "text": "The largest source and the greatest store of renewable energy is provided by hydroelectric dams. A large reservoir behind a dam can store enough water to average the annual flow of a river between dry and wet seasons, and a very large reservoir can store enough water to average the flow of a river between dry and wet years. While a hydroelectric dam does not directly store energy from intermittent sources, it does balance the grid by lowering its output and retaining its water when power is generated by solar or wind. If wind or solar generation exceeds the region's hydroelectric capacity, then some additional source of energy is needed. Many renewable energy sources (notably solar and wind) produce variable power . [96] Storage systems can level out the imbalances between supply and demand that this causes. Electricity must be used as it is generated or converted immediately into storable forms. [97] The main method of electrical grid storage is pumped-storage hydroelectricity . Areas of the world such as Norway, Wales, Japan and the US have used elevated geographic features for reservoirs , using electrically powered pumps to fill them. When needed, the water passes through generators and converts the gravitational potential of the falling water into electricity. [96] Pumped storage in Norway, which gets almost all its electricity from hydro, has currently a capacity of 1.4 GW but since the total installed capacity is nearly 32 GW and 75% of that is regulable, it can be expanded significantly. [98] Some forms of storage that produce electricity include pumped-storage hydroelectric dams , rechargeable batteries , thermal storage including molten salts which can efficiently store and release very large quantities of heat energy, [99] and compressed air energy storage , flywheels , cryogenic systems and superconducting magnetic coils . Surplus power can also be converted into methane ( sabatier process ) with stockage in the natural gas network. [100] [101] In 2011, the Bonneville Power Administration in the northwestern United States created an experimental program to absorb excess wind and hydro power generated at night or during stormy periods that are accompanied by high winds. Under central control, home appliances absorb surplus energy by heating ceramic bricks in special space heaters to hundreds of degrees and by boosting the temperature of modified hot water heater tanks . After charging, the appliances provide home heating and hot water as needed. The experimental system was created as a result of a severe 2010 storm that overproduced renewable energy to the extent that all conventional power sources were shut down, or in the case of a nuclear power plant, reduced to its lowest possible operating level, leaving a large area running almost completely on renewable energy. [102] [103] Another advanced method used at the former Solar Two project in the United States and the Solar Tres Power Tower in Spain uses molten salt to store thermal energy captured from the sun and then convert it and dispatch it as electrical power. The system pumps molten salt through a tower or other special conduits to be heated by the sun. Insulated tanks store the solution. Electricity is produced by turning water to steam that is fed to turbines . Since the early 21st century batteries have been applied to utility scale load-leveling and frequency regulation capabilities. [96] In vehicle-to-grid storage, electric vehicles that are plugged into the energy grid can deliver stored electrical energy from their batteries into the grid when needed.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Abengoa_Solar_%287336087392%29.jpg/220px-Abengoa_Solar_%287336087392%29.jpg",
+                "caption": "Construction of the Salt Tanks which provide efficient thermal energy storage [92] so that electricity can be generated after the sun goes down, and output can be scheduled to meet demand. [93] The 280 MW Solana Generating Station is designed to provide six hours of storage. This allows the plant to generate about 38% of its rated capacity over the course of a year. [94]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Andasol_3.jpg/220px-Andasol_3.jpg",
+                "caption": "The 150 MW Andasol solar power station in Spain is a parabolic trough solar thermal power plant that stores energy in tanks of molten salt so that it can continue generating electricity when the sun is not shining. [95]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Demand side management and grid storage",
+        "text": "The demand side can also store electricity from the grid, for example charging a battery electric vehicle stores energy for a vehicle and storage heaters , district heating storage or ice storage provide thermal storage for buildings. [6] At present this storage serves only to shift consumption to the off-peak time of day, no electricity is returned to the grid. The need for grid storage to provide peak power is reduced by demand side time of use pricing , one of the benefits of smart meters . At the household level, consumers may choose less expensive off-peak times to wash and dry clothes, use dishwashers, take showers and cook. As well, commercial and industrial users will take advantage of cost savings by deferring some processes to off-peak times. Regional impacts from the unpredictable operation of wind power has created a new need for interactive demand response , where the utility communicates with the demand. Historically this was only done in cooperation with large industrial consumers, but now may be expanded to entire grids. [7] For instance, a few large-scale projects in Europe link variations in wind power to change industrial food freezer loads, causing small variations in temperature. If communicated on a grid-wide scale, small changes to heating/cooling temperatures would instantly change consumption across the grid. A report released in December 2013 by the United States Department of Energy further describes the potential benefits of energy storage and demand side technologies to the electric grid: \"Modernizing the electric system will help the nation meet the challenge of handling projected energy needs—including addressing climate change by integrating more energy from renewable sources and enhancing efficiency from non-renewable energy processes. Advances to the electric grid must maintain a robust and resilient electricity delivery system, and energy storage can play a significant role in meeting these challenges by improving the operating capabilities of the grid, lowering cost and ensuring high reliability, as well as deferring and reducing infrastructure investments. Finally, energy storage can be instrumental for emergency preparedness because of its ability to provide backup power as well as grid stabilization services\". [8] The report was written by a core group of developers representing Office of Electricity Delivery and Energy Reliability , ARPA-E , Office of Science , Office of Energy Efficiency and Renewable Energy , Sandia National Laboratories , and Pacific Northwest National Laboratory ; all of whom are engaged in the development of grid energy storage. [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Energy-Units-01.png/220px-Energy-Units-01.png",
+                "caption": "A sense of units and scale for electrical energy production and consumption"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Batteries",
+        "text": "Battery storage was used in the early days of direct current electric power. Where AC grid power was not readily available, isolated lighting plants run by wind turbines or internal combustion engines provided lighting and power to small motors. The battery system could be used to run the load without starting the engine or when the wind was calm. A bank of lead–acid batteries in glass jars both supplied power to illuminate lamps, as well as to start an engine to recharge the batteries. Battery storage technology is typically around 80% to more than 90% efficient for newer lithium-ion devices. [38] [39] Battery systems connected to large solid-state converters have been used to stabilize power distribution networks. Some grid batteries are co-located with renewable energy plants, either to smooth the power supplied by the intermittent wind or solar output, or to shift the power output into other hours of the day when the renewable plant cannot produce power directly (see Installation examples ). These hybrid systems (generation and storage) can either alleviate the pressure on the grid when connecting renewable sources or be used to reach self-sufficiency and work \"off-the-grid\" (see Stand-alone power system ). Contrary to electric vehicle applications, batteries for stationary storage do not suffer from mass or volume constraints. However, due to the large amounts of energy and power implied, the cost per power or energy unit is crucial. The relevant metrics to assess the interest of a technology for grid-scale storage is the $/Wh (or $/W) rather than the Wh/kg (or W/kg). The electrochemical grid storage was made possible thanks to the development of the electric vehicle, that induced a fast decrease in the production costs of batteries below $300/kWh. By optimizing the production chain, major industrials aimed to reach $150/kWh by the end of 2020, but actually achieved $140/kWh. The rate of decline in battery prices has consistently outpaced most estimates, reaching $132/kWh in 2021. [40] These batteries rely on a lithium-ion technology, which is suited for mobile applications (high cost, high density). Technologies optimized for the grid should focus on low cost per kWh.   Lithium iron phosphate batteries are increasingly being used in both vehicles and grid storage because of their low cost, scale and acceptable energy density for many applications. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Light-plant-Fig1198-Page989-Ch45-Hawkins-Electrical-Guide.png/220px-Light-plant-Fig1198-Page989-Ch45-Hawkins-Electrical-Guide.png",
+                "caption": "A 900 watt direct current light plant using 16 separate lead acid battery cells (32 volts) from 1917. [35]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Battery-cost-learning-curve.png/220px-Battery-cost-learning-curve.png",
+                "caption": "Learning curve of lithium-ion batteries: the price of batteries declined by 97% in three decades. [36] [37]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Electric vehicles",
+        "text": "Companies are researching the possible use of electric vehicles to meet peak demand. A parked and plugged-in electric vehicle could sell the electricity from the battery during peak loads and charge either during night (at home) or during off-peak. [69] Plug-in hybrid or electric cars could be used [70] [71] [72] for their energy storage capabilities. Vehicle-to-grid technology can be employed, turning each vehicle with its 20 to 50 kWh battery pack into a distributed load-balancing device or emergency power source. This represents two to five days per vehicle of average household requirements of 10 kWh per day, assuming annual consumption of 3,650 kWh. This quantity of energy is equivalent to between 60 and 480 kilometres (40 and 300 mi) of range in such vehicles consuming 0.1 to 0.3 kilowatt-hours per kilometre (0.16 to 0.5 kWh/mi). These figures can be achieved even in home-made electric vehicle conversions . Some electric utilities plan to use old plug-in vehicle batteries (sometimes resulting in a giant battery) to store electricity [73] [74] However, a large disadvantage of using vehicle to grid energy storage would be if each storage cycle stressed the battery with one complete charge-discharge cycle. [70] However, one major study showed that used intelligently, vehicle-to-grid storage actually improved the batteries longevity. [75] Conventional (cobalt-based) lithium-ion batteries break down with the number of cycles – newer li-ion batteries do not break down significantly with each cycle, and so have much longer lives. One approach is to reuse unreliable vehicle batteries in dedicated grid storage [76] as they are expected to be good in this role for ten years. [77] If such storage is done on a large scale it becomes much easier to guarantee replacement of a vehicle battery degraded in mobile use, as the old battery has value and immediate use.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg/220px-Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg",
+                "caption": "Nissan Leaf , the world's top-selling highway-capable electric car as of 2015"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Flywheel",
+        "text": "Mechanical inertia is the basis of this storage method. When the electric power flows into the device, an electric motor accelerates a heavy rotating disc. The motor acts as a generator when the flow of power is reversed, slowing down the disc and producing electricity. Electricity is stored as the kinetic energy of the disc. Friction must be kept to a minimum to prolong the storage time. This is often achieved by placing the flywheel in a vacuum and using magnetic bearings , tending to make the method expensive. Greater flywheel speeds allow greater storage capacity but require strong materials such as steel or composite materials to resist the centrifugal forces . The ranges of power and energy storage technology that make this method economic, however, tends to make flywheels unsuitable for general power system application; they are probably best suited to load-leveling applications on railway power systems and for improving power quality in renewable energy systems such as the 20MW system in Ireland. [78] [79] Applications that use flywheel storage are those that require very high bursts of power for very short durations such as tokamak [80] and laser experiments where a motor generator is spun up to operating speed and is partially slowed down during discharge. Flywheel storage is also currently used in the form of the Diesel rotary uninterruptible power supply to provide uninterruptible power supply systems (such as those in large datacenters ) for ride-through power necessary during transfer [81] – that is, the relatively brief amount of time between a loss of power to the mains and the warm-up of an alternate source, such as a diesel generator . This potential solution has been implemented by EDA [82] [ better source needed ] in the Azores on the islands of Graciosa and Flores . This system uses an 18 megawatt-second flywheel to improve power quality and thus allow increased renewable energy usage. As the description suggests, these systems are again designed to smooth out transient fluctuations in supply, and could never be used to cope with an outage exceeding a couple of days. Powercorp in Australia have been developing applications using wind turbines, flywheels and low load diesel (LLD) technology to maximize the wind input to small grids. A system installed in Coral Bay, Western Australia, uses wind turbines coupled with a flywheel based control system and LLDs. The flywheel technology enables the wind turbines to supply up to 95 percent of Coral Bay's energy supply at times, with a total annual wind penetration of 45 percent. [83]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/G2_front2.jpg/220px-G2_front2.jpg",
+                "caption": "NASA G2 flywheel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Pumped water",
+        "text": "In 2008, world pumped-storage generating capacity was 104 GW , [95] while other sources claim 127 GW, which comprises the vast majority of all types of grid electric storage – all other types combined are some hundreds of MW. [96] In many places, pumped-storage hydroelectricity is used to even out the daily generating load, by pumping water to a high storage reservoir during off-peak hours and weekends, using the excess base-load capacity from coal or nuclear sources.  During peak hours, this water can be used for hydroelectric generation, often as a high value rapid-response reserve to cover transient peaks in demand. Pumped storage recovers about 70% to 85% of the energy consumed, and is currently the most cost effective form of mass power storage. [97] The chief problem with pumped storage is that it usually requires two nearby reservoirs at considerably different heights, and often requires considerable capital expenditure. [98] Pumped water systems have high dispatchability , meaning they can come on-line very quickly, typically within 15 seconds, [99] which makes these systems very efficient at soaking up variability in electrical demand from consumers. There is over 90 GW of pumped storage in operation around the world, which is about 3% of instantaneous global generation capacity. Pumped water storage systems, such as the Dinorwig storage system in Britain, hold five or six hours of generating capacity, [99] and are used to smooth out demand variations. Another example is the 1836 MW Tianhuangping Pumped-Storage Hydro Plant in China, which has a reservoir capacity of eight million cubic meters (2.1 billion U.S. gallons or the volume of water over Niagara Falls in 25 minutes) with a vertical distance of 600 m (1970 feet). The reservoir can provide about 13 GW·h of stored gravitational potential energy (convertible to electricity at about 80% efficiency), or about 2% of China's daily electricity consumption. [100] A new concept in pumped-storage is utilizing wind energy or solar power to pump water. Wind turbines or solar cells that direct drive water pumps for an energy storing wind or solar dam can make this a more efficient process but are limited. Such systems can only increase kinetic water volume during windy and daylight periods. A study published in 2013 showed rooftop solar, coupled to existing pumped-storage, could replace the reactors lost at Fukushima with an equivalent capacity factor. [101]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG/220px-Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG",
+                "caption": "Mingtan Pumped-Storage Hydro Power Plant dam in Nantou , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Hydroelectric dams",
+        "text": "Hydroelectric dams with large reservoirs can also be operated to provide peak generation at times of peak demand. Water is stored in the reservoir during periods of low demand and released through the plant when demand is higher.  The net effect is the same as pumped storage, but without the pumping loss. Depending on the reservoir capacity the plant can provide daily, weekly, or seasonal load following. Many existing hydroelectric dams are fairly old (for example, the Hoover Dam was built in the 1930s), and their original design predated the newer intermittent power sources such as wind and solar by decades. A hydroelectric dam originally built to provide baseload power will have its generators sized according to the average flow of water into the reservoir. Uprating such a dam with additional generators increases its peak power output capacity, thereby increasing its capacity to operate as a virtual grid energy storage unit. [102] [103] The United States Bureau of Reclamation reports an investment cost of $69 per kilowatt capacity to uprate an existing dam, [102] compared to more than $400 per kilowatt for oil-fired peaking generators. While an uprated hydroelectric dam does not directly store excess energy from other generating units, it behaves equivalently by accumulating its own fuel – incoming river water – during periods of high output from other generating units. Functioning as a virtual grid storage unit in this way, the uprated dam is one of the most efficient forms of energy storage, because it has no pumping losses to fill its reservoir, only increased losses to evaporation and leakage. A dam which impounds a large reservoir can store and release a correspondingly large amount of energy, by controlling river outflow and raising or lowering its reservoir level a few meters. Limitations do apply to dam operation, their releases are commonly subject to government regulated water rights to limit downstream effect on rivers. For example, there are grid situations where baseload thermal plants, nuclear or wind turbines are already producing excess power at night, dams are still required to release enough water to maintain adequate river levels, whether electricity is generated or not. Conversely there's a limit to peak capacity, which if excessive could cause a river to flood for a few hours each day. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/FeiCueiReservoir.jpg/220px-FeiCueiReservoir.jpg",
+                "caption": "Fetsui hydroelectric dam in New Taipei , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Modernization opportunities",
+        "text": "Since the early 21st century, opportunities to take advantage of improvements in electronic communication technology to resolve the limitations and costs of the electrical grid have become apparent. Technological limitations on metering no longer force peak power prices to be averaged out and passed on to all consumers equally. In parallel, growing concerns over environmental damage from fossil-fired power stations have led to a desire to use large amounts of renewable energy . Dominant forms such as wind power and solar power are highly variable, and so the need for more sophisticated control systems became apparent, to facilitate the connection of sources to the otherwise highly controllable grid. [11] Power from photovoltaic cells (and to lesser extent wind turbines ) has also, significantly, called into question the imperative for large, centralised power stations. The rapidly falling costs point to a major change from the centralised grid topology to one that is highly distributed, with power being both generated and consumed right at the limits of the grid. Finally, growing concern over terrorist attacks in some countries has led to calls for a more robust energy grid that is less dependent on centralised power stations that were perceived to be potential attack targets. [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/High-voltage_power_line_grid_of_the_world.png/220px-High-voltage_power_line_grid_of_the_world.png",
+                "caption": "World map of high voltage transmission lines with more than 220 kV in 2023"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Smart_grid",
+        "title": "Smart grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Peak curtailment/leveling and time of use pricing",
+        "text": "To reduce demand during the high-cost peak usage periods, communications and metering technologies inform smart devices in the home and business when energy demand is high and track how much electricity is used and when it is used. It also gives utility companies the ability to reduce consumption by communicating to devices directly in order to prevent system overloads. Examples would be a utility reducing the usage of a group of electric vehicle charging stations or shifting temperature set points of air conditioners in a city. [28] To motivate them to cut back use and perform what is called peak curtailment or peak leveling , prices of electricity are increased during high demand periods and decreased during low demand periods. [11] It is thought that consumers and businesses will tend to consume less during high-demand periods if it is possible for consumers and consumer devices to be aware of the high price premium for using electricity at peak periods. This could mean making trade-offs such as cycling on/off air conditioners or running dishwashers at 9 pm instead of 5 pm. When businesses and consumers see a direct economic benefit of using energy at off-peak times, the theory is that they will include the energy cost of operation into their consumer device and building construction decisions and hence become more energy efficient.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/The_case_of_smart_charging.jpg/500px-The_case_of_smart_charging.jpg",
+                "caption": "Peak load avoidance by smart charging of electric vehicles"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Smart_grid",
+        "title": "Smart grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Generation",
+        "text": "With the rapid decline in the cost of solar photovoltaics , there is a strong and accelerating trend towards the use of solar electricity in mini grids. According to a 2022 study by the World Bank's ESMAP, approximately 51 percent of installed mini grids are solar or solar hybrid (generally solar + diesel), followed by those powered only by hydro (35%), fossil fuel (10%), and other generation technologies such as wind (5%). The trend is accelerating: more than 10 times as many solar mini grids were built per year from 2016 to 2020 than fossil fuel mini grids. Almost 99 percent of all planned mini grids are solar or solar hybrid. [4] Solar hybrid mini grids include one or more other sources of electricity generation, typically a diesel generator or sometimes a generator powered by biomass fuel to a provide a dispatchable source of electricity in the event of extended cloudily periods. Most solar mini grids are hybridized with a diesel generator that provides backup power in the event of extended cloudy periods. [17] The diesel generator typically generates less than 10% of the energy consumed by mini grid customers on an annual basis. In areas where agricultural residues such as rice husk or animal manure are plentiful, biomass or biogas generators can take the place of diesel backup generation. [18] Where suitable sites allow, small scale hydroelectricity (micro- or mini-hydropower) provide cost-effective 24-hour a day electricity generation. In areas where windspeeds are consistently high and/or sunlight is very restricted seasonally, wind is used to power mini grids, often in a hybrid configuration with solar or diesel or both. A vital component of a mini-grid electric system is on-site, reliable source of energy generation. Traditional mini-grid generation for remote areas came from diesel engine alternators, which incurred high running costs, low efficiency and high maintenance. To obtain the reliability of a fossil fuel powered grid with greater sustainability, hybrid energy systems can be used to integrate renewable energy technologies with diesel generators, batteries, and inverters. [19] The main concern with generation is the fluctuation in load demand that imposes varied power requirements from the generation system. [20] These fluctuations can vary throughout a single day, from day to day, or even on the scale of weeks to months, which necessitates flexible mini-grid generation. In the case of limited power generation without a source of energy storage, peak loads can demand more power than the mini-grid generation is capable of supplying, which results in brownouts or blackouts . [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hybrid_Power_System.gif/383px-Hybrid_Power_System.gif",
+                "caption": "Hybrid power system combining wind, solar PV, and conventional diesel generation with energy storage."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mini-grid",
+        "title": "Mini-grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Distribution",
+        "text": "A mini-grid distribution system carries the energy produced by the generation source to the end users. It consists of poles and low voltage (<1000 V) distribution wires as well as protection equipment necessary to enable safe and effective energy distribution. If a feeder in the distribution system is longer than roughly 1 km in distance, then it is generally necessary to use transformers to step up the electricity to medium voltage (35 kV or below) to reduce ohmic losses. Depending on the load requirements, a distribution system can be in AC single or three phase power or DC . [22] If there is the prospect that the main grid may someday arrive, the mini grid distribution network is often built to utility standards so that the distribution network can be easily integrated into the national grid. If the mini grid is certain to remain disconnected from the main grid (for example, if it is located on an island distant from shore) distribution networks are sometimes built to standards that are lower than the national grid, but still ensure safety and efficiency. Electricity is sold to customers using either pre-pay or postpay meters. Pre-pay meters are more common and work like pre-paid phone plans, automatically disconnecting customes when the amount of purchased electricity is consumed. Because electricity consumed during sunny hours is less costly to produce than electricity that must be stored in batteries or generated from a diesel generator, mini grids metering systems sometimes provide lower tariffs for daytime consumption, or the ability to curtail lower-priority customers in the event of energy shortages. The use of a pre-made switchboard (sometimes referred to as a ready-board) with a few light switches and outlets can eliminate the costs of internal household wiring.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Household_mini_grid_switchboard%2C_eliminating_the_need_for_extensive_household_wiring.jpg/220px-Household_mini_grid_switchboard%2C_eliminating_the_need_for_extensive_household_wiring.jpg",
+                "caption": "Tata Power Renewable Microgrid household switchboard, eliminating the need for extensive household wiring"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mini-grid",
+        "title": "Mini-grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Financial benefits",
+        "text": "Mini-grids can provide significant financial benefits in rural electrification efforts in developing countries. First, deployment of mini-grids in rural unelectrified areas circumvents the high costs and logistical challenges associated with extending national grid infrastructure to these regions. This not only makes electrification more financially feasible but also accelerates the pace of rural electrification, contributing to broader economic development goals. Second, the use of renewable energy sources like solar can lower the levelized cost of electricity while reducing dependency on fossil fuels and fluctuating global energy prices. Third, by providing reliable electricity, mini-grids stimulate economic growth in rural areas, fostering small businesses and industries, which in turn can increase local income levels. [23] For instance, a study on solar mini-grids in Kenya and Nigeria showed a significant increase in productivity and economic activity. The median income of rural Kenyan community members quadrupled, and business establishments reported an increase in operational hours, expansion in products and services, and hiring more employees. Additionally, mini-grids led to a shift from hazardous energy sources like kerosene lamps to safer, more reliable electricity, further enhancing economic stability and health in these communities. [1] Mini-grids are also able to spread electrical storage and generation across many users which can reduce the cost when compared to solar home systems where surpluses or generation or storage cannot be shared with neighboring houses. [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fixed_Tilt_Solar_panel_at_Canterbury_Municipal_Building_Canterbury_New_Hampshire.jpg/220px-Fixed_Tilt_Solar_panel_at_Canterbury_Municipal_Building_Canterbury_New_Hampshire.jpg",
+                "caption": "Solar panels are often used in mini-grids to reduce the need for diesel generators."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mini-grid",
+        "title": "Mini-grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Technical risks",
+        "text": "One of the main technical risks associated with mini-grids is the load uncertainty. It is often difficult to estimate the load size, growth, and schedule which can lead to the system running with lower efficiency and higher cost. It is also difficult to support loads that are constantly changing over time, as they typically are when using mini-grids. [23] There is also a risk to power quality when using mini-grids. Integrating photovoltaic devices and batteries can be disruptive to the existing grid and can cause it to become unstable. [23] Another technical drawback of using mini-grids is that failure of hardware in one part of the grid could affect the entire system. If one section if the grid is damaged, the rest of the grid could fail as well. This is a risk that exists with any type of grid, however the regions where mini-grids are typically used are poor rural areas with less access to maintenance services so the effects are exacerbated. [23] While helpful for energy storage, the batteries used in mini-grids also have risks of their own. They are usually expensive and as they age they have a large influence on the energy that is supplied to the grid. If the batteries are not replaced at the correct time, the energy provided by the whole grid could be decreased. [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Roads_in_the_rural_areas_-_panoramio.jpg/220px-Roads_in_the_rural_areas_-_panoramio.jpg",
+                "caption": "Most areas where mini-grids are used are rural and have little access to supplies."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mini-grid",
+        "title": "Mini-grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Super grid",
+        "text": "A super grid or supergrid is a wide-area transmission network that is intended to make possible the trade of high volumes of electricity across great distances. It is sometimes also referred to as a mega grid . Super grids can support a global energy transition by smoothing local fluctuations of wind energy and solar energy . In this context they are considered as a key technology to mitigate global warming . Super grids typically use High-voltage direct current (HVDC) to transmit electricity long distances. The latest generation of HVDC power lines can transmit energy with losses of only 1.6% per 1000 km. [19] Electric utilities between regions are many times interconnected for improved economy and reliability. Electrical interconnectors allow for economies of scale, allowing energy to be purchased from large, efficient sources. Utilities can draw power from generator reserves from a different region to ensure continuing, reliable power and diversify their loads. Interconnection also allows regions to have access to cheap bulk energy by receiving power from different sources. For example, one region may be producing cheap hydro power during high water seasons, but in low water seasons, another area may be producing cheaper power through wind, allowing both regions to access cheaper energy sources from one another during different times of the year. Neighboring utilities also help others to maintain the overall system frequency and also help manage tie transfers between utility regions. [20] Electricity Interconnection Level (EIL) of a grid is the ratio of the total interconnector power to the grid divided by the installed production capacity of the grid. Within the EU, it has set a target of national grids reaching 10% by 2020, and 15% by 2030. [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TREC-Map-en.jpg/220px-TREC-Map-en.jpg",
+                "caption": "One conceptual plan of a super grid linking renewable sources across North Africa, the Middle East and Europe. ( DESERTEC ) [18]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electrical_grid",
+        "title": "Electrical grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Generation",
+        "text": "Electricity generation is the process of generating electric power from sources of primary energy typically at power stations . Usually this is done with electromechanical generators driven by heat engines or the kinetic energy of water or wind. Other energy sources include solar photovoltaics and geothermal power . The sum of the power outputs of generators on the grid is the production of the grid, typically measured in gigawatts (GW).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Turbogenerator01.jpg/290px-Turbogenerator01.jpg",
+                "caption": "Turbo generator"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Electricity_grid_simple-_North_America.svg/290px-Electricity_grid_simple-_North_America.svg.png",
+                "caption": "Diagram of an electric power system, generation system in red"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electrical_grid",
+        "title": "Electrical grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Transmission",
+        "text": "Electric power transmission is the bulk movement of electrical energy from a generating site, via a web of interconnected lines, to an electrical substation , from which is connected to the distribution system. This networked system of connections is distinct from the local wiring between high-voltage substations and customers. Because the power is often generated far from where it is consumed, the transmission system can cover great distances. For a given amount of power, transmission efficiency is greater at higher voltages and lower currents. Therefore, voltages are stepped up at the generating station, and stepped down at local substations for distribution to customers. Most transmission is three-phase . Three phase, compared to single phase, can deliver much more power for a given amount of wire, since the neutral and ground wires are shared. [22] Further, three-phase generators and motors are more efficient than their single-phase counterparts. However, for conventional conductors one of the main losses are resistive losses which are a square law on current, and depend on distance. High voltage AC transmission lines can lose 1-4% per hundred miles. [23] However, high-voltage direct current can have half the losses of AC. Over very long distances, these efficiencies can offset the additional cost of the required AC/DC converter stations at each end. Transmission networks are complex with redundant pathways. The physical layout is often forced by what land is available and its geology. Most transmission grids offer the reliability that more complex mesh networks provide. Redundancy allows line failures to occur and power is simply rerouted while repairs are done.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/500kV_3-Phase_Transmission_Lines.png/220px-500kV_3-Phase_Transmission_Lines.png",
+                "caption": "500 kV Three-phase electric power Transmission Lines at Grand Coulee Dam ; four circuits are shown; two additional circuits are obscured by trees on the right; the entire 7079 MW generation capacity of the dam is accommodated by these six circuits."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/A_network_diagram_of_the_%27nesta_case1354_pegase_high_voltage%27_electrical_power_system.png/360px-A_network_diagram_of_the_%27nesta_case1354_pegase_high_voltage%27_electrical_power_system.png",
+                "caption": "Network diagram of a high voltage transmission system, showing the interconnection between the different voltage levels. This diagram depicts the electrical structure [24] of the network, rather than its physical geography."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electrical_grid",
+        "title": "Electrical grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Storage",
+        "text": "Grid energy storage (also called large-scale energy storage ) is a collection of methods used for energy storage on a large scale within an electrical power grid . Electrical energy is stored during times when electricity is plentiful and inexpensive (especially from intermittent power sources such as renewable electricity from wind power , tidal power and solar power ) or when demand is low, and later returned to the grid when demand is high, and electricity prices tend to be higher. As of 2020 [update] , the largest form of grid energy storage is dammed hydroelectricity , with both conventional hydroelectric generation as well as pumped storage hydroelectricity . Developments in battery storage have enabled commercially viable projects to store energy during peak production and release during peak demand, and for use when production unexpectedly falls giving time for slower responding resources to be brought online. Two alternatives to grid storage are the use of peaking power plants to fill in supply gaps and demand response to shift load to other times.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Grid_energy_storage.png/220px-Grid_energy_storage.png",
+                "caption": "Simplified electrical grid with energy storage"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Grid_storage_energy_flow.png/220px-Grid_storage_energy_flow.png",
+                "caption": "Simplified grid energy flow with and without idealized energy storage for the course of one day"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electrical_grid",
+        "title": "Electrical grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Brownout",
+        "text": "A brownout is an intentional or unintentional drop in voltage in an electrical power supply system. Intentional brownouts are used for load reduction in an emergency. [33] The reduction lasts for minutes or hours, as opposed to short-term voltage sag (or dip). The term brownout comes from the dimming experienced by incandescent lighting when the voltage sags. A voltage reduction may be an effect of disruption of an electrical grid, or may occasionally be imposed in an effort to reduce load and prevent a power outage , known as a blackout . [34]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20110313-TokyoTower.jpg/170px-20110313-TokyoTower.jpg",
+                "caption": "A brownout near Tokyo Tower in Tokyo , Japan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electrical_grid",
+        "title": "Electrical grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Black start",
+        "text": "A black start is the process of restoring an electric power station or a part of an electric grid to operation without relying on the external electric power transmission network to recover from a total or partial shutdown. [35] Normally, the electric power used within the plant is provided from the station's own generators. If all of the plant's main generators are shut down, station service power is provided by drawing power from the grid through the plant's transmission line. However, during a wide-area outage, off-site power from the grid is not available. In the absence of grid power, a so-called black start needs to be performed to bootstrap the power grid into operation. To provide a black start, some power stations have small diesel generators , normally called the black start diesel generator (BSDG), which can be used to start larger generators (of several megawatts capacity), which in turn can be used to start the main power station generators. Generating plants using steam turbines require station service power of up to 10% of their capacity for boiler feedwater pumps , boiler forced-draft combustion air blowers, and for fuel preparation. It is uneconomical to provide such a large standby capacity at each station, so black-start power must be provided over designated tie lines from another station. Often hydroelectric power plants are designated as the black-start sources to restore network interconnections. A hydroelectric station needs very little initial power to start (just enough to open the intake gates and provide excitation current to the generator field coils), and can put a large block of power on line very quickly to allow start-up of fossil-fuel or nuclear stations. Certain types of combustion turbine can be configured for black start, providing another option in places without suitable hydroelectric plants. [36] In 2017 a utility in Southern California has successfully demonstrated the use of a battery energy storage system to provide a black start, firing up a combined cycle gas turbine from an idle state. [37]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Toronto_ON_2003_Blackout.jpg/220px-Toronto_ON_2003_Blackout.jpg",
+                "caption": "Toronto during the Northeast blackout of 2003 , which required black-starting of generating stations."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electrical_grid",
+        "title": "Electrical grid",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Products",
+        "text": "All Enphase microinverters are completely self-contained power converters. In the case of a rooftop photovoltaic (PV) inverter, the unit will convert DC from a single solar panel into grid-compliant AC power, following the maximum power point of the panel. Since the \"S\" series microinverters (e.g. S280) all Enphase microinverters have been both Advanced Grid Function and Bidirectional power capable. This allows a microinverter to produce power in the DC-AC direction, for solar applications, or in the DC-AC and AC/DC directions, for battery use. The microinverter(s) in the Enphase battery products are the same units as installed on the roof, with only software settings changed.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Enphase_M190.jpg/220px-Enphase_M190.jpg",
+                "caption": "An Enphase M190 mounted and grounded."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Enphase_Energy",
+        "title": "Enphase Energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Basic design",
+        "text": "Electrochemical capacitors (supercapacitors) consist of two electrodes separated by an ion-permeable membrane ( separator ), and an electrolyte ionically connecting both electrodes. When the electrodes are polarized by an applied voltage, ions in the electrolyte form electric double layers of opposite polarity to the electrode's polarity. For example, positively polarized electrodes will have a layer of negative ions at the electrode/electrolyte interface along with a charge-balancing layer of positive ions adsorbing onto the negative layer. The opposite is true for the negatively polarized electrode. Additionally, depending on electrode material and surface shape, some ions may permeate the double layer becoming specifically adsorbed ions and contribute with pseudocapacitance to the total capacitance of the supercapacitor.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Electric_double-layer_capacitor_%282_models%29_-1_NT.PNG/220px-Electric_double-layer_capacitor_%282_models%29_-1_NT.PNG",
+                "caption": "Typical construction of a supercapacitor: (1) power source, (2) collector, (3) polarized electrode, (4) Helmholtz double layer, (5) electrolyte having positive and negative ions, (6) separator"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Electrical double-layer capacitance",
+        "text": "Every electrochemical capacitor has two electrodes, mechanically separated by a separator, which are ionically connected to each other via the electrolyte . The electrolyte is a mixture of positive and negative ions dissolved in a solvent such as water. At each of the two electrode surfaces originates an area in which the liquid electrolyte contacts the conductive metallic surface of the electrode. This interface forms a common boundary among two different phases of matter, such as an insoluble solid electrode surface and an adjacent liquid electrolyte. In this interface occurs a very special phenomenon of the double layer effect . [25] Applying a voltage to an electrochemical capacitor causes both electrodes in the capacitor to generate electrical double-layers. These double-layers consist of two layers of charges: one electronic layer is in the surface lattice structure of the electrode, and the other, with opposite polarity, emerges from dissolved and solvated ions in the electrolyte. The two layers are separated by a monolayer of solvent molecules , e.g. , for water as solvent by water molecules, called inner Helmholtz plane (IHP). Solvent molecules adhere by physical adsorption on the surface of the electrode and separate the oppositely polarized ions from each other, and can be idealised as a molecular dielectric. In the process, there is no transfer of charge between electrode and electrolyte, so the forces that cause the adhesion are not chemical bonds, but physical forces, e.g. , electrostatic forces. The adsorbed molecules are polarized, but, due to the lack of transfer of charge between electrolyte and electrode, suffered no chemical changes. The amount of charge in the electrode is matched by the magnitude of counter-charges in outer Helmholtz plane (OHP). This double-layer phenomena stores electrical charges as in a conventional capacitor. The double-layer charge forms a static electric field in the molecular layer of the solvent molecules in the IHP that corresponds to the strength of the applied voltage. The double-layer serves approximately as the dielectric layer in a conventional capacitor, albeit with the thickness of a single molecule. Thus, the standard formula for conventional plate capacitors can be used to calculate their capacitance: [26] Accordingly, capacitance C is greatest in capacitors made from materials with a high permittivity ε , large electrode plate surface areas A and small distance between plates d . As a result, double-layer capacitors have much higher capacitance values than conventional capacitors, arising from the extremely large surface area of activated carbon electrodes and the extremely thin double-layer distance on the order of a few ångströms (0.3-0.8 nm), of order of the Debye length . [16] [24] Assuming that the minimum distance between the electrode and the charge accumulating region cannot be less than the typical distance between negative and positive charges in atoms of ~0.05 nm a general capacitance upper limit of ~18 μF/cm 2 has been predicted for non-faradaic capacitors. [27] The main drawback of carbon electrodes of double-layer SCs is small values of quantum capacitance [ citation needed ] which act in series [28] with capacitance of ionic space charge. Therefore, further increase of density of capacitance in SCs can be connected with increasing of quantum capacitance of carbon electrode nanostructures. [ citation needed ] The amount of charge stored per unit voltage in an electrochemical capacitor is primarily a function of the electrode size. The electrostatic storage of energy in the double-layers is linear with respect to the stored charge, and correspond to the concentration of the adsorbed ions. Also, while charge in conventional capacitors is transferred via electrons, capacitance in double-layer capacitors is related to the limited moving speed of ions in the electrolyte and the resistive porous structure of the electrodes. Since no chemical changes take place within the electrode or electrolyte, charging and discharging electric double-layers in principle is unlimited. Real supercapacitors lifetimes are only limited by electrolyte evaporation effects.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/EDLC-simplified-principle.png/220px-EDLC-simplified-principle.png",
+                "caption": "Simplified view of a double-layer of negative ions in the electrode and solvated positive ions in the liquid electrolyte, separated by a layer of polarized solvent molecules"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/EDLC-Charge-Distribution.png/220px-EDLC-Charge-Distribution.png",
+                "caption": "Structure and function of an ideal double-layer capacitor. Applying a voltage to the capacitor at both electrodes a Helmholtz double-layer will be formed separating the ions in the electrolyte in a mirror charge distribution of opposite polarity"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Electrochemical pseudocapacitance",
+        "text": "Applying a voltage at the electrochemical capacitor terminals moves electrolyte ions to the opposite polarized electrode and forms a double-layer in which a single layer of solvent molecules acts as separator. Pseudocapacitance can originate when specifically adsorbed ions out of the electrolyte pervade the double-layer. This pseudocapacitance stores electrical energy by means of reversible faradaic redox reactions on the surface of suitable electrodes in an electrochemical capacitor with an electric double-layer . [12] [23] [24] [29] [30] Pseudocapacitance is accompanied with an electron charge-transfer between electrolyte and electrode coming from a de-solvated and adsorbed ion whereby only one electron per charge unit is participating. This faradaic charge transfer originates by a very fast sequence of reversible redox, intercalation or electrosorption processes. The adsorbed ion has no chemical reaction with the atoms of the electrode (no chemical bonds arise [31] ) since only a charge-transfer take place. The electrons involved in the faradaic processes are transferred to or from valence electron states ( orbitals ) of the redox electrode reagent. They enter the negative electrode and flow through the external circuit to the positive electrode where a second double-layer with an equal number of anions has formed. The electrons reaching the positive electrode are not transferred to the anions forming the double-layer, instead they remain in the strongly ionized and \"electron hungry\" transition-metal ions of the electrode's surface. As such, the storage capacity of faradaic pseudocapacitance is limited by the finite quantity of reagent in the available surface. A faradaic pseudocapacitance only occurs together with a static double-layer capacitance , and its magnitude may exceed the value of double-layer capacitance for the same surface area by factor of 100, depending on the nature and the structure of the electrode, because all the pseudocapacitance reactions take place only with de-solvated ions, which are much smaller than solvated ion with their solvating shell. [12] [29] The amount of pseudocapacitance has a linear function within narrow limits determined by the potential-dependent degree of surface coverage of the adsorbed anions. The ability of electrodes to accomplish pseudocapacitance effects by redox reactions, intercalation or electrosorption strongly depends on the chemical affinity of electrode materials to the ions adsorbed on the electrode surface as well as on the structure and dimension of the electrode pores. Materials exhibiting redox behavior for use as electrodes in pseudocapacitors are transition-metal oxides like RuO 2 , IrO 2 , or MnO 2 inserted by doping in the conductive electrode material such as active carbon, as well as conducting polymers such as polyaniline or derivatives of polythiophene covering the electrode material. The amount of electric charge stored in a pseudocapacitance is linearly proportional to the applied voltage . The unit of pseudocapacitance is farad , same as that of capacitance. Although conventional battery-type electrode materials also use chemical reactions to store charge, they show very different electrical profiles, as the rate of discharge is limited by the speed of diffusion . Grinding those materials down to nanoscale frees them of the diffusion limit and give them a more pseudocapacitative behavior, making them extrinsic pseudocapacitors .  Chodankar et al. 2020, figure 2 shows the representative voltage-capacity curves for bulk LiCoO 2 , nano LiCoO 2 , a redox pseudocapacitor (RuO 2 ), and a intercalation pseudocapacitor (T-Nb 2 O 5 ). [32] : 5",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pseudocapacitance-Priciple.png/220px-Pseudocapacitance-Priciple.png",
+                "caption": "Simplified view of a double-layer with specifically adsorbed ions which have submitted their charge to the electrode to explain the faradaic charge-transfer of the pseudocapacitance"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Voltagram-Engl.png/220px-Voltagram-Engl.png",
+                "caption": "A cyclic voltammogram (CV) shows the fundamental differences between static capacitance (rectangular) and pseudocapacitance (curved)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Potential distribution",
+        "text": "Conventional capacitors (also known as electrostatic capacitors), such as ceramic capacitors and film capacitors , consist of two electrodes separated by a dielectric material. When charged, the energy is stored in a static electric field that permeates the dielectric between the electrodes. The total energy increases with the amount of stored charge, which in turn correlates linearly with the potential (voltage) between the plates. The maximum potential difference between the plates (the maximal voltage) is limited by the dielectric's breakdown field strength . The same static storage also applies for electrolytic capacitors in which most of the potential decreases over the anode 's thin oxide layer. The somewhat resistive liquid electrolyte ( cathode ) accounts for a small decrease of potential for \"wet\" electrolytic capacitors, while electrolytic capacitors with solid conductive polymer electrolyte this voltage drop is negligible. In contrast, electrochemical capacitors (supercapacitors) consists of two electrodes separated by an ion-permeable membrane (separator) and electrically connected via an electrolyte. Energy storage occurs within the double-layers of both electrodes as a mixture of a double-layer capacitance and pseudocapacitance. When both electrodes have approximately the same resistance ( internal resistance ), the potential of the capacitor decreases symmetrically over both double-layers, whereby a voltage drop across the equivalent series resistance (ESR) of the electrolyte is achieved. For asymmetrical supercapacitors like hybrid capacitors the voltage drop between the electrodes could be asymmetrical. The maximum potential across the capacitor (the maximal voltage) is limited by the electrolyte decomposition voltage. Both electrostatic and electrochemical energy storage in supercapacitors are linear with respect to the stored charge, just as in conventional capacitors. The voltage between the capacitor terminals is linear with respect to the amount of stored energy. Such linear voltage gradient differs from rechargeable electrochemical batteries, in which the voltage between the terminals remains independent of the amount of stored energy, providing a relatively constant voltage.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fixed_capacitors-charge_storage_principles-2.png/330px-Fixed_capacitors-charge_storage_principles-2.png",
+                "caption": "Charge storage principles of different capacitor types and their internal potential distribution"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/EDLC-Voltage_distribution.png/230px-EDLC-Voltage_distribution.png",
+                "caption": "Basic illustration of the functionality of a supercapacitor, the voltage distribution inside of the capacitor and its simplified equivalent DC circuit"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Charge-Discharge-Supercap-vs-Battery.png/220px-Charge-Discharge-Supercap-vs-Battery.png",
+                "caption": "The voltage behavior of supercapacitors and batteries during charging/discharging differs clearly"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Styles",
+        "text": "Supercapacitors are made in different styles, such as flat with a single pair of electrodes, wound in a cylindrical case, or stacked in a rectangular case. Because they cover a broad range of capacitance values, the size of the cases can vary. Supercapacitors are constructed with two metal foils (current collectors), each coated with an electrode material such as activated carbon, which serve as the power connection between the electrode material and the external terminals of the capacitor. Specifically to the electrode material is a very large surface area. In this example the activated carbon is electrochemically etched, so that the surface area of the material is about 100,000 times greater than the smooth surface. The electrodes are kept apart by an ion-permeable membrane (separator) used as an insulator to protect the electrodes against short circuits . This construction is subsequently rolled or folded into a cylindrical or rectangular shape and can be stacked in an aluminum can or an adaptable rectangular housing. The cell is then impregnated with a liquid or viscous electrolyte of organic or aqueous type. The electrolyte, an ionic conductor, enters the pores of the electrodes and serves as the conductive connection between the electrodes across the separator. Finally, the housing is hermetically sealed to ensure stable behavior over the specified lifetime.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Supercap-flat-case.jpg/220px-Supercap-flat-case.jpg",
+                "caption": "Flat style of a supercapacitor used for mobile components"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Polarit%C3%A4t-EDLC-P1070160.JPG/220px-Polarit%C3%A4t-EDLC-P1070160.JPG",
+                "caption": "Radial style of a lithium-ion type supercapacitor for PCB mounting used for industrial applications"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Electric_double-layer_capacitor_%28Activated_carbon_electrode_-_Tube_type%29.PNG/220px-Electric_double-layer_capacitor_%28Activated_carbon_electrode_-_Tube_type%29.PNG",
+                "caption": "Schematic construction of a wound supercapacitor 1. terminals, 2. safety vent, 3. sealing disc, 4. aluminum can, 5. positive pole, 6. separator, 7. carbon electrode, 8. collector, 9. carbon electrode, 10. negative pole"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Electric_double-layer_capacitor_%28Activated_carbon_electrode_-_BOX_type%29.PNG/220px-Electric_double-layer_capacitor_%28Activated_carbon_electrode_-_BOX_type%29.PNG",
+                "caption": "Schematic construction of a supercapacitor with stacked electrodes 1. positive electrode, 2. negative electrode, 3. separator"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Types",
+        "text": "Electrical energy is stored in supercapacitors via two storage principles, static double-layer capacitance and electrochemical pseudocapacitance ; and the distribution of the two types of capacitance depends on the material and structure of the electrodes. There are three types of supercapacitors based on storage principle: [16] [24] Because double-layer capacitance and pseudocapacitance both contribute inseparably to the total capacitance value of an electrochemical capacitor, a correct description of these capacitors only can be given under the generic term. The concepts of supercapattery and supercabattery have been recently proposed to better represent those hybrid devices that behave more like the supercapacitor and the rechargeable battery, respectively. [34] The capacitance value of a supercapacitor is determined by two storage principles: Double-layer capacitance and pseudocapacitance both contribute inseparably to the total capacitance value of a supercapacitor. [23] However, the ratio of the two can vary greatly, depending on the design of the electrodes and the composition of the electrolyte. Pseudocapacitance can increase the capacitance value by as much as a factor of ten over that of the double-layer by itself. [12] [29] Electric double-layer capacitors (EDLC) are electrochemical capacitors in which energy storage predominantly is achieved by double-layer capacitance. In the past, all electrochemical capacitors were called \"double-layer capacitors\". Contemporary usage sees double-layer capacitors, together with pseudocapacitors, as part of a larger family of electrochemical capacitors [12] [29] called supercapacitors. They are also known as ultracapacitors.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Supercaps-family.png/330px-Supercaps-family.png",
+                "caption": "Family tree of supercapacitor types. Double-layer capacitors and pseudocapacitors as well as hybrid capacitors are defined over their electrode designs"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Electrodes",
+        "text": "Supercapacitor electrodes are generally thin coatings applied and electrically connected to a conductive, metallic current collector. Electrodes must have good conductivity, high temperature stability, long-term chemical stability ( inertness ), high corrosion resistance and high surface areas per unit volume and mass. Other requirements include environmental friendliness and low cost. The amount of double-layer as well as pseudocapacitance stored per unit voltage in a supercapacitor is predominantly a function of the electrode surface area. Therefore, supercapacitor electrodes are typically made of porous, spongy material with an extraordinarily high specific surface area , such as activated carbon . Additionally, the ability of the electrode material to perform faradaic charge transfers enhances the total capacitance. Generally the smaller the electrode's pores, the greater the capacitance and specific energy . However, smaller pores increase equivalent series resistance (ESR) and decrease specific power . Applications with high peak currents require larger pores and low internal losses, while applications requiring high specific energy need small pores.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ActivatedCharcoalPowder_BrightField.jpg/220px-ActivatedCharcoalPowder_BrightField.jpg",
+                "caption": "A micrograph of activated carbon under bright field illumination on a light microscope . Notice the fractal -like shape of the particles hinting at their enormous surface area. Each particle in this image, despite being only around 0.1 mm across, has a surface area of several square centimeters. [ citation needed ]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Carbon aerogel",
+        "text": "Carbon aerogel is a highly porous, synthetic , ultralight material derived from an organic gel in which the liquid component of the gel has been replaced with a gas. Aerogel electrodes are made via pyrolysis of resorcinol - formaldehyde aerogels [43] and are more conductive than most activated carbons. They enable thin and mechanically stable electrodes with a thickness in the range of several hundred micrometres (μm) and with uniform pore size. Aerogel electrodes also provide mechanical and vibration stability for supercapacitors used in high-vibration environments. Researchers have created a carbon aerogel electrode with gravimetric densities of about 400–1200 m 2 /g and volumetric capacitance of 104 F/cm 3 , yielding a specific energy of 325 kJ/kg ( 90 Wh/kg ) and specific power of 20 W/g . [44] [45] Standard aerogel electrodes exhibit predominantly double-layer capacitance. Aerogel electrodes that incorporate composite material can add a high amount of pseudocapacitance. [46]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aerogel_hand.jpg/220px-Aerogel_hand.jpg",
+                "caption": "A block of silica aerogel in hand"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Carbide-derived carbon",
+        "text": "Carbide-derived carbon (CDC), also known as tunable nanoporous carbon, is a family of carbon materials derived from carbide precursors, such as binary silicon carbide and titanium carbide , that are transformed into pure carbon via physical, e.g. , thermal decomposition or chemical, e.g. , halogenation ) processes. [47] [48] Carbide-derived carbons can exhibit high surface area and tunable pore diameters (from micropores to mesopores) to maximize ion confinement, increasing pseudocapacitance by faradaic H 2 adsorption treatment. CDC electrodes with tailored pore design offer as much as 75% greater specific energy than conventional activated carbons. As of 2015 [update] , a CDC supercapacitor offered a specific energy of 10.1 Wh/kg, 3,500 F capacitance and over one million charge-discharge cycles. [49]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Figure4CDC.jpg/220px-Figure4CDC.jpg",
+                "caption": "Pore size distributions for different carbide precursors"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Graphene",
+        "text": "Graphene is a one-atom thick sheet of graphite , with atoms arranged in a regular hexagonal pattern, [50] [51] also called \"nanocomposite paper\". [52] Graphene has a theoretical specific surface area of 2630 m 2 /g which can theoretically lead to a capacitance of 550 F/g. In addition, an advantage of graphene over activated carbon is its higher electrical conductivity. As of 2012 [update] a new development used graphene sheets directly as electrodes without collectors for portable applications. [53] [54] In one embodiment, a graphene-based supercapacitor uses curved graphene sheets that do not stack face-to-face, forming mesopores that are accessible to and wettable by ionic electrolytes at voltages up to 4 V. A specific energy of 85.6 Wh/kg ( 308 kJ/kg ) is obtained at room temperature equaling that of a conventional nickel metal hydride battery , but with 100-1000 times greater specific power. [55] [56] The two-dimensional structure of graphene improves charging and discharging. Charge carriers in vertically oriented sheets can quickly migrate into or out of the deeper structures of the electrode, thus increasing currents. Such capacitors may be suitable for 100/120 Hz filter applications, which are unreachable for supercapacitors using other carbon materials. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Graphen.jpg/150px-Graphen.jpg",
+                "caption": "Graphene is an atomic-scale honeycomb lattice made of carbon atoms"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Carbon nanotubes",
+        "text": "Carbon nanotubes (CNTs), also called buckytubes, are carbon molecules with a cylindrical nanostructure . They have a hollow structure with walls formed by one-atom-thick sheets of graphite. These sheets are rolled at specific and discrete (\"chiral\") angles, and the combination of chiral angle and radius controls properties such as electrical conductivity, electrolyte wettability and ion access. Nanotubes are categorized as single-walled nanotubes (SWNTs) or multi-walled nanotubes (MWNTs). The latter have one or more outer tubes successively enveloping a SWNT, much like the Russian matryoshka dolls . SWNTs have diameters ranging between 1 and 3 nm. MWNTs have thicker coaxial walls, separated by spacing (0.34 nm) that is close to graphene's interlayer distance. Nanotubes can grow vertically on the collector substrate, such as a silicon wafer. Typical lengths are 20 to 100 μm. [58] Carbon nanotubes can greatly improve capacitor performance, due to the highly wettable surface area and high conductivity. [59] [60] A SWNT-based supercapacitor with aqueous electrolyte was systematically studied at University of Delaware in Prof. Bingqing Wei's group. Li et al., for the first time, discovered that the ion-size effect and the electrode-electrolyte wettability are the dominant factors affecting the electrochemical behavior of flexible SWCNTs-supercapacitors in different 1 molar aqueous electrolytes with different anions and cations. The experimental results also showed for flexible supercapacitor that it is suggested to put enough pressure between the two electrodes to improve the aqueous electrolyte CNT supercapacitor. [61] CNTs can store about the same charge as activated carbon per unit surface area, but nanotubes' surface is arranged in a regular pattern, providing greater wettability. SWNTs have a high theoretical specific surface area of 1315 m 2 /g, while that for MWNTs is lower and is determined by the diameter of the tubes and degree of nesting, compared with a surface area of about 3000 m 2 /g of activated carbons. Nevertheless, CNTs have higher capacitance than activated carbon electrodes, e.g. , 102 F/g for MWNTs and 180 F/g for SWNTs. [ citation needed ] MWNTs have mesopores that allow for easy access of ions at the electrode–electrolyte interface. As the pore size approaches the size of the ion solvation shell, the solvent molecules are partially stripped, resulting in larger ionic packing density and increased faradaic storage capability. However, the considerable volume change during repeated intercalation and depletion decreases their mechanical stability. To this end, research to increase surface area, mechanical strength, electrical conductivity and chemical stability is ongoing. [59] [62] [63]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Chiraltube.png/220px-Chiraltube.png",
+                "caption": "A scanning tunneling microscopy image of single-walled carbon nanotube"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/CNTSEM.JPG/220px-CNTSEM.JPG",
+                "caption": "SEM image of carbon nanotube bundles with a surface of about 1500 m 2 /g"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Capacitance",
+        "text": "Capacitance values for commercial capacitors are specified as \"rated capacitance C R \". This is the value for which the capacitor has been designed. The value for an actual component must be within the limits given by the specified tolerance. Typical values are in the range of farads (F), three to six orders of magnitude larger than those of electrolytic capacitors. The capacitance value results from the energy W {\\displaystyle W} (expressed in Joule ) of a loaded capacitor loaded via a DC voltage V DC . This value is also called the \"DC capacitance\".",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Superkondensator-Porenmodell-engl.png/220px-Superkondensator-Porenmodell-engl.png",
+                "caption": "Schematic illustration of the capacitance behavior resulting out of the porous structure of the electrodes"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Supercapacitor-Equi-Circuit.png/220px-Supercapacitor-Equi-Circuit.png",
+                "caption": "Equivalent circuit with cascaded RC elements"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/EDLC-Cap-Frequency-dependent-en.svg/220px-EDLC-Cap-Frequency-dependent-en.svg.png",
+                "caption": "Dependence of capacitance on frequency of a 50 F supercapacitor"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Measurement",
+        "text": "Conventional capacitors are normally measured with a small AC voltage (0.5 V) and a frequency of 100 Hz or 1 kHz depending on the capacitor type. The AC capacitance measurement offers fast results, important for industrial production lines. The capacitance value of a supercapacitor depends strongly on the measurement frequency, which is related to the porous electrode structure and the limited electrolyte's ion mobility. Even at a low frequency of 10 Hz, the measured capacitance value drops from 100 to 20 percent of the DC capacitance value. This extraordinarily strong frequency dependence can be explained by the different distances the ions have to move in the electrode's pores. The area at the beginning of the pores can be easily accessed by the ions; this short distance is accompanied by low electrical resistance. The greater the distance the ions have to cover, the higher the resistance. This phenomenon can be described with a series circuit of cascaded RC (resistor/capacitor) elements with serial RC time constants . These result in delayed current flow, reducing the total electrode surface area that can be covered with ions if polarity changes – capacitance decreases with increasing AC frequency. Thus, the total capacitance is achieved only after longer measuring times. Out of the reason of the very strong frequency dependence of the capacitance, this electrical parameter has to be measured with a special constant current charge and discharge measurement, defined in IEC standards 62391-1 and -2. Measurement starts with charging the capacitor. The voltage has to be applied and after the constant current/constant voltage power supply has achieved the rated voltage, the capacitor must be charged for 30 minutes. Next, the capacitor has to be discharged with a constant discharge current I discharge . Then the time t 1 and t 2 , for the voltage to drop from 80% (V 1 ) to 40% (V 2 ) of the rated voltage is measured. The capacitance value is calculated as: The value of the discharge current is determined by the application. The IEC standard defines four classes: The measurement methods employed by individual manufacturers are mainly comparable to the standardized methods. [86] [87] The standardized measuring method is too time consuming for manufacturers to use during production for each individual component. For industrial-produced capacitors, the capacitance value is instead measured with a faster, low-frequency AC voltage, and a correlation factor is used to compute the rated capacitance. This frequency dependence affects capacitor operation. Rapid charge and discharge cycles mean that neither the rated capacitance value nor specific energy are available. In this case the rated capacitance value is recalculated for each application condition. The time t a supercapacitor can deliver a constant current I can be calculated as: as the capacitor voltage decreases from U charge down to U min . If the application needs a constant power P for a certain time t this can be calculated as: wherein also the capacitor voltage decreases from U charge down to U min .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/EDLC-Capacitance-measuring.png/220px-EDLC-Capacitance-measuring.png",
+                "caption": "Illustration of the measurement conditions for measuring the capacitance of supercapacitors"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Operating voltage",
+        "text": "Supercapacitors are low voltage components. Safe operation requires that the voltage remain within specified limits. The rated voltage U R is the maximum DC voltage or peak pulse voltage that may be applied continuously and remain within the specified temperature range. Capacitors should never be subjected to voltages continuously in excess of the rated voltage. The rated voltage includes a safety margin against the electrolyte's breakdown voltage at which the electrolyte decomposes . The breakdown voltage decomposes the separating solvent molecules in the Helmholtz double-layer, e.g. water splits into hydrogen and oxygen . The solvent molecules then cannot separate the electrical charges from each other. Higher voltages than rated voltage cause hydrogen gas formation or a short circuit. Standard supercapacitors with aqueous electrolyte normally are specified with a rated voltage of 2.1 to 2.3 V and capacitors with organic solvents with 2.5 to 2.7 V. Lithium-ion capacitors with doped electrodes may reach a rated voltage of 3.8 to 4 V, but have a low voltage limit of about 2.2 V. Supercapacitors with ionic electrolytes can exceed an operating voltage of 3.5 V. [83] Operating supercapacitors below the rated voltage improves the long-time behavior of the electrical parameters. Capacitance values and internal resistance during cycling are more stable and lifetime and charge/discharge cycles may be extended. [87] Higher application voltages require connecting cells in series. Since each component has a slight difference in capacitance value and ESR, it is necessary to actively or passively balance them to stabilize the applied voltage. Passive balancing employs resistors in parallel with the supercapacitors. Active balancing may include electronic voltage management above a threshold that varies the current.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OneFarad5.5Velectrolyticcapacitor.jpg/220px-OneFarad5.5Velectrolyticcapacitor.jpg",
+                "caption": "A 5.5 volt supercapacitor is constructed out of two single cells, each rated to at least 2.75 volts, in series connection"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_Baltic_States_Centenary-_Creativity_and_Innovation_Inspired_by_Nature_1.jpg/220px-The_Baltic_States_Centenary-_Creativity_and_Innovation_Inspired_by_Nature_1.jpg",
+                "caption": "A 2.4v Skelcap ultracapacitor"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Internal resistance",
+        "text": "Charging/discharging a supercapacitor is connected to the movement of charge carriers (ions) in the electrolyte across the separator to the electrodes and into their porous structure. Losses occur during this movement that can be measured as the internal DC resistance. With the electrical model of cascaded, series-connected RC (resistor/capacitor) elements in the electrode pores, the internal resistance increases with the increasing penetration depth of the charge carriers into the pores. The internal DC resistance is time dependent and increases during charge/discharge. In applications often only the switch-on and switch-off range is interesting. The internal resistance R i can be calculated from the voltage drop ΔV 2 at the time of discharge, starting with a constant discharge current I discharge . It is obtained from the intersection of the auxiliary line extended from the straight part and the time base at the time of discharge start (see picture right). Resistance can be calculated by: The discharge current I discharge for the measurement of internal resistance can be taken from the classification according to IEC 62391-1. This internal DC resistance R i should not be confused with the internal AC resistance called equivalent series resistance (ESR) normally specified for capacitors. It is measured at 1 kHz. ESR is much smaller than DC resistance. ESR is not relevant for calculating supercapacitor inrush currents or other peak currents. R i determines several supercapacitor properties. It limits the charge and discharge peak currents as well as charge/discharge times. R i and the capacitance C results in the time constant τ {\\displaystyle \\tau } This time constant determines the charge/discharge time. A 100 F capacitor with an internal resistance of 30 mΩ for example, has a time constant of 0.03 • 100 = 3 s. After 3 seconds charging with a current limited only by internal resistance, the capacitor has 63.2% of full charge (or is discharged to 36.8% of full charge). Standard capacitors with constant internal resistance fully charge during about 5 τ. Since internal resistance increases with charge/discharge, actual times cannot be calculated with this formula. Thus, charge/discharge time depends on specific individual construction details.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/EDLC-Internal-resistance-measuring.png/220px-EDLC-Internal-resistance-measuring.png",
+                "caption": "The internal DC resistance can be calculated out of the voltage drop obtained from the intersection of the auxiliary line extended from the straight part and the time base at the time of discharge start"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Device capacitance and resistance dependence on operating voltage and temperature",
+        "text": "Device parameters such as capacitance initial resistance and steady state resistance are not constant, but are variable and dependent on the device's operating voltage. Device capacitance will have a measurable increase as the operating voltage increases. For example: a 100F device can be seen to vary 26% from its maximum capacitance over its entire operational voltage range. Similar dependence on operating voltage is seen in steady state resistance (R ss ) and initial resistance (R i ). [89] Device properties can also be seen to be dependent on device temperature. As the temperature of the device changes either through operation of varying ambient temperature, the internal properties such as capacitance and resistance will vary as well. Device capacitance is seen to increase as the operating temperature increases. [89]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Variable_capacitance_vs_device_voltage.png/220px-Variable_capacitance_vs_device_voltage.png",
+                "caption": "Measured device capacitance across an EDLC's operating voltage"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Energy capacity",
+        "text": "Supercapacitors occupy the gap between high power/low energy electrolytic capacitors and low power/high energy rechargeable batteries . The energy W max (expressed in Joule ) that can be stored in a capacitor is given by the formula This formula describes the amount of energy stored and is often used to describe new research successes. However, only part of the stored energy is available to applications, because the voltage drop and the time constant over the internal resistance mean that some of the stored charge is inaccessible. The effective realized amount of energy W eff is reduced by the used voltage difference between V max and V min and can be represented as: [ citation needed ] This formula also represents the energy asymmetric voltage components such as lithium ion capacitors.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Supercapacitors-vs-batteries-chart.png/220px-Supercapacitors-vs-batteries-chart.png",
+                "caption": "Ragone chart showing specific power vs. specific energy of various capacitors and batteries [ citation needed ]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Lifetime",
+        "text": "Since supercapacitors do not rely on chemical changes in the electrodes (except for those with polymer electrodes), lifetimes depend mostly on the rate of evaporation of the liquid electrolyte. This evaporation is generally a function of temperature, current load, current cycle frequency and voltage. Current load and cycle frequency generate internal heat, so that the evaporation-determining temperature is the sum of ambient and internal heat. This temperature is measurable as core temperature in the center of a capacitor body. The higher the core temperature, the faster the evaporation, and the shorter the lifetime. Evaporation generally results in decreasing capacitance and increasing internal resistance. According to IEC/EN 62391-2, capacitance reductions of over 30%, or internal resistance exceeding four times its data sheet specifications, are considered \"wear-out failures,\" implying that the component has reached end-of-life. The capacitors are operable, but with reduced capabilities. Whether the aberration of the parameters have any influence on the proper functionality depends on the application of the capacitors. Such large changes of electrical parameters specified in IEC/EN 62391-2 are usually unacceptable for high current load applications. Components that support high current loads use much smaller limits, e.g. , 20% loss of capacitance or double the internal resistance. [93] The narrower definition is important for such applications, since heat increases linearly with increasing internal resistance, and the maximum temperature should not be exceeded. Temperatures higher than specified can destroy the capacitor. The real application lifetime of supercapacitors, also called \" service life ,\" \"life expectancy,\" or \"load life,\" can reach 10 to 15 years or more, at room temperature. Such long periods cannot be tested by manufacturers. Hence, they specify the expected capacitor lifetime at the maximum temperature and voltage conditions. The results are specified in datasheets using the notation \"tested time (hours)/max. temperature (°C),\" such as \"5000 h/65 °C\". With this value, and expressions derived from historical data, lifetimes can be estimated for lower temperature conditions. Datasheet lifetime specification is tested by the manufactures using an accelerated aging test called an \"endurance test,\" with maximum temperature and voltage over a specified time. For a \"zero defect\" product policy, no wear out or total failure may occur during this test. The lifetime specification from datasheets can be used to estimate the expected lifetime for a given design. The \"10-degrees-rule\" used for electrolytic capacitors with non-solid electrolyte is used in those estimations, and can be used for supercapacitors. This rule employs the Arrhenius equation : a simple formula for the temperature dependence of reaction rates. For every 10 °C reduction in operating temperature, the estimated life doubles. With: Calculated with this formula, capacitors specified with 5000 h at 65 °C, have an estimated lifetime of 20,000 h at 45 °C. Lifetimes are also dependent on the operating voltage, because the development of gas in the liquid electrolyte depends on the voltage. The lower the voltage, the smaller the gas development, and the longer the lifetime. No general formula relates voltage to lifetime. The voltage dependent curves shown from the picture are an empirical result from one manufacturer. Life expectancy for power applications may be also limited by current load or number of cycles. This limitation has to be specified by the relevant manufacturer and is strongly type dependent.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/EDLC-Life_time_curves.png/220px-EDLC-Life_time_curves.png",
+                "caption": "The lifetime of supercapacitors depends mainly on the capacitor temperature and the voltage applied"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Post charge voltage relaxation",
+        "text": "It has been noticed that after the EDLC experiences a charge or discharge, the voltage will drift over time, relaxing toward its previous voltage level. The observed relaxation can occur over several hours and is likely due to long diffusion time constants of the porous electrodes within the EDLC. [89]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Voltage_Relaxation.png/220px-Voltage_Relaxation.png",
+                "caption": "A graph plotting voltage over time, after the application of a charge"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Polarity",
+        "text": "Since the positive and negative electrodes (or simply positrode and negatrode, respectively) of symmetric supercapacitors consist of the same material, theoretically supercapacitors have no true polarity and catastrophic failure does not normally occur. However reverse-charging a supercapacitor lowers its capacity, so it is recommended practice to maintain the polarity resulting from the formation of the electrodes during production. Asymmetric supercapacitors are inherently polar. Pseudocapacitor and hybrid supercapacitors which have electrochemical charge properties may not be operated with reverse polarity, precluding their use in AC operation. However, this limitation does not apply to EDLC supercapacitors A bar in the insulating sleeve identifies the negative terminal in a polarized component. In some literature, the terms \"anode\" and \"cathode\" are used in place of negative electrode and positive electrode. Using anode and cathode to describe the electrodes in supercapacitors (and also rechargeable batteries including lithium ion batteries) can lead to confusion, because the polarity changes depending on whether a component is considered as a generator or as a consumer of current. In electrochemistry, cathode and anode are related to reduction and oxidation reactions, respectively. However, in supercapacitors based on electric double layer capacitance, there is no oxidation nor reduction reactions on any of the two electrodes. Therefore, the concepts of cathode and anode do not apply.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Polarit%C3%A4t-EDLC-P1070160.JPG/220px-Polarit%C3%A4t-EDLC-P1070160.JPG",
+                "caption": "A negative bar on the insulating sleeve indicates the cathode terminal of the capacitor"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Standards",
+        "text": "Supercapacitors vary sufficiently that they are rarely interchangeable, especially those with higher specific energy. Applications range from low to high peak currents, requiring standardized test protocols. [96] Test specifications and parameter requirements are specified in the generic specification IEC / EN 62391–1, Fixed electric double layer capacitors for use in electronic equipment . The standard defines four application classes, according to discharge current levels: Three further standards describe special applications:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/EDLC-Classes.png/330px-EDLC-Classes.png",
+                "caption": "Classification of supercapacitors into classes regarding to IEC 62391-1, IEC 62576 and BS EN 61881-3 standards"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Low-power equipment power buffering",
+        "text": "Supercapacitors provide backup or emergency shutdown power to low-power equipment such as RAM , SRAM , micro-controllers and PC Cards . They are the sole power source for low energy applications such as automated meter reading (AMR) [105] equipment or for event notification in industrial electronics. Supercapacitors buffer power to and from rechargeable batteries , mitigating the effects of short power interruptions and high current peaks. Batteries kick in only during extended interruptions, e.g. , if the mains power or a fuel cell fails, which lengthens battery life. Uninterruptible power supplies (UPS) may be powered by supercapacitors, which can replace much larger banks of electrolytic capacitors. This combination reduces the cost per cycle, saves on replacement and maintenance costs, enables the battery to be downsized and extends battery life. [106] [107] [108] Supercapacitors provide backup power for actuators in wind turbine pitch systems, so that blade pitch can be adjusted even if the main supply fails. [109]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Windrad-Nahaufnahme.jpg/220px-Windrad-Nahaufnahme.jpg",
+                "caption": "Rotor with wind turbine pitch system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Rail",
+        "text": "Supercapacitors can be used to supplement batteries in starter systems in diesel railroad locomotives with diesel-electric transmission . The capacitors capture the braking energy of a full stop and deliver the peak current for starting the diesel engine and acceleration of the train and ensures the stabilization of line voltage. Depending on the driving mode up to 30% energy saving is possible by recovery of braking energy. Low maintenance and environmentally friendly materials encouraged the choice of supercapacitors. [118]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Rc4_1197_%2B_Rc4_1169_Ockelbo_13.08.08.JPG/220px-Rc4_1197_%2B_Rc4_1169_Ockelbo_13.08.08.JPG",
+                "caption": "Green Cargo operates TRAXX locomotives from Bombardier Transportation"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Plant machinery",
+        "text": "Mobile hybrid Diesel -electric rubber tyred gantry cranes move and stack containers within a terminal. Lifting the boxes requires large amounts of energy. Some of the energy could be recaptured while lowering the load, resulting in improved efficiency. [119] A triple hybrid forklift truck uses fuel cells and batteries as primary energy storage and supercapacitors to buffer power peaks by storing braking energy. They provide the fork lift with peak power over 30 kW. The triple-hybrid system offers over 50% energy savings compared with Diesel or fuel-cell systems. [120] Supercapacitor-powered terminal tractors transport containers to warehouses. They provide an economical, quiet and pollution-free alternative to Diesel terminal tractors. [121]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kuantan_Port_Container_Yard_with_Rubber_Tyre_Gantry.JPG/220px-Kuantan_Port_Container_Yard_with_Rubber_Tyre_Gantry.JPG",
+                "caption": "Container yard with rubber tyre gantry crane"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Light rail",
+        "text": "Supercapacitors make it possible not only to reduce energy, but to replace overhead lines in historical city areas, so preserving the city's architectural heritage. This approach may allow many new light rail city lines to replace overhead wires that are too expensive to fully route. In 2003 Mannheim adopted a prototype light-rail vehicle (LRV) using the MITRAC Energy Saver system from Bombardier Transportation to store mechanical braking energy with a roof-mounted supercapacitor unit. [122] [123] It contains several units each made of 192 capacitors with 2700 F / 2.7 V interconnected in three parallel lines. This circuit results in a 518 V system with an energy content of 1.5 kWh. For acceleration when starting this \"on-board-system\" can provide the LRV with 600 kW and can drive the vehicle up to 1 km without overhead line supply, thus better integrating the LRV into the urban environment. Compared to conventional LRVs or Metro vehicles that return energy into the grid, onboard energy storage saves up to 30% and reduces peak grid demand by up to 50%. [124] In 2009 supercapacitors enabled LRVs to operate in the historical city area of Heidelberg without overhead wires, thus preserving the city's architectural heritage. [ citation needed ] The SC equipment cost an additional €270,000 per vehicle, which was expected to be recovered over the first 15 years of operation. The supercapacitors are charged at stop-over stations when the vehicle is at a scheduled stop. In April 2011 German regional transport operator Rhein-Neckar, responsible for Heidelberg, ordered a further 11 units. [125] In 2009, Alstom and RATP equipped a Citadis tram with an experimental energy recovery system called \"STEEM\". [126] The system is fitted with 48 roof-mounted supercapacitors to store braking energy, which provides tramways with a high level of energy autonomy by enabling them to run without overhead power lines on parts of its route, recharging while traveling on powered stop-over stations. During the tests, which took place between the Porte d'Italie and Porte de Choisy stops on line T3 of the tramway network in Paris , the tramset used an average of approximately 16% less energy. [127] In 2012 tram operator Geneva Public Transport began tests of an LRV equipped with a prototype roof-mounted supercapacitor unit to recover braking energy. [128] Siemens is delivering supercapacitor-enhanced light-rail transport systems that include mobile storage. [129] Hong Kong's South Island metro line is to be equipped with two 2 MW energy storage units that are expected to reduce energy consumption by 10%. [130] In August 2012 the CSR Zhuzhou Electric Locomotive corporation of China presented a prototype two-car light metro train equipped with a roof-mounted supercapacitor unit. The train can travel up 2 km without wires, recharging in 30 seconds at stations via a ground mounted pickup. The supplier claimed the trains could be used in 100 small and medium-sized Chinese cities. [131] Seven trams (street cars) powered by supercapacitors were scheduled to go into operation in 2014 in Guangzhou , China. The supercapacitors are recharged in 30 seconds by a device positioned between the rails. That powers the tram for up to 4 kilometres (2.5 mi). [132] As of 2017, Zhuzhou's supercapacitor vehicles are also used on the new Nanjing streetcar system, and are undergoing trials in Wuhan . [133] In 2012, in Lyon (France), the SYTRAL (Lyon public transportation administration) started experiments of a \"way side regeneration\" system built by Adetel Group which has developed its own energy saver named \"NeoGreen\" for LRV, LRT and metros. [134] In 2014 China began using trams powered with supercapacitors that are recharged in 30 seconds by a device positioned between the rails, storing power to run the tram for up to 4 km — more than enough to reach the next stop, where the cycle can be repeated. In 2015, Alstom announced SRS, an energy storage system that charges supercapacitors on board a tram by means of ground-level conductor rails located at tram stops. This allows trams to operate without overhead lines for short distances. [135] The system has been touted as an alternative to the company's ground-level power supply (APS) system, or can be used in conjunction with it, as in the case of the VLT network in Rio de Janeiro , Brazil, which opened in 2016. [136] CAF also offers supercapacitors on their Urbos 3 trams in the form of their ACR system. [117]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Streetcar_Stra%C3%9Fenbahn_Tram_Mannheim_RNV_Rhein-Neckar-Verbund_25.JPG/220px-Streetcar_Stra%C3%9Fenbahn_Tram_Mannheim_RNV_Rhein-Neckar-Verbund_25.JPG",
+                "caption": "Light rail vehicle in Mannheim"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Paris-tramway.jpg/220px-Paris-tramway.jpg",
+                "caption": "Supercapacitors are used to power the Paris T3 tram line on sections without overhead wires and to recover energy during braking"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/VLT_Rio_09_2016_3392.jpg/220px-VLT_Rio_09_2016_3392.jpg",
+                "caption": "A supercapacitor-equipped tram on the Rio de Janeiro Light Rail"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Buses",
+        "text": "Maxwell Technologies , an American supercapacitor maker, claimed that more than 20,000 hybrid buses use the devices to increase acceleration, particularly in China. [ citation needed ] The first hybrid electric bus with supercapacitors in Europe came in 2001 in Nuremberg , Germany. It was MAN's so-called \"Ultracapbus\", and was tested in real operation in 2001/2002. The test vehicle was equipped with a diesel-electric drive in combination with supercapacitors. The system was supplied with 8 Ultracap modules of 80 V, each containing 36 components. The system worked with 640 V and could be charged/discharged at 400 A. Its energy content was 0.4 kWh with a weight of 400 kg. The supercapacitors recaptured braking energy and delivered starting energy. Fuel consumption was reduced by 10 to 15% compared to conventional diesel vehicles. Other advantages included reduction of CO 2 emissions, quiet and emissions-free engine starts, lower vibration and reduced maintenance costs. [137] [138] As of 2002 [update] in Luzern , Switzerland an electric bus fleet called TOHYCO-Rider was tested. The supercapacitors could be recharged via an inductive contactless high-speed power charger after every transportation cycle, within 3 to 4 minutes. [139] In early 2005 Shanghai tested a new form of electric bus called capabus that runs without powerlines (catenary free operation) using large onboard supercapacitors that partially recharge whenever the bus is at a stop (under so-called electric umbrellas), and fully charge in the terminus . In 2006, two commercial bus routes began to use the capabuses; one of them is route 11 in Shanghai. It was estimated that the supercapacitor bus was cheaper than a lithium-ion battery bus, and one of its buses had one-tenth the energy cost of a diesel bus with lifetime fuel savings of $200,000. [140] A hybrid electric bus called tribrid was unveiled in 2008 by the University of Glamorgan , Wales , for use as student transport. It is powered by hydrogen fuel or solar cells , batteries and ultracapacitors. [141] [142]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Stadtbus_N%C3%BCrnberg_Bus_713_Btf._Schweinau.jpg/220px-Stadtbus_N%C3%BCrnberg_Bus_713_Btf._Schweinau.jpg",
+                "caption": "MAN Ultracapbus in Nuremberg, Germany"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Expo_2010_Electric_Bus.jpg/220px-Expo_2010_Electric_Bus.jpg",
+                "caption": "Electric bus at EXPO 2010 in Shanghai (Capabus) recharging at the bus stop"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Motor racing",
+        "text": "The FIA , a governing body for motor racing events, proposed in the Power-Train Regulation Framework for Formula 1 version 1.3 of 23 May 2007 that a new set of power train regulations be issued that includes a hybrid drive of up to 200 kW input and output power using \"superbatteries\" made with batteries and supercapacitors connected in parallel ( KERS ). [143] [144] About 20% tank-to-wheel efficiency could be reached using the KERS system. The Toyota TS030 Hybrid LMP1 car, a racing car developed under Le Mans Prototype rules, uses a hybrid drivetrain with supercapacitors. [145] [146] In the 2012 24 Hours of Le Mans race a TS030 qualified with a fastest lap only 1.055 seconds slower (3:24.842 versus 3:23.787) [147] than the fastest car, an Audi R18 e-tron quattro with flywheel energy storage. The supercapacitor and flywheel components, whose rapid charge-discharge capabilities help in both braking and acceleration, made the Audi and Toyota hybrids the fastest cars in the race. In the 2012 Le Mans race the two competing TS030s, one of which was in the lead for part of the race, both retired for reasons unrelated to the supercapacitors. The TS030 won three of the 8 races in the 2012 FIA World Endurance Championship season . In 2014 the Toyota TS040 Hybrid used a supercapacitor to add 480 horsepower from two electric motors. [132]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sebastian_Vettel_won_2010_Malaysian_GP.jpg/220px-Sebastian_Vettel_won_2010_Malaysian_GP.jpg",
+                "caption": "Former world champion Sebastian Vettel in Malaysia 2010"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Toyota_TS030.JPG/220px-Toyota_TS030.JPG",
+                "caption": "Toyota TS030 Hybrid at 2012 24 Hours of Le Mans motor race"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Hybrid electric vehicles",
+        "text": "Supercapacitor/battery combinations in electric vehicles (EV) and hybrid electric vehicles (HEV) are well investigated. [96] [148] [149] A 20 to 60% fuel reduction has been claimed by recovering brake energy in EVs or HEVs. The ability of supercapacitors to charge much faster than batteries, their stable electrical properties, broader temperature range and longer lifetime are suitable, but weight, volume and especially cost mitigate those advantages. Supercapacitors' lower specific energy makes them unsuitable for use as a stand-alone energy source for long distance driving. [150] The fuel economy improvement between a capacitor and a battery solution is about 20% and is available only for shorter trips. For long distance driving the advantage decreases to 6%. Vehicles combining capacitors and batteries run only in experimental vehicles. [151] As of 2013 [update] all automotive manufacturers of EV or HEVs have developed prototypes that uses supercapacitors instead of batteries to store braking energy in order to improve driveline efficiency. The Mazda 6 is the only production car that uses supercapacitors to recover braking energy. Branded as i-eloop, the regenerative braking is claimed to reduce fuel consumption by about 10%. [152] Russian Yo-cars Ё-mobile series was a concept and crossover hybrid vehicle working with a gasoline driven rotary vane type and an electric generator for driving the traction motors. A supercapacitor with relatively low capacitance recovers brake energy to power the electric motor when accelerating from a stop. [153] Toyota's Yaris Hybrid-R concept car uses a supercapacitor to provide quick bursts of power. [132] PSA Peugeot Citroën fit supercapacitors to some of its cars as part of its stop-start fuel-saving system, as this permits faster start-ups when the traffic lights turn green. [132]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2018_Toyota_RAV4_Design_HEV_4X2_CVT_2.5.jpg/220px-2018_Toyota_RAV4_Design_HEV_4X2_CVT_2.5.jpg",
+                "caption": "RAV4 HEV"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Gondolas",
+        "text": "In Zell am See , Austria , an aerial lift connects the city with Schmittenhöhe mountain. The gondolas sometimes run 24 hours per day, using electricity for lights, door opening and communication. The only available time for recharging batteries at the stations is during the brief intervals of guest loading and unloading, which is too short to recharge batteries. Supercapacitors offer a fast charge, higher number of cycles and longer life time than batteries. Emirates Air Line (cable car) , also known as the Thames cable car, is a 1-kilometre (0.62 mi) gondola line in London , UK , that crosses the Thames from the Greenwich Peninsula to the Royal Docks . The cabins are equipped with a modern infotainment system, which is powered by supercapacitors. [154] [155]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cablecar.zellamsee.500pix.jpg/220px-Cablecar.zellamsee.500pix.jpg",
+                "caption": "Aerial lift in Zell am See , Austria"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Supercapacitor",
+        "title": "Supercapacitor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    },
+    {
+        "section": "Operation",
+        "text": "The reaction uses the half-reactions : [37] Other useful properties of vanadium flow batteries are their fast response to changing loads and their overload capacities. They can achieve a response time of under half a millisecond for a 100% load change, and allow overloads of as much as 400% for 10 seconds. Response time is limited mostly by the electrical equipment. Unless specifically designed for colder or warmer climates, most sulfuric acid-based vanadium batteries work between about 10 and 40 °C. Below that temperature range, the ion-infused sulfuric acid crystallizes. [40] Round trip efficiency in practical applications is around 70–80%. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cyclic_voltammetry_of_V%28IV%29_solution.png/220px-Cyclic_voltammetry_of_V%28IV%29_solution.png",
+                "caption": "Cyclic voltammogram of vanadium (IV) solution in sulfuric acid solution"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Vanadium_redox_battery",
+        "title": "Vanadium redox battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage in microgrids"
+    }
+]

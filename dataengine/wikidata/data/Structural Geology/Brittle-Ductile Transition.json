@@ -1,0 +1,221 @@
+[
+    {
+        "section": "Brittle–Ductile Transition Zone",
+        "text": "The brittle–ductile transition zone is characterized by a change in rock failure mode, at an approximate average depth of 10–15 km (~ 6.2–9.3 miles) in continental crust , below which rock becomes less likely to fracture and more likely to deform ductilely. The zone exists because as depth increases confining pressure increases, and brittle strength increases with confining pressure whilst ductile strength decreases with increasing temperature. The transition zone occurs at the point where brittle strength equals ductile strength. [1] In glacial ice this zone is at approximately 30 m (100 ft) depth. Not all materials, however, abide by this transition. It is possible and not rare for material above the transition zone to deform ductilely, and for material below to deform in a brittle manner. The depth of the material does exert an influence on the mode of deformation, but other substances, such as loose soils in the upper crust, malleable rocks, biological debris, and more are just a few examples of that which does not deform in accordance to the transition zone. [1] [2] The type of dominating deformation process also has a great impact on the types of rocks and structures found at certain depths within the Earth's crust. As evident from Fig. 1.1, different geological formations and rocks are found in accordance to the dominant deformation process. Gouge and Breccia form in the uppermost, brittle regime while Cataclasite and Pseudotachylite form in the lower parts of the brittle regime, edging upon the transition zone. Mylonite forms in the more ductile regime at greater depths while Blastomylonite forms well past the transition zone and well into the ductile regime, even deeper into the crust.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Brittle_Ductile.png/350px-Brittle_Ductile.png",
+                "caption": "Fig. 1.1 – A generalized diagram of the deformation mechanisms and structural formations that dominate at certain depths within the Earth's crust."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ductility_(Earth_science)",
+        "title": "Ductility (Earth science)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Brittle-Ductile Transition"
+    },
+    {
+        "section": "Quantification",
+        "text": "Ductility is a material property that can be expressed in a variety of ways. Mathematically, it is commonly expressed as a total quantity of elongation or a total quantity of the change in cross sectional area of a specific rock until macroscopic brittle behavior, such as fracturing, is observed. For accurate measurement, this must be done under several controlled conditions, including but not limited to Pressure , Temperature , Moisture Content , Sample Size, etc., for all can impact the measured ductility. It is important to understand that even the same type of rock or mineral may exhibit different behavior and degrees of ductility due to internal heterogeneities small scale differences between each individual sample. The two quantities are expressed in the form of a ratio or a percent. [3] % Elongation of a Rock = % Δ l = l f − l i l i × 100 {\\displaystyle \\%\\Delta l={\\frac {l_{f}-l_{i}}{l_{i}}}\\times 100} [3] Where: l i {\\displaystyle l_{i}} = Initial Length of Rock l f {\\displaystyle l_{f}} = Final Length of Rock % Change in Area of a Rock = % Δ A = A f − A i A i × 100 {\\displaystyle \\%\\Delta A={\\frac {A_{f}-A_{i}}{A_{i}}}\\times 100} [3] Where: A i {\\displaystyle A_{i}} = Initial Area A f {\\displaystyle A_{f}} = Final Area For each of these methods of quantifying, one must take measurements of both the initial and final dimensions of the rock sample. For Elongation, the measurement is a uni-dimensional initial and final length, the former measured before any Stress is applied and the latter measuring the length of the sample after fracture occurs. For Area, it is strongly preferable to use a rock that has been cut into a cylindrical shape before stress application so that the cross-sectional area of the sample can be taken. Cross-Sectional Area of a Cylinder = Area of a Circle = A = π r 2 {\\displaystyle A=\\pi r^{2}} Using this, the initial and final areas of the sample can be used to quantify the % change in the area of the rock.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Stress_Strain_Ductile_Material.pdf/page1-220px-Stress_Strain_Ductile_Material.pdf.jpg",
+                "caption": "Fig. 1.2 – Stress vs Strain Curve displaying both ductile and brittle deformation behavior."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ductility_(Earth_science)",
+        "title": "Ductility (Earth science)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Brittle-Ductile Transition"
+    },
+    {
+        "section": "Materials science",
+        "text": "Ductility is especially important in metalworking , as materials that crack, break or shatter under stress cannot be manipulated using metal-forming processes such as hammering , rolling , drawing or extruding . Malleable materials can be formed cold using stamping or pressing , whereas brittle materials may be cast or thermoformed . High degrees of ductility occur due to metallic bonds , which are found predominantly in metals; this leads to the common perception that metals are ductile in general.  In metallic bonds valence shell electrons are delocalized and shared between many atoms.  The delocalized electrons allow metal atoms to slide past one another without being subjected to strong repulsive forces that would cause other materials to shatter. The ductility of steel varies depending on the alloying constituents. Increasing the levels of carbon decreases ductility. Many plastics and amorphous solids , such as Play-Doh , are also malleable. The most ductile metal is platinum and the most malleable metal is gold . [13] [14] When highly stretched, such metals distort via formation, reorientation and migration of dislocations and crystal twins without noticeable hardening. [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Au_atomic_wire.jpg/220px-Au_atomic_wire.jpg",
+                "caption": "Gold is extremely ductile. It can be drawn into a monatomic wire, and then stretched more before it breaks. [12]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ductility",
+        "title": "Ductility",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Brittle-Ductile Transition"
+    },
+    {
+        "section": "Ductile–brittle transition temperature",
+        "text": "Metals can undergo two different types of fractures: brittle fracture or ductile fracture. Failure propagation occurs faster in brittle materials due to the ability for ductile materials to undergo plastic deformation. Thus, ductile materials are able to sustain more stress due to their ability to absorb more energy prior to failure than brittle materials are. The plastic deformation results in the material following a modification of the Griffith equation, where the critical fracture stress increases due to the plastic work required to extend the crack adding to the work necessary to form the crack - work corresponding to the increase in surface energy that results from the formation of an addition crack surface. [28] The plastic deformation of ductile metals is important as it can be a sign of the potential failure of the metal. Yet, the point at which the material exhibits a ductile behavior versus a brittle behavior is not only dependent on the material itself but also on the temperature at which the stress is being applied to the material. The temperature where the material changes from brittle to ductile or vice versa is crucial for the design of load-bearing metallic products. The minimum temperature at which the metal transitions from a brittle behavior to a ductile behavior, or from a ductile behavior to a brittle behavior, is known as the ductile-brittle transition temperature (DBTT). Below the DBTT, the material will not be able to plastically deform, and the crack propagation rate increases rapidly leading to the material undergoing brittle failure rapidly. Furthermore, DBTT is important since, once a material is cooled below the DBTT, it has a much greater tendency to shatter on impact instead of bending or deforming ( low temperature embrittlement ). Thus, the DBTT indicates the temperature at which, as temperature decreases, a material's ability to deform in a ductile manner decreases and so the rate of crack propagation drastically increases. In other words, solids are very brittle at very low temperatures, and their toughness becomes much higher at elevated temperatures. For more general applications, it is preferred to have a lower DBTT to ensure the material has a wider ductility range. This ensures that sudden cracks are inhibited so that failures in the metal body are prevented. It has been determined that the more slip systems a material has, the wider the range of temperatures ductile behavior is exhibited at. This is due to the slip systems allowing for more motion of dislocations when a stress is applied to the material. Thus, in materials with a lower amount of slip systems, dislocations are often pinned by obstacles leading to strain hardening, which increases the materials strength which makes the material more brittle. For this reason, FCC (face centered cubic) structures are ductile over a wide range of temperatures, BCC (body centered cubic) structures are ductile only at high temperatures, and HCP (hexagonal closest packed) structures are often brittle over wide ranges of temperatures. This leads to each of these structures having different performances as they approach failure (fatigue, overload, and stress cracking) under various temperatures, and shows the importance of the DBTT in selecting the correct material for a specific application. For example, zamak 3 exhibits good ductility at room temperature but shatters when impacted at sub-zero temperatures. DBTT is a very important consideration in selecting materials that are subjected to mechanical stresses. A similar phenomenon, the glass transition temperature , occurs with glasses and polymers, although the mechanism is different in these amorphous materials . The DBTT is also dependent on the size of the grains within the metal, as typically smaller grain size leads to an increase in tensile strength, resulting in an increase in ductility and decrease in the DBTT. This increase in tensile strength is due to the smaller grain sizes resulting in grain boundary hardening occurring within the material, where the dislocations require a larger stress to cross the grain boundaries and continue to propagate throughout the material. It has been shown that by continuing to refine ferrite grains to reduce their size, from 40 microns down to 1.3 microns, that it is possible to eliminate the DBTT entirely so that a brittle fracture never occurs in ferritic steel (as the DBTT required would be below absolute zero). [29] In some materials, the transition is sharper than others and typically requires a temperature-sensitive deformation mechanism. For example, in materials with a body-centered cubic (bcc) lattice the DBTT is readily apparent, as the motion of screw dislocations is very temperature sensitive because the rearrangement of the dislocation core prior to slip requires thermal activation. This can be problematic for steels with a high ferrite content. This famously resulted in serious hull cracking in Liberty ships in colder waters during World War II , causing many sinkings. DBTT can also be influenced by external factors such as neutron radiation , which leads to an increase in internal lattice defects and a corresponding decrease in ductility and increase in DBTT. The most accurate method of measuring the DBTT of a material is by fracture testing . Typically four-point bend testing at a range of temperatures is performed on pre-cracked bars of polished material. Two fracture tests are typically utilized to determine the DBTT of specific metals: the Charpy V-Notch test and the Izod test. The Charpy V-notch test determines the impact energy absorption ability or toughness of the specimen by measuring the potential energy difference resulting from the collision between a mass on a free-falling pendulum and the machined V-shaped notch in the sample, resulting in the pendulum breaking through the sample. The DBTT is determined by repeating this test over a variety of temperatures and noting when the resulting fracture changes to a brittle behavior which occurs when the absorbed energy is dramatically decreased. The Izod test is essentially the same as the Charpy test, with the only differentiating factor being the placement of the sample; In the former the sample is placed vertically, while in the latter the sample is placed horizontally with respect to the bottom of the base. [30] For experiments conducted at higher temperatures, dislocation activity [ clarification needed ] increases. At a certain temperature, dislocations shield [ clarification needed ] the crack tip to such an extent that the applied deformation rate is not sufficient for the stress intensity at the crack-tip to reach the critical value for fracture (K iC ). The temperature at which this occurs is the ductile–brittle transition temperature. If experiments are performed at a higher strain rate, more dislocation shielding is required to prevent brittle fracture , and the transition temperature is raised. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ductility.svg/220px-Ductility.svg.png",
+                "caption": "Schematic appearance of round metal bars after tensile testing. (a) Brittle fracture (b) Ductile fracture (c) Completely ductile fracture"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ductility",
+        "title": "Ductility",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Brittle-Ductile Transition"
+    },
+    {
+        "section": "Toughening",
+        "text": "When a material has reached the limit of its strength, it usually has the option of either deformation or fracture. A naturally malleable metal can be made stronger by impeding the mechanisms of plastic deformation (reducing grain size , precipitation hardening , work hardening , etc.), but if this is taken to an extreme, fracture becomes the more likely outcome, and the material can become brittle. Improving material toughness is, therefore, a balancing act. Naturally brittle materials, such as glass , are not difficult to toughen effectively. Most such techniques involve one of two mechanisms : to deflect or absorb the tip of a propagating crack or to create carefully controlled residual stresses so that cracks from certain predictable sources will be forced closed. The first principle is used in laminated glass where two sheets of glass are separated by an interlayer of polyvinyl butyral . The polyvinyl butyral, as a viscoelastic polymer, absorbs the growing crack. The second method is used in toughened glass and pre-stressed concrete . A demonstration of glass toughening is provided by Prince Rupert's Drop . Brittle polymers can be toughened by using metal particles to initiate crazes when a sample is stressed, a good example being high-impact polystyrene or HIPS. The least brittle structural ceramics are silicon carbide (mainly by virtue of its high strength) and transformation-toughened zirconia . A different philosophy is used in composite materials , where brittle glass fibers , for example, are embedded in a ductile matrix such as polyester resin . When strained, cracks are formed at the glass–matrix interface, but so many are formed that much energy is absorbed and the material is thereby toughened. The same principle is used in creating metal matrix composites .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Brittle_v_ductile_stress-strain_behaviour.png/200px-Brittle_v_ductile_stress-strain_behaviour.png",
+                "caption": "Graph comparing stress–strain curves for brittle and ductile materials"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Brittleness",
+        "title": "Brittleness",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Brittle-Ductile Transition"
+    },
+    {
+        "section": "Crack growth",
+        "text": "Supersonic fracture is crack motion faster than the speed of sound in a brittle material. This phenomenon was first discovered [ citation needed ] by scientists from the Max Planck Institute for Metals Research in Stuttgart ( Markus J. Buehler and Huajian Gao ) and IBM Almaden Research Center in San Jose , California ( Farid F. Abraham ).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Brittleness_diagrams.jpg/512px-Brittleness_diagrams.jpg",
+                "caption": "Brittleness diagrams titled \"Deformation\" ( Russian : деформация )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Brittleness",
+        "title": "Brittleness",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Brittle-Ductile Transition"
+    },
+    {
+        "section": "475 °C embrittlement",
+        "text": "Duplex stainless steel is widely used in industry because it possesses excellent oxidation resistance, but it can have limited toughness due to its large ferritic grain size and embrittlement tendencies at temperatures ranging from 280–500 °C, especially at 475 °C, where spinodal decomposition of the supersaturated solid ferrite solution into Fe-rich nanophase ( a ´ {\\displaystyle {\\acute {a}}} ) and Cr-rich nanophase ( a ´ ´ {\\displaystyle {\\acute {a}}{\\acute {}}} ), accompanied by G-phase precipitation, occurs, [3] [4] [5] which makes the ferrite phase a preferential initiation site for micro-cracks. [6]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Aged_DSS_EBSD.png/220px-Aged_DSS_EBSD.png",
+                "caption": "Electron backscatter diffraction map of 128hrs age hardened DSS with the ferrite phase formaing the matrix and austenite grains sporadically spread"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Embrittlement",
+        "title": "Embrittlement",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Brittle-Ductile Transition"
+    },
+    {
+        "section": "General introduction",
+        "text": "A shear zone is a zone of strong deformation (with a high strain rate ) surrounded by rocks with a lower state of finite strain . It is characterised by a length to width ratio of more than 5:1. [1] Shear zones form a continuum of geological structures, ranging from brittle shear zones (or faults ) via brittle–ductile shear zones (or semibrittle shear zones ), ductile–brittle to ductile shear zones . In brittle shear zones, the deformation is concentrated in a narrow fracture surface separating the wall rocks, whereas in a ductile shear zone the deformation is spread out through a wider zone, the deformation state varying continuously from wall to wall. Between these end-members, there are intermediate types of brittle–ductile (semibrittle) and ductile–brittle shear zones that can combine these geometric features in different proportions. This continuum found in the structural geometries of shear zones reflects the different deformation mechanisms reigning in the crust, i.e. the changeover from brittle (fracturing) at or near the surface to ductile (flow) deformation with increasing depth. By passing through the brittle–semibrittle transition the ductile response to deformation is starting to set in. This transition is not tied to a specific depth, but rather occurs over a certain depth range - the so-called alternating zone , where brittle fracturing and plastic flow coexist. The main reason for this is found in the usually heteromineral composition of rocks, with different minerals showing different responses to applied stresses (for instance, under stress quartz reacts plastically long before feldspars do). Thus differences in lithology , grain size , and preexisting fabrics determine a different rheological response. Yet other, purely physical factors, influence the changeover depth as well, including: In Scholz's model for a quartzo-feldspathic crust (with a geotherm taken from Southern California), the brittle–semibrittle transition starts at about 11 km depth with an ambient temperature of 300 °C. The underlying alternating zone then extends to roughly 16 km depth with a temperature of about 360 °C. [2] Below approximately 16 km depth, only ductile shear zones are found. The seismogenic zone , in which earthquakes nucleate, is tied to the brittle domain, the schizosphere . Below an intervening alternating zone, there is the plastosphere . In the seismogenic layer , which occurs below an upper stability transition related to an upper seismicity cutoff (situated usually at about 4–5 km depth), true cataclasites start to appear. The seismogenic layer then yields to the alternating zone at 11 km depth. Yet big earthquakes can rupture both up to the surface and well into the alternating zone, sometimes even into the plastosphere.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Shear_zones.jpg/300px-Shear_zones.jpg",
+                "caption": "Diagram showing the major different types of shear zones. Displacement, shear strain, and depth distribution are also indicated."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Brittle_Ductile.png/220px-Brittle_Ductile.png",
+                "caption": "Strength profile and change in rock type with depth in idealised fault/shear zone"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Margin_of_dextral_shear_zone.JPG/220px-Margin_of_dextral_shear_zone.JPG",
+                "caption": "Margin of a dextral sense ductile shear zone (about 20 m thick), showing transition from schists outside the zone to mylonites inside, Cap de Creus,"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Shear_zone",
+        "title": "Shear zone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Brittle-Ductile Transition"
+    },
+    {
+        "section": "Sense of shear",
+        "text": "The sense of shear in a shear zone ( dextral , sinistral , reverse or normal) can be deduced by macroscopic structures and by a plethora of microtectonic indicators.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dextral_shear_folds.JPG/220px-Dextral_shear_folds.JPG",
+                "caption": "Asymmetric folds within a dextral sense shear zone, Cap de Creus"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Asymmetric_boudins_in_dextral_shear_zone.JPG/220px-Asymmetric_boudins_in_dextral_shear_zone.JPG",
+                "caption": "Asymmetric boudins of pegmatite within a dextral sense shear zone, Cap de Creus"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Dextral_shear_bands.JPG/220px-Dextral_shear_bands.JPG",
+                "caption": "Shear bands developed in a dextral sense shear zone, Cap de Creus"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Shear_zone",
+        "title": "Shear zone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Brittle-Ductile Transition"
+    },
+    {
+        "section": "Occurrence",
+        "text": "Tungsten has  thus far not been found in nature in its pure form. [54] Instead, tungsten is found mainly in the minerals wolframite and scheelite . [54] Wolframite is iron – manganese tungstate (Fe,Mn)WO 4 , a solid solution of the two minerals ferberite (FeWO 4 ) and hübnerite (MnWO 4 ), while scheelite is calcium tungstate (CaWO 4 ). Other tungsten minerals range in their level of abundance from moderate to very rare, and have almost no economic value.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wolframite_from_Portugal.jpg/220px-Wolframite_from_Portugal.jpg",
+                "caption": "Wolframite mineral, with a scale in cm"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tungsten",
+        "title": "Tungsten",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Brittle-Ductile Transition"
+    },
+    {
+        "section": "Chemical compounds",
+        "text": "Tungsten forms chemical compounds in oxidation states from -II to VI. Higher oxidation states, always as oxides, are relevant to its terrestrial occurrence and its biological roles, mid-level oxidation states are often associated with metal clusters , and very low oxidation states are typically associated with CO complexes . The chemistries of tungsten and molybdenum show strong similarities to each other, as well as contrasts with their lighter congener, chromium . The relative rarity of tungsten(III), for example, contrasts with the pervasiveness of the chromium(III) compounds. The highest oxidation state is seen in tungsten(VI) oxide (WO 3 ). [55] Tungsten(VI) oxide is soluble in aqueous base , forming tungstate (WO 4 2− ). This oxyanion condenses at lower pH values, forming polyoxotungstates . [56] The broad range of oxidation states of tungsten is reflected in its various chlorides: [55] Organotungsten compounds are numerous and also span a range of oxidation states. Notable examples include the trigonal prismatic W(CH 3 ) 6 and octahedral W(CO) 6 .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/JAFYAQ.png/170px-JAFYAQ.png",
+                "caption": "Structure of W 6 Cl 18 (\"tungsten trichloride\")"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tungsten",
+        "title": "Tungsten",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Brittle-Ductile Transition"
+    },
+    {
+        "section": "Applications",
+        "text": "Approximately half of the tungsten is consumed for the production of hard materials – namely tungsten carbide – with the remaining major use being in alloys and steels. Less than 10% is used in other chemical compounds . [68] Because of the high ductile-brittle transition temperature of tungsten, its products are conventionally manufactured through powder metallurgy , spark plasma sintering , chemical vapor deposition , hot isostatic pressing , and thermoplastic routes. A more flexible manufacturing alternative is selective laser melting , which is a form of 3D printing and allows creating complex three-dimensional shapes. [69]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tungsten_filament_in_halogen_lamp.JPG/220px-Tungsten_filament_in_halogen_lamp.JPG",
+                "caption": "Close-up of a tungsten filament inside a halogen lamp"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Tungsten_ring-cropbright.jpg/220px-Tungsten_ring-cropbright.jpg",
+                "caption": "Tungsten carbide jewelry"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tungsten",
+        "title": "Tungsten",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Brittle-Ductile Transition"
+    },
+    {
+        "section": "Electronics",
+        "text": "Because it retains its strength at high temperatures and has a high melting point , elemental tungsten is used in many high-temperature applications, [101] such as incandescent light bulb , cathode-ray tube , and vacuum tube filaments, heating elements , and rocket engine nozzles. [18] Its high melting point also makes tungsten suitable for aerospace and high-temperature uses such as electrical, heating, and welding applications, notably in the gas tungsten arc welding process (also called tungsten inert gas (TIG) welding). [102] Because of its conductive properties and relative chemical inertness, tungsten is also used in electrodes , and in the emitter tips in electron-beam instruments that use field emission guns , such as electron microscopes . In electronics, tungsten is used as an interconnect material in integrated circuits , between the silicon dioxide dielectric material and the transistors. It is used in metallic films, which replace the wiring used in conventional electronics with a coat of tungsten (or molybdenum ) on silicon . [66] The electronic structure of tungsten makes it one of the main sources for X-ray targets, [103] [104] and also for shielding from high-energy radiations (such as in the radiopharmaceutical industry for shielding radioactive samples of FDG ). It is also used in gamma imaging as a material from which coded apertures are made, due to its excellent shielding properties. Tungsten powder is used as a filler material in plastic composites, which are used as a nontoxic substitute for lead in bullets , shot , and radiation shields. Since this element's thermal expansion is similar to borosilicate glass , it is used for making glass-to-metal seals. [21] In addition to its high melting point, when tungsten is doped with potassium, it leads to an increased shape stability (compared with non-doped tungsten). This ensures that the filament does not sag, and no undesired changes occur. [105]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TIG_torch_breakdown.JPG/220px-TIG_torch_breakdown.JPG",
+                "caption": "Tungsten electrode used in a gas tungsten arc welding torch"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Tungsten_filament_in_an_incandescent_light.JPG/220px-Tungsten_filament_in_an_incandescent_light.JPG",
+                "caption": "Tungsten filament is used in incandescent lightbulbs, where it is heated until it glows"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tungsten",
+        "title": "Tungsten",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Brittle-Ductile Transition"
+    }
+]

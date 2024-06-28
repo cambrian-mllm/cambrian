@@ -1,0 +1,403 @@
+[
+    {
+        "section": "Basic principle",
+        "text": "At times of low electrical demand, excess generation capacity is used to pump water into the upper reservoir. When there is higher demand, water is released back into the lower reservoir through a turbine , generating electricity. Reversible turbine/generator assemblies act as combined pump and turbine generator units (usually Francis turbine designs). [15] Variable speed operation further optimizes the round trip efficiency in pumped hydro storage plants. [16] [17] In micro-PSH applications, a group of pumps and Pump As Turbine (PAT) could be implemented respectively for pumping and generating phases. [18] The same pump could be used in both modes by changing rotational direction and speed: [18] the operation point in pumping usually differs from the operation point in PAT mode.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pumpspeicherkraftwerk_engl.png/220px-Pumpspeicherkraftwerk_engl.png",
+                "caption": "Power distribution, over a day, of a pumped-storage hydroelectricity facility. Green represents power consumed in pumping. Red is power generated."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity",
+        "title": "Pumped-storage hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Economic efficiency",
+        "text": "Taking into account conversion losses and evaporation losses from the exposed water surface, energy recovery of 70–80% or more can be achieved. [19] This technique is currently the most cost-effective means of storing large amounts of electrical energy, but capital costs and the necessity of appropriate geography are critical decision factors in selecting pumped-storage plant sites. The relatively low energy density of pumped storage systems requires either large flows and/or large differences in height between reservoirs. The only way to store a significant amount of energy is by having a large body of water located relatively near, but as high as possible above, a second body of water. In some places this occurs naturally, in others one or both bodies of water were man-made. Projects in which both reservoirs are artificial and in which no natural inflows are involved with either reservoir are referred to as \"closed loop\" systems. [20] These systems may be economical because they flatten out load variations on the power grid, permitting thermal power stations such as coal-fired plants and nuclear power plants that provide base-load electricity to continue operating at peak efficiency, while reducing the need for \"peaking\" power plants that use the same fuels as many base-load thermal plants, gas and oil, but have been designed for flexibility rather than maximal efficiency. Hence pumped storage systems are crucial when coordinating large groups of heterogeneous generators . Capital costs for pumped-storage plants are relatively high, although this is somewhat mitigated by their proven long service life of decades - and in some cases over a century, [21] [22] which is three to five times longer than utility-scale batteries. When electricity prices become negative , pumped hydro operators may earn twice - when \"buying\" the electricity to pump the water to the upper reservoir at negative spot prices and again when selling the electricity at a later time when prices are high. Along with energy management, pumped storage systems help stabilize electrical network frequency and provide reserve generation. Thermal plants are much less able to respond to sudden changes in electrical demand that potentially cause frequency and voltage instability. Pumped storage plants, like other hydroelectric plants, can respond to load changes within seconds. The most important use for pumped storage has traditionally been to balance baseload powerplants, but they may also be used to abate the fluctuating output of intermittent energy sources . Pumped storage provides a load at times of high electricity output and low electricity demand, enabling additional system peak capacity. In certain jurisdictions, electricity prices may be close to zero or occasionally negative on occasions that there is more electrical generation available than there is load available to absorb it. Although at present this is rarely due to wind or solar power alone, increased use of such generation will increase the likelihood of those occurrences. [ citation needed ] It is particularly likely that pumped storage will become especially important as a balance for very large-scale photovoltaic and wind generation. [23] Increased long-distance transmission capacity combined with significant amounts of energy storage will be a crucial part of regulating any large-scale deployment of intermittent renewable power sources. [24] The high non-firm renewable electricity penetration in some regions  supplies 40% of annual output, but 60% may be reached before additional storage is necessary. [25] [26] [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stwlan.dam.jpg/220px-Stwlan.dam.jpg",
+                "caption": "The upper reservoir, Llyn Stwlan, and dam of the Ffestiniog Pumped Storage Scheme in North Wales . The lower power station has four water turbines which generate 360 MW of electricity within 60 seconds of the need arising."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity",
+        "title": "Pumped-storage hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Summary",
+        "text": "In 2009, world pumped storage generating capacity was 104 GW , [32] while other sources claim 127 GW, which comprises the vast majority of all types of utility grade electric storage. [33] The EU had 38.3 GW net capacity (36.8% of world capacity) out of a total of 140 GW of hydropower and representing 5% of total net electrical capacity in the EU. Japan had 25.5 GW net capacity (24.5% of world capacity). [32] In 2010 the United States had 21.5 GW of pumped storage generating capacity (20.6% of world capacity). [34] PSH contributed 21,073 GWh of energy  in 2020 in the United States, but −5,321 GWh  (net) because more energy is consumed in pumping than is generated. [35] Nameplate pumped storage capacity had grown to 21.6 GW by 2014, with pumped storage comprising 97% of grid-scale energy storage in the United States. As of late 2014, there were 51 active project proposals with a total of 39 GW of new nameplate capacity across all stages of the FERC licensing process for new pumped storage hydroelectric plants in the United States, but no new plants were currently under construction in the United States at the time. [36] [37] The five largest operational pumped-storage plants are listed below (for a detailed list see List of pumped-storage hydroelectric power stations ) :",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kruonis_Pumped_Storage_Plant.Lithuania.jpg/220px-Kruonis_Pumped_Storage_Plant.Lithuania.jpg",
+                "caption": "Kruonis Pumped Storage Plant , Lithuania"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity",
+        "title": "Pumped-storage hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "List of plants larger than 1000 MW capacity",
+        "text": "The table below lists currently operational power stations. Some of these may have additional units under construction, but only current installed capacity is listed.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Oberbecken%28Markersbach%29.jpg/220px-Oberbecken%28Markersbach%29.jpg",
+                "caption": "The upper reservoir of the Markersbach PSPS"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Siah_Bishe_dam.jpg/220px-Siah_Bishe_dam.jpg",
+                "caption": "Dam of Siah Bishe Pumped Storage Power Plant"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Tumut3GeneratingStation.jpg/220px-Tumut3GeneratingStation.jpg",
+                "caption": "The Tumut-3 Hydroelectric Power Station"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Minamiaiki_Dam.jpg/220px-Minamiaiki_Dam.jpg",
+                "caption": "The upper Minamiaiki Dam of the Kannagawa Hydropower Plant"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Castaic_Power_Plant_Front.jpg/220px-Castaic_Power_Plant_Front.jpg",
+                "caption": "Castaic Power Plant"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SEO_main_cavern_Stolzembourg.jpg/220px-SEO_main_cavern_Stolzembourg.jpg",
+                "caption": "Main pump-generator hall of Vianden Pumped Storage Plant"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Coo-I-Superieur-27jan2010.jpg/220px-Coo-I-Superieur-27jan2010.jpg",
+                "caption": "Upper reservoir for Coo-Trois-Ponts PSPS"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Goldisthal-PSW-Unterbecken.jpg/220px-Goldisthal-PSW-Unterbecken.jpg",
+                "caption": "Goldisthal Pumped Storage Station"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG/220px-Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG",
+                "caption": "Mingtan Dam"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/List_of_pumped-storage_hydroelectric_power_stations",
+        "title": "List of pumped-storage hydroelectric power stations",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Characteristics",
+        "text": "It consists of a reservoir 110 feet (34 m) deep,  2.5 miles (4.0 km) long, and one mile (1.6 km) wide which holds 27 billion US gallons (100 Gl) or 82859 acre-feet of water. The 1.3-square-mile (3.4 km 2 ) reservoir is located on the banks of Lake Michigan . Because impervious bedrock is more than 800 feet (240 m) below the reservoir, the builders had to line the reservoir with a layer of asphalt and clay to prevent water seeping into the ground. The power plant consists of six reversible turbines that can each generate 312 megawatts of electricity for a total output of 1,872 megawatts. [7] Water is delivered from the upper reservoir to the turbines by six penstocks each 1,100 feet (340 m) long that taper from 28 to 24 feet (8.5 to 7.3 m) in diameter. At night, during low demand for electricity, the turbines run in reverse to pump water 363 feet (111 m) uphill from Lake Michigan into the reservoir. The plant takes advantage of the natural steep sand dune landform of eastern Lake Michigan. During periods of peak demand water is released to generate power. Electrical generation can begin within two minutes with peak electric output of 1872 MW achieved in under 30 minutes.  Maximum water flow is over 33 million US gallons (120,000 m 3 ) per minute. This process was designed to level the load of nearby nuclear power plants on the grid. It also replaces the need to build natural gas peak power plants used only during high demand. The Ludington Pumped Storage plant is connected to six 345-kV Transmission lines, all owned and maintained by METC, a subsidiary of ITC Holdings. The project was given the 1973 award for \"Outstanding Civil Engineering Achievement\" by the American Society of Civil Engineers . [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/GENERATING_STATION_OF_CONSUMER_POWER_PLANT_IN_LUDINGTON_-_NARA_-_547129_--_color_graded.tif/lossy-page1-220px-GENERATING_STATION_OF_CONSUMER_POWER_PLANT_IN_LUDINGTON_-_NARA_-_547129_--_color_graded.tif.jpg",
+                "caption": "Detail of the turbines when first constructed."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ludington_Pumped_Storage_Power_Plant",
+        "title": "Ludington Pumped Storage Power Plant",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Positive-displacement pumps",
+        "text": "A positive-displacement pump makes a fluid move by trapping a fixed amount and forcing (displacing) that trapped volume into the discharge pipe. Some positive-displacement pumps use an expanding cavity on the suction side and a decreasing cavity on the discharge side. Liquid flows into the pump as the cavity on the suction side expands and the liquid flows out of the discharge as the cavity collapses. The volume is constant through each cycle of operation.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LobePump_en.svg/170px-LobePump_en.svg.png",
+                "caption": "Lobe pump internals"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/LobePump3DAnimationArrows.gif/170px-LobePump3DAnimationArrows.gif",
+                "caption": "Lobe pump internals"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pump",
+        "title": "Pump",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Rotary positive-displacement pumps",
+        "text": "These pumps move fluid using a rotating mechanism that creates a vacuum that captures and draws in the liquid. [4] Advantages: Rotary pumps are very efficient [5] because they can handle highly viscous fluids with higher flow rates as viscosity increases. [6] Drawbacks: The nature of the pump requires very close clearances between the rotating pump and the outer edge, making it rotate at a slow, steady speed. If rotary pumps are operated at high speeds, the fluids cause erosion, which eventually causes enlarged clearances that liquid can pass through, which reduces efficiency. Rotary positive-displacement pumps fall into five main types:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Pompe_%C3%A0_palettes.gif/220px-Pompe_%C3%A0_palettes.gif",
+                "caption": "Rotary vane pump"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pump",
+        "title": "Pump",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Reciprocating positive-displacement pumps",
+        "text": "Reciprocating pumps move the fluid using one or more oscillating pistons, plungers, or membranes (diaphragms), while valves restrict fluid motion to the desired direction. In order for suction to take place, the pump must first pull the plunger in an outward motion to decrease pressure in the chamber. Once the plunger pushes back, it will increase the chamber pressure and the inward pressure of the plunger will then open the discharge valve and release the fluid into the delivery pipe at constant flow rate and increased pressure. Pumps in this category range from simplex , with one cylinder, to in some cases quad (four) cylinders, or more. Many reciprocating-type pumps are duplex (two) or triplex (three) cylinder. They can be either single-acting with suction during one direction of piston motion and discharge on the other, or double-acting with suction and discharge in both directions. The pumps can be powered manually, by air or steam, or by a belt driven by an engine. This type of pump was used extensively in the 19th century—in the early days of steam propulsion—as boiler feed water pumps. Now reciprocating pumps typically pump highly viscous fluids like concrete and heavy oils, and serve in special applications that demand low flow rates against high resistance. Reciprocating hand pumps were widely used to pump water from wells. Common bicycle pumps and foot pumps for inflation use reciprocating action. These positive-displacement pumps have an expanding cavity on the suction side and a decreasing cavity on the discharge side. Liquid flows into the pumps as the cavity on the suction side expands and the liquid flows out of the discharge as the cavity collapses. The volume is constant given each cycle of operation and the pump's volumetric efficiency can be achieved through routine maintenance and inspection of its valves. [14] Typical reciprocating pumps are:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hand_pump-en.svg/220px-Hand_pump-en.svg.png",
+                "caption": "Simple hand pump"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Old_hand_water_pump.jpg/220px-Old_hand_water_pump.jpg",
+                "caption": "Antique \"pitcher\" pump (c. 1924) at the Colored School in Alapaha, Georgia, US"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pump",
+        "title": "Pump",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Gear pump",
+        "text": "This is the simplest form of rotary positive-displacement pumps. It consists of two meshed gears that rotate in a closely fitted casing. The tooth spaces trap fluid and force it around the outer periphery. The fluid does not travel back on the meshed part, because the teeth mesh closely in the center.  Gear pumps see wide use in car engine oil pumps and in various hydraulic power packs .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gear_pump.png/220px-Gear_pump.png",
+                "caption": "Gear pump"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pump",
+        "title": "Pump",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Screw pump",
+        "text": "A screw pump is a more complicated type of rotary pump that uses two or three screws with opposing thread — e.g., one screw turns clockwise and the other counterclockwise. The screws are mounted on parallel shafts that have gears that mesh so the shafts turn together and everything stays in place. The screws turn on the shafts and drive fluid through the pump. As with other forms of rotary pumps, the clearance between moving parts and the pump's casing is minimal.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lysholm_screw_rotors.jpg/170px-Lysholm_screw_rotors.jpg",
+                "caption": "Screw pump"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pump",
+        "title": "Pump",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Progressing cavity pump",
+        "text": "Widely used for pumping difficult materials, such as sewage sludge contaminated with large particles, a progressing cavity pump consists of a helical rotor, about ten times as long as its width. This can be visualized as a central core of diameter x with, typically, a curved spiral wound around of thickness half x , though in reality it is manufactured in a single casting.  This shaft fits inside a heavy-duty rubber sleeve, of wall thickness also typically x . As the shaft rotates, the rotor gradually forces fluid up the rubber sleeve.  Such pumps can develop very high pressure at low volumes.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Progressive_cavity_pump_animation.gif/220px-Progressive_cavity_pump_animation.gif",
+                "caption": "Progressing cavity pump"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pump",
+        "title": "Pump",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Roots-type pump",
+        "text": "Named after the Roots brothers who invented it, this lobe pump displaces the fluid trapped between two long helical rotors, each fitted into the other when perpendicular at 90°, rotating inside a triangular shaped sealing line configuration, both at the point of suction and at the point of discharge. This design produces a continuous flow with equal volume and no vortex. It can work at low pulsation rates, and offers gentle performance that some applications require. Applications include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lobbenpomp.gif/220px-Lobbenpomp.gif",
+                "caption": "A Roots lobe pump"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pump",
+        "title": "Pump",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Peristaltic pump",
+        "text": "A peristaltic pump is a type of positive-displacement pump. It contains fluid within a flexible tube fitted inside a circular pump casing (though linear peristaltic pumps have been made). A number of rollers , shoes , or wipers attached to a rotor compress the flexible tube. As the rotor turns, the part of the tube under compression closes (or occludes ), forcing the fluid through the tube. Additionally, when the tube opens to its natural state after the passing of the cam it draws ( restitution ) fluid into the pump. This process is called peristalsis and is used in many biological systems such as the gastrointestinal tract .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Eccentric_pump.gif/220px-Eccentric_pump.gif",
+                "caption": "360° peristaltic pump"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pump",
+        "title": "Pump",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Rope pump",
+        "text": "Devised in China as chain pumps over 1000 years ago, these pumps can be made from very simple materials: A rope, a wheel and a pipe are sufficient to make a simple rope pump. Rope pump efficiency has been studied by grassroots organizations and the techniques for making and running them have been continuously improved. [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rope_Pump.svg/220px-Rope_Pump.svg.png",
+                "caption": "Rope pump schematic"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pump",
+        "title": "Pump",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Velocity pumps",
+        "text": "Rotodynamic pumps (or dynamic pumps) are a type of velocity pump in which kinetic energy is added to the fluid by increasing the flow velocity. This increase in energy is converted to a gain in potential energy (pressure) when the velocity is reduced prior to or as the flow exits the pump into the discharge pipe. This conversion of kinetic energy to pressure is explained by the First law of thermodynamics , or more specifically by Bernoulli's principle . Dynamic pumps can be further subdivided according to the means in which the velocity gain is achieved. [24] These types of pumps have a number of characteristics: A practical difference between dynamic and positive-displacement pumps is how they operate under closed valve conditions. Positive-displacement pumps physically displace fluid, so closing a valve downstream of a positive-displacement pump produces a continual pressure build up that can cause mechanical failure of pipeline or pump. Dynamic pumps differ in that they can be safely operated under closed valve conditions (for short periods of time).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Centrifugal_2.png/220px-Centrifugal_2.png",
+                "caption": "A centrifugal pump uses an impeller with backward-swept arms"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pump",
+        "title": "Pump",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Regenerative turbine pump ",
+        "text": "Also known as drag , friction , liquid-ring pump , peripheral , traction , turbulence , or vortex pumps, regenerative turbine pumps are a class of rotodynamic pump that operates at high head pressures, typically 4–20 bars (400–2,000 kPa; 58–290 psi). [26] The pump has an impeller with a number of vanes or paddles which spins in a cavity. The suction port and pressure ports are located at the perimeter of the cavity and are isolated by a barrier called a stripper , which allows only the tip channel (fluid between the blades) to recirculate, and forces any fluid in the side channel (fluid in the cavity outside of the blades) through the pressure port. In a regenerative turbine pump, as fluid spirals repeatedly from a vane into the side channel and back to the next vane, kinetic energy is imparted to the periphery, [26] thus pressure builds with each spiral, in a manner similar to a regenerative blower. [27] [28] [29] As regenerative turbine pumps cannot become vapor locked , they are commonly applied to volatile, hot, or cryogenic fluid transport. However, as tolerances are typically tight, they are vulnerable to solids or particles causing jamming or rapid wear. Efficiency is typically low, and pressure and power consumption typically decrease with flow. Additionally, pumping direction can be reversed by reversing direction of spin. [29] [27] [30]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Regenerative_Turbine_Pump_Animatic.gif/220px-Regenerative_Turbine_Pump_Animatic.gif",
+                "caption": "Regenerative turbine pump animation"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MTH_Pump_-_regenerative_turbine_pump_closeup.jpg/220px-MTH_Pump_-_regenerative_turbine_pump_closeup.jpg",
+                "caption": "Regenerative turbine pump rotor and housing, 1 ⁄ 3 horsepower (0.25 kW). 85-millimetre (3.3 in) diameter impeller rotates counter-clockwise. Left: inlet, right: outlet. 0.4 mm (0.016 in) thick vanes on 4 mm (0.16 in) centers"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pump",
+        "title": "Pump",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Pump repairs",
+        "text": "Examining pump repair records and mean time between failures (MTBF) is of great importance to responsible and conscientious pump users. In view of that fact, the preface to the 2006 Pump User's Handbook alludes to \"pump failure\" statistics. For the sake of convenience, these failure statistics often are translated into MTBF (in this case, installed life before failure). [32] In early 2005, Gordon Buck, John Crane Inc. 's chief engineer for field operations in Baton Rouge, Louisiana, examined the repair records for a number of refinery and chemical plants to obtain meaningful reliability data for centrifugal pumps. A total of 15 operating plants having nearly 15,000 pumps were included in the survey. The smallest of these plants had about 100 pumps; several plants had over 2000. All facilities were located in the United States. In addition, considered as \"new\", others as \"renewed\" and still others as \"established\". Many of these plants—but not all—had an alliance arrangement with John Crane. In some cases, the alliance contract included having a John Crane Inc. technician or engineer on-site to coordinate various aspects of the program. Not all plants are refineries, however, and different results occur elsewhere. In chemical plants, pumps have historically been \"throw-away\" items as chemical attack limits life. Things have improved in recent years, but the somewhat restricted space available in \"old\" DIN and ASME-standardized stuffing boxes places limits on the type of seal that fits. Unless the pump user upgrades the seal chamber, the pump only accommodates more compact and simple versions. Without this upgrading, lifetimes in chemical installations are generally around 50 to 60 percent of the refinery values. Unscheduled maintenance is often one of the most significant costs of ownership, and failures of mechanical seals and bearings are among the major causes. Keep in mind the potential value of selecting pumps that cost more initially, but last much longer between repairs. The MTBF of a better pump may be one to four years longer than that of its non-upgraded counterpart. Consider that published average values of avoided pump failures range from US$2600 to US$12,000. This does not include lost opportunity costs . One pump fire occurs per 1000 failures. Having fewer pump failures means having fewer destructive pump fires. As has been noted, a typical pump failure, based on actual year 2002 reports, costs US$5,000 on average. This includes costs for material, parts, labor and overhead. Extending a pump's MTBF from 12 to 18 months would save US$1,667 per year — which might be greater than the cost to upgrade the centrifugal pump's reliability. [32] [1] [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Derelict_windpump_with_water_tank_in_the_foreground_next_to_the_Boorowa_railway_in_Galong_NSW_Australia.JPG/220px-Derelict_windpump_with_water_tank_in_the_foreground_next_to_the_Boorowa_railway_in_Galong_NSW_Australia.JPG",
+                "caption": "Derelict windmill connected to water pump with water storage tank in the foreground"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pump",
+        "title": "Pump",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Applications",
+        "text": "Pumps are used throughout society for a variety of purposes.  Early applications includes the use of  the windmill or watermill to pump water.  Today, the pump is used for irrigation, water supply , gasoline supply, air conditioning systems, refrigeration (usually called a compressor), chemical movement, sewage movement, flood control, marine services, etc. Because of the wide variety of applications, pumps have a plethora of shapes and sizes: from very large to very small, from handling gas to handling liquid, from high pressure to low pressure, and from high volume to low volume.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dosierpumpe.png/220px-Dosierpumpe.png",
+                "caption": "Metering pump for gasoline and additives"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pump",
+        "title": "Pump",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Pumps as public water supplies",
+        "text": "One sort of pump once common worldwide was a hand-powered water pump, or 'pitcher pump'. It was commonly installed over community water wells in the days before piped water supplies. In parts of the British Isles, it was often called the parish pump . Though such community pumps are no longer common, people still used the expression parish pump to describe a place or forum where matters of local interest are discussed. [37] Because water from pitcher pumps is drawn directly from the soil, it is more prone to contamination.  If such water is not filtered and purified, consumption of it might lead to gastrointestinal or other water-borne diseases. A notorious case is the 1854 Broad Street cholera outbreak . At the time it was not known how cholera was transmitted, but physician John Snow suspected contaminated water and had the handle of the public pump he suspected removed; the outbreak then subsided. Modern hand-operated community pumps are considered the most sustainable low-cost option for safe water supply in resource-poor settings, often in rural areas in developing countries. A hand pump opens access to deeper groundwater that is often not polluted and also improves the safety of a well by protecting the water source from contaminated buckets. Pumps such as the Afridev pump are designed to be cheap to build and install, and easy to maintain with simple parts. However, scarcity of spare parts for these type of pumps in some regions of Africa has diminished their utility for these areas.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Al-Jazari_Automata_1205.jpg/220px-Al-Jazari_Automata_1205.jpg",
+                "caption": "Arabic depiction of a piston pump, by Al-Jazari , c. 1206 [34] [35]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Taccola_first_piston.jpg/220px-Taccola_first_piston.jpg",
+                "caption": "First European depiction of a piston pump, by Taccola , c. 1450 [36]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pump-enabled_Riverside_Irrigation_in_Comilla%2C_Bangladesh%2C_25_April_2014.jpg/240px-Pump-enabled_Riverside_Irrigation_in_Comilla%2C_Bangladesh%2C_25_April_2014.jpg",
+                "caption": "Irrigation is underway by pump-enabled extraction directly from the Gumti , seen in the background, in Comilla , Bangladesh ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pump",
+        "title": "Pump",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Minimum flow protection",
+        "text": "Most large pumps have a minimum flow requirement below which the pump may be damaged by overheating, impeller wear, vibration, seal failure, drive shaft damage or poor performance. [42] A minimum flow protection system ensures that the pump is not operated below the minimum flow rate. The system protects the pump even if it is shut-in or dead-headed, that is, if the discharge line is completely closed. [43] The simplest minimum flow system is a pipe running from the pump discharge line back to the suction line. This line is fitted with an orifice plate sized to allow the pump minimum flow to pass. [44] The arrangement ensures that the minimum flow is maintained, although it is wasteful as it recycles fluid even when the flow through the pump exceeds the minimum flow. A more sophisticated, but more costly, system (see diagram) comprises a flow measuring device (FE) in the pump discharge which provides a signal into a flow controller (FIC) which actuates a flow control valve (FCV) in the recycle line. If the measured flow exceeds the minimum flow then the FCV is closed. If the measured flow falls below the minimum flow the FCV opens to maintain the minimum flowrate. [42] As the fluids are recycled the kinetic energy of the pump increases the temperature of the fluid. For many pumps this added heat energy is dissipated through the pipework. However, for large industrial pumps, such as oil pipeline pumps, a recycle cooler is provided in the recycle line to cool the fluids to the normal suction temperature. [45] Alternatively the recycled fluids may be returned to upstream of the export cooler in an oil refinery , oil terminal , or offshore installation .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Pump_recycle.jpg/220px-Pump_recycle.jpg",
+                "caption": "Part of a process flow diagram of pump minimum flow protection arrangement"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pump",
+        "title": "Pump",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Design and location",
+        "text": "It is located remotely within the Kosciuszko National Park in the Snowy Mountains . [3] Snowy Hydro 2.0 will use water from the Talbingo Reservoir (bottom storage) and Tantangara Reservoir (top storage). [11] The dams have a height differential of 700 metres. [12] The new power station is being built by the Italian firm Webuild . [23] It will be located in a cavern 800 metres underground. [11] The underground location allows for reduced environmental impacts within the national park. The operational footprint of the facility is less than 0.01% of the total size of the park. [24] The Inclined Pressure Shaft (IPS) through which the water will pass is the largest of its kind in the world and facilitates the water’s return to the upper reservoir when the pump-turbines operate in reverse. [25] The IPS is 10 metres in diameter, 1.6 kilometres long and at a 25 degree incline. Pre-cast concrete segments for the shaft are produced at a factory in the town of Cooma . [25] Fatigue resistance is a key design element in the IPS. [25] The power station will measure 22 metres (m) wide, 50 m high and 250 m long. [10] The station will house six reversible Francis pump-turbine and motor-generator units. [19] Three units will be of variable speed with the remaining of synchronous speed.  Each turbine will have a rated output of 333 megawatts. [26] Power generating equipment is being supplied by Voith . [26] It will be connected to the grid via the HumeLink transmission line. [13] [27] The construction of overhead power lines by TransGrid has been opposed by community advocacy groups. [28] Landholders desire to see the transmission line built underground have been opposed due to prohibitive costs. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tantangara_Dam%2C_on_Murrumbidgee_River%2C_NSW.JPG/220px-Tantangara_Dam%2C_on_Murrumbidgee_River%2C_NSW.JPG",
+                "caption": "Tantangara Reservoir , 2013"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Snowy_2.0_Pumped_Storage_Power_Station",
+        "title": "Snowy 2.0 Pumped Storage Power Station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Lewiston Pump-Generating Plant",
+        "text": "The pump-generating plant in the Lewiston Dam is atypical, in that the dam was constructed not to control the flow of water in a natural river, but to contain a man-made 1,900-acre (770 ha), 22-billion-US-gallon (83,000,000 m 3 ) upper reservoir (named the Lewiston Reservoir) which stores water pumped into the reservoir from the forebay of the Robert Moses Power Station. Water enters the forebay by tunnels from the Niagara River controlled by the International Control Dam upstream of the natural falls. Water in the forebay can be either pumped up into the upper reservoir for later use or immediately sent down over the escarpment downstream of the natural falls through the Robert Moses Power Station turbines. The Lewiston Pump-Generating Plant 43°08′33″N 79°01′18″W ﻿ / ﻿ 43.14250°N 79.02167°W ﻿ / 43.14250; -79.02167 ﻿ ( Lewiston Pump-Generating Plant ) houses 12 electrically powered pump -generators that can generate a combined 240 MW (320,000 hp) when water in the upper reservoir is released. At night, two 46 ft (14 m) wide by 66 ft (20 m) tall tunnels [10] divert a substantial fraction (600,000 US gal (2,300 m 3 ) per second) of the water in the Niagara River 4.5 mi (7.2 km) to the forebay. Electricity generated in the Moses plant powers the Lewiston pumps to push water into the upper reservoir. The water is pumped at night because the demand for electricity is much lower than during the day. In addition to the lower demand for electricity at night, less water can be diverted from the river during the day because of the desire to preserve the appearance of the falls. During the day, when electrical demand is high, water is released from the upper reservoir through the Lewiston Dam pump-generators, generating electricity. The water flows into the forebay, where it then flows through the turbines of the Moses plant back to the main river. This allows water diverted from above Niagara Falls to pass through two sets of turbines, generating electricity both times. This arrangement is an example of pumped-storage hydroelectricity . Engineers copied what had been built by Ontario Hydro, across the river, when a similar system was built during construction of the Sir Adam Beck Generating Station II in the 1950s. This system allows energy to be stored in vast quantities. The potential energy in the diverted water is converted into electrical energy in the Moses plant. At night, some of that electrical energy is converted back to potential energy when water is pumped into the upper reservoir behind the Lewiston Dam. During the day, part of the potential energy of the water in the Lewiston reservoir is converted into electricity at the Lewiston Dam, and then its remaining potential energy is captured by the Moses plant, which is also capturing the potential energy of the water diverted from the river in real-time. Beginning in 2012 and until 2021, the pump-generating plant has undergone a $460 million modernization that increased the plant's efficiency and service life. [11] The Robert Moses Plant was refurbished in 2006. [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Adam_Beck_and_Robert_Moses.jpg/220px-Adam_Beck_and_Robert_Moses.jpg",
+                "caption": "The Robert Moses Niagara Power Station at right."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Robert_Moses_Niagara_Power_Plant",
+        "title": "Robert Moses Niagara Power Plant",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    },
+    {
+        "section": "Operation",
+        "text": "Water is stored at 636 metres (2,087 ft) above sea level in Marchlyn Mawr reservoir. When power needs to be generated, water from the reservoir is sent down through the turbines into Llyn Peris , which is at approximately 100 metres (330 ft). Water is pumped back from Llyn Peris to Marchlyn Mawr during off-peak times. Although it uses more energy to pump the water up than is generated on the way down, pumping is generally done when electricity is cheaper and generation when it is more expensive. The plant runs on average at 74–76% efficiency. [16] [17] It fills an important need in the system by responding to sudden surges in electricity demand because of its rapid ability to deliver power on load spikes. One of the alternatives would be to have spare capacity from conventional power stations running part loaded (\" spinning reserve \"), hence at lower efficiency than otherwise, and thus capable of being rapidly run up to full load. Other forms of power plant compete in this market for reserve power such as gas turbines and diesel generators for the National Grid Reserve Service . Excess water will overflow to Llyn Padarn and is then lost from the reservoir system. Both Llyn Peris and Llyn Padarn were ancestral homes to the Arctic char , a rare fish in the United Kingdom. When the scheme was commissioned, a fish rescue was undertaken to transfer the char from Llyn Peris to other local suitable lakes and it is believed that due to the very variable water levels in Llyn Peris, Arctic char are now absent from the lake.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ElidirFawrWales.jpg/220px-ElidirFawrWales.jpg",
+                "caption": "Elidir Fawr with Marchlyn Mawr at right"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dinorwig_Power_Station.jpg/220px-Dinorwig_Power_Station.jpg",
+                "caption": "Looking down on the power station from the slate trail above"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Dinorwig_Power_Station",
+        "title": "Dinorwig Power Station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Pumped hydro storage"
+    }
+]

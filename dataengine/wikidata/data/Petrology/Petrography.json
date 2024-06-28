@@ -1,0 +1,107 @@
+[
+    {
+        "section": "Microscopic characteristics",
+        "text": "When dealing with unfamiliar types or with rocks so fine grained that their component minerals cannot be determined with the aid of a hand lens, a microscope is used. Characteristics observed under the microscope include colour, colour variation under plane polarised light ( pleochroism , produced by the lower Nicol prism , or more recently polarising films ), fracture characteristics of the grains, refractive index (in comparison to the mounting adhesive, typically Canada balsam ), and optical symmetry ( birefringent or isotropic ). In toto , these characteristics are sufficient to identify the mineral, and often to quite tightly estimate its major element composition.\nThe process of identifying minerals under the microscope is fairly subtle, but also mechanistic - it would be possible to develop an identification key that would allow a computer to do it. The more difficult and skilful part of optical petrography is identifying the interrelationships between grains and relating them to features seen in hand-sized specimen, at outcrop, or in mapping.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/LvMS-Lvm.jpg/220px-LvMS-Lvm.jpg",
+                "caption": "Photomicrograph of a volcanic sand grain ; upper picture is plane-polarized light, bottom picture is cross-polarized light, scale box at left-center is 0.25 millimeter."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Petrography",
+        "title": "Petrography",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrography"
+    },
+    {
+        "section": "Methodology",
+        "text": "Petrology utilizes the fields of mineralogy , petrography, optical mineralogy , and chemical analysis to describe the composition and texture of rocks. Petrologists also include the principles of geochemistry and geophysics through the study of geochemical trends and cycles and the use of thermodynamic data and experiments in order to better understand the origins of rocks.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ljudmila_Dolar_Mantuani.jpg/170px-Ljudmila_Dolar_Mantuani.jpg",
+                "caption": "Ljudmila Dolar Mantuani (1906–1988), first female professor of petrography in Yugoslavia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Petrology",
+        "title": "Petrology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrography"
+    },
+    {
+        "section": "Other distinguishing features",
+        "text": "The above descriptions of quartz in thin section are usually enough to identify it.  Minerals with similar appearance may include plagioclase , although it can be distinguished by the distinctive twinning in crossed-polarized light and cleavage in plane-polarized light, and cordierite , although it can be distinguished by twinning or inclusions in the grain.  However, for certainty, other distinguishing features of quartz include the fact that it is uniaxial , it has a positive optic sign , length-slow sign of elongation, and zero degree extinction angle. [5]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ultra_thin_section_carbonate_sigma_clast_2b.JPG/220px-Ultra_thin_section_carbonate_sigma_clast_2b.JPG",
+                "caption": "A sigma clast as seen in an ultra thin section.  The uneven coloring is an artifact from uneven polishing."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Thin_section",
+        "title": "Thin section",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrography"
+    },
+    {
+        "section": "LA-ICP-MS (Laser Ablation – Inductively Coupled Plasma – Mass Spectrometry)",
+        "text": "One of the increasingly used methods includes the use of LA-ICP-MS. [2] In LA-ICP-MS, a laser beam is focused on a sample surface, causing it to vaporize and form a high-temperature plasma. This plasma is then introduced into an inductively coupled plasma (ICP) source, where further ionization and excitation occur. The resulting ions are then analysed using a mass spectrometer (MS). [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/La-icp-ms_example_2.gif/220px-La-icp-ms_example_2.gif",
+                "caption": "Depiction of how LA-ICP-MS works"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ceramic_petrography",
+        "title": "Ceramic petrography",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrography"
+    },
+    {
+        "section": "Sections",
+        "text": "A rock-section should be about one-thousandth of an inch (30 micrometres ) in thickness, and is relatively easy to make. A thin splinter of the rock, about 1 centimetre may be taken; it should be as fresh as possible and free from obvious cracks.  By grinding it on a plate of planed steel or cast iron with a little fine carborundum it is soon rendered flat on one side, and is then transferred to a sheet of plate glass and smoothed with the finest grained emery until all roughness and pits are removed, and the surface is a uniform plane.  The rock chip is then washed, and placed on a copper or iron plate which is heated by a spirit or gas lamp.  A microscopic glass slip is also warmed on this plate with a drop of viscous natural Canada balsam on its surface.  The more volatile ingredients of the balsam are dispelled by the heat, and when that is accomplished the smooth, dry, warm rock is pressed firmly into contact with the glass plate so that the film of balsam intervening may be as thin as possible and free from air bubbles. The preparation is allowed to cool, and the rock chip is again ground down as before, first with carborundum and, when it becomes transparent, with fine emery until the desired thickness is obtained. It is then cleaned, again heated with an additional small amount of balsam, and covered with a cover glass. The labor of grinding the first surface may be avoided by cutting off a smooth slice with an iron disk armed with crushed diamond powder. A second application of the slitter after the first face is smoothed and cemented to the glass will, in expert hands, leave a section of rock so thin as to be transparent. In this way the preparation of a section may require only twenty minutes. [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Thin_section_scan_crossed_polarizers_Siilinj%C3%A4rvi_R636-105.90.jpg/220px-Thin_section_scan_crossed_polarizers_Siilinj%C3%A4rvi_R636-105.90.jpg",
+                "caption": "A scanned image of a thin section in cross polarized light."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Optical_mineralogy",
+        "title": "Optical mineralogy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrography"
+    },
+    {
+        "section": "Microscope",
+        "text": "The microscope employed is usually one which is provided with a rotating stage beneath which there is a polarizer, while above the objective or eyepiece an analyzer is mounted; alternatively the stage may be fixed, and the polarizing and analyzing prisms may be capable of simultaneous rotation by means of toothed wheels and a connecting rod.  If ordinary light and not polarized light is desired, both prisms may be withdrawn from the axis of the instrument; if the polarizer only is inserted the light transmitted is plane polarized; with both prisms in position the slide is viewed in cross-polarized light, also known as \" crossed nicols \".  A microscopic rock-section in ordinary light, if a suitable magnification (e.g. around 30x) be employed, is seen to consist of grains or crystals varying in color, size, and shape. [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Thin_section_microscopy_Siilinj%C3%A4rvi_R216_10840_carbonate.jpg/220px-Thin_section_microscopy_Siilinj%C3%A4rvi_R216_10840_carbonate.jpg",
+                "caption": "Photomicrographs of a thin section containing carbonate vein (grains with X-shaped cleavages) in mica (elongated crystals) rich rock. In cross-polarized light on left, plane-polarized light on right."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Optical_mineralogy",
+        "title": "Optical mineralogy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrography"
+    },
+    {
+        "section": "Habit & Cleavage",
+        "text": "The shapes of the crystals determine in a general way the outlines of the sections of them presented on the slides.  If the mineral has one or more good cleavages , they will be indicated by sets of similarly oriented planes called cleavage planes. The orientation of cleavage planes is determined by the crystal structure of a mineral and form preferentially through planes along which the weakest bonds lie, thus the orientation of cleavage planes can be used in optical mineralogy to identify minerals.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Amphibol.jpg/220px-Amphibol.jpg",
+                "caption": "Amphibole in thin section exhibiting 60° cleavage angle."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Optical_mineralogy",
+        "title": "Optical mineralogy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Petrography"
+    }
+]

@@ -1,0 +1,624 @@
+[
+    {
+        "section": "Simple definition",
+        "text": "Consider a solid material placed between two environments of different temperatures. Let T 1 {\\displaystyle T_{1}} be the temperature at x = 0 {\\displaystyle x=0} and T 2 {\\displaystyle T_{2}} be the temperature at x = L {\\displaystyle x=L} , and suppose T 2 > T 1 {\\displaystyle T_{2}>T_{1}} . An example of this scenario is a building on a cold winter day: the solid material in this case is the building wall, separating the cold outdoor environment from the warm indoor environment. According to the second law of thermodynamics , heat will flow from the hot environment to the cold one as the temperature difference is equalized by diffusion. This is quantified in terms of a heat flux q {\\displaystyle q} , which gives the rate, per unit area, at which heat flows in a given direction (in this case minus x-direction). In many materials, q {\\displaystyle q} is observed to be directly proportional to the temperature difference and inversely proportional to the separation distance L {\\displaystyle L} : [1] The constant of proportionality k {\\displaystyle k} is the thermal conductivity; it is a physical property of the material. In the present scenario, since T 2 > T 1 {\\displaystyle T_{2}>T_{1}} heat flows in the minus x-direction and q {\\displaystyle q} is negative, which in turn means that k > 0 {\\displaystyle k>0} . In general, k {\\displaystyle k} is always defined to be positive. The same definition of k {\\displaystyle k} can also be extended to gases and liquids, provided other modes of energy transport, such as convection and radiation , are eliminated or accounted for. The preceding derivation assumes that the k {\\displaystyle k} does not change significantly as temperature is varied from T 1 {\\displaystyle T_{1}} to T 2 {\\displaystyle T_{2}} . Cases in which the temperature variation of k {\\displaystyle k} is non-negligible must be addressed using the more general definition of k {\\displaystyle k} discussed below.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Simple_definition_of_thermal_conductivity.png/390px-Simple_definition_of_thermal_conductivity.png",
+                "caption": "Thermal conductivity can be defined in terms of the heat flow q {\\displaystyle q} across a temperature difference."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Thermal_conductivity_and_resistivity",
+        "title": "Thermal conductivity and resistivity",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Experimental values",
+        "text": "The thermal conductivities of common substances span at least four orders of magnitude. [17] Gases generally have low thermal conductivity, and pure metals have high thermal conductivity. For example, under standard conditions the thermal conductivity of copper is over 10 000 times that of air. Of all materials, allotropes of carbon, such as graphite and diamond , are usually credited with having the highest thermal conductivities at room temperature. [18] The thermal conductivity of natural diamond at room temperature is several times higher than that of a highly conductive metal such as copper (although the precise value varies depending on the diamond type ). [19] Thermal conductivities of selected substances are tabulated below; an expanded list can be found in the list of thermal conductivities . These values are illustrative estimates only, as they do not account for measurement uncertainties or variability in material definitions.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Thermal_conductivity.svg/550px-Thermal_conductivity.svg.png",
+                "caption": "Experimental values of thermal conductivity [ clarification needed ]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Thermal_conductivity_and_resistivity",
+        "title": "Thermal conductivity and resistivity",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Gaseous phases",
+        "text": "In the absence of convection, air and other gases are good insulators. Therefore, many insulating materials function simply by having a large number of gas-filled pockets which obstruct heat conduction pathways. Examples of these include expanded and extruded polystyrene (popularly referred to as \"styrofoam\") and silica aerogel , as well as warm clothes. Natural, biological insulators such as fur and feathers achieve similar effects by trapping air in pores, pockets, or voids. Low density gases, such as hydrogen and helium typically have high thermal conductivity. Dense gases such as xenon and dichlorodifluoromethane have low thermal conductivity. An exception, sulfur hexafluoride , a dense gas, has a relatively high thermal conductivity due to its high heat capacity . Argon and krypton , gases denser than air, are often used in insulated glazing (double paned windows) to improve their insulation characteristics. The thermal conductivity through bulk materials in porous or granular form is governed by the type of gas in the gaseous phase, and its pressure. [28] At low pressures, the thermal conductivity of a gaseous phase is reduced, with this behaviour governed by the Knudsen number , defined as K n = l / d {\\displaystyle K_{n}=l/d} , where l {\\displaystyle l} is the mean free path of gas molecules and d {\\displaystyle d} is the typical gap size of the space filled by the gas. In a granular material d {\\displaystyle d} corresponds to the characteristic size of the gaseous phase in the pores or intergranular spaces. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Coloured_ceramic_thermal_barrier_coating_on_exhaust_component.jpg/220px-Coloured_ceramic_thermal_barrier_coating_on_exhaust_component.jpg",
+                "caption": "Exhaust system components with ceramic coatings having a low thermal conductivity reduce heating of nearby sensitive components"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Thermal_conductivity_and_resistivity",
+        "title": "Thermal conductivity and resistivity",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Physical properties",
+        "text": "Hydrothermal vents in the deep ocean typically form along the mid-ocean ridges , such as the East Pacific Rise and the Mid-Atlantic Ridge . These are locations where two tectonic plates are diverging and new crust is being formed. [5] The water that issues from seafloor hydrothermal vents consists mostly of seawater drawn into the hydrothermal system close to the volcanic edifice through faults and porous sediments or volcanic strata, plus some magmatic water released by the upwelling magma . [1] In terrestrial [ clarification needed ] hydrothermal systems, the majority of water circulated within the fumarole and geyser systems, is meteoric water plus ground water that has percolated down into the thermal system from the surface, but also commonly contains some portion of metamorphic water , magmatic water , and sedimentary formational brine that is released by the magma. The proportion of each varies from location to location. [ citation needed ] In contrast to the approximately 2 °C (36 °F) ambient water temperature at these depths, water emerges from these vents at temperatures ranging from 60 °C (140 °F) [6] up to as high as 464 °C (867 °F). [7] [8] Due to the high hydrostatic pressure at these depths, water may exist in either its liquid form or as a supercritical fluid at such temperatures. [5] The critical point of (pure) water is 375 °C (707 °F) at a pressure of 218 atmospheres . However, introducing salinity into the fluid raises the critical point to higher temperatures and pressures. The critical point of seawater (3.2 wt. % NaCl) is 407 °C (765 °F) and 298.5 bars, [9] corresponding to a depth of ~2,960 m (9,710 ft) below sea level. Accordingly, if a hydrothermal fluid with a salinity of 3.2 wt. % NaCl vents above 407 °C (765 °F) and 298.5 bars, it is supercritical. Furthermore, the salinity of vent fluids have been shown to vary widely due to phase separation in the crust. [10] The critical point for lower salinity fluids is at lower temperature and pressure conditions than that for seawater, but higher than that for pure water. For example, a vent fluid with a 2.24 wt. % NaCl salinity has the critical point at 400 °C (752 °F) and 280.5 bars. Thus, water emerging from the hottest parts of some hydrothermal vents can be a supercritical fluid , possessing physical properties between those of a gas and those of a liquid . [7] [8] Examples of supercritical venting are found at several sites. Sister Peak (Comfortless Cove Hydrothermal Field, 4°48′S 12°22′W ﻿ / ﻿ 4.800°S 12.367°W ﻿ / -4.800; -12.367 , depth 2,996 m or 9,829 ft) vents low salinity phase-separated , vapor-type fluids. Sustained venting was not found to be supercritical but a brief injection of 464 °C (867 °F) was well above supercritical conditions. A nearby site, Turtle Pits, was found to vent low salinity fluid at 407 °C (765 °F), which is above the critical point of the fluid at that salinity. A vent site in the Cayman Trough named Beebe , which is the world's deepest known hydrothermal site at ~5,000 m (16,000 ft) below sea level, has shown sustained supercritical venting at 401 °C (754 °F) and 2.3 wt% NaCl. [11] Although supercritical conditions have been observed at several sites, it is not yet known what significance, if any, supercritical venting has in terms of hydrothermal circulation, mineral deposit formation, geochemical fluxes or biological activity. [ citation needed ] The initial stages of a vent chimney begin with the deposition of the mineral anhydrite . Sulfides of copper , iron , and zinc then precipitate in the chimney gaps, making it less porous over the course of time. Vent growths on the order of 30 cm (1 ft) per day have been recorded. [12] An April 2007 exploration of the deep-sea vents off the coast of Fiji found those vents to be a significant source of dissolved iron (see iron cycle ). [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Phase-diag2.svg/260px-Phase-diag2.svg.png",
+                "caption": "In this phase diagram , the green dotted line illustrates the anomalous behavior of water . The dotted green line marks the melting point and the blue line the boiling point , showing how they vary with pressure; the solid green line shows the typical melting point behavior for other substances."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrothermal_vent",
+        "title": "Hydrothermal vent",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Black smokers and white smokers",
+        "text": "Some hydrothermal vents form roughly cylindrical chimney structures. These form from minerals that are dissolved in the vent fluid. When the superheated water contacts the near-freezing sea water, the minerals precipitate out to form particles which add to the height of the stacks. Some of these chimney structures can reach heights of 60 m (200 ft). [14] An example of such a towering vent was \"Godzilla\", a structure on the Pacific Ocean deep seafloor near Oregon that rose to 40 m (130 ft) before it fell over in 1996. [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Blackdiamante_hirez.jpg/220px-Blackdiamante_hirez.jpg",
+                "caption": "Extinct smokers"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrothermal_vent",
+        "title": "Hydrothermal vent",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Black smokers",
+        "text": "A black smoker or deep-sea vent is a type of hydrothermal vent found on the seabed , typically in the bathyal zone (with largest frequency in depths from 2,500 to 3,000 m (8,200 to 9,800 ft)), but also in lesser depths as well as deeper in the abyssal zone . [1] They appear as black, chimney-like structures that emit a cloud of black material. Black smokers typically emit particles with high levels of sulfur-bearing minerals, or sulfides. Black smokers are formed in fields hundreds of meters wide when superheated water from below Earth's crust comes through the ocean floor (water may attain temperatures above 400 °C (752 °F)). [1] This water is rich in dissolved minerals from the crust, most notably sulfides . When it comes in contact with cold ocean water, many minerals precipitate, forming a black, chimney-like structure around each vent. The deposited metal sulfides can become massive sulfide ore deposits in time. Some black smokers on the Azores portion of the Mid-Atlantic Ridge are extremely rich in metal content, such as Rainbow with 24,000 μM concentrations of iron . [16] Black smokers were first discovered in 1979 on the East Pacific Rise by scientists from Scripps Institution of Oceanography during the RISE Project . [17] They were observed using the deep submergence vehicle ALVIN from the Woods Hole Oceanographic Institution . Now, black smokers are known to exist in the Atlantic and Pacific Oceans, at an average depth of 2,100 m (6,900 ft). The most northerly black smokers are a cluster of five named Loki's Castle , [18] discovered in 2008 by scientists from the University of Bergen at 73°N , on the Mid-Atlantic Ridge between Greenland and Norway . These black smokers are of interest as they are in a more stable area of the Earth's crust, where tectonic forces are less and consequently fields of hydrothermal vents are less common. [19] The world's deepest known black smokers are located in the Cayman Trough , 5,000 m (3.1 miles) below the ocean's surface. [20]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MARUM_Schwarzer_Raucher.jpg/220px-MARUM_Schwarzer_Raucher.jpg",
+                "caption": "The black smoker \"Candelabra\" in the Logatchev hydrothermal field on the Mid-Atlantic Ridge at a water depth of 3,300 m (10,800 ft)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrothermal_vent",
+        "title": "Hydrothermal vent",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "White smokers",
+        "text": "White smoker vents emit lighter-hued minerals, such as those containing barium , calcium and silicon . These vents also tend to have lower-temperature plumes probably because they are generally distant from their heat source. [1] Black and white smokers may coexist in the same hydrothermal field, but they generally represent proximal (close) and distal (distant) vents to the main upflow zone, respectively. However, white smokers correspond mostly to waning stages of such hydrothermal fields, as magmatic heat sources become progressively more distant from the source (due to magma crystallization) and hydrothermal fluids become dominated by seawater instead of magmatic water. Mineralizing fluids from this type of vent are rich in calcium and they form dominantly sulfate -rich (i.e., barite and anhydrite ) and carbonate deposits. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Eifuku_chimneys_bubbles.jpg/220px-Eifuku_chimneys_bubbles.jpg",
+                "caption": "Carbon dioxide bubbles are emitted from white smokers at the Champagne vent site in Eifuku."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrothermal_vent",
+        "title": "Hydrothermal vent",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Ocean biogeochemistry",
+        "text": "Hydrothermal plumes represent an important mechanism through which hydrothermal systems influence marine biogeochemistry . Hydrothermal vents emit a wide variety of trace metals into the ocean, including Fe , Mn , Cr , Cu , Zn , Co , Ni , Mo , Cd , V , and W , [25] many of which have biological functions. [26] Numerous physical and chemical processes control the fate of these metals once they are expelled into the water column. Based on thermodynamic theory, Fe 2+ and Mn 2+ should oxidize in seawater to form insoluble metal (oxy)hydroxide precipitates; however, complexation with organic compounds and the formation of colloids and nanoparticles can keep these redox-sensitive elements suspended in solution far from the vent site. [21] [23] Fe and Mn often have the highest concentrations among metals in acidic hydrothermal vent fluids, [25] and both have biological significance, particularly Fe, which is often a limiting nutrient in marine environments. [26] Therefore, far-field transport of Fe and Mn via organic complexation may constitute an important mechanism of ocean metal cycling. [22] Additionally, hydrothermal vents deliver significant concentrations of other biologically important trace metals to the ocean such as Mo, which may have been important in the early chemical evolution of the Earth's oceans and to the origin of life (see \"theory of hydrothermal origin of life\"). [25] [27] However, Fe and Mn precipitates can also influence ocean biogeochemistry by removing trace metals from the water column. The charged surfaces of iron (oxy)hydroxide minerals effectively adsorb elements such as phosphorus , vanadium , arsenic , and rare earth metals from seawater; therefore, although hydrothermal plumes may represent a net source of metals such as Fe and Mn to the oceans, they can also scavenge other metals and non-metalliferous nutrients such as P from seawater, representing a net sink of these elements. [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Deep_Sea_Vent_Chemistry_Diagram.svg/241px-Deep_Sea_Vent_Chemistry_Diagram.svg.png",
+                "caption": "Diagram of biogeochemical processes within a hydrothermal vent system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrothermal_vent",
+        "title": "Hydrothermal vent",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Biological communities",
+        "text": "The ecosystem so formed is reliant upon the continued existence of the hydrothermal vent field as the primary source of energy, which differs from most surface life on Earth, which is based on solar energy . However, although it is often said that these communities exist independently of the sun, some of the organisms are actually dependent upon oxygen produced by photosynthetic organisms, while others are anaerobic . The chemosynthetic bacteria grow into a thick mat which attracts other organisms, such as amphipods and copepods , which graze upon the bacteria directly. Larger organisms, such as snails, shrimp, crabs, tube worms , fish (especially eelpout , cutthroat eel , Ophidiiformes and Symphurus thermophilus ), and octopuses (notably Vulcanoctopus hydrothermalis ), form a food chain of predator and prey relationships above the primary consumers. The main families of organisms found around seafloor vents are annelids , pogonophorans , gastropods , and crustaceans, with large bivalves , vestimentiferan worms, and \"eyeless\" shrimp making up the bulk of nonmicrobial organisms. [ citation needed ] Siboglinid tube worms , which may grow to over 2 m (6.6 ft) tall in the largest species, often form an important part of the community around a hydrothermal vent. They have no mouth or digestive tract, and like parasitic worms, absorb nutrients produced by the bacteria in their tissues. About 285 billion bacteria are found per ounce of tubeworm tissue. Tubeworms have red plumes which contain hemoglobin . Hemoglobin combines with hydrogen sulfide and transfers it to the bacteria living inside the worm. In return, the bacteria nourish the worm with carbon compounds. Two of the species that inhabit a hydrothermal vent are Tevnia jerichonana , and Riftia pachyptila . One discovered community, dubbed \" Eel City \", consists predominantly of the eel Dysommina rugosa . Though eels are not uncommon, invertebrates typically dominate hydrothermal vents. Eel City is located near Nafanua volcanic cone , American Samoa . [30] In 1993, already more than 100 gastropod species were known to occur in hydrothermal vents. [31] Over 300 new species have been discovered at hydrothermal vents, [32] many of them \"sister species\" to others found in geographically separated vent areas. It has been proposed that before the North American plate overrode the mid-ocean ridge , there was a single biogeographic vent region found in the eastern Pacific. [33] The subsequent barrier to travel began the evolutionary divergence of species in different locations. The examples of convergent evolution seen between distinct hydrothermal vents is seen as major support for the theory of natural selection and of evolution as a whole. Although life is very sparse at these depths, black smokers are the centers of entire ecosystems . Sunlight is nonexistent, so many organisms, such as archaea and extremophiles , convert the heat, methane , and sulfur compounds provided by black smokers into energy through a process called chemosynthesis . More complex life forms, such as clams and tubeworms , feed on these organisms. The organisms at the base of the food chain also deposit minerals into the base of the black smoker, therefore completing the life cycle . A species of phototrophic bacterium has been found living near a black smoker off the coast of Mexico at a depth of 2,500 m (8,200 ft). No sunlight penetrates that far into the waters. Instead, the bacteria, part of the Chlorobiaceae family, use the faint glow from the black smoker for photosynthesis . This is the first organism discovered in nature to exclusively use a light other than sunlight for photosynthesis. [34] New and unusual species are constantly being discovered in the neighborhood of black smokers. The Pompeii worm Alvinella pompejana , which is capable of withstanding temperatures up to 80 °C (176 °F), was found in the 1980s, and a scaly-foot gastropod Chrysomallon squamiferum in 2001 during an expedition to the Indian Ocean 's Kairei hydrothermal vent field . The latter uses iron sulfides ( pyrite and greigite) for the structure of its dermal sclerites (hardened body parts), instead of calcium carbonate . The extreme pressure of 2,500 m of water (approximately 25 megapascals or 250 atmospheres ) is thought to play a role in stabilizing iron sulfide for biological purposes. This armor plating probably serves as a defense against the venomous radula (teeth) of predatory snails in that community. In March 2017, researchers reported evidence of possibly the oldest forms of life on Earth . Putative fossilized microorganisms were discovered in hydrothermal vent precipitates in the Nuvvuagittuq Belt of Quebec, Canada , that may have lived as early as 4.280 billion years ago , not long after the oceans formed 4.4 billion years ago , and not long after the formation of the Earth 4.54 billion years ago. [35] [36] [37]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MARUM_Schwarzer_Raucher_Fauna.jpg/220px-MARUM_Schwarzer_Raucher_Fauna.jpg",
+                "caption": "Living community at hydrothermal seeps on the Mid-Ocean Ridge at a water depth of 3,030 m (9,940 ft)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Riftia_tube_worm_colony_Galapagos_2011.jpg/220px-Riftia_tube_worm_colony_Galapagos_2011.jpg",
+                "caption": "Giant tube worms ( Riftia pachyptila ) cluster around vents in the Galapagos Rift ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Expl1534_%289734552643%29.jpg/220px-Expl1534_%289734552643%29.jpg",
+                "caption": "Swarms of small synaphobranchid eels, Dysommina rugosa , live in the crevices on the summit of Nafanua. Scientists dubbed this site \"Eel City\"."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Sully_Vent.jpg/220px-Sully_Vent.jpg",
+                "caption": "Giant tube worms at the base of a hydrothermal mount"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Fauna_on_hydrothermal_vents.jpg/220px-Fauna_on_hydrothermal_vents.jpg",
+                "caption": "Shrimp ( Alvinocaris ), a few squat lobsters, and hundreds of bivalves ( Bathymodiolus )"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Macrouridae.jpg/220px-Macrouridae.jpg",
+                "caption": "A Macrouridae next to an extinct smoker"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrothermal_vent",
+        "title": "Hydrothermal vent",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Animal-bacterial symbiosis",
+        "text": "Hydrothermal vent ecosystems have enormous biomass and productivity, but this rests on the symbiotic relationships that have evolved at vents. Deep-sea hydrothermal vent ecosystems differ from their shallow-water and terrestrial hydrothermal counterparts due to the symbiosis that occurs between macroinvertebrate hosts and chemoautotrophic microbial symbionts in the former. [38] Since sunlight does not reach deep-sea hydrothermal vents, organisms in deep-sea hydrothermal vents cannot obtain energy from the sun to perform photosynthesis. Instead, the microbial life found at hydrothermal vents is chemosynthetic; they fix carbon by using energy from chemicals such as sulfide, as opposed to light energy from the sun. In other words, the symbiont converts inorganic molecules (H 2 S, CO 2 , O) to organic molecules that the host then uses as nutrition. However, sulfide is an extremely toxic substance to most life on Earth. For this reason, scientists were astounded when they first found hydrothermal vents teeming with life in 1977. What was discovered was the ubiquitous symbiosis of chemoautotrophs living in ( endosymbiosis ) the vent animals' gills; the reason why multicellular life is capable to survive the toxicity of vent systems. Scientists are therefore now studying how the microbial symbionts aid in sulfide detoxification (therefore allowing the host to survive the otherwise toxic conditions). Work on microbiome function shows that host-associated microbiomes are also important in host development, nutrition, defense against predators, and detoxification. In return, the host provides the symbiont with chemicals required for chemosynthesis, such as carbon, sulfide, and oxygen. [ citation needed ] In the early stages of studying life at hydrothermal vents, there were differing theories regarding the mechanisms by which multicellular organisms were able to acquire nutrients from these environments, and how they were able to survive in such extreme conditions. In 1977, it was hypothesized that the chemoautotrophic bacteria at hydrothermal vents might be responsible for contributing to the diet of suspension-feeding bivalves. [39] Finally, in 1981, it was understood that giant tubeworm nutrition acquisition occurred as a result of chemoautotrophic bacterial endosymbionts. [40] [41] [42] As scientists continued to study life at hydrothermal vents, it was understood that symbiotic relationships between chemoautotrophs and macrofauna invertebrate species was ubiquitous. For instance, in 1983, clam gill tissue was confirmed to contain bacterial endosymbionts; [43] in 1984 vent bathymodiolid mussels and vesicomyid clams were also found to carry endosymbionts. [44] [45] However, the mechanisms by which organisms acquire their symbionts differ, as do the metabolic relationships. For instance, tubeworms have no mouth and no gut, but they do have a \"trophosome\", which is where they deal with nutrition and where their endosymbionts are found. They also have a bright red plume, which they use to uptake compounds such as O, H 2 S, and CO 2 , which feed the endosymbionts in their trophosome. Remarkably, the tubeworms hemoglobin (which incidentally is the reason for the bright red color of the plume) is capable of carrying oxygen without interference or inhibition from sulfide, despite the fact that oxygen and sulfide are typically very reactive. In 2005, it was discovered that this is possible due to zinc ions that bind the hydrogen sulfide in the tubeworms hemoglobin, therefore preventing the sulfide from reacting with the oxygen. It also reduces the tubeworms tissue from exposure to the sulfide and provides the bacteria with the sulfide to perform chemoautotrophy. [46] It has also been discovered that tubeworms can metabolize CO 2 in two different ways, and can alternate between the two as needed as environmental conditions change. [47] In 1988, research confirmed thiotrophic (sulfide-oxidizing) bacteria in Alviniconcha hessleri , a large vent mollusk. [48] In order to circumvent the toxicity of sulfide, mussels first convert it to thiosulfate before carrying it over to the symbionts. [49] In the case of motile organisms such as alvinocarid shrimp, they must track oxic (oxygen-rich) / anoxic (oxygen-poor) environments as they fluctuate in the environment. [ citation needed ] Organisms living at the edge of hydrothermal vent fields, such as pectinid scallops, also carry endosymbionts in their gills, and as a result their bacterial density is low relative to organisms living nearer to the vent. However, the scallop's dependence on the microbial endosymbiont for obtaining their nutrition is therefore also lessened. [ citation needed ] Furthermore, not all host animals have endosymbionts; some have episymbionts—symbionts living on the animal as opposed to inside the animal. Shrimp found at vents in the Mid-Atlantic Ridge were once thought of as an exception to the necessity of symbiosis for macroinvertebrate survival at vents. That changed in 1988 when they were discovered to carry episymbionts. [50] Since then, other organisms at vents have been found to carry episymbionts as well, [51] such as Lepetodrilis fucensis. [52] Furthermore, while some symbionts reduce sulfur compounds, others are known as \" methanotrophs \" and reduce carbon compounds, namely methane. Bathmodiolid mussels are an example of a host that contains methanotrophic endosymbionts; however, the latter mostly occur in cold seeps as opposed to hydrothermal vents. [ citation needed ] While chemosynthesis occurring at the deep ocean allows organisms to live without sunlight in the immediate sense, they technically still rely on the sun for survival, since oxygen in the ocean is a byproduct of photosynthesis. However, if the sun were to suddenly disappear and photosynthesis ceased to occur on our planet, life at the deep-sea hydrothermal vents could continue for millennia (until the oxygen was depleted). [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dense_mass_of_anomuran_crab_Kiwa_around_deep-sea_hydrothermal_vent.jpg/220px-Dense_mass_of_anomuran_crab_Kiwa_around_deep-sea_hydrothermal_vent.jpg",
+                "caption": "A dense fauna ( Kiwa anomurans and Vulcanolepas -like stalked barnacles) near East Scotia Ridge vents"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrothermal_vent",
+        "title": "Hydrothermal vent",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Discovery and exploration",
+        "text": "In 1949, a deep water survey reported anomalously hot brines in the central portion of the Red Sea . Later work in the 1960s confirmed the presence of hot, 60 °C (140 °F), saline brines and associated metalliferous muds. The hot solutions were emanating from an active subseafloor rift . The highly saline character of the waters was not hospitable to living organisms. [86] The brines and associated muds are currently under investigation as a source of mineable precious and base metals. In June 1976, scientists from the Scripps Institution of Oceanography obtained the first evidence for submarine hydrothermal vents along the Galápagos Rift, a spur of the East Pacific Rise , on the Pleiades II expedition, using the Deep-Tow seafloor imaging system. [87] In 1977, the first scientific papers on hydrothermal vents were published [88] by scientists from the Scripps Institution of Oceanography ; research scientist Peter Lonsdale published photographs taken from deep-towed cameras, [89] and PhD student Kathleen Crane published maps and temperature anomaly data. [90] Transponders were deployed at the site, which was nicknamed \"Clam-bake\", to enable an expedition to return the following year for direct observations with the DSV Alvin . Chemosynthetic ecosystems surrounding the Galápagos Rift submarine hydrothermal vents were first directly observed in 1977, when a group of marine geologists funded by the National Science Foundation returned to the Clambake sites. The principal investigator for the submersible study was Jack Corliss of Oregon State University . Corliss and Tjeerd van Andel from Stanford University observed and sampled the vents and their ecosystem on February 17, 1977, while diving in the DSV Alvin , a research submersible operated by the Woods Hole Oceanographic Institution (WHOI). [91] Other scientists on the research cruise included Richard (Dick) Von Herzen and Robert Ballard of WHOI, Jack Dymond and Louis Gordon of Oregon State University, John Edmond and Tanya Atwater of the Massachusetts Institute of Technology , Dave Williams of the U.S. Geological Survey , and Kathleen Crane of Scripps Institution of Oceanography . [91] [92] This team published their observations of the vents, organisms, and the composition of the vent fluids in the journal Science. [93] In 1979, a team of biologists led by J. Frederick Grassle, at the time at WHOI , returned to the same location to investigate the biological communities discovered two year earlier. High temperature hydrothermal vents, the \"black smokers\", were discovered in spring 1979 by a team from the Scripps Institution of Oceanography using the submersible Alvin . The RISE expedition explored the East Pacific Rise at 21° N with the goals of testing geophysical mapping of the sea floor with the Alvin and finding another hydrothermal field beyond the Galápagos Rift vents. The expedition was led by Fred Spiess and Ken Macdonald and included participants from the U.S., Mexico and France. [17] The dive region was selected based on the discovery of sea floor mounds of sulfide minerals by the French CYAMEX expedition in 1978. [94] Prior to dive operations, expedition member Robert Ballard located near-bottom water temperature anomalies using a deeply towed instrument package. The first dive was targeted at one of those anomalies. On Easter Sunday April 15, 1979 during a dive of Alvin to 2,600 meters, Roger Larson and Bruce Luyendyk found a hydrothermal vent field with a biological community similar to the Galápagos vents. On a subsequent dive on April 21, William Normark and Thierry Juteau discovered the high temperature vents emitting black mineral particle jets from chimneys; the black smokers. [95] Following this Macdonald and Jim Aiken rigged a temperature probe to Alvin to measure the water temperature at the black smoker vents. This observed the highest temperatures then recorded at deep sea hydrothermal vents (380±30 °C). [96] Analysis of black smoker material and the chimneys that fed them revealed that iron sulfide precipitates are the common minerals in the \"smoke\" and walls of the chimneys. [97] In 2005, Neptune Resources NL, a mineral exploration company, applied for and was granted 35,000 km 2 of exploration rights over the Kermadec Arc in New Zealand 's Exclusive Economic Zone to explore for seafloor massive sulfide deposits , a potential new source of lead - zinc - copper sulfides formed from modern hydrothermal vent fields. The discovery of a vent in the Pacific Ocean offshore of Costa Rica , named the Medusa hydrothermal vent field (after the serpent-haired Medusa of Greek mythology ), was announced in April 2007. [98] The Ashadze hydrothermal field (13°N on the Mid-Atlantic Ridge, elevation -4200 m) was the deepest known high-temperature hydrothermal field until 2010, when a hydrothermal plume emanating from the Beebe [99] site ( 18°33′N 81°43′W ﻿ / ﻿ 18.550°N 81.717°W ﻿ / 18.550; -81.717 , elevation -5000 m) was detected by a group of scientists from NASA Jet Propulsion Laboratory and Woods Hole Oceanographic Institution . This site is located on the 110 km long, ultraslow spreading Mid-Cayman Rise within the Cayman Trough . [100] In early 2013, the deepest known hydrothermal vents were discovered in the Caribbean Sea at a depth of almost 5,000 metres (16,000 ft). [101] Oceanographers are studying the volcanoes and hydrothermal vents of the Juan de Fuca mid ocean ridge where tectonic plates are moving away from each other. [102] Hydrothermal vents and other geothermal manifestations are currently being explored in the Bahía de Concepción, Baja California Sur, Mexico. [103]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BlackSmoker.jpg/220px-BlackSmoker.jpg",
+                "caption": "Black smokers were first discovered in 1979 on the East Pacific Rise at 21° north latitude."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ALVIN_submersible.jpg/220px-ALVIN_submersible.jpg",
+                "caption": "Alvin in 1978, a year after first exploring hydrothermal vents. The rack hanging at the bow holds sample containers."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Brothers_blacksmoker_hires.jpg/220px-Brothers_blacksmoker_hires.jpg",
+                "caption": "A black smoker known as The Brothers"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrothermal_vent",
+        "title": "Hydrothermal vent",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Distribution",
+        "text": "Hydrothermal vents are distributed along the Earth's plate boundaries, although they may also be found at intra-plate locations such as hotspot volcanoes. As of 2009 there were approximately 500 known active submarine hydrothermal vent fields, with about half visually observed at the seafloor and the other half suspected from water column indicators and/or seafloor deposits. [104] Rogers et al. (2012) [105] recognized at least 11 biogeographic provinces of hydrothermal vent systems:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Distribution_of_hydrothermal_vent_fields.png/440px-Distribution_of_hydrothermal_vent_fields.png",
+                "caption": "Distribution of hydrothermal vents"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrothermal_vent",
+        "title": "Hydrothermal vent",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Exploitation",
+        "text": "Hydrothermal vents, in some instances, have led to the formation of exploitable mineral resources via the deposition of seafloor massive sulfide deposits . The Mount Isa orebody, located in Queensland , Australia , is an excellent example. [106] Many hydrothermal vents are rich in cobalt , gold , copper , and rare earth metals essential for electronic components. [107] Hydrothermal venting on the Archean seafloor is considered to have formed Algoma-type banded iron formations , which have been a source of iron ore . [108] Recently, mineral exploration companies, driven by the elevated price activity in the base metals sector during the mid-2000s, have turned their attention to the extraction of mineral resources from hydrothermal fields on the seafloor. Significant cost reductions are, in theory, possible. [109] In countries such as Japan , where mineral resources are primarily derived from international imports, [110] there is a particular push for the extraction of seafloor mineral resources. [111] The world's first \"large-scale\" mining of hydrothermal vent mineral deposits was carried out by Japan Oil, Gas and Metals National Corporation (JOGMEC) in August – September, 2017. JOGMEC carried out this operation using the Research Vessel Hakurei . This mining was carried out at the 'Izena hole/cauldron' vent field within the hydrothermally active back-arc basin known as the Okinawa Trough , which contains 15 confirmed vent fields according to the InterRidge Vents Database. Two companies are currently engaged in the late stages of commencing to mine seafloor massive sulfides (SMS). Nautilus Minerals is in the advanced stages of commencing extraction from its Solwarra deposit, in the Bismarck Archipelago , and Neptune Minerals is at an earlier stage with its Rumble II West deposit, located on the Kermadec Arc , near the Kermadec Islands . Both companies are proposing using modified existing technology. Nautilus Minerals, in partnership with Placer Dome (now part of Barrick Gold ), succeeded in 2006 in returning over 10 metric tons of mined SMS to the surface using modified drum cutters mounted on an ROV, a world first. [112] Neptune Minerals in 2007 succeeded in recovering SMS sediment samples using a modified oil industry suction pump mounted on an ROV, also a world first. [113] Potential seafloor mining has environmental impacts, including dust plumes from mining machinery affecting filter-feeding organisms, [107] collapsing or reopening vents, methane clathrate release, or even sub-oceanic land slides. [114] There are also potential environmental effects from the tools needed for mining these hydrothermal vent ecosystems, including noise pollution and anthropogenic light. Hydrothermal vent system mining would require the use of both submerged mining tools on the seafloor, including remotely operated underwater vehicles (ROVs), as well as surface support vessels on the ocean surface. [115] Inevitably, through the operation of these machines, some level of noise will be created, which presents a problem for hydrothermal vent organisms because, as they are up to 12,000 feet below the surface of the ocean, they experience very little sound. [115] As a result of this, these organisms have evolved to have highly sensitive hearing organs, so if there is a sudden increase in noise, such as that created by mining machinery, there is potential to damage these auditory organs and harm the vent organisms. [115] It is also important to consider that many studies have been able to show that a large percent of benthic organisms communicate using very low-frequency sounds; therefore, increasing ambient noise levels on the seafloor could potentially mask communication between the organisms and alter behavioral patterns. [115] Similar to how deep-sea SMS mining tools create noise pollution, they also create anthropogenic light sources on the seafloor (from mining tools) and the ocean surface (from surface support vessels). Organisms at these hydrothermal vent systems are in the aphotic zone of the ocean and have adapted to very low light conditions. Studies on deep sea shrimp have shown the potential for flood lights used on the sea floor used in studying the vent systems to cause permanent retinal damage, [115] warranting further research into the potential risk to other vent organisms. On top of the risk presented to deep-sea organisms, the surface support vessels use nocturnal anthropogenic lighting. [115] Research has shown that this type of lighting on the ocean surface can disorient seabirds and cause fallout, where they fly toward the anthropogenic light and become exhausted or collide with man-made objects, resulting in injury or death. [115] There is consideration for both aquatic and land organisms when evaluating the environmental effects of hydrothermal vent mining. There are three mining waste processes, known as the side cast sediment release, dewatering process, and sediment shift or disturbance, that would be expected with the deep-sea mining processes and could result in the accumulation of a sediment plume or cloud, which can have substantial environmental implications. The side cast sediment release is a process that would occur at the seafloor and would involve the move of material at the seafloor by the submerged ROV's and would most likely contribute to the formation of sediment plumes at the seafloor. [115] The idea of side cast release is that the ROV's would discard economically invaluable material to the side of the mining sight before transporting the sulfide material to the supporting vessel at the surface. The goal of this process is to reduce the amount of material being transferred to the surface and minimize land-based. [115] The dewatering process is a mining waste process that would most likely contribute to the formation of sediment plumes from the surface. The method of mine waste disposal releases water from the ship that may have been obtained during the extraction and transport of the material from the seafloor to the surface. The third contribution to the formation of the sediment plume or cloud would be sediment disturbance and release. This mining waste contribution is mainly associated with the mining activity on the seafloor associated with the movement of the ROVs and the destructive disturbance of the seafloor as part of the mining process itself. [115] The two main environmental concerns as a result of these waste mining processes that contribute to the formation of the sediment plume would be the release of heavy metals and increased amounts of sediment released. The release of heavy metals is mainly associated with the dewatering process that would take place on board the ship at the surface of the water. [115] The main problem associated with dewatering is that it is not just the release of seawater re-entering the water column. Heavy metals such as copper and cobalt that would be sourced from the material extracted on the seafloor are also mixed in with the water that is released into the water column. The first environmental concern associated with the release of heavy metals is that it has the potential to change ocean chemistry within that localized water column area. The second concern would be that some of the heavy metals that could be released can have some level of toxicity to not only organisms inhabiting that area but also organisms passing through the mining site area. [115] The concerns surrounding increased sediment release are mainly related to the other two mining waste processes, side cast sediment and seafloor sediment disturbance. The main environmental concern would be the smothering of organisms below as a result of redistributing large amounts of sediment to other areas on the seafloor, which could potentially threaten the population of organisms inhabiting the area. Redistribution of large quantities of sediment can also affect the feeding and gas exchange processes between organisms, posing a serious threat to the population. Finally, these processes can also increase the sedimentation rate on the seafloor, resulting in a predicted minimum of 500 m per every 1–10 km. [115] A large amount of work is currently being engaged in by both of the above-mentioned companies to ensure that the potential environmental impacts of seafloor mining are well understood and control measures are implemented before exploitation commences. [116] However, this process has been arguably hindered by the disproportionate distribution of research effort among vent ecosystems; the best studied and understood hydrothermal vent ecosystems are not representative of those targeted for mining. [117] Attempts have been made in the past to exploit minerals from the seafloor. The 1960s and 1970s saw a great deal of activity (and expenditure) in the recovery of manganese nodules from the abyssal plains , with varying degrees of success. This does demonstrate, however, that the recovery of minerals from the seafloor is possible and has been possible for some time. Mining of manganese nodules served as a cover story for the elaborate attempt in 1974 by the CIA to raise the sunken Soviet submarine K-129 using the Glomar Explorer , a ship purpose-built for the task by Howard Hughes . [118] The operation was known as Project Azorian , and the cover story of seafloor mining of manganese nodules may have served as the impetus to propel other companies to make the attempt.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Minerals_sediments.jpg/220px-Minerals_sediments.jpg",
+                "caption": "Hydrothermal fluids contain dissolved minerals that cool and react with seawater and then precipitate as sediment on the surrounding seabed."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Alvinocaris.jpg/220px-Alvinocaris.jpg",
+                "caption": "A swarm of shrimp from the genus Alvinocaris near a vent in the Pacific Ring of Fire"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrothermal_vent",
+        "title": "Hydrothermal vent",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Gemology",
+        "text": "Apatite is infrequently used as a gemstone . Transparent stones of clean color have been faceted, and chatoyant specimens have been cabochon -cut. [3] Chatoyant stones are known as cat's-eye apatite , [3] transparent green stones are known as asparagus stone , [3] and blue stones have been called moroxite . [35] If crystals of rutile have grown in the crystal of apatite, in the right light the cut stone displays a cat's-eye effect.  Major sources for gem apatite are [3] Brazil, Myanmar, and Mexico. Other sources include [3] Canada, Czech Republic, Germany, India, Madagascar, Mozambique, Norway, South Africa, Spain, Sri Lanka, and the United States.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Apatite_taill%C3%A9e.jpg/220px-Apatite_taill%C3%A9e.jpg",
+                "caption": "Faceted blue apatite, Brazil"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Apatite",
+        "title": "Apatite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Use as an ore mineral",
+        "text": "Apatite is occasionally found to contain significant amounts of rare-earth elements and can be used as an ore for those metals. [36] This is preferable to traditional rare-earth ores such as monazite , [37] as apatite is not very radioactive and does not pose an environmental hazard in mine tailings .\nHowever, apatite often contains uranium and its equally radioactive decay-chain nuclides. [38] [39] The town of Apatity in the Arctic North of Russia was named for its mining operations for these ores. Apatite is an ore mineral at the Hoidas Lake rare-earth project. [40]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Thin_section_microscopy_Siilinj%C3%A4rvi_R301_6170_apatite.jpg/220px-Thin_section_microscopy_Siilinj%C3%A4rvi_R301_6170_apatite.jpg",
+                "caption": "Apatite in photomicrographs of a thin section from the Siilinjärvi apatite mine . In cross-polarized light on left, plane-polarized light on right."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Siilinj%C3%A4rvi_S%C3%A4rkij%C3%A4rvi_pit.jpg/220px-Siilinj%C3%A4rvi_S%C3%A4rkij%C3%A4rvi_pit.jpg",
+                "caption": "An apatite mine in Siilinjärvi , Finland."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Apatite",
+        "title": "Apatite",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Rocks, ores, and gems",
+        "text": "A rock is an aggregate of one or more minerals [32] or mineraloids. Some rocks, such as limestone or quartzite , are composed primarily of one mineral – calcite or aragonite in the case of limestone, and quartz in the latter case. [33] [34] Other rocks can be defined by relative abundances of key (essential) minerals; a granite is defined by proportions of quartz, alkali feldspar , and plagioclase feldspar . [35] The other minerals in the rock are termed accessory minerals , and do not greatly affect the bulk composition of the rock. Rocks can also be composed entirely of non-mineral material; coal is a sedimentary rock composed primarily of organically derived carbon. [32] [36] In rocks, some mineral species and groups are much more abundant than others; these are termed the rock-forming minerals. The major examples of these are quartz, the feldspars , the micas , the amphiboles , the pyroxenes , the olivines , and calcite; except for the last one, all of these minerals are silicates. [37] Overall, around 150 minerals are considered particularly important, whether in terms of their abundance or aesthetic value in terms of collecting. [38] Commercially valuable minerals and rocks, other than gemstones, metal ores, or mineral fuels, are referred to as industrial minerals . [39] For example, muscovite , a white mica, can be used for windows (sometimes referred to as isinglass), as a filler, or as an insulator. [40] Ores are minerals that have a high concentration of a certain element, typically a metal. Examples are cinnabar (HgS), an ore of mercury; sphalerite (ZnS), an ore of zinc; cassiterite (SnO 2 ), an ore of tin; and colemanite , an ore of boron . Gems are minerals with an ornamental value, and are distinguished from non-gems by their beauty, durability, and usually, rarity. There are about 20 mineral species that qualify as gem minerals, which constitute about 35 of the most common gemstones. Gem minerals are often present in several varieties, and so one mineral can account for several different gemstones; for example, ruby and sapphire are both corundum , Al 2 O 3 . [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sillimanite-199671.jpg/170px-Sillimanite-199671.jpg",
+                "caption": "Schist is a metamorphic rock characterized by an abundance of platy minerals. In this example, the rock has prominent sillimanite porphyroblasts as large as 3 cm (1.2 in)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Chemistry",
+        "text": "The abundance and diversity of minerals is controlled directly by their chemistry, in turn dependent on elemental abundances in the Earth. The majority of minerals observed are derived from the Earth's crust . Eight elements account for most of the key components of minerals, due to their abundance in the crust. These eight elements, summing to over 98% of the crust by weight, are, in order of decreasing abundance: oxygen , silicon , aluminium , iron , magnesium , calcium , sodium and potassium . Oxygen and silicon are by far the two most important – oxygen composes 47% of the crust by weight, and silicon accounts for 28%. [44] The minerals that form are those that are most stable at the temperature and pressure of formation, within the limits imposed by the bulk chemistry of the parent body. [45] For example, in most igneous rocks, the aluminium and alkali metals (sodium and potassium) that are present are  primarily found in combination with oxygen, silicon, and calcium as feldspar minerals. However, if the rock is unusually rich in alkali metals, there will not be enough aluminium to combine with all the sodium as feldspar, and the excess sodium will form sodic amphiboles such as riebeckite . If the aluminium abundance is unusually high, the excess aluminium will form muscovite or other aluminium-rich minerals. [46] If silicon is deficient, part of the feldspar will be replaced by feldspathoid minerals. [47] Precise predictions of which minerals will be present in a rock of a particular composition formed at a particular temperature and pressure requires complex thermodynamic calculations. However, approximate estimates may be made using relatively simple rules of thumb , such as the CIPW norm , which gives reasonable estimates for volcanic rock formed from dry magma. [48] The chemical composition may vary between end member species of a solid solution series. For example, the plagioclase feldspars comprise a continuous series from sodium -rich end member albite (NaAlSi 3 O 8 ) to calcium -rich anorthite (CaAl 2 Si 2 O 8 ) with four recognized intermediate varieties between them (given in order from sodium- to calcium-rich): oligoclase , andesine , labradorite , and bytownite . [49] Other examples of series include the olivine series of magnesium-rich forsterite and iron-rich fayalite, and the wolframite series of manganese -rich hübnerite and iron-rich ferberite . [50] Chemical substitution and coordination polyhedra explain this common feature of minerals. In nature, minerals are not pure substances, and are contaminated by whatever other elements are present in the given chemical system. As a result, it is possible for one element to be substituted for another. [51] Chemical substitution will occur between ions of a similar size and charge; for example, K + will not substitute for Si 4+ because of chemical and structural incompatibilities caused by a big difference in size and charge. A common example of chemical substitution is that of Si 4+ by Al 3+ , which are close in charge, size, and abundance in the crust. In the example of plagioclase, there are three cases of substitution. Feldspars are all framework silicates, which have a silicon-oxygen ratio of 2:1, and the space for other elements is given by the substitution of Si 4+ by Al 3+ to give a base unit of [AlSi 3 O 8 ] − ; without the substitution, the formula would be charge-balanced as SiO 2 , giving quartz. [52] The significance of this structural property will be explained further by coordination polyhedra. The second substitution occurs between Na + and Ca 2+ ; however, the difference in charge has to accounted for by making a second substitution of Si 4+ by Al 3+ . [53] Coordination polyhedra are geometric representations of how a cation is surrounded by an anion. In mineralogy, coordination polyhedra are usually considered in terms of oxygen, due its abundance in the crust. The base unit of silicate minerals is the silica tetrahedron – one Si 4+ surrounded by four O 2− . An alternate way of describing the coordination of the silicate is by a number: in the case of the silica tetrahedron, the silicon is said to have a coordination number of 4. Various cations have a specific range of possible coordination numbers; for silicon, it is almost always 4, except for very high-pressure minerals where the compound is compressed such that silicon is in six-fold (octahedral) coordination with oxygen. Bigger cations have a bigger coordination numbers because of the increase in relative size as compared to oxygen (the last orbital subshell of heavier atoms is different too). Changes in coordination numbers leads to physical and mineralogical differences; for example, at high pressure, such as in the mantle , many minerals, especially silicates such as olivine and garnet , will change to a perovskite structure , where silicon is in octahedral coordination. Other examples are the aluminosilicates kyanite , andalusite , and sillimanite (polymorphs, since they share the formula Al 2 SiO 5 ), which differ by the coordination number of the Al 3+ ; these minerals transition from one another as a response to changes in pressure and temperature. [44] In the case of silicate materials, the substitution of Si 4+ by Al 3+ allows for a variety of minerals because of the need to balance charges. [54] Because the eight most common elements make up over 98% of the Earth's crust, the small quantities of the other elements that are typically present are substituted into the common rock-forming minerals. The distinctive minerals of most elements are quite rare, being found only where these elements have been concentrated by geological processes, such as hydrothermal circulation , to the point where they can no longer be accommodated in common minerals. [55] Changes in temperature and pressure and composition alter the mineralogy of a rock sample. Changes in composition can be caused by processes such as weathering or metasomatism ( hydrothermal alteration ). Changes in temperature and pressure occur when the host rock undergoes tectonic or magmatic movement into differing physical regimes. Changes in thermodynamic conditions make it favourable for mineral assemblages to react with each other to produce new minerals; as such, it is possible for two rocks to have an identical or a very similar bulk rock chemistry without having a similar mineralogy. This process of mineralogical alteration is related to the rock cycle . An example of a series of mineral reactions is illustrated as follows. [56] Orthoclase feldspar (KAlSi 3 O 8 ) is a mineral commonly found in granite , a plutonic igneous rock . When exposed to weathering, it reacts to form kaolinite (Al 2 Si 2 O 5 (OH) 4 , a sedimentary mineral, and silicic acid ): Under low-grade metamorphic conditions, kaolinite reacts with quartz to form pyrophyllite (Al 2 Si 4 O 10 (OH) 2 ): As metamorphic grade increases, the pyrophyllite reacts to form kyanite and quartz: Alternatively, a mineral may change its crystal structure as a consequence of changes in temperature and pressure without reacting. For example, quartz will change into a variety of its SiO 2 polymorphs , such as tridymite and cristobalite at high temperatures, and coesite at high pressures. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hubnerite-Quartz-216455.jpg/170px-Hubnerite-Quartz-216455.jpg",
+                "caption": "Hübnerite , the manganese-rich end-member of the wolframite series, with minor quartz in the background"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kaolinite-Orthoclase-lw18c.jpg/220px-Kaolinite-Orthoclase-lw18c.jpg",
+                "caption": "When minerals react, the products will sometimes assume the shape of the reagent; the product mineral is termed a pseudomorph of (or after) the reagent. Illustrated here is a pseudomorph of kaolinite after orthoclase . Here, the pseudomorph preserved the Carlsbad twinning common in orthoclase."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Crystal structure and habit",
+        "text": "Crystal structure results from the orderly geometric spatial arrangement of atoms in the internal structure of a mineral. This crystal structure is based on regular internal atomic or ionic arrangement that is often expressed in the geometric form that the crystal takes. Even when the mineral grains are too small to see or are irregularly shaped, the underlying crystal structure is always periodic and can be determined by X-ray diffraction. [13] Minerals are typically described by their symmetry content. Crystals are restricted to 32 point groups , which differ by their symmetry. These groups are classified in turn into more broad categories, the most encompassing of these being the six crystal families. [59] These families can be described by the relative lengths of the three crystallographic axes, and the angles between them; these relationships correspond to the symmetry operations that define the narrower point groups. They are summarized below; a, b, and c represent the axes, and α, β, γ represent the angle opposite the respective crystallographic axis (e.g. α is the angle opposite the a-axis, viz. the angle between the b and c axes): [59] The hexagonal crystal family is also split into two crystal systems – the trigonal , which has a three-fold axis of symmetry, and the hexagonal, which has a six-fold axis of symmetry. Chemistry and crystal structure together define a mineral. With a restriction to 32 point groups, minerals of different chemistry may have identical crystal structure. For example, halite (NaCl), galena (PbS), and periclase (MgO) all belong to the hexaoctahedral point group (isometric family), as they have a similar stoichiometry between their different constituent elements. In contrast, polymorphs are groupings of minerals that share a chemical formula but have a different structure. For example, pyrite and marcasite , both iron sulfides, have the formula FeS 2 ; however, the former is isometric while the latter is orthorhombic. This polymorphism extends to other sulfides with the generic AX 2 formula; these two groups are collectively known as the pyrite and marcasite groups. [60] Polymorphism can extend beyond pure symmetry content. The aluminosilicates are a group of three minerals – kyanite , andalusite , and sillimanite – which share the chemical formula Al 2 SiO 5 . Kyanite is triclinic, while andalusite and sillimanite are both orthorhombic and belong to the dipyramidal point group. These differences arise corresponding to how aluminium is coordinated within the crystal structure. In all minerals, one aluminium ion is always in six-fold coordination with oxygen. Silicon, as a general rule, is in four-fold coordination in all minerals; an exception is a case like stishovite (SiO 2 , an ultra-high pressure quartz polymorph with rutile structure). [61] In kyanite, the second aluminium is in six-fold coordination; its chemical formula can be expressed as Al [6] Al [6] SiO 5 , to reflect its crystal structure. Andalusite has the second aluminium in five-fold coordination (Al [6] Al [5] SiO 5 ) and sillimanite has it in four-fold coordination (Al [6] Al [4] SiO 5 ). [62] Differences in crystal structure and chemistry greatly influence other physical properties of the mineral. The carbon allotropes diamond and graphite have vastly different properties; diamond is the hardest natural substance, has an adamantine lustre, and belongs to the isometric crystal family, whereas graphite is very soft, has a greasy lustre, and crystallises in the hexagonal family. This difference is accounted for by differences in bonding. In diamond, the carbons are in sp 3 hybrid orbitals, which means they form a framework where each carbon is covalently bonded to four neighbours in a tetrahedral fashion; on the other hand, graphite is composed of sheets of carbons in sp 2 hybrid orbitals, where each carbon is bonded covalently to only three others. These sheets are held together by much weaker van der Waals forces , and this discrepancy translates to large macroscopic differences. [63] Twinning is the intergrowth of two or more crystals of a single mineral species. The geometry of the twinning is controlled by the mineral's symmetry. As a result, there are several types of twins, including contact twins, reticulated twins, geniculated twins, penetration twins, cyclic twins, and polysynthetic twins. Contact, or simple twins, consist of two crystals joined at a plane; this type of twinning is common in spinel. Reticulated twins, common in rutile, are interlocking crystals resembling netting. Geniculated twins have a bend in the middle that is caused by start of the twin. Penetration twins consist of two single crystals that have grown into each other; examples of this twinning include cross-shaped staurolite twins and Carlsbad twinning in orthoclase. Cyclic twins are caused by repeated twinning around a rotation axis. This type of twinning occurs around three, four, five, six, or eight-fold axes, and the corresponding patterns are called threelings, fourlings, fivelings , sixlings, and eightlings. Sixlings are common in aragonite. Polysynthetic twins are similar to cyclic twins through the presence of repetitive twinning; however, instead of occurring around a rotational axis, polysynthetic twinning occurs along parallel planes, usually on a microscopic scale. [64] [65] Crystal habit refers to the overall shape of crystal. Several terms are used to describe this property. Common habits include acicular, which describes needlelike crystals as in natrolite , bladed, dendritic (tree-pattern, common in native copper ), equant, which is typical of garnet, prismatic (elongated in one direction), and tabular, which differs from bladed habit in that the former is platy whereas the latter has a defined elongation. Related to crystal form, the quality of crystal faces is diagnostic of some minerals, especially with a petrographic microscope. Euhedral crystals have a defined external shape, while anhedral crystals do not; those intermediate forms are termed subhedral. [66] [67]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Topaz-235220.jpg/220px-Topaz-235220.jpg",
+                "caption": "Topaz has a characteristic orthorhombic elongated crystal shape."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Spinel-4mb4c.jpg/220px-Spinel-4mb4c.jpg",
+                "caption": "Contact twins, as seen in spinel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Hardness",
+        "text": "The hardness of a mineral defines how much it can resist scratching or indentation. This physical property is controlled by the chemical composition and crystalline structure of a mineral. The most commonly used scale of measurement is the ordinal Mohs hardness scale, which measures resistance to scratching. Defined by ten indicators, a mineral with a higher index scratches those below it. The scale ranges from talc, a phyllosilicate , to diamond, a carbon polymorph that is the hardest natural material. The scale is provided below: [68] A mineral's hardness is a function of its structure. Hardness is not necessarily constant for all crystallographic directions; crystallographic weakness renders some directions softer than others. [68] An example of this hardness variability exists in kyanite, which has a Mohs hardness of 5 1 ⁄ 2 parallel to [001] but 7 parallel to [100] . [69] Other scales include these; [70]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Rough_diamond.jpg/220px-Rough_diamond.jpg",
+                "caption": "Diamond is the hardest natural material, and has a Mohs hardness of 10."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mohs-Hardness-Graph.svg/220px-Mohs-Hardness-Graph.svg.png",
+                "caption": "Mohs Scale versus Absolute Hardness"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Lustre and diaphaneity",
+        "text": "Lustre indicates how light reflects from the mineral's surface, with regards to its quality and intensity. There are numerous qualitative terms used to describe this property, which are split into metallic and non-metallic categories. Metallic and sub-metallic minerals have high reflectivity like metal; examples of minerals with this lustre are galena and pyrite. Non-metallic lustres include: adamantine, such as in diamond ; vitreous, which is a glassy lustre very common in silicate minerals; pearly, such as in talc and apophyllite ; resinous, such as members of the garnet group; silky which is common in fibrous minerals such as asbestiform chrysotile . [72] The diaphaneity of a mineral describes the ability of light to pass through it. Transparent minerals do not diminish the intensity of light passing through them. An example of a transparent mineral is muscovite (potassium mica); some varieties are sufficiently clear to have been used for windows. Translucent minerals allow some light to pass, but less than those that are transparent. Jadeite and nephrite (mineral forms of jade are examples of minerals with this property). Minerals that do not allow light to pass are called opaque. [73] [74] The diaphaneity of a mineral depends on the thickness of the sample. When a mineral is sufficiently thin (e.g., in a thin section for petrography ), it may become transparent even if that property is not seen in a hand sample. In contrast, some minerals, such as hematite or pyrite, are opaque even in thin-section. [74]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Pyrite_2.jpg/220px-Pyrite_2.jpg",
+                "caption": "Pyrite has a metallic lustre."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Colour and streak",
+        "text": "Colour is the most obvious property of a mineral, but it is often non-diagnostic. [75] It is caused by electromagnetic radiation interacting with electrons (except in the case of incandescence , which does not apply to minerals). [76] Two broad classes of elements (idiochromatic and allochromatic) are defined with regards to their contribution to a mineral's colour: Idiochromatic elements are essential to a mineral's composition; their contribution to a mineral's colour is diagnostic. [73] [77] Examples of such minerals are malachite (green) and azurite (blue). In contrast, allochromatic elements in minerals are present in trace amounts as impurities. An example of such a mineral would be the ruby and sapphire varieties of the mineral corundum . [77] The colours of pseudochromatic minerals are the result of interference of light waves. Examples include labradorite and bornite . In addition to simple body colour, minerals can have various other distinctive optical properties, such as play of colours, asterism , chatoyancy , iridescence , tarnish, and pleochroism . Several of these properties involve variability in colour. Play of colour, such as in opal , results in the sample reflecting different colours as it is turned, while pleochroism describes the change in colour as light passes through a mineral in a different orientation. Iridescence is a variety of the play of colours where light scatters off a coating on the surface of crystal, cleavage planes, or off layers having minor gradations in chemistry. [78] In contrast, the play of colours in opal is caused by light refracting from ordered microscopic silica spheres within its physical structure. [79] Chatoyancy (\"cat's eye\") is the wavy banding of colour that is observed as the sample is rotated; asterism, a variety of chatoyancy, gives the appearance of a star on the mineral grain. The latter property is particularly common in gem-quality corundum. [78] [79] The streak of a mineral refers to the colour of a mineral in powdered form, which may or may not be identical to its body colour. [77] The most common way of testing this property is done with a streak plate, which is made out of porcelain and coloured either white or black. The streak of a mineral is independent of trace elements [73] or any weathering surface. [77] A common example of this property is illustrated with hematite , which is coloured black, silver, or red in hand sample, but has a cherry-red [73] to reddish-brown streak. [77] Streak is more often distinctive for metallic minerals, in contrast to non-metallic minerals whose body colour is created by allochromatic elements. [73] Streak testing is constrained by the hardness of the mineral, as those harder than 7 powder the streak plate instead. [77]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Quartz-Uvarovite-LTH15C.JPG/150px-Quartz-Uvarovite-LTH15C.JPG",
+                "caption": "Colour is typically not a diagnostic property of minerals. Shown are green uvarovite (left) and red-pink grossular (right), both garnets . The diagnostic features would include dodecahedral crystals, resinous lustre, and hardness around 7."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Cleavage, parting, fracture, and tenacity",
+        "text": "By definition, minerals have a characteristic atomic arrangement. Weakness in this crystalline structure causes planes of weakness, and the breakage of a mineral along such planes is termed cleavage. The quality of cleavage can be described based on how cleanly and easily the mineral breaks; common descriptors, in order of decreasing quality, are \"perfect\", \"good\", \"distinct\", and \"poor\". In particularly transparent minerals, or in thin-section, cleavage can be seen as a series of parallel lines marking the planar surfaces when viewed from the side. Cleavage is not a universal property among minerals; for example, quartz, consisting of extensively interconnected silica tetrahedra, does not have a crystallographic weakness which would allow it to cleave. In contrast, micas, which have perfect basal cleavage, consist of sheets of silica tetrahedra which are very weakly held together. [80] [81] As cleavage is a function of crystallography, there are a variety of cleavage types. Cleavage occurs typically in either one, two, three, four, or six directions. Basal cleavage in one direction is a distinctive property of the micas . Two-directional cleavage is described as prismatic, and occurs in minerals such as the amphiboles and pyroxenes. Minerals such as galena or halite have cubic (or isometric) cleavage in three directions, at 90°; when three directions of cleavage are present, but not at 90°, such as in calcite or rhodochrosite , it is termed rhombohedral cleavage. Octahedral cleavage (four directions) is present in fluorite and diamond, and sphalerite has six-directional dodecahedral cleavage. [80] [81] Minerals with many cleavages might not break equally well in all of the directions; for example, calcite has good cleavage in three directions, but gypsum has perfect cleavage in one direction, and poor cleavage in two other directions. Angles between cleavage planes vary between minerals. For example, as the amphiboles are double-chain silicates and the pyroxenes are single-chain silicates, the angle between their cleavage planes is different. The pyroxenes cleave in two directions at approximately 90°, whereas the amphiboles distinctively cleave in two directions separated by approximately 120° and 60°. The cleavage angles can be measured with a contact goniometer, which is similar to a protractor. [80] [81] Parting, sometimes called \"false cleavage\", is similar in appearance to cleavage but is instead produced by structural defects in the mineral, as opposed to systematic weakness. Parting varies from crystal to crystal of a mineral, whereas all crystals of a given mineral will cleave if the atomic structure allows for that property. In general, parting is caused by some stress applied to a crystal. The sources of the stresses include deformation (e.g. an increase in pressure), exsolution, or twinning. Minerals that often display parting include the pyroxenes, hematite, magnetite, and corundum. [80] [82] When a mineral is broken in a direction that does not correspond to a plane of cleavage, it is termed to have been fractured. There are several types of uneven fracture. The classic example is conchoidal fracture, like that of quartz; rounded surfaces are created, which are marked by smooth curved lines. This type of fracture occurs only in very homogeneous minerals. Other types of fracture are fibrous, splintery, and hackly. The latter describes a break along a rough, jagged surface; an example of this property is found in native copper . [83] Tenacity is related to both cleavage and fracture. Whereas fracture and cleavage describes the surfaces that are created when a mineral is broken, tenacity describes how resistant a mineral is to such breaking. Minerals can be described as brittle, ductile, malleable, sectile, flexible, or elastic. [84]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Biotite-Orthoclase-229808.jpg/220px-Biotite-Orthoclase-229808.jpg",
+                "caption": "Perfect basal cleavage as seen in biotite (black), and good cleavage seen in the matrix (pink orthoclase )."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Specific gravity",
+        "text": "Specific gravity numerically describes the density of a mineral. The dimensions of density are mass divided by volume with units: kg/m 3 or g/cm 3 . Specific gravity is defined as the density of the mineral divided by the density of water at 4 °C and thus is a dimensionless quantity, identical in all unit systems. [85] It can be measured as the quotient of the mass of the sample and difference between the weight of the sample in air and its corresponding weight in water. Among most minerals, this property is not diagnostic. Rock forming minerals – typically silicates or occasionally carbonates – have a specific gravity of 2.5–3.5. [86] High specific gravity is a diagnostic property of a mineral. A variation in chemistry (and consequently, mineral class) correlates to a change in specific gravity. Among more common minerals, oxides and sulfides tend to have a higher specific gravity as they include elements with higher atomic mass. A generalization is that minerals with metallic or adamantine lustre tend to have higher specific gravities than those having a non-metallic to dull lustre. For example, hematite , Fe 2 O 3 , has a specific gravity of 5.26 [87] while galena , PbS, has a specific gravity of 7.2–7.6, [88] which is a result of their high iron and lead content, respectively. A very high specific gravity is characteristic of native metals ; for example, kamacite , an iron-nickel alloy common in iron meteorites has a specific gravity of 7.9, [89] and gold has an observed specific gravity between 15 and 19.3. [86] [90]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Calcite-Galena-elm56c.jpg/220px-Calcite-Galena-elm56c.jpg",
+                "caption": "Galena , PbS, is a mineral with a high specific gravity."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Other properties",
+        "text": "Other properties can be used to diagnose minerals. These are less general, and apply to specific minerals. Dropping dilute acid (often 10% HCl ) onto a mineral aids in distinguishing carbonates from other mineral classes. The acid reacts with the carbonate ([CO 3 ] 2− ) group, which causes the affected area to effervesce , giving off carbon dioxide gas. This test can be further expanded to test the mineral in its original crystal form or powdered form. An example of this test is done when distinguishing calcite from dolomite , especially within the rocks ( limestone and dolomite respectively). Calcite immediately effervesces in acid, whereas acid must be applied to powdered dolomite (often to a scratched surface in a rock), for it to effervesce. [91] Zeolite minerals will not effervesce in acid; instead, they become frosted after 5–10 minutes, and if left in acid for a day, they dissolve or become a silica gel . [92] Magnetism is a very conspicuous property of a few minerals. Among common minerals, magnetite exhibits this property strongly, and magnetism is also present, albeit not as strongly, in pyrrhotite and ilmenite . [91] Some minerals exhibit electrical properties – for example, quartz is piezoelectric – but electrical properties are rarely used as diagnostic criteria for minerals because of incomplete data and natural variation. [93] Minerals can also be tested for taste or smell. Halite , NaCl, is table salt; its potassium-bearing counterpart, sylvite , has a pronounced bitter taste. Sulfides have a characteristic smell, especially as samples are fractured, reacting, or powdered. [91] Radioactivity is a rare property found in minerals containing radioactive elements. The radioactive elements could be a defining constituent, such as uranium in uraninite , autunite , and carnotite , or present as trace impurities, as in zircon . The decay of a radioactive element damages the mineral crystal structure rendering it locally amorphous ( metamict state ); the optical result, termed a radioactive halo or pleochroic halo , is observable with various techniques, such as thin-section petrography . [91]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Carnotite-201050.jpg/220px-Carnotite-201050.jpg",
+                "caption": "Carnotite (yellow) is a radioactive uranium -bearing mineral."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Silicates",
+        "text": "The base unit of a silicate mineral is the [SiO 4 ] 4− tetrahedron. In the vast majority of cases, silicon is in four-fold or tetrahedral coordination with oxygen. In very high-pressure situations, silicon will be in six-fold or octahedral coordination, such as in the perovskite structure or the quartz polymorph stishovite (SiO 2 ). In the latter case, the mineral no longer has a silicate structure, but that of rutile (TiO 2 ), and its associated group, which are simple oxides. These silica tetrahedra are then polymerized to some degree to create various structures, such as one-dimensional chains, two-dimensional sheets, and three-dimensional frameworks. The basic silicate mineral where no polymerization of the tetrahedra has occurred requires other elements to balance out the base 4- charge. In other silicate structures, different combinations of elements are required to balance out the resultant negative charge. It is common for the Si 4+ to be substituted by  Al 3+ because of similarity in ionic radius and charge; in those cases, the [AlO 4 ] 5− tetrahedra form the same structures as do the unsubstituted tetrahedra, but their charge-balancing requirements are different. [102] The degree of polymerization can be described by both the structure formed and how many tetrahedral corners (or coordinating oxygens) are shared (for aluminium and silicon in tetrahedral sites): [103] [104] The silicate subclasses are described below in order of decreasing polymerization.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Aegirine-233494.jpg/220px-Aegirine-233494.jpg",
+                "caption": "Aegirine , an iron-sodium clinopyroxene, is part of the inosilicate subclass."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Tectosilicates",
+        "text": "Tectosilicates, also known as framework silicates, have the highest degree of polymerization. With all corners of a tetrahedra shared, the silicon:oxygen ratio becomes 1:2. Examples are quartz, the feldspars , feldspathoids , and the zeolites . Framework silicates tend to be particularly chemically stable as a result of strong covalent bonds. [105] Forming 12% of the Earth's crust, quartz (SiO 2 ) is the most abundant mineral species. It is characterized by its high chemical and physical resistivity. Quartz has several polymorphs, including tridymite and cristobalite at high temperatures, high-pressure coesite , and ultra-high pressure stishovite . The latter mineral can only be formed on Earth by meteorite impacts, and its structure has been compressed so much that it has changed from a silicate structure to that of rutile (TiO 2 ). The silica polymorph that is most stable at the Earth's surface is α-quartz. Its counterpart, β-quartz, is present only at high temperatures and pressures (changes to α-quartz below 573 °C at 1 bar). These two polymorphs differ by a \"kinking\" of bonds; this change in structure gives β-quartz greater symmetry than α-quartz, and they are thus also called high quartz (β) and low quartz (α). [100] [106] Feldspars are the most abundant group in the Earth's crust, at about 50%. In the feldspars, Al 3+ substitutes for Si 4+ , which creates a charge imbalance that must be accounted for by the addition of cations. The base structure becomes either [AlSi 3 O 8 ] − or [Al 2 Si 2 O 8 ] 2− There are 22 mineral species of feldspars, subdivided into two major subgroups – alkali and plagioclase – and two less common groups – celsian and banalsite . The alkali feldspars are most commonly in a series between potassium-rich orthoclase and sodium-rich albite ; in the case of plagioclase, the most common series ranges from albite to calcium-rich anorthite . Crystal twinning is common in feldspars, especially polysynthetic twins in plagioclase and Carlsbad twins in alkali feldspars. If the latter subgroup cools slowly from a melt, it forms exsolution lamellae because the two components – orthoclase and albite – are unstable in solid solution. Exsolution can be on a scale from microscopic to readily observable in hand-sample; perthitic texture forms when Na-rich feldspar exsolve in a K-rich host. The opposite texture (antiperthitic), where K-rich feldspar exsolves in a Na-rich host, is very rare. [107] Feldspathoids are structurally similar to feldspar, but differ in that they form in Si-deficient conditions, which allows for further substitution by Al 3+ . As a result, feldspathoids are almost never found in association with quartz. A common example of a feldspathoid is nepheline ((Na, K)AlSiO 4 ); compared to alkali feldspar, nepheline has an Al 2 O 3 :SiO 2 ratio of 1:2, as opposed to 1:6 in alkali feldspar. [108] Zeolites often have distinctive crystal habits, occurring in needles, plates, or blocky masses. They form in the presence of water at low temperatures and pressures, and have channels and voids in their structure. Zeolites have several industrial applications, especially in waste water treatment. [109]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Natroliteinde1.jpg/250px-Natroliteinde1.jpg",
+                "caption": "Natrolite is a mineral series in the zeolite group; this sample has a very prominent acicular crystal habit."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Phyllosilicates",
+        "text": "Phyllosilicates consist of sheets of polymerized tetrahedra. They are bound at three oxygen sites, which gives a characteristic silicon:oxygen ratio of 2:5. Important examples include the mica , chlorite , and the kaolinite - serpentine groups. In addition to the tetrahedra, phyllosilicates have a sheet of octahedra (elements in six-fold coordination by oxygen) that balance out the basic tetrahedra, which have a negative charge (e.g. [Si 4 O 10 ] 4− ) These tetrahedra (T) and octahedra (O) sheets are stacked in a variety of combinations to create phyllosilicate layers. Within an octahedral sheet, there are three octahedral sites in a unit structure; however, not all of the sites may be occupied. In that case, the mineral is termed dioctahedral, whereas in other case it is termed trioctahedral. [110] The layers are weakly bound by van der Waals forces , hydrogen bonds , or sparse ionic bonds , which causes a crystallographic weakness, in turn leading to a prominent basal cleavage among the phyllosilicates. [111] The kaolinite-serpentine group consists of T-O stacks (the 1:1 clay minerals); their hardness ranges from 2 to 4, as the sheets are held by hydrogen bonds. The 2:1 clay minerals (pyrophyllite-talc) consist of T-O-T stacks, but they are softer (hardness from 1 to 2), as they are instead held together by van der Waals forces. These two groups of minerals are subgrouped by octahedral occupation; specifically, kaolinite and pyrophyllite are dioctahedral whereas serpentine and talc trioctahedral. [112] Micas are also T-O-T-stacked phyllosilicates, but differ from the other T-O-T and T-O-stacked subclass members in that they incorporate aluminium into the tetrahedral sheets (clay minerals have Al 3+ in octahedral sites). Common examples of micas are muscovite , and the biotite series. Mica T-O-T layers are bonded together by metal ions, giving them a greater hardness than other phyllosilicate minerals, though they retain perfect basal cleavage. [113] The chlorite group is related to mica group, but a brucite -like (Mg(OH) 2 ) layer between the T-O-T stacks. [114] Because of their chemical structure, phyllosilicates typically have flexible, elastic, transparent layers that are electrical insulators and can be split into very thin flakes. Micas can be used in electronics as insulators, in construction, as optical filler, or even cosmetics. Chrysotile, a species of serpentine, is the most common mineral species in industrial asbestos, as it is less dangerous in terms of health than the amphibole asbestos. [115]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Muscovite-Albite-122886.jpg/250px-Muscovite-Albite-122886.jpg",
+                "caption": "Muscovite, a mineral species in the mica group, within the phyllosilicate subclass"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Inosilicates",
+        "text": "Inosilicates consist of tetrahedra repeatedly bonded in chains. These chains can be single, where a tetrahedron is bound to two others to form a continuous chain; alternatively, two chains can be merged to create double-chain silicates. Single-chain silicates have a silicon:oxygen ratio of 1:3 (e.g. [Si 2 O 6 ] 4− ), whereas the double-chain variety has a ratio of 4:11, e.g. [Si 8 O 22 ] 12− . Inosilicates contain two important rock-forming mineral groups; single-chain silicates are most commonly pyroxenes , while double-chain silicates are often amphiboles . [116] Higher-order chains exist (e.g. three-member, four-member, five-member chains, etc.) but they are rare. [117] The pyroxene group consists of 21 mineral species. [118] Pyroxenes have a general structure formula of XY(Si 2 O 6 ), where X is an octahedral site, while Y can vary in coordination number from six to eight. Most varieties of pyroxene consist of permutations of Ca 2+ , Fe 2+ and Mg 2+ to balance the negative charge on the backbone. Pyroxenes are common in the Earth's crust (about 10%) and are a key constituent of mafic igneous rocks. [119] Amphiboles have great variability in chemistry, described variously as a \"mineralogical garbage can\" or a \"mineralogical shark swimming a sea of elements\". The backbone of the amphiboles is the [Si 8 O 22 ] 12− ; it is balanced by cations in three possible positions, although the third position is not always used, and one element can occupy both remaining ones. Finally, the amphiboles are usually hydrated, that is, they have a hydroxyl group ([OH] − ), although it can be replaced by a fluoride, a chloride, or an oxide ion. [120] Because of the variable chemistry, there are over 80 species of amphibole, although variations, as in the pyroxenes, most commonly involve mixtures of Ca 2+ , Fe 2+ and Mg 2+ . [118] Several amphibole mineral species can have an asbestiform crystal habit. These asbestos minerals form long, thin, flexible, and strong fibres, which are electrical insulators, chemically inert and heat-resistant; as such, they have several applications, especially in construction materials. However, asbestos are known carcinogens, and cause various other illnesses, such as asbestosis ; amphibole asbestos ( anthophyllite , tremolite , actinolite , grunerite , and riebeckite ) are considered more dangerous than chrysotile serpentine asbestos. [121]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Asbestos_with_muscovite.jpg/220px-Asbestos_with_muscovite.jpg",
+                "caption": "Asbestiform tremolite , part of the amphibole group in the inosilicate subclass"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Cyclosilicates",
+        "text": "Cyclosilicates, or ring silicates, have a ratio of silicon to oxygen of 1:3. Six-member rings are most common, with a base structure of [Si 6 O 18 ] 12− ; examples include the tourmaline group and beryl . Other ring structures exist, with 3, 4, 8, 9, 12 having been described. [122] Cyclosilicates tend to be strong, with elongated, striated crystals. [123] Tourmalines have a very complex chemistry that can be described by a general formula XY 3 Z 6 (BO 3 ) 3 T 6 O 18 V 3 W. The T 6 O 18 is the basic ring structure, where T is usually Si 4+ , but substitutable by Al 3+ or B 3+ . Tourmalines can be subgrouped by the occupancy of the X site, and from there further subdivided by the chemistry of the W site. The Y and Z sites can accommodate a variety of cations, especially various transition metals; this variability in structural transition metal content gives the tourmaline group greater variability in colour. Other cyclosilicates include beryl, Al 2 Be 3 Si 6 O 18 , whose varieties include the gemstones emerald (green) and aquamarine (bluish). Cordierite is structurally similar to beryl, and is a common metamorphic mineral. [124]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Elbaite-121353.jpg/220px-Elbaite-121353.jpg",
+                "caption": "An example of elbaite, a species of tourmaline, with distinctive colour banding."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Sorosilicates",
+        "text": "Sorosilicates, also termed disilicates, have tetrahedron-tetrahedron bonding at one oxygen, which results in a 2:7 ratio of silicon to oxygen. The resultant common structural element is the [Si 2 O 7 ] 6− group. The most common disilicates by far are members of the epidote group. Epidotes are found in variety of geologic settings, ranging from mid-ocean ridge to granites to metapelites . Epidotes are built around the structure [(SiO 4 )(Si 2 O 7 )] 10− structure; for example, the mineral species epidote has calcium, aluminium, and ferric iron to charge balance: Ca 2 Al 2 (Fe 3+ , Al)(SiO 4 )(Si 2 O 7 )O(OH). The presence of iron as Fe 3+ and Fe 2+ helps buffer oxygen fugacity , which in turn is a significant factor in petrogenesis. [125] Other examples of sorosilicates include lawsonite , a  metamorphic mineral forming in the blueschist facies (subduction zone setting with low temperature and high pressure), vesuvianite , which takes up a significant amount of calcium in its chemical structure. [125] [126]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Epidote_Oisans.jpg/280px-Epidote_Oisans.jpg",
+                "caption": "Epidote often has a distinctive pistachio-green colour."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Orthosilicates",
+        "text": "Orthosilicates consist of isolated tetrahedra that are charge-balanced by other cations. [127] Also termed nesosilicates, this type of silicate has a silicon:oxygen ratio of 1:4 (e.g. SiO 4 ). Typical orthosilicates tend to form blocky equant crystals, and are fairly hard. [128] Several rock-forming minerals are part of this subclass, such as the aluminosilicates, the olivine group, and the garnet group. The aluminosilicates –bkyanite, andalusite, and sillimanite, all Al 2 SiO 5 – are structurally composed of one [SiO 4 ] 4− tetrahedron, and one Al 3+ in octahedral coordination. The remaining Al 3+ can be in six-fold coordination (kyanite), five-fold (andalusite) or four-fold (sillimanite); which mineral forms in a given environment is depend on pressure and temperature conditions. In the olivine structure, the main olivine series of (Mg, Fe) 2 SiO 4 consist of magnesium-rich forsterite and iron-rich fayalite. Both iron and magnesium are in octahedral by oxygen. Other mineral species having this structure exist, such as tephroite , Mn 2 SiO 4 . [129] The garnet group has a general formula of X 3 Y 2 (SiO 4 ) 3 , where X is a large eight-fold coordinated cation, and Y is a smaller six-fold coordinated cation. There are six ideal endmembers of garnet, split into two group. The pyralspite garnets have Al 3+ in the Y position: pyrope (Mg 3 Al 2 (SiO 4 ) 3 ), almandine (Fe 3 Al 2 (SiO 4 ) 3 ), and spessartine (Mn 3 Al 2 (SiO 4 ) 3 ). The ugrandite garnets have Ca 2+ in the X position: uvarovite (Ca 3 Cr 2 (SiO 4 ) 3 ), grossular (Ca 3 Al 2 (SiO 4 ) 3 ) and andradite (Ca 3 Fe 2 (SiO 4 ) 3 ). While there are two subgroups of garnet, solid solutions exist between all six end-members. [127] Other orthosilicates include zircon , staurolite , and topaz . Zircon (ZrSiO 4 ) is useful in geochronology as U 6+ can substitute for Zr 4+ ; furthermore, because of its very resistant structure, it is difficult to reset it as a chronometer. Staurolite is a common metamorphic intermediate-grade index mineral. It has a particularly complicated crystal structure that was only fully described in 1986. Topaz (Al 2 SiO 4 (F, OH) 2 , often found in granitic pegmatites associated with tourmaline , is a common gemstone mineral. [130]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Andradite-172390.jpg/220px-Andradite-172390.jpg",
+                "caption": "Black andradite, an end-member of the orthosilicate garnet group."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Native elements",
+        "text": "Native elements are those that are not chemically bonded to other elements. This mineral group includes native metals , semi-metals, and non-metals, and various alloys and solid solutions. The metals are held together by metallic bonding, which confers distinctive physical properties such as their shiny metallic lustre, ductility and malleability, and electrical conductivity. Native elements are subdivided into groups by their structure or chemical attributes. The gold group, with a cubic close-packed structure, includes metals such as gold, silver, and copper. The platinum group is similar in structure to the gold group. The iron-nickel group is characterized by several iron-nickel alloy species. Two examples are kamacite and taenite , which are found in iron meteorites; these species differ by the amount of Ni in the alloy; kamacite has less than 5–7% nickel and is a variety of native iron , whereas the nickel content of taenite ranges from 7–37%. Arsenic group minerals consist of semi-metals, which have only some metallic traits; for example, they lack the malleability of metals. Native carbon occurs in two allotropes, graphite and diamond; the latter forms at very high pressure in the mantle, which gives it a much stronger structure than graphite. [131]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gold-mz4b.jpg/220px-Gold-mz4b.jpg",
+                "caption": "Native gold. Rare specimen of stout crystals growing off of a central stalk, size 3.7 x 1.1 x 0.4 cm, from Venezuela."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Sulfides",
+        "text": "The sulfide minerals are chemical compounds of one or more metals or semimetals with a chalcogen or pnictogen , of which sulfur is most common. Tellurium, arsenic, or selenium can substitute for the sulfur. Sulfides tend to be soft, brittle minerals with a high specific gravity. Many powdered sulfides, such as pyrite, have a sulfurous smell when powdered. Sulfides are susceptible to weathering, and many readily dissolve in water; these dissolved minerals can be later redeposited, which creates enriched secondary ore deposits. [132] Sulfides are classified by the ratio of the metal or semimetal to the sulfur, such as M:S equal to 2:1, or 1:1. [133] Many sulfide minerals are economically important as metal ores ; examples include sphalerite (ZnS), an ore of zinc, galena (PbS), an ore of lead, cinnabar (HgS), an ore of mercury, and molybdenite (MoS 2 , an ore of molybdenum. [134] Pyrite (FeS 2 ), is the most commonly occurring sulfide, and can be found in most geological environments. It is not, however, an ore of iron, but can be instead oxidized to produce sulfuric acid . [135] Related to the sulfides are the rare sulfosalts , in which a metallic element is bonded to sulfur and a semimetal such as antimony , arsenic , or bismuth . Like the sulfides, sulfosalts are typically soft, heavy, and brittle minerals. [136]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cinnabar_on_Dolomite.jpg/220px-Cinnabar_on_Dolomite.jpg",
+                "caption": "Red cinnabar (HgS), a mercury ore, on dolomite."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Geodized_brachiopod.jpg/220px-Geodized_brachiopod.jpg",
+                "caption": "Sphalerite crystal partially encased in calcite from the Devonian Milwaukee Formation of Wisconsin"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Halides",
+        "text": "The halide minerals are compounds in which a halogen (fluorine, chlorine, iodine, or bromine) is the main anion. These minerals tend to be soft, weak, brittle, and water-soluble. Common examples of halides include halite (NaCl, table salt), sylvite (KCl), and fluorite (CaF 2 ). Halite and sylvite commonly form as evaporites , and can be dominant minerals in chemical sedimentary rocks. Cryolite , Na 3 AlF 6 , is a key mineral in the extraction of aluminium from bauxites ; however, as the only significant occurrence at Ivittuut , Greenland , in a granitic pegmatite, was depleted, synthetic cryolite can be made from fluorite. [141]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Halite-Nahcolite-51411.jpg/220px-Halite-Nahcolite-51411.jpg",
+                "caption": "Pink cubic halite (NaCl; halide class) crystals on a nahcolite matrix (NaHCO 3 ; a carbonate, and mineral form of sodium bicarbonate, used as baking soda )."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Sulfates",
+        "text": "The sulfate minerals all contain the sulfate anion, [SO 4 ] 2− . They tend to be transparent to translucent, soft, and many are fragile. [145] Sulfate minerals commonly form as evaporites , where they precipitate out of evaporating saline waters. Sulfates can also be found in hydrothermal vein systems associated with sulfides, [146] or as oxidation products of sulfides. [147] Sulfates can be subdivided into anhydrous and hydrous minerals. The most common hydrous sulfate by far is gypsum , CaSO 4 ⋅2H 2 O. It forms as an evaporite, and is associated with other evaporites such as calcite and halite; if it incorporates sand grains as it crystallizes, gypsum can form desert roses . Gypsum has very low thermal conductivity and maintains a low temperature when heated as it loses that heat by dehydrating; as such, gypsum is used as an insulator in materials such as plaster and drywall. The anhydrous equivalent of gypsum is anhydrite ; it can form directly from seawater in highly arid conditions. The barite group has the general formula XSO 4 , where the X is a large 12-coordinated cation. Examples include barite (BaSO 4 ), celestine (SrSO 4 ), and anglesite (PbSO 4 ); anhydrite is not part of the barite group, as the smaller Ca 2+ is only in eight-fold coordination. [148]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Roses_des_Sables_Tunisie.jpg/250px-Roses_des_Sables_Tunisie.jpg",
+                "caption": "Gypsum desert rose"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Closed",
+        "text": "Closed-cycle systems use fluid with a low boiling point, such as ammonia (having a boiling point around -33 °C at atmospheric pressure), to power a turbine to generate electricity. Warm surface seawater is pumped through a heat exchanger to vaporize the fluid. The expanding vapor turns the turbo-generator. Cold water, pumped through a second heat exchanger, condenses the vapor into a liquid, which is then recycled through the system. In 1979, the Natural Energy Laboratory and several private-sector partners developed the \"mini OTEC\" experiment, which achieved the first successful at-sea production of net electrical power from closed-cycle OTEC. [49] The mini OTEC vessel was moored 1.5 miles (2.4 km) off the Hawaiian coast and produced enough net electricity to illuminate the ship's light bulbs and run its computers and television.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Otec_Closed_Diagram_in_English.JPG/220px-Otec_Closed_Diagram_in_English.JPG",
+                "caption": "Diagram of a closed cycle OTEC plant"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ocean_thermal_energy_conversion",
+        "title": "Ocean thermal energy conversion",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Open",
+        "text": "Open-cycle OTEC uses warm surface water directly to make electricity. The warm seawater is first pumped into a low-pressure container, which causes it to boil. In some schemes, the expanding vapor drives a low-pressure turbine attached to an electrical generator . The vapor, which has left its salt and other contaminants in the low-pressure container, is pure fresh water. It is condensed into a liquid by exposure to cold temperatures from deep-ocean water.  This method produces desalinized fresh water, suitable for drinking water , irrigation or aquaculture . [50] In other schemes, the rising vapor is used in a gas lift technique of lifting water to significant heights.  Depending on the embodiment, such vapor lift pump techniques generate power from a hydroelectric turbine either before or after the pump is used. [51] In 1984, the Solar Energy Research Institute (now known as the National Renewable Energy Laboratory ) developed a vertical-spout evaporator to convert warm seawater into low-pressure steam for open-cycle plants. Conversion efficiencies were as high as 97% for seawater-to-steam conversion (overall steam production would only be a few percent of the incoming water). In May 1993, an open-cycle OTEC plant at Keahole Point, Hawaii, produced close to 80 kW of electricity during a net power-producing experiment. [52] This broke the record of 40 kW set by a Japanese system in 1982. [52]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Otec_Open_Diagram_in_English.JPG/220px-Otec_Open_Diagram_in_English.JPG",
+                "caption": "Diagram of an open cycle OTEC plant"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ocean_thermal_energy_conversion",
+        "title": "Ocean thermal energy conversion",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    },
+    {
+        "section": "Variation of ocean temperature with depth",
+        "text": "The total insolation received by the oceans (covering 70% of the earth's surface, with clearness index of 0.5 and average energy retention of 15%) is: 5.45×10 18 MJ/yr × 0.7 × 0.5 × 0.15 = 2.87×10 17 MJ/yr We can use Beer–Lambert–Bouguer's law to quantify the solar energy absorption by water, where, y is the depth of water, I is intensity and μ is the absorption coefficient.\nSolving the above differential equation , The absorption coefficient μ may range from 0.05 m −1 for very clear fresh water to 0.5 m −1 for very salty water. Since the intensity falls exponentially with depth y , heat absorption is concentrated at the top layers. Typically in the tropics, surface temperature values are in excess of 25 °C (77 °F), while at 1 kilometer (0.62 mi), the temperature is about 5–10 °C (41–50 °F). The warmer (and hence lighter) waters at the surface means there are no thermal convection currents . Due to the small temperature gradients, heat transfer by conduction is too low to equalize the temperatures. The ocean is thus both a practically infinite heat source and a practically infinite heat sink. [ clarification needed ] This temperature difference varies with latitude and season, with the maximum in tropical , subtropical and equatorial waters. Hence the tropics are generally the best OTEC locations.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ThermoclineSeasonDepth.png/200px-ThermoclineSeasonDepth.png",
+                "caption": "Graph of different thermoclines (depth vs. temperature) based on seasons and latitude"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ocean_thermal_energy_conversion",
+        "title": "Ocean thermal energy conversion",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Thermodynamics of Minerals"
+    }
+]

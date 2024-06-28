@@ -1,0 +1,104 @@
+[
+    {
+        "section": "Sea level through geologic time",
+        "text": "Sea level changes over geologic time . The graph on the right illustrates two recent interpretations of sea level changes during the Phanerozoic . The modern age is depicted on the left side, labeled N for Neogene . \nThe blue spikes near date zero represent the sea level changes associated with the most recent glacial period , which reached its maximum extent about 20,000 years Before Present (BP). During this glaciation event, the world's sea level was about 320 feet (98 meters ) lower than today, due to the large amount of sea water that had evaporated and been deposited as snow and ice in Northern Hemisphere glaciers . When the world's sea level was at this \"low stand\", former sea bed sediments were subjected to subaerial weathering ( erosion by rain, frost, rivers, etc.) and a new shoreline was established at the new level, sometimes miles basinward of the former shoreline if the sea floor was shallowly inclined. Today, sea level is at a relative \"high stand\" within the Quaternary glacial cycles because of rapid end- Pleistocene and early- Holocene deglaciation. The ancient shoreline of the last glacial period is now under approximately 390 feet (120 meters) of water. Although there is debate among earth scientists whether we are currently experiencing a \"high stand\" it is generally accepted that the eustatic sea level is rising. In the distant past, sea level has been significantly higher than today. During the Cretaceous (labeled K on the graph), sea level was so high that a seaway extended across the center of North America from Texas to the Arctic Ocean . These alternating high and low sea level stands repeat at several time scales. The smallest of these cycles is approximately 20,000 years, and corresponds to the rate of precession of the Earth 's rotational axis (see Milankovitch cycles ) and are commonly referred to as '5th order' cycles. The next larger cycle ('4th order') is about 40,000 years and approximately matches the rate at which the Earth's inclination to the Sun varies (again explained by Milankovitch). The next larger cycle ('3rd order') is about 110,000 years and corresponds to the rate at which the Earth's orbit oscillates from elliptical to circular. Lower order cycles are recognized, which seem to result from plate tectonic events like the opening of new ocean basins by splitting continental masses. Hundreds of similar glacial cycles have occurred throughout the Earth's history . The earth scientists who study the positions of coastal sediment deposits through time (\"sequence stratigraphers\") have noted dozens of similar basinward shifts of shorelines associated with a later recovery. The largest of these sedimentary cycles can in some cases be correlated around the world with great confidence. The three controls on stratigraphic architecture and sedimentary cycle development are: Eustatic sea level is the sea level with reference to a fixed point, the centre of the Earth. Relative sea level is measured with reference to the base level, above which erosion can occur and below which deposition can occur. Both eustatic sea level changes and subsidence rates tend to be longer cycles. Sediment supply is largely thought to be controlled by local climatic conditions and can vary rapidly. These variations in local sediment supply affect the local and relative sea level which causes local sedimentary cycles . Smaller and localised sedimentary cycles are not related to worldwide (eustatic) sea level changes but more to the supply of sediment to the adjacent basins where these sediments are being supplied. For example, when the basinward (oceanward) shift with progradation of shorelines was occurring in the Book Cliffs area of Utah the shorelines were receding or transgressing northwards in Wyoming . These sedimentary cycles are representative of the amount of supply of sediment to the basin. In a transgression , less sediment is being supplied than the rate of increase in the depth of water, and thus the shoreline migrates landward. In a regression , if the water depth is decreasing, the shoreline migrates seaward (basinward) and the previous shoreline is eroded. A regression of the shoreline also occurs if more sediment is being supplied than the shoreline can erode, causing the shoreline to migrate seaward. The latter is called progradation. The cycle of strata deposited during repeated transgressions and regressions creates a depositional sequence.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Phanerozoic_Sea_Level.png/300px-Phanerozoic_Sea_Level.png",
+                "caption": "Comparison of two sea level reconstructions during the last 500 Myr. The black bar shows the magnitude of sea level change during the Quaternary glaciations; this is for the past few million years, but the bar is offset further in the past for readability."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sequence_stratigraphy",
+        "title": "Sequence stratigraphy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sequence Stratigraphy"
+    },
+    {
+        "section": "Historical development",
+        "text": "Catholic priest Nicholas Steno established the theoretical basis for stratigraphy when he introduced the law of superposition , the principle of original horizontality and the principle of lateral continuity in a 1669 work on the fossilization of organic remains in layers of sediment. The first practical large-scale application of stratigraphy was by William Smith in the 1790s and early 19th century. Known as the \"Father of English geology\", [1] Smith recognized the significance of strata or rock layering and the importance of fossil markers for correlating strata; he created the first geologic map of England. Other influential applications of stratigraphy in the early 19th century were by Georges Cuvier and Alexandre Brongniart , who studied the geology of the region around Paris.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Smith_fossils1.jpg/220px-Smith_fossils1.jpg",
+                "caption": "Engraving from William Smith's monograph on identifying strata based on fossils"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Quebrada_de_Cafayate%2C_Salta_%28Argentina%29.jpg/220px-Quebrada_de_Cafayate%2C_Salta_%28Argentina%29.jpg",
+                "caption": "Strata in Cafayate ( Argentina )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stratigraphy",
+        "title": "Stratigraphy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sequence Stratigraphy"
+    },
+    {
+        "section": "Lithostratigraphy",
+        "text": "Variation in rock units, most obviously displayed as visible layering, is due to physical contrasts in rock type ( lithology ). This variation can occur vertically as layering (bedding), or laterally, and reflects changes in environments of deposition (known as facies change). These variations provide a lithostratigraphy or lithologic stratigraphy of the rock unit. Key concepts in stratigraphy involve understanding how certain geometric relationships between rock layers arise and what these geometries imply about their original depositional environment. The basic concept in stratigraphy, called the law of superposition , states: in an undeformed stratigraphic sequence, the oldest strata occur at the base of the sequence. Chemostratigraphy studies the changes in the relative proportions of trace elements and isotopes within and between lithologic units. Carbon and oxygen isotope ratios vary with time, and researchers can use those to map subtle changes that occurred in the paleoenvironment. This has led to the specialized field of isotopic stratigraphy. Cyclostratigraphy documents the often cyclic changes in the relative proportions of minerals (particularly carbonates ), grain size, thickness of sediment layers ( varves ) and fossil diversity with time, related to seasonal or longer term changes in palaeoclimates .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Geology_of_Cyprus-Chalk.jpg/220px-Geology_of_Cyprus-Chalk.jpg",
+                "caption": "Chalk layers in Cyprus , showing sedimentary layering"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stratigraphy",
+        "title": "Stratigraphy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sequence Stratigraphy"
+    },
+    {
+        "section": "Magnetostratigraphy",
+        "text": "Magnetostratigraphy is a chronostratigraphic technique used to date sedimentary and volcanic sequences. The method works by collecting oriented samples at measured intervals throughout a section. The samples are analyzed to determine their detrital remanent magnetism (DRM), that is, the polarity of Earth's magnetic field at the time a stratum was deposited. For sedimentary rocks this is possible because, as they fall through the water column, very fine-grained magnetic minerals (< 17 μm ) behave like tiny compasses , orienting themselves with Earth's magnetic field . Upon burial, that orientation is preserved. For volcanic rocks, magnetic minerals, which form in the melt, orient themselves with the ambient magnetic field, and are fixed in place upon crystallization of the lava. Oriented paleomagnetic core samples are collected in the field; mudstones , siltstones , and very fine-grained sandstones are the preferred lithologies because the magnetic grains are finer and more likely to orient with the ambient field during deposition. If the ancient magnetic field were oriented similar to today's field ( North Magnetic Pole near the North Rotational Pole ), the strata would retain a normal polarity. If the data indicate that the North Magnetic Pole were near the South Rotational Pole , the strata would exhibit reversed polarity. Results of the individual samples are analyzed by removing the natural remanent magnetization (NRM) to reveal the DRM. Following statistical analysis, the results are used to generate a local magnetostratigraphic column that can then be compared against the Global Magnetic Polarity Time Scale. This technique is used to date sequences that generally lack fossils or interbedded igneous rocks. The continuous nature of the sampling means that it is also a powerful technique for the estimation of sediment-accumulation rates.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Oceanic.Stripe.Magnetic.Anomalies.Scheme.svg/220px-Oceanic.Stripe.Magnetic.Anomalies.Scheme.svg.png",
+                "caption": "Example of magnetostratigraphy . Magnetic stripes are the result of reversals of the Earth's magnetic poles and seafloor spreading . New oceanic crust is magnetized as it forms and then it moves away from the midocean ridge in both directions."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stratigraphy",
+        "title": "Stratigraphy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sequence Stratigraphy"
+    },
+    {
+        "section": "Stratigraphic dating",
+        "text": "Archaeologists investigating a site may wish to date the activity rather than artifacts on site by dating the individual contexts which represents events. Some degree of dating objects by their position in the sequence can be made with known datable elements of the archaeological record or other assumed datable contexts deduced by a regressive form of relative dating which in turn can fix events represented by contexts to some range in time. For example, the date of formation of a context which is totally sealed between two datable layers will fall between the dates of the two layers sealing it. However the date of contexts often fall in a range of possibilities so using them to date others is not a straightforward process. Take the hypothetical section figure A . Here we can see 12 contexts, each numbered with a unique context number and whose sequence is represented in the Harris matrix in figure B . If we know the date of context 1 and context 9 we can deduce that context 7, the backfilling of pit 8, occurred sometime after the date for 9 but before the date for 1, and if we recover an assemblage of artifacts from context 7 that occur nowhere else in the sequence, we have isolated them with a reasonable degree of certainty to a discrete range of time. In this instance we can now use the date we have for finds in context 7 to date other sites and sequences. In practice a huge amount of cross referencing with other recorded sequences is required to produce dating series from stratigraphic relationships such as the work in seriation .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Harris_section_example.jpg/260px-Harris_section_example.jpg",
+                "caption": "Figure A"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Harris_matrix_example.jpg/220px-Harris_matrix_example.jpg",
+                "caption": "Figure B"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stratigraphy_(archaeology)",
+        "title": "Stratigraphy (archaeology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sequence Stratigraphy"
+    },
+    {
+        "section": "Definition",
+        "text": "A parasequence is defined as a genetically related succession of bedsets that is bounded by marine flooding surfaces (or their correlative surfaces) on top and at the bottom. [1] The succession is supposed to be relatively conformable in the sense that breaks in deposition within the parasequence are much shorter than the time of deposition of the parasequence itself. [2] [1] Most parasequences show a shallowing upward, [3] which is sometimes also included into the definition. [4]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Clastic_Parasquences.jpg/220px-Clastic_Parasquences.jpg",
+                "caption": "Schematic graphic log showing facies successions in common types of clastic parasequences"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Carbonate_Parasequence_Architecture.jpg/220px-Carbonate_Parasequence_Architecture.jpg",
+                "caption": "Schematic graphic log showing facies successions in common types of carbonate parasequences"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Parasequence",
+        "title": "Parasequence",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Sedimentology",
+        "topic": "Sequence Stratigraphy"
+    }
+]

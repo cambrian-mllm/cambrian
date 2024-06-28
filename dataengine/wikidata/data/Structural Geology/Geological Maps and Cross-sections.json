@@ -1,0 +1,217 @@
+[
+    {
+        "section": "Orientations",
+        "text": "Geologists take two major types of orientation measurements (using a hand compass like a Brunton compass ): orientations of planes and orientations of lines. Orientations of planes are measured as a \"strike\" and \"dip\", while orientations of lines are measured as a \"trend\" and \"plunge\". Strike and dip symbols consist of a long \"strike\" line, which is perpendicular to the direction of greatest slope along the surface of the bed, and a shorter \"dip\" line on side of the strike line where the bed is going downwards. The angle that the bed makes with the horizontal, along the dip direction, is written next to the dip line. In the azimuthal system, strike and dip are often given as \"strike/dip\" (for example: 270/15, for a strike of west and a dip of 15 degrees below the horizontal). Trend and plunge are used for linear features, and their symbol is a single arrow on the map. The arrow is oriented in the downgoing direction of the linear feature (the \"trend\") and at the end of the arrow, the number of degrees that the feature lies below the horizontal (the \"plunge\") is noted. Trend and plunge are often notated as PLUNGE → TREND (for example: 34 → 86 indicates a feature that is angled at 34 degrees below the horizontal at an angle that is just east of true south).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Brunton.JPG/220px-Brunton.JPG",
+                "caption": "A standard Brunton Geological compass, used commonly by geologists"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geologic_map",
+        "title": "Geologic map",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geological Maps and Cross-sections"
+    },
+    {
+        "section": "United States",
+        "text": "In the United States , geologic maps are usually superimposed over a topographic map (and at times over other base maps) with the addition of a color mask with letter symbols to represent the kind of geologic unit .  The color mask denotes the exposure of the immediate bedrock , even if obscured by soil or other cover.  Each area of color denotes a geologic unit or particular rock formation (as more information is gathered new geologic units may be defined).  However, in areas where the bedrock is overlain by a significantly thick unconsolidated burden of till , terrace sediments , loess deposits, or other important feature, these are shown instead. Stratigraphic contour lines, fault lines, strike and dip symbols, are represented with various symbols as indicated by the map key. Whereas topographic maps are produced by the United States Geological Survey in conjunction with the states, geologic maps are usually produced by the individual states .  There are almost no geologic map resources for some states, while a few states, such as Kentucky and Georgia , are extensively mapped geologically.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Geography_of_Ohio_-_DPLA_-_aaba7b3295ff6973b6fd1e23e33cde14_%28page_77%29_%28cropped%29.jpg/220px-Geography_of_Ohio_-_DPLA_-_aaba7b3295ff6973b6fd1e23e33cde14_%28page_77%29_%28cropped%29.jpg",
+                "caption": "Geological Map of Ohio from \"Geography of Ohio\", 1923"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geologic_map",
+        "title": "Geologic map",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geological Maps and Cross-sections"
+    },
+    {
+        "section": "Elements",
+        "text": "When measuring or describing  the attitude of an inclined feature, two quantities are needed. The angle the slope descends, or dip, and the direction of descent, which can be represented by strike or dip direction. [4]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Streichbild.svg/220px-Streichbild.svg.png",
+                "caption": "Strike and dip shown alongside cardinal directions on a horizontal plane. Z: strike line of the red plane, σ: strike angle, F: dip direction, φ: dip angle. The angle of the intersection with the green plane is the red plane's apparent dip in the northward direction"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Strike_and_dip",
+        "title": "Strike and dip",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geological Maps and Cross-sections"
+    },
+    {
+        "section": "Apparent dip",
+        "text": "While true dip is measured perpendicular to the strike, apparent dip refers to an observed dip which is not perpendicular to the strike line. This can be seen in outcroppings or cross-sections which do not run parallel to the dip direction. [7] Apparent dip is always shallower than the true dip. [1] If the strike is known, the apparent dip or true dip can be calculated using trigonometry: α = arctan ⁡ ( sin ⁡ β × tan ⁡ δ ) {\\displaystyle \\alpha =\\arctan(\\sin \\beta \\times \\tan \\delta )} δ = arctan ⁡ ( tan ⁡ α ÷ sin ⁡ β ) {\\displaystyle \\delta =\\arctan(\\tan \\alpha \\div \\sin \\beta )} where δ is the true dip, α is the apparent dip, and β is the angle between the strike direction and the apparent dip direction, all in degrees. [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Apparent_dip_on_tilted_bed.svg/220px-Apparent_dip_on_tilted_bed.svg.png",
+                "caption": "A feature's apparent dip is shown when the exposed face is not aligned to the dip direction"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Strike_and_dip",
+        "title": "Strike and dip",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geological Maps and Cross-sections"
+    },
+    {
+        "section": "Maps and cross-sections",
+        "text": "On geologic maps , strike and dip can be represented by a T symbol with a number next to it. The longer line represents strike, and is in the same orientation as the strike angle. Dip is represented by the shorter line, which is perpendicular to the strike line in the downhill direction. The number gives the dip angle, in degrees, below horizontal, and often does not have the degree symbol. Vertical and horizontal features are not marked with numbers, and instead use their own symbols. Beds dipping vertically have the dip line on both sides of the strike, and horizontal bedding is denoted by a cross within a circle. [2] [9] Interpretation of strike and dip is a part of creating a cross-section of an area. Strike and dip information recorded on a map can be used to reconstruct various structures, determine the orientation of subsurface features, or detect the presence of anticline or syncline folds. [1] [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Anticline_and_a_dike_in_cross_section.svg/281px-Anticline_and_a_dike_in_cross_section.svg.png",
+                "caption": "Cross-section of an anticline with a dike cutting through it, with the a map view of the surface expression showing the strike and dip of each bed"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Strike_and_dip",
+        "title": "Strike and dip",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geological Maps and Cross-sections"
+    },
+    {
+        "section": "Tools",
+        "text": "Strike and dip are measured in the field using a compass and with a clinometer . A compass is used to measure the azimuth of the strike, and the clinometer measures inclination of the dip. [2] Dr. E. Clar  first described the modern compass-clinometer in 1954, and some continue to be referred to as Clar compasses. [10] Compasses in use today include the Brunton compass and the Silva compass . Smartphone apps which can make strike and dip measurements are also available, including apps such as GeoTools . These apps can make use of the phone's internal accelerometer to provide orientation measurements. Combined with the GPS functionality of such devices, this allows readings to be recorded and later downloaded onto a map. [11] When studying subsurface features, a dipmeter can be used. A dipmeter is a tool that is lowered into a borehole , and has arms radially attached which can detect the microresistivity of the rock. By recording the times at which the rock's properties change across each of the sensors, the strike and dip of subsurface features can be worked out. [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Brunton.JPG/220px-Brunton.JPG",
+                "caption": "A Brunton Geo Transit , used commonly by geologists for strike and dip measurements"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Strike_and_dip",
+        "title": "Strike and dip",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geological Maps and Cross-sections"
+    },
+    {
+        "section": "Defining formations",
+        "text": "The boundaries of a formation are chosen to give it the greatest practical lithological consistency. Formations should not be defined by any criteria other than lithology. The lithology of a formation includes characteristics such as chemical and mineralogical composition, texture, color, primary depositional structures , fossils regarded as rock-forming particles, or other organic materials such as coal or kerogen . The taxonomy of fossils is not a valid lithological basis for defining a formation. [2] The contrast in lithology between formations required to justify their establishment varies with the complexity of the geology of a region. Formations must be able to be delineated at the scale of geologic mapping normally practiced in the region; the thickness of formations may range from less than a meter to several thousand meters. [2] Geologic formations are typically named after a permanent natural or artificial feature of the geographic area in which they were first described. The name consists of the geographic name plus either \"Formation\" or a descriptive name. Examples include the Morrison Formation , named for the town of Morrison, Colorado , and the Kaibab Limestone , named after the Kaibab Plateau of Arizona. The names must not duplicate previous formation names, so, for example, a newly designated formation could not be named the Kaibab Formation, since the Kaibab Limestone is already established as a formation name. The first use of a name has precedence over all others, as does the first name applied to a particular formation. [6] As with other stratigraphic units, the formal designation of a formation includes a stratotype which is usually a type section . A type section is ideally a good exposure of the formation that shows its entire thickness. If the formation is nowhere entirely exposed, or if it shows considerably lateral variation, additional reference sections may be defined. Long-established formations dating to before the modern codification of stratigraphy, or which lack tabular form (such as volcanic formations), may substitute a type locality for a type section as their stratotype. The geologist defining the formation is expected to describe the stratotype in sufficient detail that other geologists can unequivocally recognize the formation. [7] Although formations should not be defined by any criteria other than primary lithology, it is often useful to define biostratigraphic units on paleontological criteria, chronostratigraphic units on the age of the rocks, and chemostratigraphic units on geochemical criteria, and these are included in stratigraphic codes. [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/SEUtahStrat.JPG/300px-SEUtahStrat.JPG",
+                "caption": "The Permian through Jurassic strata of the Colorado Plateau area of southeastern Utah demonstrate the principles of stratigraphy .  These strata make up much of the famous prominent rock formations in widely spaced protected areas such as Capitol Reef National Park and Canyonlands National Park .  From top to bottom: Rounded tan domes of the Navajo Sandstone , layered red Kayenta Formation , cliff-forming, vertically jointed, red Wingate Sandstone , slope-forming, purplish Chinle Formation , layered, lighter-red Moenkopi Formation , and white, layered Cutler Formation sandstone.  Picture from Glen Canyon National Recreation Area , Utah."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Uluru_%28Helicopter_view%29-crop.jpg/220px-Uluru_%28Helicopter_view%29-crop.jpg",
+                "caption": "Uluru (Ayers Rock) in Australia is underlain by the Mutitjulu Arkose, a formation composed almost entirely of a single lithology (arkosic sandstone)."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Summerville_Formation.jpg/220px-Summerville_Formation.jpg",
+                "caption": "The Summerville Formation is composed of alternating thin beds of two lithologies, mudstone and sandstone, penetrated by veins of a third lithology, gypsum."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geological_formation",
+        "title": "Geological formation",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geological Maps and Cross-sections"
+    },
+    {
+        "section": "Types",
+        "text": "An overturned anticline is an asymmetrical anticline with a limb that has been tilted beyond perpendicular , so that the beds in that limb have basically flipped over and may dip in the same direction on both sides of the axial plane. [3] If the angle between the limbs is large (70–120 degrees), then the fold is an \"open\" fold , but if the angle between the limbs is small (30 degrees or less), then the fold is a \"tight\" fold . [4] If an anticline plunges (i.e., the anticline crest is inclined to the Earth's surface), it will form V s on a geologic map view that point in the direction of plunge . A plunging anticline has a hinge that is not parallel to the earth's surface. All anticlines and synclines have some degree of plunge. Periclinal folds are a type of anticlines that have a well-defined, but curved hinge line and are doubly plunging and thus elongate domes . [5] Folds in which the limbs dip toward the hinge and display a more U-like shape are called synclines . They usually flank the sides of anticlines and display opposite characteristics. A syncline's oldest rock strata are in its outer limbs; the rocks become progressively younger toward its hinge. A monocline is a bend in the strata resulting in a local steepening in only one direction of dip. [2] Monoclines have the shape of a carpet draped over a stairstep. [4] An anticline that has been more deeply eroded in the center is called a breached or scalped anticline . Breached anticlines can become incised by stream erosion, forming an anticlinal valley. A structure that plunges in all directions to form a circular or elongate structure is a dome . Domes may be created via diapirism from underlying magmatic intrusions or upwardly mobile, mechanically ductile material such as rock salt ( salt dome ) and shale (shale diapir) that cause deformations and uplift in the surface rock. The Richat Structure of the Sahara is considered a dome that has been laid bare by erosion. An anticline which plunges at both ends is termed a doubly plunging anticline , and may be formed from multiple deformations, or superposition of two sets of folds. It may also be related to the geometry of the underlying detachment fault and the varying amount of displacement along the surface of that detachment fault. An anticlinorium is a large anticline in which a series of minor anticlinal folds are superimposed. Examples include the Late Jurassic to Early Cretaceous Purcell Anticlinorium in British Columbia [1] and the Blue Ridge anticlinorium of northern Virginia and Maryland in the Appalachians, [6] or the Nittany Valley in central Pennsylvania.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Anticline.png/220px-Anticline.png",
+                "caption": "Model of anticline. Oldest beds are in the center and youngest on the outside. The axial plane intersects the center angle of bend. The hinge line follows the line of greatest bend, where the axial plane intersects the outside of the fold."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Anticline",
+        "title": "Anticline",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geological Maps and Cross-sections"
+    },
+    {
+        "section": "Formation processes",
+        "text": "Anticlines are usually developed above thrust faults, so any small compression and motion within the inner crust can have large effects on the upper rock stratum.  Stresses developed during mountain building or during other tectonic processes can similarly warp or bend bedding and foliation (or other planar features).  The more the underlying fault is tectonically uplifted, the more the strata will be deformed and must adapt to new shapes.  The shape formed will also be very dependent on the properties and cohesion of the different types of rock within each layer. During the formation of flexural-slip folds, the different rock layers form parallel-slip folds to accommodate for buckling .  A good way to visualize how the multiple layers are manipulated, is to bend a deck of cards and to imagine each card as a layer of rock stratum. [7] The amount of slip on each side of the anticline increases from the hinge to the inflection point. [2] Passive-flow folds form when the rock is so soft that it behaves like weak plastic and slowly flows.  In this process different parts of the rock body move at different rates causing shear stress to gradually shift from layer to layer. There is no mechanical contrast between layers in this type of fold.  Passive-flow folds are extremely dependent on the rock composition of the stratum and can typically occur in areas with high temperatures. [4]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Anticline-lebanon.jpg/220px-Anticline-lebanon.jpg",
+                "caption": "Anticline near Ehden , Lebanon"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Anticline",
+        "title": "Anticline",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geological Maps and Cross-sections"
+    },
+    {
+        "section": "Europe",
+        "text": "The Weald–Artois Anticline is a major anticline which outcrops in southeast England and northern France. It was formed from the late Oligocene to middle Miocene , during the Alpine orogeny .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Harpea_kobazuola.jpg/220px-Harpea_kobazuola.jpg",
+                "caption": "Harpea's Cave in southern France"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Anticline",
+        "title": "Anticline",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geological Maps and Cross-sections"
+    },
+    {
+        "section": "Life's work",
+        "text": "Smith worked at one of the estate's older mines, the Mearns Pit at High Littleton, part of the Somerset coalfield and the Somerset Coal Canal . [6] As he observed the rock layers (or strata ) at the pit, he realised that they were arranged in a predictable pattern and that the various strata could always be found in the same relative positions. Additionally, each particular stratum could be identified by the fossils it contained, and the same succession of fossil groups from older to younger rocks could be found in many parts of England. Furthermore, he noticed an easterly dip of the beds of rock—low near the surface (about three degrees ), then higher after the Triassic rocks. This gave Smith a testable hypothesis, which he termed The Principle of Faunal Succession , and he began his search to determine if the relationships between the strata and their characteristics were consistent throughout the country. [7] During subsequent travels, first as a surveyor (appointed by noted engineer John Rennie ) for the canal company until 1799 when he was dismissed, and later, he was continually taking samples and mapping the locations of the various strata, and displaying the vertical extent of the strata, and drawing cross-sections and tables of what he saw. This would earn him the name \"Strata Smith\". [8] As a natural consequence, Smith amassed a large and valuable collection of fossils of the strata he had examined himself from exposures in canals , road and railway cuttings , quarries and escarpments across the country. He also developed methods for the identification of deposits of Fuller's earth to the south of Bath, Somerset . [9] He published his findings with many pictures from his fossil collection, enabling others to investigate their distribution and test his theories. His collection is especially good on Jurassic fossils he collected from the Cornbrash , Kimmeridge Clay , Oxford Clay , Oolitic limestone and other horizons in the sequence. They included many types of brachiopods , ammonites and molluscs characteristic of the shallow seas in which they were deposited. Some of the names he coined (like Cornbrash) are still used today for this formation. It could be seen from Smith's findings that the deeper – and therefore older – the strata were, the more the fossilised species within them differed from living organisms. This gave great support and impetus to the hypothesis of biological evolution (which pre-dated the work of Charles Darwin ). [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/William_Smiths_House%2C_Tucking_Mill.jpg/220px-William_Smiths_House%2C_Tucking_Mill.jpg",
+                "caption": "Tucking Mill House, near Monkton Combe , Somerset . A plaque on the house next door to Tucking Mill House states incorrectly that it was the home of William Smith."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Smith_fossils2.jpg/310px-Smith_fossils2.jpg",
+                "caption": "Engraving from William Smith's 1815 monograph on identifying strata by fossils showing an Encrinus"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/William_Smith_(geologist)",
+        "title": "William Smith (geologist)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geological Maps and Cross-sections"
+    },
+    {
+        "section": "Publication and disappointment",
+        "text": "In 1799 Smith produced the first large-scale geological map of the area around Bath. Previously, he only knew how to draw the vertical extent of the rocks, but not how to display them horizontally . However, in the Somerset County Agricultural Society , he found a map showing the types of soils and vegetation around Bath and their geographical extent. Importantly, the differing types were coloured. Using this technique, Smith could draw a geological map from his observations showing the outcrops of the rocks. He took a few rock types, each with its own colour. Then he estimated the boundaries of each of the outcrops of rock, filled them in with colour and ended up with a crude geological map. In 1801, he drew a rough sketch of what would become the first geological map of most of Great Britain . Smith travelled extensively across Great Britain working as a mineral surveyor allowing him to meet prominent people such as Thomas Coke, 1st Earl of Leicester , and the Duke of Bedford . [11] In 1815 he published his geological map, coloured on an especially prepared base map by John Cary at a scale of 5 miles to the inch and titled 'A delineation of the Strata of England and Wales, with part of Scotland.' While this was not the world's first geological map (a map of the United States by William Maclure was published six years earlier), [12] [13] Smith's was the first geological map covering such a large area in detail, [14] and is one of the first stratigraphical analyses to utilize palaeontological indices. [15] Conventional symbols were used to mark canals, tunnels, tramways and roads, collieries, lead, copper and tin mines, together with salt and alum works. The various geological strata were indicated by different colours, applied to the map by hand. Smith used a graded colouring method applying a bolder colour to the edge representing the base of each stratum, thus depicting its stratigraphical relations. The map is similar to modern geological maps of England (albeit today's maps use flat-colouring) reflecting its general accuracy in the eastern and south eastern regions of the country. However Smith's geology of western part of England and Wales was much less detailed and accurate. Smith included a ' Sketch of the succession of STRATA and their relative Altitudes ' on the map, showing the disposition of strata from London to the mountains of Snowdonia. This was not a new technique in itself, but its appearance on a map, with the clear intention of illustrating the relationship between relief and rocks and their structure, was novel. [16] In his book Strata Identified by Organized Fossils (London 1816–1819), [17] Smith recognised that strata contained distinct fossil assemblages which could be used to match rocks across regions. [18] In 1817 he drew a remarkable geological section from Snowdon to London, a development of the ‘sketch’ on his map, illustrating the three-dimensional relationship between geology and landscape via a perspective sketch of the landscape showing the topography. Effectively this was the first block diagram, now routinely used in geography textbooks and animations. [19] A common narrative in some recent accounts of Smith’s life and his map asserts that rivalry built up between Smith and the first President of the Geological Society , George Bellas Greenough , who was also engaged in producing a geological map of England and Wales. [20] [21] [22] However original sources point to this narrative not being the case and indicate Smith was used by John Farey Sr. , another 'practical man' (i.e. mineral surveyor), to prosecute Farey's own grievances against the Geological Society in an article in The Philosophical Magazine by which he both started and fuelled the story that Smith was disrespected and there was ill-feeling towards him by the Geological Society men and Greenough in particular. [23] In the following issue Greenough replied, publicly declaring his view as being non-antagonistic by stating: Another common but misleading narrative in some recent accounts of Smith’s map has Greenough's 1820 map undercutting the price and sales of Smith's map, thereby citing Greenough as a primary cause of landing Smith in debtor's prison . However, Greenough's map could not have contributed to the debts for which Smith was consigned to prison as the Greenough map, although dated 1819 on the map, was not published until May 1820, after Smith's incarceration. In fact Smith's maps retailed at 5 guineas, which was the same price as that privileged to Geological Society members for purchase of the Greenough 1820 map. However the Greenough map retailed to public at 6 guineas, thereby being a more expensive purchase than Smith’s map. [25] Also, although neither map sold well, the number of sales of Smith's map appears to have topped those of Greenough's map (only 196 copies recorded as sold) and there are only 15 names in common between Smith's subscribers' list and the list of those who bought the Geological Society's map. [26] Smith's various projects, starting with a mortgage taken to purchase his estate at Tucking Mill in Somerset in 1798, accrued financial commitments that ran into a series of difficulties which he managed to withstand by borrowing money from sympathetic creditors and mortgagors and funding repayments by taking on a relentless schedule of work commissions between 1801 and 1819. However a project to quarry Bath Stone near his property, for sale to the London property development market, failed to return the significant investment it had required due to poor quality stone and Smith found himself in default to co-investor Charles Conolly. Smith had used his Bath estate as security against Conolly's loan but there was excess to pay. In attempting to stave off his debt Smith sold his 'fossil collection' to the British Museum for £700, [27] but this proved insufficient and funds fell short of the sum owed to Conolly by £300 and as a consequence Smith was sent to debtors' prison in 1819. Through all this financial turmoil, Smith managed to publish his map and subsequent associated publications but in 1817 he remarked \"My income is as yet not anywise improved by what has been done, the profits being required to liquidate the debt incurred by publication.\" [28] On 31 August 1819 Smith was released from King's Bench Prison in London , a debtor's prison. [29] He returned to 15 Buckingham Street, his home since 1804, to find a bailiff at the door and his home and property seized. Smith then worked as an itinerant surveyor for many years until one of his employers, Sir John Johnstone, recognised his work and talent and took steps to gain for him the respect he deserved, appointing Smith as Land Steward to his estate in Hackness near Scarborough . Between 1824 and 1834 Smith lived and was based in Hackness, then moving to Scarborough where he was responsible for the design of the Rotunda , a geological museum devoted to the Yorkshire coast, creating the cylindrical layout and arrangement of fossil display on sloping shelves.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bust_of_William_Smith%2C_Oxford_University_Museum_of_Natural_History.jpg/150px-Bust_of_William_Smith%2C_Oxford_University_Museum_of_Natural_History.jpg",
+                "caption": "Bust of W. Smith, in the Oxford University Museum of Natural History"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Geological_map_Britain_William_Smith_1815.jpg/220px-Geological_map_Britain_William_Smith_1815.jpg",
+                "caption": "William Smith's 1815 map 'A delineation of the Strata of England and Wales, with part of Scotland.'"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/1833-SmithW.png/150px-1833-SmithW.png",
+                "caption": "Silhouette of W. Smith, 1833"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/William_Smith_(geologist)",
+        "title": "William Smith (geologist)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geological Maps and Cross-sections"
+    },
+    {
+        "section": "Later recognition",
+        "text": "It was not until February 1831 that the Geological Society of London conferred on Smith the first Wollaston Medal in recognition of his achievement. [30] It was on this occasion that the President, Adam Sedgwick , referred to Smith as \"the Father of English Geology\". That year Smith was awarded a pension of £100 a year by King William IV. [31] In 1835 Smith travelled to Dublin for the meeting of the British Association, and there unexpectedly received an honorary Doctorate of Laws (LL.D.) from Trinity College . [32] In 1838 Smith was appointed as one of the commissioners to select building-stone for the new Palace of Westminster . He died in Northampton , and is buried a few feet from the west tower of St Peter's Church, Northampton , now a redundant church. The inscription on the grave is badly worn but the name \"William Smith\" can just be seen. Inside St Peter’s Church is an impressive bust and inscription. Subsequent modern geological maps have been based on Smith's original work, of which several copies have survived [33] including one which has been put on display (alongside the Greenough map) at the Geological Society of London which can be visited by the public, free and without an appointment. [34]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/William_Smith_Grave.JPG/220px-William_Smith_Grave.JPG",
+                "caption": "William Smith's grave adjoining St Peter's Church, Northampton"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/William_Smith_(geologist)",
+        "title": "William Smith (geologist)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Geological Maps and Cross-sections"
+    }
+]

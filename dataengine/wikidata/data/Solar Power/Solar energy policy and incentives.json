@@ -1,0 +1,382 @@
+[
+    {
+        "section": "Compensation",
+        "text": "There are three methods of compensation.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Feed-in_Tariff_meter_connections.png/220px-Feed-in_Tariff_meter_connections.png",
+                "caption": "Understanding Feed-in Tariff and Power Purchase Agreement meter connections"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Feed-in_tariff",
+        "title": "Feed-in tariff",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Photovoltaic cells",
+        "text": "A solar cell , or photovoltaic cell, is a device that converts light into electric current using the photovoltaic effect . The first solar cell was constructed by Charles Fritts in the 1880s. [12] The German industrialist Ernst Werner von Siemens was among those who recognized the importance of this discovery. [13] In 1931, the German engineer Bruno Lange developed a photo cell using silver selenide in place of copper oxide , [14] although the prototype selenium cells converted less than 1% of incident light into electricity. Following the work of Russell Ohl in the 1940s, researchers Gerald Pearson, Calvin Fuller and Daryl Chapin created the silicon solar cell in 1954. [15] These early solar cells cost US$286/watt and reached efficiencies of 4.5–6%. [16] In 1957, Mohamed M. Atalla developed the process of silicon surface passivation by thermal oxidation at Bell Labs . [17] [18] The surface passivation process has since been critical to solar cell efficiency . [19] As of 2022 [update] over 90% of the market is crystalline silicon . [20] The array of a photovoltaic system , or PV system, produces direct current (DC) power which fluctuates with the sunlight's intensity. For practical use this usually requires conversion to alternating current (AC), through the use of inverters . [11] Multiple solar cells are connected inside panels. Panels are wired together to form arrays, then tied to an inverter, which produces power at the desired voltage, and for AC, the desired frequency/phase. [11] Many residential PV systems are connected to the grid when available, especially in developed countries with large markets. [21] In these grid-connected PV systems , use of energy storage is optional. In certain applications such as satellites, lighthouses, or in developing countries, batteries or additional power generators are often added as back-ups. Such stand-alone power systems permit operations at night and at other times of limited sunlight. In \"vertical agrivoltaics \" system, solar cells are oriented vertically on farmland, to allow the land to both grow crops and generate renewable energy. [22] Other configurations include floating solar farms , placing solar canopies over parking lots, and installing solar panels on roofs. [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/PV-system-schematics-residential-Eng.png/310px-PV-system-schematics-residential-Eng.png",
+                "caption": "Schematics of a grid-connected residential PV power system [11]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Concentrated solar power",
+        "text": "Concentrated solar power (CSP), also called \"concentrated solar thermal\", uses lenses or mirrors and tracking systems to concentrate sunlight, then uses the resulting heat to generate electricity from conventional steam-driven turbines. [31] A wide range of concentrating technologies exists: among the best known are the parabolic trough , the compact linear Fresnel reflector , the dish Stirling and the solar power tower . Various techniques are used to track the sun and focus light. In all of these systems a working fluid is heated by the concentrated sunlight and is then used for power generation or energy storage. [32] Thermal storage efficiently allows overnight electricity generation, [33] thus complementing PV. [34] CSP generates a very small share of solar power and in 2022 the IEA said that CSP should be better paid for its storage. [35] As of 2021 [update] the levelized cost of electricity from CSP is over twice that of PV. [36] However, their very high temperatures may prove useful to help decarbonize industries (perhaps via hydrogen) which need to be hotter than electricity can provide. [37]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Parabolic_trough.svg/220px-Parabolic_trough.svg.png",
+                "caption": "A parabolic collector concentrates sunlight onto a tube in its focal point."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Current status",
+        "text": "About half of installed capacity is utility scale. [70]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/World_PVOUT_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png/310px-World_PVOUT_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png",
+                "caption": "Map of solar resources from World bank"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Forecasts",
+        "text": "Most new renewable capacity between 2022 and 2027 is forecast to be solar, surpassing coal as the largest source of installed power capacity. [71] : 26 Utility scale is forecast to become the largest source of electricity in all regions except sub-Saharan Africa by 2050. [70] According to a 2021 study, global electricity generation potential of rooftop solar panels is estimated at 27 PWh per year at costs ranging from $40 (Asia) to $240 per MWh (US, Europe). Its practical realization will however depend on the availability and cost of scalable electricity storage solutions. [72]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Reality_versus_IEA_predictions_-_annual_photovoltaic_additions_2002-2016.png/310px-Reality_versus_IEA_predictions_-_annual_photovoltaic_additions_2002-2016.png",
+                "caption": "Actual annual deployments of solar PV vs predictions by the IEA for the period 2002–2016. Predictions have largely and consistently underestimated actual growth."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Concentrating solar power stations",
+        "text": "Commercial concentrating solar power (CSP) plants, also called \"solar thermal power stations\", were first developed in the 1980s. The 377 MW Ivanpah Solar Power Facility , located in California's Mojave Desert, is the world's largest solar thermal power plant project. Other large CSP plants include the Solnova Solar Power Station (150 MW), the Andasol solar power station (150 MW), and Extresol Solar Power Station (150 MW), all in Spain. The principal advantage of CSP is the ability to efficiently add thermal storage, allowing the dispatching of electricity over up to a 24-hour period. Since peak electricity demand typically occurs at about 5 pm, many CSP power plants use 3 to 5 hours of thermal storage. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IvanpahRunning.JPG/260px-IvanpahRunning.JPG",
+                "caption": "Ivanpah Solar Electric Generating System with all three towers under load"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Solar_Plant_kl.jpg/260px-Solar_Plant_kl.jpg",
+                "caption": "Part of the 354 MW Solar Energy Generating Systems (SEGS) parabolic trough solar complex in northern San Bernardino County, California"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Net metering",
+        "text": "In net metering the price of the electricity produced is the same as the price supplied to the consumer, and the consumer is billed on the difference between production and consumption. Net metering can usually be done with no changes to standard electricity meters , which accurately measure power in both directions and automatically report the difference, and because it allows homeowners and businesses to generate electricity at a different time from consumption, effectively using the grid as a giant storage battery. With net metering, deficits are billed each month while surpluses are rolled over to the following month. Best practices call for perpetual roll over of kWh credits. [102] Excess credits upon termination of service are either lost or paid for at a rate ranging from wholesale to retail rate or above, as can be excess annual credits. [103]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Feed-in_Tariff_meter_connections.png/330px-Feed-in_Tariff_meter_connections.png",
+                "caption": "Net metering , unlike a feed-in tariff , requires only one meter, but it must be bi-directional."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Community solar",
+        "text": "A community solar project is a solar power installation that accepts capital from and provides output credit and tax benefits to multiple customers, including individuals, businesses, nonprofits, and other investors. Participants typically invest in or subscribe to a certain kW capacity or kWh generation of remote electrical production. [105]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Solar_farm_in_Wisconsin_01.jpg/220px-Solar_farm_in_Wisconsin_01.jpg",
+                "caption": "Community solar farm in the town of Wheatland, Wisconsin [104]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Energy storage",
+        "text": "Concentrated solar power plants may use thermal storage to store solar energy, such as in high-temperature molten salts. These salts are an effective storage medium because they are low-cost, have a high specific heat capacity, and can deliver heat at temperatures compatible with conventional power systems. This method of energy storage is used, for example, by the Solar Two power station, allowing it to store 1.44 TJ in its 68 m 3 storage tank, enough to provide full output for close to 39 hours, with an efficiency of about 99%. [113] In stand alone PV systems , batteries are traditionally used to store excess electricity. With grid-connected photovoltaic power systems , excess electricity can be sent to the electrical grid . Net metering and feed-in tariff programs give these systems a credit for the electricity they produce. This credit offsets electricity provided from the grid when the system cannot meet demand, effectively trading with the grid instead of storing excess electricity. [114] When wind and solar are a small fraction of the grid power, other generation techniques can adjust their output appropriately, but as these forms of variable power grow, additional balance on the grid is needed. As prices are rapidly declining, PV systems increasingly use rechargeable batteries to store a surplus to be used later at night. Batteries used for grid-storage can stabilize the electrical grid by leveling out peak loads for a few hours. In the future, less expensive batteries could play an important role on the electrical grid, as they can charge during periods when generation exceeds demand and feed their stored energy into the grid when demand is higher than generation. Common battery technologies used in today's home PV systems include nickel-cadmium , lead-acid , nickel metal hydride , and lithium-ion . [115] [116] [ better source needed ] Lithium-ion batteries have the potential to replace lead-acid batteries in the near future, as they are being intensively developed and lower prices are expected due to economies of scale provided by large production facilities such as the Tesla Gigafactory 1 . In addition, the Li-ion batteries of plug-in electric cars may serve as future storage devices in a vehicle-to-grid system. Since most vehicles are parked an average of 95% of the time, their batteries could be used to let electricity flow from the car to the power lines and back. Retired electric vehicle (EV) batteries can be repurposed. [117] Other rechargeable batteries used for distributed PV systems include, sodium–sulfur and vanadium redox batteries, two prominent types of a molten salt and a flow battery, respectively. [118] [119] [120]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png/260px-Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png",
+                "caption": "Seasonal cycle of capacity factors for wind and photovoltaics in Europe shown under idealized assumptions. The figure illustrates the balancing effects of wind and solar energy at the seasonal scale (Kaspar et al., 2019). [121]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Environmental effects",
+        "text": "Solar power is cleaner than electricity from fossil fuels , [20] so can be better for the environment. [128] Solar power does not lead to harmful emissions during operation, but the production of the panels creates some pollution. A 2021 study estimated the carbon footprint of manufacturing monocrystalline panels at 515 g CO 2 /kWp in the US and 740 g CO 2 /kWp in China, [129] but this is expected to fall as manufacturers use more clean electricity and recycled materials. [130] Solar power carries an upfront cost to the environment via production with a carbon payback time of several years as of 2022 [update] , [130] but offers clean energy for the remainder of their 30-year lifetime. [131] The life-cycle greenhouse-gas emissions of solar farms are less than 50 gram (g) per kilowatt-hour (kWh), [132] [133] [134] but with battery storage could be up to 150 g/kWh. [135] In contrast, a combined cycle gas-fired power plant without carbon capture and storage emits around 500 g/kWh, and a coal-fired power plant about 1000 g/kWh. [136] Similar to all energy sources where their total life cycle emissions are mostly from construction, the switch to low carbon power in the manufacturing and transportation of solar devices would further reduce carbon emissions. [134] Lifecycle surface power density of solar power varies [137] but averages about 7 W/m2, compared to about 240 for nuclear power and 480 for gas. [138] However, when the land required for gas extraction and processing is accounted for, gas power is estimated to have not much higher power density than solar. [20] PV requires much larger amounts of land surface to produce the same nominal amount of energy as sources [ which? ] with higher surface power density and capacity factor. According to a 2021 study, obtaining 25% to 80% of electricity from solar farms in their own territory by 2050 would require the panels to cover land ranging from 0.5% to 2.8% of the European Union , 0.3% to 1.4% in India , and 1.2% to 5.2% in Japan and South Korea . [139] Occupation of such large areas for PV farms could drive residential opposition as well as lead to deforestation, removal of vegetation and conversion of farm land. [140] However some countries, such as South Korea and Japan, use land for agriculture under PV , [141] [142] or floating solar, [143] together with other low-carbon power sources. [144] [145] Worldwide land use has minimal ecological impact. [146] Land use can be reduced to the level of gas power by installing on buildings and other built up areas. [137] Harmful materials are used in the production of solar panels, but generally in small amounts. [147] As of 2022 [update] , the environmental impact of perovskite is difficult to estimate, but there is some concern that lead may be a problem. [20] A 2021 International Energy Agency study projects the demand for copper will double by 2040. The study cautions that supply needs to increase rapidly to match demand from large-scale deployment of solar and required grid upgrades. [148] [149] More tellurium and indium may also be needed. [20] Recycling may help. [20] As solar panels are sometimes replaced with more efficient panels, the second-hand panels are sometimes reused in developing countries, for example in Africa . [150] Several countries have specific regulations for the recycling of solar panels . [151] [152] [153] Although maintenance cost is already low compared to other energy sources, [154] some academics have called for solar power systems to be designed to be more repairable . [155] [156] A very small proportion of solar power is concentrated solar power . Concentrated solar power may use much more water than gas-fired power. This can be a problem, as this type of solar power needs strong sunlight so is often built in deserts. [157]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Greenhouse_gas_emissions_per_energy_source.png/260px-Greenhouse_gas_emissions_per_energy_source.png",
+                "caption": "Greenhouse gas emissions per energy source. Solar power is one of the sources with the least greenhouse gas emissions."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Blick_vom_aussichtsturm_h%C3%B6rlitz4.jpg/220px-Blick_vom_aussichtsturm_h%C3%B6rlitz4.jpg",
+                "caption": "Part of the Senftenberg Solarpark , a solar photovoltaic power plant located on former open-pit mining areas close to the city of Senftenberg , in Eastern Germany. The 78 MW Phase 1 of the plant was completed within three months."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Politics",
+        "text": "Solar production cannot be cut off by geopolitics once installed, unlike oil and gas, which contributes to energy security . [159] As of 2022 [update] over 40% of global polysilicon manufacturing capacity is in Xinjiang in China , [160] which raises concerns about human rights violations ( Xinjiang internment camps ) as well as supply chain dependency. [161]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg/260px-202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg.png",
+                "caption": "Acceptance of wind and solar facilities in one's community is stronger among U.S. Democrats (blue), while acceptance of nuclear power plants is stronger among U.S. Republicans (red). [158]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Petroleum",
+        "text": "The US bans energy imports from countries such as Russia (because of the Russo-Ukrainian War ) [78] and Venezuela . [79] The US also limits exports of oil from Iran . [80] Although it is a net exporter, the US imports energy from multiple countries, led by Canada.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Oil_imports_by_country.webp/300px-Oil_imports_by_country.webp.png",
+                "caption": "United States oil product imports by country"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_policy_of_the_United_States",
+        "title": "Energy policy of the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Sources",
+        "text": "In 2021, energy in the United States came mostly from fossil fuels : 36% originated from petroleum , 32% from natural gas , and 11% from coal . [102] Renewable energy supplied the rest: hydropower , biomass , wind , geothermal , and solar supplied 12%, while nuclear supplied 8%. [102]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gulf_Offshore_Platform.jpg/220px-Gulf_Offshore_Platform.jpg",
+                "caption": "An offshore oil platform"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Circle_frame.svg/220px-Circle_frame.svg.png",
+                "caption": ""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_policy_of_the_United_States",
+        "title": "Energy policy of the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Renewable energy",
+        "text": "In the United States, the share of renewable energy in electricity generation has grown to 21% by 2020. [110] Oil use is expected to decline in the US because of increasing vehicle efficiency and replacement of crude oil by natural gas as a feedstock for the petrochemical sector. One forecast is that the rapid uptake of electric vehicles will reduce oil demand drastically by 80% lower in 2050 compared with today. [111] A Renewable Portfolio Standard (RPS) is a state/local mandate that requires electricity providers to supply a minimum amount of power from renewable sources, usually defined as a percentage of total energy production. [112]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Shepherds_Flat_Wind_Farm_2011.jpg/139px-Shepherds_Flat_Wind_Farm_2011.jpg",
+                "caption": "The Shepherds Flat Wind Farm is an 845 megawatt (MW) wind farm in the U.S. state of Oregon ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TeslaRoadster-front.jpg/220px-TeslaRoadster-front.jpg",
+                "caption": "Tesla Roadster (2008) uses lithium ion batteries to achieve 220 mi (350 km) per charge, while also capable of going 0–60 in under 4 seconds."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_policy_of_the_United_States",
+        "title": "Energy policy of the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Electricity transmission and distribution",
+        "text": "Electric power transmission results in energy loss, through electrical resistance , heat generation, electromagnetic induction and less-than-perfect electrical insulation . [123] Electric transmission (production to consumer) loses over 23% of the energy due to generation, transmission, and distribution. [124] In 1995, long distance transmission losses were estimated at 7.2% of the power transported. [125] Reducing transmission distances reduces these losses. For every five units of energy going into typical large fossil fuel power plants, only about one unit reaches the consumer in a usable form. [126] A similar situation exists in natural gas transport, which requires compressor stations along pipelines that use energy to keep the gas moving. Gas liquefaction, cooling, and re-gasification in the liquified natural gas supply chain uses a substantial amount of energy. Distributed generation and distributed storage are means of reducing total and transmission losses as well as reducing costs for electricity consumers. [127] [128] [129] In October 2023, the Biden administration announced the largest major investment in the grid since the Recovery Act in 2009. [130] [131] The DOE announced the results of a mandated triennial study that, for the first time in its history, included anticipation of future grid transmission needs. The DOE also announced the first three recipients of a new $2.5 billion loan program which it called the Transmission Facilitation Program, created to provide funding to help build up the interstate power grid. They are the 1.2-gigawatt Twin States Clean Energy Link between Quebec, New Hampshire and Vermont; the 1.5-gigawatt Cross-Tie Transmission Line between Utah and Nevada; and the 1-gigawatt Southline Transmission Project between Arizona and New Mexico. [132] The Federal Energy Regulatory Commission (FERC) is the primary regulatory agency of electric power transmission and wholesale electricity sales within the United States. FERC was originally established by Congress in 1920 as the Federal Power Commission and has since undergone multiple name and responsibility modifications. Electric power distribution and the retail sale of power is under state jurisdiction.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/UnitedStatesPowerGrid.jpg/220px-UnitedStatesPowerGrid.jpg",
+                "caption": "The US power transmission grid consists of about 300,000 km (190,000 mi) of lines operated by approximately 500 companies. The North American Electric Reliability Corporation (NERC) oversees all of them."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_policy_of_the_United_States",
+        "title": "Energy policy of the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Greenhouse gas emissions",
+        "text": "While the United States has cumulatively emitted the most greenhouse gases of any country, it represents a declining fraction of ongoing emissions, long superseded by China. [162] [163] Since its peak in 1973, per capita US emissions have declined by 40%, resulting from improved technology, the shift in economic activity from manufacturing to services, changing consumer preferences and government policy. [164] State and local government have launched initiatives. Cities in 50 states endorsed the Kyoto protocol. [165] Northeastern US states established the Regional Greenhouse Gas Initiative (RGGI), [166] a state-level emissions cap and trade program. On February 16, 2007, the United States, together with leaders from Canada , France , Germany , Italy , Japan , Russia , United Kingdom , Brazil , China , India , Mexico and South Africa agreed in principle on the outline of a successor to the Kyoto Protocol known as the Washington Declaration . They envisaged a global cap-and-trade system that would apply to both industrialized nations and developing countries . [167] [168] The system did not come to pass. Arjun Makhijani argued that in order to limit global warming to 2 °C, the world would need to reduce CO 2 emissions by 85% and the US by 95%. [169] [170] [171] He developed a model by which such changes could occur. Effective delivered energy is modeled to increase from about 75 Quadrillion Btu in 2005 to about 125 Quadrillion in 2050, [172] but due to efficiency increases, the actual energy input increases from about 99 Quadrillion Btu in 2005 to about 103 Quadrillion in 2010 and then will decrease to about 77 Quadrillion in 2050. [173] Petroleum use is assumed to increase until 2010 and then linearly decrease to zero by 2050. The roadmap calls for nuclear power to decrease to zero, with the reduction also beginning in 2010. [174] Joseph Romm called for the rapid deployment of existing technologies to decrease carbon emissions. He argued that \"If we are to have confidence in our ability to stabilize carbon dioxide levels below 450 p.p.m. emissions must average less than [5 billion metric tons of carbon] per year over the century. This means accelerating the deployment of the 11 wedges so they begin to take effect in 2015 and are completely operational in much less time than originally modeled by Socolow and Pacala .\" [175] In 2012, the National Renewable Energy Laboratory assessed the technical potential for renewable electricity for each of the 50 states. It concluded that each state had the technical potential for renewable electricity, mostly from solar and wind, that could exceed its current electricity consumption. The report cautions: \"Note that as a technical potential, rather than economic or market potential, these estimates do not consider availability of transmission infrastructure, costs, reliability or time-of-dispatch, current or future electricity loads, or relevant policies.\" [176] In 2022, the EPA received funding for a green bank called the Greenhouse Gas Reduction Fund to drive down carbon dioxide emissions, as part of the Inflation Reduction Act , the largest decarbonization incentives package in U.S. history. [60] [61] The Fund will award $14 billion to a select few green banks nationwide for a broad variety of decarbonization investments, $6 billion to green banks in low-income and historically disadvantaged communities for similar investments, and $7 billion to state and local energy funds for decentralized solar power in communities with no financing alternatives. [177] [178] The EPA set the deadline to apply for the first two award initiatives at October 12, 2023 [179] and the latter initiative at September 26, 2023. [180]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20210626_Variwide_chart_of_greenhouse_gas_emissions_per_capita_by_country.svg/300px-20210626_Variwide_chart_of_greenhouse_gas_emissions_per_capita_by_country.svg.png",
+                "caption": "Though China has the greatest total annual carbon dioxide emissions, the U.S. exceeds China in per capita emissions. [161]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Co-emissions-per-capita-map.png/300px-Co-emissions-per-capita-map.png",
+                "caption": "CO 2 emissions per capita , per year, per country, 2021"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_policy_of_the_United_States",
+        "title": "Energy policy of the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Incentives",
+        "text": "The former New Jersey Clean Energy Program rebates on PV equipment have been discontinued. [6] [7] The federal Residential Energy Efficient Property Credit ( income tax credit on IRS Form 5695) for residential PV and solar thermal was extended in December 2015 to remain at 30% of system cost (parts and installation) for systems put into service by the end of 2019, then 26% until the end of 2020, and then 22% until the end of 2021. It applies to a taxpayer's principal and/or second residences, but not to a property that is rented out. There is no maximum cap on the credit, and the credit can be applied toward the Alternative Minimum Tax , and any excess credit (greater than that year's tax liability) can be rolled into the following year. [8] [9] NJ law provides new solar power installations with exemptions from the 6.625% state sales tax , and from any increase in property assessment (local property tax increases), subject to certain registration requirements. [10] [11]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Baylson_000182_171110_515934_4578_%2835949237994%29.jpg/220px-Baylson_000182_171110_515934_4578_%2835949237994%29.jpg",
+                "caption": "Rooftop installation, Baylson"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power_in_New_Jersey",
+        "title": "Solar power in New Jersey",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Renewable Portfolio Standard",
+        "text": "New Jersey's renewable portfolio standard (RPS) is one of the most aggressive in the United States and requires each electricity supplier/provider to provide 22.5% from renewable energy sources by 2021 and 50% by 2030. In addition, 2.12% must come from solar electricity, an amount estimated to be 1,500 megawatts (MW). [12] Solar Renewable Energy Certificates (SRECs) must be purchased by electricity suppliers to meet the state targets or else they face a fine known as a Solar Alternative Compliance Payment (SACP) that was $272/MWh in 2022. [13] As New Jersey was approaching the minimum requirements, the requirements were accelerated on July 23, 2012, changing the shape of the compliance curve from slowly increasing at first to rapidly increasing at first. [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Syn_5433.jpg/220px-Syn_5433.jpg",
+                "caption": "Rooftop solar panels at the New York Jets training facility in Florham Park, New Jersey"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power_in_New_Jersey",
+        "title": "Solar power in New Jersey",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Solar 4 All project",
+        "text": "In 2009, Public Service Enterprise Group , the largest utility company in New Jersey, announced plans to install solar panels on 200,000 utility poles in its service area, the largest such project in the world. [28] [29] In addition to the 38 MW of pole-mounted power, [30] PSEG's Solar 4 All project built at least 34 solar projects with 152 MW. [31] [32] [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/PSE%26G_Solar_panels_utility_poles.jpg/250px-PSE%26G_Solar_panels_utility_poles.jpg",
+                "caption": "Solar panels on PSE&G utility poles in South Brunswick"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power_in_New_Jersey",
+        "title": "Solar power in New Jersey",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Generation",
+        "text": "Beginning with the 2014 data year, the Energy Information Administration has estimated distributed solar photovoltaic generation and distributed solar photovoltaic capacity. These non-utility scale estimates project that New Jersey generated the following additional solar energy:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2017_NJ_Solar_Energy_Generation_Profile.jpg/220px-2017_NJ_Solar_Energy_Generation_Profile.jpg",
+                "caption": "2017 NJ Solar Energy Generation Profile"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power_in_New_Jersey",
+        "title": "Solar power in New Jersey",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Allocation of subsidies in the United States",
+        "text": "A 2017 study by the consulting firm Management Information Services, Inc. (MISI) [12] estimated the total historical federal subsidies for various energy sources over the years 1950–2016. The study found that oil, natural gas, and coal received $414 billion, $140 billion, and $112 billion (2015 dollars), respectively, or 65% of total energy subsidies over that period. Oil, natural gas, and coal benefited most from percentage depletion allowances and other tax-based subsidies, but oil also benefited heavily from regulatory subsidies such as exemptions from price controls and higher-than-average rates of return allowed on oil pipelines. The MISI report found that non-hydro renewable energy (primarily wind and solar) benefited from $158 billion in federal subsidies, or 16% of the total, largely in the form of tax policy and direct federal expenditures on research and development (R&D). Nuclear power benefited from $73 billion in federal subsidies, 8% of the total and less than half of the total applied to renewables, while hydro power received $105 billion in federal subsidies, 10% of the total. Notable was MISI's finding that between 2011 through 2016, renewable energy received more than three times as much help in federal incentives as oil, natural gas, coal, and nuclear combined, and 27 times as much as nuclear energy. [13] In the United States, the federal government has paid US$145 billion for energy subsidies to support R&D for nuclear power ($85 billion) and fossil fuels ($60 billion) from 1950 to 2016. During this same timeframe, renewable energy technologies received a total of US $34 billion. Though in 2007 some suggested that a subsidy shift would help to level the playing field and support growing energy sectors, namely solar power , wind power , and bio-fuels ., [14] by 2017 those sources combined had yet to provide 10% of U.S. electricity, and intermittency forced utilities to remain reliant on oil, natural gas, and coal to meet baseload demand. Many of the \"subsidies\" available to the oil and gas industries are general business opportunity credits, available to all US businesses (particularly, the foreign tax credit mentioned above). The value of industry-specific (oil, gas, and coal) subsidies in 2006 was estimated by the Texas State Comptroller to be $6.25 billion - about 60% of the amount calculated by the Environmental Law Institute . [15] The balance of federal subsidies, which the comptroller valued at $7.4 billion, came from shared credits and deductions, and oil defense (spending on the Strategic Petroleum Reserve , energy infrastructure security, etc.). Critics allege that the most important subsidies to the nuclear industry have not involved cash payments, but rather the shifting of construction costs and operating risks from investors to taxpayers and ratepayers, burdening them with an array of risks including cost overruns, defaults to accidents, and nuclear waste management . Critics claim that this approach distorts market choices, which they believe would otherwise favor less risky energy investments. [16] Many energy analysts, such as Clint Wilder , Ron Pernick and Lester Brown , have suggested that energy subsidies need to be shifted away from mature and established industries and towards high growth clean energy (excluding nuclear). They also suggest that such subsidies need to be reliable, long-term and consistent, to avoid the periodic difficulties that the wind industry has had in the United States. [14] [17]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cost_of_Energy-Related_Tax_Preferences%2C_by_Type_of_Fuel_or_Technology%2C_1985_to_2016.png/439px-Cost_of_Energy-Related_Tax_Preferences%2C_by_Type_of_Fuel_or_Technology%2C_1985_to_2016.png",
+                "caption": "Congressional Budget Office testimony delivered March 29, 2017 showing the historic trend of energy related tax preferences"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_subsidies_in_the_United_States",
+        "title": "Energy subsidies in the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Public dispute between Foster and Bell",
+        "text": "Jonathan Bell became DETI minister after Foster was promoted.  As details of the scheme were released to the public, Foster came under increasing pressure because she was the minister who had initially conceived it.  She apologised for the lack of cost control, but accused Bell of prolonging the scheme's closure.  In response Bell gave an interview to The Nolan Show , broadcast on BBC One Northern Ireland .  In it he accused the DUP's special advisers of trying to compel him to keep the scheme open. He claimed that they were not allowing time to close the scheme at its peak.  He named Timothy Johnston, special adviser to then First Minister Peter Robinson , and Andrew Crawford, one of Foster's aides.  Bell accused Foster publicly of trying to \"cleanse records\" to remove evidence of her interference.  He also called for a public inquiry into the matter. [13] During the last three months of the scheme it attracted almost 1,000 applications, even though the minister claimed he had tried to close it. [18] These three months are significant as Bell was not in ministerial post, due to the DUP's rolling resignations in 2015. [19] On the same episode of The Nolan Show , Foster responded to Bell's allegations and gave her side of the story.  She professed to be unaware of Bell's allegations.  Nolan shared some of the allegations with her in the interview. She accused Bell of using \"his physical bulk\" to confront her referring to him as being \"very aggressive\". [20] DUP party officers formally suspended Bell from the party for talking to the media without prior permission. [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/JonathanBellDUP.jpg/170px-JonathanBellDUP.jpg",
+                "caption": "Jonathan Bell MLA , who gave an interview claiming DUP members tried to postpone closure of the scheme"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_Heat_Incentive_scandal",
+        "title": "Renewable Heat Incentive scandal",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Resignation of Martin McGuinness",
+        "text": "On 8 January 2017, Gerry Adams , Sinn Féin President, called on Foster to step aside and said that her refusal to do so was \"unacceptable\". He hinted that Martin McGuinness could resign over the scandal. Under Stormont rules, a resignation of either the First Minister or deputy First Minister automatically means that both offices are declared vacant simultaneously. [34] The following day, McGuinness travelled to Stormont to announce his resignation as deputy First Minister of Northern Ireland. McGuinness was seriously ill and travelled from Altnagelvin Area Hospital in Derry to sign his resignation letter. His resignation meant that Arlene Foster could not continue in her position as First Minister. Standing orders allowed Sinn Féin seven days to nominate another deputy First Minister to restore the Executive Office. If Sinn Féin failed to nominate, the Northern Ireland Assembly would be dissolved and the Northern Ireland Executive would collapse and a snap election would be called by the Secretary of State for Northern Ireland . [35] McGuinness said that Foster had a \"clear conflict of interest\" and it \"was the right time to call a halt to the DUP's arrogance\". He further accused the DUP of refusing to accept demands \"for robust action and responsibility\". [35] As Sinn Féin did not nominate a replacement for McGuinness, James Brokenshire automatically assumed control of Northern Ireland in his role as Secretary of State for Northern Ireland on 16 January 2017. Brokenshire was obliged to call an election within a \"reasonable time period\", which he announced for 2 March 2017. Per the Stormont House Agreement , the 2017 Assembly election elected only 90 MLAs. Under power sharing rules in Northern Ireland, Foster was unable to continue in her role as First Minister while there was a vacancy for the deputy First Minister. This meant that Foster lost her role when McGuinness' resignation came into effect. The Executive Office therefore became vacant on 9 January 2017. There were allegations from the DUP that McGuinness' resignation was due to his ill health, and purely for \"party political reasons\" according to Foster. [36] McGuinness died on 21 March 2017, two months after his resignation.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Martin_McGuinness_2009.jpg/170px-Martin_McGuinness_2009.jpg",
+                "caption": "Martin McGuinness, pictured in 2009, was the deputy First Minister from 2007 until his resignation in January 2017"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_Heat_Incentive_scandal",
+        "title": "Renewable Heat Incentive scandal",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    },
+    {
+        "section": "Collapse of Stormont",
+        "text": "On 16 January 2017, a plenary session of the Northern Ireland Assembly was held to re-nominate a deputy First Minister. Sinn Féin's Health Minister Michelle O'Neill said before the Assembly session that \"we are not interested in trying to get into negotiations now – what we need is fundamental change. We believe the public need to have their say.\" [47] The Speaker called on the DUP and Sinn Féin to nominate a First Minister and deputy First Minister. Lord Morrow nominated Foster again for First Minister, a nomination which she accepted. Sinn Féin's nominating officer for the order of business was O'Neill, who refused to nominate a deputy First Minister. As the vacancies for the office were not filled after 7 days, the Northern Ireland Executive collapsed at 5pm on 16 January 2017. Responsibility and power for Northern Ireland transferred to James Brokenshire in his capacity as Secretary of State for Northern Ireland on 16 January 2017. Brokenshire made an announcement after the 7 day deadline passed and officially called a snap election for 2 March 2017 . [48] The Northern Ireland Assembly was dissolved on 26 January 2017.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Parliament_Buildings_Stormont.jpg/250px-Parliament_Buildings_Stormont.jpg",
+                "caption": "Parliament Buildings , Stormont , the seat of the Northern Ireland Assembly"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_Heat_Incentive_scandal",
+        "title": "Renewable Heat Incentive scandal",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar energy policy and incentives"
+    }
+]

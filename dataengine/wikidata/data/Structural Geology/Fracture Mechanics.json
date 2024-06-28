@@ -1,0 +1,359 @@
+[
+    {
+        "section": "Griffith's criterion",
+        "text": "Fracture mechanics was developed during World War I by English aeronautical engineer A. A. Griffith – thus the term Griffith crack – to explain the failure of brittle materials. [5] Griffith's work was motivated by two contradictory facts: A theory was needed to reconcile these conflicting observations. Also, experiments on glass fibers that Griffith himself conducted suggested that the fracture stress increases as the fiber diameter decreases. Hence the uniaxial tensile strength, which had been used extensively to predict material failure before Griffith, could not be a specimen-independent material property. Griffith suggested that the low fracture strength observed in experiments, as well as the size-dependence of strength, was due to the presence of microscopic flaws in the bulk material. To verify the flaw hypothesis, Griffith introduced an artificial flaw in his experimental glass specimens. The artificial flaw was in the form of a surface crack which was much larger than other flaws in a specimen. The experiments showed that the product of the square root of the flaw length ( a {\\displaystyle a} ) and the stress at fracture ( σ f {\\displaystyle \\sigma _{f}} ) was nearly constant, which is expressed by the equation: An explanation of this relation in terms of linear elasticity theory is problematic. Linear elasticity theory predicts that stress (and hence the strain) at the tip of a sharp flaw in a linear elastic material is infinite. To avoid that problem, Griffith developed a thermodynamic approach to explain the relation that he observed. The growth of a crack, the extension of the surfaces on either side of the crack, requires an increase in the surface energy . Griffith found an expression for the constant C {\\displaystyle C} in terms of the surface energy of the crack by solving the elasticity problem of a finite crack in an elastic plate. Briefly, the approach was: where E {\\displaystyle E} is the Young's modulus of the material and γ {\\displaystyle \\gamma } is the surface energy density of the material. Assuming E = 62 GPa {\\displaystyle E=62\\ {\\text{GPa}}} and γ = 1 J/m 2 {\\displaystyle \\gamma =1\\ {\\text{J/m}}^{2}} gives excellent agreement of Griffith's predicted fracture stress with experimental results for glass. For the simple case of a thin rectangular plate with a crack perpendicular to the load, the energy release rate, G {\\displaystyle G} , becomes: where σ {\\displaystyle \\sigma } is the applied stress, a {\\displaystyle a} is half the crack length, and E {\\displaystyle E} is the Young's modulus , which for the case of plane strain should be divided by the plate stiffness factor ( 1 − ν 2 ) {\\displaystyle (1-\\nu ^{2})} . The strain energy release rate can physically be understood as: the rate at which energy is absorbed by growth of the crack . However, we also have that: If G {\\displaystyle G} ≥ G c {\\displaystyle G_{c}} , this is the criterion for which the crack will begin to propagate. For materials highly deformed before crack propagation, the linear elastic fracture mechanics formulation is no longer applicable and an adapted model is necessary to describe the stress and displacement field close to crack tip, such as on fracture of soft materials .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Griffith-Riss-Zug.svg/220px-Griffith-Riss-Zug.svg.png",
+                "caption": "A Griffith crack (flaw) of length a {\\displaystyle a} is in the middle [3] [4] an infinity large material"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fracture_mechanics",
+        "title": "Fracture mechanics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Irwin's modification",
+        "text": "Griffith's theory provides excellent agreement with experimental data for brittle materials such as glass.  For ductile materials such as steel , although the relation σ f a = C {\\displaystyle \\sigma _{f}{\\sqrt {a}}=C} still holds, the surface energy ( γ ) predicted by Griffith's theory is usually unrealistically high.  A group working under G. R. Irwin [7] at the U.S. Naval Research Laboratory (NRL) during World War II realized that plasticity must play a significant role in the fracture of ductile materials. In ductile materials (and even in materials that appear to be brittle [8] ), a plastic zone develops at the tip of the crack.  As the applied load increases, the plastic zone increases in size until the crack grows and the elastically strained material behind the crack tip unloads. The plastic loading and unloading cycle near the crack tip leads to the dissipation of energy as heat .  Hence, a dissipative term has to be added to the energy balance relation devised by Griffith for brittle materials.  In physical terms, additional energy is needed for crack growth in ductile materials as compared to brittle materials. Irwin's strategy was to partition the energy into two parts: Then the total energy is: where γ {\\displaystyle \\gamma } is the surface energy and G p {\\displaystyle G_{p}} is the plastic dissipation (and dissipation from other sources) per unit area of crack growth. The modified version of Griffith's energy criterion can then be written as For brittle materials such as glass, the surface energy term dominates and G ≈ 2 γ = 2 J/m 2 {\\displaystyle G\\approx 2\\gamma =2\\,\\,{\\text{J/m}}^{2}} .  For ductile materials such as steel, the plastic dissipation term dominates and G ≈ G p = 1000 J/m 2 {\\displaystyle G\\approx G_{p}=1000\\,\\,{\\text{J/m}}^{2}} .  For polymers close to the glass transition temperature, we have intermediate values of G {\\displaystyle G} between 2 and 1000 J/m 2 {\\displaystyle {\\text{J/m}}^{2}} .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/PlasticZone2D.svg/330px-PlasticZone2D.svg.png",
+                "caption": "The plastic zone around a crack tip in a ductile material"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fracture_mechanics",
+        "title": "Fracture mechanics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Limitations",
+        "text": "But a problem arose for the NRL researchers because naval materials, e.g., ship-plate steel, are not perfectly elastic but undergo significant plastic deformation at the tip of a crack.  One basic assumption in Irwin's linear elastic fracture mechanics is small scale yielding, the condition that the size of the plastic zone is small compared to the crack length.  However, this assumption is quite restrictive for certain types of failure in structural steels though such steels can be prone to brittle fracture, which has led to a number of catastrophic failures. Linear-elastic fracture mechanics is of limited practical use for structural steels and Fracture toughness testing can be expensive.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TankerSchenectady.jpg/260px-TankerSchenectady.jpg",
+                "caption": "The S.S. Schenectady split apart by brittle fracture while in harbor, 1943."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fracture_mechanics",
+        "title": "Fracture mechanics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Elastic–plastic fracture mechanics",
+        "text": "Most engineering materials show some nonlinear elastic and inelastic behavior under operating conditions that involve large loads. [ citation needed ] In such materials the assumptions of linear elastic fracture mechanics may not hold, that is, Therefore, a more general theory of crack growth is needed for elastic-plastic materials that can account for:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/American_Airlines_Flight_587_vertical_stabilizer.png/260px-American_Airlines_Flight_587_vertical_stabilizer.png",
+                "caption": "Vertical stabilizer , which separated from American Airlines Flight 587 , leading to a fatal crash"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fracture_mechanics",
+        "title": "Fracture mechanics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Transition flaw size",
+        "text": "Let a material have a yield strength σ Y {\\displaystyle \\sigma _{Y}} and a fracture toughness in mode I K I c {\\displaystyle K_{Ic}} . Based on fracture mechanics, the material will fail at stress σ fail = K I c / π a {\\displaystyle \\sigma _{\\text{fail}}=K_{Ic}/{\\sqrt {\\pi a}}} . Based on plasticity, the material will yield when σ f a i l = σ Y {\\displaystyle \\sigma _{fail}=\\sigma _{Y}} . These curves intersect when a = K I c 2 / π σ Y 2 {\\displaystyle a=K_{Ic}^{2}/\\pi \\sigma _{Y}^{2}} . This value of a {\\displaystyle a} is called as transition flaw size a t {\\displaystyle a_{t}} ., and depends on the material properties of the structure. When the a < a t {\\displaystyle a<a_{t}} , the failure is governed by plastic yielding, and when a > a t {\\displaystyle a>a_{t}} the failure is governed by fracture mechanics. The value of a t {\\displaystyle a_{t}} for engineering alloys is 100 mm and for ceramics is 0.001 mm. [ citation needed ] If we assume that manufacturing processes can give rise to flaws in the order of micrometers , then, it can be seen that ceramics are more likely to fail by fracture, whereas engineering alloys would fail by plastic deformation.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Transition_flaw_size.png/260px-Transition_flaw_size.png",
+                "caption": "Failure stress as a function of crack size"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fracture_mechanics",
+        "title": "Fracture mechanics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Definition",
+        "text": "The energy release rate G {\\displaystyle G} is defined [3] as the instantaneous loss of total potential energy Π {\\displaystyle \\Pi } per unit crack growth area s {\\displaystyle s} , where the total potential energy is written in terms of the total strain energy Ω {\\displaystyle \\Omega } , surface traction t {\\displaystyle \\mathbf {t} } , displacement u {\\displaystyle \\mathbf {u} } , and body force b {\\displaystyle \\mathbf {b} } by The first integral is over the surface S t {\\displaystyle S_{t}} of the material, and the second is over its volume V {\\displaystyle V} . The figure on the right shows the plot of an external force P {\\displaystyle P} vs. the load-point displacement q {\\displaystyle q} , in which the area under the curve is the strain energy. The white area between the curve and the P {\\displaystyle P} -axis is referred to as the complementary energy. In the case of a linearly-elastic material , P ( q ) {\\displaystyle P(q)} is a straight line and the strain energy is equal to the complementary energy.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Plot_of_Load_vs._Load-Displacement.png/220px-Plot_of_Load_vs._Load-Displacement.png",
+                "caption": "Plot of Load vs. Displacement"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_release_rate_(fracture_mechanics)",
+        "title": "Energy release rate (fracture mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Multiple specimen methods for nonlinear materials",
+        "text": "In the case of prescribed displacement, holding the crack length fixed, the energy release rate can be computed by [3] while in the case of prescribed load, [3] As one can see, in both cases, the energy release rate G {\\displaystyle G} times the change in surface d s {\\displaystyle ds} returns the area between curves, which indicates the energy dissipated for the new surface area as illustrated in the right figure [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Graphical_Illustration_of_G_under_Fixed_Displacement_and_Fixed_Load_Conditions.png/220px-Graphical_Illustration_of_G_under_Fixed_Displacement_and_Fixed_Load_Conditions.png",
+                "caption": "Graphical Illustration of G under Fixed Displacement and Fixed Load Conditions"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_release_rate_(fracture_mechanics)",
+        "title": "Energy release rate (fracture mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Nodal release method",
+        "text": "If the crack is growing straight, the energy release rate can be decomposed as a sum of 3 terms G i {\\displaystyle G_{i}} associated with the energy in each 3 modes. As a result, the Nodal Release method (NR) can be used to determine G i {\\displaystyle G_{i}} from FEA results. The energy release rate is calculated at the nodes of the finite element mesh for the crack at an initial length and extended by a small distance Δ a {\\displaystyle \\Delta a} . First, we calculate the displacement variation at the node of interest Δ u → = u → ( t + 1 ) − u → ( t ) {\\displaystyle \\Delta {\\vec {u}}={\\vec {u}}^{(t+1)}-{\\vec {u}}^{(t)}} (before and after the crack tip node is released). Secondly, we keep track of the nodal force F → {\\displaystyle {\\vec {F}}} outputted by FEA. Finally, we can find each components of G {\\displaystyle G} using the following formulas: G 1 NR = 1 Δ a F 2 Δ u 2 2 {\\displaystyle G_{1}^{\\text{NR}}={\\frac {1}{\\Delta a}}F_{2}{\\frac {\\Delta u_{2}}{2}}} G 2 NR = 1 Δ a F 1 Δ u 1 2 {\\displaystyle G_{2}^{\\text{NR}}={\\frac {1}{\\Delta a}}F_{1}{\\frac {\\Delta u_{1}}{2}}} G 3 NR = 1 Δ a F 3 Δ u 3 2 {\\displaystyle G_{3}^{\\text{NR}}={\\frac {1}{\\Delta a}}F_{3}{\\frac {\\Delta u_{3}}{2}}} Where Δ a {\\displaystyle \\Delta a} is the width of the element bounding the crack tip. The accuracy of the method highly depends on the mesh refinement, both because the displacement and forces depend on it, and because G = lim Δ a → 0 G NR {\\displaystyle G=\\lim _{\\Delta a\\to 0}G^{\\text{NR}}} . Note that the equations above are derived using the crack closure integral. If the energy release rate exceeds a critical value, the crack will grow. In this case, a new FEA simulation is performed (for the next time step) where the node at the crack tip is released. For a bounded substrate, we may simply stop enforcing fixed Dirichlet boundary conditions at the crack tip node of the previous time step (i.e. displacements are no longer restrained). For a symmetric crack, we would need to update the geometry of the domain with a longer crack opening (and therefore generate a new mesh [5] ).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nodal_Release_Debounded.png/582px-Nodal_Release_Debounded.png",
+                "caption": "Figure 1: Crack debounding between two consecutive time steps using nodal release (NR)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_release_rate_(fracture_mechanics)",
+        "title": "Energy release rate (fracture mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "4-node elements",
+        "text": "The 4-node square linear elements seen in Figure 2 have a distance between nodes j {\\displaystyle j} and j + 1 {\\displaystyle j+1} equal to Δ a . {\\displaystyle \\Delta a.} Consider a crack with its tip located at node j . {\\displaystyle j.} Similar to the nodal release method, if the crack were to propagate  one element length along the line of symmetry (parallel to the x 1 {\\displaystyle x_{1}} -axis) the crack opening displacement would be the displacement at the previous crack tip, i.e. u j {\\displaystyle {\\boldsymbol {u^{j}}}} and the force at the new crack tip ( j + 1 ) {\\displaystyle (j+1)} would be F j + 1 . {\\displaystyle {\\boldsymbol {F}}^{j+1}.} Since the crack growth is assumed to be self-similar the displacement at node j {\\displaystyle j} after the crack propagates is equal to the displacement at node j − 1 {\\displaystyle j-1} before the crack propagates.  This same concept can be applied to the forces at node j + 1 {\\displaystyle j+1} and j . {\\displaystyle j.} Utilizing the same method shown in the nodal release section we recover the following equations for energy release rate: Where Δ u i j − 1 = u i ( + ) j − 1 − u i ( − ) j − 1 {\\displaystyle \\Delta u_{i}^{j-1}=u_{i}^{(+)j-1}-u_{i}^{(-)j-1}} (displacement above and below the crack face respectively). Because we have a line of symmetry parallel to the crack, we can assume u i ( + ) j − 1 = − u i ( − ) j − 1 . {\\displaystyle u_{i}^{(+)j-1}=-u_{i}^{(-)j-1}.} Thus, Δ u i j − 1 = 2 u i ( + ) j − 1 . {\\displaystyle \\Delta u_{i}^{j-1}=2u_{i}^{(+)j-1}.}",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/4-node.png/347px-4-node.png",
+                "caption": "Figure 2: Schematic of the MCCI process for 4-node linear rectangular elements."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_release_rate_(fracture_mechanics)",
+        "title": "Energy release rate (fracture mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "8-node elements",
+        "text": "The 8-node rectangular elements seen in Figure 3 have quadratic basis functions . The process for calculating G is the same as the 4-node elements with the exception that Δ a {\\displaystyle \\Delta a} (the crack growth over one element) is now the distance from node j {\\displaystyle j} to j + 2. {\\displaystyle j+2.} Once again, making the assumption of self-similar straight crack growth the energy release rate can be calculated utilizing the following equations: Like with the nodal release method the accuracy of MCCI is highly dependent on the level of discretization along the crack tip, i.e. G = lim Δ a → 0 G MCCI . {\\displaystyle G=\\lim _{\\Delta a\\to 0}G^{\\text{MCCI}}.} Accuracy also depends on element choice. A mesh of 8-node quadratic elements can produce more accurate results than a mesh of 4-node linear elements with the same number of degrees of freedom [8] in the mesh.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/8-node.png/352px-8-node.png",
+                "caption": "Figure 3: Schematic of the MCCI process for 9-node quadratic rectangular elements."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_release_rate_(fracture_mechanics)",
+        "title": "Energy release rate (fracture mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Domain integral approach for J",
+        "text": "The J-integral may be calculated directly using the finite element mesh and shape functions. [9] We consider a domain contour as shown in figure 4 and choose an arbitrary smooth function q ~ ( x 1 , x 2 ) = ∑ i N i ( x 1 , x 2 ) q ~ i {\\displaystyle {\\tilde {q}}(x_{1},x_{2})=\\sum _{i}N_{i}(x_{1},x_{2}){\\tilde {q}}_{i}} such that q ~ = 1 {\\displaystyle {\\tilde {q}}=1} on Γ {\\displaystyle \\Gamma } and q ~ = 0 {\\displaystyle {\\tilde {q}}=0} on C 1 {\\displaystyle {\\mathcal {C}}_{1}} . For linear elastic cracks growing straight ahead, G = J {\\displaystyle G=J} . The energy release rate can then be calculated over the area bounded by the contour using an updated formulation: J = ∫ A ( σ i j u i , 1 q ~ , j − W q ~ , 1 ) d A {\\displaystyle J=\\int _{\\mathcal {A}}(\\sigma _{ij}u_{i,1}{\\tilde {q}}_{,j}-W{\\tilde {q}}_{,1})d{\\mathcal {A}}} The formula above may be applied to any annular area surrounding the crack tip (in particular, a set of neighboring elements can be used). This method is very accurate, even with a coarse mesh around the crack tip (one may choose an integration domain located far away, with stresses and displacement less sensitive to mesh refinement)",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Contour_Domain_Integral_J-Integral.png/309px-Contour_Domain_Integral_J-Integral.png",
+                "caption": "Figure 4: Contour domain integral for the J-integral"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_release_rate_(fracture_mechanics)",
+        "title": "Energy release rate (fracture mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "8-node isoparametric element",
+        "text": "The 8-node quadratic element is described by Figure 5 in both parent space with local coordinates ξ {\\displaystyle \\xi } and η , {\\displaystyle \\eta ,} and by the mapped element in physical/global space by x {\\displaystyle x} and y . {\\displaystyle y.} The parent element is mapped from the local space to the physical space by the shape functions N i ( ξ , η ) {\\displaystyle N_{i}(\\xi ,\\eta )} and the degree of freedom coordinates ( x i , y i ) . {\\displaystyle (x_{i},y_{i}).} The crack tip is located at ξ = − 1 , η = − 1 {\\displaystyle \\xi =-1,\\eta =-1} or x = 0 , y = 0. {\\displaystyle x=0,y=0.} In a similar way, displacements (defined as u ≡ u 1 , v ≡ u 2 {\\displaystyle u\\equiv u_{1},v\\equiv u_{2}} ) can also be mapped. A property of shape functions in the finite element method is compact support , specifically the Kronecker delta property (i.e. N i = 1 {\\displaystyle N_{i}=1} at node i {\\displaystyle i} and zero at all other nodes). This results in the following shape functions for the 8-node quadratic elements: [8] When considering a line in front of the crack that is co-linear with the x {\\displaystyle x} - axis (i.e. N i ( ξ , η = − 1 ) {\\displaystyle N_{i}(\\xi ,\\eta =-1)} )  all basis functions are zero except for N 1 , 2 , 5 . {\\displaystyle N_{1,2,5}.} Calculating the normal strain involves using the chain rule to take the derivative of displacement with respect to x . {\\displaystyle x.} If the nodes are spaced evenly on the rectangular element then the strain will not contain the singularity. By moving nodes 5 and 8 position to a quarter of the length ( L 4 ) {\\displaystyle ({\\tfrac {L}{4}})} of the element closer to the crack tip as seen in figure 5, the mapping from ξ → x {\\displaystyle \\xi \\rightarrow x} becomes: Solving for ξ {\\displaystyle \\xi } and taking the derivative results in: Plugging this result into the equation for strain the final result is obtained: By moving the mid-nodes to a quarter position results in the correct 1 r {\\displaystyle {\\frac {1}{\\sqrt {r}}}} crack tip singularity.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Finalfig5.png/220px-Finalfig5.png",
+                "caption": "Figure 5: Mapped and Parent Element of the 8-node isoparametric finite element. Note the quarter point location of the nodes in the mapped element."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Triangle256.png/220px-Triangle256.png",
+                "caption": "Figure 6: Triangular Element mapped from 8-node rectangular element."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_release_rate_(fracture_mechanics)",
+        "title": "Energy release rate (fracture mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Other element types",
+        "text": "The rectangular element method does not allow for singular elements to be easily meshed around the crack tip. This impedes the ability to capture the angular dependence of the stress fields which is critical in determining the crack path. Also, except along the element edges the 1 r {\\displaystyle {\\frac {1}{\\sqrt {r}}}} singularity exists in a very small region near the crack tip. Figure 6 shows another quarter-point method for modeling this singularity. The 8-node rectangular element can be mapped into a triangle. [15] This is done by collapsing the nodes on the line ξ = − 1 {\\displaystyle \\xi =-1} to the mid-node location and shifting the mid-nodes on η = ± 1 {\\displaystyle \\eta =\\pm 1} to the quarter-point location.  The collapsed rectangle can more easily surround the crack tip but requires that the element edges be straight or the accuracy of calculating the stress intensity factor will be reduced. A better candidate for the quarter-point method is the natural triangle as seen in Figure 7. The element's geometry allows for the crack tip to be easily surrounded and meshing is simplified. Following the same procedure described above, the displacement and strain field for the triangular elements are: This method reproduces the first two terms of the Williams solutions [16] with a constant and singular term. An advantage of the quarter-point method is that it can be easily generalized to 3-dimensional models. This can greatly reduce computation when compared to other 3-dimensional methods but can lead to errors if that crack tip propagates with a large degree of curvature. [17]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Triagneles2.png/330px-Triagneles2.png",
+                "caption": "Figure 7: Natural Triangle Element"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_release_rate_(fracture_mechanics)",
+        "title": "Energy release rate (fracture mechanics)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Strength",
+        "text": "Fracture strength, also known as breaking strength, is the stress at which a specimen fails via fracture. [2] This is usually determined for a given specimen by a tensile test , which charts the stress–strain curve (see image). The final recorded point is the fracture strength. Ductile materials have a fracture strength lower than the ultimate tensile strength (UTS), whereas in brittle materials the fracture strength is equivalent to the UTS. [2] If a ductile material reaches its ultimate tensile strength in a load-controlled situation, [Note 1] it will continue to deform, with no additional load application, until it ruptures. However, if the loading is displacement-controlled, [Note 2] the deformation of the material may relieve the load, preventing rupture. The statistics of fracture in random materials have very intriguing behavior, and was noted by the architects and engineers quite early. Indeed, fracture or breakdown studies might be the oldest physical science studies, which still remain intriguing and very much alive. Leonardo da Vinci , more than 500 years ago, observed that the tensile strengths of nominally identical specimens of iron wire decrease with increasing length of the wires (see e.g., [3] for a recent discussion). Similar observations were made by Galileo Galilei more than 400 years ago. This is the manifestation of the extreme statistics of failure (bigger sample volume can have larger defects due to cumulative fluctuations where failures nucleate and induce lower strength of the sample). [4]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Stress_v_strain_Aluminum_2.png/220px-Stress_v_strain_Aluminum_2.png",
+                "caption": "Stress vs. strain curve typical of aluminum Ultimate tensile strength Yield strength Proportional limit stress Fracture Offset strain (typically 0.2%)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fracture",
+        "title": "Fracture",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Brittle",
+        "text": "In brittle fracture, no apparent plastic deformation takes place before fracture. Brittle fracture typically involves little energy absorption and occurs at high speeds—up to 2,133.6 m/s (7,000 ft/s) in steel. [5] In most cases brittle fracture will continue even when loading is discontinued. [6] In brittle crystalline materials, fracture can occur by cleavage as the result of tensile stress acting normal to crystallographic planes with low bonding (cleavage planes). In amorphous solids , by contrast, the lack of a crystalline structure results in a conchoidal fracture , with cracks proceeding normal to the applied tension. The fracture strength (or micro-crack nucleation stress) of a material was first theoretically estimated by Alan Arnold Griffith in 1921: where: – On the other hand, a crack introduces a stress concentration modeled by Inglis's equation [7] where: Putting these two equations together gets Sharp cracks (small ρ {\\displaystyle \\rho } ) and large defects (large a {\\displaystyle a} ) both lower the fracture strength of the material. Recently, scientists have discovered supersonic fracture , the phenomenon of crack propagation faster than the speed of sound in a material. [8] This phenomenon was recently also verified by experiment of fracture in rubber-like materials. The basic sequence in a typical brittle fracture is: introduction of a flaw either before or after the material is put in service, slow and stable crack propagation under recurring loading, and sudden rapid failure when the crack reaches critical crack length based on the conditions defined by fracture mechanics. [6] Brittle fracture may be avoided by controlling three primary factors: material fracture toughness (K c ), nominal stress level (σ), and introduced flaw size (a). [5] Residual stresses, temperature, loading rate, and stress concentrations also contribute to brittle fracture by influencing the three primary factors. [5] Under certain conditions, ductile materials can exhibit brittle behavior. Rapid loading, low temperature, and triaxial stress constraint conditions may cause ductile materials to fail without prior deformation. [5]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Glass_fracture.jpg/220px-Glass_fracture.jpg",
+                "caption": "Brittle fracture in glass"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pedalarm_Bruch.jpg/220px-Pedalarm_Bruch.jpg",
+                "caption": "Fracture of an aluminum crank arm of a bicycle, where the bright areas display a brittle fracture, and the dark areas show fatigue fracture"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fracture",
+        "title": "Fracture",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Ductile",
+        "text": "In ductile fracture, extensive plastic deformation ( necking ) takes place before fracture. The terms \"rupture\" and \"ductile rupture\" describe the ultimate failure of ductile materials loaded in tension. The extensive plasticity causes the crack to propagate slowly due to the absorption of a large amount of energy before fracture. [9] [10] Because ductile rupture involves a high degree of plastic deformation, the fracture behavior of a propagating crack as modelled above changes fundamentally. Some of the energy from stress concentrations at the crack tips is dissipated by plastic deformation ahead of the crack as it propagates. The basic steps in ductile fracture are microvoid [11] formation, microvoid coalescence (also known as crack formation), crack propagation, and failure, often resulting in a cup-and-cone shaped failure surface. The microvoids nucleate at various internal discontinuities, such as precipitates, secondary phases, inclusions, and grain boundaries in the material. [11] As local stress increases the microvoids grow, coalesce and eventually form a continuous fracture surface. [11] Ductile fracture is typically transgranular and deformation due to dislocation slip can cause the shear lip characteristic of cup and cone fracture. [12] The microvoid coalescence results in a dimpled appearance on the fracture surface. The dimple shape is heavily influenced by the type of loading. Fracture under local uniaxial tensile loading usually results in formation of equiaxed dimples. Failures caused by shear will produce elongated or parabolic shaped dimples that point in opposite directions on the matching fracture surfaces. Finally, tensile tearing produces elongated dimples that point in the same direction on matching fracture surfaces. [11]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ductile_fracture_upd.png/220px-Ductile_fracture_upd.png",
+                "caption": "Schematic representation of the steps in ductile fracture (in pure tension)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ductile_Fracture_Surface_6061-T6_Al_SEM.png/220px-Ductile_Fracture_Surface_6061-T6_Al_SEM.png",
+                "caption": "Ductile fracture surface of 6061-T6 aluminum"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fracture",
+        "title": "Fracture",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Computational fracture mechanics",
+        "text": "Virtually every area of engineering has been significantly impacted by computers, and fracture mechanics is no exception. Since there are so few actual problems with closed-form analytical solutions, numerical modelling has become an essential tool in fracture analysis. There are literally hundreds of configurations for which stress-intensity solutions have been published, the majority of which were derived from numerical models. The J integral and crack-tip-opening displacement (CTOD) calculations are two more increasingly popular elastic-plastic studies. Additionally, experts are using cutting-edge computational tools to study unique issues such ductile crack propagation, dynamic fracture, and fracture at interfaces. The exponential rise in computational fracture mechanics applications is essentially the result of quick developments in computer technology. [17] Most used computational numerical methods are finite element and boundary integral equation methods. Other methods include stress and displacement matching, element crack advance in which latter two come under Traditional Methods in Computational Fracture Mechanics.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Meshing_in_Finite_Element_Analysis.jpg/220px-Meshing_in_Finite_Element_Analysis.jpg",
+                "caption": "Fine Mesh done in Rectangular area in Ansys software (Finite Element Method)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fracture",
+        "title": "Fracture",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Stress intensity factors for various modes",
+        "text": "In 1957, G. Irwin found that the stresses around a crack could be expressed in terms of a scaling factor called the stress intensity factor . He found that a crack subjected to any arbitrary loading could be resolved into three types of linearly independent cracking modes. [6] These load types are categorized as Mode I, II, or III as shown in the figure.  Mode I is an opening ( tensile ) mode where the crack surfaces move directly apart. Mode II is a sliding (in-plane shear ) mode where the crack surfaces slide over one another in a direction perpendicular to the leading edge of the crack. Mode III is a tearing ( antiplane shear ) mode where the crack surfaces move relative to one another and parallel to the leading edge of the crack. Mode I is the most common load type encountered in engineering design. Different subscripts are used to designate the stress intensity factor for the three different modes.  The stress intensity factor for mode I is designated K I {\\displaystyle K_{\\rm {I}}} and applied to the crack opening mode.  The mode II stress intensity factor, K I I {\\displaystyle K_{\\rm {II}}} , applies to the crack sliding mode and the mode III stress intensity factor, K I I I {\\displaystyle K_{\\rm {III}}} , applies to the tearing mode.  These factors are formally defined as: [7]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Fracture_modes_v2.svg/330px-Fracture_modes_v2.svg.png",
+                "caption": "Mode I, Mode II, and Mode III crack loading."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stress_intensity_factor",
+        "title": "Stress intensity factor",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Crack growth model with constant value of 𝛽 and R = 0",
+        "text": "For the Griffith-Irwin crack growth model or center crack of length 2 a {\\displaystyle 2a} in an infinite sheet as shown in the figure 2, we have β = 1 {\\displaystyle \\beta =1} and is independent of the crack length. Also, C {\\displaystyle C} can be considered to be independent of the crack length. By assuming β = constant , {\\displaystyle \\beta ={\\text{constant}},} the above integral simplifies to by integrating the above expression for m ≠ 2 {\\displaystyle m\\neq 2} and m = 2 {\\displaystyle m=2} cases, the total number of load cycles N f {\\displaystyle N_{f}} are given by Now, for m > 2 {\\displaystyle m>2} and critical crack size to be very large in comparison to the initial crack size ( a c >> a 0 ) {\\displaystyle {\\big (}a_{c}>>a_{0}{\\big )}} will give The above analytical expressions for the total number of load cycles to fracture ( N f ) {\\displaystyle {\\big (}N_{f}{\\big )}} are obtained by assuming Y = constant {\\displaystyle Y={\\text{constant}}} . For the cases, where β {\\displaystyle \\beta } is dependent on the crack size such as the Single Edge Notch Tension (SENT), Center Cracked Tension (CCT) geometries, numerical integration can be used to compute N f {\\displaystyle N_{f}} .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Center_crack_tension_specimen.pdf/page1-206px-Center_crack_tension_specimen.pdf.jpg",
+                "caption": "Figure 2: Geometrical representation of Center Cracked Tension test specimen"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Crack_growth_equation",
+        "title": "Crack growth equation",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Numerical calculation",
+        "text": "This scheme is useful when β {\\displaystyle \\beta } is dependent on the crack size a {\\displaystyle a} . The initial crack size is considered to be a 0 {\\displaystyle a_{0}} . The stress intensity factor at the current crack size a {\\displaystyle a} is computed using the maximum applied stress as Now, by substituting the stress intensity factor in Paris–Erdogan equation, the increment in the crack size Δ a {\\displaystyle \\Delta a} is computed as where Δ N {\\displaystyle \\Delta N} is cycle step size. The new crack size becomes where index i {\\displaystyle i} refers to the current iteration step. The new crack size is used to calculate the stress intensity at maximum applied stress for the next iteration. This iterative process is continued until Once this failure criterion is met, the simulation is stopped. The schematic representation of the fatigue life prediction process is shown in figure 3.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Fatiguelifeprediction.pdf/page1-290px-Fatiguelifeprediction.pdf.jpg",
+                "caption": "Figure 3: Schematic representation of fatigue life prediction process [28]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Crack_growth_equation",
+        "title": "Crack growth equation",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Example",
+        "text": "The stress intensity factor in a SENT specimen (see, figure 4) under fatigue crack growth is given by [5] The following parameters are considered for the calculation Δ σ = 20 {\\displaystyle \\Delta \\sigma =20} MPa, C = 4.6774 × 10 − 11 m cycle 1 ( MPa m ) m {\\displaystyle C=4.6774\\times 10^{-11}{\\frac {\\text{m}}{\\text{cycle}}}{\\frac {1}{({\\text{MPa}}{\\sqrt {\\text{m}}})^{m}}}} , m = 3.874 {\\displaystyle m=3.874} . The critical crack length, a = a c {\\displaystyle a=a_{c}} , can be computed when K max = K Ic {\\displaystyle K_{\\text{max}}=K_{\\text{Ic}}} as By solving the above equation, the critical crack length is obtained as a c = 26.7 mm {\\displaystyle a_{c}=26.7{\\text{mm}}} . Now, invoking the Paris–Erdogan equation gives By numerical integration of the above expression, the total number of load cycles to failure is obtained as N f = 1.2085 × 10 6 cycles {\\displaystyle N_{f}=1.2085\\times 10^{6}{\\text{ cycles}}} .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Single_Edge_Notch_Tension_test_specimen.pdf/page1-220px-Single_Edge_Notch_Tension_test_specimen.pdf.jpg",
+                "caption": "Figure 4: Geometrical representation of Single Edge Notch Tension test specimen"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Crack_growth_equation",
+        "title": "Crack growth equation",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Two-dimensional J-integral",
+        "text": "The two-dimensional J-integral was originally defined as [3] (see Figure 1 for an illustration) where W ( x 1 , x 2 ) is the strain energy density, x 1 , x 2 are the coordinate directions, t = [ σ ] n is the surface traction vector, n is the normal to the curve Γ, [ σ ] is the Cauchy stress tensor , and u is the displacement vector .  The strain energy density is given by The J-integral around a crack tip is frequently expressed in a more general form [ citation needed ] (and in index notation ) as where J i {\\displaystyle J_{i}} is the component of the J-integral for crack opening in the x i {\\displaystyle x_{i}} direction and ε {\\displaystyle \\varepsilon } is a small region around the crack tip.\nUsing Green's theorem we can show that this integral is zero when the boundary Γ {\\displaystyle \\Gamma } is closed and encloses a region that contains no singularities and is simply connected .  If the faces of the crack do not have any surface tractions on them then the J-integral is also path independent . Rice also showed that the value of the J-integral represents the energy release rate for planar crack growth.\nThe J-integral was developed because of the difficulties involved in computing the stress close to a crack in a nonlinear elastic or elastic- plastic material.  Rice showed that if monotonic loading was assumed (without any plastic unloading) then the J-integral could be used to compute the energy release rate of plastic materials too.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Integrale-J_2D.png/200px-Integrale-J_2D.png",
+                "caption": "Figure 1. Line J-integral around a notch in two dimensions."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/J-integral",
+        "title": "J-integral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    },
+    {
+        "section": "Elastic-plastic materials and the HRR solution",
+        "text": "Hutchinson, Rice and Rosengren [7] [8] subsequently showed that J characterizes the singular stress and strain fields at the tip of a crack in nonlinear (power law hardening) elastic-plastic materials where the size of the plastic zone is small compared with the crack length.  Hutchinson used a material constitutive law of the form suggested by W. Ramberg and W. Osgood : [9] where σ is the stress in uniaxial tension, σ y is a yield stress , ε is the strain ,  and ε y = σ y / E is the corresponding yield strain.  The quantity E is the elastic Young's modulus of the material.  The model is parametrized by α , a dimensionless constant characteristic of the material, and n , the coefficient of work hardening .  This model is applicable only to situations where the stress increases monotonically, the stress components remain approximately in the same ratios as loading progresses (proportional loading), and there is no unloading . If a far-field tensile stress σ far is applied to the body shown in the adjacent figure, the J-integral around the path Γ 1 (chosen to be completely inside the elastic zone) is given by Since the total integral around the crack vanishes and the contributions along the surface of the crack are zero, we have If the path Γ 2 is chosen such that it is inside the fully plastic domain, Hutchinson showed that where K is a stress amplitude, ( r , θ ) is a polar coordinate system with origin at the crack tip, s is a constant determined from an asymptotic expansion of the stress field around the crack, and I is a dimensionless integral.  The relation between the J-integrals around  Γ 1 and  Γ 2 leads to the constraint and an expression for K in terms of the far-field stress where β = 1 for plane stress and β = 1 − ν 2 for plane strain ( ν is the Poisson's ratio ). The asymptotic expansion of the stress field and the above ideas can be used to determine the stress and strain fields in terms of the J-integral: where σ ~ i j {\\displaystyle {\\tilde {\\sigma }}_{ij}} and ε ~ i j {\\displaystyle {\\tilde {\\varepsilon }}_{ij}} are dimensionless functions. These expressions indicate that J can be interpreted as a plastic analog to the stress intensity factor ( K ) that is used in linear elastic fracture mechanics, i.e., we can use a criterion such as J > J Ic as a crack growth criterion.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/HRRSingularity_plain.svg/250px-HRRSingularity_plain.svg.png",
+                "caption": "Paths for J-integral calculation around a crack in a two-dimensional elastic-plastic material."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/J-integral",
+        "title": "J-integral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Fracture Mechanics"
+    }
+]

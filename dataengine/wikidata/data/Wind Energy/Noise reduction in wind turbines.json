@@ -1,0 +1,1091 @@
+[
+    {
+        "section": "Aerodynamics",
+        "text": "Blade shape and dimension are determined by the aerodynamic performance required to efficiently extract energy, and by the strength required to resist forces on the blade. The aerodynamics of a horizontal-axis wind turbine are not straightforward. The air flow at the blades is not the same as that away from the turbine. The way that energy is extracted from the air also causes air to be deflected by the turbine. Wind turbine aerodynamics at the rotor surface exhibit phenomena that are rarely seen in other aerodynamic fields.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Wind_rotor_profile.jpg/220px-Wind_rotor_profile.jpg",
+                "caption": "Wind rotor profile"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine_design",
+        "title": "Wind turbine design",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Power control",
+        "text": "Rotation speed must be controlled for efficient power generation and to keep the turbine components within speed and torque limits. The centrifugal force on the blades increases as the square of the rotation speed, which makes this structure sensitive to overspeed. Because power increases as the cube of the wind speed, turbines have must survive much higher wind loads (such as gusts of wind) than those loads from which they generate power. A wind turbine must produce power over a range of wind speeds. The cut-in speed is around 3–4 m/s for most turbines, and cut-out at 25 m/s. [2] If the rated wind speed is exceeded the power has to be limited. A control system involves three basic elements: sensors to measure process variables, actuators to manipulate energy capture and component loading, and control algorithms that apply information gathered by the sensors to coordinate the actuators. [3] Any wind blowing above the survival speed damages the turbine. The survival speed of commercial wind turbines ranges from 40 m/s (144 km/h, 89 MPH) to 72 m/s (259 km/h, 161 MPH), typically around 60 m/s (216 km/h, 134 MPH). Some turbines can survive 80 metres per second (290 km/h; 180 mph). [4]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Powercurve.png/500px-Powercurve.png",
+                "caption": ""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine_design",
+        "title": "Wind turbine design",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Furling",
+        "text": "Furling works by decreasing the angle of attack, which reduces drag and blade cross-section. One major problem is getting the blades to stall or furl quickly enough in a wind gust. A fully furled turbine blade, when stopped, faces the edge of the blade into the wind. Loads can be reduced by making a structural system softer or more flexible. [3] This can be accomplished with downwind rotors or with curved blades that twist naturally to reduce angle of attack at higher wind speeds. These systems are nonlinear and couple the structure to the flow field - requiring design tools to evolve to model these nonlinearities. Standard turbines all furl in high winds. Since furling requires acting against the torque on the blade, it requires some form of pitch angle control, which is achieved with a slewing drive . This drive precisely angles the blade while withstanding high torque loads. In addition, many turbines use hydraulic systems. These systems are usually spring-loaded, so that if hydraulic power fails, the blades automatically furl. Other turbines use an electric servomotor for every blade. They have a battery-reserve in case of grid failure. Small wind turbines (under 50 kW) with variable- pitching generally use systems operated by centrifugal force, either by flyweights or geometric design, and avoid electric or hydraulic controls. Fundamental gaps exist in pitch control, limiting the reduction of energy costs, according to a report funded by the Atkinson Center for a Sustainable Future . Load reduction is currently focused on full-span blade pitch control, since individual pitch motors are the actuators on commercial turbines. Significant load mitigation has been demonstrated in simulations for blades, tower, and drive train. However, further research is needed to increase energy capture and mitigate fatigue loads. A control technique applied to the pitch angle is done by comparing the power output with the power value at the rated engine speed (power reference, Ps reference). Pitch control is done with PI controller. In order to adjust pitch rapidly enough, the actuator uses the time constant Tservo, an integrator and limiters. The pitch angle remains from 0° to 30° with a change rate  of 10°/second. As in the figure at the right, the reference pitch angle is compared with the actual pitch angle b and then the difference is corrected by the actuator. The reference pitch angle, which comes from the PI controller, goes through a limiter. Restrictions are important to maintain the pitch angle in real terms. Limiting the change rate is especially important during network faults. The importance is due to the fact that the controller decides how quickly it can reduce the aerodynamic energy to avoid acceleration during errors. [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pitch_Controller.jpg/220px-Pitch_Controller.jpg",
+                "caption": "Pitch Controller"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine_design",
+        "title": "Wind turbine design",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Constant torque angle control",
+        "text": "In this control strategy the d axis current is kept at zero, while the vector current aligns with the q axis in order to maintain the torque angle at 90 o . This is a common control strategy because only the Iqs current must be controlled. The torque equation of the generator is a linear equation dependent only on the Iqs current. So, the electromagnetic torque for Ids = 0 (we can achieve that with the d-axis controller) is now: T e = 3 / 2 p ( λ p m I q s + ( L d s − L q s ) I d s I q s ) = 3 / 2 p λ p m I q s {\\displaystyle Te=3/2p(\\lambda pmIqs+(Lds-Lqs)IdsIqs)=3/2p\\lambda pmIqs} Thus, the complete system of the machine side converter and the cascaded PI controller loops is given by the figure. The control inputs are the duty rations m ds and m qs , of the PWM-regulated converter. It displays the control scheme for the wind turbine in the machine side and simultaneously how the I ds to zero (the torque equation is linear).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Machine_Side_Controller.jpg/220px-Machine_Side_Controller.jpg",
+                "caption": "Machine Side Controller Design"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine_design",
+        "title": "Wind turbine design",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Electrical braking",
+        "text": "Braking a small turbine can be done by dumping energy from the generator into a resistor bank, converting kinetic energy into heat. This method is useful if the kinetic load on the generator is suddenly reduced or is too small to keep the turbine speed within its allowed limit. Cyclically braking slows the blades, which increases the stalling effect and reducing efficiency. Rotation can be kept at a safe speed in faster winds while maintaining (nominal) power output. This method is usually not applied on large, grid-connected wind turbines.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Turbrake.jpg/170px-Turbrake.jpg",
+                "caption": "2kW Dynamic braking resistor for small wind turbine."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine_design",
+        "title": "Wind turbine design",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Turbine size",
+        "text": "Turbines come in size classes. The smallest, with power less than 10 kW are used in homes, farms and remote applications whereas intermediate wind turbines (10-250 kW ) are useful for village power, hybrid systems and distributed power . The world's largest wind turbine as of 2021 was Vestas ' V236-15.0 MW turbine. The new design's blades offer the largest swept area in the world with three 115.5 metres (379 ft) blades giving a rotor diameter of 236 metres (774 ft). Ming Yang in China have announced a larger 16 MW design. [8] [9] For a given wind speed, turbine mass is approximately proportional to the cube of its blade-length. Wind power intercepted is proportional to the square of blade-length. [10] The maximum blade-length of a turbine is limited by strength, stiffness, and transport considerations. Labor and maintenance costs increase slower than turbine size, so to minimize costs, wind farm turbines are basically limited by the strength of materials, and siting requirements.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flow_diagram_for_wind_turbine_plant.jpg/220px-Flow_diagram_for_wind_turbine_plant.jpg",
+                "caption": "Figure 1. Flow diagram for wind turbine plant"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/WindPropBlade.jpg/220px-WindPropBlade.jpg",
+                "caption": "A person standing beside 15 m long blades."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine_design",
+        "title": "Wind turbine design",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Generator",
+        "text": "For large horizontal-axis wind turbines (HAWT), the generator [14] is mounted in a nacelle at the top of a tower, behind the rotor hub. Older wind turbines generate electricity through asynchronous machines directly connected to the grid. The gearbox reduces generator cost and weight. Commercial generators have a rotor carrying a winding so that a rotating magnetic field is produced inside a set of windings called the stator . While the rotating winding consumes a fraction of a percent of the generator output, adjustment of the field current allows good control over the output voltage. The rotor's varying output frequency and voltage can be matched to the fixed values of the grid using multiple technologies such as doubly fed induction generators or full-effect converters, which converts the variable frequency current to DC and then back to AC using inverters . Although such alternatives require costly equipment and cost power, the turbine can capture a significantly larger fraction of the wind energy. Most are low -voltage 660 Volt, but some offshore turbines (several MW) are 3.3 kV medium voltage . [15] In some cases, especially when offshore, a large collector transformer converts the wind farm's medium-voltage AC grid to DC and transmits the energy through a power cable to an onshore HVDC converter station .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Scout_moor_gearbox%2C_rotor_shaft_and_brake_assembly.jpg/220px-Scout_moor_gearbox%2C_rotor_shaft_and_brake_assembly.jpg",
+                "caption": "Gearbox , rotor shaft and brake assembly"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine_design",
+        "title": "Wind turbine design",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Blade design",
+        "text": "The ratio between the blade speed and the wind speed is called tip-speed ratio . High efficiency 3-blade-turbines have tip speed/wind speed ratios of 6 to 7. Wind turbines spin at varying speeds (a consequence of their generator design). Use of aluminum and composite materials has contributed to low rotational inertia , which means that newer wind turbines can accelerate quickly if the winds pick up, keeping the tip speed ratio more nearly constant. Operating closer to their optimal tip speed ratio during energetic gusts of wind allows wind turbines to improve energy capture from sudden gusts. Noise increases with tip speed. To increase tip speed without increasing noise would reduce torque into the gearbox and generator, reducing structural loads, thereby reducing cost. [3] The noise reduction is linked to the detailed blade aerodynamics, especially factors that reduce abrupt stalling. The inability to predict stall restricts the use of aggressive aerodynamics. [3] Some blades (mostly on Enercon ) have a winglet to increase performance and reduce noise. [25] A blade can have a lift-to-drag ratio of 120, [26] compared to 70 for a sailplane and 15 for an airliner. [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Unlackierte_Blattspitze.JPG/170px-Unlackierte_Blattspitze.JPG",
+                "caption": "Unpainted tip of a blade"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine_design",
+        "title": "Wind turbine design",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "The hub",
+        "text": "In simple designs, the blades are directly bolted to the hub and are unable to pitch, which leads to aerodynamic stall above certain windspeeds. In more sophisticated designs, they are bolted to the pitch bearing , which adjusts their angle of attack with the help of a pitch system according to the wind speed. [28] Pitch control is performed by hydraulic or electric systems ( battery or ultracapacitor ). [29] The pitch bearing is bolted to the hub. The hub is fixed to the rotor shaft, which drives the generator directly or through a gearbox.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Connecting_Hub_to_Turbine_Tower_No_11_-_geograph.org.uk_-_787410.jpg/220px-Connecting_Hub_to_Turbine_Tower_No_11_-_geograph.org.uk_-_787410.jpg",
+                "caption": "A Wind turbine hub being installed"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine_design",
+        "title": "Wind turbine design",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Blade count",
+        "text": "The number of blades is selected for aerodynamic efficiency, component costs, and system reliability. Noise emissions are affected by the location of the blades upwind or downwind of the tower and the rotor speed. Given that the noise emissions from the blades' trailing edges and tips vary by the 5th power of blade speed, a small increase in tip speed dramatically increases noise. Wind turbines almost universally use either two or three blades. However, patents present designs with additional blades, such as Chan Shin's multi-unit rotor blade system. [30] Aerodynamic efficiency increases with number of blades but with diminishing return. Increasing from one to two yields a six percent increase, while going from two to three yields an additional three percent. [31] Further increasing the blade count yields minimal improvements and sacrifices too much in blade stiffness as the blades become thinner. [ citation needed ] Theoretically, an infinite number of blades of zero width is the most efficient, operating at a high value of the tip speed ratio, but this is not practical. [32] Component costs affected by blade count are primarily for materials and manufacturing of the turbine rotor and drive train. [33] Generally, the lower the number of blades, the lower the material and manufacturing costs. In addition, fewer blades allow higher rotational speed. Blade stiffness requirements to avoid tower interference limit blade thickness, but only when the blades are upwind of the tower; deflection in a downwind machine increases tower clearance. Fewer blades with higher rotational speeds reduce peak torque in the drive train, resulting in lower gearbox and generator costs. System reliability is affected by blade count primarily through the dynamic loading of the rotor into the drive train and tower systems. While aligning the wind turbine to changes in wind direction (yawing), each blade experiences a cyclic load at its root end depending on blade position. However, these cyclic loads when combined at the drive train shaft are symmetrically balanced for three blades, yielding smoother operation during yaw. One or two blade turbines can use a pivoting teetered hub to nearly eliminate the cyclic loads into the drive shaft and system during yawing. In 2012, a Chinese 3.6 MW two-blade turbine was tested in Denmark. [34] Aesthetics are a factor in that the three-bladed rotor rates more pleasing to look at than a one- or two-bladed rotor. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mod-5B_Wind_turbine.jpg/170px-Mod-5B_Wind_turbine.jpg",
+                "caption": "The 98 meter diameter, two-bladed NASA/DOE Mod-5B wind turbine was the largest operating wind turbine in the world in the early 1990s"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mod-0_Wind_turbine.jpg/220px-Mod-0_Wind_turbine.jpg",
+                "caption": "The NASA test of a one-bladed wind turbine rotor configuration at Plum Brook Station near Sandusky, Ohio"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine_design",
+        "title": "Wind turbine design",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Blade materials",
+        "text": "In general, materials should meet the following criteria: Metals are undesirable because of their vulnerability to fatigue. Ceramics have low fracture toughness, resulting in early blade failure. Traditional polymers are not stiff enough to be useful, and wood has problems with repeatability, especially considering the blade length. That leaves fiber-reinforced composites, which have high strength and stiffness and low density. [ citation needed ] Wood and canvas sails were used on early windmills due to their low price, availability, and ease of manufacture. Smaller blades can be made from light metals such as aluminium . These materials, however, require frequent maintenance. Wood and canvas construction limits the airfoil shape to a flat plate, which has a relatively high ratio of drag to force captured(low aerodynamic efficiency) compared to solid airfoils. Construction of solid airfoil designs requires inflexible materials such as metals or composites . Some blades incorporate lightning conductors. Increasing blade length pushed power generation from the single megawatt range to upwards of 10 megawatts. A larger area effectively increases tip-speed ratio at a given wind speed, thus increasing its energy extraction. [36] Software such as HyperSizer (originally developed for spacecraft design) can be used to improve blade design. [37] [38] As of 2015 the rotor diameters of onshore wind turbine blades reached 130 meters, [39] while the diameter of offshore turbines reached 170 meters. [40] In 2001, an estimated 50 million kilograms of fiberglass laminate were used in wind turbine blades. [41] An important goal is to control blade weight. Since blade mass scales as the cube of the turbine radius, gravity loading constrains systems with larger blades. [42] Gravitational loads include axial and tensile/ compressive loads (top/bottom of rotation) as well as bending (lateral positions). The magnitude of these loads fluctuates cyclically and the edgewise moments (see below) are reversed every 180° of rotation. Typical rotor speeds and design life are ~10 and 20 years, respectively, with the number of lifetime revolutions on the order of 10^8. Considering wind, it is expected that turbine blades go through ~10^9 loading cycles. Wind is another source of rotor blade loading. Lift causes bending in the flatwise direction (out of rotor plane) while airflow around the blade cause edgewise bending (in the rotor plane). Flaps bending involves tension on the pressure (upwind) side and compression on the suction (downwind) side. Edgewise bending involves tension on the leading edge and compression on the trailing edge. Wind loads are cyclical because of natural variability in wind speed and wind shear (higher speeds at top of rotation). Failure in ultimate loading of wind-turbine rotor blades exposed to wind and gravity loading is a failure mode that needs to be considered when the rotor blades are designed. The wind speed that causes bending of the rotor blades exhibits a natural variability, and so does the stress response in the rotor blades. Also, the resistance of the rotor blades, in terms of their tensile strengths, exhibits a natural variability. [43] Given the increasing size of production wind turbines, blade failures are increasingly relevant when assessing public safety risks from wind turbines. The most common failure is the loss of a blade or part thereof. [44] This has to be considered in the design. In light of these failure modes and increasingly larger blade systems, researchers seek cost-effective materials with higher strength-to-mass ratios. [35]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Windturbine_HamburgWasser_Steinwerder_02.jpg/220px-Windturbine_HamburgWasser_Steinwerder_02.jpg",
+                "caption": "Several modern wind turbines use rotor blades with carbon-fiber girders to reduce weight."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine_design",
+        "title": "Wind turbine design",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Polymer",
+        "text": "The majority of commercialized wind turbine blades are made from fiber-reinforced polymers (FRPs), which are composites consisting of a polymer matrix and fibers. The long fibers provide longitudinal stiffness and strength, and the matrix provides fracture toughness, delamination strength, out-of-plane strength, and stiffness. [35] Material indices based on maximizing power efficiency, high fracture toughness, fatigue resistance, and thermal stability are highest for glass and carbon fiber reinforced plastics (GFRPs and CFRPs). [45] In turbine blades, matrices such as thermosets or thermoplastics are used; as of 2017, thermosets are more common. [46] These allow for the fibers to be bound together and add toughness. Thermosets make up 80% of the market [ when? ] , as they have lower viscosity, and also allow for low temperature cure, both features contributing to ease of processing during manufacture. Thermoplastics offer recyclability that the thermosets do not, however their processing temperature and viscosity are much higher, limiting the product size and consistency, which are both important for large blades. Fracture toughness is higher for thermoplastics, but the fatigue behavior is worse. [47] Manufacturing blades in the 40 to 50-metre range involves proven fiberglass composite fabrication techniques. Manufacturers such as Nordex SE and GE Wind use an infusion process. Other manufacturers vary this technique, some including carbon and wood with fiberglass in an epoxy matrix. Other options include pre-impregnated (\"prepreg\") fiberglass and vacuum-assisted resin transfer moulding. Each of these options uses a glass-fiber reinforced polymer composite constructed with differing complexity. Perhaps the largest issue with open-mould, wet systems is the emissions associated with the volatile organic compounds (\"VOCs\") released. Preimpregnated materials and resin infusion techniques contain all VOCs, however these contained processes have their challenges, because the production of thick laminates necessary for structural components becomes more difficult. In particular, the preform resin permeability dictates the maximum laminate thickness; also, bleeding is required to eliminate voids and ensure proper resin distribution. [41] One solution to resin distribution is to use partially impregnated fiberglass. During evacuation, the dry fabric provides a path for airflow and, once heat and pressure are applied, the resin may flow into the dry region, resulting in an evenly impregnated laminate structure. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fiberglass-reinforced_epoxy_blades_of_Siemens_SWT-2.3-101_wind_turbines.jpg/1100px-Fiberglass-reinforced_epoxy_blades_of_Siemens_SWT-2.3-101_wind_turbines.jpg",
+                "caption": "Fiberglass -reinforced epoxy blades of Siemens SWT-2.3-101 wind turbines. The blade size of 49 meters [48] is in comparison to a substation behind them at Wolfe Island Wind Farm ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine_design",
+        "title": "Wind turbine design",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Height",
+        "text": "Wind velocities increase at higher altitudes due to surface aerodynamic drag (by land or water surfaces) and air viscosity. The variation in velocity with altitude, called wind shear , is most dramatic near the surface. Typically, the variation follows the wind profile power law , which predicts that wind speed rises proportionally to the seventh root of altitude. Doubling the altitude of a turbine, then, increases the expected wind speeds by 10% and the expected power by 34%. To avoid buckling , doubling the tower height generally requires doubling the tower diameter, increasing the amount of material by a factor of at least four. During the night, or when the atmosphere becomes stable, wind speed close to the ground usually subsides whereas at turbine hub altitude it does not decrease that much or may even increase. As a result, the wind speed is higher and a turbine will produce more power than expected from the 1/7 power law: doubling the altitude may increase wind speed by 20% to 60%. A stable atmosphere is caused by radiative cooling of the surface and is common in a temperate climate: it usually occurs when there is a (partly) clear sky at night. When the (high altitude) wind is strong (a 10-meter wind speed higher than approximately 6 to 7 m/s) the stable atmosphere is disrupted because of friction turbulence and the atmosphere turns neutral. A daytime atmosphere is either neutral (no net radiation; usually with strong winds and heavy clouding) or unstable (rising air because of ground heating—by the sun). The 1/7 power law is a good approximation of the wind profile. Indiana was rated as having a wind capacity of 30,000 MW, but by raising the expected turbine height from 50 m to 70 m raised the wind capacity to 40,000 MW, and could be double that at 100 m. [70] For HAWTs, tower heights approximately two to three times the blade length balance material costs of the tower against better utilisation of the more expensive active components. Road restrictions make tower transport with a diameter of more than 4.3 m difficult. Swedish analyses showed that the bottom wing tip must be at least 30 m above the tree tops. [71] A 3 MW turbine may increase output from 5,000 MWh to 7,700 MWh per year by rising from 80 to 125 meters. [72] A tower profile made of connected shells rather than cylinders can have a larger diameter and still be transportable. A 100 m prototype tower with TC bolted 18 mm 'plank' shells  at the wind turbine test center Høvsøre in Denmark was certified by Det Norske Veritas , with a Siemens nacelle. Shell elements can be shipped in standard 12 m shipping containers . [71] [73] [74] As of 2003, typical modern wind turbine installations used 65 metres (213 ft) towers. Height is typically limited by the availability of cranes . This led to proposals for \"partially self-erecting wind turbines\" that, for a given available crane, allow taller towers that locate a turbine in stronger and steadier winds, and \"self-erecting wind turbines\" that could be installed without cranes. [75] [76] [77] [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Windkraftwerk_in_Schiff.jpg/220px-Windkraftwerk_in_Schiff.jpg",
+                "caption": "Sections of a wind turbine tower, transported in a bulk carrier ship"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine_design",
+        "title": "Wind turbine design",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Grid connection",
+        "text": "Grid-connected wind turbines, until the 1970s, were fixed-speed. As recently as 2003, nearly all grid-connected wind turbines operated at constant speed (synchronous generators) or within a few percent of constant speed (induction generators). [88] [89] As of 2011, many turbines used fixed-speed induction generators (FSIG). [90] By then, most newly connected turbines were variable speed . [90] Early control systems were designed for peak power extraction, also called maximum power point tracking —they attempted to pull the maximum power from a given wind turbine under the current wind conditions. [ citation needed ] More recent systems deliberately pull less than maximum power in most circumstances, in order to provide other benefits, which include: The generator produces alternating current (AC). The most common method in large modern turbines is to use a doubly fed induction generator directly connected to the grid. Some turbines drive an AC/AC converter —which converts the AC to direct current (DC) with a rectifier and then back to AC with an inverter —in order to match grid frequency and phase. A useful technique to connect a PMSG to the grid is via a back-to-back converter. Control schemes can achieve unity power factor in the connection to the grid. In that way the wind turbine does not consume reactive power, which is the most common problem with turbines that use induction machines. This leads to a more stable power system. Moreover, with different control schemes a PMSG turbine can provide or consume reactive power. So, it can work as a dynamic capacitor / inductor bank to help with grid stability. The diagram shows the control scheme for a unity power factor : Reactive power regulation consists of one PI controller in order to achieve operation with unity power factor (i.e. Q grid = 0 ). I dN has to be regulated to reach zero at steady-state (I dNref = 0). The complete system of the grid side converter and the cascaded PI controller loops is displayed in the figure.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grid_Side_Controller.jpg/220px-Grid_Side_Controller.jpg",
+                "caption": "Grid Side Controller Design"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine_design",
+        "title": "Wind turbine design",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Foundations",
+        "text": "Wind turbines, by their nature, are very tall, slender structures, [97] and this can cause a number of issues when the structural design of the foundations are considered. The foundations for a conventional engineering structure are designed mainly to transfer the vertical load (dead weight) to the ground, generally allowing comparatively unsophisticated arrangement to be used. However, in the case of wind turbines, the force of the wind's interaction with the rotor at the top of the tower creates a strong tendency to tip the wind turbine over. This loading regime causes large moment loads to be applied to the foundations of a wind turbine. As a result, considerable attention needs to be given when designing the footings to ensure that the foundation will resist this tipping tendency. [98] One of the most common foundations for offshore wind turbines is the monopile , a single large-diameter (4 to 6 metres) tubular steel pile driven to a depth of 5-6 times the diameter of the pile into the seabed. The cohesion of the soil, and friction between the pile and the soil provide the necessary structural support for the wind turbine. [99] In onshore turbines the most common type of foundation is a gravity foundation, where a large mass of concrete spread out over a large area is used to resist the turbine loads. Wind turbine size & type, wind conditions and soil conditions at the site are all determining factors in the design of the foundation. [100] Prestressed piles or rock anchors are alternative foundation designs that use much less concrete and steel. [101]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Concrete_base_for_turbine_23_-_geograph.org.uk_-_517353.jpg/220px-Concrete_base_for_turbine_23_-_geograph.org.uk_-_517353.jpg",
+                "caption": "Wind turbine foundations"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine_design",
+        "title": "Wind turbine design",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Costs",
+        "text": "A wind turbine is a complex and integrated system. Structural elements comprise the majority of the weight and cost. All parts of the structure must be inexpensive, lightweight, durable, and manufacturable, surviving variable loading and environmental conditions. Turbine systems with fewer failures [104] require less maintenance, are lighter and last longer, reducing costs. The major parts of a turbine divide as: tower 22%, blades 18%, gearbox 14%, generator 8%. [105] [106]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Blade_Dragon%2C_Installing_a_single_blade%2C_Liftra.jpg/220px-Blade_Dragon%2C_Installing_a_single_blade%2C_Liftra.jpg",
+                "caption": "Liftra Blade Dragon installing a single blade on wind turbine hub. [102] [103]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine_design",
+        "title": "Wind turbine design",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Findings when connected to the grid",
+        "text": "A typical study of a wind farm's Life cycle assessment , when not connected to the electric grid, usually results in similar findings as the following 2006 analysis of 3 installations in the US Midwest, where the carbon dioxide (CO 2 ) emissions of wind power ranged from 14 to 33 tonnes (15 to 36 short tons) per GWh (14–33 g CO 2 / kWh ) of energy produced, with most of the CO 2 emission intensity coming from producing steel, concrete, and plastic/fiberglass composites for the turbine structure and foundation. [40] [41] By combining similar data from numerous individual studies in a meta-analysis , the median global warming potential for wind power was found to be 11–12 g CO 2 /kWh and unlikely to change significantly. [36] [42] [43] This higher dependence on back-up/ Load following power plants to ensure a steady power grid output has the knock-on-effect of more frequent inefficient (in CO 2 e g/kWh) throttling up and down of these other power sources in the grid to facilitate the intermittent power source's variable output. When one includes the total effect of intermittent sources on other power sources in the grid system, that is, including these inefficient start up emissions of backup power sources to cater for wind energy, into wind energy's total system-wide life cycle, this results in a higher real-world wind energy emission intensity. Higher than the direct g/kWh value that is determined from looking at the power source in isolation and thus ignores all down-stream detrimental/inefficiency effects it has on the grid. This higher dependence on back-up/ Load following power plants to ensure a steady power grid output forces fossil power plants to operate in less efficient states. [42] [ better source needed ] In comparison to other low carbon power sources wind turbines, when assessed in isolation, have a median life cycle emission value of between 11 and 12 ( g CO 2 eq / kWh ). [36] [44] While an increase in emissions due to the practical issues of load balancing is an issue, Pehnt et al. still conclude that these 20 and 80 g CO 2 -eq/kWh added penalties still result in wind being roughly ten times less polluting than fossil gas and coal which emit ~400 and 900 g CO 2 -eq/kWh respectively. [45] As these losses occur due to the cycling of fossil power plants, they may at some point become smaller when more than 20–30% of wind energy is added to the power grid, as fossil power plants are replaced, however this has yet to occur in practice. [46] [ better source needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Greenhouse_emissions_by_electricity_source.PNG/350px-Greenhouse_emissions_by_electricity_source.PNG",
+                "caption": "The Vattenfall utility company study found Hydroelectric , nuclear stations and wind turbines to have far less greenhouse emissions than other sources studied."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_impact_of_wind_power",
+        "title": "Environmental impact of wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Recycling and repurposing",
+        "text": "As much as 80% of the wind turbine structure can be recycled , though this does not include the foundation of the structure, which is typically made from reinforced concrete , or the blades. [67] Alternatively, these components of the turbine structure that are not easily recycled into new turbines can still be repurposed and used in other ways. [68] The large volume of the turbine blades, while difficult to handle, is advantageous in repurposing the blades as playground structures, bike shelters and footbridges . Other recycling methods include creating pellets for waterproof boards and injectable plastics , as well as pyrolysis for producing paints , glues , and both cement and concrete . [69] [70] [71] Carbon fiber blades can now be recycled , the fiber first being separated from the epoxy resin binder , then chopped into small particles. After the separation , the resin is used as a fuel source for the next materials to be processed. [72] After pyrolysis, the resulting material can be further separated and the glass fibers extracted to be used in insulation or fiber reinforcement. [73] The blades may also be repurposed into building materials and structural components. [74] Research indicates that turbine blades could successfully be repurposed as electrical transmission poles as their strength and structural stability was found to be comparable to the materials that are typically used. [75] Sections of the blades have been adapted to create roofs for small houses and these structures meet the requirements of building codes and may prove to be a viable way to reuse blade materials without extensive processes needed to make the material usable. [76] Components of the turbine could be reused by implementing segmentation, where the object is divided into different elements. [77] Research on segmentation suggests that the resulting materials are better than conventional construction materials when measuring specific flexural stiffness and flexural strength . [77] Overall, there are several different avenues through which wind turbine components can be recycled, reused, or repurposed, all with their advantages and disadvantages, and there continues to be research conducted to determine even more ways that the materials can be economically used. While various methods for recycling or repurposing the turbine blades have been proven effective, they have not been implemented on a large enough scale to adequately address the rapidly rising amounts of turbine blade waste being produced. [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/K%C5%82adka_z_%C5%82opaty_turbiny_wiatrowej_w_Szprotawie.jpg/220px-K%C5%82adka_z_%C5%82opaty_turbiny_wiatrowej_w_Szprotawie.jpg",
+                "caption": "Footbridge in Poland made from a turbine blade"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_impact_of_wind_power",
+        "title": "Environmental impact of wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Birds",
+        "text": "The impact of wind energy on birds, which can fly into turbines, or have their habitats degraded by wind development, is complex. Displacement is thought to be more of a threat to species than collisions. [109] Habitat loss is highly variable between species. [110] [111] Hundreds of thousands of birds, [112] [113] [114] including raptors and migrants, [115] [116] [117] are killed each year because of wind turbines and their power lines, [20] but this is less than the number killed (or not born) because of fossil fuel (coal and gas) infrastructure. [118] [22] Wind farms are estimated to be responsible for losing less than 0.4 birds per gigawatt-hour (GWh) of electricity generated, compared to over 5 birds per GWh for fossil fueled power stations. [119] As well as threatening extinction, [120] one of the effects of climate change is to already cause a decline in bird population, [121] and this is the main cause of bird loss from fossil power. [122] [18] [107] [123] A study comparing annually recorded bird populations in the United States from 2000 to 2020 to the spread of wind power infrastructure, found the presence of wind turbines had no significant effect on bird population numbers. This was directly compared to fracking infrastructure, whose presence causes a 15% decrease in the local bird populations. [124] On some important migration routes turbines are banned, or birds may alter their flight paths to avoid them. [125] Biological surveys beforehand and correctly siting turbines is important, especially for raptors as they are slow to breed. [118] Methods to help birds avoid turbines include painting of one of the turbine blades black, [126] and making ultrasonic noise. [127] Some approaching birds can be spotted, for example by avian radar, [128] [129] in time for turbines to be slowed to a speed which is safe for them. [130] Wind farms may need more power lines, and lines may be made less damaging to compensate. [131] [132] Making permits for the number of birds (such as eagles) killed tradeable has been suggested, in order to save the most birds at the least cost. [133]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Eidersperrw_Sterna_paradisaea_colony.jpg/220px-Eidersperrw_Sterna_paradisaea_colony.jpg",
+                "caption": "Arctic terns and a wind turbine at the Eider Barrage in Germany."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_impact_of_wind_power",
+        "title": "Environmental impact of wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Aesthetics",
+        "text": "Aesthetic considerations of wind power stations often have a significant role in their evaluation process. [158] To some, the perceived aesthetic aspects of wind power stations may conflict with the protection of historical sites. [159] Wind power stations are less likely to be perceived negatively in urbanized and industrial regions. [160] Aesthetic issues are subjective and some people find wind farms pleasant or see them as symbols of energy independence and local prosperity. [161] While studies in Scotland predict wind farms will damage tourism, [162] in other countries some wind farms have themselves become tourist attractions, [163] [164] [165] with several having visitor centers at ground level or even observation decks atop turbine towers. In the 1980s, wind energy was being discussed as part of a soft energy path . [166] Renewable energy commercialization led to an increasing industrial image of wind power, which is being criticized by various stakeholders in the planning process, including nature protection associations. [167] Newer wind farms have larger, more widely spaced turbines, and have a less cluttered appearance than older installations. Wind farms are often built on land that has already been impacted by land clearing and they coexist easily with other land uses. Coastal areas and areas of higher altitude such as ridgelines are considered prime for wind farms, due to constant wind speeds. However, both locations tend to be areas of high visual impact and can be a contributing factor in local communities' resistance to some projects. Both the proximity to densely populated areas and the necessary wind speeds make coastal locations ideal for wind farms. [168] Wind power stations can impact on important sight relations which are a key part of culturally important landscapes, such as in the Rhine Gorge or Moselle valley . [169] Conflicts between the heritage status of certain areas and wind power projects have arisen in various countries. In 2011 UNESCO raised concerns regarding a proposed wind farm 17 kilometres away from the French island abbey of Mont-Saint-Michel . [170] In Germany, the impact of wind farms on valuable cultural landscapes has implications on zoning and land-use planning . [169] [171] For example, sensitive parts of the Moselle valley and the background of the Hambach Castle , according to the plans of the state government, will be kept free of wind turbines. [172] Wind turbines require aircraft warning lights , which may create light pollution . Complaints about these lights have caused the US FAA to consider allowing fewer lights per turbine in certain areas. [173] Residents near turbines may complain of \"shadow flicker\" caused by rotating turbine blades, when the sun passes behind the turbine. This can be avoided by locating the wind farm to avoid unacceptable shadow flicker, or by turning the turbine off for the time of the day when the sun is at the angle that causes flicker. If a turbine is poorly sited and adjacent to many homes, the duration of shadow flicker on a neighbourhood can last hours. [174]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/MtStMichel_avion.jpg/310px-MtStMichel_avion.jpg",
+                "caption": "The surroundings of Mont Saint-Michel at low tide. While windy coasts are good locations for wind farms, aesthetic considerations may preclude such developments in order to preserve historic views of cultural sites."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittelrhein_Burg_Katz.jpg/310px-Mittelrhein_Burg_Katz.jpg",
+                "caption": "Loreley rock in Rhineland-Palatinate, part of UNESCO World heritage site Rhine Gorge"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_impact_of_wind_power",
+        "title": "Environmental impact of wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Types",
+        "text": "Wind turbines can rotate about either a horizontal or a vertical axis, the former being both older and more common. [37] They can also include blades or be bladeless. [38] Household-size vertical designs produce less power and are less common. [39]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/HAWT_and_VAWTs_in_operation_medium.gif/220px-HAWT_and_VAWTs_in_operation_medium.gif",
+                "caption": "The three primary types: VAWT Savonius , HAWT towered; VAWT Darrieus as they appear in operation"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Horizontal axis",
+        "text": "Large three-bladed horizontal-axis wind turbines (HAWT) with the blades upwind of the tower produce the overwhelming majority of wind power in the world today. [4] These turbines have the main rotor shaft and electrical generator at the top of a tower and must be pointed into the wind. Small turbines are pointed by a simple wind vane , while large turbines generally use a wind sensor coupled with a yaw system. Most have a gearbox, which turns the slow rotation of the blades into a quicker rotation that is more suitable to drive an electrical generator. [40] Some turbines use a different type of generator suited to slower rotational speed input. These don't need a gearbox and are called direct-drive, meaning they couple the rotor directly to the generator with no gearbox in between. While permanent magnet direct-drive generators can be more costly due to the rare earth materials required, these gearless turbines are sometimes preferred over gearbox generators because they \"eliminate the gear-speed increaser, which is susceptible to significant accumulated fatigue torque loading, related reliability issues, and maintenance costs\". [41] There is also the pseudo direct drive mechanism, which has some advantages over the permanent magnet direct drive mechanism. [42] Most horizontal axis turbines have their rotors upwind of the supporting tower. [43] Downwind machines have been built, because they don't need an additional mechanism for keeping them in line with the wind. In high winds, downwind blades can also be designed to bend more than upwind ones, which reduces their swept area and thus their wind resistance, mitigating risk during gales. Despite these advantages, upwind designs are preferred, because the pulsing change in loading from the wind as each blade passes behind the supporting tower can cause damage to the turbine. [44] Turbines used in wind farms for commercial production of electric power are usually three-bladed. These have low torque ripple , which contributes to good reliability. The blades are usually colored white for daytime visibility by aircraft and range in length from 20 to 80 meters (66 to 262 ft). The size and height of turbines increase year by year. Offshore wind turbines are built up to 8 MW today and have a blade length up to 80 meters (260 ft). Designs with 10 to 12 MW were in preparation in 2018, [45] and a \"15 MW+\" prototype with three 118-metre (387 ft) blades is planned to be constructed in 2022. [46] The average hub height of horizontal axis wind turbines is 90 meters. [47]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Scout_moor_gearbox%2C_rotor_shaft_and_brake_assembly.jpg/220px-Scout_moor_gearbox%2C_rotor_shaft_and_brake_assembly.jpg",
+                "caption": "Components of a horizontal axis wind turbine (gearbox, rotor shaft and brake assembly) being lifted into position"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/One_Energy_Wind_for_Industry_permanent_magnet_direct-drive_generator.jpg/220px-One_Energy_Wind_for_Industry_permanent_magnet_direct-drive_generator.jpg",
+                "caption": "The rotor of a gearless wind turbine being set. This particular turbine was prefabricated in Germany, before being shipped to the U.S. for assembly."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wind_Turbines_%285132099985%29.jpg/220px-Wind_Turbines_%285132099985%29.jpg",
+                "caption": "Offshore Horizontal Axis Wind Turbines (HAWTs) at Scroby Sands Wind Farm, England"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/%E8%A5%BF%E7%94%B8%E5%AD%90%E6%A2%81%E9%A3%8E%E8%BD%A6.jpg/220px-%E8%A5%BF%E7%94%B8%E5%AD%90%E6%A2%81%E9%A3%8E%E8%BD%A6.jpg",
+                "caption": "Onshore Horizontal Axis Wind Turbines in Zhangjiakou , Hebei , China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Savonius wind turbine",
+        "text": "These are drag-type devices with two (or more) scoops that are used in anemometers, Flettner vents (commonly seen on bus and van roofs), and in some high-reliability low-efficiency power turbines. They are always self-starting if there are at least three scoops. [57] Twisted Savonius is a modified savonius, with long helical scoops to provide smooth torque. This is often used as a rooftop wind turbine and has even been adapted for ships . [58]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Twisted_Savonius_wind_turbine_in_operation%4060rpm.gif/100px-Twisted_Savonius_wind_turbine_in_operation%4060rpm.gif",
+                "caption": "A vertical axis Twisted Savonius type turbine."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Design and construction",
+        "text": "Wind turbine design is a careful balance of cost, energy output, and fatigue life.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EERE_illust_large_turbine.gif/220px-EERE_illust_large_turbine.gif",
+                "caption": "Components of a horizontal-axis wind turbine"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/WKA_spannglieder.jpg/220px-WKA_spannglieder.jpg",
+                "caption": "Inside view of a wind turbine tower, showing the tendon cables"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Components",
+        "text": "Wind turbines convert wind energy to electrical energy for distribution. Conventional horizontal axis turbines can be divided into three components: A 1.5 ( MW ) wind turbine of a type frequently seen in the United States has a tower 80 meters (260 ft) high. The rotor assembly (blades and hub) measures about 80 meters (260 ft) in diameter. [68] The nacelle, which contains the generator, is 15.24 meters (50.0 ft) and weighs around 300 tons. [69]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Badaia_-_Parque_E%C3%B3lico_-BT-_01.jpg/220px-Badaia_-_Parque_E%C3%B3lico_-BT-_01.jpg",
+                "caption": "Nacelle of a wind turbine"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Technology",
+        "text": "Generally, efficiency increases along with turbine blade lengths. The blades must be stiff, strong, durable, light and resistant to fatigue. [72] Materials with these properties include composites such as polyester and epoxy, while glass fiber and carbon fiber have been used for the reinforcing. [73] Construction may involve manual layup or injection molding. Retrofitting existing turbines with larger blades reduces the task and risks of redesign. [74] As of 2021, the longest blade was 115.5 m (379 ft), producing 15 MW. [75] Blades usually last around 20 years, the typical lifespan of a wind turbine. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Growing_size_of_wind_turbines.png/350px-Growing_size_of_wind_turbines.png",
+                "caption": "Development in size and power of wind turbines, 1990–2016"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Glass and carbon fibers",
+        "text": "The stiffness of composites is determined by the stiffness of fibers and their volume content. Typically, E-glass fibers are used as main reinforcement in the composites. Typically, the glass/epoxy composites for wind turbine blades contain up to 75% glass by weight. This increases the stiffness, tensile and compression strength. A promising composite material is glass fiber with modified compositions like S-glass, R-glass etc. Other glass fibers developed by Owens Corning are ECRGLAS, Advantex and WindStrand. [77] Carbon fiber has more tensile strength, higher stiffness and lower density than glass fiber. An ideal candidate for these properties is the spar cap, a structural element of a blade that experiences high tensile loading. [73] A 100-metre (330 ft) glass fiber blade could weigh up to 50 tonnes (110,000 lb), while using carbon fiber in the spar saves 20% to 30% weight, about 15 tonnes (33,000 lb). [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Turbine_Blade_Convoy_Passing_through_Edenfield.jpg/220px-Turbine_Blade_Convoy_Passing_through_Edenfield.jpg",
+                "caption": "A turbine blade convoy passing through Edenfield , England"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Material supply",
+        "text": "A 2015 study of the material consumption trends and requirements for wind energy in Europe found that bigger turbines have a higher consumption of precious metals but lower material input per kW generated. The material consumption and stock at that time was compared to input materials for various onshore system sizes. In all EU countries, the estimates for 2020 doubled the values consumed in 2009. These countries would need to expand their resources to meet the estimated demand for 2020. For example, the EU had 3% of world supply of fluorspar , and it would require 14% by 2020. Globally, the main exporting countries are South Africa, Mexico, and China. This is similar with other critical and valuable materials required for energy systems such as magnesium, silver and indium. The levels of recycling of these materials are very low, and focusing on that could alleviate supply. Because most of these valuable materials are also used in other emerging technologies, like light emitting diodes (LEDs), photo voltaics (PVs) and liquid crystal displays (LCDs), their demand is expected to grow. [86] A 2011 study by the United States Geological Survey estimated resources required to fulfill the US commitment to supplying 20% of its electricity from wind power by 2030. It did not consider requirements for small turbines or offshore turbines because those were not common in 2008 when the study was done. Common materials such as cast iron, steel and concrete would increase by 2%–3% compared to 2008. Between 110,000 and 115,000 metric tons of fiber glass would be required per year, a 14% increase. Rare-earth metal use would not increase much compared to available supply, however rare-earth metals that are also used for other technologies such as batteries which are increasing its global demand need to be taken into account. Land required would be 50,000 square kilometers onshore and 11,000 offshore. This would not be a problem in the US due to its vast area and because the same land can be used for farming. A greater challenge would be the variability and transmission to areas of high demand. [87] Permanent magnets for wind turbine generators contain rare-earth metals such as neodymium (Nd), praseodymium (Pr), terbium (Tb), and dysprosium (Dy). Systems that use magnetic direct drive turbines require greater amounts of rare-earth metals. Therefore, an increase in wind turbine manufacture would increase the demand for these resources. By 2035, the demand for Nd is estimated to increase by 4,000 to 18,000 tons and for Dy by 200 to 1200 tons. These values are a quarter to half of current production. However, these estimates are very uncertain because technologies are developing rapidly. [88] Reliance on rare earth minerals for components has risked expense and price volatility as China has been main producer of rare earth minerals (96% in 2009) and was reducing its export quotas. [87] However, in recent years, other producers have increased production and China has increased export quotas, leading to higher supply, lower cost, and greater viability of large-scale use of variable-speed generators. [89] Glass fiber is the most common material for reinforcement. Its demand has grown due to growth in construction, transportation and wind turbines. Its global market might reach US$17.4 billion by 2024, compared to US$8.5 billion in 2014. In 2014, Asia Pacific produced more than 45% of the market; now China is the largest producer. The industry receives subsidies from the Chinese government allowing it to export cheaper to the US and Europe. However, price wars have led to anti-dumping measures such as tariffs on Chinese glass fiber. [90]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Nordex_Jonesboro_Plant_001.jpg/220px-Nordex_Jonesboro_Plant_001.jpg",
+                "caption": "Nordex wind turbine manufacturing plant in Jonesboro, Arkansas , United States"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Wind turbines on public display",
+        "text": "A few localities have exploited the attention-getting nature of wind turbines by placing them on public display, either with visitor centers around their bases, or with viewing areas farther away. [91] The wind turbines are generally of conventional horizontal-axis, three-bladed design and generate power to feed electrical grids, but they also serve the unconventional roles of technology demonstration, public relations, and education. [92]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lamma_wind_turbine.jpg/170px-Lamma_wind_turbine.jpg",
+                "caption": "The Nordex N50 wind turbine and visitor centre of Lamma Winds in Hong Kong , China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Small wind turbines",
+        "text": "Small wind turbines may be used for a variety of applications including on- or off-grid residences, telecom towers, offshore platforms, rural schools and clinics, remote monitoring and other purposes that require energy where there is no electric grid, or where the grid is unstable. Small wind turbines may be as small as a fifty-watt generator for boat or caravan use. Hybrid solar- and wind-powered units are increasingly being used for traffic signage, particularly in rural locations, since they avoid the need to lay long cables from the nearest mains connection point. [93] The U.S. Department of Energy's National Renewable Energy Laboratory (NREL) defines small wind turbines as those smaller than or equal to 100 kilowatts. [94] Small units often have direct-drive generators, direct current output, aeroelastic blades, and lifetime bearings and use a vane to point into the wind. [95]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Quietrevolution_Bristol_3513051949.jpg/170px-Quietrevolution_Bristol_3513051949.jpg",
+                "caption": "A small Quietrevolution QR5 Gorlov type vertical axis wind turbine in Bristol , England. Measuring 3 m in diameter and 5 m high, it has a nameplate rating of 6.5 kW to the grid."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Records",
+        "text": "See also List of most powerful wind turbines",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Quebecturbine.JPG/170px-Quebecturbine.JPG",
+                "caption": "Éole, the largest vertical axis wind turbine , in Cap-Chat, Quebec , Canada"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+        "title": "Wind turbine",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Wind energy resources",
+        "text": "Wind is air movement in the Earth's atmosphere. In a unit of time, say 1 second, the volume of air that had passed an area A {\\displaystyle A} is A v {\\displaystyle Av} . If the air density is ρ {\\displaystyle \\rho } , the mass of this volume of air is M = ρ A v {\\displaystyle M=\\rho Av} , and the power transfer, or energy transfer per second is P = 1 2 M v 2 = 1 2 ρ A v 3 {\\displaystyle P={\\tfrac {1}{2}}Mv^{2}={\\tfrac {1}{2}}\\rho Av^{3}} . Wind power is thus proportional to the third power of the wind speed; the available power increases eightfold when the wind speed doubles. Change of wind speed by a factor of 2.1544 increases the wind power by one order of magnitude (multiply by 10). The global wind kinetic energy averaged approximately 1.50 MJ/m 2 over the period from 1979 to 2010, 1.31 MJ/m 2 in the Northern Hemisphere with 1.70 MJ/m 2 in the Southern Hemisphere. The atmosphere acts as a thermal engine, absorbing heat at higher temperatures, releasing heat at lower temperatures. The process is responsible for the production of wind kinetic energy at a rate of 2.46 W/m 2 thus sustaining the circulation of the atmosphere against friction. [15] Through wind resource assessment , it is possible to estimate wind power potential globally, by country or region, or for a specific site. The Global Wind Atlas provided by the Technical University of Denmark in partnership with the World Bank provides a global assessment of wind power potential. [13] [16] [17] Unlike 'static' wind resource atlases which average estimates of wind speed and power density across multiple years, tools such as Renewables.ninja provide time-varying simulations of wind speed and power output from different wind turbine models at an hourly resolution. [18] More detailed, site-specific assessments of wind resource potential can be obtained from specialist commercial providers, and many of the larger wind developers have in-house modeling capabilities. The total amount of economically extractable power available from the wind is considerably more than present human power use from all sources. [19] The strength of wind varies, and an average value for a given location does not alone indicate the amount of energy a wind turbine could produce there. To assess prospective wind power sites, a probability distribution function is often fit to the observed wind speed data. [20] Different locations will have different wind speed distributions. The Weibull model closely mirrors the actual distribution of hourly/ten-minute wind speeds at many locations. The Weibull factor is often close to 2 and therefore a Rayleigh distribution can be used as a less accurate, but simpler model. [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mean_Wind_Speed.png/220px-Mean_Wind_Speed.png",
+                "caption": "Global map of wind speed at 100 meters on land and around coasts. [13]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Lee_Ranch_Wind_Speed_Frequency.svg/350px-Lee_Ranch_Wind_Speed_Frequency.svg.png",
+                "caption": "Distribution of wind speed (red) and energy (blue) for all of 2002 at the Lee Ranch facility in Colorado. The histogram shows measured data, while the curve is the Rayleigh model distribution for the same average wind speed."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Global_Map_of_Wind_Power_Density_Potential.png/220px-Global_Map_of_Wind_Power_Density_Potential.png",
+                "caption": "Global map of wind power density potential [14]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Offshore wind power",
+        "text": "Offshore wind power is wind farms in large bodies of water, usually the sea. These installations can use the more frequent and powerful winds that are available in these locations and have less visual impact on the landscape than land-based projects. However, the construction and maintenance costs are considerably higher. [36] [37] As of November 2021, the Hornsea Wind Farm in the United Kingdom is the largest offshore wind farm in the world at 1,218 MW . [38]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Agucadoura_WindFloat_Prototype.jpg/225px-Agucadoura_WindFloat_Prototype.jpg",
+                "caption": "The world's second full-scale floating wind turbine (and first to be installed without the use of heavy-lift vessels), WindFloat, operating at rated capacity (2  MW) approximately 5  km offshore of Póvoa de Varzim , Portugal"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Growth trends",
+        "text": "In 2020, wind supplied almost 1600 TWh of electricity, which was over 5% of worldwide electrical generation and about 2% of energy consumption. [2] [3] With over 100 GW added during 2020, mostly in China , global installed wind power capacity reached more than 730 GW. [4] [3] But to help meet the Paris Agreement 's goals to limit climate change , analysts say it should expand much faster - by over 1% of electricity generation per year. [6] Expansion of wind power is being hindered by fossil fuel subsidies . [48] [49] [50] The actual amount of electric power that wind can generate is calculated by multiplying the nameplate capacity by the capacity factor , which varies according to equipment and location. Estimates of the capacity factors for wind installations are in the range of 35% to 44%. [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2010-_Power_capacity_by_technology_-_Dec_2022_International_Energy_Agency.svg/210px-2010-_Power_capacity_by_technology_-_Dec_2022_International_Energy_Agency.svg.png",
+                "caption": "Renewable energy sources, especially solar photovoltaic and wind power, are providing an increasing share of power capacity. [45]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png",
+                "caption": "Log graph of global wind power cumulative capacity (Data:GWEC) [47]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Penetration",
+        "text": "Wind energy penetration is the fraction of energy produced by wind compared with the total generation. Wind power's share of worldwide electricity usage in 2021 was almost 7%, [55] up from 3.5% in 2015. [56] [57] There is no generally accepted maximum level of wind penetration. The limit for a particular grid will depend on the existing generating plants, pricing mechanisms, capacity for energy storage , demand management, and other factors. An interconnected electric power grid will already include reserve generating and transmission capacity to allow for equipment failures. This reserve capacity can also serve to compensate for the varying power generation produced by wind stations. Studies have indicated that 20% of the total annual electrical energy consumption may be incorporated with minimal difficulty. [58] These studies have been for locations with geographically dispersed wind farms, some degree of dispatchable energy or hydropower with storage capacity, demand management, and interconnected to a large grid area enabling the export of electric power when needed. Electrical utilities continue to study the effects of large-scale penetration of wind generation on system stability. [59] A wind energy penetration figure can be specified for different duration of time but is often quoted annually. To generate almost all electricity from wind annually requires substantial interconnection to other systems, for example some wind power in Scotland is sent to the rest of the British grid . [60] On a monthly, weekly, daily, or hourly basis—or less—wind might supply as much as or more than 100% of current use, with the rest stored, exported or curtailed. The seasonal industry might then take advantage of high wind and low usage times such as at night when wind output can exceed normal demand. Such industry might include the production of silicon, aluminum, [61] steel, or natural gas, and hydrogen, and using future long-term storage to facilitate 100% energy from variable renewable energy . [62] [63] [ better source needed ] Homes and businesses can also be programmed to vary electricity demand , [64] [65] for example by remotely turning up water heater thermostats. [66]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Share_of_electricity_production_from_wind.svg/350px-Share_of_electricity_production_from_wind.svg.png",
+                "caption": "Share of electricity production from wind, 2022 [54]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Variability",
+        "text": "Wind power is variable, and during low wind periods, it may need to be replaced by other power sources. Transmission networks presently cope with outages of other generation plants and daily changes in electrical demand, but the variability of intermittent power sources such as wind power is more frequent than those of conventional power generation plants which, when scheduled to be operating, may be able to deliver their nameplate capacity around 95% of the time. Electric power generated from wind power can be highly variable at several different timescales: hourly, daily, or seasonally. Annual variation also exists but is not as significant. [ citation needed ] Because instantaneous electrical generation and consumption must remain in balance to maintain grid stability, this variability can present substantial challenges to incorporating large amounts of wind power into a grid system. Intermittency and the non- dispatchable nature of wind energy production can raise costs for regulation, incremental operating reserve , and (at high penetration levels) could require an increase in the already existing energy demand management , load shedding , storage solutions, or system interconnection with HVDC cables. Fluctuations in load and allowance for the failure of large fossil-fuel generating units require operating reserve capacity, which can be increased to compensate for the variability of wind generation. Utility-scale batteries are often used to balance hourly and shorter timescale variation, [67] [68] but car batteries may gain ground from the mid-2020s. [69] Wind power advocates argue that periods of low wind can be dealt with by simply restarting existing power stations that have been held in readiness, or interlinking with HVDC. [70] The combination of diversifying variable renewables by type and location, forecasting their variation, and integrating them with dispatchable renewables, flexible fueled generators, and demand response can create a power system that has the potential to meet power supply needs reliably. Integrating ever-higher levels of renewables is being successfully demonstrated in the real world. [71] Solar power tends to be complementary to wind. [73] [74] On daily to weekly timescales, high-pressure areas tend to bring clear skies and low surface winds, whereas low-pressure areas tend to be windier and cloudier. On seasonal timescales, solar energy peaks in summer, whereas in many areas wind energy is lower in summer and higher in winter. [A] [75] Thus the seasonal variation of wind and solar power tend to cancel each other somewhat. [72] Wind hybrid power systems are becoming more popular. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Toro_de_osborne.jpg/220px-Toro_de_osborne.jpg",
+                "caption": "Wind turbines are typically installed in windy locations. In the image, wind power generators in Spain , near an Osborne bull ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Roscoe_Wind_Farm_in_West_Texas.jpg/220px-Roscoe_Wind_Farm_in_West_Texas.jpg",
+                "caption": "Roscoe Wind Farm : an onshore wind farm in West Texas near Roscoe"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png/220px-Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png",
+                "caption": "Seasonal cycle of capacity factors for wind and photovoltaics in Europe under idealized assumptions. The figure illustrates the balancing effects of wind and solar energy at the seasonal scale (Kaspar et al., 2019). [72]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Economics",
+        "text": "Onshore wind is an inexpensive source of electric power, cheaper than coal plants and new gas plants. [10] According to BusinessGreen , wind turbines reached grid parity (the point at which the cost of wind power matches traditional sources) in some areas of Europe in the mid-2000s, and in the US around the same time. Falling prices continue to drive the Levelized cost down and it has been suggested that it has reached general grid parity in Europe in 2010, and will reach the same point in the US around 2016 due to an expected reduction in capital costs of about 12%. [88] [ needs update ] In 2021, the CEO of Siemens Gamesa warned that increased demand for low-cost wind turbines combined with high input costs and high costs of steel result in increased pressure on the manufacturers and decreasing profit margins. [89] Northern Eurasia, Canada, some parts of the United States, and Patagonia in Argentina are the best areas for onshore wind: whereas in other parts of the world solar power, or a combination of wind and solar, tend to be cheaper. [90] : 8",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Onshore-wind-lcoe.png/310px-Onshore-wind-lcoe.png",
+                "caption": "Onshore wind cost per kilowatt-hour between 1983 and 2017 [87]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Electric power cost and trends",
+        "text": "Wind power is capital intensive but has no fuel costs. [91] The price of wind power is therefore much more stable than the volatile prices of fossil fuel sources. [92] However, the estimated average cost per unit of electric power must incorporate the cost of construction of the turbine and transmission facilities, borrowed funds, return to investors (including the cost of risk), estimated annual production, and other components, averaged over the projected useful life of the equipment, which may be more than 20 years. Energy cost estimates are highly dependent on these assumptions so published cost figures can differ substantially. The presence of wind energy, even when subsidized, can reduce costs for consumers (€5 billion/yr in Germany) by reducing the marginal price, by minimizing the use of expensive peaking power plants . [93] The cost has decreased as wind turbine technology has improved. There are now longer and lighter wind turbine blades, improvements in turbine performance, and increased power generation efficiency. Also, wind project capital expenditure costs and maintenance costs have continued to decline. [94] In 2021, a Lazard study of unsubsidized electricity said that wind power levelized cost of electricity continues to fall but more slowly than before. The study estimated new wind-generated electricity cost from $26 to $50/MWh, compared to new gas power from $45 to $74/MWh. The median cost of fully deprecated existing coal power was $42/MWh, nuclear $29/MWh and gas $24/MWh. The study estimated offshore wind at around $83/MWh. Compound annual growth rate was 4% per year from 2016 to 2021, compared to 10% per year from 2009 to 2021. [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Turbine_Blade_Convoy_Passing_through_Edenfield.jpg/220px-Turbine_Blade_Convoy_Passing_through_Edenfield.jpg",
+                "caption": "A turbine blade convoy passing through Edenfield in the U.K. (2008). Even longer 2-piece blades are now manufactured, and then assembled on-site to reduce difficulties in transportation."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Small-scale wind power",
+        "text": "Small-scale wind power is the name given to wind generation systems with the capacity to produce up to 50 kW of electrical power. [102] Isolated communities, that may otherwise rely on diesel generators, may use wind turbines as an alternative. Individuals may purchase these systems to reduce or eliminate their dependence on grid electric power for economic reasons, or to reduce their carbon footprint . Wind turbines have been used for household electric power generation in conjunction with battery storage over many decades in remote areas. [103] Examples of small-scale wind power projects in an urban setting can be found in New York City , where, since 2009, several building projects have capped their roofs with Gorlov-type helical wind turbines . Although the energy they generate is small compared to the buildings' overall consumption, they help to reinforce the building's 'green' credentials in ways that \"showing people your high-tech boiler\" cannot, with some of the projects also receiving the direct support of the New York State Energy Research and Development Authority . [104] Grid-connected domestic wind turbines may use grid energy storage, thus replacing purchased electric power with locally produced power when available. The surplus power produced by domestic microgenerators can, in some jurisdictions, be fed into the network and sold to the utility company, producing a retail credit for the microgenerators' owners to offset their energy costs. [105] Off-grid system users can either adapt to intermittent power or use batteries, photovoltaic , or diesel systems to supplement the wind turbine. [106] Equipment such as parking meters, traffic warning signs, street lighting, or wireless Internet gateways may be powered by a small wind turbine, possibly combined with a photovoltaic system, that charges a small battery replacing the need for a connection to the power grid. [107] Airborne wind turbines , such as kites, can be used in places at risk of hurricanes, as they can be taken down in advance. [108]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Quietrevolution_Bristol_3513051949.jpg/220px-Quietrevolution_Bristol_3513051949.jpg",
+                "caption": "A small Quietrevolution QR5 Gorlov type vertical axis wind turbine on the roof of Bristol Beacon in Bristol, England . Measuring 3 m in diameter and 5 m high, it has a nameplate rating of 6.5 kW."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Impact on environment and landscape",
+        "text": "The environmental impact of electricity generation from wind power is minor when compared to that of fossil fuel power . [110] Wind turbines have some of the lowest life-cycle greenhouse-gas emissions of energy sources : far less greenhouse gas is emitted than for the average unit of electricity, so wind power helps limit climate change. [111] Use of engineered wood may allow carbon negative wind power. [112] Wind power consumes no fuel, and emits no local air pollution , unlike fossil fuel power sources. Onshore wind farms can have a significant visual impact. [113] Due to a very low surface power density and spacing requirements, wind farms typically need to be spread over more land than other power stations. [7] [114] Their network of turbines, access roads, transmission lines, and substations can result in \"energy sprawl\"; [8] although land between the turbines and roads can still be used for agriculture. [115] [116] Some wind farms are opposed for potentially spoiling protected scenic areas, archaeological landscapes and heritage sites. [117] [118] [119] A report by the Mountaineering Council of Scotland concluded that wind farms harmed tourism in areas known for natural landscapes and panoramic views. [120] Habitat loss and fragmentation are the greatest potential impacts on wildlife of onshore wind farms, [8] but the worldwide ecological impact is minimal. [110] Thousands of birds and bats, including rare species, have been killed by wind turbine blades, [121] though wind turbines are responsible for far fewer bird deaths than fossil-fueled power stations. [122] This can be mitigated with proper wildlife monitoring. [123] Many wind turbine blades are made of fiberglass , and have a lifetime of 20 years. [124] Blades are hollow: some blades are crushed to reduce their volume and then landfilled. [125] However, as they can take a lot of weight they can be made into long lasting small bridges for walkers or cyclists. [126] Blade end-of-life is complicated, [127] and blades manufactured in the 2020s are more likely to be designed to be completely recyclable. [128] Wind turbines also generate noise. At a distance of 300 metres (980 ft), this may be around 45 dB, which is slightly louder than a refrigerator. At 1.5 km (1 mi), they become inaudible. [129] [130] There are anecdotal reports of negative health effects on people who live very close to wind turbines. [131] Peer-reviewed research has generally not supported these claims. [132] [133] [134]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Greenhouse_gas_emissions_per_energy_source.png/220px-Greenhouse_gas_emissions_per_energy_source.png",
+                "caption": "Greenhouse gas emissions per energy source. Wind energy is one of the sources with the least greenhouse gas emissions."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Wb_deichh_drei_kuhs.jpg/220px-Wb_deichh_drei_kuhs.jpg",
+                "caption": "Livestock grazing near a wind turbine. [109]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Central government",
+        "text": "Although wind turbines with fixed bases are a mature technology and new installations are generally no longer subsidized, [135] [136] floating wind turbines are a relatively new technology so some governments subsidize them, for example to use deeper waters. [137] Fossil fuel subsidies by some governments are slowing the growth of renewables. [138] Permitting of wind farms can take years and some governments are trying to speed up - the wind industry says this will help limit climate change and increase energy security [139] - sometimes groups such as fishers resist this [140] but governments say that rules protecting biodiversity will still be followed. [141]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Floatgen.jpg/220px-Floatgen.jpg",
+                "caption": "Wind turbine floating off France"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Public opinion",
+        "text": "Surveys of public attitudes across Europe and in many other countries show strong public support for wind power. [143] [144] [145] Bakker et al. (2012) found in their study that residents who did not want turbines built near them suffered significantly more stress than those who \"benefited economically from wind turbines\". [146] Although wind power is a popular form of energy generation, onshore or near offshore wind farms are sometimes opposed for their impact on the landscape (especially scenic areas, heritage areas and archaeological landscapes), as well as noise, and impact on tourism. [147] [148] In other cases, there is direct community ownership of wind farms . The hundreds of thousands of people who have become involved in Germany's small and medium-sized wind farms demonstrate such support there. [149] A 2010 Harris Poll found strong support for wind power in Germany, other European countries, and the United States. [143] [144] [150] Public support in the United States has decreased from 75% in 2020 to 62% in 2021, with the Democrat Party supporting the use of wind energy twice as much as the Republican Party. [151] President Biden has signed an executive order to begin building large scale wind farms. [152] In China , Shen et al. (2019) found that Chinese city-dwellers may be resistant to building wind turbines in urban areas, with a surprisingly high proportion of people citing an unfounded fear of radiation as driving their concerns. [153] Also, the study finds that like their counterparts in OECD countries, urban Chinese respondents are sensitive to direct costs and wildlife externalities. Distributing relevant information about turbines to the public may alleviate resistance.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg/220px-202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg.png",
+                "caption": "Acceptance of wind and solar facilities in one's community is stronger among U.S. Democrats (blue), while acceptance of nuclear power plants is stronger among U.S. Republicans (red). [142]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Community",
+        "text": "Many wind power companies work with local communities to reduce environmental and other concerns associated with particular wind farms. [156] [157] [158] In other cases there is direct community ownership of wind farm projects . Appropriate government consultation, planning and approval procedures also help to minimize environmental risks. [143] [159] [160] Some may still object to wind farms [161] but many say their concerns should be weighed against the need to address the threats posed by air pollution , [162] [111] climate change [163] and the opinions of the broader community. [164] In the US, wind power projects are reported to boost local tax bases, helping to pay for schools, roads, and hospitals, and to revitalize the economies of rural communities by providing steady income to farmers and other landowners. [98] In the UK, both the National Trust and the Campaign to Protect Rural England have expressed concerns about the effects on the rural landscape caused by inappropriately sited wind turbines and wind farms. [165] [166] Some wind farms have become tourist attractions. The Whitelee Wind Farm Visitor Centre has an exhibition room, a learning hub, a café with a viewing deck and also a shop. It is run by the Glasgow Science Centre . [167] In Denmark, a loss-of-value scheme gives people the right to claim compensation for loss of value of their property if it is caused by proximity to a wind turbine. The loss must be at least 1% of the property's value. [168] Despite this general support for the concept of wind power in the public at large, local opposition often exists and has delayed or aborted a number of projects. [169] [170] [171] As well as concerns about the landscape, there are concerns that some installations can produce excessive sound and vibration levels leading to a decrease in property values. [172] A study of 50,000 home sales near wind turbines found no statistical evidence that prices were affected. [173] While aesthetic issues are subjective and some find wind farms pleasant and optimistic, or symbols of energy independence and local prosperity, protest groups are often formed to attempt to block some wind power stations for various reasons. [161] [174] [175] Some opposition to wind farms is dismissed as NIMBYism , [176] but research carried out in 2009 found that there is little evidence to support the belief that residents only object to wind farms because of a \"Not in my Back Yard\" attitude. [177]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wind_tubines_cumbria.JPG/450px-Wind_tubines_cumbria.JPG",
+                "caption": "Wind turbines such as these, in Cumbria , England, have been opposed for a number of reasons, including aesthetics, by some sectors of the population. [154] [155]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Whitelee_panorama.JPG/450px-Whitelee_panorama.JPG",
+                "caption": "A panoramic view of the United Kingdom's Whitelee Wind Farm with Lochgoin Reservoir in the foreground."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Metrics of noise",
+        "text": "Researchers measure noise in terms of pressure , intensity , and frequency . Sound pressure level (SPL) represents the amount of pressure relative to atmospheric pressure during sound wave propagation that can vary with time; this is also known as the sum of the amplitudes of a wave. [13] Sound intensity , measured in Watts per meters-squared, represents the flow of sound over a particular area. Although sound pressure and intensity differ, both can describe the level of loudness by comparing the current state to the threshold of hearing; this results in decibel units on the logarithmic scale. [14] [15] The logarithmic scale accommodates the vast range of sound heard by the human ear. Frequency, or pitch, is measured in Hertz (Hz) and reflects the number of sound waves propagated through the air per second. [14] [16] The range of frequencies heard by the human ear range from 20 Hz to 20,000 Hz; however, sensitivity to hearing higher frequencies decreases with age. [14] Some organisms, such as elephants, [17] can register frequencies between 0 and 20 Hz (infrasound), and others, such as bats, can recognize frequencies above 20,000 Hz (ultrasound) to echolocate. [16] [18] Researchers use different weights to account for noise frequency with intensity, as humans do not perceive sound at the same loudness level. [14] The most commonly used weighted levels are A-weighting , C-weighting, and Z-weighting. A-weighting mirrors the range of hearing, with frequencies of 20 Hz to 20,000 Hz. [14] This gives more weight to higher frequencies and less weight to lower frequencies. [14] [19] C-weighting has been used to measure peak sound pressure or impulse noise, similar to loud short-lived noises from machinery in occupational settings. [19] [20] Z-weighting, also known as zero-weighting, represents noise levels without any frequency weights. [19] [20] Understanding sound pressure levels is key to assessing measurements of noise pollution. Several metrics describing noise exposure include: Researchers with the US National Park Service found that human activity doubles the background-noise levels in 63 percent of protected spaces like national parks, and increases them tenfold in 21 percent. In the latter places, \"if you could have heard something 100 feet away, now you can only hear it 10 feet away,\" [24] [25]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/20230609_Average_noise_levels_outside_US_homes.svg/220px-20230609_Average_noise_levels_outside_US_homes.svg.png",
+                "caption": "More than a quarter of US residences have average outside noise levels exceeding the maximum nighttime outside noise level recommended by the World Health Organization. [12]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ABC_Weighting.png/300px-ABC_Weighting.png",
+                "caption": "Depiction of frequency weighting"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Noise_pollution",
+        "title": "Noise pollution",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Smartphone applications",
+        "text": "In recent years, scientists and audio engineers have been developing smartphone apps to conduct sound measurements, similar to the standalone sound level meters and dosimeters. In 2014, the National Institute for Occupational Safety and Health (NIOSH) within the Centers for Disease Control and Prevention (CDC) published a study examining the efficacy of 192 sound measurement apps on Apple and Android smartphones. [30] [31] The authors found that only 10 apps, all of which were on the App Store , met all acceptability criteria. Of these 10 apps, only 4 apps met accuracy criteria within 2 dB(A) from the reference standard. [30] [31] As a result of this study, they created the NIOSH Sound Level Meter App to increase accessibility and decrease costs of monitoring noise using crowdsourcing data with a tested and highly accurate application. [30] [31] The app is compliant with ANSI S1.4 and IEC 61672 requirements. [32] The app calculates the following measures: total run time, instantaneous sound level, A-weighted equivalent sound level (LAeq), maximum level (LAmax), C-weighted peak sound level, time-weighted average (TWA), dose, and projected dose. [30] Dose and projected dose are based on sound level and duration of noise exposure in relation to the NIOSH recommended exposure limit of 85 dB(A) for an eight-hour work shift. Using the phone's internal microphone (or an attached external microphone), the NIOSH Sound Level Meter measures instantaneous sound levels in real time and converts sound into electrical energy to calculate measurements in A-, C-, or Z-weighted decibels. App users are able to generate, save, and e-mail measurement reports. The NIOSH Sound Level Meter is currently only available on Apple iOS devices.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/NoiseLevel_LeafBlower.jpg/170px-NoiseLevel_LeafBlower.jpg",
+                "caption": "Measuring the noise level from a leaf blower using the NIOSH Sound Level Meter app"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Noise_pollution",
+        "title": "Noise pollution",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Noise control",
+        "text": "The Hierarchy of Controls concept is often used to reduce noise in the environment or the workplace. Engineering noise controls can be used to reduce noise propagation and protect individuals from overexposure. When noise controls are not feasible or adequate, individuals can also take steps to protect themselves from the harmful effects of noise pollution. If people must be around loud sounds, they can protect their ears with hearing protection (e.g., ear plugs or ear muffs). [100] Buy Quiet programs and initiatives have arisen in an effort to combat occupational noise exposures. These programs promote the purchase of quieter tools and equipment and encourage manufacturers to design quieter equipment. [101] Noise from roadways and other urban factors can be mitigated by urban planning and better design of roads . Roadway noise can be reduced by the use of noise barriers , limitation of vehicle speeds, alteration of roadway surface texture, limitation of heavy vehicles , use of traffic controls that smooth vehicle flow to reduce braking and acceleration, and tyre design. An important factor in applying these strategies is a computer model for roadway noise , that is capable of addressing local topography , meteorology , traffic operations, and hypothetical mitigation. Costs of building-in mitigation can be modest, provided these solutions are sought in the planning stage of a roadway project. Aircraft noise can be reduced by using quieter jet engines . Altering flight paths and time of day runway has benefited residents near airports.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TullamarineFwy.jpg/220px-TullamarineFwy.jpg",
+                "caption": "The CityLink sound tube in Flemington , Melbourne , Australia , is designed to reduce roadway noise without detracting from the area's aesthetics."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Man_inserting_earplugs.jpg/220px-Man_inserting_earplugs.jpg",
+                "caption": "A man inserting an earplug in his ear to reduce the noise exposure"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Noise_pollution",
+        "title": "Noise pollution",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Occurrence",
+        "text": "Weather situations where shear is observed include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Microburstnasa.JPG/250px-Microburstnasa.JPG",
+                "caption": "Microburst schematic from NASA. The direction of travel is downward until the air current hits ground level, at which point it spreads outward in all directions. The wind regime in a microburst is completely opposite to a tornado. [ citation needed ]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_shear",
+        "title": "Wind shear",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Effects on tropical cyclones",
+        "text": "Tropical cyclones are, in essence, heat engines that are fueled by the temperature gradient between the warm tropical ocean surface and the colder upper atmosphere. Tropical cyclone development requires relatively low values of vertical wind shear so that their warm core can remain above their surface circulation center, thereby promoting intensification. Strongly sheared tropical cyclones weaken as the upper circulation is blown away from the low-level center. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Thunderhead.anvil.jpg/220px-Thunderhead.anvil.jpg",
+                "caption": "Strong wind shear in the high troposphere forms the anvil-shaped top of this mature cumulonimbus cloud, or thunderstorm. [13]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_shear",
+        "title": "Wind shear",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Planetary boundary layer",
+        "text": "The atmospheric effect of surface friction with winds aloft forces surface winds to slow and back counterclockwise near the surface of Earth blowing inward across isobars (lines of equal pressure) when compared to the winds in frictionless flow well above Earth's surface. [15] [ failed verification ] This layer where friction slows and changes the wind is known as the planetary boundary layer , sometimes the Ekman layer , and it is thickest during the day and thinnest at night. Daytime heating thickens the boundary layer as winds at the surface become increasingly mixed with winds aloft due to insolation , or solar heating. Radiative cooling overnight further enhances wind decoupling between the winds at the surface and the winds above the boundary layer by calming the surface wind which increases wind shear. These wind changes force wind shear between the boundary layer and the wind aloft and are most emphasized at night. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/PBLimage.jpg/220px-PBLimage.jpg",
+                "caption": "Depiction of where the planetary boundary layer lies on a sunny day"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_shear",
+        "title": "Wind shear",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Gliding",
+        "text": "In gliding, wind gradients just above the surface affect the takeoff and landing phases of the flight of a glider .\nWind gradient can have a noticeable effect on ground launches , also known as winch launches or wire launches. If the wind gradient is significant or sudden, or both, and the pilot maintains the same pitch attitude, the indicated airspeed will increase, possibly exceeding the maximum ground launch tow speed. The pilot must adjust the airspeed to deal with the effect of the gradient. [16] When landing, wind shear is also a hazard, particularly when the winds are strong. As the glider descends through the wind gradient on final approach to landing, airspeed decreases while sink rate increases, and there is insufficient time to accelerate prior to ground contact. The pilot must anticipate the wind gradient and use a higher approach speed to compensate for it. [17] Wind shear is also a hazard for aircraft making steep turns near the ground. It is a particular problem for gliders which have a relatively long wingspan , which exposes them to a greater wind speed difference for a given bank angle. The different airspeed experienced by each wing tip can result in an aerodynamic stall on one wing, causing a loss of control accident. [17] [18]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/FAA-8083-13_Fig_7-20.PNG/220px-FAA-8083-13_Fig_7-20.PNG",
+                "caption": "Glider ground launch affected by wind shear"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_shear",
+        "title": "Wind shear",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Impact on passenger aircraft",
+        "text": "Windshear can be extremely dangerous for aircraft, especially during takeoff and landing. Sudden changes in wind velocity can cause rapid decreases in airspeed , leading to the aircraft being unable to maintain altitude. Windshear has been responsible for several deadly accidents, including Eastern Air Lines Flight 66 , Pan Am Flight 759 , Delta Air Lines Flight 191 , and USAir Flight 1016 . [ citation needed ] Windshear can be detected using Doppler radar . [22] [23] Airports can be fitted with low-level windshear alert systems or Terminal Doppler Weather Radar , and aircraft can be fitted with airborne wind shear detection and alert systems . Following the 1985 crash of Delta Air Lines Flight 191, in 1988 the U.S. Federal Aviation Administration mandated that all commercial aircraft have airborne wind shear detection and alert systems by 1993. The installation of high-resolution Terminal Doppler Weather Radar stations at many U.S. airports that are commonly affected by windshear has further aided the ability of pilots and ground controllers to avoid wind shear conditions. [24]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Windshearaircraftnasa.gif/200px-Windshearaircraftnasa.gif",
+                "caption": "Effect of wind shear on aircraft trajectory. Note how merely correcting for the initial gust front can have dire consequences."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Delta_191_wreckage.jpg/220px-Delta_191_wreckage.jpg",
+                "caption": "Wreckage of Delta Air Lines Flight 191 tail section after a microburst slammed the aircraft into the ground. Another aircraft can be seen flying in the background past the crash scene."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_shear",
+        "title": "Wind shear",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Sound propagation",
+        "text": "Wind shear can have a pronounced effect upon sound propagation in the lower atmosphere, where waves can be \"bent\" by refraction phenomenon. The audibility of sounds from distant sources, such as thunder or gunshots , is very dependent on the amount of shear. The result of these differing sound levels is key in noise pollution considerations, for example from roadway noise and aircraft noise , and must be considered in the design of noise barriers . [26] This phenomenon was first applied to the field of noise pollution study in the 1960s, contributing to the design of urban highways as well as noise barriers . [27] The speed of sound varies with temperature. Since temperature and sound velocity normally decrease with increasing altitude, sound is refracted upward, away from listeners on the ground, producing an acoustic shadow at some distance from the source. [28] In 1862, during the American Civil War Battle of Iuka , an acoustic shadow, believed to have been enhanced by a northeast wind, kept two divisions of Union soldiers out of the battle, [29] because they could not hear the sounds of battle only six miles downwind. [30]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hodographe_NOAA.PNG/220px-Hodographe_NOAA.PNG",
+                "caption": "Hodograph plot of wind vectors at various heights in the troposphere. Meteorologists can use this plot to evaluate vertical wind shear in weather forecasting. (Source: NOAA )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_shear",
+        "title": "Wind shear",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Wind conditions",
+        "text": "The faster the average wind speed, the more electricity the wind turbine will generate, so faster winds are generally economically better for wind farm developments. [7] The balancing factor is that strong gusts and high turbulence require stronger more expensive turbines, otherwise there is a risk of damage. The average power in the wind is not proportional to the average wind speed. For this reason, the ideal wind conditions would be strong but consistent winds with low turbulence coming from a single direction. Mountain passes are ideal locations for wind farms under these conditions. Mountain passes channel wind, blocked by mountains, through a tunnel like pass towards areas of lower pressure and flatter land. [8] Passes used for wind farms like the San Gorgonio Pass and Altamont Pass are known for their abundant wind resource capacity and capability for large-scale wind farms. These types of passes were the first places in the 1980s to have heavily invested large-scale wind farms after approval for wind energy development by the U.S. Bureau of Land Management. From these wind farms, developers learned much about turbulence and crowding effects of large-scale wind projects, which were previously unresearched, in the U.S. due to the lack of operational wind farms large enough to conduct these types of studies. [9] Usually sites are screened on the basis of a wind atlas , and validated with on-site wind measurements via long term or permanent meteorological-tower data using anemometers and wind vanes . Meteorological wind data alone is usually not sufficient for accurate siting of a large wind power project. Collection of site specific data for wind speed and direction is crucial to determining site potential [10] [11] in order to finance the project. [12] Local winds are often monitored for a year or more, detailed wind maps are constructed, along with rigorous grid capability studies conducted, before any wind generators are installed. The wind blows faster at higher altitudes because of the reduced influence of drag. The increase in velocity with altitude is most dramatic near the surface and is affected by topography, surface roughness, and upwind obstacles such as trees or buildings. At altitudes of thousands of feet/hundreds of metres above sea level, the power in the wind decreases proportional to the decrease in air density. [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/United_States_Wind_Resources_and_Transmission_Lines_map.jpg/660px-United_States_Wind_Resources_and_Transmission_Lines_map.jpg",
+                "caption": "Map of available wind power over the United States. Colour codes indicate wind power density class."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Electricity grid considerations",
+        "text": "Often in heavily saturated energy markets, the first step in site selection for large-scale wind projects, before wind resource data collection, is finding areas with adequate available transfer capability (ATC). ATC is the measure of the remaining capacity in a transmission system available for further integration of two interconnected areas without significant upgrades to existing transmission lines and substations. Significant equipment upgrades have substantial costs, potentially undermining the viability of a project within a location, regardless of wind resource availability. [14] Once a list of capable areas is constructed, the list is refined based on long term wind measurements, among other environmental or technical limiting factors such as proximity to load and land procurement. Many independent system operators (ISOs) in the United States such as the California ISO and Midcontinent ISO use interconnection request queues to allow developers to propose a new generation for a specific given area and grid interconnection. [15] These request queues have both deposit costs at the time of request and ongoing costs for the studies the ISO will make for up to years after the request was submitted to ascertain the viability of the interconnection due to factors such as ATC. [16] Larger corporations who can afford to bid the most queues will most likely have market power as to which sites with the most resource and opportunity are eventually developed. After the deadline to request a place in the queue has passed, many firms will withdraw their requests after gauging the competition in order to make back some of the deposit for each request that is determined too risky in comparison to other larger firms' requests.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Biglow_Canyon_Wind_Farm_under_construction.jpg/350px-Biglow_Canyon_Wind_Farm_under_construction.jpg",
+                "caption": "Part of the Biglow Canyon Wind Farm , Oregon , United States with a turbine under construction"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Onshore",
+        "text": "The capacity of the world's first wind farm was 0.6 MW, produced by 20 wind turbines rated at 30 kilowatts each, installed on the shoulder of Crotched Mountain in southern New Hampshire in December 1980. [19] [20] Onshore turbine installations in hilly or mountainous regions tend to be on ridges generally three kilometres or more inland from the nearest shoreline. This is done to exploit the topographic acceleration as the wind accelerates over a ridge. The additional wind speeds gained in this way can increase energy produced because more wind goes through the turbines. The exact position of each turbine matters, because a difference of 30 metres could potentially double output. This careful placement is referred to as 'micro-siting'.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Lochgoin_from_the_air_%28geograph_6051696%29.jpg/330px-Lochgoin_from_the_air_%28geograph_6051696%29.jpg",
+                "caption": "An aerial view of Whitelee Wind Farm , the largest onshore wind farm in the UK and second-largest in Europe"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Roscoe_Wind_Farm_in_West_Texas.jpg/330px-Roscoe_Wind_Farm_in_West_Texas.jpg",
+                "caption": "Roscoe Wind Farm , an onshore wind farm, in West Texas"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Offshore",
+        "text": "Europe is the leader in offshore wind energy, with the first offshore wind farm (Vindeby) being installed in Denmark in 1991. As of 2010, there were 39 offshore wind farms in waters off Belgium, Denmark, Finland, Germany, Ireland, the Netherlands, Norway, Sweden and the United Kingdom, with a combined operating capacity of 2,396 MW. More than 100 GW (or 100,000 MW) of offshore projects are proposed or under development in Europe. The European Wind Energy Association set a target of 40 GW installed by 2020 and 150 GW by 2030. [38] As of 2017 [update] , The Walney Wind Farm in the United Kingdom is the largest offshore wind farm in the world at 659 MW , followed by the London Array (630 MW) also in the UK. Offshore wind turbines are less obtrusive than turbines on land, as their apparent size and noise is mitigated by distance. Because water has less surface roughness than land (especially deeper water), the average wind speed is usually considerably higher over open water. Capacity factors (utilisation rates) are considerably higher than for onshore locations. [39] The province of Ontario, Canada is pursuing several proposed locations in the Great Lakes , including the suspended [40] Trillium Power Wind 1 approximately 20 km from shore and over 400 MW in size. [41] Other Canadian projects include one on the Pacific west coast. [42] In 2010, there were no offshore wind farms in the United States, but projects were under development in wind-rich areas of the East Coast, Great Lakes, and Pacific coast; [38] and in late 2016 the Block Island Wind Farm was commissioned. Installation and service / maintenance of off-shore wind farms are a challenge for technology and economic operation of a wind farm. As of 2015 [update] , there are 20 jackup vessels for lifting components, but few can lift sizes above 5 MW. [44] Service vessels have to be operated nearly 24/7 (availability higher than 80% of time) to get sufficient amortisation from the wind turbines. [ citation needed ] Therefore, special fast service vehicles for installation (like Wind Turbine Shuttle) as well as for maintenance (including heave compensation and heave compensated working platforms to allow the service staff to enter the wind turbine also at difficult weather conditions) are required. So-called inertial and optical based Ship Stabilization and Motion Control systems (iSSMC) are used for that.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Windmills_and_Sailboats_on_the_Ocean_4890300941.jpg/260px-Windmills_and_Sailboats_on_the_Ocean_4890300941.jpg",
+                "caption": "Offshore wind turbines near Copenhagen , Denmark."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20210830_Windfarm_power_generation_capacity_-_offshore_capacity%2C_and_total_needed.svg/260px-20210830_Windfarm_power_generation_capacity_-_offshore_capacity%2C_and_total_needed.svg.png",
+                "caption": "Offshore windfarms, including floating windfarms, provide a small but growing fraction of total windfarm power generation. Such power generation capacity must grow substantially to help meet the IEA 's Net Zero by 2050 pathway to combat climate change. [43]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Australia",
+        "text": "The Australian Greens have been significant supporters of Australian wind farms, however the party's previous leader Bob Brown and former leader Richard Di Natale have now both expressed concerns about environmental aspects of wind turbines, particularly the potential danger they impose for birds. [66] [67]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Canunda_wind_farm_DKC1.jpg/220px-Canunda_wind_farm_DKC1.jpg",
+                "caption": "The Australian Canunda Wind Farm , South Australia at sunrise"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "China",
+        "text": "In just five years, China leapfrogged the rest of the world in wind energy production, going from 2,599 MW of capacity in 2006 to 62,733 MW at the end of 2011. [74] [75] [76] However, the rapid growth outpaced China's infrastructure and new construction slowed significantly in 2012. [77] At the end of 2009, wind power in China accounted for 25.1 gigawatts (GW) of electricity generating capacity, [78] and China has identified wind power as a key growth component of the country's economy. [79] With its large land mass and long coastline, China has exceptional wind resources. [80] Researchers from Harvard and Tsinghua University have found that China could meet all of their electricity demands from wind power by 2030. [81] By the end of 2008, at least 15 Chinese companies were commercially producing wind turbines and several dozen more were producing components. [82] Turbine sizes of 1.5 MW to 3 MW became common. Leading wind power companies in China were Goldwind , Dongfang Electric , and Sinovel [83] along with most major foreign wind turbine manufacturers. [84] China also increased production of small-scale wind turbines to about 80,000 turbines (80 MW) in 2008. Through all these developments, the Chinese wind industry appeared unaffected by the financial crisis of 2007–2008 , according to industry observers. [83] According to the Global Wind Energy Council , the development of wind energy in China, in terms of scale and rhythm, is unparalleled in the world. The National People's Congress permanent committee passed a law that requires the Chinese energy companies to purchase all the electricity produced by the renewable energy sector. [85]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Beach_Point-Lower_East_Pubnico_%28wind_farm%29.jpg/440px-Beach_Point-Lower_East_Pubnico_%28wind_farm%29.jpg",
+                "caption": "The Pubnico Wind Farm taken from Beach Point, Lower East Pubnico, Nova Scotia"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wind_farm_xinjiang.jpg/220px-Wind_farm_xinjiang.jpg",
+                "caption": "Wind farm in Xinjiang , China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Europe",
+        "text": "In 2011 the European Union had a total installed wind capacity of 93,957 MW. Germany had the third-largest capacity in the world (after China and the United States), with an installed capacity of 29,060 MW at the end of 2011. Spain had 21,674 MW, and Italy and France each had between 6,000 and 7,000 MW. [86] [87] By January 2014, the UK installed capacity was 10,495 MW. [88] But energy production can be different from capacity – in 2010, Spain had the highest European wind power production with 43 TWh compared to Germany's 35 TWh. [89] In addition to the ' London Array ', an off-shore wind farm in the Thames Estuary in the United Kingdom , with a capacity of 630 MW (the world's largest off-shore wind farm when built), other large wind farms in Europe include Fântânele-Cogealac Wind Farm near Constanța , Romania with 600 MW capacity, [90] [91] and Whitelee Wind Farm near Glasgow , Scotland which has a total capacity of 539 MW. An important limiting factor of wind power is variable power generated by wind farms. In most locations the wind blows only part of the time, which means that there has to be back-up capacity of dispatchable generation capacity to cover periods that the wind is not blowing. To address this issue it has been proposed to create a \" supergrid \" to connect national grids together [92] across western Europe , ranging from Denmark across the southern North Sea to England and the Celtic Sea to Ireland, and further south to France and Spain especially in Higueruela which was for some time the biggest wind farm in the world. [93] The idea is that by the time a low pressure area has moved away from Denmark to the Baltic Sea the next low appears off the coast of Ireland. Therefore, while it is true that the wind is not blowing everywhere all of the time, it will tend to be blowing somewhere. In July 2022, Seagreen , the world's deepest fixed-bottom wind farm, became operative. Located 26 miles off the Angus coastline, in Scotland, it has 114 turbines that generate 1.1 gigawatts (GW) of electricity. [94] [95]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Windpark_Galicia.jpg/330px-Windpark_Galicia.jpg",
+                "caption": "A wind farm in a mountainous area in Galicia , Spain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "India",
+        "text": "India has the fifth largest installed wind power capacity in the world. [96] As of 31 March 2014, the installed capacity of wind power was 21136.3 MW mainly spread across Tamil Nadu state (7253 MW). [97] [98] Wind power accounts nearly 8.5% of India's total installed power generation capacity, and it generates 1.6% of the country's power.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/A_Wind_Energy_farm_and_the_Cenotaphs%2C_the_ancient_and_the_modern%2C_Jaisalmer_Rajasthan_India.jpg/220px-A_Wind_Energy_farm_and_the_Cenotaphs%2C_the_ancient_and_the_modern%2C_Jaisalmer_Rajasthan_India.jpg",
+                "caption": "A wind farm overlooking Bada Bagh , India"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Jordan",
+        "text": "The 117 MW Tafila Wind Farm in Jordan was inaugurated in December 2015, and is the first large scale wind farm project in the region. [102]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tafila_Wind_Farm_3.jpg/220px-Tafila_Wind_Farm_3.jpg",
+                "caption": "The Tafila Wind Farm in Jordan , is the first large scale wind farm in the region."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Pakistan",
+        "text": "Pakistan has wind corridors in Jhimpir, Gharo and Keti Bundar in Sindh province and is currently developing wind power plants in Jhimpir and Mirpur Sakro (District Thatta). The government of Pakistan decided to develop wind power energy sources due to problems supplying energy to the southern coastal regions of Sindh and Balochistan. The Zorlu Energy Putin Power Plant is the first wind power plant in Pakistan. The wind farm is being developed in Jhimpir, by Zorlu Energy Pakistan the local subsidiary of a Turkish company. The total cost of the project is $136 million.[3] Completed in 2012, it has a total capacity of around 56MW. Fauji Fertilizer Company Energy Limited, has built a 49.5 MW wind Energy Farm at Jhimpir. Contract of supply of mechanical design was awarded to Nordex and Descon Engineering Limited. Nordex is a German wind turbine manufacturer. In the end of 2011 49.6 MW was expected to be completed. The Pakistani government also issued a Letter Of Interest in a 100 MW Wind power plant to FFCEL. The Pakistani government had plans to achieve electric power  generation of up to 2500 MW by the end of 2015 from wind energy to bring down an energy shortage. Currently four wind farms are operational (Fauji Fertilizer 49.5 MW (subsidiary of Fauji Foundation), Three Gorges 49.5 MW, Zorlu Energy Pakistan 56 MW, Sapphire Wind Power Company Limited 52.6 MW) and six are under construction phase ( Master Wind Energy Limited 52.6 MW, Sachal Energy Development Limited 49.5 MW, Yunus Energy Limited 49.5 MW, Gul Energy 49.5 MW, Metro Energy 49.5 MW, Tapal Energy) and were expected to achieve COD in 2017. In the Gharo wind corridor, two wind farms (Foundation Energy 1 & II each 49.5 MW) are operational while two wind farms Tenaga Generasi Limited 49.5 MW and HydroChina Dawood Power Pvt. Limited 49.5 are under construction and expected to achieve COD in 2017. According to a USAID report, Pakistan has the potential of producing 150,000 megawatts of wind energy, of which the Sindh corridor can produce 40,000 megawatts.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jhimpir_Wind_Farm_2012.jpg/220px-Jhimpir_Wind_Farm_2012.jpg",
+                "caption": "Jhimpir Wind Farm, Pakistan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "South Africa",
+        "text": "As of September 2015, a number of sizable wind farms have been constructed in South Africa mostly in the Western Cape region. These include the 100 MW Sere Wind Farm and the 138 MW Gouda Wind Facility . Most future wind farms in South Africa are earmarked for locations along the Eastern Cape coastline. [106] [107] [108] Eskom has constructed one small scale prototype windfarm at Klipheuwel in the Western Cape and another demonstrator site is near Darling with phase 1 completed. The first commercial wind farm, Coega Wind Farm in Port Elisabeth, was developed by the Belgian company Electrawinds.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gouda_Wind_Farm_2015.JPG/220px-Gouda_Wind_Farm_2015.JPG",
+                "caption": "Gouda Wind Facility , South Africa"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "United States",
+        "text": "U.S. wind power installed capacity in September 2019 exceeded 100,125 MW and supplies 6.94% of the nation's electricity. [109] The majority of wind farms in the United States are located in the Central Plains , with slow expansion into other regions of the country. New installations place the U.S. on a trajectory to generate 20% of the nation's electricity by 2030 from wind energy. [110] Growth in 2008 channeled some $17 billion into the economy, positioning wind power as one of the leading sources of new power generation in the country, along with natural gas . Wind projects completed in 2008 accounted for about 42% of the entire new power-producing capacity added in the U.S. during the year. [111] Texas , with 27,036 MW of capacity, has the most installed wind power capacity of any U.S. state, followed by Iowa with 8,965 MW and Oklahoma with 8,072 MW. [112] Iowa is the leading state in terms of wind energy accounting for nearly 40% of total energy production in 2019. The Alta Wind Energy Center (1,020 MW) in California is the nation's largest wind farm in terms of capacity. Altamont Pass Wind Farm is the largest wind farm in the U.S. in terms of the number of individual turbines. [113] At the end of 2019, about 114,000 people were employed in the U.S. wind industry, [114] and GE Energy was the largest domestic wind turbine manufacturer. [115] In 2018, US wind power provided enough electricity to power approximately 25 million homes, avoiding the emissions of 200 million tons of carbon. [116] [111]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/San_Gorgonio_Pass_Wind_Power_Plants.jpg/220px-San_Gorgonio_Pass_Wind_Power_Plants.jpg",
+                "caption": "San Gorgonio Pass wind farm , California"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Iowa_wind_farms-2.jpg/220px-Iowa_wind_farms-2.jpg",
+                "caption": "Northern Iowa wind farm"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Ground radar interference",
+        "text": "Wind farms can interfere with ground radar systems used for military , weather and air traffic control . The large, rapidly moving blades of the turbines can return signals to the radar that can be mistaken as an aircraft or weather pattern. [160] Actual aircraft and weather patterns around wind farms can be accurately detected, as there is no fundamental physical constraint preventing that, but aging radar infrastructure is significantly challenged with the task. [161] [162] The US military is using wind turbines on some bases, including Barstow near the radar test facility . [163] [164]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/NOAA_windturbine-radar-interference.gif/400px-NOAA_windturbine-radar-interference.gif",
+                "caption": "Wind farm interference (in yellow circle) on radar map"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_farm",
+        "title": "Wind farm",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Gliding",
+        "text": "In gliding, wind gradient affects the takeoff and landing phases of flight of a glider .\nWind gradient can have a noticeable effect on ground launches . If the wind gradient is significant or sudden,\nor both, and the pilot maintains the same pitch attitude, the indicated airspeed will increase, possibly exceeding\nthe maximum ground launch tow speed. The pilot must adjust the airspeed to deal with the effect of the\ngradient. [31] When landing, wind gradient is also a hazard, particularly when the winds are strong. [32] As the glider descends through the wind gradient on final approach to landing, airspeed decreases while sink rate increases, and there is insufficient time to accelerate prior to ground contact. The pilot must anticipate the wind gradient and use a higher approach speed to compensate for it. [33] Wind gradient is also a hazard for aircraft making steep turns near the ground. It is a particular problem for gliders which have a relatively long wingspan , which exposes them to a greater wind speed difference for a given bank angle. The different airspeed experienced by each wing tip can result in an aerodynamic stall on one wing, causing a loss of control accident. [33] [34] The rolling moment generated by the different airflow over each wing can exceed the aileron control authority, causing the glider to continue rolling into a steeper bank angle. [35]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/FAA-8083-13_Fig_7-20.PNG/220px-FAA-8083-13_Fig_7-20.PNG",
+                "caption": "Glider ground launch wind gradient effect."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_gradient",
+        "title": "Wind gradient",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    },
+    {
+        "section": "Wind gradient soaring",
+        "text": "Wind gradient soaring, also called dynamic soaring , is a technique used by soaring birds including albatrosses . If the wind gradient is of sufficient magnitude, a bird can climb into the wind gradient, trading ground speed for height, while maintaining airspeed. [60] By then turning downwind, and diving through the wind gradient, they can also gain energy. [61]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Black-browed_albatross.jpg/220px-Black-browed_albatross.jpg",
+                "caption": "This albatross is an expert in dynamic soaring using the wind gradient."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_gradient",
+        "title": "Wind gradient",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Noise reduction in wind turbines"
+    }
+]

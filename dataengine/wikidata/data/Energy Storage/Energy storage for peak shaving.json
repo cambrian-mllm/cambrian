@@ -1,0 +1,476 @@
+[
+    {
+        "section": "Construction",
+        "text": "Battery storage power plants and uninterruptible power supplies (UPS) are comparable in technology and function. However, battery storage power plants are larger. For safety and security, the actual batteries are housed in their own structures, like warehouses or containers. As with a UPS, one concern is that electrochemical energy is stored or emitted in the form of direct current (DC), while electric power networks are usually operated with alternating current (AC). For this reason, additional inverters are needed to connect the battery storage power plants to the high voltage network. This kind of power electronics include gate turn-off thyristor , commonly used in high-voltage direct current (HVDC) transmission. Various accumulator systems may be used depending on the power-to-energy ratio, the expected lifetime and the costs. In the 1980s, lead-acid batteries were used for the first battery-storage power plants. During the next few decades, nickel–cadmium and sodium–sulfur batteries were increasingly used. [11] Since 2010, more and more utility-scale battery storage plants rely on lithium-ion batteries, as a result of the fast decrease in the cost of this technology, caused by the electric automotive industry. Lithium-ion batteries are mainly used. A flow battery system has emerged, but lead-acid batteries are still used in small budget applications. [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Datacenter_Backup_Batteries.jpg/220px-Datacenter_Backup_Batteries.jpg",
+                "caption": "A rechargeable battery bank used in a data center"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Invenergy_Beech_Ridge_Energy_Storage_System.jpg/220px-Invenergy_Beech_Ridge_Energy_Storage_System.jpg",
+                "caption": "Lithium iron phosphate battery modules packaged in shipping containers installed at Beech Ridge Energy Storage System in West Virginia [9] [10]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Battery_storage_power_station",
+        "title": "Battery storage power station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Operating characteristics",
+        "text": "Since they do not have any mechanical parts, battery storage power plants offer extremely short control times and start times, as little as 10 ms. [ citation needed ] They can therefore help dampen the fast oscillations that occur when electrical power networks are operated close to their maximum capacity. These instabilities – voltage fluctuations with periods of as much as 30 seconds – can produce peak voltage swings of such amplitude that they can cause regional blackouts. A properly sized battery storage power plant can efficiently counteract these oscillations; therefore, applications are found primarily in those regions where electrical power systems are operated at full capacity, leading to a risk of instability. [ citation needed ] However, some batteries have insufficient control systems, failing during moderate disruptions they should have tolerated. [30] Batteries are also commonly used for peak shaving for periods of up to a few hours. [2] Battery storage systems may be active on spot markets while providing systems services such as frequency stabilization. [31] Arbitrage is an attractive way to benefit from the operating characteristics of battery storages. Storage plants can also be used in combination with an intermittent renewable energy source in stand-alone power systems .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schwerin_20140923_wemag2.jpg/220px-Schwerin_20140923_wemag2.jpg",
+                "caption": "Battery storage power plant at Schwerin (interior view 2014, modular rows of accumulators)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Battery_storage_power_station",
+        "title": "Battery storage power station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Market development and deployment",
+        "text": "While the market for grid batteries is small compared to the other major form of grid storage, pumped hydroelectricity, it is growing very fast. For example, in the United States, the market for storage power plants in 2015 increased by 243% compared to 2014. [75] The 2021 price of a 60MW / 240MWh (4-hour) battery installation in the United States was US$379/usable kWh, or US$292/nameplate kWh, a 13% drop from 2020. [76] [77] In 2010, the United States had 59 MW of battery storage capacity from 7 battery power plants. This increased to 49 plants comprising 351 MW of capacity in 2015. In 2018, the capacity was 869 MW from 125 plants, capable of storing a maximum of 1,236 MWh of generated electricity. By the end of 2020, the battery storage capacity reached 1,756 MW. [78] [79] At the end of 2021, the capacity grew to 4,588 MW. [80] In 2022, US capacity doubled to 9 GW / 25 GWh. [81] As of May 2021, 1.3 GW of battery storage was operating in the United Kingdom, with 16 GW of projects in the pipeline potentially deployable over the next few years. [82] In 2022, UK capacity grew by 800 MWh, ending at 2.4 GW / 2.6 GWh. [83] Europe added 1.9 GW, with several more projects planned. [84] In 2020, China added 1,557 MW to its battery storage capacity, while storage facilities for photovoltaics projects accounting for 27% of the capacity, [85] to the total 3,269 MW of electrochemical energy storage capacity. [86] There is a lot of movement in the market, for example, some developers are building storage systems from old batteries of electric cars, where costs can probably be halved compared to conventional systems from new batteries. [87]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/U.S._utility-scale_battery_storage_capacity_as_of_November_2023.svg/350px-U.S._utility-scale_battery_storage_capacity_as_of_November_2023.svg.png",
+                "caption": "Growth in installed battery capacy in the U.S. between 2015 and 2023 [74]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Battery_storage_power_station",
+        "title": "Battery storage power station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Demand side management and grid storage",
+        "text": "The demand side can also store electricity from the grid, for example charging a battery electric vehicle stores energy for a vehicle and storage heaters , district heating storage or ice storage provide thermal storage for buildings. [6] At present this storage serves only to shift consumption to the off-peak time of day, no electricity is returned to the grid. The need for grid storage to provide peak power is reduced by demand side time of use pricing , one of the benefits of smart meters . At the household level, consumers may choose less expensive off-peak times to wash and dry clothes, use dishwashers, take showers and cook. As well, commercial and industrial users will take advantage of cost savings by deferring some processes to off-peak times. Regional impacts from the unpredictable operation of wind power has created a new need for interactive demand response , where the utility communicates with the demand. Historically this was only done in cooperation with large industrial consumers, but now may be expanded to entire grids. [7] For instance, a few large-scale projects in Europe link variations in wind power to change industrial food freezer loads, causing small variations in temperature. If communicated on a grid-wide scale, small changes to heating/cooling temperatures would instantly change consumption across the grid. A report released in December 2013 by the United States Department of Energy further describes the potential benefits of energy storage and demand side technologies to the electric grid: \"Modernizing the electric system will help the nation meet the challenge of handling projected energy needs—including addressing climate change by integrating more energy from renewable sources and enhancing efficiency from non-renewable energy processes. Advances to the electric grid must maintain a robust and resilient electricity delivery system, and energy storage can play a significant role in meeting these challenges by improving the operating capabilities of the grid, lowering cost and ensuring high reliability, as well as deferring and reducing infrastructure investments. Finally, energy storage can be instrumental for emergency preparedness because of its ability to provide backup power as well as grid stabilization services\". [8] The report was written by a core group of developers representing Office of Electricity Delivery and Energy Reliability , ARPA-E , Office of Science , Office of Energy Efficiency and Renewable Energy , Sandia National Laboratories , and Pacific Northwest National Laboratory ; all of whom are engaged in the development of grid energy storage. [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Energy-Units-01.png/220px-Energy-Units-01.png",
+                "caption": "A sense of units and scale for electrical energy production and consumption"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Batteries",
+        "text": "Battery storage was used in the early days of direct current electric power. Where AC grid power was not readily available, isolated lighting plants run by wind turbines or internal combustion engines provided lighting and power to small motors. The battery system could be used to run the load without starting the engine or when the wind was calm. A bank of lead–acid batteries in glass jars both supplied power to illuminate lamps, as well as to start an engine to recharge the batteries. Battery storage technology is typically around 80% to more than 90% efficient for newer lithium-ion devices. [38] [39] Battery systems connected to large solid-state converters have been used to stabilize power distribution networks. Some grid batteries are co-located with renewable energy plants, either to smooth the power supplied by the intermittent wind or solar output, or to shift the power output into other hours of the day when the renewable plant cannot produce power directly (see Installation examples ). These hybrid systems (generation and storage) can either alleviate the pressure on the grid when connecting renewable sources or be used to reach self-sufficiency and work \"off-the-grid\" (see Stand-alone power system ). Contrary to electric vehicle applications, batteries for stationary storage do not suffer from mass or volume constraints. However, due to the large amounts of energy and power implied, the cost per power or energy unit is crucial. The relevant metrics to assess the interest of a technology for grid-scale storage is the $/Wh (or $/W) rather than the Wh/kg (or W/kg). The electrochemical grid storage was made possible thanks to the development of the electric vehicle, that induced a fast decrease in the production costs of batteries below $300/kWh. By optimizing the production chain, major industrials aimed to reach $150/kWh by the end of 2020, but actually achieved $140/kWh. The rate of decline in battery prices has consistently outpaced most estimates, reaching $132/kWh in 2021. [40] These batteries rely on a lithium-ion technology, which is suited for mobile applications (high cost, high density). Technologies optimized for the grid should focus on low cost per kWh.   Lithium iron phosphate batteries are increasingly being used in both vehicles and grid storage because of their low cost, scale and acceptable energy density for many applications. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Light-plant-Fig1198-Page989-Ch45-Hawkins-Electrical-Guide.png/220px-Light-plant-Fig1198-Page989-Ch45-Hawkins-Electrical-Guide.png",
+                "caption": "A 900 watt direct current light plant using 16 separate lead acid battery cells (32 volts) from 1917. [35]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Battery-cost-learning-curve.png/220px-Battery-cost-learning-curve.png",
+                "caption": "Learning curve of lithium-ion batteries: the price of batteries declined by 97% in three decades. [36] [37]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Electric vehicles",
+        "text": "Companies are researching the possible use of electric vehicles to meet peak demand. A parked and plugged-in electric vehicle could sell the electricity from the battery during peak loads and charge either during night (at home) or during off-peak. [69] Plug-in hybrid or electric cars could be used [70] [71] [72] for their energy storage capabilities. Vehicle-to-grid technology can be employed, turning each vehicle with its 20 to 50 kWh battery pack into a distributed load-balancing device or emergency power source. This represents two to five days per vehicle of average household requirements of 10 kWh per day, assuming annual consumption of 3,650 kWh. This quantity of energy is equivalent to between 60 and 480 kilometres (40 and 300 mi) of range in such vehicles consuming 0.1 to 0.3 kilowatt-hours per kilometre (0.16 to 0.5 kWh/mi). These figures can be achieved even in home-made electric vehicle conversions . Some electric utilities plan to use old plug-in vehicle batteries (sometimes resulting in a giant battery) to store electricity [73] [74] However, a large disadvantage of using vehicle to grid energy storage would be if each storage cycle stressed the battery with one complete charge-discharge cycle. [70] However, one major study showed that used intelligently, vehicle-to-grid storage actually improved the batteries longevity. [75] Conventional (cobalt-based) lithium-ion batteries break down with the number of cycles – newer li-ion batteries do not break down significantly with each cycle, and so have much longer lives. One approach is to reuse unreliable vehicle batteries in dedicated grid storage [76] as they are expected to be good in this role for ten years. [77] If such storage is done on a large scale it becomes much easier to guarantee replacement of a vehicle battery degraded in mobile use, as the old battery has value and immediate use.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg/220px-Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg",
+                "caption": "Nissan Leaf , the world's top-selling highway-capable electric car as of 2015"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Flywheel",
+        "text": "Mechanical inertia is the basis of this storage method. When the electric power flows into the device, an electric motor accelerates a heavy rotating disc. The motor acts as a generator when the flow of power is reversed, slowing down the disc and producing electricity. Electricity is stored as the kinetic energy of the disc. Friction must be kept to a minimum to prolong the storage time. This is often achieved by placing the flywheel in a vacuum and using magnetic bearings , tending to make the method expensive. Greater flywheel speeds allow greater storage capacity but require strong materials such as steel or composite materials to resist the centrifugal forces . The ranges of power and energy storage technology that make this method economic, however, tends to make flywheels unsuitable for general power system application; they are probably best suited to load-leveling applications on railway power systems and for improving power quality in renewable energy systems such as the 20MW system in Ireland. [78] [79] Applications that use flywheel storage are those that require very high bursts of power for very short durations such as tokamak [80] and laser experiments where a motor generator is spun up to operating speed and is partially slowed down during discharge. Flywheel storage is also currently used in the form of the Diesel rotary uninterruptible power supply to provide uninterruptible power supply systems (such as those in large datacenters ) for ride-through power necessary during transfer [81] – that is, the relatively brief amount of time between a loss of power to the mains and the warm-up of an alternate source, such as a diesel generator . This potential solution has been implemented by EDA [82] [ better source needed ] in the Azores on the islands of Graciosa and Flores . This system uses an 18 megawatt-second flywheel to improve power quality and thus allow increased renewable energy usage. As the description suggests, these systems are again designed to smooth out transient fluctuations in supply, and could never be used to cope with an outage exceeding a couple of days. Powercorp in Australia have been developing applications using wind turbines, flywheels and low load diesel (LLD) technology to maximize the wind input to small grids. A system installed in Coral Bay, Western Australia, uses wind turbines coupled with a flywheel based control system and LLDs. The flywheel technology enables the wind turbines to supply up to 95 percent of Coral Bay's energy supply at times, with a total annual wind penetration of 45 percent. [83]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/G2_front2.jpg/220px-G2_front2.jpg",
+                "caption": "NASA G2 flywheel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Pumped water",
+        "text": "In 2008, world pumped-storage generating capacity was 104 GW , [95] while other sources claim 127 GW, which comprises the vast majority of all types of grid electric storage – all other types combined are some hundreds of MW. [96] In many places, pumped-storage hydroelectricity is used to even out the daily generating load, by pumping water to a high storage reservoir during off-peak hours and weekends, using the excess base-load capacity from coal or nuclear sources.  During peak hours, this water can be used for hydroelectric generation, often as a high value rapid-response reserve to cover transient peaks in demand. Pumped storage recovers about 70% to 85% of the energy consumed, and is currently the most cost effective form of mass power storage. [97] The chief problem with pumped storage is that it usually requires two nearby reservoirs at considerably different heights, and often requires considerable capital expenditure. [98] Pumped water systems have high dispatchability , meaning they can come on-line very quickly, typically within 15 seconds, [99] which makes these systems very efficient at soaking up variability in electrical demand from consumers. There is over 90 GW of pumped storage in operation around the world, which is about 3% of instantaneous global generation capacity. Pumped water storage systems, such as the Dinorwig storage system in Britain, hold five or six hours of generating capacity, [99] and are used to smooth out demand variations. Another example is the 1836 MW Tianhuangping Pumped-Storage Hydro Plant in China, which has a reservoir capacity of eight million cubic meters (2.1 billion U.S. gallons or the volume of water over Niagara Falls in 25 minutes) with a vertical distance of 600 m (1970 feet). The reservoir can provide about 13 GW·h of stored gravitational potential energy (convertible to electricity at about 80% efficiency), or about 2% of China's daily electricity consumption. [100] A new concept in pumped-storage is utilizing wind energy or solar power to pump water. Wind turbines or solar cells that direct drive water pumps for an energy storing wind or solar dam can make this a more efficient process but are limited. Such systems can only increase kinetic water volume during windy and daylight periods. A study published in 2013 showed rooftop solar, coupled to existing pumped-storage, could replace the reactors lost at Fukushima with an equivalent capacity factor. [101]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG/220px-Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG",
+                "caption": "Mingtan Pumped-Storage Hydro Power Plant dam in Nantou , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Hydroelectric dams",
+        "text": "Hydroelectric dams with large reservoirs can also be operated to provide peak generation at times of peak demand. Water is stored in the reservoir during periods of low demand and released through the plant when demand is higher.  The net effect is the same as pumped storage, but without the pumping loss. Depending on the reservoir capacity the plant can provide daily, weekly, or seasonal load following. Many existing hydroelectric dams are fairly old (for example, the Hoover Dam was built in the 1930s), and their original design predated the newer intermittent power sources such as wind and solar by decades. A hydroelectric dam originally built to provide baseload power will have its generators sized according to the average flow of water into the reservoir. Uprating such a dam with additional generators increases its peak power output capacity, thereby increasing its capacity to operate as a virtual grid energy storage unit. [102] [103] The United States Bureau of Reclamation reports an investment cost of $69 per kilowatt capacity to uprate an existing dam, [102] compared to more than $400 per kilowatt for oil-fired peaking generators. While an uprated hydroelectric dam does not directly store excess energy from other generating units, it behaves equivalently by accumulating its own fuel – incoming river water – during periods of high output from other generating units. Functioning as a virtual grid storage unit in this way, the uprated dam is one of the most efficient forms of energy storage, because it has no pumping losses to fill its reservoir, only increased losses to evaporation and leakage. A dam which impounds a large reservoir can store and release a correspondingly large amount of energy, by controlling river outflow and raising or lowering its reservoir level a few meters. Limitations do apply to dam operation, their releases are commonly subject to government regulated water rights to limit downstream effect on rivers. For example, there are grid situations where baseload thermal plants, nuclear or wind turbines are already producing excess power at night, dams are still required to release enough water to maintain adequate river levels, whether electricity is generated or not. Conversely there's a limit to peak capacity, which if excessive could cause a river to flood for a few hours each day. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/FeiCueiReservoir.jpg/220px-FeiCueiReservoir.jpg",
+                "caption": "Fetsui hydroelectric dam in New Taipei , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Australia and New Zealand",
+        "text": "Since the 1950s, Australia and New Zealand have had a system of load management based on ripple control, allowing the electricity supply for domestic and commercial water storage heaters to be switched off and on, as well as allowing remote control of nightstore heaters and street lights. Ripple injection equipment located within each local distribution network signals to ripple control receivers at the customer's premises. Control may either done manually by the local distribution network company in response to local outages or requests to reduce demand from the transmission system operator (i.e. Transpower ), or automatically when injection equipment detects mains frequency falling below 49.2 Hz. Ripple control receivers are assigned to one of several ripple channels to allow the network company to only turn off supply on part of the network, and to allow staged restoration of supply to reduce the impact of a surge in demand when power is restored to water heaters after a period of time off. Depending on the area, the consumer may have two electricity meters, one for normal supply (\"Anytime\") and one for the load-managed supply (\"Controlled\"), with Controlled supply billed at a lower rate per kilowatt-hour than Anytime supply. For those with load-managed supply but only a single meter, electricity is billed at the \"Composite\" rate, priced between Anytime and Controlled.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/NZ_household_ripple_control_receiver.JPG/220px-NZ_household_ripple_control_receiver.JPG",
+                "caption": "A ripple control receiver fitted to a New Zealand house. The left circuit breaker controls the water storage heater supply (currently on), while the right one controls the nightstore heater supply (currently off)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Load_management",
+        "title": "Load management",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Applications",
+        "text": "Grid batteries are used for ancillary services such as control of frequency and phase, black start , operating reserve etc.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tesla_Megapack_site_with_solar_canopies.webp/220px-Tesla_Megapack_site_with_solar_canopies.webp.png",
+                "caption": "Tesla Megapack site with solar canopies [19] 3D sketch"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla_Megapack",
+        "title": "Tesla Megapack",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Supercharger stations",
+        "text": "Megapacks have been installed at Tesla Supercharger stations that also have solar canopies to help power the Megapacks. [26] Megapacks can smooth out electric demand on the local power grid and use the stored Megapacks electricity during peak demand so there aren't excessive surcharges on electricity to charge the electric vehicles. [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tesla_Supercharger_station_with_solar_canopy.webp/220px-Tesla_Supercharger_station_with_solar_canopy.webp.png",
+                "caption": "3D sketch of Tesla Supercharger station with solar canopies and 8 Megapack set for close to 32 MWh"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Tesla_Megapack",
+        "title": "Tesla Megapack",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Pumped hydro",
+        "text": "Worldwide, pumped-storage hydroelectricity (PSH) is the largest-capacity form of active grid energy storage available, and, as of March 2012, the Electric Power Research Institute (EPRI) reports that PSH accounts for more than 99% of bulk storage capacity worldwide, representing around 127,000 MW . [6] PSH energy efficiency varies in practice between 70% and 80%, [6] [7] [8] [9] with claims of up to 87%. [10] At times of low electrical demand, excess generation capacity is used to pump water from a lower source into a higher reservoir. When demand grows, water is released back into a lower reservoir (or waterway or body of water) through a turbine , generating electricity. Reversible turbine-generator assemblies act as both a pump and turbine (usually a Francis turbine design). Nearly all facilities use the height difference between two water bodies. Pure pumped-storage plants shift the water between reservoirs, while the \"pump-back\" approach is a combination of pumped storage and conventional hydroelectric plants that use natural stream-flow.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adam_Beck_Complex.jpg/300px-Adam_Beck_Complex.jpg",
+                "caption": "The Sir Adam Beck Generating Complex at Niagara Falls, Canada , which includes a large pumped storage hydroelectricity reservoir to provide an extra 174 MW of electricity during periods of peak demand."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Compressed air",
+        "text": "Compressed-air energy storage (CAES) uses surplus energy to compress air for subsequent electricity generation. [11] Small-scale systems have long been used in such applications as propulsion of mine locomotives. The compressed air is stored in an underground reservoir , such as a salt dome . Compressed-air energy storage (CAES) plants can bridge the gap between production volatility and load. CAES storage addresses the energy needs of consumers by effectively providing readily available energy to meet demand. Renewable energy sources like wind and solar energy vary. So at times when they provide little power, they need to be supplemented with other forms of energy to meet energy demand. Compressed-air energy storage plants can take in the surplus energy output of renewable energy sources during times of energy over-production. This stored energy can be used at a later time when demand for electricity increases or energy resource availability decreases. [12] Compression of air creates heat; the air is warmer after compression. Expansion requires heat. If no extra heat is added, the air will be much colder after expansion. If the heat generated during compression can be stored and used during expansion, efficiency improves considerably. [13] A CAES system can deal with the heat in three ways. Air storage can be adiabatic , diabatic , or isothermal . Another approach uses compressed air to power vehicles. [14] [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Compressed_Air_Loco.jpg/300px-Compressed_Air_Loco.jpg",
+                "caption": "A compressed air locomotive used inside a mine between 1928 and 1961."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Flywheel",
+        "text": "Flywheel energy storage (FES) works by accelerating a rotor (a flywheel ) to a very high speed, holding energy as rotational energy . When energy is added the rotational speed of the flywheel increases, and when energy is extracted, the speed declines, due to conservation of energy . Most FES systems use electricity to accelerate and decelerate the flywheel, but devices that directly use mechanical energy are under consideration. [16] FES systems have rotors made of high strength carbon-fiber composites, suspended by magnetic bearings and spinning at speeds from 20,000 to over 50,000 revolutions per minute (rpm) in a vacuum enclosure. [17] Such flywheels can reach maximum speed (\"charge\") in a matter of minutes. The flywheel system is connected to a combination electric motor / generator . FES systems have relatively long lifetimes (lasting decades with little or no maintenance; [17] full-cycle lifetimes quoted for flywheels range from in excess of 10 5 , up to 10 7 , cycles of use), [18] high specific energy (100–130 W·h/kg, or 360–500 kJ/kg) [18] [19] and power density .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Example_of_cylindrical_flywheel_rotor_assembly.png/220px-Example_of_cylindrical_flywheel_rotor_assembly.png",
+                "caption": "The main components of a typical flywheel."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg/220px-Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg",
+                "caption": "A Flybrid Kinetic Energy Recovery System flywheel . Built for use on Formula 1 racing cars , it is employed to recover and reuse kinetic energy captured during braking."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Solid mass gravitational ",
+        "text": "Changing the altitude of solid masses can store or release energy via an elevating system driven by an electric motor/generator. Studies suggest energy can begin to be released with as little as 1 second warning, making  the method a useful supplemental feed into an electricity grid to balance load surges. [20] Efficiencies can be as high as 85% recovery of stored energy. [21] This can be achieved by siting the masses inside old vertical  mine shafts or in specially constructed towers where the heavy weights are winched up to store energy and allowed a controlled descent to release it. At 2020 a prototype vertical store is being built in Edinburgh, Scotland [22] Potential energy storage or gravity energy storage was under active development in 2013 in association with the California Independent System Operator . [23] [24] [25] It examined the movement of earth-filled hopper rail cars driven by electric locomotives from lower to higher elevations. [26] Other proposed methods include:-",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fernw%C3%A4rmespeicher_Theiss.jpg/220px-Fernw%C3%A4rmespeicher_Theiss.jpg",
+                "caption": "District heating accumulation tower from Theiss near Krems an der Donau in Lower Austria with a thermal capacity of 2 GWh"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Rechargeable battery",
+        "text": "A rechargeable battery comprises one or more electrochemical cells . It is known as a 'secondary cell' because its electrochemical reactions are electrically reversible. Rechargeable batteries come in many shapes and sizes, ranging from button cells to megawatt grid systems. Rechargeable batteries have lower total cost of use and environmental impact than non-rechargeable (disposable) batteries. Some rechargeable battery types are available in the same form factors as disposables. Rechargeable batteries have higher initial cost but can be recharged very cheaply and used many times. Common rechargeable battery chemistries include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Datacenter_Backup_Batteries.jpg/220px-Datacenter_Backup_Batteries.jpg",
+                "caption": "A rechargeable battery bank used as an uninterruptible power supply in a data center"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Supercapacitor",
+        "text": "Supercapacitors , also called electric double-layer capacitors (EDLC) or ultracapacitors, are a family of electrochemical capacitors [47] that do not have conventional solid dielectrics . Capacitance is determined by two storage principles, double-layer capacitance and pseudocapacitance . [48] [49] Supercapacitors bridge the gap between conventional capacitors and rechargeable batteries . They store the most energy per unit volume or mass ( energy density ) among capacitors. They support up to 10,000 farads /1.2 Volt, [50] up to 10,000 times that of electrolytic capacitors , but deliver or accept less than half as much power per unit time ( power density ). [47] While supercapacitors have specific energy and energy densities that are approximately 10% of batteries, their power density is generally 10 to 100 times greater. This results in much shorter charge/discharge cycles. Also, they tolerate many more charge-discharge cycles than batteries. Supercapacitors have many applications, including:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Expo_2010_Electric_Bus.jpg/220px-Expo_2010_Electric_Bus.jpg",
+                "caption": "One of a fleet of electric capabuses powered by supercapacitors, at a quick-charge station-bus stop, in service during Expo 2010 Shanghai China . Charging rails can be seen suspended over the bus."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Power-to-gas",
+        "text": "Power-to-gas is the conversion of electricity to a gaseous fuel such as hydrogen or methane . The three commercial methods use electricity to reduce water into hydrogen and oxygen by means of electrolysis . In the first method, hydrogen is injected into the natural gas grid or is used for transportation. The second method is to combine the hydrogen with carbon dioxide to produce methane using a methanation reaction such as the Sabatier reaction , or biological methanation, resulting in an extra energy conversion loss of 8%. The methane may then be fed into the natural gas grid. The third method uses the output gas of a wood gas generator or a biogas plant, after the biogas upgrader is mixed with the hydrogen from the electrolyzer, to upgrade the quality of the biogas.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/World%E2%80%99s_1st_Low-Emission_Hybrid_Battery_Storage%2C_Gas_Turbine_Peaker_System.jpg/220px-World%E2%80%99s_1st_Low-Emission_Hybrid_Battery_Storage%2C_Gas_Turbine_Peaker_System.jpg",
+                "caption": "The new technology helps reduce greenhouse gases and operating costs at two existing peaker plants in Norwalk and Rancho Cucamonga . The 10-megawatt battery storage system, combined with the gas turbine, allows the peaker plant to more quickly respond to changing energy needs, thus increasing the reliability of the electrical grid."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Capacitor",
+        "text": "A capacitor (originally known as a 'condenser') is a passive two-terminal electrical component used to store energy electrostatically . Practical capacitors vary widely, but all contain at least two electrical conductors (plates) separated by a dielectric (i.e., insulator ). A capacitor can store electric energy when disconnected from its charging circuit, so it can be used like a temporary battery , or like other types of rechargeable energy storage system . [72] Capacitors are commonly used in electronic devices to maintain power supply while batteries change. (This prevents loss of information in volatile memory.) Conventional capacitors provide less than 360 joules per kilogram, while a conventional alkaline battery has a density of 590 kJ/kg. Capacitors store energy in an electrostatic field between their plates. Given a potential difference across the conductors (e.g., when a capacitor is attached across a battery), an electric field develops across the dielectric, causing positive charge (+Q) to collect on one plate and negative charge (-Q) to collect on the other plate. If a battery is attached to a capacitor for a sufficient amount of time, no current can flow through the capacitor. However, if an accelerating or alternating voltage is applied across the leads of the capacitor, a displacement current can flow. Besides capacitor plates, charge can also be stored in a dielectric layer. [73] Capacitance is greater given a narrower separation between conductors and when the conductors have a larger surface area. In practice, the dielectric between the plates emits a small amount of leakage current and has an electric field strength limit, known as the breakdown voltage . However, the effect of recovery of a dielectric after a high-voltage breakdown holds promise for a new generation of self-healing capacitors. [74] [75] The conductors and leads introduce undesired inductance and resistance . Research is assessing the quantum effects of nanoscale capacitors [76] for digital quantum batteries. [77] [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_%40_5000_VDC.jpg/175px-Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_%40_5000_VDC.jpg",
+                "caption": "This mylar-film, oil-filled capacitor has very low inductance and low resistance, to provide the high-power (70 megawatts) and the very high speed (1.2 microsecond) discharges needed to operate a dye laser ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Renewable energy",
+        "text": "The largest source and the greatest store of renewable energy is provided by hydroelectric dams. A large reservoir behind a dam can store enough water to average the annual flow of a river between dry and wet seasons, and a very large reservoir can store enough water to average the flow of a river between dry and wet years. While a hydroelectric dam does not directly store energy from intermittent sources, it does balance the grid by lowering its output and retaining its water when power is generated by solar or wind. If wind or solar generation exceeds the region's hydroelectric capacity, then some additional source of energy is needed. Many renewable energy sources (notably solar and wind) produce variable power . [96] Storage systems can level out the imbalances between supply and demand that this causes. Electricity must be used as it is generated or converted immediately into storable forms. [97] The main method of electrical grid storage is pumped-storage hydroelectricity . Areas of the world such as Norway, Wales, Japan and the US have used elevated geographic features for reservoirs , using electrically powered pumps to fill them. When needed, the water passes through generators and converts the gravitational potential of the falling water into electricity. [96] Pumped storage in Norway, which gets almost all its electricity from hydro, has currently a capacity of 1.4 GW but since the total installed capacity is nearly 32 GW and 75% of that is regulable, it can be expanded significantly. [98] Some forms of storage that produce electricity include pumped-storage hydroelectric dams , rechargeable batteries , thermal storage including molten salts which can efficiently store and release very large quantities of heat energy, [99] and compressed air energy storage , flywheels , cryogenic systems and superconducting magnetic coils . Surplus power can also be converted into methane ( sabatier process ) with stockage in the natural gas network. [100] [101] In 2011, the Bonneville Power Administration in the northwestern United States created an experimental program to absorb excess wind and hydro power generated at night or during stormy periods that are accompanied by high winds. Under central control, home appliances absorb surplus energy by heating ceramic bricks in special space heaters to hundreds of degrees and by boosting the temperature of modified hot water heater tanks . After charging, the appliances provide home heating and hot water as needed. The experimental system was created as a result of a severe 2010 storm that overproduced renewable energy to the extent that all conventional power sources were shut down, or in the case of a nuclear power plant, reduced to its lowest possible operating level, leaving a large area running almost completely on renewable energy. [102] [103] Another advanced method used at the former Solar Two project in the United States and the Solar Tres Power Tower in Spain uses molten salt to store thermal energy captured from the sun and then convert it and dispatch it as electrical power. The system pumps molten salt through a tower or other special conduits to be heated by the sun. Insulated tanks store the solution. Electricity is produced by turning water to steam that is fed to turbines . Since the early 21st century batteries have been applied to utility scale load-leveling and frequency regulation capabilities. [96] In vehicle-to-grid storage, electric vehicles that are plugged into the energy grid can deliver stored electrical energy from their batteries into the grid when needed.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Abengoa_Solar_%287336087392%29.jpg/220px-Abengoa_Solar_%287336087392%29.jpg",
+                "caption": "Construction of the Salt Tanks which provide efficient thermal energy storage [92] so that electricity can be generated after the sun goes down, and output can be scheduled to meet demand. [93] The 280 MW Solana Generating Station is designed to provide six hours of storage. This allows the plant to generate about 38% of its rated capacity over the course of a year. [94]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Andasol_3.jpg/220px-Andasol_3.jpg",
+                "caption": "The 150 MW Andasol solar power station in Spain is a parabolic trough solar thermal power plant that stores energy in tanks of molten salt so that it can continue generating electricity when the sun is not shining. [95]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "LNG life cycle",
+        "text": "The process begins with the pre-treatment of a feedstock of natural gas entering the system to remove impurities such as H 2 S , CO 2 , H 2 O, mercury and higher-chained hydrocarbons . Feedstock gas then enters the liquefaction unit where it is cooled to between -145 °C and -163 °C [12] Although the type or number of heating cycles and/or refrigerants used may vary based on the technology, the basic process involves circulating the gas through aluminum tube coils and exposure to a compressed refrigerant. [12] As the refrigerant is vaporized, the heat transfer causes the gas in the coils to cool. [12] The LNG is then stored in a specialized double-walled insulated tank at atmospheric pressure ready to be transported to its final destination. [12] Most domestic LNG is transported by land via truck/trailer designed for cryogenic temperatures. [12] Intercontinental LNG transport travels by special tanker ships. LNG transport tanks comprise an internal steel or aluminum compartment and an external carbon or steel compartment with a vacuum system in between to reduce the amount of heat transfer. [12] Once on site, the LNG must be stored in vacuum insulated or flat bottom storage tanks . [12] When ready for distribution, the LNG enters a regasification facility where it is pumped into a vaporizer and heated back into gaseous form. [12] The gas then enters the gas pipeline distribution system and is delivered to the end-user. [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/LNGprocess.png/450px-LNGprocess.png",
+                "caption": "LNG life cycle"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Liquefied_natural_gas",
+        "title": "Liquefied natural gas",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "World total production",
+        "text": "The LNG industry developed slowly during the second half of the last century because most LNG plants are located in remote areas not served by pipelines, and because of the high costs of treating and transporting LNG. Constructing an LNG plant costs at least $1.5 billion per 1 MTPA capacity, a receiving terminal costs $1 billion per 1 bcf/day throughput capacity and LNG vessels cost $200 million–$300 million. In the early 2000s, prices for constructing LNG plants, receiving terminals and vessels fell as new technologies emerged and more players invested in liquefaction and regasification. This tended to make LNG more competitive as a means of energy distribution, but increasing material costs and demand for construction contractors have put upward pressure on prices in the last few years. \nThe standard price for a 125,000 cubic meter LNG vessel built in European and Japanese shipyards used to be US$250 million. When Korean and Chinese shipyards entered the race, increased competition reduced profit margins and improved efficiency—reducing costs by 60 percent. Costs in US dollars also declined due to the devaluation of the currencies of the world's largest shipbuilders: the Japanese yen and Korean won. Since 2004, the large number of orders increased demand for shipyard slots, raising their price and increasing ship costs. The per-ton construction cost of an LNG liquefaction plant fell steadily from the 1970s through the 1990s. The cost reduced by approximately 35 percent. However, recently the cost of building liquefaction and regasification terminals doubled due to increased cost of materials and a shortage of skilled labor, professional engineers, designers, managers and other white-collar professionals. Due to natural gas shortage concerns in the northeastern U.S. and surplus natural gas in the rest of the country, many new LNG import and export terminals are being contemplated in the United States. Concerns about the safety of such facilities create controversy in some regions where they are proposed. One such location is in the Long Island Sound between Connecticut and Long Island. Broadwater Energy , an effort of TransCanada Corp. and Shell, wishes to build an LNG import terminal in the sound on the New York side. Local politicians including the Suffolk County Executive raised questions about the terminal. In 2005, New York Senators Chuck Schumer and Hillary Clinton also announced their opposition to the project. [25] Several import terminal proposals along the coast of Maine were also met with high levels of resistance and questions. On Sep. 13, 2013 the U.S. Department of Energy approved Dominion Cove Point 's application to export up to 770 million cubic feet per day of LNG to countries that do not have a free trade agreement with the U.S. [26] In May 2014, the FERC concluded its environmental assessment of the Cove Point LNG project, which found that the proposed natural gas export project could be built and operated safely. [27] Another LNG terminal is currently proposed for Elba Island , Ga. [28] Plans for three LNG export terminals in the U.S. Gulf Coast region have also received conditional Federal approval. [26] [29] In Canada, an LNG export terminal is under construction near Guysborough , Nova Scotia. [30]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/World_LNG_Volumes.png/220px-World_LNG_Volumes.png",
+                "caption": "Global LNG import trends, by volume (in red), and as a percentage of global natural gas imports (in black) (US EIA data)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Top_5_Importers_of_LNG.png/220px-Top_5_Importers_of_LNG.png",
+                "caption": "Trends in the top five LNG-importing nations as of 2009 (US EIA data)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Liquefied_natural_gas",
+        "title": "Liquefied natural gas",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Global Trade",
+        "text": "In the commercial development of an LNG value chain, LNG suppliers first confirm sales to the downstream buyers and then sign long-term contracts (typically 20–25 years) with strict terms and structures for gas pricing. Only when the customers are confirmed and the development of a greenfield project deemed economically feasible, could the sponsors of an LNG project invest in their development and operation. Thus, the LNG liquefaction business has been limited to players with strong financial and political resources. Major international oil companies (IOCs) such as ExxonMobil , Royal Dutch Shell , BP , Chevron , TotalEnergies and national oil companies (NOCs) such as Pertamina and Petronas are active players. LNG is shipped around the world in specially constructed seagoing vessels . The trade of LNG is completed by signing an SPA (sale and purchase agreement) between a supplier and receiving terminal, and by signing a GSA (gas sale agreement) between a receiving terminal and end-users. [31] Most of the contract terms used to be DES or ex ship , holding the seller responsible for the transport of the gas. With low shipbuilding costs, and the buyers preferring to ensure reliable and stable supply, however, contracts with FOB terms increased. Under such terms the buyer, who often owns a vessel or signs a long-term charter agreement with independent carriers, is responsible for the transport. LNG purchasing agreements used to be for a long term with relatively little flexibility both in price and volume. If the annual contract quantity is confirmed, the buyer is obliged to take and pay for the product, or pay for it even if not taken, in what is referred to as the obligation of take-or-pay contract (TOP). In the mid-1990s, LNG was a buyer's market. At the request of buyers, the SPAs began to adopt some flexibilities on volume and price. The buyers had more upward and downward flexibilities in TOP, and short-term SPAs less than 16 years came into effect. At the same time, alternative destinations for cargo and arbitrage were also allowed. By the turn of the 21st century, the market was again in favor of sellers. However, sellers have become more sophisticated and are now proposing sharing of arbitrage opportunities and moving away from S-curve pricing. There has been much discussion regarding the creation of an \"OGEC\" as a natural gas equivalent of OPEC . Russia and Qatar , countries with the largest and the third largest natural gas reserves in the world, have finally supported such move. [ citation needed ] Until 2003, LNG prices have closely followed oil prices. Since then, LNG prices in Europe and Japan have been lower than oil prices, although the link between LNG and oil is still strong. In contrast, prices in the US and the UK have recently skyrocketed, then fallen as a result of changes in supply and storage. [ citation needed ] In the late 1990s and early 2000s, the market shifted for buyers, but since 2003 and 2004, it has been a strong seller's market, with net-back as the best estimation for prices. [ citation needed ] . Research from Global Energy Monitor in 2019 warned that up to US$1.3 trillion in new LNG export and import infrastructure currently under development is at significant risk of becoming stranded, as global gas risks becoming oversupplied, particularly if the United States and Canada play a larger role. [32] The current surge in unconventional oil and gas in the U.S. has resulted in lower gas prices in the U.S. This has led to discussions in Asia' oil linked gas markets to import gas based on Henry Hub index. [33] Recent high level conference in Vancouver, the Pacific Energy Summit 2013 Pacific Energy Summit 2013 convened policy makers and experts from Asia and the U.S. to discuss LNG trade relations between these regions. Receiving terminals exist in about 40 [34] countries, including Belgium, Chile, China, the Dominican Republic, France, Greece, India, Italy, Japan, Korea, Poland, Spain, Taiwan, the UK, the US, among others. Plans exist for Bahrain, Germany, Ghana, Morocco, Philippines, Vietnam [35] and others to also construct new receiving ( regasification ) terminals.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/President_Trump_Visits_Cameron_LNG_Export_Terminal_%2840884405043%29.jpg/220px-President_Trump_Visits_Cameron_LNG_Export_Terminal_%2840884405043%29.jpg",
+                "caption": "President Trump visits the Cameron LNG Export Terminal in Louisiana , May 2019."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Liquefied_natural_gas",
+        "title": "Liquefied natural gas",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Use of LNG to fuel large over-the-road trucks",
+        "text": "China has been a leader in the use of LNG vehicles [43] with over 100,000 LNG-powered vehicles on the road as of Sept 2014. [44] In the United States the beginnings of a public LNG fueling capability are being put in place. An alternative fuelling centre tracking site shows 84 public truck LNG fuel centres as of Dec 2016. [45] It is possible for large trucks to make cross country trips such as Los Angeles to Boston and refuel at public refuelling stations every 500 miles. The 2013 National Trucker's Directory lists approximately 7,000 truckstops, [46] thus approximately 1% of US truckstops have LNG available. While as of December 2014 LNG fuel and NGV's were not taken to very quickly within Europe and it was questionable whether LNG will ever become the fuel of choice among fleet operators, [47] recent trends from 2018 onwards show different prospect. [48] During the year 2015, the Netherlands introduced LNG-powered trucks in transport sector. [49] Additionally, the Australian government is planning to develop an LNG highway to utilise the locally produced LNG and replace the imported diesel fuel used by interstate haulage vehicles. [50] In the year 2015, India also began transporting LNG using LNG-powered road tankers in Kerala state. [51] In 2017, Petronet LNG began setting up 20 LNG stations on highways along the Indian west coast that connect Delhi with Thiruvananthapuram covering a total distance of 4,500 km via Mumbai and Bengaluru. [52] In 2020, India planned to install 24 LNG fuelling stations along the 6,000 km Golden Quadrilateral highways connecting the four metros due to LNG prices decreasing. [53] Japan, the world's largest importer of LNG, is set to begin use of LNG as a road transport fuel. [54]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Nufam_2023%2C_Rheinstetten_%28P1130477%29.jpg/220px-Nufam_2023%2C_Rheinstetten_%28P1130477%29.jpg",
+                "caption": "LNG side tank on an LNG-converted Scania R410"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Liquefied_natural_gas",
+        "title": "Liquefied natural gas",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Use of LNG in maritime applications",
+        "text": "LNG bunkering has been established in some ports via truck-to-ship fueling. This type of LNG fueling is straightforward to implement, assuming a supply of LNG is available. Feeder and short-sea shipping company Unifeeder has been operating the world's first LNG powered container vessel, the Wes Amelie, since late 2017, transiting between the port of Rotterdam and the Baltics on a weekly schedule. [65] Container shipping company Maersk Group has decided to introduce LNG-powered container ships. [66] The DEME Group has contracted Wärtsilä to power its new generation 'Antigoon' class dredger with dual fuel (DF) engines. [67] Crowley Maritime of Jacksonville, Florida , launched two LNG-powered ConRo ships, the Coquí and Taino, in 2018 and 2019, respectively. [68] In 2014, Shell ordered a dedicated LNG bunker vessel. [69] It is planned to go into service in Rotterdam in the summer of 2017 [70] The International Convention for the Prevention of Pollution from Ships (MARPOL), adopted by the IMO , has mandated that marine vessels shall not consume fuel (bunker fuel, diesel, etc.) with a sulphur content greater than 0.5% from the year 2020 within international waters and the coastal areas of countries adopting the same regulation. Replacement of high sulphur bunker fuel with sulphur-free LNG is required on a major scale in the marine transport sector, as low sulphur liquid fuels are costlier than LNG. [71] Japan's is planning to use LNG as bunker fuel by 2020. [72] [73] BHP , one of the largest mining companies in the world, is aiming to commission minerals transport ships powered with LNG by late 2021. [74] In January 2021, 175 sea-going LNG-powered ships were in service, with another 200 ships ordered. [75]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Crude_Oil_Tanker_Njord_DF_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2023_02.jpg/240px-Crude_Oil_Tanker_Njord_DF_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2023_02.jpg",
+                "caption": "The LNG-powered Crude Oil Tanker Njord DF, moored at the BP Oil Refinery, Jetty, Western Australia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Liquefied_natural_gas",
+        "title": "Liquefied natural gas",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Trade",
+        "text": "The global trade in LNG is growing rapidly from negligible in 1970 to what is expected to be a globally substantial amount by 2020. [77] As a reference, the 2014 global production of crude oil was 14.6 million cubic metres (92 million barrels) per day [78] or 54,600 terawatt-hours (186.4 quadrillion British thermal units ) per year. In 1970, global LNG trade was of 3 billion cubic metres (bcm) (0.11 quads). [79] In 2011, it was 331 bcm (11.92 quads). [79] The U.S. started exporting LNG in February 2016. The Black & Veatch Oct 2014 forecast is that by 2020, the U.S. alone will export between 10 and 14 billion cu ft/d (280 and 400 million m 3 /d) or by heating value 3.75 to 5.25 quad (1,100 to 1,540 TWh). [80] E&Y projects global LNG demand could hit 400 mtpa (19.7 quads) by 2020. [81] If that occurs, the LNG market will be roughly 10% the size of the global crude oil market, and that does not count the vast majority of natural gas which is delivered via pipeline directly from the well to the consumer. In 2004, LNG accounted for 7 percent of the world's natural gas demand. [82] The global trade in LNG, which has increased at a rate of 7.4 percent per year over the decade from 1995 to 2005, is expected to continue to grow substantially. [83] LNG trade is expected to increase at 6.7 percent per year from 2005 to 2020. [83] Until the mid-1990s, LNG demand was heavily concentrated in Northeast Asia: Japan, South Korea and Taiwan .  At the same time, Pacific Basin supplies dominated world LNG trade. [83] The worldwide interest in using natural gas-fired combined cycle generating units for electric power generation, coupled with the inability of North American and North Sea natural gas supplies to meet the growing demand, substantially broadened the regional\nmarkets for LNG. It also brought new Atlantic Basin and Middle East suppliers into the trade. [83] By the end of 2017, there were 19 LNG exporting countries and 40 LNG importing countries.  The three biggest LNG exporters in 2017 were Qatar (77.5 MT), Australia (55.6 MT) and Malaysia (26.9 MT). The three biggest LNG importers in 2017 were Japan (83.5 MT), China (39 MT) and South Korea (37.8 MT). [84] LNG trade volumes increased from 142 MT in 2005 to 159 MT in 2006, 165 MT in 2007, 171 MT in 2008,  220 MT in 2010, 237 MT in 2013, 264 MT in 2016 and 290 MT in 2017. [84] Global LNG production was 246 MT in 2014, [85] most of which was used in trade between countries. [86] During the next several years there would be significant increase in volume of LNG Trade. [81] For example, about 59 MTPA of new LNG supply from six new plants came to market just in 2009, including: In 2006, Qatar became the world's biggest exporter of LNG. [79] As of 2012, Qatar is the source of 25 percent of the world's LNG exports. [79] As of 2017, Qatar was estimated to supply 26.7% of the world's LNG. [84] Investments in U.S. export facilities were increasing by 2013, these investments were spurred by increasing shale gas production in the United States and a large price differential between natural gas prices in the U.S. and those in Europe and Asia. Cheniere Energy became the first company in the United States to receive permission and export LNG in 2016. [8] After a US-EU agreement in 2018, exports from USA to EU increased. [87] In November 2021, U.S. producer Venture Global LNG signed a twenty-year contract with China's state-owned Sinopec to supply liquefied natural gas. [88] China's imports of U.S. natural gas will more than double. [89] U.S. exports of liquefied natural gas to China and other Asian countries surged in 2021 , with Asian buyers willing to pay higher prices than European importers. [90] This reversed in 2022, when most of US LNG went to Europe. US LNG export contracts are mainly made for 15–20 years. [91] Exports from the U.S. are likely to reach 13.3 Bcf/d in 2024 due to projects coming online on the Gulf of Mexico. [92]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Dmitry_Medvedev_in_Yuzhno-Sakhalink_18_February_2009-2.jpg/220px-Dmitry_Medvedev_in_Yuzhno-Sakhalink_18_February_2009-2.jpg",
+                "caption": "Russian and Western politicians visit the Sakhalin-II project on 18 February 2009."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Liquefied_natural_gas",
+        "title": "Liquefied natural gas",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Storage",
+        "text": "Modern LNG storage tanks are typically of the full containment type, which has a prestressed concrete outer wall and a high-nickel steel inner tank, with extremely efficient insulation between the walls. Large tanks are low aspect ratio (height to width) and cylindrical in design with a domed steel or concrete roof. Storage pressure in these tanks is very low, less than 10 kilopascals (1.5 psi ). Sometimes more expensive underground tanks are used for storage.\nSmaller quantities (say 700 cubic metres (180,000 US gal) and less) may be stored in horizontal or vertical, vacuum-jacketed, pressure vessels. These tanks may be at pressures anywhere from less than 50 to over 1,700 kPa (7.3–246.6 psi). LNG must be kept cold to remain a liquid, independent of pressure. Despite efficient insulation, there will inevitably be some heat leakage into the LNG, resulting in vaporisation of the LNG. This boil-off gas acts to keep the LNG cold (see \" Refrigeration \" below). The boil-off gas is typically compressed and exported as natural gas , or it is reliquefied and returned to storage.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LNG_storage_tank_at_EG_LNG_20070709.jpg/220px-LNG_storage_tank_at_EG_LNG_20070709.jpg",
+                "caption": "LNG storage tank at EG LNG"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Liquefied_natural_gas",
+        "title": "Liquefied natural gas",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Transportation",
+        "text": "LNG is transported in specially designed ships with double hulls protecting the cargo systems from damage or leaks. There are several special leak test methods available to test the integrity of an LNG vessel's membrane cargo tanks. [165] The tankers cost around US$200 million each. [79] Transportation and supply is an important aspect of the gas business, since natural gas reserves are normally quite distant from consumer markets. Natural gas has far more volume than oil to transport, and most gas is transported by pipelines. There is a natural gas pipeline network in the former Soviet Union , Europe and North America. Natural gas is less dense, even at higher pressures. Natural gas will travel much faster than oil through a high-pressure pipeline, but can transmit only about a fifth of the amount of energy per day due to the lower density.  Natural gas is usually liquefied to LNG at the end of the pipeline, before shipping. Short LNG pipelines for use in moving product from LNG vessels to onshore storage are available. Longer pipelines, which allow vessels to offload LNG at a greater distance from port facilities, are under development.  This requires pipe-in-pipe technology due to requirements for keeping the LNG cold. [166] LNG is transported using tanker trucks, [167] railway tanker cars, [168] and purpose built ships known as LNG carriers . LNG is sometimes taken to cryogenic temperatures to increase the tanker capacity. The first commercial ship-to-ship transfer (STS) transfers were undertaken in February 2007 at the Flotta facility in Scapa Flow [169] with 132,000 m 3 of LNG being passed between the vessels Excalibur and Excelsior.  Transfers have also been carried out by Exmar Shipmanagement , the Belgian gas tanker owner in the Gulf of Mexico , which involved the transfer of LNG from a conventional LNG carrier to an LNG regasification vessel (LNGRV). Before this commercial exercise, LNG had only ever been transferred between ships on a handful of occasions as a necessity following an incident. [ citation needed ] The Society of International Gas Tanker and Terminal Operators ( SIGTTO ) is the responsible body for LNG operators around the world and seeks to disseminate knowledge regarding the safe transport of LNG at sea. [170] Besides LNG vessels, LNG is also used in some aircraft .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/LNG_tanker_model.jpg/220px-LNG_tanker_model.jpg",
+                "caption": "Model of tanker LNG Rivers , with an LNG capacity of 135,000 cubic metres"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Liquid_natural_gas_membrane_tank.jpg/250px-Liquid_natural_gas_membrane_tank.jpg",
+                "caption": "Interior of an LNG cargo tank"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Liquefied_natural_gas",
+        "title": "Liquefied natural gas",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    },
+    {
+        "section": "Environmental concerns",
+        "text": "Natural gas could be considered the least environmentally harmful fossil fuel because it has the lowest CO 2 emissions per unit of energy and is suitable for use in high efficiency combined cycle power stations. For an equivalent amount of heat, burning natural gas produces about 30 percent less carbon dioxide than burning petroleum and about 45 per cent less than burning coal . [172] Biomethane is considered roughly CO 2 -neutral and avoids most of the CO 2 -emissions issue. If liquefied (as LBM), it serves the same functions as LNG. [173] On a per kilometre transported basis, emissions from LNG are lower than piped natural gas, which is a particular issue in Europe, where significant amounts of gas are piped several thousand kilometres from Russia. However, emissions from natural gas transported as LNG can be higher than those of natural gas produced regionally and piped to the point of combustion, as emissions associated with transport are lower for the latter. [174] However, on the West Coast of the United States, where up to three new LNG importation terminals were proposed before the U.S. fracking boom, environmental groups, such as Pacific Environment , Ratepayers for Affordable Clean Energy (RACE), and Rising Tide had moved to oppose them. [175] They claimed that, while natural gas power plants emit approximately half the carbon dioxide of an equivalent coal power plant, the natural gas combustion required to produce and transport LNG to the plants adds 20 to 40 percent more carbon dioxide than burning natural gas alone. [176] A 2015 peer-reviewed study evaluated the full end-to-end life cycle of LNG produced in the U.S. and consumed in Europe or Asia. [177] It concluded that global CO 2 production would be reduced due to the resulting reduction in other fossil fuels burned. Some scientists and local residents have raised concerns about the potential effect of Poland 's underground LNG storage infrastructure on marine life in the Baltic Sea . [178] Similar concerns were raised in Croatia . [179]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/LNG_logo_China.svg/220px-LNG_logo_China.svg.png",
+                "caption": "Green-bordered white diamond symbol used on LNG-powered vehicles in China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Liquefied_natural_gas",
+        "title": "Liquefied natural gas",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage for peak shaving"
+    }
+]

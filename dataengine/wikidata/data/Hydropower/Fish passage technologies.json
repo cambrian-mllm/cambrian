@@ -1,0 +1,847 @@
+[
+    {
+        "section": "Effectiveness",
+        "text": "Fish ladders have a mixed record of effectiveness. They vary in effectiveness for different types of species, with one study showing that only three percent of American Shad make it through all the fish ladders on the way to their spawning ground. [16] Effectiveness depends on the fish species' swimming ability, and how the fish moves up and downstream. A fish passage that is designed to allow fish to pass upstream may not allow passage downstream, for instance. [17] Fish passages do not always work.\nIn practice a challenge is matching swimming performance data to hydrodynamic measurements. [18] [19] Swim tests rarely use the same protocol and the output is either a single-point measurement or a bulk velocity. In contrast, physical and numerical modelling of fluid flow (i.e. hydrodynamics) deliver a detailed flow map, with a fine spatial and temporal resolution. Regulatory agencies face a difficult task to match hydrodynamic measurements and swimming performance data.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Fish_using_a_fish_ladder_in_Akerselva%2C_Oslo%2C_Norway.jpg/220px-Fish_using_a_fish_ladder_in_Akerselva%2C_Oslo%2C_Norway.jpg",
+                "caption": "This fish failed to enter the narrow opening in the fish ladder in Akerselva , Norway"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fish_ladder",
+        "title": "Fish ladder",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Active sonar",
+        "text": "Active sonar uses a sound transmitter (or projector) and a receiver. When the two are in the same place it is monostatic operation .  When the transmitter and receiver are separated it is bistatic operation . [25] When more transmitters (or more receivers) are used, again spatially separated, it is multistatic operation .  Most sonars are used monostatically with the same array often being used for transmission and reception. [26] Active sonobuoy fields may be operated multistatically. Active sonar creates a pulse of sound, often called a \"ping\", and then listens for reflections ( echo ) of the pulse. This pulse of sound is generally created electronically using a sonar projector consisting of a signal generator, power amplifier and electro-acoustic transducer/array. [27] A transducer is a device that can transmit and receive acoustic signals (\"pings\"). A beamformer is usually employed to concentrate the acoustic power into a beam, which may be swept to cover the required search angles. Generally, the electro-acoustic transducers are of the Tonpilz type and their design may be optimised to achieve maximum efficiency over the widest bandwidth, in order to optimise performance of the overall system. Occasionally, the acoustic pulse may be created by other means, e.g. chemically using explosives,  airguns or plasma sound sources. To measure the distance to an object, the time from transmission of a pulse to reception is measured and converted into a range using the known speed of sound. [28] To measure the bearing , several hydrophones are used, and the set measures the relative arrival time to each, or with an array of hydrophones, by measuring the relative amplitude in beams formed through a process called beamforming . Use of an array reduces the spatial response so that to provide wide cover multibeam systems are used. The target signal (if present) together with noise is then passed through various forms of signal processing , [29] which for simple sonars may be just energy measurement.  It is then presented to some form of decision device that calls the output either the required signal or noise. This decision device may be an operator with headphones or a display, or in more sophisticated sonars this function may be carried out by software. Further processes may be carried out to classify the target and localise it, as well as measuring its velocity. The pulse may be at constant frequency or a chirp of changing frequency (to allow pulse compression on reception). Simple sonars generally use the former with a filter wide enough to cover possible Doppler changes due to target movement, while more complex ones generally include the latter technique. Since digital processing became available pulse compression has usually been implemented using digital correlation techniques.  Military sonars often have multiple beams to provide all-round cover while simple ones only cover a narrow arc, although the beam may be rotated, relatively slowly, by mechanical scanning. Particularly when single frequency transmissions are used, the Doppler effect can be used to measure the radial speed of a target.  The difference in frequency between the transmitted and received signal is measured and converted into a velocity. Since Doppler shifts can be introduced by either receiver or target motion, allowance has to be made for the radial speed of the searching platform. One useful small sonar is similar in appearance to a waterproof flashlight. The head is pointed into the water, a button is pressed, and the device displays the distance to the target. Another variant is a \" fishfinder \" that shows a small display with shoals of fish. Some civilian sonars (which are not designed for stealth) approach active military sonars in capability, with three-dimensional displays of the area near the boat. When active sonar is used to measure the distance from the transducer to the bottom, it is known as echo sounding . Similar methods may be used looking upward for wave measurement. Active sonar is also used to measure distance through water between two sonar transducers or a combination of a hydrophone (underwater acoustic microphone) and projector (underwater acoustic speaker). When a hydrophone/transducer receives a specific interrogation signal it responds by transmitting a specific reply signal. To measure distance, one transducer/projector transmits an interrogation signal and measures the time between this transmission and the receipt of the other transducer/hydrophone reply. The time difference, scaled by the speed of sound through water and divided by two, is the distance between the two platforms. This technique, when used with multiple transducers/hydrophones/projectors, can calculate the relative positions of static and moving objects in water. In combat situations, an active pulse can be detected by an enemy and will reveal a submarine's position at twice the maximum distance that the submarine can itself detect a contact and give clues as to the submarine's identity based on the characteristics of the outgoing ping. For these reasons, active sonar is not frequently used by military submarines. A very directional, but low-efficiency, type of sonar (used by fisheries, military, and for port security) makes use of a complex nonlinear feature of water known as non-linear sonar, the virtual transducer being known as a parametric array .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sonar_Principle_EN.svg/400px-Sonar_Principle_EN.svg.png",
+                "caption": "Principle of an active sonar"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sonar",
+        "title": "Sonar",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Scattering",
+        "text": "When active sonar is used, scattering occurs from small objects in the sea as well as from the bottom and surface.  This can be a major source of interference. This acoustic scattering is analogous to the scattering of the light from a car's headlights in fog: a high-intensity pencil beam will penetrate the fog to some extent, but broader-beam headlights emit much light in unwanted directions, much of which is scattered back to the observer, overwhelming that reflected from the target (\"white-out\").  For analogous reasons active sonar needs to transmit in a narrow beam to minimize scattering. The scattering of sonar from objects (mines, pipelines, zooplankton, geological features, fish etc.) is how active sonar detects them, but this ability can be masked by strong scattering from false targets, or 'clutter'. Where they occur (under breaking waves; [40] in ship wakes; in gas emitted from seabed seeps and leaks [41] etc.), gas bubbles are powerful sources of clutter, and can readily hide targets. TWIPS (Twin Inverted Pulse Sonar) [42] [43] [44] is currently the only sonar that can overcome this clutter problem. This is important as many recent conflicts have occurred in coastal waters, and the inability to detect whether mines are present or not present hazards and delays to military vessels, and also to aid convoys and merchant shipping trying to support the region long after the conflict has ceased. [42]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Undersea_bubble_clouds.jpg/220px-Undersea_bubble_clouds.jpg",
+                "caption": "Bubble clouds shown under the sea. From ref. [39]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/TWIPS_picture_2.png/220px-TWIPS_picture_2.png",
+                "caption": "Comparison of Standard Sonar and TWIPS in finding a target in bubbly water. Adapted from ref. [42]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sonar",
+        "title": "Sonar",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Anti-submarine warfare",
+        "text": "Until recently, ship sonars were usually made with hull mounted arrays, either amidships or at the bow.  It was soon found after their initial use that a means of reducing flow noise was required.  The first were made of canvas on a framework, then steel ones were used.  Now domes are usually made of reinforced plastic or pressurized rubber.  Such sonars are primarily active in operation.  An example of a conventional hull mounted sonar is the SQS-56. Because of the problems of ship noise, towed sonars are also used.  These have the advantage of being able to be placed deeper in the water, but have limitations on their use in shallow water.  These are called towed arrays (linear) or variable depth sonars (VDS) with 2/3D arrays.  A problem is that the winches required to deploy/recover them are large and expensive.  VDS sets are primarily active in operation, while towed arrays are passive. An example of a modern active-passive ship towed sonar is Sonar 2087 made by Thales Underwater Systems .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Variabel_dybde_sonar_%28VDS%29_p%C3%A5_et_af_s%C3%B8v%C3%A6rnets_skibe_af_Thetis-klassen.jpg/170px-Variabel_dybde_sonar_%28VDS%29_p%C3%A5_et_af_s%C3%B8v%C3%A6rnets_skibe_af_Thetis-klassen.jpg",
+                "caption": "Variable depth sonar and its winch"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sonar",
+        "title": "Sonar",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Aircraft",
+        "text": "Helicopters can be used for antisubmarine warfare by deploying fields of active-passive sonobuoys or can operate dipping sonar, such as the AQS-13 .  Fixed wing aircraft can also deploy sonobuoys and have greater endurance and capacity to deploy them.  Processing from the sonobuoys or dipping sonar can be on the aircraft or on ship.  Dipping sonar has the advantage of being deployable to depths appropriate to daily conditions. Helicopters have also been used for mine countermeasure missions using towed sonars such as the AQS-20A .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/SH-3H_HS-15_lowers_AQS-13_sonar_1979.JPEG/220px-SH-3H_HS-15_lowers_AQS-13_sonar_1979.JPEG",
+                "caption": "AN/AQS-13 dipping sonar deployed from an H-3 Sea King"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sonar",
+        "title": "Sonar",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Ocean surveillance",
+        "text": "The United States began a system of passive, fixed ocean surveillance systems in 1950 with the classified name Sound Surveillance System (SOSUS) with American Telephone and Telegraph Company (AT&T), with its Bell Laboratories research and Western Electric manufacturing entities being contracted for development and installation. The systems exploited the SOFAR channel , also known as the deep sound channel, where a sound speed minimum creates a waveguide in which low frequency sound travels thousands of miles. Analysis was based on an AT&T sound spectrograph, which converted sound into a visual spectrogram representing a time–frequency analysis of sound that was developed for speech analysis and modified to analyze low-frequency underwater sounds. That process was Low Frequency Analysis and Recording and the equipment was termed the Low Frequency Analyzer and Recorder, both with the acronym LOFAR. LOFAR research was termed Jezebel and led to usage in air and surface systems, particularly sonobuoys using the process and sometimes using \"Jezebel\" in their name. [46] [47] [48] [49] The proposed system offered such promise of long-range submarine detection that the Navy ordered immediate moves for implementation. [47] [50] Between installation of a test array followed by a full scale, forty element, prototype operational array in 1951 and 1958 systems were installed in the Atlantic and then the Pacific under the unclassified name Project Caesar . The original systems were terminated at classified shore stations designated Naval Facility (NAVFAC) explained as engaging in \"ocean research\" to cover their classified mission. The system was upgraded multiple times with more advanced cable allowing the arrays to be installed in ocean basins and upgraded processing. The shore stations were eliminated in a process of consolidation and rerouting the arrays to central processing centers into the 1990s. In 1985, with new mobile arrays and other systems becoming operational the collective system name was changed to Integrated Undersea Surveillance System (IUSS). In 1991 the mission of the system was declassified. The year before IUSS insignia were authorized for wear. Access was granted to some systems for scientific research. [46] [47] A similar system is believed to have been operated by the Soviet Union.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Watch_floor.gif/200px-Watch_floor.gif",
+                "caption": "Lofargram writers, one for each array beam, on a NAVFAC watch floor"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sonar",
+        "title": "Sonar",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Underwater security",
+        "text": "Sonar can be used to detect frogmen and other scuba divers .  This can be applicable around ships or at entrances to ports.  Active sonar can also be used as a deterrent and/or disablement mechanism.  One such device is the Cerberus system.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/US_Navy_030223-N-7479T-011_An_AN-PQS-2A%2C_a_handheld_sonar_device_used_to_aid_in_the_search_of_the_Toledo_Bend_Reservoir_for_debris_from_the_Space_Shuttle_Columbia.jpg/170px-thumbnail.jpg",
+                "caption": "AN/PQS-2A handheld sonar, shown with detachable flotation collar and magnetic compass"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sonar",
+        "title": "Sonar",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Fisheries",
+        "text": "Fishing is an important industry that is seeing growing demand, but world catch tonnage is falling as a result of serious resource problems. The industry faces a future of continuing worldwide consolidation until a point of sustainability can be reached. However, the consolidation of the fishing fleets are driving increased demands for sophisticated fish finding electronics such as sensors, sounders and sonars.  Historically, fishermen have used many different techniques to find and harvest fish. However, acoustic technology has been one of the most important driving forces behind the development of the modern commercial fisheries. Sound waves travel differently through fish than through water because a fish's air-filled swim bladder has a different density than seawater. This density difference allows the detection of schools of fish by using reflected sound. Acoustic technology is especially well suited for underwater applications since sound travels farther and faster underwater than in air. Today, commercial fishing vessels rely almost completely on acoustic sonar and sounders to detect fish. Fishermen also use active sonar and echo sounder technology to determine water depth, bottom contour, and bottom composition. Companies such as eSonar, Raymarine , Marport Canada, Wesmar, Furuno, Krupp, and Simrad make a variety of sonar and acoustic instruments for the deep sea commercial fishing industry. For example, net sensors take various underwater measurements and transmit the information back to a receiver on board a vessel. Each sensor is equipped with one or more acoustic transducers depending on its specific function. Data is transmitted from the sensors using wireless acoustic telemetry and is received by a hull mounted hydrophone. The analog signals are decoded and converted by a digital acoustic receiver into data which is transmitted to a bridge computer for graphical display on a high resolution monitor.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fishfinder.jpg/170px-Fishfinder.jpg",
+                "caption": "Cabin display of a fish finder sonar"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sonar",
+        "title": "Sonar",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Bathymetric mapping",
+        "text": "Side-scan sonars can be used to derive maps of seafloor topography ( bathymetry ) by moving the sonar across it just above the bottom. Low frequency sonars such as GLORIA have been used for continental shelf wide surveys while high frequency sonars are used for more detailed surveys of smaller areas.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sonar_operations_by_survey_ship.jpg/220px-Sonar_operations_by_survey_ship.jpg",
+                "caption": "Graphic depicting hydrographic survey ship conducting multibeam and side-scan sonar operations"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sonar",
+        "title": "Sonar",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Gas leak detection from the seabed",
+        "text": "Gas bubbles can leak from the seabed, or close to it, from multiple sources. These can be detected by both passive [58] and active sonar [41] (shown in schematic figure [58] by yellow and red systems respectively). Natural seeps of methane and carbon dioxide occur. [41] Gas pipelines can leak, and it is important to be able to detect whether leakage occurs from Carbon Capture and Storage Facilities (CCSFs; e.g. depleted oil wells into which extracted atmospheric carbon is stored). [59] [60] [61] [62] Quantification of the amount of gas leaking is difficult, and although estimates can be made use active and passive sonar, it is important to question their accuracy because of the assumptions inherent in making such estimations from sonar data. [58] [63]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Seeps.png/280px-Seeps.png",
+                "caption": "Active (red) and passive (yellow) sonar detection of bubbles from seabed (natural seeps and CCSF leaks) and gas pipelines, taken from ref. [58]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sonar",
+        "title": "Sonar",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Effect on marine mammals",
+        "text": "Research has shown that use of active sonar can lead to mass strandings of marine mammals . [75] Beaked whales , the most common casualty of the strandings, have been shown to be highly sensitive to mid-frequency active sonar. [76] Other marine mammals such as the blue whale also flee from the source of the sonar, [77] while naval activity was suggested to be the most probable cause of a mass stranding of dolphins. [78] The US Navy, which part-funded some of the studies, said that the findings only showed behavioural responses to sonar, not actual harm, but they \"will evaluate the effectiveness of [their] marine mammal protective measures in light of new research findings\". [75] A 2008 US Supreme Court ruling on the use of sonar by the US Navy noted that there had been no cases where sonar had been conclusively shown to have harmed or killed a marine mammal. [79] Some marine animals, such as whales and dolphins , use echolocation systems, sometimes called biosonar to locate predators and prey. Research on the effects of sonar on blue whales in the Southern California Bight shows that mid-frequency sonar use disrupts the whales' feeding behavior. This indicates that sonar-induced disruption of feeding and displacement from high-quality prey patches could have significant and previously undocumented impacts on baleen whale foraging ecology, individual fitness and population health. [80] A review of evidence on the mass strandings of beaked whale linked to naval exercises where sonar was used was published in 2019. It concluded that the effects of mid-frequency active sonar are strongest on Cuvier's beaked whales but vary among individuals or populations. The review suggested the strength of response of individual animals may depend on whether they had prior exposure to sonar, and that symptoms of decompression sickness have been found in stranded whales that may be a result of such response to sonar.  It noted that in the Canary Islands where multiple strandings had been previously reported, no more mass strandings had occurred once naval exercises during which sonar was used were banned in the area, and recommended that the ban be extended to other areas where mass strandings continue to occur. [81] [82]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Humpback_Whale_underwater_shot.jpg/220px-Humpback_Whale_underwater_shot.jpg",
+                "caption": "A humpback whale"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sonar",
+        "title": "Sonar",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Electric charge",
+        "text": "By modern convention, the charge carried by electrons is defined as negative, and that by protons is positive. [31] Before these particles were discovered, Benjamin Franklin had defined a positive charge as being the charge acquired by a glass rod when it is rubbed with a silk cloth. [32] A proton by definition carries a charge of exactly 1.602 176 634 × 10 −19 coulombs . This value is also defined as the elementary charge . No object can have a charge smaller than the elementary charge, and any amount of charge an object may carry is a multiple of the elementary charge. An electron has an equal negative charge, i.e. −1.602 176 634 × 10 −19 coulombs . Charge is possessed not just by matter , but also by antimatter , each antiparticle bearing an equal and opposite charge to its corresponding particle. [33] The presence of charge gives rise to an electrostatic force: charges exert a force on each other, an effect that was known, though not understood, in antiquity. [23] : 457 A lightweight ball suspended by a fine thread can be charged by touching it with a glass rod that has itself been charged by rubbing with a cloth. If a similar ball is charged by the same glass rod, it is found to repel the first: the charge acts to force the two balls apart. Two balls that are charged with a rubbed amber rod also repel each other. However, if one ball is charged by the glass rod, and the other by an amber rod, the two balls are found to attract each other. These phenomena were investigated in the late eighteenth century by Charles-Augustin de Coulomb , who deduced that charge manifests itself in two opposing forms. This discovery led to the well-known axiom: like-charged objects repel and opposite-charged objects attract . [23] The force acts on the charged particles themselves, hence charge has a tendency to spread itself as evenly as possible over a conducting surface. The magnitude of the electromagnetic force, whether attractive or repulsive, is given by Coulomb's law , which relates the force to the product of the charges and has an inverse-square relation to the distance between them. [34] [35] : 35 The electromagnetic force is very strong, second only in strength to the strong interaction , [36] but unlike that force it operates over all distances. [37] In comparison with the much weaker gravitational force , the electromagnetic force pushing two electrons apart is 10 42 times that of the gravitational attraction pulling them together. [38] Charge originates from certain types of subatomic particles , the most familiar carriers of which are the electron and proton . Electric charge gives rise to and interacts with the electromagnetic force , one of the four fundamental forces of nature. Experiment has shown charge to be a conserved quantity , that is, the net charge within an electrically isolated system will always remain constant regardless of any changes taking place within that system. [39] Within the system, charge may be transferred between bodies, either by direct contact, or by passing along a conducting material, such as a wire. [35] : 2–5 The informal term static electricity refers to the net presence (or 'imbalance') of charge on a body, usually caused when dissimilar materials are rubbed together, transferring charge from one to the other. Charge can be measured by a number of means, an early instrument being the gold-leaf electroscope , which although still in use for classroom demonstrations, has been superseded by the electronic electrometer . [35] : 2–5",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Electroscope.svg/170px-Electroscope.svg.png",
+                "caption": "Charge on a gold-leaf electroscope causes the leaves to visibly repel each other"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity",
+        "title": "Electricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Electric current",
+        "text": "The movement of electric charge is known as an electric current , the intensity of which is usually measured in amperes . Current can consist of any moving charged particles; most commonly these are electrons, but any charge in motion constitutes a current. Electric current can flow through some things, electrical conductors , but will not flow through an electrical insulator . [40] By historical convention, a positive current is defined as having the same direction of flow as any positive charge it contains, or to flow from the most positive part of a circuit to the most negative part. Current defined in this manner is called conventional current . The motion of negatively charged electrons around an electric circuit , one of the most familiar forms of current, is thus deemed positive in the opposite direction to that of the electrons. [41] However, depending on the conditions, an electric current can consist of a flow of charged particles in either direction, or even in both directions at once. The positive-to-negative convention is widely used to simplify this situation. The process by which electric current passes through a material is termed electrical conduction , and its nature varies with that of the charged particles and the material through which they are travelling. Examples of electric currents include metallic conduction, where electrons flow through a conductor such as metal, and electrolysis , where ions (charged atoms ) flow through liquids, or through plasmas such as electrical sparks. While the particles themselves can move quite slowly, sometimes with an average drift velocity only fractions of a millimetre per second, [35] : 17 the electric field that drives them itself propagates at close to the speed of light , enabling electrical signals to pass rapidly along wires. [42] Current causes several observable effects, which historically were the means of recognising its presence. That water could be decomposed by the current from a voltaic pile was discovered by Nicholson and Carlisle in 1800, a process now known as electrolysis . Their work was greatly expanded upon by Michael Faraday in 1833. Current through a resistance causes localised heating, an effect James Prescott Joule studied mathematically in 1840. [35] : 23–24 One of the most important discoveries relating to current was made accidentally by Hans Christian Ørsted in 1820, when, while preparing a lecture, he witnessed the current in a wire disturbing the needle of a magnetic compass. [21] : 370 [a] He had discovered electromagnetism , a fundamental interaction between electricity and magnetics. The level of electromagnetic emissions generated by electric arcing is high enough to produce electromagnetic interference , which can be detrimental to the workings of adjacent equipment. [43] In engineering or household applications, current is often described as being either direct current (DC) or alternating current (AC). These terms refer to how the current varies in time. Direct current, as produced by example from a battery and required by most electronic devices, is a unidirectional flow from the positive part of a circuit to the negative. [44] : 11 If, as is most common, this flow is carried by electrons, they will be travelling in the opposite direction. Alternating current is any current that reverses direction repeatedly; almost always this takes the form of a sine wave . [44] : 206–07 Alternating current thus pulses back and forth within a conductor without the charge moving any net distance over time. The time-averaged value of an alternating current is zero, but it delivers energy in first one direction, and then the reverse. Alternating current is affected by electrical properties that are not observed under steady state direct current, such as inductance and capacitance . [44] : 223–25 These properties however can become important when circuitry is subjected to transients , such as when first energised.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lichtbogen_3000_Volt.jpg/220px-Lichtbogen_3000_Volt.jpg",
+                "caption": "An electric arc provides an energetic demonstration of electric current."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity",
+        "title": "Electricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Electric field",
+        "text": "The concept of the electric field was introduced by Michael Faraday . An electric field is created by a charged body in the space that surrounds it, and results in a force exerted on any other charges placed within the field. The electric field acts between two charges in a similar manner to the way that the gravitational field acts between two masses , and like it, extends towards infinity and shows an inverse square relationship with distance. [37] However, there is an important difference. Gravity always acts in attraction, drawing two masses together, while the electric field can result in either attraction or repulsion. Since large bodies such as planets generally carry no net charge, the electric field at a distance is usually zero. Thus gravity is the dominant force at distance in the universe, despite being much weaker. [38] An electric field generally varies in space, [b] and its strength at any one point is defined as the force (per unit charge) that would be felt by a stationary, negligible charge if placed at that point. [23] : 469–70 The conceptual charge, termed a ' test charge ', must be vanishingly small to prevent its own electric field disturbing the main field and must also be stationary to prevent the effect of magnetic fields . As the electric field is defined in terms of force , and force is a vector , having both magnitude and direction , it follows that an electric field is a vector field . [23] : 469–70 The study of electric fields created by stationary charges is called electrostatics . The field may be visualised by a set of imaginary lines whose direction at any point is the same as that of the field. This concept was introduced by Faraday, [45] whose term ' lines of force ' still sometimes sees use. The field lines are the paths that a point positive charge would seek to make as it was forced to move within the field; they are however an imaginary concept with no physical existence, and the field permeates all the intervening space between the lines. [45] Field lines emanating from stationary charges have several key properties: first, that they originate at positive charges and terminate at negative charges; second, that they must enter any good conductor at right angles, and third, that they may never cross nor close in on themselves. [23] : 479 A hollow conducting body carries all its charge on its outer surface. The field is therefore 0 at all places inside the body. [35] : 88 This is the operating principal of the Faraday cage , a conducting metal shell which isolates its interior from outside electrical effects. The principles of electrostatics are important when designing items of high-voltage equipment. There is a finite limit to the electric field strength that may be withstood by any medium. Beyond this point, electrical breakdown occurs and an electric arc causes flashover between the charged parts. Air, for example, tends to arc across small gaps at electric field strengths which exceed 30 kV per centimetre. Over larger gaps, its breakdown strength is weaker, perhaps 1 kV per centimetre. [46] : 2 The most visible natural occurrence of this is lightning , caused when charge becomes separated in the clouds by rising columns of air, and raises the electric field in the air to greater than it can withstand. The voltage of a large lightning cloud may be as high as 100 MV and have discharge energies as great as 250 kWh. [46] : 201–02 The field strength is greatly affected by nearby conducting objects, and it is particularly intense when it is forced to curve around sharply pointed objects. This principle is exploited in the lightning conductor , the sharp spike of which acts to encourage the lightning strike to develop there, rather than to the building it serves to protect. [47] : 155",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/VFPt_image_charge_plane_horizontal.svg/220px-VFPt_image_charge_plane_horizontal.svg.png",
+                "caption": "Field lines emanating from a positive charge above a plane conductor"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity",
+        "title": "Electricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Electric potential",
+        "text": "The concept of electric potential is closely linked to that of the electric field. A small charge placed within an electric field experiences a force, and to have brought that charge to that point against the force requires work . The electric potential at any point is defined as the energy required to bring a unit test charge from an infinite distance slowly to that point. It is usually measured in volts , and one volt is the potential for which one joule of work must be expended to bring a charge of one coulomb from infinity. [23] : 494–98 This definition of potential, while formal, has little practical application, and a more useful concept is that of electric potential difference , and is the energy required to move a unit charge between two specified points. An electric field has the special property that it is conservative , which means that the path taken by the test charge is irrelevant: all paths between two specified points expend the same energy, and thus a unique value for potential difference may be stated. [23] : 494–98 The volt is so strongly identified as the unit of choice for measurement and description of electric potential difference that the term voltage sees greater everyday usage. For practical purposes, it is useful to define a common reference point to which potentials may be expressed and compared. While this could be at infinity, a much more useful reference is the Earth itself, which is assumed to be at the same potential everywhere. This reference point naturally takes the name earth or ground . Earth is assumed to be an infinite source of equal amounts of positive and negative charge, and is therefore electrically uncharged—and unchargeable. [48] Electric potential is a scalar quantity , that is, it has only magnitude and not direction. It may be viewed as analogous to height : just as a released object will fall through a difference in heights caused by a gravitational field, so a charge will 'fall' across the voltage caused by an electric field. [49] As relief maps show contour lines marking points of equal height, a set of lines marking points of equal potential (known as equipotentials ) may be drawn around an electrostatically charged object. The equipotentials cross all lines of force at right angles. They must also lie parallel to a conductor 's surface, since otherwise there would be a force along the surface of the conductor that would move the charge carriers to even the potential across the surface. The electric field was formally defined as the force exerted per unit charge, but the concept of potential allows for a more useful and equivalent definition: the electric field is the local gradient of the electric potential. Usually expressed in volts per metre, the vector direction of the field is the line of greatest slope of potential, and where the equipotentials lie closest together. [35] : 60",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Panasonic-oxyride.jpg/220px-Panasonic-oxyride.jpg",
+                "caption": "A pair of AA cells . The + sign indicates the polarity of the potential difference between the battery terminals."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity",
+        "title": "Electricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Electromagnets",
+        "text": "Ørsted's discovery in 1821 that a magnetic field existed around all sides of a wire carrying an electric current indicated that there was a direct relationship between electricity and magnetism. Moreover, the interaction seemed different from gravitational and electrostatic forces, the two forces of nature then known. The force on the compass needle did not direct it to or away from the current-carrying wire, but acted at right angles to it. [21] : 370 Ørsted's words were that \"the electric conflict acts in a revolving manner.\" The force also depended on the direction of the current, for if the flow was reversed, then the force did too. [50] Ørsted did not fully understand his discovery, but he observed the effect was reciprocal: a current exerts a force on a magnet, and a magnetic field exerts a force on a current. The phenomenon was further investigated by Ampère , who discovered that two parallel current-carrying wires exerted a force upon each other: two wires conducting currents in the same direction are attracted to each other, while wires containing currents in opposite directions are forced apart. [51] The interaction is mediated by the magnetic field each current produces and forms the basis for the international definition of the ampere . [51] This relationship between magnetic fields and currents is extremely important, for it led to Michael Faraday's invention of the electric motor in 1821. Faraday's homopolar motor consisted of a permanent magnet sitting in a pool of mercury . A current was allowed through a wire suspended from a pivot above the magnet and dipped into the mercury. The magnet exerted a tangential force on the wire, making it circle around the magnet for as long as the current was maintained. [52] Experimentation by Faraday in 1831 revealed that a wire moving perpendicular to a magnetic field developed a potential difference between its ends. Further analysis of this process, known as electromagnetic induction , enabled him to state the principle, now known as Faraday's law of induction , that the potential difference induced in a closed circuit is proportional to the rate of change of magnetic flux through the loop. Exploitation of this discovery enabled him to invent the first electrical generator in 1831, in which he converted the mechanical energy of a rotating copper disc to electrical energy. [52] Faraday's disc was inefficient and of no use as a practical generator, but it showed the possibility of generating electric power using magnetism, a possibility that would be taken up by those that followed on from his work. [53]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electromagnetism.svg/220px-Electromagnetism.svg.png",
+                "caption": "Magnetic field circles around a current"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Electric_motor_cycle_3.png/220px-Electric_motor_cycle_3.png",
+                "caption": "The electric motor exploits an important effect of electromagnetism: a current through a magnetic field experiences a force at right angles to both the field and current."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity",
+        "title": "Electricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Electric circuits",
+        "text": "An electric circuit is an interconnection of electric components such that electric charge is made to flow along a closed path (a circuit), usually to perform some useful task. [54] The components in an electric circuit can take many forms, which can include elements such as resistors , capacitors , switches , transformers and electronics . Electronic circuits contain active components , usually semiconductors , and typically exhibit non-linear behaviour, requiring complex analysis. The simplest electric components are those that are termed passive and linear : while they may temporarily store energy, they contain no sources of it, and exhibit linear responses to stimuli. [55] : 15–16 The resistor is perhaps the simplest of passive circuit elements: as its name suggests, it resists the current through it, dissipating its energy as heat. The resistance is a consequence of the motion of charge through a conductor: in metals, for example, resistance is primarily due to collisions between electrons and ions. Ohm's law is a basic law of circuit theory , stating that the current passing through a resistance is directly proportional to the potential difference across it. The resistance of most materials is relatively constant over a range of temperatures and currents; materials under these conditions are known as 'ohmic'. The ohm , the unit of resistance, was named in honour of Georg Ohm , and is symbolised by the Greek letter Ω. 1 Ω is the resistance that will produce a potential difference of one volt in response to a current of one amp. [55] : 30–35 The capacitor is a development of the Leyden jar and is a device that can store charge, and thereby storing electrical energy in the resulting field. It consists of two conducting plates separated by a thin insulating dielectric layer; in practice, thin metal foils are coiled together, increasing the surface area per unit volume and therefore the capacitance . The unit of capacitance is the farad , named after Michael Faraday , and given the symbol F : one farad is the capacitance that develops a potential difference of one volt when it stores a charge of one coulomb. A capacitor connected to a voltage supply initially causes a current as it accumulates charge; this current will however decay in time as the capacitor fills, eventually falling to zero. A capacitor will therefore not permit a steady state current, but instead blocks it. [55] : 216–20 The inductor is a conductor, usually a coil of wire, that stores energy in a magnetic field in response to the current through it. When the current changes, the magnetic field does too, inducing a voltage between the ends of the conductor. The induced voltage is proportional to the time rate of change of the current. The constant of proportionality is termed the inductance . The unit of inductance is the henry , named after Joseph Henry , a contemporary of Faraday. One henry is the inductance that will induce a potential difference of one volt if the current through it changes at a rate of one ampere per second. The inductor's behaviour is in some regards converse to that of the capacitor: it will freely allow an unchanging current, but opposes a rapidly changing one. [55] : 226–29",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ohms_law_voltage_source.svg/220px-Ohms_law_voltage_source.svg.png",
+                "caption": "A basic electric circuit . The voltage source V on the left drives a current I around the circuit, delivering electrical energy into the resistor R . From the resistor, the current returns to the source, completing the circuit."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity",
+        "title": "Electricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Electronics",
+        "text": "Electronics deals with electrical circuits that involve active electrical components such as vacuum tubes , transistors , diodes , sensors and integrated circuits , and associated passive interconnection technologies. [57] : 1–5, 71 The nonlinear behaviour of active components and their ability to control electron flows makes digital switching possible, [57] : 75 and electronics is widely used in information processing , telecommunications , and signal processing . Interconnection technologies such as circuit boards , electronics packaging technology, and other varied forms of communication infrastructure complete circuit functionality and transform the mixed components into a regular working system . Today, most electronic devices use semiconductor components to perform electron control. The underlying principles that explain how semiconductors work are studied in solid state physics , [58] whereas the design and construction of electronic circuits to solve practical problems are part of electronics engineering . [59]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Arduino_ftdi_chip-1.jpg/220px-Arduino_ftdi_chip-1.jpg",
+                "caption": "Surface-mount electronic components"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity",
+        "title": "Electricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Generation and transmission",
+        "text": "In the 6th century BC the Greek philosopher Thales of Miletus experimented with amber rods: these were the first studies into the production of electricity. While this method, now known as the triboelectric effect , can lift light objects and generate sparks, it is extremely inefficient. [61] It was not until the invention of the voltaic pile in the eighteenth century that a viable source of electricity became available. The voltaic pile, and its modern descendant, the electrical battery , store energy chemically and make it available on demand in the form of electricity. [61] Electrical power is usually generated by electro-mechanical generators . These can be driven by steam produced from fossil fuel combustion or the heat released from nuclear reactions, but also more directly from the kinetic energy of wind or flowing water. The steam turbine invented by Sir Charles Parsons in 1884 is still used to convert the thermal energy of steam into a rotary motion that can be used by electro-mechanical generators. Such generators bear no resemblance to Faraday's homopolar disc generator of 1831, but they still rely on his electromagnetic principle that a conductor linking a changing magnetic field induces a potential difference across its ends. [62] Electricity generated by solar panels rely on a different mechanism: solar radiation is converted directly into electricity using the photovoltaic effect . [63] Demand for electricity grows with great rapidity as a nation modernises and its economy develops. [64] The United States showed a 12% increase in demand during each year of the first three decades of the twentieth century, [65] a rate of growth that is now being experienced by emerging economies such as those of India or China. [66] [67] Environmental concerns with electricity generation , in specific the contribution of fossil fuel burning to climate change , have led to an increased focus on generation from renewable sources . In the power sector, wind and solar have become cost effective, speeding up an energy transition away from fossil fuels. [68]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gorskii_04414u.jpg/300px-Gorskii_04414u.jpg",
+                "caption": "Early 20th-century alternator made in Budapest , Hungary , in the power generating hall of a hydroelectric station (photograph by Prokudin-Gorsky , 1905–1915)."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Parque_e%C3%B3lico_La_Muela.jpg/220px-Parque_e%C3%B3lico_La_Muela.jpg",
+                "caption": "Wind power is of increasing importance in many countries."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity",
+        "title": "Electricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Applications",
+        "text": "Electricity is a very convenient way to transfer energy, and it has been adapted to a huge, and growing, number of uses. [73] The invention of a practical incandescent light bulb in the 1870s led to lighting becoming one of the first publicly available applications of electrical power. Although electrification brought with it its own dangers, replacing the naked flames of gas lighting greatly reduced fire hazards within homes and factories. [74] Public utilities were set up in many cities targeting the burgeoning market for electrical lighting. In the late 20th century and in modern times, the trend has started to flow in the direction of deregulation in the electrical power sector. [75] The resistive Joule heating effect employed in filament light bulbs also sees more direct use in electric heating . While this is versatile and controllable, it can be seen as wasteful, since most electrical generation has already required the production of heat at a power station. [76] A number of countries, such as Denmark, have issued legislation restricting or banning the use of resistive electric heating in new buildings. [77] Electricity is however still a highly practical energy source for heating and refrigeration , [78] with air conditioning / heat pumps representing a growing sector for electricity demand for heating and cooling, the effects of which electricity utilities are increasingly obliged to accommodate. [79] [80] Electrification is expected to play a major role in the decarbonisation of sectors that rely on direct fossil fuel burning, such as transport (using electric vehicles ) and heating (using heat pumps ). [81] [82] The effects of electromagnetism are most visibly employed in the electric motor , which provides a clean and efficient means of motive power. A stationary motor such as a winch is easily provided with a supply of power, but a motor that moves with its application, such as an electric vehicle , is obliged to either carry along a power source such as a battery, or to collect current from a sliding contact such as a pantograph . Electrically powered vehicles are used in public transportation, such as electric buses and trains, [83] and an increasing number of battery-powered electric cars in private ownership. Electricity is used within telecommunications , and indeed the electrical telegraph , demonstrated commercially in 1837 by Cooke and Wheatstone , [84] was one of its earliest applications. With the construction of first transcontinental , and then transatlantic , telegraph systems in the 1860s, electricity had enabled communications in minutes across the globe. Optical fibre and satellite communication have taken a share of the market for communications systems, but electricity can be expected to remain an essential part of the process. Electronic devices make use of the transistor , perhaps one of the most important inventions of the twentieth century, [85] and a fundamental building block of all modern circuitry. A modern integrated circuit may contain many billions of miniaturised transistors in a region only a few centimetres square. [86]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gluehlampe_01_KMJ.png/170px-Gluehlampe_01_KMJ.png",
+                "caption": "The incandescent light bulb , an early application of electricity, operates by Joule heating : the passage of current through resistance generating heat."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity",
+        "title": "Electricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Electrical phenomena in nature",
+        "text": "Electricity is not a human invention, and may be observed in several forms in nature, notably lightning . Many interactions familiar at the macroscopic level, such as touch , friction or chemical bonding , are due to interactions between electric fields on the atomic scale. The Earth's magnetic field is due to the natural dynamo of circulating currents in the planet's core. [91] Certain crystals, such as quartz , or even sugar , generate a potential difference across their faces when pressed. [92] This phenomenon is known as piezoelectricity , from the Greek piezein (πιέζειν), meaning to press, and was discovered in 1880 by Pierre and Jacques Curie . The effect is reciprocal: when a piezoelectric material is subjected to an electric field it changes size slightly. [92] Some organisms, such as sharks , are able to detect and respond to changes in electric fields, an ability known as electroreception , [93] while others, termed electrogenic , are able to generate voltages themselves to serve as a predatory or defensive weapon; these are electric fish in different orders. [3] The order Gymnotiformes , of which the best known example is the electric eel , detect or stun their prey via high voltages generated from modified muscle cells called electrocytes . [3] [4] All animals transmit information along their cell membranes with voltage pulses called action potentials , whose functions include communication by the nervous system between neurons and muscles . [94] An electric shock stimulates this system, and causes muscles to contract. [95] Action potentials are also responsible for coordinating activities in certain plants. [94]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Electric-eel2.jpg/220px-Electric-eel2.jpg",
+                "caption": "The electric eel , Electrophorus electricus"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity",
+        "title": "Electricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Emerging technologies",
+        "text": "Emerging technologies are novel technologies whose development or practical applications are still largely unrealized. They include nanotechnology , biotechnology , robotics , 3D printing , blockchains , and artificial intelligence . In 2005, futurist Ray Kurzweil claimed the next technological revolution would rest upon advances in genetics , nanotechnology , and robotics , with robotics being the most impactful of the three technologies. [103] Genetic engineering will allow far greater control over human biological nature through a process called directed evolution . Some thinkers believe that this may shatter our sense of self, and have urged for renewed public debate exploring the issue more thoroughly; [104] others fear that directed evolution could lead to eugenics or extreme social inequality. Nanotechnology will grant us the ability to manipulate matter \"at the molecular and atomic scale\", [105] which could allow us to reshape ourselves and our environment in fundamental ways. [106] Nanobots could be used within the human body to destroy cancer cells or form new body parts, blurring the line between biology and technology. [107] Autonomous robots have undergone rapid progress, and are expected to replace humans at many dangerous tasks, including search and rescue , bomb disposal , firefighting , and war. [108] Estimates on the advent of artificial general intelligence vary, but half of machine learning experts surveyed in 2018 believe that AI will \"accomplish every task better and more cheaply\" than humans by 2063, and automate all human jobs by 2140. [109] This expected technological unemployment has led to calls for increased emphasis on computer science education and debates about universal basic income . Political science experts predict that this could lead to a rise in extremism, while others see it as an opportunity to usher in a post-scarcity economy .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Army_invests_in_3-D_bioprinting_to_treat_injured_Soldiers.jpg/220px-Army_invests_in_3-D_bioprinting_to_treat_injured_Soldiers.jpg",
+                "caption": "Experimental 3D printing of muscle tissue"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Technology",
+        "title": "Technology",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Relation to science and engineering",
+        "text": "Engineering is the process by which technology is developed. It often requires problem-solving under strict constraints. [119] Technological development is \"action-oriented\", while scientific knowledge is fundamentally explanatory. [120] Polish philosopher Henryk Skolimowski framed it like so: \"science concerns itself with what is , technology with what is to be .\" [121] : 375 The direction of causality between scientific discovery and technological innovation has been debated by scientists, philosophers and policymakers. [122] Because innovation is often undertaken at the edge of scientific knowledge, most technologies are not derived from scientific knowledge, but instead from engineering, tinkering and chance. [123] : 217–240 For example, in the 1940s and 1950s, when knowledge of turbulent combustion or fluid dynamics was still crude, jet engines were invented through \"running the device to destruction, analyzing what broke [...] and repeating the process\". [119] Scientific explanations often follow technological developments rather than preceding them. [123] : 217–240 Many discoveries also arose from pure chance, like the discovery of penicillin as a result of accidental lab contamination. [124] Since the 1960s, the assumption that government funding of basic research would lead to the discovery of marketable technologies has lost credibility. [125] [126] Probabilist Nassim Taleb argues that national research programs that implement the notions of serendipity and convexity through frequent trial and error are more likely to lead to useful innovations than research that aims to reach specific outcomes. [123] [127] Despite this, modern technology is increasingly reliant on deep, domain-specific scientific knowledge. In 1975, there was an average of one citation of scientific literature in every three patents granted in the U.S.; by 1989, this increased to an average of one citation per patent. The average was skewed upwards by patents related to the pharmaceutical industry, chemistry, and electronics. [128] A 2021 analysis shows that patents that are based on scientific discoveries are on average 26% more valuable than equivalent non-science-based patents. [129]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Zoom_lunette_ardente.jpg/220px-Zoom_lunette_ardente.jpg",
+                "caption": "Antoine Lavoisier experimenting with combustion generated by amplified sunlight"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Technology",
+        "title": "Technology",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Other animal species",
+        "text": "The use of basic technology is also a feature of non-human animal species. Tool use was once considered a defining characteristic of the genus Homo . [130] This view was supplanted after discovering evidence of tool use among chimpanzees and other primates, [131] dolphins, [132] and crows . [133] [134] For example, researchers have observed wild chimpanzees using basic foraging tools, pestles, levers, using leaves as sponges, and tree bark or vines as probes to fish termites. [135] West African chimpanzees use stone hammers and anvils for cracking nuts, [136] as do capuchin monkeys of Boa Vista , Brazil. [137] Tool use is not the only form of animal technology use; for example, beaver dams , built with wooden sticks or large stones, are a technology with \"dramatic\" impacts on river habitats and ecosystems. [138]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gorilla_tool_use_cropped.jpg/220px-Gorilla_tool_use_cropped.jpg",
+                "caption": "This adult gorilla uses a branch as a walking stick to gauge the water's depth."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Technology",
+        "title": "Technology",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Early modern designs",
+        "text": "In the 15th century, the Nut developed a type of seagoing herring drifter that became a blueprint for European fishing boats. This was the Herring Buss , used by Dutch herring fishermen until the early 19th centuries. The ship type buss has a long history. It was known around 1000 AD in Scandinavia as a bǘza , a robust variant of the Viking longship. The first herring buss was probably built in Hoorn around 1415. The last one was built in Vlaardingen in 1841. The ship was about 20 metres long and displaced between 60 and 100 tons. It was a massive round- bilged keel ship with a bluff bow and stern , the latter relatively high, and with a gallery. The busses used long drifting gill nets to catch the herring. The nets would be retrieved at night and the crews of eighteen to thirty men [31] would set to gibbing , salting and barrelling the catch on the broad deck. The ships sailed in fleets of 400 to 500 ships [31] to the Dogger Bank fishing grounds and the Shetland isles. They were usually escorted by naval vessels, because the English considered they were \"poaching\". The fleet would stay at sea for weeks at a time. The catch would sometimes be transferred to special ships (called ventjagers ), and taken home while the fleet would still be at sea (the picture shows a ventjager in the distance). [31] During the 17th century, the British developed the dogger , an early type of sailing trawler or longliner , which commonly operated in the North Sea . The dogger takes its name from the Dutch word dogger , meaning a fishing vessel which tows a trawl . Dutch trawling boats were common in the North Sea, and the word dogger was given to the area where they often fished, which became known as the Dogger Bank . [32] Doggers were slow but sturdy, capable of fishing in the rough conditions of the North Sea. [33] Like the herring buss, they were wide-beamed and bluff-bowed, but considerably smaller, about 15 metres long, a maximum beam of 4.5 metres, a draught of 1.5 metres, and displacing about 13 tonnes. They could carry a tonne of bait, three tonnes of salt, half a tonne each of food and firewood for the crew, and return with six tonnes of fish. [33] Decked areas forward and aft probably provided accommodation, storage and a cooking area. An anchor would have allowed extended periods fishing in the same spot, in waters up to 18 metres deep. The dogger would also have carried a small open boat for maintaining lines and rowing ashore. [33] A precursor to the dory type was the early French bateau type, a flat bottom boat with straight sides used as early as 1671 on the Saint Lawrence River . [34] The common coastal boat of the time was the wherry and the merging of the wherry design with the simplified flat bottom of the bateau resulted in the birth of the dory. Anecdotal evidence exists of much older precursors throughout Europe.  England, France, Italy, and Belgium have small boats from medieval periods that could reasonably be construed as predecessors of the Dory. [35] Dories appeared in New England fishing towns sometime after the early 18th century. [36] They were small, shallow- draft boats , usually about five to seven metres (15 to 22 feet) long. Lightweight and versatile, with high sides, a flat bottom and sharp bows, they were easy and cheap to build. The Banks dories appeared in the 1830s. They were designed to be carried on mother ships and used for fishing cod at the Grand Banks . [36] Adapted almost directly from the low freeboard, French river bateaus, with their straight sides and removable thwarts, bank dories could be nested inside each other and stored on the decks of fishing schooners, such as the Gazela Primeiro , for their trip to the Grand Banks fishing grounds.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Groenewegen.D3.Buis.jpg/220px-Groenewegen.D3.Buis.jpg",
+                "caption": "Herring Buss taking aboard its drift net (G. Groenewegen)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dogger_%28boat%29.jpg/220px-Dogger_%28boat%29.jpg",
+                "caption": "A dogger viewed from before the port beam. c. 1675 by Willem van de Velde the Younger"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Gazela3.jpg/220px-Gazela3.jpg",
+                "caption": "A banks dory used for cod fishing from the Gazela"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/History_of_fishing",
+        "title": "History of fishing",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Modern fishing trawler",
+        "text": "The British dogger was an early type of sailing trawler from the 17th century, but the modern fishing trawler was developed in the 19th century, at the English fishing port of Brixham . By the early 19th century, the fishermen at Brixham needed to expand their fishing area further than ever before due to the ongoing depletion of stocks that was occurring in the overfished waters of South Devon . The Brixham trawler that evolved there was of a sleek build and had a tall gaff rig , which gave the vessel sufficient speed to make long-distance trips out to the fishing grounds in the ocean. They were also sufficiently robust to be able to tow large trawls in deep water. The great trawling fleet that built up at Brixham, earned the village the title of 'Mother of Deep-Sea Fisheries'. This revolutionary design made large scale trawling in the ocean possible for the first time, resulting in a massive migration of fishermen from the ports in the South of England, to villages further north, such as Scarborough , Hull , Grimsby , Harwich and Yarmouth , that were points of access to the large fishing grounds in the Atlantic Ocean . The small village of Grimsby grew to become the 'largest fishing port in the world' [37] by the mid 19th century. An Act of Parliament was first obtained in 1796, which authorised the construction of new quays and dredging of the Haven to make it deeper. [38] It was only in the 1846, with the tremendous expansion in the fishing industry, that the Grimsby Dock Company was formed. The foundation stone for the Royal Dock was laid by Albert the Prince consort in 1849. The dock covered 25 acres (10 ha) and was formally opened by Queen Victoria in 1854 as the first modern fishing port. The facilities incorporated many innovations of the time - the dock gates and cranes were operated by hydraulic power , and the 300-foot (91 m) Grimsby Dock Tower was built to provide a head of water with sufficient pressure by William Armstrong . [39] The docks expanded steadily over the course of the following century: No. 2 Fish Dock opened in 1877, the Union Dock and Alexandra Dock in 1879, and No. 3 Fish Dock was built in 1934. [38] The port was served by a rail link to London's Billingsgate Fish Market , which created a truly national market for Grimsby's fish, allowing it to become renowned nationwide. The elegant Brixham trawler spread across the world, influencing fishing fleets everywhere. Their distinctive sails inspired the song Red Sails in the Sunset , written aboard a Brixham sailing trawler called the Torbay Lass . [40] [41] By the end of the 19th century, there were over 3,000 fishing trawlers in commission in Britain, with almost 1,000 at Grimsby. These trawlers were sold to fishermen around Europe, including from Holland and Scandinavia . Twelve trawlers went on to form the nucleus of the German fishing fleet. [42] Although fishing vessel designed increasingly began to converge around the world, local conditions still often led the development of different types of fishing boats. The Lancashire nobby was used down the north west coast of England as a shrimp trawler from 1840 until World War II. The Manx nobby was used around the Isle of Man as a herring drifter. The fifie was also used as a herring drifter along the east coast of Scotland from the 1850s until well into the 20th century. The bawley and the smack were used in the Thames Estuary and off East Anglia , while trawlers and drifters were used on the east coast. Herring fishing started in the Moray Firth in 1819. The peak of the fishing at Aberdeen was in 1937 with 277 steam trawlers, though the first diesel drifter was introduced in 1926. In 1870 paddle tugs were being used to tow luggers and smacks to sea.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/A_Brixham_trawler.jpg/220px-A_Brixham_trawler.jpg",
+                "caption": "Painting of a Brixham trawler by William Adolphus Knell . The painting is now in the National Maritime Museum ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Smack-brightlingsea.jpg/220px-Smack-brightlingsea.jpg",
+                "caption": "A smack near Brightlingsea ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/History_of_fishing",
+        "title": "History of fishing",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Advent of steam power",
+        "text": "The earliest steam powered fishing boats first appeared in the 1870s and used the trawl system of fishing as well as lines and drift nets.  These were large boats, usually 80–90 feet (24–27 m) in length with a beam of around 20 feet (6.1 m). They weighed 40-50 tons and travelled at 9–11 knots (17–20 km/h; 10–13 mph). The earliest purpose built fishing vessels were designed and made by David Allan in Leith in March 1875, when he converted a drifter to steam power. In 1877, he built the first screw propelled steam trawler in the world. This vessel was Pioneer LH854 . She was of wooden construction with two masts and carried a gaff rigged main and mizen using booms, and a single foresail. Pioneer is mentioned in The Shetland Times of 4 May 1877. In 1878 he completed Forward and Onward , steam-powered trawlers for sale. Allan argued that his motivation for steam power was to increase the safety of fishermen. However local fishermen saw power trawling as a threat. Allan built a total of ten boats at Leith between 1877 and 1881. Twenty-one boats were completed at Granton , his last vessel being Degrave in 1886. Most of these were sold to foreign owners in France , Belgium , Spain and the West Indies . [43] The first steam boats were made of wood, but steel hulls were soon introduced and were divided into watertight compartments. They were well designed for the crew with a large building that contained the wheelhouse and the deckhouse . The boats built in the 20th century only had a mizzen sail , which was used to help steady the boat when its nets were out. The main function of the mast was now as a crane for lifting the catch ashore. It also had a steam capstan on the foredeck near the mast for hauling nets . The boats had narrow, high funnels so that the steam and thick coal smoke was released high above the deck and away from the fishermen. These funnels were nicknamed woodbines because they looked like the popular brand of cigarette. These boats had a crew of twelve made up of a skipper , driver, fireman (to look after the boiler) and nine deck hands. [43] Steam fishing boats had many advantages. They were usually about 20 ft longer (6.1 m) than the sailing vessels so they could carry more nets and catch more fish. This was important, as the market was growing quickly at the beginning of the 20th century. They could travel faster and further and with greater freedom from weather , wind and tide . Because less time was spent travelling to and from the fishing grounds, more time could be spent fishing. The steam boats also gained the highest prices for their fish, as they could return quickly to harbour with their fresh catch. The main disadvantage of the steam boats, though, was their high operating costs. Their engines were mechanically inefficient and took up much space, while fuel and fitting out costs were very high.  Before the First World War , building costs were between £3,000 and £4,000, at least three times the cost of the sail boats. To cover these high costs, they needed to fish for longer seasons. The higher expenses meant that more steam drifters were company-owned or jointly owned. As the herring fishing industry declined, steam boats became too expensive. [43] Steam trawlers were introduced at Grimsby and Hull in the 1880s. In 1890 it was estimated that there were 20,000 men on the North Sea. The steam drifter was not used in the herring fishery until 1897. The last sailing fishing trawler was built in 1925 in Grimsby.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Seine_Net_Trawler_Hopeman_1958_-_geograph.org.uk_-_84412.jpg/220px-Seine_Net_Trawler_Hopeman_1958_-_geograph.org.uk_-_84412.jpg",
+                "caption": "Seine net trawler , Hopeman 1958."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/History_of_fishing",
+        "title": "History of fishing",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Further development",
+        "text": "Trawler designs adapted as the way they were powered changed from sail to coal-fired steam by World War I to diesel and turbines by the end of World War II . During both World Wars, many fishing trawlers were commissioned as naval trawlers . Fishing trawlers were particularly suited for many naval requirements because they were robust boats designed to work heavy trawls in all types of weather and had large clear working decks. One could create a mine sweeper simply by replacing the trawl with a mine sweep. Adding depth charge racks on the deck, ASDIC below, and a 3-inch (76 mm) or 4-inch (102 mm) gun in the bows equipped the trawler for anti-submarine duties. The Royal Navy ordered many naval trawlers to Admiralty specifications. Shipyards such as Smiths Dock Company that were used to building fishing trawlers could easily switch to constructing naval versions. As a bonus, the Admiralty could sell these trawlers to commercial fishing interests when the wars ended. Still, many were sunk during the war, such as HMT Amethyst and HMT Force . Armed trawlers were also used to defend fishing groups from enemy aircraft or submarines. The smallest civilian trawlers were converted to danlayers . In 1931, the first powered drum was created by Laurie Jarelainen. The drum was a circular device that was set to the side of the boat and would draw in the nets. The powered drum allowed the nets to be drawn in much faster, so fishermen were able to fish in areas they had previously been unable to go into, thereby revolutionizing the fishing industry. During World War II , navigation and communication devices, as well as many other forms of maritime equipment ( depth-sounding and radar ) were improved and made more compact. These devices became much more accessible to the average fisherman, thus making their range and mobility larger. It also served to make the industry much more competitive, as the fisherman were forced to invest more into their boats, equipped with electronic aids, such as radio navigation aids and fish finders . During the Cold War , some countries fitted fishing trawlers with additional electronic gear so they could be used as spy ships to monitor the activities of other countries. The first trawlers fished over the side, rather than over the stern . In 1947, the company Christian Salvesen , based in Leith , Scotland, refitted a surplus Algerine -class minesweeper (HMS Felicity ) with refrigeration equipment and a factory ship stern ramp, to produce the first combined freezer/stern trawler. [44] The first purpose built stern trawler was Fairtry built in 1953 at Aberdeen . The ship was much larger than any other trawlers then in operation and inaugurated the era of the 'super trawler'. As the ship pulled its nets over the stern, it could lift out a much greater haul of up to 60 tons. Lord Nelson followed in 1961, installed with vertical plate freezers that had been researched and built at the Torry Research Station . These ships served as a basis for the expansion of 'super trawlers' around the world in the following decades. [44] The introduction of fine synthetic fibres such as nylon in the construction of fishing gear during the 1960s marked an expansion in the commercial use of gillnets. The new materials were cheaper and easier to handle, lasted longer and required less maintenance than natural fibres . In addition, fibres such as nylon monofilaments become almost invisible in water, so nets made with synthetic twines generally caught greater numbers of fish than natural fibre nets used in comparable situations. Due to environmental concerns, gillnets were banned by the United Nations in 1993 in international waters, although their use is still permitted within 200 nautical miles (400 km) of a coast.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/HNoMS_Honningsv%C3%A5g.jpg/250px-HNoMS_Honningsv%C3%A5g.jpg",
+                "caption": "Armed trawler HNoMS Honningsvåg off Iceland ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Commercial_fishing.jpg/220px-Commercial_fishing.jpg",
+                "caption": "Commercial fishermen in Alaska , early 20th century."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/History_of_fishing",
+        "title": "History of fishing",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Origins",
+        "text": "The earliest English essay on recreational fishing was published in 1496, shortly after the invention of the printing press. The authorship of this was attributed to Dame Juliana Berners , the prioress of the Benedictine Sopwell Nunnery . The essay was titled Treatyse of Fysshynge wyth an Angle , [48] and was published in the second Boke of Saint Albans , a treatise on hawking, hunting, and heraldry. These were major interests of the nobility, and the publisher, Wynkyn de Worde , was concerned that the book should be kept from those who were not gentlemen, since their immoderation in angling might \"utterly destroy it\". [49] During the 16th century the work was much read, and was reprinted many times. Treatyse includes detailed information on fishing waters, the construction of rods and lines, and the use of natural baits and artificial flies. It also includes modern concerns about conservation and angler etiquette. [50] The earliest English poetical treatise on Angling by John Dennys , said to have been a fishing companion of Shakespeare, was published in 1613, The Secrets of Angling . Footnotes of the work, written by Dennys' editor, William Lawson, make the first mention of the phrase to 'cast a fly': \"The trout gives the most gentlemanly and readiest sport of all, if you fish with an artificial fly, a line twice your rod's length of three hairs' thickness... and if you have learnt the cast of the fly.\" [51] The art of fly fishing took a great leap forward after the English Civil War , where a newly found interest in the activity left its mark on the many books and treatises that were written on the subject at the time. The renowned officer in the Parliamentary army , Robert Venables , published in 1662 The Experienced Angler, or Angling improved, being a general discourse of angling, imparting many of the aptest ways and choicest experiments for the taking of most sorts of fish in pond or river . Another Civil War veteran to enthusiastically take up fishing, was Richard Franck . He was the first to describe salmon fishing in Scotland, and both in that and trout-fishing with artificial fly he was a practical angler. He was the first angler to name the burbot , and commended the salmon of the River Thames . [52] Compleat Angler was written by Izaak Walton in 1653 (although Walton continued to add to it for a quarter of a century) and described the fishing in the Derbyshire Wye . It was a celebration of the art and spirit of fishing in prose and verse; 6 verses were quoted from John Dennys 's earlier work. A second part to the book was added by Walton's friend Charles Cotton . [52] Walton did not profess to be an expert with a fishing fly; the fly fishing in his first edition was contributed by Thomas Barker, a retired cook and humorist , who produced a treatise of his own in 1659; but in the use of the live worm , the grasshopper and the frog \"Piscator\" himself could speak as a master. The famous passage about the frog, often misquoted as being about the worm—\"use him as though you loved him, that is, harm him as little as you may possibly, that he may live the longer\"—appears in the original edition. Cotton's additions completed the instruction in fly fishing and advised on the making of artificial flies where he listed sixty five varieties. Charles Kirby designed an improved fishing hook in 1655 that remains relatively unchanged to this day. He went on to invent the Kirby bend, a distinctive hook with an offset point, still commonly used today. [53]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Juliana_Berners_-_Project_Gutenberg_eText_13220.png/220px-Juliana_Berners_-_Project_Gutenberg_eText_13220.png",
+                "caption": "Sketch of Juliana Berners , author of the earliest essay on recreational fishing."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Louis_John_Rhead_-_Izaak_Wolton_and_his_scholar.jpg/170px-Louis_John_Rhead_-_Izaak_Wolton_and_his_scholar.jpg",
+                "caption": "Izaak Walton 's Compleat Angler , published in 1653 helped popularize fly fishing as a sport. Woodcut by Louis Rhead"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/History_of_fishing",
+        "title": "History of fishing",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Development",
+        "text": "The 18th century was mainly an era of consolidation of the techniques developed in the previous century. Running rings began to appear along the fishing rods, which gave anglers greater control over the cast line. The rods themselves were also becoming increasingly sophisticated and specialized for different roles. Jointed rods became common from the middle of the century and bamboo came to be used for the top section of the rod, giving it a much greater strength and flexibility. The industry also became commercialized - rods and tackle were sold at the haberdashers store. After the Great Fire of London in 1666, artisans moved to Redditch which became a centre of production of fishing related products from the 1730s. Onesimus Ustonson established his trading shop in 1761, and his establishment remained as a market leader for the next century. He received a Royal Warrant from three successive monarchs starting with King George IV . [54] Some have credited Onesimus with the invention of the multiplying winch , although he was certainly the first to advertise its sale. Early multiplying reels were wide and had a small diameter, and their gears, made of brass , often wore down after extensive use. His earliest advertisement in the form of a trading card date from 1768 and was entitled To all lovers of angling . A full list of the tackles he sold included artificial flies, and 'the best sort of multiplying brass winches both stop and plain'. The commercialization of the industry came at a time of expanded interest in fishing as a recreational hobby for members of the aristocracy . [55] The impact of the Industrial Revolution was first felt in the manufacture of fly lines. Instead of anglers twisting their own lines - a laborious and time-consuming process - the new textile spinning machines allowed for a variety of tapered lines to be easily manufactured and marketed. British fly-fishing continued to develop in the 19th Century, with the emergence of fly fishing clubs, along with the appearance of several books on the subject of fly tying and fly fishing techniques. Alfred Ronalds took up the sport of fly fishing, learning the craft on the rivers Trent , Blythe and Dove . On the River Blythe, near what is today Creswell Green , Ronalds constructed a bankside fishing hut designed primarily as an observatory of trout behaviour in the river. From this hut, and elsewhere on his home rivers, Ronalds conducted experiments and formulated the ideas that eventually were published in The Fly-fisher's Entomology in 1836. [56] He combined his knowledge of fly fishing with his skill as an engraver and printer, to lavish his work with 20 colour plates. It was the first comprehensive work related to the entomology associated with fly fishing and most fly-fishing historians credit Ronalds with setting a literature standard in 1836 that is still followed today. [57] Describing methods, techniques and, most importantly, artificial flies , in a meaningful way for the angler and illustrating them in colour is a method of presentation that can be seen in most fly-fishing literature today. The book was mostly about the aquatic insects— mayflies , caddisflies and stoneflies —that trout and grayling feed on and their counterpart artificial imitations.  About half the book is devoted to observations of trout, their behaviour, and the methods and techniques used to catch them. Most of this information, although enhanced by Ronalds' experiences and observations, was merely an enhancement of Charles Bowlker's Art of Angling (first published in 1774 but still in print in 1836). [58] In Chapter IV - Of a Selection of Insects, and Their Imitations, Used in Fly Fishing - for the first time is discussed specific artificial fly imitations by name, associated with the corresponding natural insect. Organized by their month of appearance, Ronalds was the first author to begin the standardization of angler names for artificial flies.  Prior to The Fly-fisher's Entomology , anglers had been given suggestions for artificial flies to be used on a particular river or at a particular time of the year, but those suggestions were never matched to specific natural insects the angler might encounter on the water. [59] According to Ernest Schwiebert : \"Ronalds is one of the major milestones in the entire literature of fly-fishing, and with his Entomology the scientific method has reached angling in full flower.  Ronalds was completely original in its content and research, setting the yardstick for all subsequent discussion and illustration of aquatic fly hatches. [60]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/e/e8/Ustonson_advert.jpg",
+                "caption": "Trading card of the Ustonson company, an early firm specializing in fishing equipment, and holder of a Royal Warrant from the 1760s."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Fly-fishers_EntomologyTitlePage1849.JPG/220px-Fly-fishers_EntomologyTitlePage1849.JPG",
+                "caption": "The Fly-fisher's Entomology by Alfred Ronalds had a great influence on the development of fly fishing when it was first published in 1836."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/History_of_fishing",
+        "title": "History of fishing",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Technological improvements",
+        "text": "Modern reel design had begun in England during the later part of the 18th century, and the predominant model in use was known as the ' Nottingham reel'. The reel was a wide drum which spooled out freely, and was ideal for allowing the bait to drift along way out with the current. Geared multiplying reels never successfully caught on in Britain, but had more success in the United States, where similar models were modified by George Snyder of Kentucky into his bait-casting reel, the first American-made design in 1810. [61] The material used for the rod itself changed from the heavy woods native to England, to lighter and more elastic varieties imported from abroad, especially from South America and the West Indies . Bamboo rods became the generally favoured option from the mid 19th century, and several strips of the material were cut from the cane, milled into shape, and then glued together to form light, strong, hexagonal rods with a solid core that were superior to anything that preceded them. George Cotton and his predecessors fished their flies with long rods, and light lines allowing the wind to do most of the work of getting the fly to the fish. [62] Tackle design began to improve from the 1880s. The introduction of new woods to the manufacture of fly rods made it possible to cast flies into the wind on silk lines, instead of horse hair . These lines allowed for a much greater casting distance. However, these early fly lines proved troublesome as they had to be coated with various dressings to make them float and needed to be taken off the reel and dried every four hours or so to prevent them from becoming waterlogged. Another negative consequence was that it became easy for the much longer line to get into a tangle - this was called a 'tangle' in Britain, and a 'backlash' in the US. This problem spurred the invention of the regulator to evenly spool the line out and prevent tangling. [62] The American, Charles F. Orvis, designed and distributed a novel reel and fly design in 1874, described by reel historian Jim Brown as the \"benchmark of American reel design,\" and the first fully modern fly reel. [63] [64] The founding of The Orvis Company helped institutionalize fly fishing by supplying angling equipment via the circulation of his tackle catalogs, distributed to a small but devoted customer list. [ citation needed ] Albert Illingworth, 1st Baron Illingworth a textiles magnate, patented the modern form of fixed-spool spinning reel in 1905. When casting Illingworth's reel design, the line was drawn off the leading edge of the spool, but was restrained and rewound by a line pickup, a device which orbits around the stationary spool. Because the line did not have to pull against a rotating spool, much lighter lures could be cast than with conventional reels. [62]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Nottingham_reel.jpg/230px-Nottingham_reel.jpg",
+                "caption": "'Nottingham' and 'Scarborough' reel designs."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Trout_fishing_1860s.jpg/220px-Trout_fishing_1860s.jpg",
+                "caption": "Fishing became a popular recreational activity in the 19th century. Print from Currier and Ives ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/History_of_fishing",
+        "title": "History of fishing",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Expansion",
+        "text": "By the mid to late 19th century, expanding leisure opportunities for the middle and lower classes began to have its effect on fly fishing, which steadily grew in mass appeal. The expansion of the railway network in Britain allowed the less affluent for the first time to take weekend trips to the seaside or to rivers for fishing. Richer hobbyists ventured further abroad. [65] The large rivers of Norway replete with large stocks of salmon began to attract fishers from England in large numbers in the middle of the century - Jones's guide to Norway, and salmon-fisher's pocket companion , published in 1848, was written by Frederic Tolfrey and was a popular guide to the country. [65] In southern England, dry-fly fishing acquired an elitist reputation as the only acceptable method of fishing the slower, clearer rivers of the south such as the River Test and the other chalk streams concentrated in Hampshire , Surrey , Dorset and Berkshire (see Southern England Chalk Formation for the geological specifics). The weeds found in these rivers tend to grow very close to the surface, and it was felt necessary to develop new techniques that would keep the fly and the line on the surface of the stream. These became the foundation of all later dry-fly developments. However, there was nothing to prevent the successful employment of wet flies on these chalk streams, as G. E. M. Skues proved with his nymph and wet fly techniques. To the horror of dry-fly purists, Skues later wrote two books, Minor Tactics of the Chalk Stream , and The Way of a Trout with a Fly , which greatly influenced the development of wet fly fishing. In northern England and Scotland, many anglers also favored wet-fly fishing, where the technique was more popular and widely practiced than in southern England. One of Scotland's leading proponents of the wet fly in the early-to-mid 19th century was W. C. Stewart, who published \"The Practical Angler\" in 1857. In the United States, attitudes toward methods of fly fishing were not nearly as rigidly defined, and both dry- and wet-fly fishing were soon adapted to the conditions of the country. Fly anglers there, are thought to be the first anglers to have used artificial lures for bass fishing . After pressing into service the fly patterns and tackle designed for trout and salmon to catch largemouth and smallmouth bass, they began to adapt these patterns into specific bass flies. Fly anglers seeking bass developed the spinner/fly lure and bass popper fly, which are still used today. [66] In the late 19th century, American anglers, such as Theodore Gordon , in the Catskill Mountains of New York began using fly tackle to fish the region's brook trout -rich streams such as the Beaverkill and Willowemoc Creek. Many of these early American fly anglers also developed new fly patterns and wrote extensively about their sport, increasing the popularity of fly fishing in the region and in the United States as a whole. [66] Albert Bigelow Paine , a New England author, wrote about fly fishing in The Tent Dwellers , a book about a three-week trip he and a friend took to central Nova Scotia in 1908. Participation in fly fishing peaked in the early 1920s in the eastern states of Maine and Vermont and in the Midwest in the spring creeks of Wisconsin . Along with deep sea fishing , Ernest Hemingway did much to popularize fly fishing through his works of fiction, including The Sun Also Rises . Fly fishing in Australia took off when brown trout were first introduced by the efforts of Edward Wilson's Acclimatisation Society of Victoria with the aim to \"provide for manly sport which will lead Australian youth to seek recreation on the river's bank and mountainside rather than in the Cafe and Casino. [67] \" The first successful transfer of Brown Trout ova (from the Itchen and Wye) was accomplished by James Arndell Youl , with a consignment aboard The Norfolk in 1864. Rainbow Trout were not introduced until 1894. It was the development of inexpensive fiberglass rods, synthetic fly lines, and monofilament leaders, however, in the early 1950s, that revived the popularity of fly fishing. In recent years, interest in fly fishing has surged as baby boomers have discovered the sport. Movies such as Robert Redford 's film A River Runs Through It , starring Craig Sheffer and Brad Pitt , cable fishing shows, and the emergence of a competitive fly casting circuit have added to the sport's visibility.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BrookesFrontpiece1790.JPG/220px-BrookesFrontpiece1790.JPG",
+                "caption": "Frontispiece from The Art of Angling by Richard Brookes , 1790"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TheEndofAStiffFightRhead.JPG/220px-TheEndofAStiffFightRhead.JPG",
+                "caption": "From The Speckled Brook Trout by Louis Rhead (1902)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/History_of_fishing",
+        "title": "History of fishing",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Paper, writing and libraries",
+        "text": "The word paper comes from the Greek term for the ancient Egyptian writing material called papyrus , which was formed from beaten strips of papyrus plants . Papyrus was produced in Egypt as early as 3000 BC and was sold to ancient Greece and Rome . The establishment of the Library of Alexandria limited the supply of papyrus for others. According to the Roman historian Pliny the Elder ( Natural History records, xiii.21), as a result of this, parchment was invented under the patronage of Eumenes II of Pergamon to build his rival library at Pergamon . However, this is a myth; parchment had been in use in Anatolia and elsewhere long before the rise of Pergamon. Egyptian hieroglyphs , a phonetic writing system , served as the basis for the Phoenician alphabet from which later alphabets, such as Hebrew, Greek, and Latin were derived. With this ability, writing and record-keeping, the Egyptians developed one of the – if not the – first decimal system . [2] [3] [4] The city of Alexandria retained preeminence for its records and scrolls with its library. This ancient library was damaged by fire when it fell under Roman rule, [5] and was destroyed completely by 642 CE. [6] [7] With it, a vast supply of antique literature, history, and knowledge was lost.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Book_of_the_Dead_of_Hunefer_sheet_3.jpg/222px-Book_of_the_Dead_of_Hunefer_sheet_3.jpg",
+                "caption": "A section of the Egyptian Book of the Dead , which is written and drawn on papyrus"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ancient_Egyptian_technology",
+        "title": "Ancient Egyptian technology",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Monuments",
+        "text": "The Nile valley has been the site of one of the most influential civilizations in the world with its architectural monuments, which include the Giza pyramid complex and the Great Sphinx . The most famous pyramids are the Egyptian pyramids —huge structures built of brick or stone, some of which are among the largest constructions by humans. Pyramids functioned as tombs for pharaohs . In Ancient Egypt, a pyramid was referred to as mer , literally \"place of ascendance.\" The Great Pyramid of Giza is the largest in Egypt and one of the largest in the world. The base is over 13 acres (53,000 m 2 ) in area. It is one of the Seven Wonders of the Ancient World and the only one of the seven to survive into modern times. The ancient Egyptians capped the peaks of their pyramids with gold plated pyramidions and covered their faces with polished white limestone, although many of the stones used for the finishing purpose have fallen or been removed for use on other structures over the millennia. The Red Pyramid (c.26th century BC), named for the light crimson hue of its exposed granite surfaces, is the third largest of Egyptian pyramids. Menkaure's Pyramid , likely dating to the same era, was constructed of limestone and granite blocks. The Great Pyramid of Giza (c. 2580 BC ) contains a huge sarcophagus fashioned of red Aswan granite. The mostly ruined Black Pyramid dating from the reign of Amenemhat III once had a polished granite pyramidion or capstone, now on display in the main hall of the Egyptian Museum in Cairo . Other uses in Ancient Egypt [14] include columns , door lintels , sills , jambs , and wall and floor veneer. The ancient Egyptians had some of the first monumental stone buildings (such as in Saqqara ). How the Egyptians worked the solid granite is still a matter of debate. Archaeologist Patrick Hunt [15] has postulated that the Egyptians used emery shown to have higher hardness on the Mohs scale . Regarding construction, of the various methods possibly used by builders, the lever moved and uplifted obelisks weighing more than 100 tons .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cairo_sphinx_eyquem.jpg/220px-Cairo_sphinx_eyquem.jpg",
+                "caption": "Giza Plateau , Cairo. Khafre's pyramid in the background"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ancient_Egyptian_technology",
+        "title": "Ancient Egyptian technology",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Obelisks and pillars",
+        "text": "Obelisks were a prominent part of the Ancient Egyptian architecture , placed in pairs at the entrances of various monuments and important buildings such as temples. In 1902, Encyclopædia Britannica wrote: \"The earliest temple obelisk still in position is that of Senusret I of the XIIth Dynasty at Heliopolis (68 feet high)\". The word obelisk is of Greek rather than Egyptian origin because Herodotus , the great traveler, was the first writer to describe the objects. Twenty-nine ancient Egyptian obelisks are known to have survived, plus the Unfinished obelisk being built by Hatshepsut to celebrate her sixteenth year as pharaoh. It broke while being carved out of the quarry and was abandoned when another one was begun to replace it. The broken one was found at Aswan and provides some of the only insight into the methods of how they were hewn. The obelisk symbolized the sky deity Ra and during the brief religious reformation of Akhenaten was said to be a petrified ray of the Aten , the sun disk. It is hypothesized by New York University Egyptologist Patricia Blackwell Gary and Astronomy senior editor Richard Talcott that the shapes of the ancient Egyptian pyramid and obelisk were derived from natural phenomena associated with the sun (the sun-god Ra being the Egyptians' greatest deity). [16] It was also thought that the deity existed within the structure. The Egyptians also used pillars extensively. It is unknown whether the ancient Egyptians had kites , but a team led by Maureen Clemmons and Mory Gharib raised a 5,900-pound, 15-foot (4.6 m) obelisk into vertical position with a kite, a system of pulleys, and a support frame. [17] Maureen Clemmons developed the idea that the ancient Egyptians used kites for work. [17] [18] Ramps have been reported as being widely used in Ancient Egypt. A ramp is an inclined plane, or a plane surface set at an angle (other than a right angle) against a horizontal surface. The inclined plane permits one to overcome a large resistance by applying a relatively small force through a longer distance than the load is to be raised. In civil engineering the slope (ratio of rise/run) is often referred to as a grade or gradient. An inclined plane is one of the commonly-recognized simple machines. Maureen Clemmons subsequently led a team of researchers demonstrating a kite made of natural material and reinforced with shellac (which according to their research pulled with 97% the efficiency of nylon), in a 9 mph wind, would easily pull an average 2-ton pyramid stone up the 1st two courses of a pyramid (in collaboration with Cal Poly, Pomona, on a 53-stone pyramid built in Rosamond, CA).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Assuan_Unvollendeter_Obelisk_10.JPG/220px-Assuan_Unvollendeter_Obelisk_10.JPG",
+                "caption": "The Unfinished obelisk in Aswan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ancient_Egyptian_technology",
+        "title": "Ancient Egyptian technology",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Navigation and ship building",
+        "text": "The ancient Egyptians had knowledge to some extent of sail construction. This is governed by the science of aerodynamics . [19] The earliest Egyptian sails were simply placed to catch the wind and push a vessel. [20] Later Egyptian sails dating to 2400 BC were built with the recognition that ships could sail against the wind using the lift of the sails . [20] [21] Queen Hatshepsut oversaw the preparations and funding of an expedition of five ships, each measuring seventy feet long, and with several sails . [ dubious – discuss ] [ citation needed ] Various others exist, also. The ancient Egyptians had experience with building a variety of ships. [22] [23] [24] Some of them survive to this day as Khufu ship . [25] The ships were found in many areas of Egypt as the Abydos boats [26] [27] [28] and remnants of other ships were found near the pyramids. [27] [29] [30] Sneferu's ancient cedar wood ship Praise of the Two Lands is the first reference recorded to a ship being referred to by name. [31] Although quarter rudders were the norm in Nile navigation, the Egyptians were the first to use also stern-mounted rudders (not of the modern type but center mounted steering oars). The first warships of Ancient Egypt were constructed during the early Middle Kingdom and perhaps at the end of the Old Kingdom , but the first mention and a detailed description of a large enough and heavily armed ship dates from 16th century BC. When Thutmose III achieved warships displacement up to 360 tons and carried up to ten new heavy and light to seventeen catapults based bronze springs, called \"siege crossbow\" – more precisely, siege bows. There also appeared giant catamarans, heavy warships, by the time of Ramesses III used until the Ptolemaic dynasty . [32] According to the Greek historian Herodotus , Necho II sent out an expedition of Phoenicians , which reputedly, at some point between 610 and before 594 BC, sailed in three years  from the Red Sea around Africa to the mouth of the Nile . Some Egyptologists dispute that an Egyptian pharaoh would authorize such an expedition, [33] except for the reason of trade in the ancient maritime routes. The belief in Herodotus' account, handed down to him by oral tradition , [34] is primarily because he stated with disbelief that the Phoenicians \"as they sailed on a westerly course round the southern end of Libya (Africa), they had the sun on their right – to northward of them\" ( The Histories 4.42) – in Herodotus' time it was not generally known that Africa was surrounded by an ocean (with the southern part of Africa being thought connected to Asia [35] ). So fantastic an assertion is this of a typical example of some seafarers' story and Herodotus therefore may never have mentioned it at all, had it not been based on facts and made with the according insistence. [36] This early description of Necho's expedition as a whole is contentious, though; it is recommended that one keep an open mind on the subject, [37] but Strabo , Polybius , and Ptolemy doubted the description. Egyptologist A. B. Lloyd suggests that the Greeks at this time understood that anyone going south far enough and then turning west would have the Sun on their right but found it unbelievable that Africa reached so far south. He suggests that \"It is extremely unlikely that an Egyptian king would, or could, have acted as Necho is depicted as doing\" and that the story might have been triggered by the failure of Sataspes ' attempt to circumnavigate Africa under Xerxes the Great . [38] Regardless, it was believed by Herodotus and Pliny . [39] Much earlier, the Sea Peoples was a confederacy of seafaring raiders who sailed into the eastern shores of the Mediterranean, caused political unrest and attempted to enter or control Egyptian territory during the late 19th Dynasty , and especially during Year 8 of Ramesses III of the 20th Dynasty . [40] The Egyptian Pharaoh Merneptah explicitly refers to them by the term \"the foreign-countries (or 'peoples' [41] ) of the sea\" [42] [43] in his Great Karnak Inscription . [44] Although some scholars believe that they \"invaded\" Cyprus and the Levant , this hypothesis is disputed.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Herodotus5m1.jpg/222px-Herodotus5m1.jpg",
+                "caption": "The world according to Herodotus , 440 BC"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ancient_Egyptian_technology",
+        "title": "Ancient Egyptian technology",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Glassworking",
+        "text": "The earliest known glass beads from Egypt were made during the New Kingdom around 1500 BC and were produced in a variety of colors. They were made by winding molten glass around a metal bar and were highly prized as a trading commodity, especially blue beads, which were believed to have magical powers. The Egyptians made small jars and bottles using the core-formed method. Glass threads were wound around a bag of sand tied to a rod. The glass was continually reheated to fuse the threads together. The glass-covered sand bag was kept in motion until the required shape and thickness was achieved. The rod was allowed to cool, then finally the bag was punctured and the sand poured out and reused . The Egyptians also created the first colored glass rods which they used to create colorful beads and decorations. They also worked with cast glass, which was produced by pouring molten glass into a mold, much like iron and the more modern crucible steel . [49]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wide-necked_jar_and_lid_naming_Thutmose_III_MET_21K_CAT30_32R2.jpg/220px-Wide-necked_jar_and_lid_naming_Thutmose_III_MET_21K_CAT30_32R2.jpg",
+                "caption": "Ancient Egyptian glassware in the Metropolitan Museum of Art"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ancient_Egyptian_technology",
+        "title": "Ancient Egyptian technology",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Astronomy",
+        "text": "The Egyptians were a practical people and this is reflected in their astronomy [50] in contrast to Babylonia where the first astronomical texts were written in astrological terms. [51] Even before Upper and Lower Egypt were unified in 3000 BC, observations of the night sky had influenced the development of a religion in which many of its principal deities were heavenly bodies. In Lower Egypt , priests built circular mudbrick walls with which to make a false horizon where they could mark the position of the sun as it rose at dawn, and then with a plumb-bob note the northern or southern turning points (solstices). This allowed them to discover that the sun disc, personified as Ra, took 365 days to travel from his birthplace at the winter solstice and back to it. Meanwhile, in Upper Egypt , a lunar calendar was being developed based on the behavior of the moon and the reappearance of Sirius in its heliacal rising after its annual absence of about 70 days. [52] After unification, problems with trying to work with two calendars (both depending upon constant observation) led to a merged, simplified civil calendar with twelve 30-day months, three seasons of four months each, plus an extra five days, giving a 365-year day but with no way of accounting for the extra quarter day each year. Day and night were split into 24 units, each personified by a deity. A sundial found on Seti I's cenotaph with instructions for its use shows us that the daylight hours were at one time split into 10 units, with 12 hours for the night and an hour for the morning and evening twilights. [53] However, by Seti I's time day and night were normally divided into 12 hours each, the length of which would vary according to the time of year. Key to much of this was the motion of the sun god Ra and his annual movement along the horizon at sunrise. Out of Egyptian myths such as those around Ra and the sky goddess Nut came the development of the Egyptian calendar, time keeping, and even concepts of royalty. An astronomical ceiling in the burial chamber of Ramesses VI shows the sun being born from Nut in the morning, traveling along her body during the day and being swallowed at night. During the Fifth Dynasty six kings built sun temples in honour of Ra. The temple complexes built by Niuserre at Abu Gurab and Userkaf at Abusir have been excavated and have astronomical alignments, and the roofs of some of the buildings could have been used by observers to view the stars, calculate the hours at night and predict the sunrise for religious festivals. [ citation needed ] Claims have been made that precession of the equinoxes was known in ancient Egypt prior to the time of Hipparchus . [54] This has been disputed however on the grounds that pre-Hipparchus texts do not mention precession and that \"it is only by cunning interpretation of ancient myths and images, which are ostensibly about something else, that precession can be discerned in them, aided by some pretty esoteric numerological speculation involving the 72 years that mark one degree of shift in the zodiacal system and any number of permutations by multiplication, division, and addition.\" [55] Note however that the Egyptian observation of a slowly changing stellar alignment over a multi-year period does not necessarily mean that they understood or even cared what was going on. For instance, from the Middle Kingdom onwards they used a table with entries for each month to tell the time of night from the passing of constellations. These went in error after a few centuries because of their calendar and precession, but were copied (with scribal errors) long after they lost their practical usefulness or the possibility of understanding and use of them in the current years, rather than the years in which they were originally used.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dendera.jpg/222px-Dendera.jpg",
+                "caption": "The Dendera Zodiac was on the ceiling of the Greco-Roman temple of Hathor at Dendera"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ancient_Egyptian_technology",
+        "title": "Ancient Egyptian technology",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Medicine",
+        "text": "The Edwin Smith Papyrus is one of the first medical documents still extant, and perhaps the earliest document which attempts to describe and analyze the brain: given this, it might be seen as the very beginnings of neuroscience . However, medical historians believe that ancient Egyptian pharmacology was largely ineffective. [56] According to a paper published by Michael D. Parkins, 72% of 260 medical prescriptions in the Hearst papyrus had no curative elements. [57] According to Michael D. Parkins, sewage pharmacology first began in ancient Egypt and was continued through the Middle Ages, [56] and while the use of animal dung can have curative properties, [58] it is not without its risk. Practices such as applying cow dung to wounds, ear piercing, tattooing, and chronic ear infections were important factors in developing tetanus . [59] Frank J. Snoek wrote that Egyptian medicine used fly specks, lizard blood, swine teeth, and other such remedies which he believes could have been harmful. [60] Mummification of the dead was not always practiced in Egypt. Once the practice began, an individual was placed at a final resting place through a set of rituals and protocol. The Egyptian funeral was a complex ceremony including various monuments, prayers, and rituals undertaken in honor of the deceased. The poor, who could not afford expensive tombs, were buried in shallow graves in the sand, and because of the arid environment they were often naturally mummified.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Edwin_Smith_Papyrus_v2.jpg/220px-Edwin_Smith_Papyrus_v2.jpg",
+                "caption": "Plates vi & vii of the Edwin Smith Papyrus (around the 17th century BC), among the earliest medical texts"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ancient_Egyptian_technology",
+        "title": "Ancient Egyptian technology",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Roads and habitat fragmentation",
+        "text": "Habitat fragmentation occurs when human-made barriers such as roads , railroads , canals , electric power lines , and pipelines penetrate and divide wildlife habitat. [4] Of these, roads have the most widespread and detrimental effects. [5] Scientists estimate that the system of roads in the United States affects the ecology of at least one-fifth of the land area of the country. [6] For many years [ quantify ] ecologists and conservationists have documented the adverse relationship between roads and wildlife, [7] and identify four ways that roads and traffic detrimentally affect wildlife populations: (1) they decrease habitat amount and quality, (2) they increase mortality due to wildlife-vehicle collisions (road kill), (3) they prevent access to resources on the other side of the road, and (4) they subdivide wildlife populations into smaller and more vulnerable sub-populations (fragmentation). Habitat fragmentation can lead to extinction or extirpation if a population's gene pool is restricted enough. The first three effects (loss of habitat, road kill, and isolation from resources) exert pressure on various animal populations by reducing available resources and directly killing individuals in a population. For instance, [8] found that road kills do not pose a significant threat to healthy populations but can be devastating to small, shrinking, or threatened populations. Road mortality has significantly affected a number of prominent species in the United States, including white-tailed deer ( Odocoileus virginianus ), Florida panthers ( Puma concolor coryi ), and black bears ( Ursus americanus ). [9] In addition, habitat loss can be direct, if habitat is destroyed to make room for a road, or indirect, if habitat quality close to roads is compromised due to emissions from the roads (e.g. noise, light, runoff, pollution, etc.). [10] Finally, species that are unable to migrate across roads to reach resources such as food, shelter and mates will experience reduced reproductive and survival rates, which can compromise population viability. [11] In addition to the first three factors, numerous studies have shown that the construction and use of roads is a direct source of habitat fragmentation. [5] As mentioned above, populations surrounded by roads are less likely to receive immigrants from other habitats and as a result, they suffer from a lack of genetic diversity . These small populations are particularly vulnerable to extinction due to demographic, genetic, and environmental stochasticity because they do not contain enough alleles to adapt to new selective pressures such as changes in temperature, habitat, and food availability. [4] The relationship between roads and habitat fragmentation is well documented. One study found that roads contribute more to fragmentation in forest habitats than clear cuts. [12] Another study concluded that road fragmentation of formerly contiguous forest in eastern North America is the primary cause for the decline of forest bird species and has also significantly harmed small mammals, insects, and reptiles in the United States. [5] After years of research, biologists agree that roads and traffic lead to habitat fragmentation, isolation and road kill, all of which combine to significantly compromise the viability of wildlife populations throughout the world. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Camels_crossing.JPG/220px-Camels_crossing.JPG",
+                "caption": "Camel crossing in Kuwait"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wildlife_crossing",
+        "title": "Wildlife crossing",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Wildlife-vehicle collisions",
+        "text": "Wildlife-vehicle collisions have a significant cost for human populations because collisions damage property and injure and kill passengers and drivers. [13] estimated the number of collisions with ungulates in traffic in Europe at 507,000 per year, resulting in 300 people killed, 30,000 injured, [14] and property damage exceeding $1 billion. In parallel, 1.5 million traffic accidents involving deer in the United States cause an estimated $1.1 billion in vehicle damage each year. [15] [14] On a larger scale, research indicates that wildlife-vehicle collisions in the United States result in 29,000 injuries and more than 200 fatalities per year. [16] The conservation issues associated with roads (wildlife mortality and habitat fragmentation) coupled with the substantial human and economic costs resulting from wildlife-vehicle collisions have caused scientists, engineers, and transportation authorities to consider a number of mitigation tools for reducing the conflict between roads and wildlife. Of the currently available options, structures known as wildlife crossings have been the most successful at reducing both habitat fragmentation and wildlife-vehicle collisions caused by roads. [17] Wildlife crossings are structural passages beneath or above roadways that are designed to facilitate safe wildlife movement across roadways. [15] In recent years, conservation biologists and wildlife managers have advocated wildlife crossings coupled with roadside fencing as a way to increase road permeability and habitat connectivity while decreasing wildlife-vehicle collisions. [19] Wildlife crossing is the umbrella term encompassing underpasses, overpasses, ecoducts, green bridges, amphibian/small mammal tunnels, and wildlife viaducts ( Bank et al. 2002 ). All of these structures are designed to provide semi-natural corridors above and below roads so that animals can safely cross without endangering themselves and motorists. [20]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Animals_bridge_flathead_reservation.JPG/220px-Animals_bridge_flathead_reservation.JPG",
+                "caption": "\"Animals' Bridge\", on the Flathead Indian Reservation in Montana, used by grizzly and black bears, deer, elk, mountain lions, and others [18]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wildlife_crossing",
+        "title": "Wildlife crossing",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Banff National Park",
+        "text": "Banff National Park offers one of the best opportunities to study the effectiveness of wildlife crossings because the park contains a wide variety of species and is bisected by the Trans-Canada Highway (TCH), a large commercial road. To reduce the effects of the four-lane TCH, 24 wildlife crossings (22 underpasses and two overpasses) were built to ensure habitat connectivity and protect motorists ( Clevenger 2007 ). In 1996, Parks Canada developed a contract with university researchers to assess the effectiveness of the crossings. Subsequently, a number of publications have analyzed the crossings' effect on various species and overall wildlife mortality (see Clevenger & Waltho 2000 , Clevenger et al. 2001 , and Clevenger 2007 ). Using a variety of techniques to monitor the crossings over the last 25 years, [ when? ] scientists report that 10 species of large mammals (including deer, elk, black bear, grizzly bear , mountain lion, wolf, moose, and coyote ) have used the 24 crossings in Banff a total of 84,000 times as of January 2007 ( Clevenger 2007 ). The research also identified a \" learning curve \" such that animals need time to acclimate to the structures before they feel comfortable using them. For example, grizzly bear crossings increased from seven in 1996 to more than 100 in 2006, although the actual number of individual bears using the structures remained constant over this time at between two and four bears (Parks Canada, unpublished results). A similar set of observations was made for wolves, with crossings increasing from two to approximately 140 over the same 10-year period. However, in this case the actual number of wolves in the packs using the crossings increased dramatically, from a low of two up to a high of over 20 individuals. Clevenger et al. (2001) reported that the use of wildlife crossings and fencing reduced traffic-induced mortality of large ungulates on the TCH by more than 80 percent. Recent analysis for carnivores showed results were not as positive however, with bear mortality increasing by an average of 116 percent in direct parallel to an equal doubling of traffic volumes on the highway, clearly showing no effect of fencing to reduce bear mortality (Hallstrom, Clevenger, Maher and Whittington, in prep). Research on the crossings in Banff has thus shown mixed value of wildlife crossings depending on the species in question. Parks Canada is currently planning to build 17 additional crossing structures across the TCH to increase driver safety near the hamlet of Lake Louise . Lack of effectiveness of standard fencing in reducing bear mortality demonstrates that additional measures such as wire 'T-caps' on the fence may be needed for fencing to mitigate effectively for bears (Hallstrom, Clevenger, Maher and Whittington, in prep).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Wildlife_overpass_Trans-Canada_Hwy_between_Banff_and_LakeLouise_Alberta.jpg/220px-Wildlife_overpass_Trans-Canada_Hwy_between_Banff_and_LakeLouise_Alberta.jpg",
+                "caption": "Wildlife overpass on Trans-Canada Highway in Banff National Park"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wildlife_crossing",
+        "title": "Wildlife crossing",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Ecoducts, Netherlands",
+        "text": "The Netherlands has over 66 wildlife crossings (overpasses and ecoducts) that have been used to protect the endangered European badger , [32] as well as populations of wild boar , red deer , and roe deer . As of 2012, the Veluwe , 1,000 square kilometers (390 sq mi) of woods, heathland and drifting sands, the largest lowland nature area in North Western Europe, contains nine ecoducts, 50 meters (160 ft) wide on average, that are used to shuttle wildlife across highways that transect the Veluwe. The first two ecoducts on the Veluwe were built in 1988 across the A50 when the highway was constructed. Five of the other ecoducts on the Veluwe were built across existing highways, one was built across a two lane provincial road. The two ecoducts across the A50 were used by nearly 5,000 deer and wild boar during a one-year period ( Bank et al. 2002 ). The Netherlands also boasts the world's longest ecoduct-wildlife overpass called the Natuurbrug Zanderij Crailoo (sand quarry nature bridge at Crailo) ( Danby 2004 ). The massive structure, completed in 2006, is 50 meters (160 ft) wide and over 800 meters (2,600 ft) long and spans a railway line, business park , roadway, and sports complex ( Danby 2004 ). Monitoring is currently underway to examine the effectiveness of this innovative project combining wildlife protection with urban development. The oldest wildlife passage is Zeist West - A 28, opened in 1988.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cerviduct.jpg/220px-Cerviduct.jpg",
+                "caption": "One of the two wildlife crossings spanning the A50 highway on the Veluwe in the Netherlands"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wildlife_crossing",
+        "title": "Wildlife crossing",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Technological factors",
+        "text": "A significant factor contributing to the depletion of the cod stocks off the shores of Newfoundland included the introduction and proliferation of equipment and technology that increased the volume of landed fish. For centuries, local fishers used technology that limited the volume of their catch, the area they fished, and let them target specific species and ages of fish. [5] From the 1950s onwards, as was common in all industries, new technology was introduced that allowed fishers to trawl a larger area, fish deeper and for a longer time. By the 1960s, powerful trawlers equipped with radar , electronic navigation systems, and sonar allowed crews to pursue fish with unparalleled success, and Canadian catches peaked in the late 1970s and early 1980s. [4] The new technologies adversely affected the northern cod population by both increasing the area and depth that was fished. The cod were being depleted until the surviving fish could not replenish the stock lost each year. [4] The trawlers caught enormous amounts of non-commercial fish, which were very important ecologically. Economically unimportant incidental catch undermines ecosystem stability, depleting stocks of important predator and prey species. Significant amounts of capelin – an important prey species for the cod – were caught as bycatch , further undermining the survival of the remaining cod stock.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Time_series_for_collapse_of_Atlantic_northwest_cod.png/300px-Time_series_for_collapse_of_Atlantic_northwest_cod.png",
+                "caption": "Capture of the Atlantic northwest cod stock in million tonnes, with Canadian capture in blue [6]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Time_series_for_Atlantic_northwest_cod_minus_Canada.png/300px-Time_series_for_Atlantic_northwest_cod_minus_Canada.png",
+                "caption": "Capture of the Atlantic northwest cod stock in million tonnes, apart from Canada [6]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Collapse_of_the_Atlantic_northwest_cod_fishery",
+        "title": "Collapse of the Atlantic northwest cod fishery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Hand-gathering",
+        "text": "It is possible to harvest many sea foods with minimal equipment by using the hands. Gathering seafood by hand can be as easy as picking shellfish or kelp up off the beach , or doing some digging for clams or crabs . The earliest evidence for shellfish gathering dates back to a 300,000-year-old site in France called Terra Amata . This is a hominid site as modern Homo sapiens did not appear in Europe until around 50,000 years ago. [3] [4]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ama2.jpg/220px-Ama2.jpg",
+                "caption": "Ama diver in Japan"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Noodling_champ.jpg/220px-Noodling_champ.jpg",
+                "caption": "Noodling for catfish in southern USA"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fishing_techniques",
+        "title": "Fishing techniques",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Spearfishing",
+        "text": "Spearfishing is an ancient method of fishing conducted with an ordinary spear or a specialized variant such as a harpoon , trident , arrow or eel spear. [9] [10] Some fishing spears use slings (or rubber loops) to propel the spear.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/A_smoky_day_at_the_Sugar_Bowl--Hupa.jpg/220px-A_smoky_day_at_the_Sugar_Bowl--Hupa.jpg",
+                "caption": "A Hupa man with his spear"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fishing_techniques",
+        "title": "Fishing techniques",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Netting",
+        "text": "Fishing nets are meshes usually formed by knotting a relatively thin thread. About 180 AD the Greek author Oppian wrote the Halieutica , a didactic poem about fishing. He described various means of fishing including the use of nets cast from boats, scoop nets held open by a hoop, and various traps \"which work while their masters sleep\". Netting is the principal method of commercial fishing, though longlining , trolling , dredging and traps are also used.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kerala_fisherman.jpg/220px-Kerala_fisherman.jpg",
+                "caption": "A fisherman casting a net in Kerala , India"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Eilif_Peterssen-Laksefiskeren_%281889%29.jpg/220px-Eilif_Peterssen-Laksefiskeren_%281889%29.jpg",
+                "caption": "Oil painting of gillnetting, The salmon fisher by Eilif Peterssen"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Filipino_Painting_Letras_y_Figuras_0.jpg/220px-Filipino_Painting_Letras_y_Figuras_0.jpg",
+                "caption": "Pesca con el Sarambao (1847), a painting of salambáw fishermen in the Philippines"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fishing_techniques",
+        "title": "Fishing techniques",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Angling",
+        "text": "Angling is a method of fishing by means of an \"angle\" ( fish hook ). The hook is attached to a line , and is sometimes weighed down by a sinker so it sinks deeper in the water. This is the classic \"hook, line and sinker\" arrangement, used in angling since prehistoric times. The hook is usually dressed with lures or baits such as earthworm , doughball and bait fish . Additional arrangements include the use of a fishing rod , which can be fitted with a reel , and functions as a delivery mechanism for casting the line. Other delivery methods for projecting the line include fishing kites and cannons, kontiki rafts and remote controlled devices. Floats can also be used to help set the line or function as bite indicators .  The hook can be dressed with lures or bait . Angling is the principal method of sport fishing , but commercial fisheries also use angling methods involving multiple hooks, such as longlining or commercial trolling .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Trolling_for_bluefish2.jpg/220px-Trolling_for_bluefish2.jpg",
+                "caption": "\"Trolling for blue fish\" lithograph by Currier & Ives , 1866"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Jigging_off_Queenscliff_Pier%2C_Vic%2C_jjron_5.12.2009.jpg/220px-Jigging_off_Queenscliff_Pier%2C_Vic%2C_jjron_5.12.2009.jpg",
+                "caption": "Fishermen using jiggerpoles for jigging from the Queenscliff pier"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fishing_techniques",
+        "title": "Fishing techniques",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Line fishing",
+        "text": "Line fishing is fishing with a fishing line , but not using rods. A fishing line is any cord made for fishing. Important parameters of a fishing line are its length, material, and weight (thicker, sturdier lines are more visible to fish). Factors that may determine what line an angler chooses for a given fishing environment include breaking strength , knot strength, UV resistance, castability, limpness, stretch, abrasion resistance, and visibility. Modern fishing lines are usually made from artificial substances. The most common type is monofilament , made of a single strand. There are also braided fishing lines and thermally fused superlines .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Slabbing_jig_fishing_lure.jpg/220px-Slabbing_jig_fishing_lure.jpg",
+                "caption": "Slab"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fishing_techniques",
+        "title": "Fishing techniques",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Rod fishing",
+        "text": "Angling with fishing rods give more control of the fishing line, and allows the bait / lure to be launched much farther than hand-throwing can reach. The rod is usually fitted with a fishing reel which functions as a mechanism for storing, retrieving and paying out the line. Floats may also be used, and can function as bite indicators . The hook can be dressed with lures or baits.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Fishing_off_pier.jpg/220px-Fishing_off_pier.jpg",
+                "caption": "Angling with a rod."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/MuriwaiExtremeFishing3b.jpg/220px-MuriwaiExtremeFishing3b.jpg",
+                "caption": "Extreme rock fishing off Muriwai Beach , New Zealand"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Float-tube-pikeangler.jpg",
+                "caption": "An angler in his float tube plays a hooked pike."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fishing_techniques",
+        "title": "Fishing techniques",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    },
+    {
+        "section": "Trapping",
+        "text": "Traps are culturally almost universal and seem to have been independently invented many times. There are essentially two types of trap, a permanent or semi-permanent structure placed in a river or tidal area and pot-traps that are baited to attract prey and periodically lifted.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C4%90%C3%B3.jpg/220px-%C4%90%C3%B3.jpg",
+                "caption": "Fishermen with traditional fish traps, Hà Tây , Vietnam"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Wooden_Fish_Wheel.jpg/220px-Wooden_Fish_Wheel.jpg",
+                "caption": "A typical wooden fish wheel"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lobster_pots_at_Beer%2C_Devon.JPG/220px-Lobster_pots_at_Beer%2C_Devon.JPG",
+                "caption": "Lobster pots on the beach at Beer, Devon"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fishing_techniques",
+        "title": "Fishing techniques",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Fish passage technologies"
+    }
+]

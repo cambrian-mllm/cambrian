@@ -1,0 +1,453 @@
+[
+    {
+        "section": "Global warming potential of selected electricity sources",
+        "text": "1 see also environmental impact of reservoirs#Greenhouse gases . List of acronyms:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/CO2_Emissions_from_Electricity_Production_IPCC.png/220px-CO2_Emissions_from_Electricity_Production_IPCC.png",
+                "caption": "Life-cycle greenhouse gas emissions of electricity supply technologies, median values calculated by IPCC [3]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/UNECE_2020_Lifecycle_Emissions.png/220px-UNECE_2020_Lifecycle_Emissions.png",
+                "caption": "Lifecycle GHG emissions, in g CO 2 eq. per kWh, UNECE 2020 [5]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Life-cycle_greenhouse_gas_emissions_of_energy_sources",
+        "title": "Life-cycle greenhouse gas emissions of energy sources",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Principles of operation",
+        "text": "Flash memory stores information in an array of memory cells made from floating-gate transistors . In single-level cell (SLC) devices, each cell stores only one bit of information. Multi-level cell (MLC) devices, including triple-level cell (TLC) devices, can store more than one bit per cell. The floating gate may be conductive (typically polysilicon in most kinds of flash memory) or non-conductive (as in SONOS flash memory). [61]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flash_cell_structure.svg/350px-Flash_cell_structure.svg.png",
+                "caption": "A flash memory cell"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flash_memory",
+        "title": "Flash memory",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "NOR flash",
+        "text": "In NOR flash, each cell has one end connected directly to ground, and the other end connected directly to a bit line. This arrangement is called \"NOR flash\" because it acts like a NOR gate: when one of the word lines (connected to the cell's CG) is brought high, the corresponding storage transistor acts to pull the output bit line low. NOR flash continues to be the technology of choice for embedded applications requiring a discrete non-volatile memory device. [ citation needed ] The low read latencies characteristic of NOR devices allow for both direct code execution and data storage in a single memory product. [77]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NOR_flash_layout.svg/350px-NOR_flash_layout.svg.png",
+                "caption": "NOR flash memory wiring and structure on silicon"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flash_memory",
+        "title": "Flash memory",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Programming",
+        "text": "A single-level NOR flash cell in its default state is logically equivalent to a binary \"1\" value, because current will flow through the channel under application of an appropriate voltage to the control gate, so that the bitline voltage is pulled down. A NOR flash cell can be programmed, or set to a binary \"0\" value, by the following procedure:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flash-Programming.svg/220px-Flash-Programming.svg.png",
+                "caption": "Programming a NOR memory cell (setting it to logical 0), via hot-electron injection"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flash_erase.svg/220px-Flash_erase.svg.png",
+                "caption": "Erasing a NOR memory cell (setting it to logical 1), via quantum tunneling"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flash_memory",
+        "title": "Flash memory",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Erasing",
+        "text": "To erase a NOR flash cell (resetting it to the \"1\" state), a large voltage of the opposite polarity is applied between the CG and source terminal, pulling the electrons off the FG through Fowler–Nordheim tunneling (FN tunneling). [78] This is known as Negative gate source source erase. Newer NOR memories can erase using negative gate channel erase, which biases the wordline on a NOR memory cell block and the P-well of the memory cell block to allow FN tunneling to be carried out, erasing the cell block. Older memories used source erase, in which a high voltage was applied to the source and then electrons from the FG were moved to the source. [79] [80] Modern NOR flash memory chips are divided into erase segments (often called blocks or sectors). The erase operation can be performed only on a block-wise basis; all the cells in an erase segment must be erased together. [81] Programming of NOR cells, however, generally can be performed one byte or word at a time.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Nand_flash_structure.svg/350px-Nand_flash_structure.svg.png",
+                "caption": "NAND flash memory wiring and structure on silicon"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flash_memory",
+        "title": "Flash memory",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Vertical NAND",
+        "text": "Vertical NAND (V-NAND) or 3D NAND memory stacks memory cells vertically and uses a charge trap flash architecture. The vertical layers allow larger areal bit densities without requiring smaller individual cells. [83] It is also sold under the trademark BiCS Flash , which is a trademark of Kioxia Corporation (formerly Toshiba Memory Corporation). 3D NAND was first announced by Toshiba in 2007. [45] V-NAND was first commercially manufactured by Samsung Electronics in 2013. [46] [47] [84] [85]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/NAND_Flash_Bit_Cost_from_2D_to_3D.png/300px-NAND_Flash_Bit_Cost_from_2D_to_3D.png",
+                "caption": "3D NAND continues scaling beyond 2D."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flash_memory",
+        "title": "Flash memory",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Cost",
+        "text": "The wafer cost of a 3D NAND is comparable with scaled down (32 nm or less) planar NAND flash. [91] However, with planar NAND scaling stopping at 16 nm, the cost per bit reduction can continue by 3D NAND starting with 16 layers. However, due to the non-vertical sidewall of the hole etched through the layers; even a slight deviation leads to a minimum bit cost, i.e., minimum equivalent design rule (or maximum density), for a given number of layers; this minimum bit cost layer number decreases for smaller hole diameter. [92]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/3D_NAND_minimum_cost_example.png/300px-3D_NAND_minimum_cost_example.png",
+                "caption": "Minimum bit cost of 3D NAND from non-vertical sidewall. The top opening widens with more layers, counteracting the increase in bit density."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flash_memory",
+        "title": "Flash memory",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Data retention",
+        "text": "Data stored on flash cells is steadily lost due to electron detrapping [ definition needed ] . The rate of loss increases exponentially as the absolute temperature increases. For example: For a 45 nm NOR flash, at 1000 hours, the threshold voltage (Vt) loss at 25 deg Celsius is about half that at 90 deg Celsius. [94]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Micron_45_nm_NOR_Flash_Data_Retention.png/300px-Micron_45_nm_NOR_Flash_Data_Retention.png",
+                "caption": "45nm NOR flash memory example of data retention varying with temperatures"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flash_memory",
+        "title": "Flash memory",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "NOR memories",
+        "text": "Reading from NOR flash is similar to reading from random-access memory, provided the address and data bus are mapped correctly. Because of this, most microprocessors can use NOR flash memory as execute in place (XIP) memory, [108] meaning that programs stored in NOR flash can be executed directly from the NOR flash without needing to be copied into RAM first. NOR flash may be programmed in a random-access manner similar to reading. Programming changes bits from a logical one to a zero. Bits that are already zero are left unchanged. Erasure must happen a block at a time, and resets all the bits in the erased block back to one. Typical block sizes are 64, 128, or 256 KiB . Bad block management is a relatively new feature in NOR chips. In older NOR devices not supporting bad block management, the software or device driver controlling the memory chip must correct for blocks that wear out, or the device will cease to work reliably. The specific commands used to lock, unlock, program, or erase NOR memories differ for each manufacturer. To avoid needing unique driver software for every device made, special Common Flash Memory Interface (CFI) commands allow the device to identify itself and its critical operating parameters. Besides its use as random-access ROM, NOR flash can also be used as a storage device, by taking advantage of random-access programming. Some devices offer read-while-write functionality so that code continues to execute even while a program or erase operation is occurring in the background. For sequential data writes, NOR flash chips typically have slow write speeds, compared with NAND flash. Typical NOR flash does not need an error correcting code . [109]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IPhone_3G_teardown_-_Intel_3050M0Y0CE_-3303.jpg/220px-IPhone_3G_teardown_-_Intel_3050M0Y0CE_-3303.jpg",
+                "caption": "NOR flash by Intel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flash_memory",
+        "title": "Flash memory",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Serial flash",
+        "text": "Serial flash is a small, low-power flash memory that provides only serial access to the data - rather than addressing individual bytes, the user reads or writes large contiguous groups of bytes in the address space serially. Serial Peripheral Interface Bus (SPI) is a typical protocol for accessing the device. \nWhen incorporated into an embedded system , serial flash requires fewer wires on the PCB than parallel flash memories, since it transmits and receives data one bit at a time. This may permit a reduction in board space, power consumption, and total system cost. There are several reasons why a serial device, with fewer external pins than a parallel device, can significantly reduce overall cost: There are two major SPI flash types. The first type is characterized by small pages and one or more internal SRAM page buffers allowing a complete page to be read to the buffer, partially modified, and then written back (for example, the Atmel AT45 DataFlash or the Micron Technology Page Erase NOR Flash). The second type has larger sectors where the smallest sectors typically found in this type of SPI flash are 4 kB, but they can be as large as 64 kB. Since this type of SPI flash lacks an internal SRAM buffer, the complete page must be read out and modified before being written back, making it slow to manage. However, the second type is cheaper than the first and is therefore a good choice when the application is code shadowing. The two types are not easily exchangeable, since they do not have the same pinout, and the command sets are incompatible. Most FPGAs are based on SRAM configuration cells and require an external configuration device, often a serial flash chip, to reload the configuration bitstream every power cycle. [178]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/IPhone_3G_teardown_-_Silicon_Storage_Tech_SST25VF080B-3309.jpg/220px-IPhone_3G_teardown_-_Silicon_Storage_Tech_SST25VF080B-3309.jpg",
+                "caption": "Serial Flash: Silicon Storage Tech SST25VF080B"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flash_memory",
+        "title": "Flash memory",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Flash memory as a replacement for hard drives",
+        "text": "One more recent application for flash memory is as a replacement for hard disks . Flash memory does not have the mechanical limitations and latencies of hard drives, so a solid-state drive (SSD) is attractive when considering speed, noise, power consumption, and reliability. Flash drives are gaining traction as mobile device secondary storage devices; they are also used as substitutes for hard drives in high-performance desktop computers and some servers with RAID and SAN architectures. There remain some aspects of flash-based SSDs that make them unattractive. The cost per gigabyte of flash memory remains significantly higher than that of hard disks. [180] Also flash memory has a finite number of P/E ( program/erase ) cycles, but this seems to be currently under control since warranties on flash-based SSDs are approaching those of current hard drives. [181] In addition, deleted files on SSDs can remain for an indefinite period of time before being overwritten by fresh data; erasure or shred techniques or software that work well on magnetic hard disk drives have no effect on SSDs, compromising security and forensic examination. However, due to the so-called TRIM command employed by most solid state drives, which marks the logical block addresses occupied by the deleted file as unused to enable garbage collection , data recovery software is not able to restore files deleted from such. For relational databases or other systems that require ACID transactions, even a modest amount of flash storage can offer vast speedups over arrays of disk drives. [182] In May 2006, Samsung Electronics announced two flash-memory based PCs, the Q1-SSD and Q30-SSD were expected to become available in June 2006, both of which used 32 GB SSDs, and were at least initially available only in South Korea . [183] The Q1-SSD and Q30-SSD launch was delayed and finally was shipped in late August 2006. [184] The first flash-memory based PC to become available was the Sony Vaio UX90, announced for pre-order on 27 June 2006 and began to be shipped in Japan on 3 July 2006 with a 16Gb flash memory hard drive. [185] In late September 2006 Sony upgraded the flash-memory in the Vaio UX90 to 32Gb. [186] A solid-state drive was offered as an option with the first MacBook Air introduced in 2008, and from 2010 onwards, all models were shipped with an SSD. Starting in late 2011, as part of Intel 's Ultrabook initiative, an increasing number of ultra-thin laptops are being shipped with SSDs standard. There are also hybrid techniques such as hybrid drive and ReadyBoost that attempt to combine the advantages of both technologies, using flash as a high-speed non-volatile cache for files on the disk that are often referenced, but rarely modified, such as application and operating system executable files.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Intel_525_mSATA_SSD.jpg/220px-Intel_525_mSATA_SSD.jpg",
+                "caption": "An Intel mSATA SSD in 2020"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flash_memory",
+        "title": "Flash memory",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Pharmaceuticals",
+        "text": "The expiration date of pharmaceuticals specifies the date the manufacturer guarantees the full potency and safety of a drug. Most medications continue to be effective and safe for a time after the expiration date. A rare exception is a case of renal tubular acidosis purportedly caused by expired tetracycline . [9] A study conducted by the U.S. Food and Drug Administration covered over 100 drugs, prescription and over-the-counter. The study showed that about 90% of them were safe and effective as long as 15 years past their expiration dates. Joel Davis, a former FDA expiration-date compliance chief, said that with a handful of exceptions - notably nitroglycerin, insulin and some liquid antibiotics - most expired drugs are probably effective. [10] Shelf life is not significantly studied during drug development [ dubious – discuss ] , and drug manufacturers have economic and liability incentives to specify shorter shelf lives so that consumers are encouraged to discard and repurchase products. One major exception is the Shelf Life Extension Program (SLEP) of the U.S. Department of Defense (DoD), which commissioned a major study of drug efficacy from the FDA starting in the mid-1980s. One criticism is that the U.S. Food and Drug Administration (FDA) refused to issue guidelines based on SLEP research for normal marketing of pharmaceuticals even though the FDA performed the study. The SLEP and FDA signed a memorandum that scientific data could not be shared with the public, public health departments, other government agencies, and drug manufacturers. [11] State and local programs are not permitted to participate. [12] The failure to share data has caused foreign governments to refuse donations of expired medications. [13] One exception occurred during the 2010 Swine Flu Epidemic when the FDA authorized expired Tamiflu based on SLEP Data. [14] The SLEP discovered that drugs such as Cipro remained effective nine years after their shelf life, and, as a cost-saving measure, the US military routinely uses a wide range of SLEP tested products past their official shelf life if drugs have been stored properly. [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Heat_Sealing_Film_for_Permeability_Test.jpg/170px-Heat_Sealing_Film_for_Permeability_Test.jpg",
+                "caption": "Package testing : heat sealing film for evaluation of shelf life of lettuce"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Shelf_life",
+        "title": "Shelf life",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Structure and working",
+        "text": "Simple designs include a simple glass-topped insulated box with a flat solar absorber made of dark-colored sheet metal, attached to copper heat exchanger pipes , or a set of metal tubes surrounded by an evacuated (near vacuum) glass cylinder. In industrial cases a parabolic mirror can concentrate sunlight on the tube. Heat is stored in a hot water storage tank . The volume of this tank needs to be larger with solar heating systems to compensate for bad weather [ clarification needed ] and because the optimum final temperature for the solar collector [ clarification needed ] is lower than a typical immersion or combustion heater. The heat transfer fluid (HTF) for the absorber may be  water, but more commonly (at least in active systems) is a separate loop of fluid containing anti-freeze and a corrosion inhibitor delivers heat to the tank through a heat exchanger (commonly a coil of copper heat exchanger tubing within the tank). Copper is an important component in solar thermal heating and cooling systems because of its high heat conductivity, atmospheric and water corrosion resistance, sealing and joining by soldering and mechanical strength. Copper is used both in receivers and primary circuits (pipes and heat exchangers for water tanks). [17] The 'drain-back' is another lower-maintenance concept. [18] No anti-freeze is required; instead, all the piping is sloped to cause water to drain back to the tank. The tank is not pressurized and operates at atmospheric pressure. As soon as the pump shuts off, flow reverses and the pipes empty before freezing can occur. Residential solar thermal installations fall into two groups: passive (sometimes called \"compact\") and active (sometimes called \"pumped\") systems. Both typically include an auxiliary energy source (electric heating element or connection to a gas or fuel oil central heating system) that is activated when the water in the tank falls below a minimum temperature setting, ensuring that hot water is always available. The combination of solar water heating and back-up heat from a wood stove chimney [19] can enable a hot water system to work all year round in cooler climates, without the supplemental heat requirement of a solar water heating system being met with fossil fuels or electricity. When a solar water heating and hot-water central heating system are used together, solar heat will either be concentrated in a pre-heating tank that feeds into the tank heated by the central heating , or the solar heat exchanger will replace the lower heating element and the upper element will remain to provide for supplemental heat. However, the primary need for central heating is at night and in winter when solar gain is lower. Therefore, solar water heating for washing and bathing is often a better application than central heating because supply and demand are better matched. In many climates, a solar hot water system can provide up to 85% of domestic hot water energy. This can include domestic non-electric concentrating solar thermal systems. In many northern European countries, combined hot water and space heating systems ( solar combisystems ) are used to provide 15 to 25% of home heating energy. When combined with storage , large scale solar heating can provide 50-97% of annual heat consumption for district heating . [20] [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Solar_Hot_Water_Diagram.png/220px-Solar_Hot_Water_Diagram.png",
+                "caption": "How a solar hot water system works"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_water_heating",
+        "title": "Solar water heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Direct",
+        "text": "Direct or open loop systems circulate potable water through the collectors. They are relatively cheap. Drawbacks include: The advent of freeze-tolerant designs expanded the market for SWH to colder climates. In freezing conditions, earlier models were damaged when the water turned to ice, rupturing one or more components.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/DirectSolarSystems.jpg/310px-DirectSolarSystems.jpg",
+                "caption": "Direct systems: (A) Passive CHS system with tank above collector. (B) Active system with pump and controller driven by a photovoltaic panel."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_water_heating",
+        "title": "Solar water heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Passive direct systems",
+        "text": "An integrated collector storage (ICS or batch heater) system uses a tank that acts as both storage and collector. Batch heaters are thin rectilinear tanks with a glass side facing the Sun at noon . They are simple and less costly than plate and tube collectors, but they may require bracing if installed on a roof (to support 400–700 lb (180–320 kg) lbs of water), suffer from significant heat loss at night since the side facing the sun is largely uninsulated and are only suitable in moderate climates. A convection heat storage unit (CHS) system is similar to an ICS system, except the storage tank and collector are physically separated and transfer between the two is driven by convection. CHS systems typically use standard flat-plate type or evacuated tube collectors. The storage tank must be located above the collectors for convection to work properly. The main benefit of CHS systems over ICS systems is that heat loss is largely avoided since the storage tank can be fully insulated. Since the panels are located below the storage tank, heat loss does not cause convection, as the cold water stays at the lowest part of the system.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Batch_solar_thermal_collectorColour.jpg/220px-Batch_solar_thermal_collectorColour.jpg",
+                "caption": "An integrated collector storage (ICS) system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_water_heating",
+        "title": "Solar water heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Collector",
+        "text": "Solar thermal collectors capture and retain heat from the sun and use it to heat a liquid. [27] Two important physical principles govern the technology of solar thermal collectors:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flat-plate_solar_thermal_collector%2C_viewed_from_roof-level.png/220px-Flat-plate_solar_thermal_collector%2C_viewed_from_roof-level.png",
+                "caption": "Flat-plate solar thermal collector, viewed from roof-level"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_water_heating",
+        "title": "Solar water heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Evacuated tube",
+        "text": "Evacuated tube collectors (ETC) are a way to reduce the heat loss, [29] inherent in flat plates. Since heat loss due to convection cannot cross a vacuum, it forms an efficient isolation mechanism to keep heat inside the collector pipes. [31] Since two flat glass sheets are generally not strong enough to withstand a vacuum, the vacuum is created between two concentric tubes. Typically, the water piping in an ETC is therefore surrounded by two concentric tubes of glass separated by a vacuum that admits heat from the sun (to heat the pipe) but that limits heat loss. The inner tube is coated with a thermal absorber. [32] Vacuum life varies from collector to collector, from 5 years to 15 years. Flat plate collectors are generally more efficient than ETC in full sunshine conditions. However, the energy output of flat plate collectors is reduced slightly more than ETCs in cloudy or extremely cold conditions. [29] Most ETCs are made out of annealed glass, which is susceptible to hail , failing given roughly golf ball -sized particles. ETCs made from \"coke glass\", which has a green tint, are stronger and less likely to lose their vacuum, but efficiency is slightly reduced due to reduced transparency. ETCs can gather energy from the sun all day long at low angles due to their tubular shape. [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Sistema_por_Hidroneumatico_%28Calentador_solar_para_alta_presi%C3%B3n%29.JPG/220px-Sistema_por_Hidroneumatico_%28Calentador_solar_para_alta_presi%C3%B3n%29.JPG",
+                "caption": "Evacuated tube solar water heater on a roof"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_water_heating",
+        "title": "Solar water heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Energy production",
+        "text": "The amount of heat delivered by a solar water heating system depends primarily on the amount of heat delivered by the sun at a particular place ( insolation ). In the tropics insolation can be relatively high, e.g. 7 kWh/m 2 per day, versus e.g., 3.2 kWh/m 2 per day in temperate areas. Even at the same latitude average insolation can vary a great deal from location to location due to differences in local weather patterns and the amount of overcast. Calculators are available for estimating insolation at a site. [44] [45] [46] Below is a table that gives a rough indication of the specifications and energy that could be expected from a solar water heating system involving some 2 m 2 of absorber area of the collector, demonstrating two evacuated tube and three flat plate solar water heating systems. Certification information or figures calculated from those data are used. The bottom two rows give estimates for daily energy production (kWh/day) for a tropical and a temperate scenario. These estimates are for heating water to 50 °C above ambient temperature. With most solar water heating systems, the energy output scales linearly with the collector surface area. [47] The figures are fairly similar between the above collectors, yielding some 4 kWh/day in a temperate climate and some 8 kWh/day in a tropical climate when using a collector with a 2 m 2 absorber. In the temperate scenario this is sufficient to heat 200 litres of water by some 17 °C. In the tropical scenario the equivalent heating would be by some 33 °C. Many thermosiphon systems have comparable energy output to equivalent active systems. The efficiency of evacuated tube collectors is somewhat lower than for flat plate collectors because the absorbers are narrower than the tubes and the tubes have space between them, resulting in a significantly larger percentage of inactive overall collector area. Some methods of comparison [48] calculate the efficiency of evacuated tube collectors based on the actual absorber area and not on the space occupied as has been done in the above table. Efficiency is reduced at higher temperatures.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Laundromat-SolarCell.png/220px-Laundromat-SolarCell.png",
+                "caption": "A laundromat in California with panels on the roof providing hot washing water"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_water_heating",
+        "title": "Solar water heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Solar cells",
+        "text": "Photovoltaics are best known as a method for generating electric power by using solar cells to convert energy from the sun into a flow of electrons by the photovoltaic effect . [15] [16] Solar cells produce direct current electricity from sunlight which can be used to power equipment or to recharge batteries . The first practical application of photovoltaics was to power orbiting satellites and other spacecraft , but today the majority of photovoltaic modules are used for grid-connected systems for power generation. In this case an inverter is required to convert the DC to AC . There is also a smaller market for stand alone systems for remote dwellings, boats , recreational vehicles , electric cars , roadside emergency telephones, remote sensing , and cathodic protection of pipelines . Photovoltaic power generation employs solar modules composed of a number of solar cells containing a semiconductor material. [17] Copper solar cables connect modules (module cable), arrays (array cable), and sub-fields. Because of the growing demand for renewable energy sources, the manufacturing of solar cells and photovoltaic arrays has advanced considerably in recent years. [18] [19] [20] Cells require protection from the environment and are usually packaged tightly in solar modules. Photovoltaic module power is measured under standard test conditions (STC) in \"W p \" ( watts peak ). [21] The actual power output at a particular place may be less than or greater than this rated value, depending on geographical location, time of day, weather conditions, and other factors. [22] Solar photovoltaic array capacity factors are typically under 25% when not coupled with storage, which is lower than many other industrial sources of electricity. [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Solar_cell.png/260px-Solar_cell.png",
+                "caption": "Solar cells generate electricity directly from sunlight ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/World_PVOUT_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png/260px-World_PVOUT_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png",
+                "caption": "Photovoltaic power potential map estimates, how many kWh of electricity can be produced from a 1 kWp free-standing c-Si modules, optimally inclined towards the Equator. The resulting long-term average is calculated based on weather data of at least 10 recent years."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaics",
+        "title": "Photovoltaics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Performance and degradation",
+        "text": "Module performance is generally rated under standard test conditions (STC): irradiance of 1,000 W/m 2 , solar spectrum of AM 1.5 and module temperature at 25 °C. [34] The actual voltage and current output of the module changes as lighting, temperature and load conditions change, so there is never one specific voltage at which the module operates. Performance varies depending on geographic location, time of day, the day of the year, amount of solar irradiance , direction and tilt of modules, cloud cover, shading, soiling , state of charge, and temperature. Performance of a module or panel can be measured at different time intervals with a DC clamp meter or shunt and logged, graphed, or charted with a chart recorder or data logger. For optimum performance, a solar panel needs to be made of similar modules oriented in the same direction perpendicular to direct sunlight. Bypass diodes are used to circumvent broken or shaded panels and optimize output. These bypass diodes are usually placed along groups of solar cells to create a continuous flow. [35] Electrical characteristics include nominal power (P MAX , measured in W ), open-circuit voltage (V OC ), short-circuit current (I SC , measured in amperes ), maximum power voltage (V MPP ), maximum power current (I MPP ), peak power ( watt-peak , W p ), and module efficiency (%). Open-circuit voltage or V OC is the maximum voltage the module can produce when not connected to an electrical circuit or system. [36] V OC can be measured with a voltmeter directly on an illuminated module's terminals or on its disconnected cable. The peak power rating, W p , is the maximum output under standard test conditions (not the maximum possible output). Typical modules, which could measure approximately 1 by 2 metres (3 ft × 7 ft), will be rated from as low as 75 W to as high as 600 W, depending on their efficiency. At the time of testing, the test modules are binned according to their test results, and a typical manufacturer might rate their modules in 5 W increments, and either rate them at +/- 3%, +/-5%, +3/-0% or +5/-0%. [37] [38] [39]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Variability_of_Solar_Energy.jpg/220px-Variability_of_Solar_Energy.jpg",
+                "caption": "This chart illustrates the effect of clouds on solar energy production."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaics",
+        "title": "Photovoltaics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Hardware costs",
+        "text": "In 1977 crystalline silicon solar cell prices were at $76.67/W. [83] Although wholesale module prices remained flat at around $3.50 to $4.00/W in the early 2000s due to high demand in Germany and Spain afforded by generous subsidies and shortage of polysilicon, demand crashed with the abrupt ending of Spanish subsidies after the market crash of 2008, and the price dropped rapidly to $2.00/W. Manufacturers were able to maintain a positive operating margin despite a 50% drop in income due to innovation and reductions in costs. In late 2011, factory-gate prices for crystalline-silicon photovoltaic modules suddenly dropped below the $1.00/W mark, taking many in the industry by surprise, and has caused a number of solar manufacturing companies to go bankrupt throughout the world. The $1.00/W cost is often regarded in the PV industry as marking the achievement of grid parity for PV, but most experts do not believe this price point is sustainable. Technological advancements, manufacturing process improvements, and industry re-structuring, may mean that further price reductions are possible. [3] The average retail price of solar cells as monitored by the Solarbuzz group fell from $3.50/watt to $2.43/watt over the course of 2011. [84] In 2013 wholesale prices had fallen to $0.74/W. [83] This has been cited as evidence supporting ' Swanson's law ', an observation similar to the famous Moore's Law , which claims that solar cell prices fall 20% for every doubling of industry capacity. [83] The Fraunhofer Institute defines the 'learning rate' as the drop in prices as the cumulative production doubles, some 25% between 1980 and 2010. Although the prices for modules have dropped quickly, current inverter prices have dropped at a much lower rate, and in 2019 constitute over 61% of the cost per kWp, from a quarter in the early 2000s. [55] Note that the prices mentioned above are for bare modules, another way of looking at module prices is to include installation costs. In the US, according to the Solar Energy Industries Association, the price of installed rooftop PV modules for homeowners fell from $9.00/W in 2006 to $5.46/W in 2011. Including the prices paid by industrial installations, the national installed price drops to $3.45/W. This is markedly higher than elsewhere in the world, in Germany homeowner rooftop installations averaged at $2.24/W. The cost differences are thought to be primarily based on the higher regulatory burden and lack of a national solar policy in the US. [85] By the end of 2012 Chinese manufacturers had production costs of $0.50/W in the cheapest modules. [86] In some markets distributors of these modules can earn a considerable margin, buying at factory-gate price and selling at the highest price the market can support ('value-based pricing'). [3] In California PV reached grid parity in 2011, which is usually defined as PV production costs at or below retail electricity prices (though often still above the power station prices for coal or gas-fired generation without their distribution and other costs). [87] Grid parity had been reached in 19 markets in 2014. [88] [89]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg/220px-1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg.png",
+                "caption": "Swanson's law –stating that solar module prices have dropped about 20% for each doubling of installed capacity—defines the \" learning rate \" of solar photovoltaics. [82]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaics",
+        "title": "Photovoltaics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Levelised cost of electricity",
+        "text": "The levelised cost of electricity (LCOE) is the cost per kWh based on the costs distributed over the project lifetime, and is thought to be a better metric for calculating viability than price per wattage. LCOEs vary dramatically depending on the location. [3] The LCOE can be considered the minimum price customers will have to pay the utility company in order for it to break even on the investment in a new power station. [5] Grid parity is roughly achieved when the LCOE falls to a similar price as conventional local grid prices, although in actuality the calculations are not directly comparable. [90] Large industrial PV installations had reached grid parity in California in 2011. [80] [90] Grid parity for rooftop systems was still believed to be much farther away at this time. [90] Many LCOE calculations are not thought to be accurate, and a large amount of assumptions are required. [3] [90] Module prices may drop further, and the LCOE for solar may correspondingly drop in the future. [91] Because energy demands rise and fall over the course of the day, and solar power is limited by the fact that the sun sets, solar power companies must also factor in the additional costs of supplying a more stable alternative energy supplies to the grid in order to stabilize the system, or storing the energy somehow (current battery technology cannot store enough power). These costs are not factored into LCOE calculations, nor are special subsidies or premiums that may make buying solar power more attractive. [5] The unreliability and temporal variation in generation of solar and wind power is a major problem. Too much of these volatile power sources can cause instability of the entire grid. [92] As of 2017 power-purchase agreement prices for solar farms below $0.05/kWh are common in the United States, and the lowest bids in some Persian Gulf countries were about $0.03/kWh. [93] The goal of the United States Department of Energy is to achieve a levelised cost of energy for solar PV of $0.03/kWh for utility companies. [94]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/AWM-Munich-ETFE-Cushions-Photovoltaic.jpg/260px-AWM-Munich-ETFE-Cushions-Photovoltaic.jpg",
+                "caption": "AWM Munich ETFE Cushions-Photovoltaics"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaics",
+        "title": "Photovoltaics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Growth",
+        "text": "Solar photovoltaics formed the largest body of research among the seven sustainable energy types examined in a global bibliometric study, with the annual scientific output growing from 9,094 publications in 2011 to 14,447 publications in 2019. [100] Likewise, the application of solar photovoltaics is growing rapidly and the worldwide installed capacity reached one terawatt in April 2022. [101] The total power output of the world's PV capacity in a calendar year is now beyond 500 TWh of electricity. This represents 2% of worldwide electricity demand. More than 100 countries , such as Brazil and India , use solar PV. [102] [103] China is followed by the United States and Japan , while installations in Germany , once the world's largest producer, have been slowing down. Honduras generated the highest percentage of its energy from solar in 2019, 14.8%. [104] As of 2019, Vietnam has the highest installed capacity in Southeast Asia, about 4.5 GW. [105] The annualized installation rate of about 90 W per capita per annum places Vietnam among world leaders. [105] Generous Feed-in tariff (FIT) and government supporting policies such as tax exemptions were the key to enable Vietnam's solar PV boom. Underlying drivers include the government's desire to enhance energy self-sufficiency and the public's demand for local environmental quality. [105] A key barrier is limited transmission grid capacity. [105] China has the world's largest solar power capacity, with 390 GW of installed capacity in 2022 compared with about 200 GW in the European Union, according to International Energy Agency data. [106] Other countries with the world's largest solar power capacities include the United States, Japan and Germany.  In 2017, it was thought probable that by 2030 global PV installed capacities could be between 3,000 and 10,000 GW. [93] Greenpeace in 2010 claimed that 1,845 GW of PV systems worldwide could be generating approximately 2,646 TWh/year of electricity by 2030, and by 2050 over 20% of all electricity could be provided by PV. [108]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PV_cume_semi_log_chart_2014_estimate.svg/260px-PV_cume_semi_log_chart_2014_estimate.svg.png",
+                "caption": "Worldwide growth of photovoltaics on a semi-log plot since 1992"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaics",
+        "title": "Photovoltaics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Efficiency",
+        "text": "In 2019, the world record for solar cell efficiency at 47.1% was achieved by using multi-junction concentrator solar cells, developed at National Renewable Energy Laboratory, Colorado, US. [141] The highest efficiencies achieved without concentration include a material by Sharp Corporation at 35.8% using a proprietary triple-junction manufacturing technology in 2009, [142] and Boeing Spectrolab (40.7% also using a triple-layer design). There is an ongoing effort to increase the conversion efficiency of PV cells and modules, primarily for competitive advantage. In order to increase the efficiency of solar cells, it is important to choose a semiconductor material with an appropriate band gap that matches the solar spectrum. This will enhance the electrical and optical properties. Improving the method of charge collection is also useful for increasing the efficiency. There are several groups of materials that are being developed. Ultrahigh-efficiency devices (η>30%) [143] are made by using GaAs and GaInP2 semiconductors with multijunction tandem cells. High-quality, single-crystal silicon materials are used to achieve high-efficiency, low cost cells (η>20%). Recent developments in organic photovoltaic cells (OPVs) have made significant advancements in power conversion efficiency from 3% to over 15% since their introduction in the 1980s. [144] To date, the highest reported power conversion efficiency ranges 6.7–8.94% for small molecule, 8.4–10.6% for polymer OPVs, and 7–21% for perovskite OPVs. [145] [146] OPVs are expected to play a major role in the PV market. Recent improvements have increased the efficiency and lowered cost, while remaining environmentally-benign and renewable. Several companies have begun embedding power optimizers into PV modules called smart modules . These modules perform maximum power point tracking (MPPT) for each module individually, measure performance data for monitoring, and provide additional safety features. Such modules can also compensate for shading effects, wherein a shadow falling across a section of a module causes the electrical output of one or more strings of cells in the module to decrease. [147] One of the major causes for the decreased performance of cells is overheating. The efficiency of a solar cell declines by about 0.5% for every 1 degree Celsius increase in temperature. This means that a 100 degree increase in surface temperature could decrease the efficiency of a solar cell by about half. Self-cooling solar cells are one solution to this problem. Rather than using energy to cool the surface, pyramid and cone shapes can be formed from silica , and attached to the surface of a solar panel. Doing so allows visible light to reach the solar cells , but reflects infrared rays (which carry heat). [148]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Best_Research-Cell_Efficiencies.png/330px-Best_Research-Cell_Efficiencies.png",
+                "caption": "Best research-cell efficiencies"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaics",
+        "title": "Photovoltaics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Disadvantages",
+        "text": "For behind-the-meter rooftop photovoltaic systems, the energy flow becomes two-way. When there is more local generation than consumption, electricity is exported to the grid, allowing for net metering . However, electricity networks traditionally are not designed to deal with two-way energy transfer, which may introduce technical issues. An over-voltage issue may come out as the electricity flows from these PV households back to the network. [162] There are solutions to manage the over-voltage issue, such as regulating PV inverter power factor, new voltage and energy control equipment at electricity distributor level, re-conductor the electricity wires, demand side management, etc. There are often limitations and costs related to these solutions. High generation during the middle of the day reduces the net generation demand, but higher peak net demand as the sun goes down can require rapid ramping of utility generating stations, producing a load profile called the duck curve . There is no silver bullet in electricity or energy demand and bill management, because customers (sites) have different specific situations, e.g. different comfort/convenience needs, different electricity tariffs, or different usage patterns. Electricity tariff may have a few elements, such as daily access and metering charge, energy charge (based on kWh, MWh) or peak demand charge (e.g. a price for the highest 30min energy consumption in a month). PV is a promising option for reducing energy charges when electricity prices are reasonably high and continuously increasing, such as in Australia and Germany. However, for sites with peak demand charge in place, PV may be less attractive if peak demands mostly occur in the late afternoon to early evening, for example in residential communities. Overall, energy investment is largely an economic decision and it is better to make investment decisions based on systematic evaluation of options in operational improvement, energy efficiency, onsite generation and energy storage. [163] [164]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Renewables_need_flexible_backup_not_baseload.png/220px-Renewables_need_flexible_backup_not_baseload.png",
+                "caption": "Grids with high penetration of renewable energy sources generally need more flexible generation rather than baseload generation."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Photovoltaics",
+        "title": "Photovoltaics",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Reducing environmental impact",
+        "text": "Buildings represent a large part of energy, electricity, water and materials consumption. As of 2020, they account for 37% of global energy use and energy-related CO 2 emissions, which the United Nations estimate contributed to 33% of overall worldwide emissions. [8] [9] Including the manufacturing of building materials, the global CO 2 emissions were 39%. [10] If new technologies in construction are not adopted during this time of rapid growth, emissions could double by 2050, according to the United Nations Environment Program . Glass buildings, especially all-glass skyscrapers, contribute significantly to climate change due to their energy inefficiency. While these structures are visually appealing and allow abundant natural light, they also trap heat, necessitating increased use of air conditioning systems, which contribute to higher carbon emissions. Experts advocate for design modifications and potential restrictions on all-glass edifices to mitigate their detrimental environmental impact. [11] [12] Buildings account for a large amount of land. According to the National Resources Inventory , approximately 107 million acres (430,000 km 2 ) of land in the United States are developed. The International Energy Agency released a publication that estimated that existing buildings are responsible for more than 40% of the world's total primary energy consumption and for 24% of global carbon dioxide emissions. [13] [14] According to Global status report from the year 2016, buildings consume more than 30% of all produced energy. The report states that \"Under a below 2°C trajectory, effective action to improve building energy efficiency could limit building final energy demand to just above current levels, meaning that the average energy intensity of the global building stock would decrease by more than 80% by 2050\". [15] Green building practices aim to reduce the environmental impact of building as the building sector has the greatest potential to deliver significant cuts in emissions at little or no cost. General guidelines can be summarized as follows: Every building should be as small as possible. Avoid contributing to sprawl , even if the most energy-efficient, environmentally sound methods are used in design and construction. Bioclimatic design principles are able to reduce energy expenditure and by extension, carbon emissions. Bioclimatic design is a method of building design that takes local climate into account to create comfortable conditions within the structure. [16] [17] This could be as simple as constructing a different shape for the building envelope or facing the building towards the south to maximize solar exposure for energy or lighting purposes. Given the limitations of city planned construction, bioclimatic principles may be employed on a lesser scale, however it is still an effective passive method to reduce environmental impact.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hanging_gardens_of_One_Central_Park%2C_Sydney.jpg/220px-Hanging_gardens_of_One_Central_Park%2C_Sydney.jpg",
+                "caption": "Hanging gardens of One Central Park , Sydney"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Green_building",
+        "title": "Green building",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Goals of green building",
+        "text": "The concept of sustainable development can be traced to the energy (especially fossil oil ) crisis and environmental pollution concerns of the 1960s and 1970s. [19] The Rachel Carson book, \" Silent Spring \", [20] published in 1962, is considered to be one of the first initial efforts to describe sustainable development as related to green building. [19] The green building movement in the U.S. originated from the need and desire for more energy efficient and environmentally friendly construction practices. There are a number of motives for building green, including environmental, economic, and social benefits. [1] However, modern sustainability initiatives call for an integrated and synergistic design to both new construction and in the retrofitting of existing structures. Also known as sustainable design , this approach integrates the building life-cycle with each green practice employed with a design-purpose to create a synergy among the practices used. Green building brings together a vast array of practices, techniques, and skills to reduce and ultimately eliminate the impacts of buildings on the environment and human health. It often emphasizes taking advantage of renewable resources , e.g., using sunlight through passive solar , active solar , and photovoltaic equipment, and using plants and trees through green roofs , rain gardens , and reduction of rainwater run-off. Many other techniques are used, such as using low-impact building materials or using packed gravel or permeable concrete instead of conventional concrete or asphalt to enhance replenishment of groundwater. While the practices or technologies employed in green building are constantly evolving and may differ from region to region, fundamental principles persist from which the method is derived: siting and structure design efficiency, energy efficiency, water efficiency , materials efficiency, indoor environmental quality enhancement, operations and maintenance optimization and waste and toxics reduction. [21] [22] The essence of green building is an optimization of one or more of these principles. Also, with the proper synergistic design, individual green building technologies may work together to produce a greater cumulative effect. On the aesthetic side of green architecture or sustainable design is the philosophy of designing a building that is in harmony with the natural features and resources surrounding the site. There are several key steps in designing sustainable buildings: specify 'green' building materials from local sources, reduce loads, optimize systems, and generate on-site renewable energy.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Blu_Homes_mkSolaire_front2.jpg/220px-Blu_Homes_mkSolaire_front2.jpg",
+                "caption": "Blu Homes mkSolaire, a green building designed by Michelle Kaufmann ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Shanghai_-_Shanghai_Tower_-_0003.jpg/220px-Shanghai_-_Shanghai_Tower_-_0003.jpg",
+                "caption": "Shanghai Tower , the tallest and largest LEED Platinum certified building in the world since 2015. [18]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Green_building",
+        "title": "Green building",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Siting and structure design efficiency",
+        "text": "The foundation of any construction project is rooted in the concept and design stages. The concept stage, in fact, is one of the major steps in a project life cycle, as it has the largest impact on cost and performance. [26] In designing environmentally optimal buildings, the objective is to minimize the total environmental impact associated with all life-cycle stages of the building project. However, building as a process is not as streamlined as an industrial process, and varies from one building to the other, never repeating itself identically. In addition, buildings are much more complex products, composed of a multitude of materials and components each constituting various design variables to be decided at the design stage. A variation of every design variable may affect the environment during all the building's relevant life-cycle stages. [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Exterior_Light_Shelves_-_Green_Office_Building%2C_Denver_Colorado.jpg/220px-Exterior_Light_Shelves_-_Green_Office_Building%2C_Denver_Colorado.jpg",
+                "caption": "Exterior Light Shelves - Green Office Building, Denver, Colorado"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Green_building",
+        "title": "Green building",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    },
+    {
+        "section": "Energy efficiency",
+        "text": "Green buildings often include measures to reduce energy consumption – both the embodied energy required to extract, process, transport and install building materials and operating energy to provide services such as heating and power for equipment. As high-performance buildings use less operating energy, embodied energy has assumed much greater importance – and may make up as much as 30% of the overall life cycle energy consumption.  Studies such as the U.S. LCI Database Project [28] show buildings built primarily with wood will have a lower embodied energy than those built primarily with brick, concrete, or steel. [29] To reduce operating energy use, designers use details that reduce air leakage through the building envelope (the barrier between conditioned and unconditioned space). They also specify high-performance windows and extra insulation in walls, ceilings, and floors. Another strategy, passive solar building design , is often implemented in low-energy homes. Designers orient windows and walls and place awnings, porches, and trees [30] to shade windows and roofs during the summer while maximizing solar gain in the winter. In addition, effective window placement ( daylighting ) can provide more natural light and lessen the need for electric lighting during the day. Solar water heating further reduces energy costs. Onsite generation of renewable energy through solar power , wind power , hydro power , or biomass can significantly reduce the environmental impact of the building. Power generation is generally the most expensive feature to add to a building. Energy efficiency for green buildings can be evaluated from either numerical or non-numerical methods. These include use of simulation modelling, analytical or statistical tools. [31] In a report published in April 2024, the International Energy Agency (IEA) highlighted that buildings are responsible for about 30% of global final energy consumption and over 50% of electricity demand . It noted the tripling of heat pump sales from 2015 to 2022, electric cars accounting for 20% of 2023 vehicle sales, and a potential doubling of China's peak electricity demand by mid-century. India's air conditioner ownership could see a tenfold rise by 2050, causing a sixfold increase in peak electricity demand, which could be halved with efficient practices. By 2050, demand response measures might lower household electricity bills by 7% to 12% in advanced economies and nearly 20% in developing ones, with smart device installations nearly doubling by 2030. The US could see a 116 GW reduction in peak demand, 80 million tonnes less CO2 per year by 2030, and save between USD 100 billion and USD 200 billion over twenty years with grid-interactive buildings. In Alabama , a smart neighborhood demonstrated 35% to 45% energy savings compared to traditional homes. [32] [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PA120016.JPG/220px-PA120016.JPG",
+                "caption": "An eco-house at Findhorn Ecovillage with a turf roof and solar panels"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Green_building",
+        "title": "Green building",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Lifecycle assessment of storage systems"
+    }
+]

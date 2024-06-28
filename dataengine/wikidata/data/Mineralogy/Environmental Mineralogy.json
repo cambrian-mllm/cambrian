@@ -1,0 +1,899 @@
+[
+    {
+        "section": "Physical properties",
+        "text": "An initial step in identifying a mineral is to examine its physical properties, many of which can be measured on a hand sample. These can be classified into density (often given as specific gravity ); measures of mechanical cohesion ( hardness , tenacity , cleavage , fracture , parting ); macroscopic visual properties ( luster , color, streak , luminescence , diaphaneity ); magnetic and electric properties; radioactivity and solubility in hydrogen chloride ( H Cl ). [5] : 97–113 [8] : 39–53 Hardness is determined by comparison with other minerals. In the Mohs scale , a standard set of minerals are numbered in order of increasing hardness from 1 (talc) to 10 (diamond). A harder mineral will scratch a softer, so an unknown mineral can be placed in this scale, by which minerals; it scratches and which scratch it. A few minerals such as calcite and kyanite have a hardness that depends significantly on direction. [9] : 254–255 Hardness can also be measured on an absolute scale using a sclerometer ; compared to the absolute scale, the Mohs scale is nonlinear. [8] : 52 Tenacity refers to the way a mineral behaves, when it is broken, crushed, bent or torn. A mineral can be brittle , malleable , sectile , ductile , flexible or elastic . An important influence on tenacity is the type of chemical bond ( e.g., ionic or metallic ). [9] : 255–256 Of the other measures of mechanical cohesion, cleavage is the tendency to break along certain crystallographic planes. It is described by the quality ( e.g. , perfect or fair) and the orientation of the plane in crystallographic nomenclature. Parting is the tendency to break along planes of weakness due to pressure, twinning or exsolution . Where these two kinds of break do not occur, fracture is a less orderly form that may be conchoidal (having smooth curves resembling the interior of a shell), fibrous , splintery , hackly (jagged with sharp edges), or uneven . [9] : 253–254 If the mineral is well crystallized, it will also have a distinctive crystal habit (for example, hexagonal, columnar, botryoidal ) that reflects the crystal structure or internal arrangement of atoms. [8] : 40–41 It is also affected by crystal defects and twinning . Many crystals are polymorphic , having more than one possible crystal structure depending on factors such as pressure and temperature. [5] : 66–68 [8] : 126",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Calcit_Scalenoeder_-_Egremont%2C_England.jpg/220px-Calcit_Scalenoeder_-_Egremont%2C_England.jpg",
+                "caption": "Calcite is a carbonate mineral (CaCO 3 ) with a rhombohedral crystal structure."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aragonite_redbrown_crystals.jpg/220px-Aragonite_redbrown_crystals.jpg",
+                "caption": "Aragonite is an orthorhombic polymorph of calcite."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineralogy",
+        "title": "Mineralogy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Crystal structure",
+        "text": "The crystal structure is the arrangement of atoms in a crystal. It is represented by a lattice of points which repeats a basic pattern, called a unit cell , in three dimensions. The lattice can be characterized by its symmetries and by the dimensions of the unit cell. These dimensions are represented by three Miller indices . [11] : 91–92 The lattice remains unchanged by certain symmetry operations about any given point in the lattice: reflection , rotation , inversion , and rotary inversion , a combination of rotation and reflection. Together, they make up a mathematical object called a crystallographic point group or crystal class . There are 32 possible crystal classes. In addition, there are operations that displace all the points: translation , screw axis , and glide plane . In combination with the point symmetries, they form 230 possible space groups . [11] : 125–126 Most geology departments have X-ray powder diffraction equipment to analyze the crystal structures of minerals. [8] : 54–55 X-rays have wavelengths that are the same order of magnitude as the distances between atoms. Diffraction , the constructive and destructive interference between waves scattered at different atoms, leads to distinctive patterns of high and low intensity that depend on the geometry of the crystal. In a sample that is ground to a powder, the X-rays sample a random distribution of all crystal orientations. [12] Powder diffraction can distinguish between minerals that may appear the same in a hand sample, for example quartz and its polymorphs tridymite and cristobalite . [8] : 54 Isomorphous minerals of different compositions have similar powder diffraction patterns, the main difference being in spacing and intensity of lines. For example, the Na Cl ( halite ) crystal structure is space group Fm3m ; this structure is shared by sylvite ( K Cl ), periclase ( Mg O ), bunsenite ( Ni O ), galena ( Pb S ), alabandite ( Mn S ), chlorargyrite ( Ag Cl ), and osbornite ( Ti N ). [9] : 150–151",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Perovskite.jpg/220px-Perovskite.jpg",
+                "caption": "The perovskite crystal structure . The most abundant mineral in the Earth, bridgmanite , has this structure. [10] Its chemical formula is (Mg,Fe)SiO 3 ; the red spheres are oxygen, the blue spheres silicon and the green spheres magnesium or iron."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineralogy",
+        "title": "Mineralogy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Chemical elements",
+        "text": "A few minerals are chemical elements , including sulfur , copper , silver , and gold , but the vast majority are compounds . The classical method for identifying composition is wet chemical analysis , which involves dissolving a mineral in an acid such as hydrochloric acid (HCl). The elements in solution are then identified using colorimetry , volumetric analysis or gravimetric analysis . [9] : 224–225 Since 1960, most chemistry analysis is done using instruments. One of these, atomic absorption spectroscopy , is similar to wet chemistry in that the sample must still be dissolved, but it is much faster and cheaper. The solution is vaporized and its absorption spectrum is measured in the visible and ultraviolet range. [9] : 225–226 Other techniques are X-ray fluorescence , electron microprobe analysis atom probe tomography and optical emission spectrography . [9] : 227–232",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Portable_Micro-X-ray_fluorescence_machine.jpg/170px-Portable_Micro-X-ray_fluorescence_machine.jpg",
+                "caption": "Portable Micro-X-ray fluorescence machine"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineralogy",
+        "title": "Mineralogy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Optical",
+        "text": "In addition to macroscopic properties such as colour or lustre, minerals have properties that require a polarizing microscope to observe.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/CSIRO_ScienceImage_1483_Olivine_Adcumulate.jpg/220px-CSIRO_ScienceImage_1483_Olivine_Adcumulate.jpg",
+                "caption": "Photomicrograph of olivine adcumulate from the Archaean komatiite of Agnew, Western Australia ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineralogy",
+        "title": "Mineralogy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Systematic",
+        "text": "Systematic mineralogy is the identification and classification of minerals by their properties. Historically, mineralogy was heavily concerned with taxonomy of the rock-forming minerals. In 1959, the International Mineralogical Association formed the Commission of New Minerals and Mineral Names to rationalize the nomenclature and regulate the introduction of new names. In July 2006, it was merged with the Commission on Classification of Minerals to form the Commission on New Minerals, Nomenclature, and Classification. [13] There are over 6,000 named and unnamed minerals, and about 100 are discovered each year. [14] The Manual of Mineralogy places minerals in the following classes: native elements , sulfides , sulfosalts , oxides and hydroxides , halides , carbonates, nitrates and borates , sulfates, chromates, molybdates and tungstates , phosphates, arsenates and vanadates , and silicates . [9]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hanksite.JPG/220px-Hanksite.JPG",
+                "caption": "Hanksite , Na 22 K(SO 4 ) 9 (CO 3 ) 2 Cl, one of the few minerals that is considered a carbonate and a sulfate"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineralogy",
+        "title": "Mineralogy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Mineral ecology",
+        "text": "In 2011, several researchers began to develop a Mineral Evolution Database. [22] This database integrates the crowd-sourced site Mindat.org , which has over 690,000 mineral-locality pairs, with the official IMA list of approved minerals and age data from geological publications. [23] This database makes it possible to apply statistics to answer new questions, an approach that has been called mineral ecology . One such question is how much of mineral evolution is deterministic and how much the result of chance . Some factors are deterministic, such as the chemical nature of a mineral and conditions for its stability ; but mineralogy can also be affected by the processes that determine a planet's composition. In a 2015 paper, Robert Hazen and others analyzed the number of minerals involving each element as a function of its abundance. They found that Earth, with over 4800 known minerals and 72 elements, has a power law relationship. The Moon, with only 63 minerals and 24 elements (based on a much smaller sample) has essentially the same relationship. This implies that, given the chemical composition of the planet, one could predict the more common minerals. However, the distribution has a long tail , with 34% of the minerals having been found at only one or two locations. The model predicts that thousands more mineral species may await discovery or have formed and then been lost to erosion, burial or other processes. This implies a role of chance in the formation of rare minerals occur. [24] [25] [26] [27] In another use of big data sets, network theory was applied to a dataset of carbon minerals, revealing new patterns in their diversity and distribution. The analysis can show which minerals tend to coexist and what conditions (geological, physical, chemical and biological) are associated with them. This information can be used to predict where to look for new deposits and even new mineral species. [28] [29] [30]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Americana_1920_Mineralogy_-_Valuable_Minerals.jpg/170px-Americana_1920_Mineralogy_-_Valuable_Minerals.jpg",
+                "caption": "A color chart of some raw forms of commercially valuable metals. [31]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineralogy",
+        "title": "Mineralogy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Uses",
+        "text": "Minerals are essential to various needs within human society, such as minerals used as ores for essential components of metal products used in various commodities and machinery , essential components to building materials such as limestone , marble , granite , gravel , glass , plaster , cement , etc. [15] Minerals are also used in fertilizers to enrich the growth of agricultural crops.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mineralogy.jpg/220px-Mineralogy.jpg",
+                "caption": "A small collection of mineral samples, with cases. Labels in Russian."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineralogy",
+        "title": "Mineralogy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Rocks, ores, and gems",
+        "text": "A rock is an aggregate of one or more minerals [32] or mineraloids. Some rocks, such as limestone or quartzite , are composed primarily of one mineral – calcite or aragonite in the case of limestone, and quartz in the latter case. [33] [34] Other rocks can be defined by relative abundances of key (essential) minerals; a granite is defined by proportions of quartz, alkali feldspar , and plagioclase feldspar . [35] The other minerals in the rock are termed accessory minerals , and do not greatly affect the bulk composition of the rock. Rocks can also be composed entirely of non-mineral material; coal is a sedimentary rock composed primarily of organically derived carbon. [32] [36] In rocks, some mineral species and groups are much more abundant than others; these are termed the rock-forming minerals. The major examples of these are quartz, the feldspars , the micas , the amphiboles , the pyroxenes , the olivines , and calcite; except for the last one, all of these minerals are silicates. [37] Overall, around 150 minerals are considered particularly important, whether in terms of their abundance or aesthetic value in terms of collecting. [38] Commercially valuable minerals and rocks, other than gemstones, metal ores, or mineral fuels, are referred to as industrial minerals . [39] For example, muscovite , a white mica, can be used for windows (sometimes referred to as isinglass), as a filler, or as an insulator. [40] Ores are minerals that have a high concentration of a certain element, typically a metal. Examples are cinnabar (HgS), an ore of mercury; sphalerite (ZnS), an ore of zinc; cassiterite (SnO 2 ), an ore of tin; and colemanite , an ore of boron . Gems are minerals with an ornamental value, and are distinguished from non-gems by their beauty, durability, and usually, rarity. There are about 20 mineral species that qualify as gem minerals, which constitute about 35 of the most common gemstones. Gem minerals are often present in several varieties, and so one mineral can account for several different gemstones; for example, ruby and sapphire are both corundum , Al 2 O 3 . [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sillimanite-199671.jpg/170px-Sillimanite-199671.jpg",
+                "caption": "Schist is a metamorphic rock characterized by an abundance of platy minerals. In this example, the rock has prominent sillimanite porphyroblasts as large as 3 cm (1.2 in)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Chemistry",
+        "text": "The abundance and diversity of minerals is controlled directly by their chemistry, in turn dependent on elemental abundances in the Earth. The majority of minerals observed are derived from the Earth's crust . Eight elements account for most of the key components of minerals, due to their abundance in the crust. These eight elements, summing to over 98% of the crust by weight, are, in order of decreasing abundance: oxygen , silicon , aluminium , iron , magnesium , calcium , sodium and potassium . Oxygen and silicon are by far the two most important – oxygen composes 47% of the crust by weight, and silicon accounts for 28%. [44] The minerals that form are those that are most stable at the temperature and pressure of formation, within the limits imposed by the bulk chemistry of the parent body. [45] For example, in most igneous rocks, the aluminium and alkali metals (sodium and potassium) that are present are  primarily found in combination with oxygen, silicon, and calcium as feldspar minerals. However, if the rock is unusually rich in alkali metals, there will not be enough aluminium to combine with all the sodium as feldspar, and the excess sodium will form sodic amphiboles such as riebeckite . If the aluminium abundance is unusually high, the excess aluminium will form muscovite or other aluminium-rich minerals. [46] If silicon is deficient, part of the feldspar will be replaced by feldspathoid minerals. [47] Precise predictions of which minerals will be present in a rock of a particular composition formed at a particular temperature and pressure requires complex thermodynamic calculations. However, approximate estimates may be made using relatively simple rules of thumb , such as the CIPW norm , which gives reasonable estimates for volcanic rock formed from dry magma. [48] The chemical composition may vary between end member species of a solid solution series. For example, the plagioclase feldspars comprise a continuous series from sodium -rich end member albite (NaAlSi 3 O 8 ) to calcium -rich anorthite (CaAl 2 Si 2 O 8 ) with four recognized intermediate varieties between them (given in order from sodium- to calcium-rich): oligoclase , andesine , labradorite , and bytownite . [49] Other examples of series include the olivine series of magnesium-rich forsterite and iron-rich fayalite, and the wolframite series of manganese -rich hübnerite and iron-rich ferberite . [50] Chemical substitution and coordination polyhedra explain this common feature of minerals. In nature, minerals are not pure substances, and are contaminated by whatever other elements are present in the given chemical system. As a result, it is possible for one element to be substituted for another. [51] Chemical substitution will occur between ions of a similar size and charge; for example, K + will not substitute for Si 4+ because of chemical and structural incompatibilities caused by a big difference in size and charge. A common example of chemical substitution is that of Si 4+ by Al 3+ , which are close in charge, size, and abundance in the crust. In the example of plagioclase, there are three cases of substitution. Feldspars are all framework silicates, which have a silicon-oxygen ratio of 2:1, and the space for other elements is given by the substitution of Si 4+ by Al 3+ to give a base unit of [AlSi 3 O 8 ] − ; without the substitution, the formula would be charge-balanced as SiO 2 , giving quartz. [52] The significance of this structural property will be explained further by coordination polyhedra. The second substitution occurs between Na + and Ca 2+ ; however, the difference in charge has to accounted for by making a second substitution of Si 4+ by Al 3+ . [53] Coordination polyhedra are geometric representations of how a cation is surrounded by an anion. In mineralogy, coordination polyhedra are usually considered in terms of oxygen, due its abundance in the crust. The base unit of silicate minerals is the silica tetrahedron – one Si 4+ surrounded by four O 2− . An alternate way of describing the coordination of the silicate is by a number: in the case of the silica tetrahedron, the silicon is said to have a coordination number of 4. Various cations have a specific range of possible coordination numbers; for silicon, it is almost always 4, except for very high-pressure minerals where the compound is compressed such that silicon is in six-fold (octahedral) coordination with oxygen. Bigger cations have a bigger coordination numbers because of the increase in relative size as compared to oxygen (the last orbital subshell of heavier atoms is different too). Changes in coordination numbers leads to physical and mineralogical differences; for example, at high pressure, such as in the mantle , many minerals, especially silicates such as olivine and garnet , will change to a perovskite structure , where silicon is in octahedral coordination. Other examples are the aluminosilicates kyanite , andalusite , and sillimanite (polymorphs, since they share the formula Al 2 SiO 5 ), which differ by the coordination number of the Al 3+ ; these minerals transition from one another as a response to changes in pressure and temperature. [44] In the case of silicate materials, the substitution of Si 4+ by Al 3+ allows for a variety of minerals because of the need to balance charges. [54] Because the eight most common elements make up over 98% of the Earth's crust, the small quantities of the other elements that are typically present are substituted into the common rock-forming minerals. The distinctive minerals of most elements are quite rare, being found only where these elements have been concentrated by geological processes, such as hydrothermal circulation , to the point where they can no longer be accommodated in common minerals. [55] Changes in temperature and pressure and composition alter the mineralogy of a rock sample. Changes in composition can be caused by processes such as weathering or metasomatism ( hydrothermal alteration ). Changes in temperature and pressure occur when the host rock undergoes tectonic or magmatic movement into differing physical regimes. Changes in thermodynamic conditions make it favourable for mineral assemblages to react with each other to produce new minerals; as such, it is possible for two rocks to have an identical or a very similar bulk rock chemistry without having a similar mineralogy. This process of mineralogical alteration is related to the rock cycle . An example of a series of mineral reactions is illustrated as follows. [56] Orthoclase feldspar (KAlSi 3 O 8 ) is a mineral commonly found in granite , a plutonic igneous rock . When exposed to weathering, it reacts to form kaolinite (Al 2 Si 2 O 5 (OH) 4 , a sedimentary mineral, and silicic acid ): Under low-grade metamorphic conditions, kaolinite reacts with quartz to form pyrophyllite (Al 2 Si 4 O 10 (OH) 2 ): As metamorphic grade increases, the pyrophyllite reacts to form kyanite and quartz: Alternatively, a mineral may change its crystal structure as a consequence of changes in temperature and pressure without reacting. For example, quartz will change into a variety of its SiO 2 polymorphs , such as tridymite and cristobalite at high temperatures, and coesite at high pressures. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hubnerite-Quartz-216455.jpg/170px-Hubnerite-Quartz-216455.jpg",
+                "caption": "Hübnerite , the manganese-rich end-member of the wolframite series, with minor quartz in the background"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kaolinite-Orthoclase-lw18c.jpg/220px-Kaolinite-Orthoclase-lw18c.jpg",
+                "caption": "When minerals react, the products will sometimes assume the shape of the reagent; the product mineral is termed a pseudomorph of (or after) the reagent. Illustrated here is a pseudomorph of kaolinite after orthoclase . Here, the pseudomorph preserved the Carlsbad twinning common in orthoclase."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Crystal structure and habit",
+        "text": "Crystal structure results from the orderly geometric spatial arrangement of atoms in the internal structure of a mineral. This crystal structure is based on regular internal atomic or ionic arrangement that is often expressed in the geometric form that the crystal takes. Even when the mineral grains are too small to see or are irregularly shaped, the underlying crystal structure is always periodic and can be determined by X-ray diffraction. [13] Minerals are typically described by their symmetry content. Crystals are restricted to 32 point groups , which differ by their symmetry. These groups are classified in turn into more broad categories, the most encompassing of these being the six crystal families. [59] These families can be described by the relative lengths of the three crystallographic axes, and the angles between them; these relationships correspond to the symmetry operations that define the narrower point groups. They are summarized below; a, b, and c represent the axes, and α, β, γ represent the angle opposite the respective crystallographic axis (e.g. α is the angle opposite the a-axis, viz. the angle between the b and c axes): [59] The hexagonal crystal family is also split into two crystal systems – the trigonal , which has a three-fold axis of symmetry, and the hexagonal, which has a six-fold axis of symmetry. Chemistry and crystal structure together define a mineral. With a restriction to 32 point groups, minerals of different chemistry may have identical crystal structure. For example, halite (NaCl), galena (PbS), and periclase (MgO) all belong to the hexaoctahedral point group (isometric family), as they have a similar stoichiometry between their different constituent elements. In contrast, polymorphs are groupings of minerals that share a chemical formula but have a different structure. For example, pyrite and marcasite , both iron sulfides, have the formula FeS 2 ; however, the former is isometric while the latter is orthorhombic. This polymorphism extends to other sulfides with the generic AX 2 formula; these two groups are collectively known as the pyrite and marcasite groups. [60] Polymorphism can extend beyond pure symmetry content. The aluminosilicates are a group of three minerals – kyanite , andalusite , and sillimanite – which share the chemical formula Al 2 SiO 5 . Kyanite is triclinic, while andalusite and sillimanite are both orthorhombic and belong to the dipyramidal point group. These differences arise corresponding to how aluminium is coordinated within the crystal structure. In all minerals, one aluminium ion is always in six-fold coordination with oxygen. Silicon, as a general rule, is in four-fold coordination in all minerals; an exception is a case like stishovite (SiO 2 , an ultra-high pressure quartz polymorph with rutile structure). [61] In kyanite, the second aluminium is in six-fold coordination; its chemical formula can be expressed as Al [6] Al [6] SiO 5 , to reflect its crystal structure. Andalusite has the second aluminium in five-fold coordination (Al [6] Al [5] SiO 5 ) and sillimanite has it in four-fold coordination (Al [6] Al [4] SiO 5 ). [62] Differences in crystal structure and chemistry greatly influence other physical properties of the mineral. The carbon allotropes diamond and graphite have vastly different properties; diamond is the hardest natural substance, has an adamantine lustre, and belongs to the isometric crystal family, whereas graphite is very soft, has a greasy lustre, and crystallises in the hexagonal family. This difference is accounted for by differences in bonding. In diamond, the carbons are in sp 3 hybrid orbitals, which means they form a framework where each carbon is covalently bonded to four neighbours in a tetrahedral fashion; on the other hand, graphite is composed of sheets of carbons in sp 2 hybrid orbitals, where each carbon is bonded covalently to only three others. These sheets are held together by much weaker van der Waals forces , and this discrepancy translates to large macroscopic differences. [63] Twinning is the intergrowth of two or more crystals of a single mineral species. The geometry of the twinning is controlled by the mineral's symmetry. As a result, there are several types of twins, including contact twins, reticulated twins, geniculated twins, penetration twins, cyclic twins, and polysynthetic twins. Contact, or simple twins, consist of two crystals joined at a plane; this type of twinning is common in spinel. Reticulated twins, common in rutile, are interlocking crystals resembling netting. Geniculated twins have a bend in the middle that is caused by start of the twin. Penetration twins consist of two single crystals that have grown into each other; examples of this twinning include cross-shaped staurolite twins and Carlsbad twinning in orthoclase. Cyclic twins are caused by repeated twinning around a rotation axis. This type of twinning occurs around three, four, five, six, or eight-fold axes, and the corresponding patterns are called threelings, fourlings, fivelings , sixlings, and eightlings. Sixlings are common in aragonite. Polysynthetic twins are similar to cyclic twins through the presence of repetitive twinning; however, instead of occurring around a rotational axis, polysynthetic twinning occurs along parallel planes, usually on a microscopic scale. [64] [65] Crystal habit refers to the overall shape of crystal. Several terms are used to describe this property. Common habits include acicular, which describes needlelike crystals as in natrolite , bladed, dendritic (tree-pattern, common in native copper ), equant, which is typical of garnet, prismatic (elongated in one direction), and tabular, which differs from bladed habit in that the former is platy whereas the latter has a defined elongation. Related to crystal form, the quality of crystal faces is diagnostic of some minerals, especially with a petrographic microscope. Euhedral crystals have a defined external shape, while anhedral crystals do not; those intermediate forms are termed subhedral. [66] [67]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Topaz-235220.jpg/220px-Topaz-235220.jpg",
+                "caption": "Topaz has a characteristic orthorhombic elongated crystal shape."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Spinel-4mb4c.jpg/220px-Spinel-4mb4c.jpg",
+                "caption": "Contact twins, as seen in spinel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Hardness",
+        "text": "The hardness of a mineral defines how much it can resist scratching or indentation. This physical property is controlled by the chemical composition and crystalline structure of a mineral. The most commonly used scale of measurement is the ordinal Mohs hardness scale, which measures resistance to scratching. Defined by ten indicators, a mineral with a higher index scratches those below it. The scale ranges from talc, a phyllosilicate , to diamond, a carbon polymorph that is the hardest natural material. The scale is provided below: [68] A mineral's hardness is a function of its structure. Hardness is not necessarily constant for all crystallographic directions; crystallographic weakness renders some directions softer than others. [68] An example of this hardness variability exists in kyanite, which has a Mohs hardness of 5 1 ⁄ 2 parallel to [001] but 7 parallel to [100] . [69] Other scales include these; [70]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Rough_diamond.jpg/220px-Rough_diamond.jpg",
+                "caption": "Diamond is the hardest natural material, and has a Mohs hardness of 10."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mohs-Hardness-Graph.svg/220px-Mohs-Hardness-Graph.svg.png",
+                "caption": "Mohs Scale versus Absolute Hardness"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Lustre and diaphaneity",
+        "text": "Lustre indicates how light reflects from the mineral's surface, with regards to its quality and intensity. There are numerous qualitative terms used to describe this property, which are split into metallic and non-metallic categories. Metallic and sub-metallic minerals have high reflectivity like metal; examples of minerals with this lustre are galena and pyrite. Non-metallic lustres include: adamantine, such as in diamond ; vitreous, which is a glassy lustre very common in silicate minerals; pearly, such as in talc and apophyllite ; resinous, such as members of the garnet group; silky which is common in fibrous minerals such as asbestiform chrysotile . [72] The diaphaneity of a mineral describes the ability of light to pass through it. Transparent minerals do not diminish the intensity of light passing through them. An example of a transparent mineral is muscovite (potassium mica); some varieties are sufficiently clear to have been used for windows. Translucent minerals allow some light to pass, but less than those that are transparent. Jadeite and nephrite (mineral forms of jade are examples of minerals with this property). Minerals that do not allow light to pass are called opaque. [73] [74] The diaphaneity of a mineral depends on the thickness of the sample. When a mineral is sufficiently thin (e.g., in a thin section for petrography ), it may become transparent even if that property is not seen in a hand sample. In contrast, some minerals, such as hematite or pyrite, are opaque even in thin-section. [74]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Pyrite_2.jpg/220px-Pyrite_2.jpg",
+                "caption": "Pyrite has a metallic lustre."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Colour and streak",
+        "text": "Colour is the most obvious property of a mineral, but it is often non-diagnostic. [75] It is caused by electromagnetic radiation interacting with electrons (except in the case of incandescence , which does not apply to minerals). [76] Two broad classes of elements (idiochromatic and allochromatic) are defined with regards to their contribution to a mineral's colour: Idiochromatic elements are essential to a mineral's composition; their contribution to a mineral's colour is diagnostic. [73] [77] Examples of such minerals are malachite (green) and azurite (blue). In contrast, allochromatic elements in minerals are present in trace amounts as impurities. An example of such a mineral would be the ruby and sapphire varieties of the mineral corundum . [77] The colours of pseudochromatic minerals are the result of interference of light waves. Examples include labradorite and bornite . In addition to simple body colour, minerals can have various other distinctive optical properties, such as play of colours, asterism , chatoyancy , iridescence , tarnish, and pleochroism . Several of these properties involve variability in colour. Play of colour, such as in opal , results in the sample reflecting different colours as it is turned, while pleochroism describes the change in colour as light passes through a mineral in a different orientation. Iridescence is a variety of the play of colours where light scatters off a coating on the surface of crystal, cleavage planes, or off layers having minor gradations in chemistry. [78] In contrast, the play of colours in opal is caused by light refracting from ordered microscopic silica spheres within its physical structure. [79] Chatoyancy (\"cat's eye\") is the wavy banding of colour that is observed as the sample is rotated; asterism, a variety of chatoyancy, gives the appearance of a star on the mineral grain. The latter property is particularly common in gem-quality corundum. [78] [79] The streak of a mineral refers to the colour of a mineral in powdered form, which may or may not be identical to its body colour. [77] The most common way of testing this property is done with a streak plate, which is made out of porcelain and coloured either white or black. The streak of a mineral is independent of trace elements [73] or any weathering surface. [77] A common example of this property is illustrated with hematite , which is coloured black, silver, or red in hand sample, but has a cherry-red [73] to reddish-brown streak. [77] Streak is more often distinctive for metallic minerals, in contrast to non-metallic minerals whose body colour is created by allochromatic elements. [73] Streak testing is constrained by the hardness of the mineral, as those harder than 7 powder the streak plate instead. [77]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Quartz-Uvarovite-LTH15C.JPG/150px-Quartz-Uvarovite-LTH15C.JPG",
+                "caption": "Colour is typically not a diagnostic property of minerals. Shown are green uvarovite (left) and red-pink grossular (right), both garnets . The diagnostic features would include dodecahedral crystals, resinous lustre, and hardness around 7."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Cleavage, parting, fracture, and tenacity",
+        "text": "By definition, minerals have a characteristic atomic arrangement. Weakness in this crystalline structure causes planes of weakness, and the breakage of a mineral along such planes is termed cleavage. The quality of cleavage can be described based on how cleanly and easily the mineral breaks; common descriptors, in order of decreasing quality, are \"perfect\", \"good\", \"distinct\", and \"poor\". In particularly transparent minerals, or in thin-section, cleavage can be seen as a series of parallel lines marking the planar surfaces when viewed from the side. Cleavage is not a universal property among minerals; for example, quartz, consisting of extensively interconnected silica tetrahedra, does not have a crystallographic weakness which would allow it to cleave. In contrast, micas, which have perfect basal cleavage, consist of sheets of silica tetrahedra which are very weakly held together. [80] [81] As cleavage is a function of crystallography, there are a variety of cleavage types. Cleavage occurs typically in either one, two, three, four, or six directions. Basal cleavage in one direction is a distinctive property of the micas . Two-directional cleavage is described as prismatic, and occurs in minerals such as the amphiboles and pyroxenes. Minerals such as galena or halite have cubic (or isometric) cleavage in three directions, at 90°; when three directions of cleavage are present, but not at 90°, such as in calcite or rhodochrosite , it is termed rhombohedral cleavage. Octahedral cleavage (four directions) is present in fluorite and diamond, and sphalerite has six-directional dodecahedral cleavage. [80] [81] Minerals with many cleavages might not break equally well in all of the directions; for example, calcite has good cleavage in three directions, but gypsum has perfect cleavage in one direction, and poor cleavage in two other directions. Angles between cleavage planes vary between minerals. For example, as the amphiboles are double-chain silicates and the pyroxenes are single-chain silicates, the angle between their cleavage planes is different. The pyroxenes cleave in two directions at approximately 90°, whereas the amphiboles distinctively cleave in two directions separated by approximately 120° and 60°. The cleavage angles can be measured with a contact goniometer, which is similar to a protractor. [80] [81] Parting, sometimes called \"false cleavage\", is similar in appearance to cleavage but is instead produced by structural defects in the mineral, as opposed to systematic weakness. Parting varies from crystal to crystal of a mineral, whereas all crystals of a given mineral will cleave if the atomic structure allows for that property. In general, parting is caused by some stress applied to a crystal. The sources of the stresses include deformation (e.g. an increase in pressure), exsolution, or twinning. Minerals that often display parting include the pyroxenes, hematite, magnetite, and corundum. [80] [82] When a mineral is broken in a direction that does not correspond to a plane of cleavage, it is termed to have been fractured. There are several types of uneven fracture. The classic example is conchoidal fracture, like that of quartz; rounded surfaces are created, which are marked by smooth curved lines. This type of fracture occurs only in very homogeneous minerals. Other types of fracture are fibrous, splintery, and hackly. The latter describes a break along a rough, jagged surface; an example of this property is found in native copper . [83] Tenacity is related to both cleavage and fracture. Whereas fracture and cleavage describes the surfaces that are created when a mineral is broken, tenacity describes how resistant a mineral is to such breaking. Minerals can be described as brittle, ductile, malleable, sectile, flexible, or elastic. [84]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Biotite-Orthoclase-229808.jpg/220px-Biotite-Orthoclase-229808.jpg",
+                "caption": "Perfect basal cleavage as seen in biotite (black), and good cleavage seen in the matrix (pink orthoclase )."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Specific gravity",
+        "text": "Specific gravity numerically describes the density of a mineral. The dimensions of density are mass divided by volume with units: kg/m 3 or g/cm 3 . Specific gravity is defined as the density of the mineral divided by the density of water at 4 °C and thus is a dimensionless quantity, identical in all unit systems. [85] It can be measured as the quotient of the mass of the sample and difference between the weight of the sample in air and its corresponding weight in water. Among most minerals, this property is not diagnostic. Rock forming minerals – typically silicates or occasionally carbonates – have a specific gravity of 2.5–3.5. [86] High specific gravity is a diagnostic property of a mineral. A variation in chemistry (and consequently, mineral class) correlates to a change in specific gravity. Among more common minerals, oxides and sulfides tend to have a higher specific gravity as they include elements with higher atomic mass. A generalization is that minerals with metallic or adamantine lustre tend to have higher specific gravities than those having a non-metallic to dull lustre. For example, hematite , Fe 2 O 3 , has a specific gravity of 5.26 [87] while galena , PbS, has a specific gravity of 7.2–7.6, [88] which is a result of their high iron and lead content, respectively. A very high specific gravity is characteristic of native metals ; for example, kamacite , an iron-nickel alloy common in iron meteorites has a specific gravity of 7.9, [89] and gold has an observed specific gravity between 15 and 19.3. [86] [90]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Calcite-Galena-elm56c.jpg/220px-Calcite-Galena-elm56c.jpg",
+                "caption": "Galena , PbS, is a mineral with a high specific gravity."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Other properties",
+        "text": "Other properties can be used to diagnose minerals. These are less general, and apply to specific minerals. Dropping dilute acid (often 10% HCl ) onto a mineral aids in distinguishing carbonates from other mineral classes. The acid reacts with the carbonate ([CO 3 ] 2− ) group, which causes the affected area to effervesce , giving off carbon dioxide gas. This test can be further expanded to test the mineral in its original crystal form or powdered form. An example of this test is done when distinguishing calcite from dolomite , especially within the rocks ( limestone and dolomite respectively). Calcite immediately effervesces in acid, whereas acid must be applied to powdered dolomite (often to a scratched surface in a rock), for it to effervesce. [91] Zeolite minerals will not effervesce in acid; instead, they become frosted after 5–10 minutes, and if left in acid for a day, they dissolve or become a silica gel . [92] Magnetism is a very conspicuous property of a few minerals. Among common minerals, magnetite exhibits this property strongly, and magnetism is also present, albeit not as strongly, in pyrrhotite and ilmenite . [91] Some minerals exhibit electrical properties – for example, quartz is piezoelectric – but electrical properties are rarely used as diagnostic criteria for minerals because of incomplete data and natural variation. [93] Minerals can also be tested for taste or smell. Halite , NaCl, is table salt; its potassium-bearing counterpart, sylvite , has a pronounced bitter taste. Sulfides have a characteristic smell, especially as samples are fractured, reacting, or powdered. [91] Radioactivity is a rare property found in minerals containing radioactive elements. The radioactive elements could be a defining constituent, such as uranium in uraninite , autunite , and carnotite , or present as trace impurities, as in zircon . The decay of a radioactive element damages the mineral crystal structure rendering it locally amorphous ( metamict state ); the optical result, termed a radioactive halo or pleochroic halo , is observable with various techniques, such as thin-section petrography . [91]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Carnotite-201050.jpg/220px-Carnotite-201050.jpg",
+                "caption": "Carnotite (yellow) is a radioactive uranium -bearing mineral."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Silicates",
+        "text": "The base unit of a silicate mineral is the [SiO 4 ] 4− tetrahedron. In the vast majority of cases, silicon is in four-fold or tetrahedral coordination with oxygen. In very high-pressure situations, silicon will be in six-fold or octahedral coordination, such as in the perovskite structure or the quartz polymorph stishovite (SiO 2 ). In the latter case, the mineral no longer has a silicate structure, but that of rutile (TiO 2 ), and its associated group, which are simple oxides. These silica tetrahedra are then polymerized to some degree to create various structures, such as one-dimensional chains, two-dimensional sheets, and three-dimensional frameworks. The basic silicate mineral where no polymerization of the tetrahedra has occurred requires other elements to balance out the base 4- charge. In other silicate structures, different combinations of elements are required to balance out the resultant negative charge. It is common for the Si 4+ to be substituted by  Al 3+ because of similarity in ionic radius and charge; in those cases, the [AlO 4 ] 5− tetrahedra form the same structures as do the unsubstituted tetrahedra, but their charge-balancing requirements are different. [102] The degree of polymerization can be described by both the structure formed and how many tetrahedral corners (or coordinating oxygens) are shared (for aluminium and silicon in tetrahedral sites): [103] [104] The silicate subclasses are described below in order of decreasing polymerization.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Aegirine-233494.jpg/220px-Aegirine-233494.jpg",
+                "caption": "Aegirine , an iron-sodium clinopyroxene, is part of the inosilicate subclass."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Tectosilicates",
+        "text": "Tectosilicates, also known as framework silicates, have the highest degree of polymerization. With all corners of a tetrahedra shared, the silicon:oxygen ratio becomes 1:2. Examples are quartz, the feldspars , feldspathoids , and the zeolites . Framework silicates tend to be particularly chemically stable as a result of strong covalent bonds. [105] Forming 12% of the Earth's crust, quartz (SiO 2 ) is the most abundant mineral species. It is characterized by its high chemical and physical resistivity. Quartz has several polymorphs, including tridymite and cristobalite at high temperatures, high-pressure coesite , and ultra-high pressure stishovite . The latter mineral can only be formed on Earth by meteorite impacts, and its structure has been compressed so much that it has changed from a silicate structure to that of rutile (TiO 2 ). The silica polymorph that is most stable at the Earth's surface is α-quartz. Its counterpart, β-quartz, is present only at high temperatures and pressures (changes to α-quartz below 573 °C at 1 bar). These two polymorphs differ by a \"kinking\" of bonds; this change in structure gives β-quartz greater symmetry than α-quartz, and they are thus also called high quartz (β) and low quartz (α). [100] [106] Feldspars are the most abundant group in the Earth's crust, at about 50%. In the feldspars, Al 3+ substitutes for Si 4+ , which creates a charge imbalance that must be accounted for by the addition of cations. The base structure becomes either [AlSi 3 O 8 ] − or [Al 2 Si 2 O 8 ] 2− There are 22 mineral species of feldspars, subdivided into two major subgroups – alkali and plagioclase – and two less common groups – celsian and banalsite . The alkali feldspars are most commonly in a series between potassium-rich orthoclase and sodium-rich albite ; in the case of plagioclase, the most common series ranges from albite to calcium-rich anorthite . Crystal twinning is common in feldspars, especially polysynthetic twins in plagioclase and Carlsbad twins in alkali feldspars. If the latter subgroup cools slowly from a melt, it forms exsolution lamellae because the two components – orthoclase and albite – are unstable in solid solution. Exsolution can be on a scale from microscopic to readily observable in hand-sample; perthitic texture forms when Na-rich feldspar exsolve in a K-rich host. The opposite texture (antiperthitic), where K-rich feldspar exsolves in a Na-rich host, is very rare. [107] Feldspathoids are structurally similar to feldspar, but differ in that they form in Si-deficient conditions, which allows for further substitution by Al 3+ . As a result, feldspathoids are almost never found in association with quartz. A common example of a feldspathoid is nepheline ((Na, K)AlSiO 4 ); compared to alkali feldspar, nepheline has an Al 2 O 3 :SiO 2 ratio of 1:2, as opposed to 1:6 in alkali feldspar. [108] Zeolites often have distinctive crystal habits, occurring in needles, plates, or blocky masses. They form in the presence of water at low temperatures and pressures, and have channels and voids in their structure. Zeolites have several industrial applications, especially in waste water treatment. [109]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Natroliteinde1.jpg/250px-Natroliteinde1.jpg",
+                "caption": "Natrolite is a mineral series in the zeolite group; this sample has a very prominent acicular crystal habit."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Phyllosilicates",
+        "text": "Phyllosilicates consist of sheets of polymerized tetrahedra. They are bound at three oxygen sites, which gives a characteristic silicon:oxygen ratio of 2:5. Important examples include the mica , chlorite , and the kaolinite - serpentine groups. In addition to the tetrahedra, phyllosilicates have a sheet of octahedra (elements in six-fold coordination by oxygen) that balance out the basic tetrahedra, which have a negative charge (e.g. [Si 4 O 10 ] 4− ) These tetrahedra (T) and octahedra (O) sheets are stacked in a variety of combinations to create phyllosilicate layers. Within an octahedral sheet, there are three octahedral sites in a unit structure; however, not all of the sites may be occupied. In that case, the mineral is termed dioctahedral, whereas in other case it is termed trioctahedral. [110] The layers are weakly bound by van der Waals forces , hydrogen bonds , or sparse ionic bonds , which causes a crystallographic weakness, in turn leading to a prominent basal cleavage among the phyllosilicates. [111] The kaolinite-serpentine group consists of T-O stacks (the 1:1 clay minerals); their hardness ranges from 2 to 4, as the sheets are held by hydrogen bonds. The 2:1 clay minerals (pyrophyllite-talc) consist of T-O-T stacks, but they are softer (hardness from 1 to 2), as they are instead held together by van der Waals forces. These two groups of minerals are subgrouped by octahedral occupation; specifically, kaolinite and pyrophyllite are dioctahedral whereas serpentine and talc trioctahedral. [112] Micas are also T-O-T-stacked phyllosilicates, but differ from the other T-O-T and T-O-stacked subclass members in that they incorporate aluminium into the tetrahedral sheets (clay minerals have Al 3+ in octahedral sites). Common examples of micas are muscovite , and the biotite series. Mica T-O-T layers are bonded together by metal ions, giving them a greater hardness than other phyllosilicate minerals, though they retain perfect basal cleavage. [113] The chlorite group is related to mica group, but a brucite -like (Mg(OH) 2 ) layer between the T-O-T stacks. [114] Because of their chemical structure, phyllosilicates typically have flexible, elastic, transparent layers that are electrical insulators and can be split into very thin flakes. Micas can be used in electronics as insulators, in construction, as optical filler, or even cosmetics. Chrysotile, a species of serpentine, is the most common mineral species in industrial asbestos, as it is less dangerous in terms of health than the amphibole asbestos. [115]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Muscovite-Albite-122886.jpg/250px-Muscovite-Albite-122886.jpg",
+                "caption": "Muscovite, a mineral species in the mica group, within the phyllosilicate subclass"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Inosilicates",
+        "text": "Inosilicates consist of tetrahedra repeatedly bonded in chains. These chains can be single, where a tetrahedron is bound to two others to form a continuous chain; alternatively, two chains can be merged to create double-chain silicates. Single-chain silicates have a silicon:oxygen ratio of 1:3 (e.g. [Si 2 O 6 ] 4− ), whereas the double-chain variety has a ratio of 4:11, e.g. [Si 8 O 22 ] 12− . Inosilicates contain two important rock-forming mineral groups; single-chain silicates are most commonly pyroxenes , while double-chain silicates are often amphiboles . [116] Higher-order chains exist (e.g. three-member, four-member, five-member chains, etc.) but they are rare. [117] The pyroxene group consists of 21 mineral species. [118] Pyroxenes have a general structure formula of XY(Si 2 O 6 ), where X is an octahedral site, while Y can vary in coordination number from six to eight. Most varieties of pyroxene consist of permutations of Ca 2+ , Fe 2+ and Mg 2+ to balance the negative charge on the backbone. Pyroxenes are common in the Earth's crust (about 10%) and are a key constituent of mafic igneous rocks. [119] Amphiboles have great variability in chemistry, described variously as a \"mineralogical garbage can\" or a \"mineralogical shark swimming a sea of elements\". The backbone of the amphiboles is the [Si 8 O 22 ] 12− ; it is balanced by cations in three possible positions, although the third position is not always used, and one element can occupy both remaining ones. Finally, the amphiboles are usually hydrated, that is, they have a hydroxyl group ([OH] − ), although it can be replaced by a fluoride, a chloride, or an oxide ion. [120] Because of the variable chemistry, there are over 80 species of amphibole, although variations, as in the pyroxenes, most commonly involve mixtures of Ca 2+ , Fe 2+ and Mg 2+ . [118] Several amphibole mineral species can have an asbestiform crystal habit. These asbestos minerals form long, thin, flexible, and strong fibres, which are electrical insulators, chemically inert and heat-resistant; as such, they have several applications, especially in construction materials. However, asbestos are known carcinogens, and cause various other illnesses, such as asbestosis ; amphibole asbestos ( anthophyllite , tremolite , actinolite , grunerite , and riebeckite ) are considered more dangerous than chrysotile serpentine asbestos. [121]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Asbestos_with_muscovite.jpg/220px-Asbestos_with_muscovite.jpg",
+                "caption": "Asbestiform tremolite , part of the amphibole group in the inosilicate subclass"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Cyclosilicates",
+        "text": "Cyclosilicates, or ring silicates, have a ratio of silicon to oxygen of 1:3. Six-member rings are most common, with a base structure of [Si 6 O 18 ] 12− ; examples include the tourmaline group and beryl . Other ring structures exist, with 3, 4, 8, 9, 12 having been described. [122] Cyclosilicates tend to be strong, with elongated, striated crystals. [123] Tourmalines have a very complex chemistry that can be described by a general formula XY 3 Z 6 (BO 3 ) 3 T 6 O 18 V 3 W. The T 6 O 18 is the basic ring structure, where T is usually Si 4+ , but substitutable by Al 3+ or B 3+ . Tourmalines can be subgrouped by the occupancy of the X site, and from there further subdivided by the chemistry of the W site. The Y and Z sites can accommodate a variety of cations, especially various transition metals; this variability in structural transition metal content gives the tourmaline group greater variability in colour. Other cyclosilicates include beryl, Al 2 Be 3 Si 6 O 18 , whose varieties include the gemstones emerald (green) and aquamarine (bluish). Cordierite is structurally similar to beryl, and is a common metamorphic mineral. [124]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Elbaite-121353.jpg/220px-Elbaite-121353.jpg",
+                "caption": "An example of elbaite, a species of tourmaline, with distinctive colour banding."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Sorosilicates",
+        "text": "Sorosilicates, also termed disilicates, have tetrahedron-tetrahedron bonding at one oxygen, which results in a 2:7 ratio of silicon to oxygen. The resultant common structural element is the [Si 2 O 7 ] 6− group. The most common disilicates by far are members of the epidote group. Epidotes are found in variety of geologic settings, ranging from mid-ocean ridge to granites to metapelites . Epidotes are built around the structure [(SiO 4 )(Si 2 O 7 )] 10− structure; for example, the mineral species epidote has calcium, aluminium, and ferric iron to charge balance: Ca 2 Al 2 (Fe 3+ , Al)(SiO 4 )(Si 2 O 7 )O(OH). The presence of iron as Fe 3+ and Fe 2+ helps buffer oxygen fugacity , which in turn is a significant factor in petrogenesis. [125] Other examples of sorosilicates include lawsonite , a  metamorphic mineral forming in the blueschist facies (subduction zone setting with low temperature and high pressure), vesuvianite , which takes up a significant amount of calcium in its chemical structure. [125] [126]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Epidote_Oisans.jpg/280px-Epidote_Oisans.jpg",
+                "caption": "Epidote often has a distinctive pistachio-green colour."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Orthosilicates",
+        "text": "Orthosilicates consist of isolated tetrahedra that are charge-balanced by other cations. [127] Also termed nesosilicates, this type of silicate has a silicon:oxygen ratio of 1:4 (e.g. SiO 4 ). Typical orthosilicates tend to form blocky equant crystals, and are fairly hard. [128] Several rock-forming minerals are part of this subclass, such as the aluminosilicates, the olivine group, and the garnet group. The aluminosilicates –bkyanite, andalusite, and sillimanite, all Al 2 SiO 5 – are structurally composed of one [SiO 4 ] 4− tetrahedron, and one Al 3+ in octahedral coordination. The remaining Al 3+ can be in six-fold coordination (kyanite), five-fold (andalusite) or four-fold (sillimanite); which mineral forms in a given environment is depend on pressure and temperature conditions. In the olivine structure, the main olivine series of (Mg, Fe) 2 SiO 4 consist of magnesium-rich forsterite and iron-rich fayalite. Both iron and magnesium are in octahedral by oxygen. Other mineral species having this structure exist, such as tephroite , Mn 2 SiO 4 . [129] The garnet group has a general formula of X 3 Y 2 (SiO 4 ) 3 , where X is a large eight-fold coordinated cation, and Y is a smaller six-fold coordinated cation. There are six ideal endmembers of garnet, split into two group. The pyralspite garnets have Al 3+ in the Y position: pyrope (Mg 3 Al 2 (SiO 4 ) 3 ), almandine (Fe 3 Al 2 (SiO 4 ) 3 ), and spessartine (Mn 3 Al 2 (SiO 4 ) 3 ). The ugrandite garnets have Ca 2+ in the X position: uvarovite (Ca 3 Cr 2 (SiO 4 ) 3 ), grossular (Ca 3 Al 2 (SiO 4 ) 3 ) and andradite (Ca 3 Fe 2 (SiO 4 ) 3 ). While there are two subgroups of garnet, solid solutions exist between all six end-members. [127] Other orthosilicates include zircon , staurolite , and topaz . Zircon (ZrSiO 4 ) is useful in geochronology as U 6+ can substitute for Zr 4+ ; furthermore, because of its very resistant structure, it is difficult to reset it as a chronometer. Staurolite is a common metamorphic intermediate-grade index mineral. It has a particularly complicated crystal structure that was only fully described in 1986. Topaz (Al 2 SiO 4 (F, OH) 2 , often found in granitic pegmatites associated with tourmaline , is a common gemstone mineral. [130]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Andradite-172390.jpg/220px-Andradite-172390.jpg",
+                "caption": "Black andradite, an end-member of the orthosilicate garnet group."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Native elements",
+        "text": "Native elements are those that are not chemically bonded to other elements. This mineral group includes native metals , semi-metals, and non-metals, and various alloys and solid solutions. The metals are held together by metallic bonding, which confers distinctive physical properties such as their shiny metallic lustre, ductility and malleability, and electrical conductivity. Native elements are subdivided into groups by their structure or chemical attributes. The gold group, with a cubic close-packed structure, includes metals such as gold, silver, and copper. The platinum group is similar in structure to the gold group. The iron-nickel group is characterized by several iron-nickel alloy species. Two examples are kamacite and taenite , which are found in iron meteorites; these species differ by the amount of Ni in the alloy; kamacite has less than 5–7% nickel and is a variety of native iron , whereas the nickel content of taenite ranges from 7–37%. Arsenic group minerals consist of semi-metals, which have only some metallic traits; for example, they lack the malleability of metals. Native carbon occurs in two allotropes, graphite and diamond; the latter forms at very high pressure in the mantle, which gives it a much stronger structure than graphite. [131]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gold-mz4b.jpg/220px-Gold-mz4b.jpg",
+                "caption": "Native gold. Rare specimen of stout crystals growing off of a central stalk, size 3.7 x 1.1 x 0.4 cm, from Venezuela."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Sulfides",
+        "text": "The sulfide minerals are chemical compounds of one or more metals or semimetals with a chalcogen or pnictogen , of which sulfur is most common. Tellurium, arsenic, or selenium can substitute for the sulfur. Sulfides tend to be soft, brittle minerals with a high specific gravity. Many powdered sulfides, such as pyrite, have a sulfurous smell when powdered. Sulfides are susceptible to weathering, and many readily dissolve in water; these dissolved minerals can be later redeposited, which creates enriched secondary ore deposits. [132] Sulfides are classified by the ratio of the metal or semimetal to the sulfur, such as M:S equal to 2:1, or 1:1. [133] Many sulfide minerals are economically important as metal ores ; examples include sphalerite (ZnS), an ore of zinc, galena (PbS), an ore of lead, cinnabar (HgS), an ore of mercury, and molybdenite (MoS 2 , an ore of molybdenum. [134] Pyrite (FeS 2 ), is the most commonly occurring sulfide, and can be found in most geological environments. It is not, however, an ore of iron, but can be instead oxidized to produce sulfuric acid . [135] Related to the sulfides are the rare sulfosalts , in which a metallic element is bonded to sulfur and a semimetal such as antimony , arsenic , or bismuth . Like the sulfides, sulfosalts are typically soft, heavy, and brittle minerals. [136]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cinnabar_on_Dolomite.jpg/220px-Cinnabar_on_Dolomite.jpg",
+                "caption": "Red cinnabar (HgS), a mercury ore, on dolomite."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Geodized_brachiopod.jpg/220px-Geodized_brachiopod.jpg",
+                "caption": "Sphalerite crystal partially encased in calcite from the Devonian Milwaukee Formation of Wisconsin"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Halides",
+        "text": "The halide minerals are compounds in which a halogen (fluorine, chlorine, iodine, or bromine) is the main anion. These minerals tend to be soft, weak, brittle, and water-soluble. Common examples of halides include halite (NaCl, table salt), sylvite (KCl), and fluorite (CaF 2 ). Halite and sylvite commonly form as evaporites , and can be dominant minerals in chemical sedimentary rocks. Cryolite , Na 3 AlF 6 , is a key mineral in the extraction of aluminium from bauxites ; however, as the only significant occurrence at Ivittuut , Greenland , in a granitic pegmatite, was depleted, synthetic cryolite can be made from fluorite. [141]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Halite-Nahcolite-51411.jpg/220px-Halite-Nahcolite-51411.jpg",
+                "caption": "Pink cubic halite (NaCl; halide class) crystals on a nahcolite matrix (NaHCO 3 ; a carbonate, and mineral form of sodium bicarbonate, used as baking soda )."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Sulfates",
+        "text": "The sulfate minerals all contain the sulfate anion, [SO 4 ] 2− . They tend to be transparent to translucent, soft, and many are fragile. [145] Sulfate minerals commonly form as evaporites , where they precipitate out of evaporating saline waters. Sulfates can also be found in hydrothermal vein systems associated with sulfides, [146] or as oxidation products of sulfides. [147] Sulfates can be subdivided into anhydrous and hydrous minerals. The most common hydrous sulfate by far is gypsum , CaSO 4 ⋅2H 2 O. It forms as an evaporite, and is associated with other evaporites such as calcite and halite; if it incorporates sand grains as it crystallizes, gypsum can form desert roses . Gypsum has very low thermal conductivity and maintains a low temperature when heated as it loses that heat by dehydrating; as such, gypsum is used as an insulator in materials such as plaster and drywall. The anhydrous equivalent of gypsum is anhydrite ; it can form directly from seawater in highly arid conditions. The barite group has the general formula XSO 4 , where the X is a large 12-coordinated cation. Examples include barite (BaSO 4 ), celestine (SrSO 4 ), and anglesite (PbSO 4 ); anhydrite is not part of the barite group, as the smaller Ca 2+ is only in eight-fold coordination. [148]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Roses_des_Sables_Tunisie.jpg/250px-Roses_des_Sables_Tunisie.jpg",
+                "caption": "Gypsum desert rose"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral",
+        "title": "Mineral",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Atmospheric sciences",
+        "text": "Atmospheric sciences focus on the Earth's atmosphere, with an emphasis upon its interrelation to other systems. Atmospheric sciences can include studies of meteorology , greenhouse gas phenomena, atmospheric dispersion modeling of airborne contaminants, [12] [13] sound propagation phenomena related to noise pollution , and even light pollution . Taking the example of the global warming phenomena, physicists create computer models of atmospheric circulation and infrared radiation transmission, chemists examine the inventory of atmospheric chemicals and their reactions, biologists analyze the plant and animal contributions to carbon dioxide fluxes, and specialists such as meteorologists and oceanographers add additional breadth in understanding the atmospheric dynamics [ citation needed ] .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blue_Linckia_Starfish.JPG/220px-Blue_Linckia_Starfish.JPG",
+                "caption": "Biodiversity of a coral reef. Corals adapt and modify their environment by forming calcium carbonate skeletons. This provides growing conditions for future generations and forms a habitat for many other species."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_science",
+        "title": "Environmental science",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Geosciences",
+        "text": "Geosciences include environmental geology , environmental soil science , volcanic phenomena and evolution of the Earth's crust. In some classification systems this can also include hydrology , including oceanography . [ citation needed ] As an example study, of soils erosion , calculations would be made of surface runoff by soil scientists. Fluvial geomorphologists would assist in examining sediment transport in overland flow. Physicists would contribute by assessing the changes in light transmission in the receiving waters. Biologists would analyze subsequent impacts to aquatic flora and fauna from increases in water turbidity. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tagebau_Garzweiler_Panorama_2005.jpg/2015px-Tagebau_Garzweiler_Panorama_2005.jpg",
+                "caption": "Open-pit coal mining at Garzweiler , Germany"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_science",
+        "title": "Environmental science",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Regulations driving the studies",
+        "text": "In the United States the National Environmental Policy Act (NEPA) of 1969 set forth requirements for analysis of federal government actions (such as highway construction projects and land management decisions) in terms of specific environmental criteria. [15] Numerous state laws have echoed these mandates, applying the principles to local-scale actions. The upshot has been an explosion of documentation and study of environmental consequences before the fact of development actions. [ citation needed ] One can examine the specifics of environmental science by reading examples of Environmental Impact Statements prepared under NEPA such as: Wastewater treatment expansion options discharging into the San Diego/ Tijuana Estuary , Expansion of the San Francisco International Airport , Development of the Houston , Metro Transportation system , Expansion of the metropolitan Boston MBTA transit system , and Construction of Interstate 66 through Arlington, Virginia . [ citation needed ] In England and Wales the Environment Agency (EA), [16] formed in 1996, is a public body for protecting and improving the environment and enforces the regulations listed on the communities and local government site. [17] (formerly the office of the deputy prime minister). The agency was set up under the Environment Act 1995 as an independent body and works closely with UK Government to enforce the regulations. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glen_Canyon_Dam_%26_Lake_Powell.jpg/220px-Glen_Canyon_Dam_%26_Lake_Powell.jpg",
+                "caption": "Environmental science examines the effects of humans on nature, such as the Glen Canyon Dam in the United States"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_science",
+        "title": "Environmental science",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Presolar minerals",
+        "text": "In the early Universe, there were no minerals because the only elements available were hydrogen , helium and trace amounts of lithium . [4] Mineral formation became possible after heavier elements, including carbon , oxygen, silicon and nitrogen , were synthesized in stars. In the expanding atmospheres of red giants and the ejecta from supernovae , microscopic minerals formed at temperatures above 1,500 °C (2,730 °F). [1] [5] Evidence of these minerals can be found in interstellar grains incorporated into primitive meteorites called chondrites , which are essentially cosmic sedimentary rocks. [5] The number of known species is roughly a dozen, although several more materials have been identified but not classified as minerals. [5] Because it has a high crystallization temperature (about 4,400 °C (7,950 °F)), diamond was probably the first mineral to form. [6] [7] This was followed by graphite , oxides ( rutile , corundum , spinel , hibonite ), carbides ( moissanite ), nitrides ( osbornite and silicon nitride ) and silicates ( forsterite and silicate perovskite (MgSiO 3 )). [1] These \"ur-minerals\" seeded the molecular clouds from which the Solar system was formed. [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Murchison-meteorite-stardust.jpg",
+                "caption": "Presolar grains (\"stardust\") from the Murchison meteorite provide information on the first minerals."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral_evolution",
+        "title": "Mineral evolution",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Separation and concentration",
+        "text": "The highest level in the classification of minerals is based on chemical composition. [10] However, the defining elements for many mineral groups, such as boron in borates and phosphorus in phosphates , were at first only present in concentrations of parts per million or less. This left little or no chance for them to come together and form minerals until external influences concentrated them. [11] Processes that separate and concentrate elements include planetary differentiation (for example, separation into layers such as a core and mantle); outgassing ; fractional crystallization ; and partial melting . [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Terrestial_Planets_internal_en.jpg/390px-Terrestial_Planets_internal_en.jpg",
+                "caption": "Cutaway views of some terrestrial planets , showing the layers"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral_evolution",
+        "title": "Mineral evolution",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Intensive variables and volatiles",
+        "text": "Allowable combinations of elements in minerals are determined by thermodynamics; for an element to be added to a crystal at a given location, it must reduce the energy. At higher temperatures, many elements are interchangeable in minerals such as olivine . [3] As a planet cools, minerals became exposed to a greater range of intensive variables such as temperature and pressure, [1] allowing the formation of new phases and more specialized combinations of elements such as clay minerals and zeolites . [3] New minerals are formed when volatile compounds such as water , carbon dioxide and O 2 react with them. Environments such as ice caps , dry lakes , and exhumed metamorphic rock have distinctive suites of minerals. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/GypsumCrystalsLakeLucerno.jpg/250px-GypsumCrystalsLakeLucerno.jpg",
+                "caption": "Gypsum crystals formed as the water evaporated in Lake Lucero , New Mexico"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral_evolution",
+        "title": "Mineral evolution",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Planetary accretion",
+        "text": "In the first era, the Sun ignited, heating the surrounding molecular cloud . 60 new minerals were produced and were preserved as inclusions in chondrites. The accretion of dust into asteroids and planets, bombardments, heating and reactions with water raised the number to 250. [8] [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allende_meteorite%2C_carbonaceous_chondrite_%2814787764392%29.jpg/220px-Allende_meteorite%2C_carbonaceous_chondrite_%2814787764392%29.jpg",
+                "caption": "Cross-section of a chondrite containing round olivine chondrules and irregular white CAIs"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Esquel.jpg/220px-Esquel.jpg",
+                "caption": "Sample of a pallasite with olivine crystals in an iron-nickel matrix"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral_evolution",
+        "title": "Mineral evolution",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Crust and mantle reworking",
+        "text": "The second era in the history of mineral evolution began with the massive impact that formed the Moon. This melted most of the crust and mantle. Early mineralogy was determined by crystallization of igneous rocks and further bombardments. This phase was then replaced by extensive recycling of crust and mantle, so that at the end of this era there were about 1500 mineral species. However, few of the rocks survived from this period so the timing of many events remains uncertain. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Zircon-83147.jpg/220px-Zircon-83147.jpg",
+                "caption": "A zircon crystal"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2012.09.14.122828_Cremation_pegmatite_Yavapai_Point_Grand_Canyon_Arizona.jpg/220px-2012.09.14.122828_Cremation_pegmatite_Yavapai_Point_Grand_Canyon_Arizona.jpg",
+                "caption": "Pegmatite sample from the Grand Canyon"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Subduction-en.svg/300px-Subduction-en.svg.png",
+                "caption": "Schematic of a subduction zone"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral_evolution",
+        "title": "Mineral evolution",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Biologically mediated mineralogy",
+        "text": "The inorganic processes described in the previous section produced about 1500 mineral species. The remaining more than two-thirds of Earth's minerals are the result of the transformation of Earth by living organisms. [12] The largest contribution was from the enormous increase in the oxygen content of the atmosphere, starting with the Great Oxygenation Event. [17] Living organisms also started to produce skeletons and other forms of biomineralization . [18] Minerals such as calcite, metal oxides and many clay minerals could be considered biosignatures , [19] along with gems such as turquoise , azurite and malachite . [15] : 177",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Collenia_undosa_Minnesota.jpg/220px-Collenia_undosa_Minnesota.jpg",
+                "caption": "Stromatolite fossil in section of a 2.1 Ga banded iron formation"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Curit_mineralogisches_museum_bonn.jpg/220px-Curit_mineralogisches_museum_bonn.jpg",
+                "caption": "Curite , a lead uranium oxide mineral"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral_evolution",
+        "title": "Mineral evolution",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Stage 10: Phanerozoic era and biomineralization",
+        "text": "The last stage coincides with the Phanerozoic era , in which biomineralization, the creation of minerals by living organisms, became widespread. [12] Although some biominerals can be found in earlier records, it was during the Cambrian explosion that most of the known skeletal forms developed, [18] and the major skeletal minerals (calcite, aragonite, apatite and opal ). [1] Most of these are carbonates, but some are phosphates or calcite. In all, over 64 mineral phases have been identified in living organisms, including metal sulfides, oxides, hydroxides and silicates; [18] over two dozen have been found in the human body. [1] Before the Phanerozoic, land was mostly barren rock, but plants began to populate it in the Silurian Period . This led to an order-of-magnitude increase in the production of clay minerals. In the oceans, plankton transported calcium carbonate from shallow waters to the deep ocean, inhibiting the production of cap carbonates and making future snowball Earth events less likely. Microbes also became involved in the geochemical cycles of most elements, making them biogeochemical cycles . The mineralogical novelties included organic minerals that have been found in carbon-rich remnants of life such as coal and black shales . [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Paradoxides_sp.jpg/170px-Paradoxides_sp.jpg",
+                "caption": "Late Cambrian trilobite fossil"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral_evolution",
+        "title": "Mineral evolution",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Anthropocene",
+        "text": "Strictly speaking, purely biogenic minerals are not recognized by the International Mineralogical Association (IMA) unless geological processes are also involved. Purely biological products such as the shells of marine organisms are not accepted. Also explicitly excluded are anthropogenic compounds. [23] However, humans have had such an impact on the surface of the planet that geologists are considering the introduction of a new geological epoch , the Anthropocene , to reflect these changes. [24] [25] In 2015, Zalasiewicz and co-authors proposed that the definition of minerals be extended to include human-minerals and that their production constitutes an 11th stage of mineral evolution. [17] [26] Subsequently, Hazen and co-authors catalogued 208 minerals that are officially recognized by the IMA but are primarily or exclusively the result of human activities. Most of these have formed in association with mining . In addition, some were created when metal artefacts sank and interacted with the seafloor. A few would probably not be officially recognized today but are allowed to remain in the catalog; these include two ( niobocarbide and tantalcarbide ) that may have been a hoax. [25] [27] [28] [29] Hazen and co-authors identified three ways that humans have had a large impact on the distribution and diversity of minerals. The first is through manufacture. A long list of synthetic crystals have mineral equivalents, including synthetic gems, ceramics, brick, cement and batteries. [29] Many more have no mineral equivalent; over 180,000 inorganic crystalline compounds are listed in the Inorganic Crystal Structure Database . [27] For mining or building of infrastructure, humans have redistributed rocks, sediments and minerals on a scale rivalling that of glaciation, and valuable minerals have been redistributed and juxtaposed in ways that would not occur naturally. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Abhurite_-_Shipwreck_Hydra%2C_South_coast_of_Norway.jpg/220px-Abhurite_-_Shipwreck_Hydra%2C_South_coast_of_Norway.jpg",
+                "caption": "The mineral abhurite forms when tin artifacts corrode in sea water, and is found near some shipwrecks. [22]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral_evolution",
+        "title": "Mineral evolution",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Further research",
+        "text": "Since the original paper on mineral evolution, there have been several studies of minerals of specific elements, including uranium, thorium , mercury, carbon, beryllium, and the clay minerals. These reveal information about different processes; for example, uranium and thorium are heat producers while uranium and carbon indicate oxidation state. [14] The records reveal episodic bursts of new minerals such as those during the Boring Billion , as well as long periods where no new minerals appeared. For example, after a jump in diversity during the assembly of Columbia, there were no new mercury minerals between 1.8 Ga and 600 million years ago. This remarkably long hiatus is attributed to a sulfide-rich ocean, which led to rapid deposition of the mineral cinnabar . [15] : 204 Most of the mineral evolution papers have looked at the first appearance of minerals, but one can also look at the age distribution of a given mineral. Millions of zircon crystals have been dated, and the age distributions are nearly independent of where the crystals are found (e.g., igneous rocks, sedimentary or metasedimentary rocks or modern river sands). They have highs and lows that are linked with the supercontinent cycle, although it is not clear whether this is due to changes in subduction activity or preservation. [14] Other studies have looked at time variations of mineral properties such as isotope ratios, chemical compositions, and relative abundances of minerals, although not under the rubric of \"mineral evolution\". [38]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cinnabar_on_Dolomite.jpg/220px-Cinnabar_on_Dolomite.jpg",
+                "caption": "Cinnabar (red) on dolomite"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral_evolution",
+        "title": "Mineral evolution",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Mine development and life cycle",
+        "text": "The process of mining from discovery of an ore body through extraction of minerals and finally to returning the land to its natural state consists of several distinct steps. The first is discovery of the ore body, which is carried out through prospecting or exploration to find and then define the extent, location and value of the ore body. This leads to a mathematical resource estimation to estimate the size and grade of the deposit. This estimation is used to conduct a pre-feasibility study to determine the theoretical economics of the ore deposit. This identifies, early on, whether further investment in estimation and engineering studies is warranted and identifies key risks and areas for further work. The next step is to conduct a feasibility study to evaluate the financial viability, the technical and financial risks, and the robustness of the project. This is when the mining company makes the decision whether to develop the mine or to walk away from the project. This includes mine planning to evaluate the economically recoverable portion of the deposit, the metallurgy and ore recoverability, marketability and payability of the ore concentrates, engineering concerns, milling and infrastructure costs, finance and equity requirements, and an analysis of the proposed mine from the initial excavation all the way through to reclamation. The proportion of a deposit that is economically recoverable is dependent on the enrichment factor of the ore in the area. To gain access to the mineral deposit within an area it is often necessary to mine through or remove waste material which is not of immediate interest to the miner. The total movement of ore and waste constitutes the mining process. Often more waste than ore is mined during the life of a mine, depending on the nature and location of the ore body. Waste removal and placement is a major cost to the mining operator, so a detailed characterization of the waste material forms an essential part of the geological exploration program for a mining operation. Once the analysis determines a given ore body is worth recovering, development begins to create access to the ore body. The mine buildings and processing plants are built, and any necessary equipment is obtained. The operation of the mine to recover the ore begins and continues as long as the company operating the mine finds it economical to do so. Once all the ore that the mine can produce profitably is recovered, reclamation can begin, to make the land used by the mine suitable for future use. Technical and economic challenges notwithstanding, successful mine development must also address human factors. Working conditions are paramount to success, especially with regard to exposures to dusts, radiation, noise, explosives hazards, and vibration, as well as illumination standards. Mining today increasingly must address environmental and community impacts, including psychological and sociological dimensions. Thus, mining educator Frank T. M. White (1909–1971), broadened the focus to the “total environment of mining”, including reference to community development around mining, and how mining is portrayed to an urban society, which depends on the industry, although seemingly unaware of this dependency. He stated, “[I]n the past, mining engineers have not been called upon to study the psychological, sociological and personal problems of their own industry – aspects that nowadays are assuming tremendous importance. The mining engineer must rapidly expand his knowledge and his influence into these newer fields.” [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cut_and_fill_schematic.png/330px-Cut_and_fill_schematic.png",
+                "caption": "Schematic of a cut and fill mining operation in hard rock"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Techniques",
+        "text": "Mining techniques can be divided into two common excavation types: surface mining and sub-surface (underground) mining . Today, surface mining is much more common, and produces, for example, 85% of minerals (excluding petroleum and natural gas) in the United States, including 98% of metallic ores. [42] Targets are divided into two general categories of materials: placer deposits , consisting of valuable minerals contained within river gravels, beach sands, and other unconsolidated materials ; and lode deposits , where valuable minerals are found in veins, in layers, or in mineral grains generally distributed throughout a mass of actual rock. Both types of ore deposit, placer or lode, are mined by both surface and underground methods. [ citation needed ] Some mining, including much of the rare earth elements and uranium mining , is done by less-common methods, such as in-situ leaching : this technique involves digging neither at the surface nor underground. The extraction of target minerals by this technique requires that they be soluble, e.g., potash , potassium chloride , sodium chloride , sodium sulfate , which dissolve in water. Some minerals, such as copper minerals and uranium oxide , require acid or carbonate solutions to dissolve. [43] Explosives in Mining Explosives have been used in surface mining and sub-surface mining to blast out rock and ore intended for processing. The most common explosive used in mining is ammonium nitrate . [44] Between 1870 and 1920, in Queensland Australia, an increase in mining accidents lead to more safety measures surrounding the use of explosives for mining. [45] In the United States of America, between 1990 and 1999, about 22.3 billion kilograms of explosives were used in mining quarrying and other industries; Moreover \" coal mining used 66.4%, nonmetal mining and quarrying 13.5%, metal mining 10.4%, construction 7.1%, and all other users 2.6%\". [44]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/SL500_01.jpg/220px-SL500_01.jpg",
+                "caption": "Underground longwall mining"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Surface",
+        "text": "Surface mining is done by removing surface vegetation, dirt, and bedrock to reach buried ore deposits. Techniques of surface mining include: open-pit mining , which is the recovery of materials from an open pit in the ground; quarrying , identical to open-pit mining except that it refers to sand, stone and clay; strip mining , which consists of stripping surface layers off to reveal ore underneath; and mountaintop removal , commonly associated with coal mining, which involves taking the top of a mountain off to reach ore deposits at depth. Most placer deposits, because they are shallowly buried, are mined by surface methods. Finally, landfill mining involves sites where landfills are excavated and processed. [50] Landfill mining has been thought of as a long-term solution to methane emissions and local pollution. [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tagebau_Garzweiler_Panorama_2005.jpg/1000px-Tagebau_Garzweiler_Panorama_2005.jpg",
+                "caption": "Garzweiler surface mine , Germany"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "High wall",
+        "text": "High wall mining, which evolved from auger mining, is another form of surface mining. In high wall mining, the remaining part of a coal seam previously exploited by other surface-mining techniques has too much overburden to be removed but can still be profitably exploited from the side of the artificial cliff made by previous mining. [52] A typical cycle alternates sumping, which undercuts the seam, and shearing, which raises and lowers the cutter-head boom to cut the entire height of the coal seam. As the coal recovery cycle continues, the cutter-head is progressively launched further into the coal seam. High wall mining can produce thousands of tons of coal in contour-strip operations with narrow benches, previously mined areas, trench mine applications and steep-dip seams. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mega_HIghwall_Mining_ADDCAR_16.jpg/220px-Mega_HIghwall_Mining_ADDCAR_16.jpg",
+                "caption": "Coalburg Seam highwall mining at ADDCAR 16 Logan County WV"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Myslowice_kopalnia_Myslowice_07.jpg/170px-Myslowice_kopalnia_Myslowice_07.jpg",
+                "caption": "Mysłowice coal mine shaft tower, Upper Silesian Coal Basin"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Underground mining",
+        "text": "Sub-surface mining consists of digging tunnels or shafts into the earth to reach buried ore deposits. Ore, for processing, and waste rock, for disposal, are brought to the surface through the tunnels and shafts. Sub-surface mining can be classified by the type of access shafts used, and the extraction method or the technique used to reach the mineral deposit. Drift mining uses horizontal access tunnels, slope mining uses diagonally sloping access shafts, and shaft mining uses vertical access shafts. Mining in hard and soft rock formations requires different techniques. [53] Other methods include shrinkage stope mining , which is mining upward, creating a sloping underground room, long wall mining , which is grinding a long ore surface underground, and room and pillar mining, which is removing ore from rooms while leaving pillars in place to support the roof of the room. Room and pillar mining often leads to retreat mining , in which supporting pillars are removed as miners retreat, allowing the room to cave in, thereby loosening more ore. Additional sub-surface mining methods include hard rock mining , bore hole mining, drift and fill mining, long hole slope mining, sub level caving, and block caving . [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kilianstollen_Zug.jpg/220px-Kilianstollen_Zug.jpg",
+                "caption": "Mantrip used for transporting miners within an underground mine"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caterpillar_Highwall_Mine_HW300.jpg/220px-Caterpillar_Highwall_Mine_HW300.jpg",
+                "caption": "Caterpillar Highwall Miner HW300 – Technology Bridging Underground and Open Pit Mining"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Machines",
+        "text": "Heavy machinery is used in mining to explore and develop sites, to remove and stockpile overburden, to break and remove rocks of various hardness and toughness, to process the ore, and to carry out reclamation projects after the mine is closed. Bulldozers, drills, explosives and trucks are all necessary for excavating the land. In the case of placer mining , unconsolidated gravel, or alluvium , is fed into machinery consisting of a hopper and a shaking screen or trommel which frees the desired minerals from the waste gravel. The minerals are then concentrated using sluices or jigs. [ citation needed ] Large drills are used to sink shafts, excavate stopes, and obtain samples for analysis. Trams are used to transport miners, minerals and waste. Lifts carry miners into and out of mines, and move rock and ore out, and machinery in and out, of underground mines. Huge trucks, shovels and cranes are employed in surface mining to move large quantities of overburden and ore. Processing plants use large crushers, mills, reactors, roasters and other equipment to consolidate the mineral-rich material and extract the desired compounds and metals from the ore. [54]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bagger-garzweiler.jpg/300px-Bagger-garzweiler.jpg",
+                "caption": "The Bagger 288 is a bucket-wheel excavator used in strip mining . It is also one of the largest land vehicles of all time."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Coal_Haul_Truck_at_North_Antelope_Rochelle.png/220px-Coal_Haul_Truck_at_North_Antelope_Rochelle.png",
+                "caption": "A Bucyrus Erie 2570 dragline and CAT 797 haul truck at the North Antelope Rochelle opencut coal mine"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Environmental regulation",
+        "text": "Countries with strongly enforced mining regulations commonly require environmental impact assessment , development of environmental management plans, and mine closure planning prior beginning mine operations. Environmental monitoring during operation and after closure may also be required. Government regulations may not be well enforced, especially in the developing world. [40] For major mining companies and any company seeking international financing, there are a number of other mechanisms to enforce environmental standards. These generally relate to financing standards such as the Equator Principles , IFC environmental standards, and criteria for Socially responsible investing . Mining companies have used this oversight from the financial sector to argue for some level of industry self-regulation . [64] In 1992, a Draft Code of Conduct for Transnational Corporations was proposed at the Rio Earth Summit by the UN Centre for Transnational Corporations (UNCTC), but the Business Council for Sustainable Development (BCSD) together with the International Chamber of Commerce (ICC) argued successfully for self-regulation instead. [65] This was followed by the Global Mining Initiative which was begun by nine of the largest metals and mining companies and which led to the formation of the International Council on Mining and Metals , whose purpose was to \"act as a catalyst\" in an effort to improve social and environmental performance in the mining and metals industry internationally. [64] The mining industry has provided funding to various conservation groups, some of which have been working with conservation agendas that are at odds with an emerging acceptance of the rights of indigenous people – particularly the right to make land-use decisions. [66] Certification of mines with good practices occurs through the International Organization for Standardization (ISO). For example, ISO 9000 and ISO 14001 , which certify an \"auditable environmental management system\", involve short inspections, although they have been accused of lacking rigor. [ clarification needed ] [64] : 183–84 Certification is also available through Ceres ' Global Reporting Initiative , but these reports are voluntary and unverified. Miscellaneous other certification programs exist for various projects, typically through nonprofit groups. [64] : 185–86 The purpose of a 2012 EPS PEAKS paper [67] was to provide evidence on policies managing ecological costs and maximize socio-economic benefits of mining using host country regulatory initiatives. It found existing literature suggesting donors encourage developing countries to:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Iron_hydroxide_precipitate_in_stream.jpg/170px-Iron_hydroxide_precipitate_in_stream.jpg",
+                "caption": "Iron hydroxide precipitate stains a stream receiving acid drainage from surface coal mining."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Waste",
+        "text": "Ore mills generate large amounts of waste, called tailings . [68] For example, 99 tons of waste is generated per ton of copper , with even higher ratios in gold mining – because only 5.3 g of gold is extracted per ton of ore, a ton of gold produces 200,000 tons of tailings. [69] (As time goes on and richer deposits are exhausted – and technology improves – this number is going down to .5 g and less.) These tailings can be toxic. Tailings, which are usually produced as a slurry , are most commonly dumped into ponds made from naturally existing valleys. [70] These ponds are secured by impoundments ( dams or embankment dams ). [70] In 2000 it was estimated that 3,500 tailings impoundments existed, and that every year, 2 to 5 major failures and 35 minor failures occurred. [71] For example, in the Marcopper mining disaster at least 2 million tons of tailings were released into a local river. [71] In 2015, Barrick Gold Corporation spilled over 1 million liters of cyanide into a total of five rivers in Argentina near their Veladero mine . [72] Since 2007 in central Finland, the Talvivaara Terrafame polymetal mine's waste effluent and leaks of saline mine water have resulted in ecological collapse of a nearby lake. [73] Subaqueous tailings disposal is another option. [70] The mining industry has argued that submarine tailings disposal (STD), which disposes of tailings in the sea, is ideal because it avoids the risks of tailings ponds. The practice is illegal in the United States and Canada , but it is used in the developing world. [74] The waste is classified as either sterile or mineralized, with acid generating potential, and the movement and storage of this material form a major part of the mine planning process. When the mineralised package is determined by an economic cut-off, the near-grade mineralised waste is usually dumped separately with view to later treatment should market conditions change and it becomes economically viable. Civil engineering design parameters are used in the design of the waste dumps, and special conditions apply to high-rainfall areas and to seismically active areas. Waste dump designs must meet all regulatory requirements of the country in whose jurisdiction the mine is located. It is also common practice to rehabilitate dumps to an internationally acceptable standard, which in some cases means that higher standards than the local regulatory standard are applied. [71]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Teghut_Mine_-_waste_rock_storage.jpg/220px-Teghut_Mine_-_waste_rock_storage.jpg",
+                "caption": "Location of waste rock storage (center) at Teghut (village) Copper-Molybdenum Mine in Armenia 's northern Lori province"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Industry",
+        "text": "Mining exists in many countries. London is the headquarters for large miners such as Anglo American , BHP and Rio Tinto . [75] The US mining industry is also large, but it is dominated by extraction of coal and other nonmetal minerals (e.g., rock and sand), and various regulations have worked to reduce the significance of mining in the United States. [75] In 2007, the total market capitalization of mining companies was reported at US$962 billion, which compares to a total global market cap of publicly traded companies of about US$50 trillion in 2007. [76] In 2002, Chile and Peru were reportedly the major mining countries of South America . [77] The mineral industry of Africa includes the mining of various minerals; it produces relatively little of the industrial metals copper , lead , and zinc , but according to one estimate has as a percent of world reserves 40% of gold , 60% of cobalt , and 90% of the world's platinum group metals. [78] Mining in India is a significant part of that country's economy. In the developed world, mining in Australia , with BHP founded and headquartered in the country, and mining in Canada are particularly significant. For rare earth minerals mining, China reportedly controlled 95% of production in 2013. [79] While exploration and mining can be conducted by individual entrepreneurs or small businesses, most modern-day mines are large enterprises requiring large amounts of capital to establish. Consequently, the mining sector of the industry is dominated by large, often multinational, companies, most of them publicly listed . It can be argued that what is referred to as the 'mining industry' is actually two sectors, one specializing in exploration for new resources and the other in mining those resources. The exploration sector is typically made up of individuals and small mineral resource companies, called \"juniors\", which are dependent on venture capital . The mining sector is made up of large multinational companies that are sustained by production from their mining operations. Various other industries such as equipment manufacture, environmental testing, and metallurgy analysis rely on, and support, the mining industry throughout the world. Canadian stock exchanges have a particular focus on mining companies, particularly junior exploration companies through Toronto's TSX Venture Exchange ; Canadian companies raise capital on these exchanges and then invest the money in exploration globally. [75] Some have argued that below juniors there exists a substantial sector of illegitimate companies primarily focused on manipulating stock prices. [75] Mining operations can be grouped into five major categories in terms of their respective resources. These are oil and gas extraction , coal mining , metal ore mining, nonmetallic mineral mining and quarrying, and mining support activities. [80] Of all of these categories, oil and gas extraction remains one of the largest in terms of its global economic importance. Prospecting potential mining sites, a vital area of concern for the mining industry, is now done using sophisticated new technologies such as seismic prospecting and remote-sensing satellites . Mining is heavily affected by the prices of the commodity minerals, which are often volatile. The 2000s commodities boom (\"commodities supercycle\") increased the prices of commodities, driving aggressive mining. In addition, the price of gold increased dramatically in the 2000s, which increased gold mining ; for example, one study found that conversion of forest in the Amazon increased six-fold from the period 2003–2006 (292 ha/yr) to the period 2006–2009 (1,915 ha/yr), largely due to artisanal mining. [81]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Siilinj%C3%A4rvi_S%C3%A4rkij%C3%A4rvi_pit.jpg/220px-Siilinj%C3%A4rvi_S%C3%A4rkij%C3%A4rvi_pit.jpg",
+                "caption": "The Särkijärvi pit of the apatite mine in Siilinjärvi , Finland"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bingham_Canyon_April_2005.jpg/220px-Bingham_Canyon_April_2005.jpg",
+                "caption": "The Bingham Canyon Mine of Rio Tinto's subsidiary, Kennecott Utah Copper"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Regulation and governance",
+        "text": "New regulations and a process of legislative reforms aim to improve the harmonization and stability of the mining sector in mineral-rich countries. [83] New legislation for mining industry in African countries still appears to be an issue, but has the potential to be solved, when a consensus is reached on the best approach. [84] By the beginning of the 21st century, the booming and increasingly complex mining sector in mineral-rich countries was providing only slight benefits to local communities, especially in given the sustainability issues. Increasing debate and influence by NGOs and local communities called for new approaches which would also include disadvantaged communities, and work towards sustainable development even after mine closure (including transparency and revenue management). By the early 2000s, community development issues and resettlements became mainstream concerns in World Bank mining projects. [84] Mining-industry expansion after mineral prices increased in 2003 and also potential fiscal revenues in those countries created an omission in the other economic sectors in terms of finances and development. Furthermore, this highlighted regional and local demand for mining revenues and an inability of sub-national governments to effectively use the revenues. The Fraser Institute (a Canadian think tank) has highlighted [ clarification needed ] the environmental protection laws in developing countries, as well as voluntary efforts by mining companies to improve their environmental impact. [85] In 2007, the Extractive Industries Transparency Initiative (EITI) was mainstreamed [ clarification needed ] in all countries cooperating with the World Bank in mining industry reform. [84] The EITI operates and was implemented with the support of the EITI multi-donor trust fund, managed by the World Bank. [86] The EITI aims to increase transparency in transactions between governments and companies in extractive industries [87] by monitoring the revenues and benefits between industries and recipient governments. The entrance process is voluntary for each country and is monitored by multiple stakeholders including governments, private companies and civil society representatives, responsible for disclosure and dissemination of the reconciliation report; [84] however, the competitive disadvantage of company-by-company public report is for some of the businesses in Ghana at least, the main constraint. [88] Therefore, the outcome assessment in terms of failure or success of the new EITI regulation does not only \"rest on the government's shoulders\" but also on civil society and companies. [89] However, implementation has issues; inclusion or exclusion of artisanal mining and small-scale mining (ASM) from the EITI and how to deal with \"non-cash\" payments made by companies to subnational governments. Furthermore, the disproportionate revenues the mining industry can bring to the comparatively small number of people that it employs, [90] causes other problems, like a lack of investment in other less lucrative sectors, leading to swings in government revenue because of volatility in the oil markets. Artisanal mining is clearly an issue in EITI Countries such as the Central African Republic, D.R. Congo, Guinea, Liberia and Sierra Leone – i.e. almost half of the mining countries implementing the EITI. [90] Among other things, limited scope of the EITI involving disparity in terms of knowledge of the industry and negotiation skills, thus far flexibility of the policy (e.g. liberty of the countries to expand beyond the minimum requirements and adapt it to their needs), creates another risk of unsuccessful implementation. Public awareness increase, where government should act as a bridge between public and initiative for a successful outcome of the policy is an important element to be considered. [91]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EITI_Global_Conference_2016.jpg/220px-EITI_Global_Conference_2016.jpg",
+                "caption": "EITI Global Conference 2016"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "World Bank",
+        "text": "The World Bank has been involved in mining since 1955, mainly through grants from its International Bank for Reconstruction and Development , with the Bank's Multilateral Investment Guarantee Agency offering political risk insurance. [92] Between 1955 and 1990 it provided about $2 billion to fifty mining projects, broadly categorized as reform and rehabilitation, greenfield mine construction, mineral processing, technical assistance, and engineering. These projects have been criticized, particularly the Ferro Carajas project of Brazil, begun in 1981. [93] The World Bank established mining codes intended to increase foreign investment; in 1988, it solicited feedback from 45 mining companies on how to increase their involvement. [64] : 20 In 1992, the World Bank began to push for privatization of government-owned mining companies with a new set of codes, beginning with its report The Strategy for African Mining . In 1997, Latin America's largest miner Companhia Vale do Rio Doce (CVRD) was privatized. These and other developments, such as the Philippines 1995 Mining Act, led the bank to publish a third report ( Assistance for Minerals Sector Development and Reform in Member Countries ) which endorsed mandatory environment impact assessments and attention to the concerns of the local population. The codes based on this report are influential in the legislation of developing nations. The new codes are intended to encourage development through tax holidays, zero custom duties, reduced income taxes, and related measures. [64] : 22 The results of these codes were analyzed by a group from the University of Quebec, which concluded that the codes promote foreign investment but \"fall very short of permitting sustainable development\". [94] The observed negative correlation between natural resources and economic development is known as the resource curse . [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/World_Bank_logo.svg/170px-World_Bank_logo.svg.png",
+                "caption": "World Bank logo"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Safety",
+        "text": "Safety has long been a concern in the mining business, especially in sub-surface mining. The Courrières mine disaster , Europe's worst mining accident , involved the death of 1,099 miners in Northern France on March 10, 1906. This disaster was surpassed only by the Benxihu Colliery accident in China on April 26, 1942, which killed 1,549 miners. [95] While mining today is substantially safer than it was in previous decades, mining accidents still occur. Government figures indicate that 5,000 Chinese miners die in accidents each year, while other reports have suggested a figure as high as 20,000. [96] Between 1870 and 1920, in Queensland Australia, an increase in mining accidents lead to more safety measures surrounding the use of explosives for mining. [97] Mining accidents continue worldwide, including accidents causing dozens of fatalities at a time such as the 2007 Ulyanovskaya Mine disaster in Russia, the 2009 Heilongjiang mine explosion in China, and the 2010 Upper Big Branch Mine disaster in the United States. Mining has been identified by the National Institute for Occupational Safety and Health (NIOSH) as a priority industry sector in the National Occupational Research Agenda (NORA) to identify and provide intervention strategies regarding occupational health and safety issues. [98] The Mining Safety and Health Administration (MSHA) was established in 1978 to \"work to prevent death, illness, and injury from mining and promote safe and healthful workplaces for US miners.\" [99] Since its implementation in 1978, the number of miner fatalities has decreased from 242 miners in 1978 to 24 miners in 2019. [ citation needed ] There are numerous occupational hazards associated with mining, including exposure to rockdust which can lead to diseases such as silicosis , asbestosis , and pneumoconiosis . Gases in the mine can lead to asphyxiation and could also be ignited. Mining equipment can generate considerable noise, putting workers at risk for hearing loss . Cave-ins , rock falls , and exposure to excess heat are also known hazards. The current NIOSH Recommended Exposure Limit (REL) of noise is 85 dBA with a 3 dBA exchange rate and the MSHA Permissible Exposure Limit (PEL) is 90 dBA with a 5 dBA exchange rate as an 8-hour time-weighted average. NIOSH has found that 25% of noise-exposed workers in Mining, Quarrying, and Oil and Gas Extraction have hearing impairment. [100] The prevalence of hearing loss increased by 1% from 1991 to 2001 within these workers. [ citation needed ] Noise studies have been conducted in several mining environments. Stageloaders (84-102 dBA), shearers (85-99 dBA), auxiliary fans (84–120 dBA), continuous mining machines (78–109 dBA), and roof bolters (92–103 dBA) represent some of the noisiest equipment in underground coal mines . [101] Dragline oilers, dozer operators, and welders using air arcing were occupations with the highest noise exposures among surface coal miners. [102] Coal mines had the highest hearing loss injury likelihood. [103]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Transporte_por_cable_de_minerales%2C_Devnya%2C_Bulgaria%2C_2016-05-27%2C_DD_65.jpg/220px-Transporte_por_cable_de_minerales%2C_Devnya%2C_Bulgaria%2C_2016-05-27%2C_DD_65.jpg",
+                "caption": "Mining transport in Devnya, Bulgaria"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Coal_miner_spraying_rock_dust.jpg/220px-Coal_miner_spraying_rock_dust.jpg",
+                "caption": "A coal miner in West Virginia spraying rockdust to reduce the combustible fraction of coal dust in the air"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Child labor",
+        "text": "Included within the human rights abuses that occur during mining processes are instances of child labor . These instances are a cause for widespread criticism of mining cobalt , a mineral essential for powering modern technologies such as laptops , smartphones and electric vehicles . Many of these cases of child laborers are found in the Democratic Republic of Congo . Reports have risen of children carrying sacks of cobalt weighing 25 kg from small mines to local traders [106] being paid for their work only in food and accommodation. A number of companies such as Apple , Google , Microsoft and Tesla have been implicated in lawsuits brought by families whose children were severely injured or killed during mining activities in Congo. [107] In December 2019, 14 Congolese families filed a lawsuit against Glencore , a mining company which supplies the essential cobalt to these multinational corporations with allegations of negligence that led to the deaths of children or injuries such as broken spines, emotional distress and forced labor. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Breaker_Boys_1.jpg/220px-Breaker_Boys_1.jpg",
+                "caption": "Breaker boys : child workers who broke down coal at a mine in South Pittston , Pennsylvania , United States in the early 20th century"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Records",
+        "text": "As of 2019, Mponeng is the world's deepest mine from ground level, reaching a depth of 4 km (2.5 mi) below ground level. The trip from the surface to the bottom of the mine takes over an hour. It is a gold mine in South Africa 's Gauteng province. Previously known as Western Deep Levels #1 Shaft, the underground and surface works were commissioned in 1987. The mine is considered to be one of the most substantial gold mines in the world. The Moab Khutsong gold mine in North West Province (South Africa) has the world's longest winding steel wire rope, which is able to lower workers to 3,054 metres (10,020 ft) in one uninterrupted four-minute journey. [114] The deepest mine in Europe is the 16th shaft of the uranium mines in Příbram , Czech Republic , at 1,838 metres (6,030 ft). [115] Second is Bergwerk Saar in Saarland , Germany , at 1,750 metres (5,740 ft). [ citation needed ] The deepest open-pit mine in the world is Bingham Canyon Mine in Bingham Canyon , Utah , United States , at over 1,200 metres (3,900 ft). The largest and second deepest open-pit copper mine in the world is Chuquicamata in northern Chile at 900 metres (3,000 ft), which annually produces 443,000 tons of copper and 20,000 tons of molybdenum. [116] [117] [118] The deepest open-pit mine with respect to sea level is Tagebau Hambach in Germany, where the base of the pit is 299 metres (981 ft) below sea level. [119] The largest underground mine is Kiirunavaara Mine in Kiruna , Sweden . With 450 kilometres (280 mi) of roads, 40 million tonnes of annually produced ore, and a depth of 1,270 metres (4,170 ft), it is also one of the most modern underground mines. The deepest borehole in the world is Kola Superdeep Borehole at 12,262 metres (40,230 ft), but this is connected to scientific drilling , not mining. [120]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Chuquicamata-002.jpg/220px-Chuquicamata-002.jpg",
+                "caption": "Chuquicamata , Chile , site of the largest circumference and second deepest open pit copper mine in the world"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Metal reserves and recycling",
+        "text": "During the 20th century, the variety of metals used in society grew rapidly. Today, the development of major nations such as China and India and advances in technologies are fueling an ever-greater demand. The result is that metal mining activities are expanding and more and more of the world's metal stocks are above ground in use rather than below ground as unused reserves. An example is the in-use stock of copper . Between 1932 and 1999, copper in use in the US rose from 73 kilograms (161 lb) to 238 kilograms (525 lb) per person. [121] 95% of the energy used to make aluminium from bauxite ore is saved by using recycled material. [122] However, levels of metals recycling are generally low. In 2010, the International Resource Panel , hosted by the United Nations Environment Programme (UNEP), published reports on metal stocks that exist within society [123] and their recycling rates. [121] The report's authors observed that the metal stocks in society can serve as huge anthropogenic mines above ground. [123] However, they warned that the recycling rates of some rare metals used in applications such as mobile phones, battery packs for hybrid cars, and fuel cells are so low that unless future end-of-life recycling rates are dramatically stepped up these critical metals will become unavailable for use in modern technology. [ citation needed ] As recycling rates are low and so much metal has already been extracted, some landfills now contain higher concentrations of metal than mines themselves. [124] This is especially true of aluminum , used in cans, and precious metals , found in discarded electronics. [125] Furthermore, waste after 15 years has still not broken down, so less processing would be required when compared to mining ores. A study undertaken by Cranfield University has found £360 million of metals could be mined from just four landfill sites. [126] There is also up to 20 MJ/kg of energy in waste, potentially making the re-extraction more profitable. [127] However, although the first landfill mine opened in Tel Aviv , Israel in 1953, little work has followed due to the abundance of accessible ores. [128]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NatCopper.jpg/220px-NatCopper.jpg",
+                "caption": "Macro of native copper about 1 + 1 ⁄ 2 inches (4 cm) in size"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pyhasalmi_mine.jpg/220px-Pyhasalmi_mine.jpg",
+                "caption": "The Pyhäsalmi Mine , a metal mine in Pyhäjärvi , Finland"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Abandoned_Metal_Recycling_Plant.png/220px-Abandoned_Metal_Recycling_Plant.png",
+                "caption": "A metal recycling plant in South Carolina that has been abandoned for years"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mining",
+        "title": "Mining",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    },
+    {
+        "section": "Scientific works",
+        "text": "Environmental mineralogy and geochemistry Minerals play a key role in the biogeochemical cycling of the elements at the Earth's surface, sequestering and releasing them as they undergo precipitation , crystal growth , and dissolution in response to chemical and biological processes. Manceau's research in this field focuses on the structure of disordered minerals ( clays , iron ( Fe ) and manganese ( Mn ) oxides, including ferrihydrite and birnessite ), on chemical reactions at their surface in contact with aqueous solutions, and on the crystal chemistry of trace metals in these phases. In 1993, he established in collaboration with Victor Drits a structural model for ferrihydrite based on the modeling of the X-ray diffraction pattern. [6] This model was confirmed in 2002 by Rietveld refinement of the neutron diffraction pattern, [7] and in 2014 by simulation of the pair distribution function measured by high-energy X-ray scattering. [8] In 1997, he and Victor Drits led the synthesis and resolution of the structure of hexagonal and monoclinic birnessite , and they showed in 2002 that the monoclinic form possesses a triclinic distortion. [9] [10] [11] The hexagonal form prevails at the Earth's surface and owes its strong chemical reactivity to the existence of heterovalent Mn 4+ -Mn 3+ -Mn 2+ substitutions and Mn 4+ vacancies in the MnO 2 layer. The Mn 4+ -Mn 3+ and Mn 3+ -Mn 2+ redox couples confer to this material oxidation-reduction properties used in catalysis , electrochemistry , and in the electron transfer during the photo-dissociation of water by photosystem II , [12] while the vacancies are privileged sites for the adsorption of cations. He has characterized and modeled a number of chemical reactions occurring at the birnessite - water interface, including those of complexation of transition metals ( Ni , Cu , Zn , Pb , Cd ...), and oxidation of As 3+ to As 5+ , Co 2+ to Co 3+ , [13] [14] and Tl + to Tl 3+ . [15] The oxidative uptake of cobalt on birnessite leads to its billion-fold enrichment in marine ferromanganese deposits compared to seawater . [16] From 2002 to 2012, he applied the knowledge base acquired on the crystal chemistry of trace metals and biogeochemical processes at mineral surfaces and the root-soil interface ( rhizosphere ) to the phytoremediation of contaminated soils and sediments , and abandoned mine sites. [17] [18] [19] He contributed to improving the Jardins Filtrants® (Filtering Gardens) process for treating wastewater and solid matrices by phytolixiviation, phytoextraction, and rhizofiltration developed by the Phyto r estore company. In 2022, he extended his research on the crystal chemistry of trace metals to processes responsible for the 10 6 to 10 9 times enrichment of strategic rare-earth elements (REE) and redox -sensitive elements ( cerium , thallium , platinum ) in marine deposits relative to seawater . REE are associated with fluorapatite in marine sediments , [20] whereas redox metals are oxidatively scavenged by birnessite in manganese nodules and crusts. [21] Structural biogeochemistry of mercury Mercury (Hg) is a global pollutant that is generated both by natural sources, such as volcanic eruptions and wildfires , and human activities, such as coal combustion, gold mining , and the incineration of industrial waste. In aquatic and terrestrial food chains , mercury accumulates as methylmercury (MeHg), a potent toxin that affects the function of animal's and human's brain and reproductive system. Understanding the internal detoxification processes of MeHg in living organisms is essential for protecting wildlife and humans , and designing treatments against mercury poisoning . In 2015, Manceau led foundational studies on the structural biogeochemistry of mercury in bacteria , plants , animals , and humans using X-ray emission spectroscopy at the ESRF . In 2021, he found that the Clark's grebe ( Aechmophorus clarkii ) and the Forster's tern ( Sterna forsteri ) from California, the southern giant petrel ( Macronectes giganteus ) and the south polar skua ( Stercorarius maccormicki ) from the Southern Ocean , and the Indo-Pacific blue marlin ( Makaira mazera ) from French Polynesia , detoxify the organic methylmercury - cysteine complex (MeHgCys) in inorganic mercury- selenocysteine complex (Hg(Sec) 4 ). [22] [23] [24] [25] A few months later, he extended this result to long-finned pilot whale from the analysis of 89 tissues (liver, kidney, muscle, heart, brain) from 28 individuals stranded on the coasts of Scotland and the Faroe Islands . [26] This body of work shed light on how birds , cetacea , and fishes manage to get rid of methylmercury toxicity. Demethylation of the MeHgCys complex to Hg(Sec) 4 and very poorly soluble inorganic HgSe is catalyzed by selenoprotein P (SelP) within which nucleate clusters of Hg x (Sec,Se) y that grow, likely by self-assembly of mercurial proteins as is common in biomineralization processes, to form in fine inert, non-toxic mercury selenide (HgSe) crystals. The new Hg(Sec) 4 species identified by Manceau and his collaborators was the main “missing intermediate” in the chemical reaction that helps animals to survive high levels of mercury . However, because Hg(Sec) 4 has a molar ratio of selenium to mercury of 4:1, four selenium atoms are required to detoxify just one mercury atom. Thus, Hg(Sec) 4 severely depletes the amount of bioavailable selenium . Selenium deficiency can affect the function of animals ’ brain and reproductive system, as selenoproteins serve critical antioxidant functions in the brain and testes . [27] His works on the Hg-Se antagonism won him the ES&T 2021 Best Paper Award . The stepwise MeHgCys → Hg(Sec) 4 + HgSe demethylation reaction is accompanied by the fractionation of the 202 Hg and 198 Hg isotopes , denoted δ 202 Hg. The δ 202 Hg fractionation measured on whole animal tissues (δ 202 Hg t ) is the sum of the fractionations of the MeHgCys, Hg(Sec) 4 , and HgSe species, weighted by their relative abundance: δ 202 Hg t = ∑ {\\textstyle \\sum } f (Sp i ) t × δ 202 Sp i where δ 202 Sp i is the fractionation of each chemical species, and f (Sp i ) their relative abundance, or mole fraction. Manceau and his co-authors found that δ 202 Sp i can be obtained by mathematical inversion of macroscopic isotopic and microscopic spectroscopic data. [26] [28] The combination of isotopic and spectroscopic data on birds and cetacea revealed that dietary methylmercury and the Hg(Sec) 4 -SelP complex are distributed to all tissues ( liver , kidney , sketetal muscle , brain ) via the circulatory system with, however, a hierarchy in the tissular percentage of each species. Most of the detoxification process is carried out in the liver , whereas the brain , which is particularly sensitive to the neurotoxic effects of mercury , is distinguished from other tissues by a low mercury concentration and a high proportion of inert HgSe. These results appear to be transposable to humans . [29]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/D-MnO2_HRTEM_image.jpg/220px-D-MnO2_HRTEM_image.jpg",
+                "caption": "Electron image of δ-MnO 2 nanoparticles viewed parallel (a) and perpendicular (b) to the layer plane. [8]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DBi10_cylindrical_bent.jpg/220px-DBi10_cylindrical_bent.jpg",
+                "caption": "Structure of a cylindrically bent layer of δ-MnO 2 nanosheet. [8]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hg%28Sec%294_I-Tasser_model.jpg/220px-Hg%28Sec%294_I-Tasser_model.jpg",
+                "caption": "Binding site of mercury (Hg) in selenoprotein P of grebe bird. [22] [23]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Alain_Manceau",
+        "title": "Alain Manceau",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Mineralogy",
+        "topic": "Environmental Mineralogy"
+    }
+]

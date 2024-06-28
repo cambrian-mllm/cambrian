@@ -1,0 +1,823 @@
+[
+    {
+        "section": "Gas emissions",
+        "text": "As magma nears the surface and its pressure decreases, gases escape. This process is much like what happens when you open a bottle of fizzy drink and carbon dioxide escapes. Sulfur dioxide is one of the main components of volcanic gases, and increasing amounts of it herald the arrival of increasing amounts of magma near the surface. For example, on May 13, 1991, an increasing amount of sulfur dioxide was released from Mount Pinatubo in the Philippines . On May 28, just two weeks later, sulfur dioxide emissions had increased to 5,000 tonnes, ten times the earlier amount. Mount Pinatubo later erupted on June 12, 1991. On several occasions, such as before the Mount Pinatubo eruption and the 1993 Galeras , Colombia eruption, sulfur dioxide emissions have dropped to low levels prior to eruptions. Most scientists believe that this drop in gas levels is caused by the sealing of gas passages by hardened magma. Such an event leads to increased pressure in the volcano's plumbing system and an increased chance of an explosive eruption. A multi-component gas analyzer system (Multi-GAS) is an instrument package used to take real-time high-resolution measurements of volcanic gas plumes. [6] Multi-GAS measurements of CO 2 /SO 2 ratios can allow detection of the pre-eruptive degassing of rising magmas, improving prediction of volcanic activity. [6]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pinatubo_ash_plume_910612.jpg/220px-Pinatubo_ash_plume_910612.jpg",
+                "caption": "Gas and ash plume erupted from Mount Pinatubo, Philippines."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Prediction_of_volcanic_activity",
+        "title": "Prediction of volcanic activity",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Plate tectonics",
+        "text": "According to the theory of plate tectonics, Earth's lithosphere , its rigid outer shell, is broken into sixteen larger and several smaller plates. These are in slow motion, due to convection in the underlying ductile mantle , and most volcanic activity on Earth takes place along plate boundaries, where plates are converging (and lithosphere is being destroyed) or are diverging (and new lithosphere is being created). [6] During the development of geological theory, certain concepts that allowed the grouping of volcanoes in time, place, structure and composition have developed that ultimately have had to be explained in the theory of plate tectonics. For example, some volcanoes are polygenetic with more than one period of activity during their history; other volcanoes that become extinct after erupting exactly once are monogenetic (meaning \"one life\") and such volcanoes are often grouped together in a geographical region. [7]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Spreading_ridges_volcanoes_map-en.svg/400px-Spreading_ridges_volcanoes_map-en.svg.png",
+                "caption": "Map showing the divergent plate boundaries (oceanic spreading ridges) and recent sub-aerial volcanoes (mostly at convergent boundaries)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Fissure vents",
+        "text": "Volcanic fissure vents are flat, linear fractures through which lava emerges.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lakagigar_Iceland_2004-07-01.jpg/220px-Lakagigar_Iceland_2004-07-01.jpg",
+                "caption": "Lakagigar fissure vent in Iceland , the source of the major world climate alteration of 1783–84 , has a chain of volcanic cones along its length."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Shield volcanoes",
+        "text": "Shield volcanoes, so named for their broad, shield-like profiles, are formed by the eruption of low-viscosity lava that can flow a great distance from a vent. They generally do not explode catastrophically, but are characterized by relatively gentle effusive eruptions . Since low-viscosity magma is typically low in silica, shield volcanoes are more common in oceanic than continental settings. The Hawaiian volcanic chain is a series of shield cones, and they are common in Iceland , as well.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Skjaldbreidur_Herbst_2004.jpg/220px-Skjaldbreidur_Herbst_2004.jpg",
+                "caption": "Skjaldbreiður , a shield volcano whose name means \"broad shield\""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Cinder cones",
+        "text": "Cinder cones result from eruptions of mostly small pieces of scoria and pyroclastics (both resemble cinders, hence the name of this volcano type) that build up around the vent. These can be relatively short-lived eruptions that produce a cone-shaped hill perhaps 30 to 400 meters (100 to 1,300 ft) high. Most cinder cones erupt only once and some may be found in monogenetic volcanic fields that may include other features that form when magma comes into contact with water such as maar explosion craters and tuff rings . [16] Cinder cones may form as flank vents on larger volcanoes, or occur on their own. Parícutin in Mexico and Sunset Crater in Arizona are examples of cinder cones. In New Mexico , Caja del Rio is a volcanic field of over 60 cinder cones. Based on satellite images, it has been suggested that cinder cones might occur on other terrestrial bodies in the Solar system too; on the surface of Mars and the Moon. [17] [18] [19] [20]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Izalco_Volcano.jpg/220px-Izalco_Volcano.jpg",
+                "caption": "Izalco volcano , the youngest volcano in El Salvador. Izalco erupted almost continuously from 1770 (when it formed) to 1958, earning it the nickname of \"Lighthouse of the Pacific\"."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Stratovolcanoes (composite volcanoes)",
+        "text": "Stratovolcanoes (composite volcanoes) are tall conical mountains composed of lava flows and tephra in alternate layers, the strata that gives rise to the name. They are also known as composite volcanoes because they are created from multiple structures during different kinds of eruptions. Classic examples include Mount Fuji in Japan, Mayon Volcano in the Philippines, and Mount Vesuvius and Stromboli in Italy. Ash produced by the explosive eruption of stratovolcanoes has historically posed the greatest volcanic hazard to civilizations. The lavas of stratovolcanoes are higher in silica, and therefore much more viscous, than lavas from shield volcanoes. High-silica lavas also tend to contain more dissolved gas. The combination is deadly, promoting explosive eruptions that produce great quantities of ash, as well as pyroclastic surges like the one that destroyed the city of Saint-Pierre in Martinique in 1902. They are also steeper than shield volcanoes, with slopes of 30–35° compared to slopes of generally 5–10°, and their loose tephra are material for dangerous lahars . [21] Large pieces of tephra are called volcanic bombs . Big bombs can measure more than 4 feet (1.2 meters) across and weigh several tons. [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Volcano_scheme.svg/310px-Volcano_scheme.svg.png",
+                "caption": "Cross-section through a stratovolcano (vertical scale is exaggerated) : Large magma chamber Bedrock Conduit (pipe) Base Sill Dike Layers of ash emitted by the volcano Flank Layers of lava emitted by the volcano Throat Parasitic cone Lava flow Vent Crater Ash cloud"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Submarine volcanoes",
+        "text": "Submarine volcanoes are common features of the ocean floor. Volcanic activity during the Holocene Epoch has been documented at only 119 submarine volcanoes, but there may be more than one million geologically young submarine volcanoes on the ocean floor. [27] [28] In shallow water, active volcanoes disclose their presence by blasting steam and rocky debris high above the ocean's surface. In the deep ocean basins, the tremendous weight of the water prevents the explosive release of steam and gases; however, submarine eruptions can be detected by hydrophones and by the discoloration of water because of volcanic gases . Pillow lava is a common eruptive product of submarine volcanoes and is characterized by thick sequences of discontinuous pillow-shaped masses which form under water. Even large submarine eruptions may not disturb the ocean surface, due to the rapid cooling effect and increased buoyancy in water (as compared to air), which often causes volcanic vents to form steep pillars on the ocean floor. Hydrothermal vents are common near these volcanoes, and some support peculiar ecosystems based on chemotrophs feeding on dissolved minerals. Over time, the formations created by submarine volcanoes may become so large that they break the ocean surface as new islands or floating pumice rafts . In May and June 2018, a multitude of seismic signals were detected by earthquake monitoring agencies all over the world. They took the form of unusual humming sounds, and some of the signals detected in November of that year had a duration of up to 20 minutes. An oceanographic research campaign in May 2019 showed that the previously mysterious humming noises were caused by the formation of a submarine volcano off the coast of Mayotte . [29]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif/220px-Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif",
+                "caption": "Satellite images of the 15 January 2022 eruption of Hunga Tonga-Hunga Haʻapai"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Erupted material",
+        "text": "The material that is expelled in a volcanic eruption can be classified into three types:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lava_channel_overflow.JPG/220px-Lava_channel_overflow.JPG",
+                "caption": "Pāhoehoe lava flow on Hawaii . The picture shows overflows of a main lava channel ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Litli-Hr%C3%BAtur_eruption_2023.jpg/220px-Litli-Hr%C3%BAtur_eruption_2023.jpg",
+                "caption": "Litli-Hrútur ( Fagradalsfjall ) eruption 2023. View from an airplane"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg/220px-Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg",
+                "caption": "The Stromboli stratovolcano off the coast of Sicily has erupted continuously for thousands of years, giving rise to its nickname \"Lighthouse of the Mediterranean\"."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Lava flows",
+        "text": "The form and style of eruption of a volcano is largely determined by the composition of the lava it erupts. The viscosity (how fluid the lava is) and the amount of dissolved gas are the most important characteristics of magma, and both are largely determined by the amount of silica in the magma. Magma rich in silica is much more viscous than silica-poor magma, and silica-rich magma also tends to contain more dissolved gases. Lava can be broadly classified into four different compositions: [39] Mafic lava flows show two varieties of surface texture: ʻAʻa (pronounced [ˈʔaʔa] ) and pāhoehoe ( [paːˈho.eˈho.e] ), both Hawaiian words. ʻAʻa is characterized by a rough, clinkery surface and is the typical texture of cooler basalt lava flows. Pāhoehoe is characterized by its smooth and often ropey or wrinkly surface and is generally formed from more fluid lava flows. Pāhoehoe flows are sometimes observed to transition to ʻaʻa flows as they move away from the vent, but never the reverse. [53] More silicic lava flows take the form of block lava, where the flow is covered with angular, vesicle-poor blocks. Rhyolitic flows typically consist largely of obsidian . [54]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rinjani_1994_cropped.jpg/220px-Rinjani_1994_cropped.jpg",
+                "caption": "Mount Rinjani eruption in 1994, in Lombok , Indonesia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Tephra",
+        "text": "Tephra is made when magma inside the volcano is blown apart by the rapid expansion of hot volcanic gases. Magma commonly explodes as the gas dissolved in it comes out of solution as the pressure decreases when it flows to the surface . These violent explosions produce particles of material that can then fly from the volcano. Solid particles smaller than 2 mm in diameter ( sand-sized or smaller) are called volcanic ash. [36] [37] Tephra and other volcaniclastics (shattered volcanic material) make up more of the volume of many volcanoes than do lava flows. Volcaniclastics may have contributed as much as a third of all sedimentation in the geologic record. The production of large volumes of tephra is characteristic of explosive volcanism. [55]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tuff_shards.jpg/220px-Tuff_shards.jpg",
+                "caption": "Light-microscope image of tuff as seen in thin section (long dimension is several mm): the curved shapes of altered glass shards (ash fragments) are well preserved, although the glass is partly altered. The shapes were formed around bubbles of expanding, water-rich gas."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Types of volcanic eruptions",
+        "text": "Eruption styles are broadly divided into magmatic, phreatomagmatic, and phreatic eruptions. [56] The intensity of explosive volcanism is expressed using the Volcanic Explosivity Index (VEI), which ranges from 0 for Hawaiian-type eruptions to 8 for supervolcanic eruptions. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Volcanic_injection.svg/220px-Volcanic_injection.svg.png",
+                "caption": "Schematic of volcano injection of aerosols and gases"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Volcanic activity",
+        "text": "As of December 2022 [update] , the Smithsonian Institution 's Global Volcanism Program database of volcanic eruptions in the Holocene Epoch (the last 11,700 years) lists 9,901 confirmed eruptions from 859 volcanoes. The database also lists 1,113 uncertain eruptions and 168 discredited eruptions for the same time interval. [58] [59] Volcanoes vary greatly in their level of activity, with individual volcanic systems having an eruption recurrence ranging from several times a year to once in tens of thousands of years. [60] Volcanoes are informally described as erupting , active , dormant , or extinct , but the definitions of these terms are not entirely uniform amongst volcanologists. The level of activity of most volcanoes falls upon a graduated spectrum, with much overlap between categories, and does not always fit neatly into only one of these three separate categories. [61]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pompeii_-_Casa_del_Centenario_-_MAN.jpg/170px-Pompeii_-_Casa_del_Centenario_-_MAN.jpg",
+                "caption": "Fresco with Mount Vesuvius behind Bacchus and Agathodaemon , as seen in Pompeii 's House of the Centenary"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Dormant and reactivated",
+        "text": "The USGS defines a dormant volcano as any volcano that is not showing any signs of unrest such as earthquake swarms, ground swelling, or excessive noxious gas emissions, but which shows signs that it could yet become active again. [63] Many dormant volcanoes have not erupted for thousands of years, but have still shown signs that they may be likely to erupt again in the future. [64] [65] In an article justifying the re-classification of Alaska's Mount Edgecumbe volcano from \"dormant\" to \"active\", volcanologists at the Alaska Volcano Observatory pointed out that the term \"dormant\" in reference to volcanoes has been deprecated over the past few decades and that \"[t]he term \"dormant volcano\" is so little used and undefined in modern volcanology that the Encyclopedia of Volcanoes (2000) does not contain it in the glossaries or index\", [66] however the USGS still widely employs the term. Previously a volcano was often considered to be extinct if there were no written records of its activity. Such a generalisation is inconsistent with observation and deeper study, as has occurred recently with the unexpected eruption of the Chaitén volcano in 2008. [67] Modern volcanic activity monitoring techniques, and improvements in the modelling of the factors that produce eruptions, have helped the understanding of why volcanoes may remain dormant for a long period of time, and then become unexpectedly active again. The potential for eruptions, and their style, depend mainly upon the state of the magma storage system under the volcano, the eruption trigger mechanism and its timescale. [68] : 95 For example, the Yellowstone volcano has a repose/recharge period of around 700,000 years, and Toba of around 380,000 years. [69] Vesuvius was described by Roman writers as having been covered with gardens and vineyards before its unexpected eruption of 79 CE , which destroyed the towns of Herculaneum and Pompeii . Accordingly, it can sometimes be difficult to distinguish between an extinct volcano and a dormant (inactive) one. Long volcano dormancy is known to decrease awareness. [68] : 96 Pinatubo was an inconspicuous volcano, unknown to most people in the surrounding areas, and initially not seismically monitored before its unanticipated and catastrophic eruption of 1991. Two other examples of volcanoes which were once thought to be extinct, before springing back into eruptive activity were the long-dormant Soufrière Hills volcano on the island of Montserrat , thought to be extinct until activity resumed in 1995 (turning its capital Plymouth into a ghost town ) and Fourpeaked Mountain in Alaska, which, before its September 2006 eruption, had not erupted since before 8000 BCE.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Narcondam_island.jpg/220px-Narcondam_island.jpg",
+                "caption": "Narcondam Island , India, is classified as a dormant volcano by the Geological Survey of India ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Extinct",
+        "text": "Extinct volcanoes are those that scientists consider unlikely to erupt again because the volcano no longer has a magma supply. Examples of extinct volcanoes are many volcanoes on the Hawaiian–Emperor seamount chain in the Pacific Ocean (although some volcanoes at the eastern end of the chain are active), Hohentwiel in Germany , Shiprock in New Mexico , US , Capulin in New Mexico, US, Zuidwal volcano in the Netherlands , and many volcanoes in Italy such as Monte Vulture . Edinburgh Castle in Scotland is located atop an extinct volcano, which forms Castle Rock . Whether a volcano is truly extinct is often difficult to determine. Since \"supervolcano\" calderas can have eruptive lifespans sometimes measured in millions of years, a caldera that has not produced an eruption in tens of thousands of years may be considered dormant instead of extinct. An individual volcano in a monogenetic volcanic field can be extinct but that does not mean a completely new volcano might not erupt close by with little or no warning as its field may have an active magma supply.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Capulin_1980_tde00005.jpg/220px-Capulin_1980_tde00005.jpg",
+                "caption": "Capulin Volcano National Monument in New Mexico, US"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Decade volcanoes",
+        "text": "The Decade Volcanoes are 16 volcanoes identified by the International Association of Volcanology and Chemistry of the Earth's Interior (IAVCEI) as being worthy of particular study in light of their history of large, destructive eruptions and proximity to populated areas. They are named Decade Volcanoes because the project was initiated as part of the United Nations-sponsored International Decade for Natural Disaster Reduction (the 1990s). The 16 current Decade Volcanoes are: The Deep Earth Carbon Degassing Project , an initiative of the Deep Carbon Observatory , monitors nine volcanoes, two of which are Decade volcanoes. The focus of the Deep Earth Carbon Degassing Project is to use Multi-Component Gas Analyzer System instruments to measure CO 2 /SO 2 ratios in real-time and in high-resolution to allow detection of the pre-eruptive degassing of rising magmas, improving prediction of volcanic activity . [71]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg/220px-Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg",
+                "caption": "Koryaksky volcano towering over Petropavlovsk-Kamchatsky on Kamchatka Peninsula , Far Eastern Russia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Volcanoes and humans",
+        "text": "Volcanic eruptions pose a significant threat to human civilization. However, volcanic activity has also provided humans with important resources.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mauna_Loa_atmospheric_transmission.png/220px-Mauna_Loa_atmospheric_transmission.png",
+                "caption": "Solar radiation graph 1958–2008, showing how the radiation is reduced after major volcanic eruptions"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SO2_Galapagos_20051101.jpg/220px-SO2_Galapagos_20051101.jpg",
+                "caption": "Sulfur dioxide concentration over the Sierra Negra Volcano , Galapagos Islands , during an eruption in October 2005"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Hazards",
+        "text": "There are many different types of volcanic eruptions and associated activity: phreatic eruptions (steam-generated eruptions), explosive eruption of high- silica lava (e.g., rhyolite ), effusive eruption of low-silica lava (e.g., basalt ), sector collapses , pyroclastic flows , lahars (debris flow) and carbon dioxide emission . All of these activities can pose a hazard to humans. Earthquakes, hot springs , fumaroles , mud pots and geysers often accompany volcanic activity. Volcanic gases can reach the stratosphere, where they form sulfuric acid aerosols that can reflect solar radiation and lower surface temperatures significantly. [72] Sulfur dioxide from the eruption of Huaynaputina may have caused the Russian famine of 1601–1603 . [73] Chemical reactions of sulfate aerosols in the stratosphere can also damage the ozone layer , and acids such as hydrogen chloride (HCl) and hydrogen fluoride (HF) can fall to the ground as acid rain . Excessive fluoride salts from eruptions have poisoned livestock in Iceland on multiple occasions. [74] : 39–58 Explosive volcanic eruptions release the greenhouse gas carbon dioxide and thus provide a deep source of carbon for biogeochemical cycles . [75] Ash thrown into the air by eruptions can present a hazard to aircraft, especially jet aircraft where the particles can be melted by the high operating temperature; the melted particles then adhere to the turbine blades and alter their shape, disrupting the operation of the turbine. This can cause major disruptions to air travel. A volcanic winter is thought to have taken place around 70,000 years ago after the supereruption of Lake Toba on Sumatra island in Indonesia. [76] This may have created a population bottleneck that affected the genetic inheritance of all humans today. [77] Volcanic eruptions may have contributed to major extinction events, such as the End-Ordovician , Permian-Triassic , and Late Devonian mass extinctions . [78] The 1815 eruption of Mount Tambora created global climate anomalies that became known as the \" Year Without a Summer \" because of the effect on North American and European weather. [79] The freezing winter of 1740–41, which led to widespread famine in northern Europe, may also owe its origins to a volcanic eruption. [80]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Large_eruptions.jpg/290px-Large_eruptions.jpg",
+                "caption": "Comparison of major United States prehistoric eruptions ( VEI 7 and 8 ) with major historical volcanic eruptions in the 19th and 20th century (VEI 5, 6 and 7). From left to right: Yellowstone 2.1 Ma, Yellowstone 1.3 Ma, Long Valley 6.26 Ma, Yellowstone 0.64 Ma . 19th century eruptions: Tambora 1815, Krakatoa 1883. 20th century eruptions: Novarupta 1912, St. Helens 1980, Pinatubo 1991."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Volcanoes on other celestial bodies",
+        "text": "Earth's Moon has no large volcanoes and no current volcanic activity, although recent evidence suggests it may still possess a partially molten core. [91] However, the Moon does have many volcanic features such as maria [92] (the darker patches seen on the Moon), rilles [93] and domes . [94] The planet Venus has a surface that is 90% basalt , indicating that volcanism played a major role in shaping its surface. The planet may have had a major global resurfacing event about 500 million years ago, [95] from what scientists can tell from the density of impact craters on the surface. Lava flows are widespread and forms of volcanism not present on Earth occur as well. Changes in the planet's atmosphere and observations of lightning have been attributed to ongoing volcanic eruptions, although there is no confirmation of whether or not Venus is still volcanically active. However, radar sounding by the Magellan probe revealed evidence for comparatively recent volcanic activity at Venus's highest volcano Maat Mons , in the form of ash flows near the summit and on the northern flank. [96] However, the interpretation of the flows as ash flows has been questioned. [97] There are several extinct volcanoes on Mars , four of which are vast shield volcanoes far bigger than any on Earth. They include Arsia Mons , Ascraeus Mons , Hecates Tholus , Olympus Mons , and Pavonis Mons . These volcanoes have been extinct for many millions of years, [98] but the European Mars Express spacecraft has found evidence that volcanic activity may have occurred on Mars in the recent past as well. [98] Jupiter 's moon Io is the most volcanically active object in the Solar System because of tidal interaction with Jupiter. It is covered with volcanoes that erupt sulfur , sulfur dioxide and silicate rock, and as a result, Io is constantly being resurfaced. Its lavas are the hottest known anywhere in the Solar System, with temperatures exceeding 1,800 K (1,500 °C). In February 2001, the largest recorded volcanic eruptions in the Solar System occurred on Io. [99] Europa , the smallest of Jupiter's Galilean moons , also appears to have an active volcanic system, except that its volcanic activity is entirely in the form of water, which freezes into ice on the frigid surface. This process is known as cryovolcanism , and is apparently most common on the moons of the outer planets of the Solar System . [100] In 1989, the Voyager 2 spacecraft observed cryovolcanoes (ice volcanoes) on Triton , a moon of Neptune , and in 2005 the Cassini–Huygens probe photographed fountains of frozen particles erupting from Enceladus , a moon of Saturn . [101] [102] The ejecta may be composed of water, liquid nitrogen , ammonia , dust, or methane compounds. Cassini–Huygens also found evidence of a methane-spewing cryovolcano on the Saturnian moon Titan , which is believed to be a significant source of the methane found in its atmosphere. [103] It is theorized that cryovolcanism may also be present on the Kuiper Belt Object Quaoar . A 2010 study of the exoplanet COROT-7b , which was detected by transit in 2009, suggested that tidal heating from the host star very close to the planet and neighboring planets could generate intense volcanic activity similar to that found on Io. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tvashtarvideo.gif/220px-Tvashtarvideo.gif",
+                "caption": "The Tvashtar volcano erupts a plume 330 km (205 mi) above the surface of Jupiter 's moon Io ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Olympus_Mons.jpeg/170px-Olympus_Mons.jpeg",
+                "caption": "Olympus Mons ( Latin , \"Mount Olympus\"), located on the planet Mars , is the tallest known mountain in the Solar System ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Modern volcanology",
+        "text": "In 1841, the first volcanological observatory, the Vesuvius Observatory , was founded in the Kingdom of the Two Sicilies . [1] Volcanology advances have required more than just structured observation, and the science relies upon the understanding and integration of knowledge in many fields including geology , tectonics , physics , chemistry and mathematics , with many advances only being able to occur after the advance had occurred in another field of science. For example the study of radioactivity only commenced in 1896, [2] and its application to the theory of plate tectonics and radiometric dating took about 50 years after this. Many other developments in fluid dynamics , experimental physics and chemistry, techniques of mathematical modelling , instrumentation and in other sciences have been applied to volcanology since 1841.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Icelandic_tephra.JPG/220px-Icelandic_tephra.JPG",
+                "caption": "Volcanologist examining tephra horizons in south-central Iceland ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Destructive_plate_margin.png/220px-Destructive_plate_margin.png",
+                "caption": "A diagram of a destructive plate margin , where subduction fuels volcanic activity at the subduction zones of tectonic plate boundaries."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanology",
+        "title": "Volcanology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Discovery",
+        "text": "Before the Voyager 1 encounter with Io on March 5, 1979, Io was thought to be a dead world much like the Moon . The discovery of a cloud of sodium surrounding Io led to theories that the satellite would be covered in evaporites . [10] Hints of discoveries to come arose from Earth-based infrared observations taken in the 1970s. An anomalously high thermal flux , compared to the other Galilean satellites , was discovered during measurements taken at an infrared wavelength of 10 μm while Io was in Jupiter's shadow. [11] At the time, this heat flux was attributed to the surface having a much higher thermal inertia than Europa and Ganymede . [12] These results were considerably different from measurements taken at wavelengths of 20 μm, which suggested that Io had similar surface properties to the other Galilean satellites. [11] Robert Nelson and Bruce Hapke attempted to explain these features in Io's spectrum by suggesting fumarolic activity as a mechanism for producing short-chain sulfur allotropes on Io's surface. [13] : 9 It has since been determined that the greater flux at shorter wavelengths was due to the combined flux from Io's volcanoes and solar heating, whereas solar heating provides a much greater fraction of the flux at longer wavelengths. [14] A sharp increase in Io's thermal emission at 5 μm was observed on February 20, 1978 by Witteborn, et al. The group considered volcanic activity at the time, in which case the data was fit into a region on Io 8,000 square kilometres (3,100 sq mi) in size at 600 K (300 °C; 600 °F). However, the authors considered that hypothesis unlikely, and instead focused on emission from Io's interaction with Jupiter's magnetosphere. [15] Shortly before the Voyager 1 encounter, Stan Peale , Patrick Cassen, and R. T. Reynolds published a paper in the journal Science predicting a volcanically modified surface and a differentiated interior, with distinct rock types rather than a homogeneous blend. They based this prediction on models of Io's interior that took into account the massive amount of heat produced by the varying tidal pull of Jupiter on Io caused by its slightly eccentric orbit. Their calculations suggested that the amount of heat generated for an Io with a homogeneous interior would be three times greater than the amount of heat generated by radioactive isotope decay alone. This effect would be even greater with a differentiated Io. [3] Voyager 1 's first images of Io revealed a lack of impact craters , suggesting a very young surface. Craters are used by geologists to estimate the age of a planetary surface ; the number of impact structures increase with the age of the planetary surface. Instead, Voyager 1 observed a multi-coloured surface, pockmarked with irregular-shaped depressions, which lacked the raised rims characteristic of impact craters. Voyager 1 also observed flow features formed by low-viscosity fluid and tall, isolated mountains that did not resemble terrestrial volcanoes. The surface observed suggested that, just as Peale and colleagues had theorized, Io was heavily modified by volcanism. [16] On March 8, 1979, three days after passing Jupiter, Voyager 1 took images of Jupiter's moons to help mission controllers determine the spacecraft's exact location, a process called optical navigation. By processing images of Io to enhance the visibility of background stars, navigation engineer Linda Morabito found a 300-kilometre (190 mi) tall cloud along its limb . [1] At first, she suspected the cloud to be a moon behind Io, but no suitably sized body would have been in that location. The feature was determined to be a plume generated by active volcanism at a dark depression later named Pele . [17] Following this discovery, eight other plumes were located in Voyager images of Io. These plumes were later named after mythological deities associated with fire, volcanoes, or mayhem: Loki (two separate plumes), Prometheus , Volund, Amirani , Maui , Marduk, and Masubi . [13] : 13 Thermal emission from multiple sources, indicative of cooling lava, were also found. [18] Surface changes were observed when images that had been acquired by Voyager 2 were compared to those taken four months previously by Voyager 1 , including new plume deposits at Aten Patera and Surt . [19]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Io_Volcanism_Discovery_image.jpg/220px-Io_Volcanism_Discovery_image.jpg",
+                "caption": "Discovery image of active volcanism on Io. The plumes of Pele and Loki are visible above the limb and at the terminator, respectively."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Loki_Patera_Color_Voyager.jpg/220px-Loki_Patera_Color_Voyager.jpg",
+                "caption": "Voyager 1 observation of Loki Patera and nearby lava flows and volcanic pits"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_on_Io",
+        "title": "Volcanism on Io",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Composition",
+        "text": "Analysis of Voyager images led scientists to believe that the lava flows on Io were composed mostly of various forms of molten elemental sulfur. [24] The colouration of the flows was found to be similar to its various allotropes. Differences in the lava colour and brightness are a function of the temperature of polyatomic sulfur and the packing and bonding of its atoms. An analysis of the flows that radiate out from Ra Patera revealed differently colored materials, all associated with liquid sulfur, at different distances from the vent: dark albedo material close to the vent at 525 K (252 °C; 485 °F), red material in the central part of each flow at 450 K (177 °C; 350 °F), and orange material at the farthest ends of each flow at 425 K (152 °C; 305 °F). [24] This colour pattern corresponds to flows radiating out from a central vent, cooling as the lava travels away from it. In addition, temperature measurements of thermal emission at Loki Patera taken by Voyager 1 's Infrared Interferometer Spectrometer and Radiometer (IRIS) instrument were consistent with sulfur volcanism. [18] However, the IRIS instrument was not capable of detecting wavelengths that are indicative of higher temperatures. This meant that temperatures consistent with silicate volcanism were not discovered by Voyager . Despite this, Voyager scientists deduced that silicates must play a role in Io's youthful appearance, from its high density and the need for silicates to support the steep slopes along patera walls. [25] The contradiction between the structural evidence and the spectral and temperature data following the Voyager flybys led to a debate in the planetary science community regarding the composition of Io's lava flows, whether they were composed of silicate or sulfurous materials. [26] Earth-based infrared studies in the 1980s and 1990s shifted the paradigm from one of primarily sulfur volcanism to one where silicate volcanism dominates, and sulfur acts in a secondary role. [26] In 1986, measurements of a bright eruption on Io's leading hemisphere revealed temperatures of at least 900 K (600 °C; 1,200 °F). This is higher than the boiling point of sulfur (715 K or 442 °C or 827 °F), indicating a silicate composition for at least some of Io's lava flows. [27] Similar temperatures were also observed at the Surt eruption in 1979 between the two Voyager encounters, and at the eruption observed by Witteborn and colleagues in 1978. [15] [28] In addition, modeling of silicate lava flows on Io suggested that they cooled rapidly, causing their thermal emission to be dominated by lower temperature components, such as solidified flows, as opposed to the small areas covered by still molten lava near the actual eruption temperature. [29] Silicate volcanism, involving basaltic lava with mafic to ultramafic ( magnesium -rich) compositions, was confirmed by the Galileo spacecraft in the 1990s and 2000s from temperature measurements of Io's numerous hot spots, locations where thermal emission is detected, and from spectral measurements of Io's dark material. Temperature measurements from Galileo 's Solid-State Imager (SSI) and Near-Infrared Mapping Spectrometer (NIMS) revealed numerous hot spots with high-temperature components ranging from at least 1,200 K (900 °C; 1,700 °F) to a maximum of 1,600 K (1,300 °C; 2,400 °F), like at the Pillan Patera eruption in 1997. [5] Initial estimates during the course of the Galileo mission suggesting eruption temperatures approaching 2,000 K (1,700 °C; 3,100 °F) [30] have since proven to be overestimates because the wrong thermal models were used to calculate the temperatures. [5] Spectral observations of Io's dark material suggested the presence of orthopyroxenes , such as enstatite , which are magnesium-rich silicate minerals common in mafic and ultramafic basalt. This dark material is seen in volcanic pits, fresh lava flows, and pyroclastic deposits surrounding recent, explosive volcanic eruptions. [31] Based on the measured temperature of the lava and the spectral measurements, some of the lava may be analogous to terrestrial komatiites . [32] Compressional superheating, which could increase the temperature of magma during ascent to the surface during an eruption, may also be a factor in some of the higher temperature eruptions. [5] Although temperature measurements of Io's volcanoes settled the sulfur-versus-silicates debate that persisted between the Voyager and Galileo missions at Jupiter, sulfur and sulfur dioxide still play a significant role in the phenomena observed on Io. Both materials have been detected in the plumes generated at Io's volcanoes, with sulfur being a primary constituent of Pele-type plumes. [33] Bright flows have been identified on Io, at Tsũi Goab Fluctus, Emakong Patera, and Balder Patera for example, that are suggestive of effusive sulfur or sulfur dioxide volcanism. [34]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/PIA25888-JupiterMoon-Io-VolcanoActivity-20230515.jpg/250px-PIA25888-JupiterMoon-Io-VolcanoActivity-20230515.jpg",
+                "caption": "Jupiter moon Io volcanic activity (12/14/2022/left and 03/01/2023)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ra_Patera_Voyager.jpg/220px-Ra_Patera_Voyager.jpg",
+                "caption": "Voyager 1 image of volcanic pits and lava flows near Ra Patera"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/NIMS_Io_map.jpg/220px-NIMS_Io_map.jpg",
+                "caption": "Thermal emission map of Io by Galileo"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_on_Io",
+        "title": "Volcanism on Io",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Intra-patera eruptions",
+        "text": "Intra-patera eruptions occur within volcanic depressions known as paterae , [35] which generally have flat floors bounded by steep walls. Paterae resemble terrestrial calderas , but it is unknown whether they form when an empty magma chamber collapses, like their terrestrial cousins. One hypothesis suggests that they are produced through the exhumation of volcanic sills , with the overlying material either being blasted out or integrated into the sill. [36] Some paterae display evidence for multiple collapses, similar to the calderas atop Olympus Mons on Mars or Kīlauea on Earth, suggesting that they may occasionally form like volcanic calderas. [35] Because the formation mechanism is still uncertain, the general term for these features uses the Latin descriptor term employed by the International Astronomical Union in naming them, paterae . Unlike similar features on Earth and Mars, these depressions generally do not lie at the peak of shield volcanoes and are larger, with an average diameter of 41 kilometres (25 mi). [35] Patera depths have been measured for only a few paterae and typically exceed 1 km. [37] The largest volcanic depression on Io is Loki Patera at 202 kilometres (126 mi) across. Whatever the formation mechanism, the morphology and distribution of many paterae suggest that they are structurally controlled, with at least half bounded by faults or mountains. [35] This eruption style can take the form of either lava flows, spreading across the floor of the paterae, or lava lakes . [2] [38] Except for observations by Galileo during its seven close flybys, it can be difficult to tell the difference between a lava lake and a lava flow eruption on a patera floor, due to inadequate resolution and similar thermal emission characteristics. Intra-patera lava flow eruptions, such as the Gish Bar Patera eruption in 2001, can be just as voluminous as those seen spreading out across the Ionian plains. [38] Flow-like features have also been observed within a number of paterae, like Camaxtli Patera , suggesting that lava flows periodically resurface their floors. [39] Ionian lava lakes are depressions partially filled with molten lava covered by a thin solidified crust. These lava lakes are directly connected to a magma reservoir lying below. [40] Observations of thermal emission at several Ionian lava lakes reveal glowing molten rock along the patera margin, caused by the lake's crust breaking up along the edge of the patera.  Over time, because the solidified lava is denser than the still-molten magma below, this crust can founder, triggering an increase in thermal emission at the volcano. [41] For some lava lakes, like the one at Pele, this occurs continuously, making Pele one of the brightest emitters of heat in the near-infrared spectrum on Io. [42] At other sites, such as at Loki Patera, this can occur episodically. During an overturning episode at these more quiescent lava lakes, a wave of foundering crust spreads out across the patera at the rate of about 1 kilometre (0.6 mi) per day, with new crust forming behind it until the entire lake has been resurfaced. Another eruption would only begin once the new crust has cooled and thickened enough for it to no longer be buoyant over the molten lava. [43] During an overturning episode, Loki can emit up to ten times more heat than when its crust is stable. [44]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Io_Tupan_Patera.jpg/220px-Io_Tupan_Patera.jpg",
+                "caption": "Tupan Patera , an example of a volcanic depression"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Pele_Io_I32.jpg/220px-Pele_Io_I32.jpg",
+                "caption": "Infrared image showing night-time thermal emission from the lava lake Pele"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_on_Io",
+        "title": "Volcanism on Io",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Flow-dominated eruptions (Promethean Volcanism)",
+        "text": "Flow-dominated eruptions are long-lived events that build up extensive, compound lava flows. The extent of these flows makes them a major terrain type on Io. In this style of eruption, magma emerges onto the surface from vents on the floor of paterae, vents surrounding paterae, or from fissures on the plains, producing inflated, compound lava flows similar to those seen at Kīlauea in Hawaii. [39] Images from the Galileo spacecraft revealed that many of Io's major flows, like those at Prometheus and Amirani , are produced by the build-up of small breakouts of lava on top of older flows. [39] Flow-dominated eruptions differ from explosion-dominated eruptions by their longevity and their lower energy output per unit of time. [6] Lava erupts at a generally steady rate, and flow-dominated eruptions can last for years or decades. Active flow fields more than 300 kilometres (190 mi) long have been observed on Io at Amirani and Masubi. A relatively inactive flow field named Lei-Kung Fluctus covers more than 125,000 square kilometres (48,000 sq mi), an area slightly larger than Nicaragua . [45] The thickness of flow fields was not determined by Galileo, but the individual breakouts on their surface are likely to be 1 m (3 ft) thick. In many cases, active lava breakouts flow out onto the surface at locations tens to hundreds of kilometres from the source vent, with low amounts of thermal emission observed between it and the breakout. This suggests that lava flows through lava tubes from the source vent to the breakout. [46] Although these eruptions generally have a steady eruption rate, larger outbreaks of lava have been observed at many flow-dominated eruption sites. For example, the leading edge of the Prometheus flow field moved 75 to 95 kilometres (47 to 59 mi) between observations by Voyager in 1979 and Galileo in 1996. [47] Although generally dwarfed by explosion-dominated eruptions, the average flow rate at these compound flow fields is much greater than what is observed at similar contemporary lava flows on Earth. Average surface coverage rates of 35–60 square metres (380–650 sq ft) per second were observed at Prometheus and Amirani during the Galileo mission, compared to 0.6 square metres (6.5 sq ft) per second at Kīlauea. [48]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Io_Culann_Patera.jpg/220px-Io_Culann_Patera.jpg",
+                "caption": "Culann Patera, an example of a flow-dominated eruption"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_on_Io",
+        "title": "Volcanism on Io",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Explosion-dominated eruptions (Pillanian Volcanism)",
+        "text": "Explosion-dominated eruptions are the most pronounced of Io's eruption styles. These eruptions, sometimes called \"outburst\" eruptions from their Earth-based detections, are characterized by their short duration (lasting only weeks or months), rapid onset, large volumetric flow rates, and high thermal emission. [49] They lead to a short-lived, significant increase in Io's overall brightness in the near-infrared. The most powerful volcanic eruption observed on Io was an \"outburst\" eruption at Surt , observed by Earth-based astronomers on February 22, 2001. [50] Explosion-dominated eruptions occur when a body of magma (called a dike ) from deep within Io's partially molten mantle reaches the surface at a fissure. This results in a spectacular display of lava fountains . [51] During the beginning of the outburst eruption, thermal emission is dominated by strong, 1–3 μm infrared radiation. It is produced by a large amount of exposed, fresh lava within the fountains at the eruption source vent. [52] Outburst eruptions at Tvashtar in November 1999 and February 2007 centred on a 25-kilometre (16 mi) long, 1-kilometre (0.62 mi) tall lava \"curtain\" produced at a small patera nested within the larger Tvashtar Paterae complex. [51] [53] The large amount of exposed molten lava at these lava fountains has provided researchers with their best opportunity to measure the actual temperatures of Ionian lavas. Temperatures suggestive of an ultramafic lava composition similar to Pre-Cambrian komatiites (about 1,600 K or 1,300 °C or 2,400 °F) are dominant at such eruptions, though superheating of the magma during ascent to the surface cannot be ruled out as a factor in the high eruption temperatures. [5] Although the more explosive, lava-fountaining stage may last only a few days to a week, explosion-dominated eruptions can continue for weeks to months, producing large, voluminous silicate lava flows. A major eruption in 1997 from a fissure north-west of Pillan Patera produced more than 31 cubic kilometres (7.4 cu mi) of fresh lava over a 2 + 1 ⁄ 2 - to 5 + 1 ⁄ 2 -month period, and later flooded the floor of Pillan Patera. [54] Observations by Galileo suggest lava coverage rates at Pillan between 1,000 and 3,000 square metres (11,000 and 32,000 sq ft) per second during the 1997 eruption. The Pillan flow was found to be 10 m (33 ft) thick, compared to the 1 m (3 ft) thick flows observed at the inflated fields at Prometheus and Amirani. Similar, rapidly emplaced lava flows were observed by Galileo at Thor in 2001. [2] Such flow rates are similar to those seen at Iceland 's Laki eruption in 1783 and in terrestrial flood basalt eruptions. [6] Explosion-dominated eruptions can produce dramatic (but often short-lived) surface changes around the eruption site, such as large pyroclastic and plume deposits produced as gas exsolves from lava fountains. [52] The 1997 Pillan eruption produced a 400 km (250 mi) wide deposit of dark, silicate material and bright sulfur dioxide. [54] The Tvashtar eruptions of 2000 and 2007 generated a 330 km (210 mi) tall plume that deposited a ring of red sulfur and sulfur dioxide 1,200 km (750 mi) wide. [55] Despite the dramatic appearance of these features, without continuous resupply of material, the vent surroundings often revert to their pre-eruption appearance over a period of months (in the case of Grian Patera) or years (as at Pillan Patera). [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Io_Tvashtar_I25.jpg/220px-Io_Tvashtar_I25.jpg",
+                "caption": "Galileo images of active lava flows and fountains at Tvashtar Paterae in 1999"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Io_Pillan_Patera_comparison.jpg/220px-Io_Pillan_Patera_comparison.jpg",
+                "caption": "Two Galileo images, taken 168 days apart, showing the effects of an explosion-dominated eruption at Pillan Patera in 1997"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_on_Io",
+        "title": "Volcanism on Io",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Plumes",
+        "text": "The discovery of volcanic plumes at Pele and Loki in 1979 provided conclusive evidence that Io was geologically active. [1] Generally, plumes form when volatiles like sulfur and sulfur dioxide are ejected skyward from Io's volcanoes at speeds reaching 1 kilometre per second (0.62 mi/s), creating umbrella-shaped clouds of gas and dust. Additional materials that might be found in the volcanic plumes include sodium , potassium , and chlorine . [56] [57] Although striking in appearance, volcanic plumes are relatively uncommon. Of the 150 or so active volcanoes observed on Io, plumes have only been observed at a couple of dozen of them. [7] [53] The limited area of Io's lava flows suggests that much of the resurfacing needed to erase Io's cratering record must come from plume deposits. [8] The most common type of volcanic plume on Io are dust plumes, or Prometheus-type plumes, produced when encroaching lava flows vaporize underlying sulfur dioxide frost, sending the material skyward. [58] Examples of Prometheus-type plumes include Prometheus , Amirani , Zamama , and Masubi . These plumes are usually less than 100 kilometres (62 mi) tall with eruption velocities around 0.5 kilometres per second (0.31 mi/s). [59] Prometheus-type plumes are dust-rich, with a dense inner core and upper canopy shock zone , giving them an umbrella-like appearance. These plumes often form bright circular deposits, with a radius ranging between 100 and 250 kilometres (62 and 155 mi) and consisting primarily of sulfur dioxide frost. Prometheus-type plumes are frequently seen at flow-dominated eruptions, helping make this plume type quite long-lived. Four out of the six Prometheus-type plumes observed by Voyager 1 in 1979 were also observed throughout the Galileo mission and by New Horizons in 2007. [17] [53] Although the dust plume can be clearly seen in sunlit visible-light images of Io acquired by passing spacecraft, many Prometheus-type plumes have an outer halo of fainter, more gas-rich material reaching heights approaching that of the larger, Pele-type plumes. [7] Io's largest plumes, Pele-type plumes, are created when sulfur and sulfur dioxide gas exsolve from erupting magma at volcanic vents or lava lakes, carrying silicate pyroclastic material with them. [7] [60] The few Pele-type plumes that have been observed are usually associated with explosion-dominated eruptions, and are short-lived. [6] The exception to this is Pele , which is associated with a long-lived active lava lake eruption, though the plume is thought to be intermittent. [7] The higher vent temperatures and pressures associated with these plumes generate eruption speeds of up to 1 kilometre per second (0.62 mi/s), allowing them to reach heights of between 300 and 500 kilometres (190 and 310 mi). [59] Pele-type plumes form red (from short-chain sulfur) and black (from silicate pyroclastics) surface deposits, including large 1,000 kilometres (620 mi)-wide red rings, as seen at Pele. [8] The erupted sulfurous components of Pele-type plumes are thought to be the result of an excess amount of sulfur in Io's crust and a decrease in sulfur solubility at greater depths in Io's lithosphere . [60] They are generally fainter than Prometheus-type plumes as a result of the low dust content, causing some to be called stealth plumes. These plumes are sometimes only seen in images acquired while Io is in the shadow of Jupiter or those taken in ultraviolet . The little dust that is visible in sunlit images is generated when sulfur and sulfur dioxide condense as the gases reach the top of their ballistic trajectories. [7] That is why these plumes lack the dense central column seen in Prometheus-type plumes, in which dust is generated at the plume source. Examples of Pele-type plumes have been observed at Pele, Tvashtar, and Grian. [7]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tvashtarvideo.gif/220px-Tvashtarvideo.gif",
+                "caption": "Sequence of five New Horizons images, taken over eight minutes, showing Io's volcano Tvashtar erupting material 330 kilometres (210 mi) above its surface"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Galileo_July1999_MasubiPlume.jpg/250px-Galileo_July1999_MasubiPlume.jpg",
+                "caption": "A plume, about 100 km high, erupting from the Masubi region of Io in July 1999"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_on_Io",
+        "title": "Volcanism on Io",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Life and career",
+        "text": "Johnston was born at the University of Chicago Hospital on December 18, 1949, [3] to Thomas and Alice Johnston. [4] They originally lived in Hometown, Illinois , but moved to Oak Lawn shortly after Johnston's birth, where he grew to adulthood. [3] Johnston grew up with one sister. His father worked as an engineer at a local company and his mother as a newspaper editor. Johnston often took photographs for his mother's newspaper and contributed articles to his school's newspaper. He never married. [3] After graduating from Harold L. Richards High School in Oak Lawn, Johnston attended the University of Illinois at Urbana-Champaign . He planned to study journalism, but became intrigued by an introductory geology class, and changed his major. [3] His first geologic project was a study of the Precambrian rock that forms Michigan 's Upper Peninsula . There he investigated the remains of an ancient volcano: a suite of metamorphosed basalts , a gabbroic sill , and volcanic roots in the form of a dioritic and gabbroic intrusion . The experience planted the seed of Johnston's passion for volcanoes. After working hard to learn the subject, [3] he graduated with \"Highest Honors and Distinction\" in 1971. [5] [6] Johnston spent the summer after college in the San Juan volcanic field of Colorado working with volcanologist Pete Lipman in his study of two extinct calderas . [3] [5] This work became the inspiration for the first phase of his graduate work at the University of Washington in Seattle, in which he focused on the Oligocene Cimarron andesitic volcanic complex in the western San Juans. [5] [7] Johnston's reconstruction of the eruptive history of the extinct volcanoes prepared him to study active volcanoes. [5] Johnston's first experience with active volcanoes was a geophysical survey of Mount Augustine in Alaska in 1975. When Mount Augustine erupted in 1976, Johnston raced back to Alaska, shunting his former work on the Cimmaron Volcano into a master's thesis , and making Mount Augustine the focus of his Ph.D. work. He graduated in 1978 with his Ph.D., having shown that (1) the emplacement mechanism of the pyroclastic flows had changed over time, as they became less pumaceous , (2) the magmas contained high quantities of volatile water, chlorine, and sulfur, and (3) underground mixing of the felsic (silicic) magmas with less-viscous mafic (basaltic) magmas could have triggered eruptions. Mount Augustine was also the site of an early near-disaster for Johnston, when he became trapped on Augustine Island as the volcano was building toward another eruption. [8] During the summers of 1978 and 1979, Johnston led studies of the ash-flow sheet emplaced in the 1912 eruption of Mount Katmai in the Valley of Ten Thousand Smokes . [5] The gas phase is extremely important in propelling volcanic eruptions. Because of this, Johnston mastered the many techniques required to analyze glass - vapor inclusions in phenocrysts embedded in lavas, which provide information about gases present during past eruptions. His work at Mount Katmai and other volcanoes in the Valley of Ten Thousand Smokes paved the way for his career, and his \"agility, nerve, patience, and determination around the jet-like summit fumaroles in the crater of Mt. Mageik \" impressed his colleagues. [5] Later in 1978, Johnston joined the United States Geological Survey (USGS), where he monitored volcanic emission levels in the Cascades and Aleutian Arc . There he helped to strengthen the theory that eruptions can be predicted, to some degree, by changes in the makeup of volcanic gases. [9] Fellow volcanologist Wes Hildreth said of Johnston, \"I think Dave's dearest hope was that systematic monitoring of fumarolic emissions might permit detection of changes characteristically precursory to eruptions ... Dave wanted to formulate a general model for the behavior of magmatic volatiles prior to explosive outbursts and to develop a corollary rationale for the evaluation of hazards.\" [5] During this time, Johnston continued to visit Mount Augustine every summer and also assessed the geothermal energy potential of the Azores and Portugal . In the last year of his life, Johnston developed an interest in the health, agricultural, and environmental effects of both volcanic and anthropogenic emissions to the atmosphere. [5] Johnston was based at the branch of the USGS in Menlo Park, California , but his work on volcanoes took him all over the Pacific Northwest region. When the first earthquakes shook Mount St. Helens on March 16, 1980, Johnston was nearby at the University of Washington, where he had pursued his doctorate. Intrigued by the possible event of an eruption, Johnston contacted Stephen Malone, a professor of geology at the university. Malone had been his mentor when Johnston had worked at the San Juan complex in Colorado, and Johnston admired his work. [3] Malone stated that he \"put him to work\" almost instantly, allowing Johnston to escort interested reporters to a place near the volcano. [10] Johnston was the first geologist on the volcano, [5] and soon became a leader within the USGS team, taking charge of monitoring of volcanic gas emissions. [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Dave_Johnston_with_gas-detection_instrument_at_Mount_St._Helens%2C_4_April_1980_%28USGS%29_1.jpg/220px-Dave_Johnston_with_gas-detection_instrument_at_Mount_St._Helens%2C_4_April_1980_%28USGS%29_1.jpg",
+                "caption": "Johnston using a correlation spectrometer , which measures ultraviolet radiation as an indicator of the sulfur dioxide content of gases ejected from Mount St. Helens. Photographed on April 4, 1980."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/David_A._Johnson_yearbook_photo_1967.png/220px-David_A._Johnson_yearbook_photo_1967.png",
+                "caption": "David A. Johnston in 1967"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/David_A._Johnston",
+        "title": "David A. Johnston",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Precursor activity",
+        "text": "Since its last eruptive activity in 1857, Mount St. Helens had been largely dormant . Seismographs were not installed until 1972. This period of 123 years of inactivity ended in early 1980. On March 15, a cluster of tiny earthquakes rocked the area around the mountain. For six days, more than 100 earthquakes clustered around Mount St. Helens, an indication that magma was moving. There was initially some doubt as to whether the earthquakes were precursors to an eruption. [11] By March 20, a magnitude 4.2 earthquake shook the wilderness around the volcano. The next day, seismologists installed three seismic recorder stations. [12] By March 24, volcanologists at the USGS—including Johnston—became more confident that the seismic activity was a sign of an impending eruption. After March 25, seismic activity drastically increased. By March 26, more than seven earthquakes over magnitude 4.0 had been recorded, and the next day, hazard warnings were publicly issued. [11] On March 27, a phreatic eruption took place, ejecting a plume of ash nearly 7,000 feet (2,100 m) into the air. [11] Similar activity continued at the volcano over the following weeks, excavating the crater, forming an adjacent caldera, and erupting small amounts of steam, ash, and tephra . With each new eruption, the plumes of steam and ash from the volcano rose, eventually climbing to 20,000 feet (6,000 m). By late March, the volcano was erupting up to 100 times per day. [13] Spectators congregated in the vicinity of the mountain, hoping for a chance to see its eruptions. They were joined by reporters in helicopters, as well as mountain climbers. [13] On April 17, a bulge (or \" cryptodome \") was discovered on the mountain's north flank, suggesting that Mount St. Helens could produce a lateral blast . [14] Rising magma under Mount St. Helens had veered off to the north flank, creating a growing bulge on the surface. [14]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dave_Johnston_going_into_Mount_St._Helens_crater_to_sample_lake%2C_30_April_1980_%28USGS%29_cropped.jpg/220px-Dave_Johnston_going_into_Mount_St._Helens_crater_to_sample_lake%2C_30_April_1980_%28USGS%29_cropped.jpg",
+                "caption": "Johnston going into the Mount St. Helens crater to sample the lake. Photographed on April 30, 1980."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dave_Johnston_collecting_sample_from_Mount_St._Helens_crater_lake%2C_30_April_1980_%28USGS%29_cropped.jpg/220px-Dave_Johnston_collecting_sample_from_Mount_St._Helens_crater_lake%2C_30_April_1980_%28USGS%29_cropped.jpg",
+                "caption": "Johnston sampling the lake"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/David_A._Johnston",
+        "title": "David A. Johnston",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Final signs and primary blast",
+        "text": "Given the increasing seismic and volcanic activity, Johnston and the other volcanologists working for the USGS in its Vancouver branch prepared to observe any impending eruption. Geologist Don Swanson and others placed reflectors on and around the growing domes, [15] and established the Coldwater I 46°17′55.8″N 122°17′22.9″W ﻿ / ﻿ 46.298833°N 122.289694°W ﻿ / 46.298833; -122.289694 and II 46°16′37.5″N 122°13′28.0″W ﻿ / ﻿ 46.277083°N 122.224444°W ﻿ / 46.277083; -122.224444 observation posts to use laser ranging to measure how the distances to these reflectors changed over time as the domes deformed. Coldwater II, where Johnston died, was located just 6 miles (10 km) north of the mountain. To the astonishment of the USGS geologists, the bulge was growing at a rate of 5 to 8 feet (1.5 to 2.4 meters) per day. [16] Tiltmeters installed on the volcano's north side displayed a northwest trending tilt for that side of the mountain, and a southwest trending tilt was observed on the south side. Worried that the amount of pressure on the magma underground was increasing, scientists analyzed gases by the crater, and found high traces of sulfur dioxide . After this discovery, they began to regularly check the fumarolic activity and monitor the volcano for dramatic changes, but none were observed. Disheartened, they instead opted to study the growing bulge and the threat an avalanche could have for humans relatively near the volcano. [17] An evaluation of the threat was carried out, concluding that a landslide or avalanche in the Toutle River could spawn lahars , or mudflows, downstream. [14] At that point, the previously consistent phreatic activity had become intermittent. Between May 10 and 17, the only change occurred on the volcano's north flank, as the bulge increased in size. On May 16 and 17, the mountain stopped its phreatic eruptions completely. [17] The active Mount St. Helens was radically different from its dormant form, now featuring an enormous bulge and several craters. In the week preceding the eruption, cracks formed in the north sector of the volcano's summit, indicating a movement of magma. [17] At 8:32 a.m. local time the next day (May 18), an earthquake measuring magnitude 5.1 rocked the area, triggering the landslide that started the main eruption. In a matter of seconds, vibrations from the earthquake loosened 2.7 cubic kilometers (0.6 cu mi) of rock on the mountain's north face and summit, creating a massive landslide. [18] It was the largest subaerial (on land) landslide in Earth's recorded history. [19] With the loss of the confining pressure of the overlying rock, Mount St. Helens began to rapidly emit steam and other volcanic gases. A few seconds later, it erupted laterally, sending swift pyroclastic flows down its flanks at near supersonic speeds. These flows were later joined by lahars . [20] Before being struck by a series of flows that, at their fastest, would have taken less than a minute to reach his position 46°17′37″N 122°13′27.1″W ﻿ / ﻿ 46.29361°N 122.224194°W ﻿ / 46.29361; -122.224194 , Johnston attempted to radio his USGS co-workers with the message: \"Vancouver! Vancouver! This is it! Vancouver, is the transmitter on?\" The cloud of the eruption blocked the transmission of his message to Vancouver; his final words were recorded by an amateur radio operator. Seconds later, the signal from the radio went silent, and all contact with the geologist was lost. [21] Initially, there was some debate as to whether Johnston had survived; records soon showed a radio message from fellow eruption victim and amateur radio operator Gerry Martin, located near the Coldwater peak 46°17′59.7″N 122°12′55″W ﻿ / ﻿ 46.299917°N 122.21528°W ﻿ / 46.299917; -122.21528 and farther north of Johnston's position, reporting his sighting of the eruption enveloping the Coldwater II observation post. As the blast overwhelmed Johnston's post, Martin declared solemnly: \"Gentlemen, the camper and car that’s sitting over to the south of me is covered. It’s going to hit me, too.\" before his radio too went silent. [22] [23] The extent, speed and direction of the avalanche and pyroclastic flows that overwhelmed Johnston, Martin, and others were later described in detail in a paper titled 'Chronology and Character of the May 18, 1980 Explosive Eruptions of Mount St. Helens', published in 1984 in a collection published by the National Research Council 's Geophysics Study Committee. [24] In this paper, the authors examined photographs and satellite images of the eruption to construct a chronology and description of the first few minutes. Included in the paper is figure 10.3, a series of timed photographs taken from Mount Adams , 33 miles (53 km) east of Mount St. Helens. These six photographs, taken sideways on to the lateral blast, vividly show the extent and size of the avalanche and flows as they reached northwards over and beyond Johnston's position. Figure 10.7 from the same paper is an overhead diagram showing the position of the pyroclastic surge front at half-minute intervals, with the positions of Johnston (Coldwater II) and Martin included. [24] The eruption was heard hundreds of miles away, [25] but some of those who survived the eruption declared that the landslide and pyroclastic flows were silent as they raced down the mountain. Kran Kilpatrick, an employee of the United States Forest Service , recalled, \"There was no sound to it, not a sound. It was like a silent movie and we were all in it.\" [26] The reason for this discrepancy is a \"quiet zone\", created as a result of the motion and temperature of air and, to a lesser extent, upon local topography. [25] Famous for telling reporters that being on the mountain was like \"standing next to a dynamite keg and the fuse is lit\", [27] Johnston had been among the first volcanologists at the volcano when eruptive signs appeared, and shortly after was named the head of volcanic gas monitoring. He and several other volcanologists prevented people from being near the volcano during the few months of pre-eruptive activity, and successfully fought pressure to re-open the area. [9] Their work kept the death toll at a few tens of individuals, instead of the thousands who possibly could have been killed had the region not been sealed off.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/David_Johnston_near_crest_of_the_bulge_on_the_north_side_of_Mount_St._Helens%2C_17_May_1980_%28USGS%29_cropped_2.JPG/220px-David_Johnston_near_crest_of_the_bulge_on_the_north_side_of_Mount_St._Helens%2C_17_May_1980_%28USGS%29_cropped_2.JPG",
+                "caption": "Johnston (center) climbing into the summit crater of Mount St. Helens to sample gases. For the scale, see this picture ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mount_St._Helens%2C_one_day_before_the_devastating_eruption.jpg/220px-Mount_St._Helens%2C_one_day_before_the_devastating_eruption.jpg",
+                "caption": "Mount St. Helens one day before the eruption, photographed by Harry Glicken from the ridge where the Coldwater II observation post occupied by Johnston was located"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/MSH80_st_helens_from_johnston_ridge_09-10-80.jpg/220px-MSH80_st_helens_from_johnston_ridge_09-10-80.jpg",
+                "caption": "Mount St. Helens four months after the eruption, photographed by Harry Glicken from approximately the same location as the earlier picture. In the intervening period, the volcano had erupted, killing Johnston and approximately 60 others , devastating the landscape."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/David_A._Johnston",
+        "title": "David A. Johnston",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "USGS team and rescue efforts",
+        "text": "Many USGS scientists worked on the team monitoring the volcano, but it was graduate student Harry Glicken who had been manning the Coldwater II observation post for the two and a half weeks immediately preceding the eruption. [28] The evening before the eruption he was scheduled to be relieved by USGS geologist Don Swanson, but something came up, and Swanson asked Johnston to take his place. Johnston agreed. That Saturday, the day before the eruption took place, Johnston ascended the mountain and went on a patrol of the volcano with geologist Carolyn Driedger. Tremors shook the mountain. Driedger was supposed to camp on one of the ridges overlooking the volcano that night, but Johnston told her to head home and said that he would stay on the volcano alone. [29] While at Coldwater II, Johnston was to observe the volcano for any further signs of an eruption. [30] Just prior to his departure, at 7 p.m. on the evening of May 17, 13½ hours before the eruption, Glicken took the famous photograph of Johnston sitting by the observation-post trailer with a notebook on his lap, smiling. [17] The following morning, May 18, at 8:32 a.m. , [31] the volcano erupted. Immediately, rescue workers were dispatched to the area. The official USGS pilot, Lon Stickney, who had been flying the scientists to the mountain, conducted the first rescue attempt. He flew his helicopter over the scarred remains of trees, valleys, and the Coldwater II observation post ridge, where he saw bare rock and uprooted trees. Because he saw no sign of Johnston's trailer, Stickney began to panic, becoming \"emotionally distraught\". [32] Frantic and guilt-stricken, Harry Glicken convinced three separate helicopter pilots to take him up on flights over the devastated area in a rescue attempt, but the eruption had so changed the landscape that they were unable to locate any sign of the Coldwater II observation post. In 1993, while building a 9-mile (14 km) extension of Washington State Route 504 (also called \"Spirit Lake Memorial Highway\") to lead to the Johnston Ridge Observatory, construction workers discovered pieces of Johnston's trailer. [33] His body, however, has never been recovered. [34]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ColdwaterII_LANDSAT7color.png/220px-ColdwaterII_LANDSAT7color.png",
+                "caption": "Johnston's Coldwater II observation post was in the path of the blast when the north side of Mount St. Helens collapsed."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/David_A._Johnston",
+        "title": "David A. Johnston",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Scientific",
+        "text": "Johnston was commemorated by both his fellow scientists and by the government. Known for his diligent and particular nature, he was called \"an exemplary scientist\" by a USGS dedication paper, which also described him as \"unaffectedly genuine, with an infectious curiosity and enthusiasm\". [9] He was quick to \"dissipate cynicism\" and believed that \"careful evaluation and interpretation\" was the best approach to his work. [9] An obituary notice for Johnston stated that at the time of his death he had been \"among the leading young volcanologists in the world\" and that his \"enthusiasm and warmth\" would be \"missed at least as much as his scientific strength\". [37] Following the eruption, Harry Glicken and other geologists at the USGS dedicated their work to Johnston. [38] Because Johnston was believed to be safe at the Coldwater II observation post, the fact that he died shocked his friends and co-workers alike. However, most of his colleagues and family asserted that Johnston died \"doing what he wanted to do.\" [4] His mother stated in an interview shortly after the eruption, \"Not many people get to do what they really want to do in this world, but our son did. ... He would tell us he may never get rich but he was doing what he wanted. He wanted to be near if the eruption came. In a phone call on Mother's Day, he told us it's a sight very few geologists get to see.\" [4] Dr. Stephen Malone agreed that Johnston died doing what he loved, and stated that he \"was very good at his work\". [10] Johnston's role in the study of the volcano in the weeks leading up to the eruption was acknowledged in 1981 in a chronology of the eruption, published as part of the USGS report titled 'The 1980 Eruptions of Mount St. Helens, Washington': Since Johnston's death, his field of volcanic eruption prediction has advanced significantly, and volcanologists are now able to predict eruptions based on a number of precursors that become apparent between days and months in advance. [40] Geologists can now identify characteristic patterns in seismic waves that indicate particular magmatic activity. [41] In particular, volcanologists have used deep, long- period earthquakes that indicate that magma is rising through the crust. They can also use carbon dioxide emission as a proxy for magma supply rate. Measurements of surface deformation due to magmatic intrusions, like those that were conducted by Johnston and the other USGS scientists at the Coldwater I and II outposts, have advanced in scale and precision. Ground deformation monitoring networks around volcanoes now consist of InSAR (interferometry), surveys of networks of GPS monuments, microgravity surveys in which scientists measure the change in gravitational potential or acceleration because of the intruding magma and resulting deformation, strain meters, and tiltmeters. Though there is still work to be done, this combination of approaches has greatly improved scientists' abilities to forecast volcanic eruptions. [40] In addition to his work, Johnston himself has become part of the history of volcanic eruptions. With Harry Glicken, he is one of two volcanologists from the United States to die in a volcanic eruption. [42] Glicken was being mentored by Johnston, who relieved Glicken of his watch at the Coldwater II observation post 13 hours before Mount St. Helens erupted. [28] Glicken died in 1991, eleven years later, when a pyroclastic flow overran him and several others at Mount Unzen in Japan. [42] [43]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Mt_st_helens_Johnston_ridge_25_years_later.jpg/200px-Mt_st_helens_Johnston_ridge_25_years_later.jpg",
+                "caption": "Johnston Ridge from the Johnston Ridge Observatory in July 2005, showing new plant growth among dead trees from the eruption 25 years earlier"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Johston_Ridge_Observatory_in_December_2005_%28USGS%29.jpg/220px-Johston_Ridge_Observatory_in_December_2005_%28USGS%29.jpg",
+                "caption": "Johnston Ridge Observatory (JRO) in December 2005"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/David_A._Johnston",
+        "title": "David A. Johnston",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Commemoration",
+        "text": "Early acts of commemoration included two trees that were planted in Tel Aviv, Israel , [8] and the renaming of a community center in Johnston's hometown as the \"Johnston Center\". These actions were reported in newspapers during the first anniversary of the eruption in May 1981. [8] [44] On the second anniversary of the eruption, the USGS office in Vancouver (which had been permanently established following the 1980 eruption) was renamed the David A. Johnston Cascades Volcano Observatory (CVO) in his memory. [45] This volcano observatory is the one most responsible for monitoring Mount St. Helens, and helped to predict all of the volcano's eruptions between 1980 and 1985. [46] In a 2005 open day, the lobby area of the CVO included a display and painting commemorating Johnston. [47] Johnston's connections with the University of Washington (where he had carried out his masters and doctoral research) are remembered by a memorial fund that established an endowed graduate-level fellowship within what is now the department of Earth and Space Sciences. By the time of the first anniversary of his death, the fund had exceeded $30,000. Known as the 'David A. Johnston Memorial Fellowship for Research Excellence', a number of awards of this fellowship have been made over the years since it was launched. [8] [48] Following the eruption, the area where the Coldwater II observation post had been was sectioned off. Eventually, an observatory was built in the area in Johnston's name, and opened in 1997. [49] Located just over 5 miles (8 km) from the north flank of Mount St. Helens, the Johnston Ridge Observatory (JRO) allows the public to admire the open crater, new activity, and the creations of the 1980 eruption, including an extensive basalt field. Part of the Mount St. Helens National Volcanic Monument, the JRO was constructed for $10.5 million , equipped with monitoring equipment. Visited by thousands of tourists annually, it also includes tours, a theater, and an exhibit hall. [50] There are several public memorials where Johnston's name is inscribed in a list of those known to have died in the eruption. These memorials include a large curved granite monument at an outside viewing area at the Johnston Ridge Observatory, which opened in 1997, and a plaque at the Hoffstadt Bluffs Visitor Center, which was unveiled in a memorial grove in May 2000. [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sign_for_Cascades_Volcano_Observatory_on_Open_day_2005_%28USGS%29_cropped.JPG/220px-Sign_for_Cascades_Volcano_Observatory_on_Open_day_2005_%28USGS%29_cropped.JPG",
+                "caption": "Sign showing the full and official name of the David A. Johnston Cascades Volcano Observatory (CVO)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/David_A._Johnston",
+        "title": "David A. Johnston",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Depictions",
+        "text": "There have been several tellings of Johnston's story in documentaries, films and docudramas about the eruption. In the 1981 HBO television film St. Helens , actor David Huffman starred as David Jackson, a fictional character supposedly based on Johnston, but with almost no representation of his actions in 1980. Johnston's parents objected to the production of the film, arguing that it possessed not \"an ounce of David in it\" and portrayed \"him as a daredevil rather than a careful scientist\". [21] Johnston's mother stated that the film had changed many true aspects of the eruption, and depicted her son as \"a rebel\" with \"a history of disciplinary trouble\". [21] Prior to the film's premiere on May 18, 1981, the first anniversary of the eruption, 36 scientists who knew Johnston signed a letter of protest. They wrote that, \"Dave's life was too meritorious to require fictional embellishments,\" and that, \"Dave was a superbly conscientious and creative scientist.\" [52] Several documentaries and docudramas have covered the history of the eruption, including archive footage and dramatisations of Johnston's story. These include Up From the Ashes (1990) by KOMO-TV , an episode of the 2005 second series of Seconds From Disaster broadcast by the National Geographic Channel , [53] an episode of the 2006 series Surviving Disaster made by the BBC , [54] and the episode \"Rescued From Mount St. Helens\" from the 2017 series We'll Meet Again with Ann Curry on PBS . [55]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mount_St._Helens_eruption_memorial%2C_Johnston_Ridge.jpg/220px-Mount_St._Helens_eruption_memorial%2C_Johnston_Ridge.jpg",
+                "caption": "A granite memorial inscribed with the names of the victims of the May 18, 1980, eruption, photographed on the 27th anniversary of the blast. David Johnston's name can be seen beneath the rose, slightly to the left."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/David_A._Johnston",
+        "title": "David A. Johnston",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Geology",
+        "text": "The volcano is about 3.7 miles (6.0 km) in diameter at its base with a rough volume of 7.2 to 8.4 cu mi (30–35 km 3 ). The sides of the upper cone are relatively steep (in comparison to volcanoes in general). Made up of pyroclastic flow deposits and lava flows , and resting on Mesozoic era rocks of the Aleutian Mountain Range batholith , the mountain has been somewhat weathered by movement of several glaciers that reside on it. The current main vent is on the north side of the crater by the head of the Drift glacier. Also present on the mountain are Holocene lahar deposits that extend as far as the Cook Inlet. [10] This mountain has produced andesite , basalt and dacite , with relatively silicic andesite dominant in recent eruptions. [11]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redoubt_Andesite.jpg/220px-Redoubt_Andesite.jpg",
+                "caption": "A chunk of andesite thrown from the volcano in 2009 is seen on display at the Anchorage Museum in March 2011."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mount_Redoubt",
+        "title": "Mount Redoubt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Early reports",
+        "text": "Captain James Cook saw Mt. Redoubt during the summer of 1778, describing it as \"emitting a white smoke but no fire which made some think it was no more than a white thick cloud such as we have frequently seen on the Coast, for the most part appearing on the sides of hills and often extends along a whole range and at different times falls or rises, expands or contracts itself and has a resemblance to Clouds of white smoke. But this besides being too small for one of those clouds, remained as it were fixed in the same spot for the whole time the Mountain was clear which was above 48 hours.\" However, several sources call this a \"discredited eruption\". [12] There are several other of these activities that are not called eruptions. In 1819, smoke was observed at the mountain. However, this is often not recorded as an eruption as the information was insufficient to identify it as such. [13] Similarly, in 2003, a blowing cloud of snow was mistaken by an employee of the ConocoPhillips Building in Anchorage for an ash plume . [14] Possible steam-vapor let off was observed in 1933 at the mountain. [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/MtRedoubtedit1.jpg/220px-MtRedoubtedit1.jpg",
+                "caption": "April 21, 1990 eruption column (to a height of about 5.6 mi (9 km)) [16] from Redoubt Volcano as viewed to the west from the Kenai Peninsula"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Redoubtfumarole01312009.jpg/220px-Redoubtfumarole01312009.jpg",
+                "caption": "Fumaroles observed on the side of Mount Redoubt on January 31, 2009"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mt_Redoubt_2009-03-21_1237756418_ak231.JPG/220px-Mt_Redoubt_2009-03-21_1237756418_ak231.JPG",
+                "caption": "Fumarole on March 21, 2009, the day before the eruption"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Redoubt_Volcano_Stirs.jpg/220px-Redoubt_Volcano_Stirs.jpg",
+                "caption": "A plume of vapor from Mt Redoubt as seen from space on 5 May 2009."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Redoubt_Volcano_geologic_map.png/220px-Redoubt_Volcano_geologic_map.png",
+                "caption": "Redoubt Volcano geologic map"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mount_Redoubt",
+        "title": "Mount Redoubt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Eruption mechanisms",
+        "text": "Volcanic eruptions arise through three main mechanisms: [1] There are two types of eruptions in terms of activity, explosive eruptions and effusive eruptions . Explosive eruptions are characterized by gas-driven explosions that propels magma and tephra. [1] Effusive eruptions, meanwhile, are characterized by the outpouring of lava without significant explosive eruption. [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/VEIfigure_en.svg/220px-VEIfigure_en.svg.png",
+                "caption": "Diagram showing the scale of VEI correlation with total ejecta volume"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Types_of_volcanic_eruptions",
+        "title": "Types of volcanic eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Hawaiian",
+        "text": "Hawaiian eruptions are a type of volcanic eruption named after the Hawaiian volcanoes , such as Mauna Loa , with this eruptive type is hallmark. Hawaiian eruptions are the calmest types of volcanic events, characterized by the effusive eruption of very fluid basalt -type lavas with low gaseous content . The volume of ejected material from Hawaiian eruptions is less than half of that found in other eruptive types. Steady production of small amounts of lava builds up the large, broad form of a shield volcano . Eruptions are not centralized at the main summit as with other volcanic types, and often occur at vents around the summit and from fissure vents radiating out of the center. [4] Hawaiian eruptions often begin as a line of vent eruptions along a fissure vent , a so-called \"curtain of fire.\" These die down as the lava begins to concentrate at a few of the vents. Central-vent eruptions, meanwhile, often take the form of large lava fountains (both continuous and sporadic), which can reach heights of hundreds of meters or more. The particles from lava fountains usually cool in the air before hitting the ground, resulting in the accumulation of cindery scoria fragments; however, when the air is especially thick with clasts , they cannot cool off fast enough due to the surrounding heat, and hit the ground still hot, the accumulation of which forms spatter cones . If eruptive rates are high enough, they may even form splatter-fed lava flows. Hawaiian eruptions are often extremely long lived; Puʻu ʻŌʻō , a volcanic cone on Kilauea , erupted continuously for over 35 years. Another Hawaiian volcanic feature is the formation of active lava lakes , self-maintaining pools of raw lava with a thin crust of semi-cooled rock. [4] Flows from Hawaiian eruptions are basaltic, and can be divided into two types by their structural characteristics. Pahoehoe lava is a relatively smooth lava flow that can be billowy or ropey. They can move as one sheet, by the advancement of \"toes\", or as a snaking lava column. [10] A'a lava flows are denser and more viscous than pahoehoe, and tend to move slower. Flows can measure 2 to 20 m (7 to 66 ft) thick. A'a flows are so thick that the outside layers cools into a rubble-like mass, insulating the still-hot interior and preventing it from cooling. A'a lava moves in a peculiar way—the front of the flow steepens due to pressure from behind until it breaks off, after which the general mass behind it moves forward. Pahoehoe lava can sometimes become A'a lava due to increasing viscosity or increasing rate of shear , but A'a lava never turns into pahoehoe flow. [11] Hawaiian eruptions are responsible for several unique volcanological objects. Small volcanic particles are carried and formed by the wind, chilling quickly into teardrop-shaped glassy fragments known as Pele's tears (after Pele , the Hawaiian volcano deity). During especially high winds these chunks may even take the form of long drawn-out strands, known as Pele's hair . Sometimes basalt aerates into reticulite , the lowest density rock type on earth. [4] Although Hawaiian eruptions are named after the volcanoes of Hawaii, they are not necessarily restricted to them; the highest lava fountain recorded was during the 23 November 2013 eruption of Mount Etna in Italy, which reached a stable height of around 2,500 m (8,200 ft) for 18 minutes, briefly peaking at a height of 3,400 m (11,000 ft). [12] Volcanoes known to have Hawaiian activity include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hawaiian_Eruption-numbers.svg/220px-Hawaiian_Eruption-numbers.svg.png",
+                "caption": "Diagram of a Hawaiian eruption . (key: 1. Ash plume 2. Lava fountain 3. Crater 4. Lava lake 5. Fumaroles 6. Lava flow 7. Layers of lava and ash 8. Stratum 9. Sill 10. Magma conduit 11. Magma chamber 12. Dike ) Click for larger version ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ropy_pahoehoe.jpg/150px-Ropy_pahoehoe.jpg",
+                "caption": "Ropey pahoehoe lava from Kilauea , Hawaiʻi"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Types_of_volcanic_eruptions",
+        "title": "Types of volcanic eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Strombolian",
+        "text": "Strombolian eruptions are a type of volcanic eruption named after the volcano Stromboli , which has been erupting nearly continuously for centuries. [13] Strombolian eruptions are driven by the bursting of gas bubbles within the magma . These gas bubbles within the magma accumulate and coalesce into large bubbles, called gas slugs . These grow large enough to rise through the lava column. [14] Upon reaching the surface, the difference in air pressure causes the bubble to burst with a loud pop, [13] throwing magma in the air in a way similar to a soap bubble . Because of the high gas pressures associated with the lavas, continued activity is generally in the form of episodic explosive eruptions accompanied by the distinctive loud blasts. [13] During eruptions, these blasts occur as often as every few minutes. [15] The term \"Strombolian\" has been used indiscriminately to describe a wide variety of volcanic eruptions, varying from small volcanic blasts to large eruptive columns . In reality, true Strombolian eruptions are characterized by short-lived and explosive eruptions of lavas with intermediate viscosity , often ejected high into the air. Columns can measure hundreds of meters in height. The lavas formed by Strombolian eruptions are a form of relatively viscous basaltic lava, and its end product is mostly scoria . [13] The relative passivity of Strombolian eruptions, and its non-damaging nature to its source vent allow Strombolian eruptions to continue unabated for thousands of years, and also makes it one of the least dangerous eruptive types. [15] Strombolian eruptions eject volcanic bombs and lapilli fragments that travel in parabolic paths before landing around their source vent. [16] The steady accumulation of small fragments builds cinder cones composed completely of basaltic pyroclasts . This form of accumulation tends to result in well-ordered rings of tephra . [13] Strombolian eruptions are similar to Hawaiian eruptions , but there are differences. Strombolian eruptions are noisier, produce no sustained eruptive columns , do not produce some volcanic products associated with Hawaiian volcanism (specifically Pele's tears and Pele's hair ), and produce fewer molten lava flows (although the eruptive material does tend to form small rivulets). [13] [15] Volcanoes known to have Strombolian activity include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Strombolian_Eruption-numbers.svg/220px-Strombolian_Eruption-numbers.svg.png",
+                "caption": "Diagram of a Strombolian eruption . (key: 1. Ash plume 2. Lapilli 3. Volcanic ash rain 4. Lava fountain 5. Volcanic bomb 6. Lava flow 7. Layers of lava and ash 8. Stratum 9. Dike 10. Magma conduit 11. Magma chamber 12. Sill ) Click for larger version ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Stromboli_Eruption.jpg/150px-Stromboli_Eruption.jpg",
+                "caption": "An example of the lava arcs formed during Strombolian activity. This image is of Stromboli itself."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Types_of_volcanic_eruptions",
+        "title": "Types of volcanic eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Vulcanian",
+        "text": "Vulcanian eruptions are a type of volcanic eruption named after the volcano Vulcano . [24] It was named so following Giuseppe Mercalli 's observations of its 1888–1890 eruptions. [25] In Vulcanian eruptions, intermediate viscous magma within the volcano make it difficult for vesiculate gases to escape. Similar to Strombolian eruptions, this leads to the buildup of high gas pressure , eventually popping the cap holding the magma down and resulting in an explosive eruption. However, unlike Strombolian eruptions, ejected lava fragments are not aerodynamic; this is due to the higher viscosity of Vulcanian magma and the greater incorporation of crystalline material broken off from the former cap. They are also more explosive than their Strombolian counterparts, with eruptive columns often reaching between 5 and 10 km (3 and 6 mi) high. Lastly, Vulcanian deposits are andesitic to dacitic rather than basaltic . [24] Initial Vulcanian activity is characterized by a series of short-lived explosions, lasting a few minutes to a few hours and typified by the ejection of volcanic bombs and blocks . These eruptions wear down the lava dome holding the magma down, and it disintegrates, leading to much more quiet and continuous eruptions. Thus an early sign of future Vulcanian activity is lava dome growth, and its collapse generates an outpouring of pyroclastic material down the volcano's slope. [24] Deposits near the source vent consist of large volcanic blocks and bombs , with so-called \" bread-crust bombs \" being especially common. These deeply cracked volcanic chunks form when the exterior of ejected lava cools quickly into a glassy or fine-grained shell, but the inside continues to cool and vesiculate . The center of the fragment expands, cracking the exterior. However the bulk of Vulcanian deposits are fine grained ash . The ash is only moderately dispersed, and its abundance indicates a high degree of fragmentation , the result of high gas contents within the magma. In some cases these have been found to be the result of interaction with meteoric water , suggesting that Vulcanian eruptions are partially hydrovolcanic . [24] Volcanoes that have exhibited Vulcanian activity include: Vulcanian eruptions are estimated to make up at least half of all known Holocene eruptions. [30]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vulcanian_Eruption-numbers.svg/220px-Vulcanian_Eruption-numbers.svg.png",
+                "caption": "Diagram of a Vulcanian eruption . (key: 1. Ash plume 2. Lapilli 3. Lava fountain 4. Volcanic ash rain 5. Volcanic bomb 6. Lava flow 7. Layers of lava and ash 8. Stratum 9. Sill 10. Magma conduit 11. Magma chamber 12. Dike ) Click for larger version."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tavurvur_volcano_edit.jpg/220px-Tavurvur_volcano_edit.jpg",
+                "caption": "Tavurvur in Papua New Guinea erupting"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Types_of_volcanic_eruptions",
+        "title": "Types of volcanic eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Peléan",
+        "text": "Peléan eruptions (or nuée ardente ) are a type of volcanic eruption named after the volcano Mount Pelée in Martinique , the site of a Peléan eruption in 1902 that is one of the worst natural disasters in history. In Peléan eruptions, a large amount of gas, dust, ash, and lava fragments are blown out the volcano's central crater, [31] driven by the collapse of rhyolite , dacite , and andesite lava domes that often creates large eruptive columns . An early sign of a coming eruption is the growth of a so-called Peléan or lava spine , a bulge in the volcano's summit preempting its total collapse. [32] The material collapses upon itself, forming a fast-moving pyroclastic flow [31] (known as a block -and- ash flow) [33] that moves down the side of the mountain at tremendous speeds, often over 150 km (93 mi) per hour. These landslides make Peléan eruptions one of the most dangerous in the world, capable of tearing through populated areas and causing serious loss of life. The 1902 eruption of Mount Pelée caused tremendous destruction, killing more than 30,000 people and completely destroying St. Pierre , the worst volcanic event in the 20th century . [31] Peléan eruptions are characterized most prominently by the incandescent pyroclastic flows that they drive. The mechanics of a Peléan eruption are very similar to that of a Vulcanian eruption, except that in Peléan eruptions the volcano's structure is able to withstand more pressure, hence the eruption occurs as one large explosion rather than several smaller ones. [34] Volcanoes known to have Peléan activity include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pelean_Eruption-numbers.svg/220px-Pelean_Eruption-numbers.svg.png",
+                "caption": "Diagram of Peléan eruption . (key: 1. Ash plume 2. Volcanic ash rain 3. Lava dome 4. Volcanic bomb 5. Pyroclastic flow 6. Layers of lava and ash 7. Stratum 8. Magma conduit 9. Magma chamber 10. Dike ) Click for larger version ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Types_of_volcanic_eruptions",
+        "title": "Types of volcanic eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Plinian",
+        "text": "Plinian eruptions (or Vesuvian eruptions) are a type of volcanic eruption named for the historical eruption of Mount Vesuvius in 79 AD that buried the Roman towns of Pompeii and Herculaneum and, specifically, for its chronicler Pliny the Younger . [40] The process powering Plinian eruptions starts in the magma chamber , where dissolved volatile gases are stored in the magma. The gases vesiculate and accumulate as they rise through the magma conduit . These bubbles agglutinate and once they reach a certain size (about 75% of the total volume of the magma conduit) they explode. The narrow confines of the conduit force the gases and associated magma up, forming an eruptive column . Eruption velocity is controlled by the gas contents of the column, and low-strength surface rocks commonly crack under the pressure of the eruption, forming a flared outgoing structure that pushes the gases even faster. [41] These massive eruptive columns are the distinctive feature of a Plinian eruption, and reach up 2 to 45 km (1 to 28 mi) into the atmosphere . The densest part of the plume, directly above the volcano, is driven internally by gas expansion . As it reaches higher into the air the plume expands and becomes less dense, convection and thermal expansion of volcanic ash drive it even further up into the stratosphere . At the top of the plume, powerful winds may drive the plume away from the volcano . [41] These highly explosive eruptions are usually associated with volatile-rich dacitic to rhyolitic lavas, and occur most typically at stratovolcanoes . Eruptions can last anywhere from hours to days, with longer eruptions being associated with more felsic volcanoes. Although they are usually associated with felsic magma, Plinian eruptions can occur at basaltic volcanoes, if the magma chamber differentiates with upper portions rich in silicon dioxide , [40] or if magma ascends rapidly. [42] Plinian eruptions are similar to both Vulcanian and Strombolian eruptions, except that rather than creating discrete explosive events, Plinian eruptions form sustained eruptive columns. They are also similar to Hawaiian lava fountains in that both eruptive types produce sustained eruption columns maintained by the growth of bubbles that move up at about the same speed as the magma surrounding them. [40] Regions affected by Plinian eruptions are subjected to heavy pumice airfall affecting an area 0.5 to 50 km 3 (0 to 12 cu mi) in size. [40] The material in the ash plume eventually finds its way back to the ground, covering the landscape in a thick layer of many cubic kilometers of ash. [43] However the most dangerous eruptive feature are the pyroclastic flows generated by material collapse, which move down the side of the mountain at extreme speeds [40] of up to 700 km (435 mi) per hour and with the ability to extend the reach of the eruption hundreds of kilometers. [43] The ejection of hot material from the volcano's summit melts snowbanks and ice deposits on the volcano, which mixes with tephra to form lahars , fast moving mudflows with the consistency of wet concrete that move at the speed of a river rapid . [40] Major Plinian eruptive events include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Plinian_Eruption-numbers.svg/220px-Plinian_Eruption-numbers.svg.png",
+                "caption": "Diagram of a Plinian eruption . (key: 1. Ash plume 2. Magma conduit 3. Volcanic ash rain 4. Layers of lava and ash 5. Stratum 6. Magma chamber ) Click for larger version ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/MtRedoubtedit1.jpg/220px-MtRedoubtedit1.jpg",
+                "caption": "21 April 1990 eruptive column from Redoubt Volcano , as viewed to the west from the Kenai Peninsula"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Armero_aftermath_Marso.jpg/220px-Armero_aftermath_Marso.jpg",
+                "caption": "Lahar flows from the 1985 eruption of Nevado del Ruiz , which totally destroyed Armero in Colombia"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Types_of_volcanoes_and_eruption_features.jpg/800px-Types_of_volcanoes_and_eruption_features.jpg",
+                "caption": ""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Types_of_volcanic_eruptions",
+        "title": "Types of volcanic eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Surtseyan",
+        "text": "A Surtseyan (or hydrovolcanic) eruption is a type of volcanic eruption characterized by shallow-water interactions between water and lava, named after its most famous example, the eruption and formation of the island of Surtsey off the coast of Iceland in 1963. Surtseyan eruptions are the \"wet\" equivalent of ground-based Strombolian eruptions , but because they take place in water they are much more explosive. As water is heated by lava, it flashes into steam and expands violently, fragmenting the magma it contacts into fine-grained ash . Surtseyan eruptions are typical of shallow-water volcanic oceanic islands , but they are not confined to seamounts. They can happen on land as well, where rising magma that comes into contact with an aquifer (water-bearing rock formation) at shallow levels under the volcano can cause them. [50] The products of Surtseyan eruptions are generally oxidized palagonite basalts (though andesitic eruptions do occur, albeit rarely), and like Strombolian eruptions Surtseyan eruptions are generally continuous or otherwise rhythmic. [51] A defining feature of a Surtseyan eruption is the formation of a pyroclastic surge (or base surge ), a ground hugging radial cloud that develops along with the eruption column . Base surges are caused by the gravitational collapse of a vaporous eruptive column, one that is denser overall than a regular volcanic column. The densest part of the cloud is nearest to the vent, resulting in a wedge shape. Associated with these laterally moving rings are dune -shaped depositions of rock left behind by the lateral movement. These are occasionally disrupted by bomb sags , rock that was flung out by the explosive eruption and followed a ballistic path to the ground. Accumulations of wet, spherical ash known as accretionary lapilli are another common surge indicator. [50] Over time Surtseyan eruptions tend to form maars , broad low- relief volcanic craters dug into the ground, and tuff rings , circular structures built of rapidly quenched lava. These structures are associated with single vent eruptions. However, if eruptions arise along fracture zones , rift zones may be dug out. Such eruptions tend to be more violent than those which form tuff rings or maars, an example being the 1886 eruption of Mount Tarawera . [50] [51] Littoral cones are another hydrovolcanic feature, generated by the explosive deposition of basaltic tephra (although they are not truly volcanic vents). They form when lava accumulates within cracks in lava, superheats and explodes in a steam explosion , breaking the rock apart and depositing it on the volcano's flank. Consecutive explosions of this type eventually generate the cone. [50] Volcanoes known to have Surtseyan activity include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Surtseyan_Eruption-numbers.svg/220px-Surtseyan_Eruption-numbers.svg.png",
+                "caption": "Diagram of a Surtseyan eruption . (key: 1. Water vapor cloud 2. Compressed ash 3. Crater 4. Water 5. Layers of lava and ash 6. Stratum 7. Magma conduit 8. Magma chamber 9. Dike ) Click for larger version ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Types_of_volcanic_eruptions",
+        "title": "Types of volcanic eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Submarine",
+        "text": "Submarine eruptions occur underwater. An estimated 75% of volcanic eruptive volume is generated by submarine eruptions near mid ocean ridges alone, however problems detecting deep sea volcanics meant they remained virtually unknown until advances in the 1990s made it possible to observe them. [54] Submarine eruptions may produce seamounts , which may break the surface and form volcanic islands. Submarine volcanism is driven by various processes. Volcanoes near plate boundaries and mid-ocean ridges are built by the decompression melting of mantle rock that rises on an upwelling portion of a convection cell to the crustal surface. Eruptions associated with subducting zones , meanwhile, are driven by subducting plates that add volatiles to the rising plate, lowering its melting point . Each process generates different rock; mid-ocean ridge volcanics are primarily basaltic , whereas subduction flows are mostly calc-alkaline , and more explosive and viscous . [55] Spreading rates along mid-ocean ridges vary widely, from 2 cm (0.8 in) per year at the Mid-Atlantic Ridge , to up to 16 cm (6 in) along the East Pacific Rise . Higher spreading rates are a probable cause for higher levels of volcanism. The technology for studying seamount eruptions did not exist until advancements in hydrophone technology made it possible to \"listen\" to acoustic waves , known as T-waves, released by submarine earthquakes associated with submarine volcanic eruptions. The reason for this is that land-based seismometers cannot detect sea-based earthquakes below a magnitude of 4, but acoustic waves travel well in water and over long periods of time. A system in the North Pacific , maintained by the United States Navy and originally intended for the detection of submarines , has detected an event on average every 2 to 3 years. [54] The most common underwater flow is pillow lava , a rounded lava flow named for its unusual shape. Less common are glassy , marginal sheet flows, indicative of larger-scale flows. Volcaniclastic sedimentary rocks are common in shallow-water environments. As plate movement starts to carry the volcanoes away from their eruptive source, eruption rates start to die down, and water erosion grinds the volcano down. The final stages of eruption cap the seamount in alkalic flows. [55] There are about 100,000 deepwater volcanoes in the world, [56] although most are beyond the active stage of their life. [55] Some exemplary seamounts are Kamaʻehuakanaloa (formerly Loihi), Bowie Seamount , Davidson Seamount , and Axial Seamount .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Submarine_Eruption-numbers.svg/220px-Submarine_Eruption-numbers.svg.png",
+                "caption": "Diagram of a Submarine eruption . (key: 1. Water vapor cloud 2. Water 3. Stratum 4. Lava flow 5. Magma conduit 6. Magma chamber 7. Dike 8. Pillow lava ) Click to enlarge ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Types_of_volcanic_eruptions",
+        "title": "Types of volcanic eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Subglacial",
+        "text": "Subglacial eruptions are a type of volcanic eruption characterized by interactions between lava and ice , often under a glacier . The nature of glaciovolcanism dictates that it occurs at areas of high latitude and high altitude . [57] It has been suggested that subglacial volcanoes that are not actively erupting often dump heat into the ice covering them, producing meltwater . [58] This meltwater mix means that subglacial eruptions often generate dangerous jökulhlaups ( floods ) and lahars . [57] The study of glaciovolcanism is still a relatively new field. Early accounts described the unusual flat-topped steep-sided volcanoes (called tuyas ) in Iceland that were suggested to have formed from eruptions below ice. The first English-language paper on the subject was published in 1947 by William Henry Mathews , describing the Tuya Butte field in northwest British Columbia , Canada . The eruptive process that builds these structures, originally inferred in the paper, [57] begins with volcanic growth below the glacier. At first the eruptions resemble those that occur in the deep sea, forming piles of pillow lava at the base of the volcanic structure. Some of the lava shatters when it comes in contact with the cold ice, forming a glassy breccia called hyaloclastite . After a while the ice finally melts into a lake, and the more explosive eruptions of Surtseyan activity begins, building up flanks made up of mostly hyaloclastite. Eventually the lake boils off from continued volcanism, and the lava flows become more effusive and thicken as the lava cools much more slowly, often forming columnar jointing . Well-preserved tuyas show all of these stages, for example Hjorleifshofdi in Iceland. [59] Products of volcano-ice interactions stand as various structures, whose shape is dependent on complex eruptive and environmental interactions. Glacial volcanism is a good indicator of past ice distribution, making it an important climatic marker. Since they are embedded in ice, as glacial ice retreats worldwide there are concerns that tuyas and other structures may destabilize, resulting in mass landslides . Evidence of volcanic-glacial interactions are evident in Iceland and parts of British Columbia , and it is even possible that they play a role in deglaciation . [57] Glaciovolcanic products have been identified in Iceland, the Canadian province of British Columbia, the U.S. states of Hawaii and Alaska , the Cascade Range of western North America, South America and even on the planet Mars . [57] Volcanoes known to have subglacial activity include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Subglacial_Eruption-numbers.svg/220px-Subglacial_Eruption-numbers.svg.png",
+                "caption": "A diagram of a Subglacial eruption . (key: 1. Water vapor cloud 2. Crater lake 3. Ice 4. Layers of lava and ash 5. Stratum 6. Pillow lava 7. Magma conduit 8. Magma chamber 9. Dike ) Click for larger version ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Her%C3%B0ubrei%C3%B0-Iceland-2.jpg/220px-Her%C3%B0ubrei%C3%B0-Iceland-2.jpg",
+                "caption": "Herðubreið , a tuya in Iceland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Types_of_volcanic_eruptions",
+        "title": "Types of volcanic eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Phreatic eruptions",
+        "text": "Phreatic eruptions (or steam-blast eruptions) are a type of eruption driven by the expansion of steam . When cold ground or surface water come into contact with hot rock or magma it superheats and explodes , fracturing the surrounding rock [63] and thrusting out a mixture of steam, water , ash , volcanic bombs , and volcanic blocks . [64] The distinguishing feature of phreatic explosions is that they only blast out fragments of pre-existing solid rock from the volcanic conduit; no new magma is erupted. [65] Because they are driven by the cracking of rock strata under pressure, phreatic activity does not always result in an eruption; if the rock face is strong enough to withstand the explosive force, outright eruptions may not occur, although cracks in the rock will probably develop and weaken it, furthering future eruptions. [63] Often a precursor of future volcanic activity, [66] phreatic eruptions are generally weak, although there have been exceptions. [65] Some phreatic events may be triggered by earthquake activity, another volcanic precursor, and they may also travel along dike lines. [63] Phreatic eruptions form base surges , lahars , avalanches , and volcanic block \"rain.\" They may also release deadly toxic gas able to suffocate anyone in range of the eruption. [66] Volcanoes known to exhibit phreatic activity include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Phreatic_Eruption-numbers.svg/220px-Phreatic_Eruption-numbers.svg.png",
+                "caption": "Diagram of a phreatic eruption . (key: 1. Water vapor cloud 2. Magma conduit 3. Layers of lava and ash 4. Stratum 5. Water table 6. Explosion 7. Magma chamber )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Types_of_volcanic_eruptions",
+        "title": "Types of volcanic eruptions",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "1995–1999 eruption",
+        "text": "Seismic activity had occurred in 1897–1898, 1933–1937, and again in 1966–1967, but the eruption that began on 18 July 1995 was the first since the turn of the 20th century. [11] The first phreatic explosion in this new period of activity occurred on 21 August 1995, and such activity lasted for 18 weeks until it caused an andesitic lava dome formation. This was initially confined by a sector-collapse scar, first identified in the 1930's and called English's Crater . This period of activity lasted for another 60 weeks, after which there were major dome collapses and two periods of explosive volcanic eruptions and fountain-collapse pyroclastic flows. [12] The explosion blanketed Plymouth, 6 kilometres (3.7 mi) away, in a thick layer of ash and darkened the sky almost completely. Pyroclastic flows were first observed on 27 March 1996. [13] Although these pyroclastic flows and mudflows were initially confined to unpopulated areas, a major pyroclastic flow on 17 September 1996 caused severe damage to the village of Long Ground, near the volcano. [14] By August 1997, much of the southern part of the island, including most of Plymouth, had been buried by pyroclastic flows. During this period, the southern portion of the island, including the capital Plymouth, was evacuated three times. The first evacuation lasted from 21 August 1995 - 3 September 1995, after the first phreatic eruption. The second evacuation began on 1 December 1995, [15] due to growth of the lava dome. Residents were allowed back to most areas, including Plymouth, on 1 January 1996, [16] but residents of some areas on the eastern flank of the volcano were not allowed back until 15 January 1996. [17] On 3 April 1996, after pyroclastic flows and mudflows began occurring regularly, southern Montserrat, including the capital, Plymouth, was permanently evacuated. [18] Earthquakes continued to occur in three epicentre zones: beneath the Soufrière Hills volcano, in the ridge running to the northeast, and beneath St George's Hill, about 5 kilometres (3.1 mi) to the northwest. [19] A large eruption on 25 June 1997 resulted in the deaths of nineteen people. The island's airport was directly in the path of the main pyroclastic flow and was completely destroyed. [20] Montserrat's tourist industry also collapsed, although it began partially to recover within fifteen years. [21] The governments of the United Kingdom and Montserrat led the aid effort, including a £41 million package provided to the Montserrat population; however, riots followed as the people protested that the British Government was not doing enough for aid relief. [22] The riots followed a £10 million aid offer by International Development Secretary Clare Short , prompting the resignation of Bertrand Osborne , then Chief Minister of Montserrat , after allegations that he was too pro-British and had not demanded a better offer. [23] The British destroyer HMS Liverpool took a major role in evacuating Montserrat's population to other islands, including Antigua and Barbuda who warned they would not be able to cope with many more refugees. [23] About 7,000 people, or two-thirds of the population, left Montserrat; 4,000 went to the United Kingdom. [24]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Topographic-map-of-Montserrat-en.svg/220px-Topographic-map-of-Montserrat-en.svg.png",
+                "caption": "Map of Montserrat, showing the exclusion zone following the eruption [ when? ]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Soufri%C3%A8re_Hills",
+        "title": "Soufrière Hills",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Activity since 1999",
+        "text": "On 24 December 2006, streaks of red from the pyroclastic flows became visible. On 8 January 2007, an evacuation order was issued for areas in the Lower Belham Valley, affecting an additional 100 people. At 11:27 pm local time on Monday 28 July 2008, an eruption began without any precursory activity. Pyroclastic flow lobes reached Plymouth. These involved juvenile material originating in the collapse of the eruption column. In addition, a small part of the eastern side of the lava dome collapsed, generating a pyroclastic flow in Tar River Valley. Several large explosions were registered, with the largest at approximately 11:38 pm. The height of the ash column was estimated at 12,000 m (40,000 ft) above sea level. The volcano has become one of the most closely monitored volcanoes in the world since its eruption began, with the Montserrat Volcano Observatory taking detailed measurements and reporting on its activity to the government and population of Montserrat. The observatory is operated by the British Geological Survey , under contract to the government of Montserrat. The 9 October 2008 issue of the journal Science suggested that two interconnected magma chambers lie beneath the surface of the volcano on Montserrat – one six kilometres below the surface and the other 12 kilometres (7.5 mi) below the surface. The journal also showed a link between surface behaviour and the size of the deeper magma chamber. [25] [26] On 5 February 2010, a vulcanian explosion simultaneously propelled pyroclastic flows down several sides of the mountain, and on 11 February 2010, a partial collapse of the lava dome sent large ash clouds over sections of several nearby islands, including Guadeloupe and Antigua . Inhabited areas of Montserrat itself received very little ash accumulation during either event. [27] On 12 February 2010, at 1200 UTC/GMT, Meteosat SEVIRI Channel 7 shows the ash plume from the eruption was caught up within the warm sector of a frontal system heading towards western Europe exacerbating two East Atlantic winter storms. [reference] Violent storms accompanied by torrential rain and high wind passed over Madeira on 20 February and western Europe on 26-28 February. In Madeira there was at least 48 fatalities and damage to infrastructure at a total estimated cost of 4 billion Euros. The storm landfalling in western France (named 'Cyclone Xynthia') resulted in at least 63 fatalities and estimated damage within the range of 1.3-3 billion Euros. Yim, W. 2016. Volcanoes and disastrous storms. Imperial Engineer, Spring 2016, p. 19.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Soufri%C3%A8re_2009_eruption.jpg/220px-Soufri%C3%A8re_2009_eruption.jpg",
+                "caption": "2009 ash and steam plume, Soufrière Hills Volcano. Grey deposits that include pyroclastic flows and volcanic mudflows ( lahars ) are visible extending from the volcano toward the coastline. NASA ISS photo, 11 October 2009, a view from the northeast looking southwest"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Soufriere_Hills_Volcano_dome_collapse.gif/220px-Soufriere_Hills_Volcano_dome_collapse.gif",
+                "caption": "False colour satellite image of Soufrière Hills before and after a 2010 partial dome collapse. Red areas are living vegetation, grey areas are covered in volcanic debris"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Soufri%C3%A8re_Hills",
+        "title": "Soufrière Hills",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    },
+    {
+        "section": "Legacy",
+        "text": "At the time of the eruption, most predictions were made similarly to the one before the 1980 eruption of Mount St. Helens —that a volcano would erupt, but not specifying an exact time. C. Dan Miller of the United States Geological Survey remarked: [4] Since the disaster, research has improved scientists' ability to predict volcanic eruptions . Still, there is not a definite method of prediction. Though scientists were able to make accurate analysis by employing long-period earthquakes, short bursts of seismic energy, to forecast the 1990 eruption of Mount Redoubt in Alaska , these events are known to occur at volcanoes that do not erupt as well. In early October 2004, for example, long-period events took place at Mount St. Helens , only to precede insignificant events. [4] One lasting and tangible outcome of the tragedy, was a set of recommendations for the standards of safety equipment and clothing that should be required when working on active volcanoes; including hard hats and fire-proof coveralls. [5]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Volc%C3%A1n_Galeras_%287%29.jpg/220px-Volc%C3%A1n_Galeras_%287%29.jpg",
+                "caption": "A sign posted at the site."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/GEOFF_BROWN_-_Galeras_tragedy.jpg/220px-GEOFF_BROWN_-_Galeras_tragedy.jpg",
+                "caption": "Memorial bench commemorating Geoff Brown, a victim of the Galeras volcano tragedy, at Beacon Hill, Charnwood, Leicestershire"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Galeras_tragedy",
+        "title": "Galeras tragedy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Predicting Volcanic Eruptions"
+    }
+]

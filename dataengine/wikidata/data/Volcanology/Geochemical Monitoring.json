@@ -1,0 +1,280 @@
+[
+    {
+        "section": "Modern volcanology",
+        "text": "In 1841, the first volcanological observatory, the Vesuvius Observatory , was founded in the Kingdom of the Two Sicilies . [1] Volcanology advances have required more than just structured observation, and the science relies upon the understanding and integration of knowledge in many fields including geology , tectonics , physics , chemistry and mathematics , with many advances only being able to occur after the advance had occurred in another field of science. For example the study of radioactivity only commenced in 1896, [2] and its application to the theory of plate tectonics and radiometric dating took about 50 years after this. Many other developments in fluid dynamics , experimental physics and chemistry, techniques of mathematical modelling , instrumentation and in other sciences have been applied to volcanology since 1841.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Icelandic_tephra.JPG/220px-Icelandic_tephra.JPG",
+                "caption": "Volcanologist examining tephra horizons in south-central Iceland ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Destructive_plate_margin.png/220px-Destructive_plate_margin.png",
+                "caption": "A diagram of a destructive plate margin , where subduction fuels volcanic activity at the subduction zones of tectonic plate boundaries."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanology",
+        "title": "Volcanology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "Components of a gamma spectrometer",
+        "text": "The main components of a gamma spectrometer are the energy-sensitive radiation detector and the electronic devices that analyse the detector output signals, such as a pulse sorter (i.e., multichannel analyzer ). Additional components may include signal amplifiers, rate meters, peak position stabilizers, and data handling devices.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Scintillation_counter_as_a_spectrometer.jpg/220px-Scintillation_counter_as_a_spectrometer.jpg",
+                "caption": "Laboratory equipment for determination of γ-radiation spectrum with a scintillation counter. The output from the scintillation counter goes to a Multichannel Analyzer which processes and formats the data."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gamma_spectroscopy",
+        "title": "Gamma spectroscopy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "Data acquisition",
+        "text": "The voltage pulses produced for every gamma ray that interacts within the detector volume are then analyzed by a multichannel analyzer (MCA). In the MCA, a pulse-shaping amplifier takes the transient voltage signal and reshapes it into a Gaussian or trapezoidal shape. From this shape, the signal is then converted into a digital form, using a fast analog-to-digital converter (ADC). In new systems with a very high-sampling-rate ADC, the analog-to-digital conversion can be performed without reshaping. Additional logic in the MCA then performs pulse-height analysis , sorting the pulses by their height into specific bins, or channels . Each channel represents a specific range of energy in the spectrum, the number of detected signals for each channel represents the spectral intensity of the radiation in this energy range. By changing the number of channels, it is possible to fine-tune the spectral resolution and sensitivity . [5] The MCA can send its data to a computer, which stores, displays, and further analyzes the data. A variety of software packages are available from several manufacturers, and generally include spectrum analysis tools such as energy calibration (converting bins to energies), peak area and net area calculation, and resolution calculation. [6] A USB sound card can serve as a cheap, consumer off-the-shelf ADC, a technique pioneered by Marek Dolleiser.  Specialized computer software performs pulse-height analysis on the digitized waveform, forming a complete MCA. [7] Sound cards have high-speed but low-resolution (up to 192 kHz) ADC chips, allowing for reasonable quality for a low-to-medium count rate. [8] The \"sound card spectrometer\" has been further refined in amateur and professional circles. [9] [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Gamma_Pulse-Height_Analyzer_Principal.png/400px-Gamma_Pulse-Height_Analyzer_Principal.png",
+                "caption": "Pulse-Height Analyzer Principle: Three pulses, 1 , 2 , and 3 are detected at different times t . Two discriminators emit a counting signal if their set voltage-level is reached by a pulse. Pulse 2 triggers the Lower Level E L but not the Upper Level E U . Pulse 2 is thus counted into the spectral region denoted as P . The anti-coincidence counter prevents a pulse from being sorted into more than one region"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gamma_spectroscopy",
+        "title": "Gamma spectroscopy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "Sodium iodide-based detectors",
+        "text": "Thallium-doped sodium iodide (NaI(Tl)) has two principal advantages: NaI(Tl) is also convenient to use, making it popular for field applications such as the identification of unknown materials for law enforcement purposes. Electron hole recombination will emit light that can re-excite pure scintillation crystals; however, the thallium dopant in NaI(Tl) provides energy states within the band gap between the conduction and valence bands. Following excitation in doped scintillation crystals, some electrons in the conduction band will migrate to the activator states; the downward transitions from the activator states will not re-excite the doped crystal, so the crystal is transparent to this radiation. An example of a NaI spectrum is the gamma spectrum of the caesium isotope 137 Cs — see Figure 1 . 137 Cs emits a single gamma line of 662 keV. The 662 keV line shown is actually produced by 137m Ba , the decay product of 137 Cs , which is in secular equilibrium with 137 Cs . The spectrum in Figure 1 was measured using a NaI-crystal on a photomultiplier, an amplifier, and a multichannel analyzer. The figure shows the number of counts within the measuring period versus channel number. The spectrum indicates the following peaks (from left to right): The Compton distribution is a continuous distribution that is present up to channel 150 in Figure 1. The distribution arises because of primary gamma rays undergoing Compton scattering within the crystal: Depending on the scattering angle, the Compton electrons have different energies and hence produce pulses in different energy channels. If many gamma rays are present in a spectrum, Compton distributions can present analysis challenges. To reduce gamma rays, an anticoincidence shield can be used— see Compton suppression . Gamma ray reduction techniques are especially useful for small lithium -doped germanium (Ge(Li)) detectors. The gamma spectrum shown in Figure 2 is of the cobalt isotope 60 Co , with two gamma rays with 1.17 MeV and 1.33 MeV respectively. ( See the decay scheme article for the decay scheme of cobalt-60. ) The two gamma lines can be seen well-separated; the peak to the left of channel 200 most likely indicates a strong background radiation source that has not been subtracted. A backscatter peak can be seen near channel 150, similar to the second peak in Figure 1. Sodium iodide systems, as with all scintillator systems, are sensitive to changes in temperature. Changes in the operating temperature caused by changes in environmental temperature will shift the spectrum on the horizontal axis. Peak shifts of tens of channels or more are commonly observed. Such shifts can be prevented by using spectrum stabilizers . Because of the poor resolution of NaI-based detectors, they are not suitable for the identification of complicated mixtures of gamma ray-producing materials. Scenarios requiring such analyses require detectors with higher resolution.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cs137_Spectrum.PNG/300px-Cs137_Spectrum.PNG",
+                "caption": "Figure 1: Sodium iodide gamma spectrum of caesium-137 ( 137 Cs )"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Co60_Spectrum.JPG/300px-Co60_Spectrum.JPG",
+                "caption": "Figure 2: Sodium iodide gamma spectrum of cobalt-60 ( 60 Co ); see also a different measurement"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gamma_spectroscopy",
+        "title": "Gamma spectroscopy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "Semiconductor-based detectors",
+        "text": "Semiconductor detectors , also called solid-state detectors, are fundamentally different from scintillation detectors: They rely on detection of the charge carriers (electrons and holes) generated in semiconductors by energy deposited by gamma ray photons. In semiconductor detectors, an electric field is applied to the detector volume. An electron in the semiconductor is fixed in its valence band in the crystal until a gamma ray interaction provides the electron enough energy to move to the conduction band . Electrons in the conduction band can respond to the electric field in the detector, and therefore move to the positive contact that is creating the electrical field. The gap created by the moving electron is called a \"hole\", and is filled by an adjacent electron. This shuffling of holes effectively moves a positive charge to the negative contact. The arrival of the electron at the positive contact and the hole at the negative contact produces the electrical signal that is sent to the preamplifier, the MCA, and on through the system for analysis. The movement of electrons and holes in a solid-state detector is very similar to the movement of ions within the sensitive volume of gas-filled detectors such as ionization chambers . Common semiconductor-based detectors include germanium , cadmium telluride , and cadmium zinc telluride . Germanium detectors provide significantly improved energy resolution in comparison to sodium iodide detectors, as explained in the preceding discussion of resolution. Germanium detectors produce the highest resolution commonly available today. However, a disadvantage is the requirement of cryogenic temperatures for the operation of germanium detectors, typically by cooling with liquid nitrogen .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/60Co_gamma_spectrum_energy-de.svg/220px-60Co_gamma_spectrum_energy-de.svg.png",
+                "caption": "Germanium gamma spectrum of 60 Co (Cobalt-60); compare with the NaI spectrum above."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gamma_spectroscopy",
+        "title": "Gamma spectroscopy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "Single escape and double escape peaks",
+        "text": "For incident photon energies E larger than two times the rest mass of the electron (1.022 MeV), pair production can occur. The resulting positron annihilates with one of the surrounding electrons, typically producing two photons with 511 keV. In a real detector (i.e. a detector of finite size) it is possible that after the annihilation: The above Am-Be-source spectrum shows an example of single and double escape peak in a real measurement.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Am-Be-SourceSpectrum.jpg/350px-Am-Be-SourceSpectrum.jpg",
+                "caption": "Scintillation gamma spectrum of a radioactive Am-Be-source. Visible are the main photopeak of 12 C neutron excitation and the two escape peaks associated with it."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Gamma_spectroscopy",
+        "title": "Gamma spectroscopy",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "Intuition",
+        "text": "PCA can be thought of as fitting a p -dimensional ellipsoid to the data, where each axis of the ellipsoid represents a principal component. If some axis of the ellipsoid is small, then the variance along that axis is also small. To find the axes of the ellipsoid, we must first center the values of each variable in the dataset on 0 by subtracting the mean of the variable's observed values from each of those values. These transformed values are used instead of the original observed values for each of the variables. Then, we compute the covariance matrix of the data and calculate the eigenvalues and corresponding eigenvectors of this covariance matrix. Then we must normalize each of the orthogonal eigenvectors to turn them into unit vectors. Once this is done, each of the mutually-orthogonal unit eigenvectors can be interpreted as an axis of the ellipsoid fitted to the data. This choice of basis will transform the covariance matrix into a diagonalized form, in which the diagonal elements represent the variance of each axis. The proportion of the variance that each eigenvector represents can be calculated by dividing the eigenvalue corresponding to that eigenvector by the sum of all eigenvalues. Biplots and scree plots (degree of explained variance ) are used to interpret findings of the PCA.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SCREE_plot.jpg/220px-SCREE_plot.jpg",
+                "caption": "The above picture is of a scree plot that is meant to help interpret the PCA and decide how many components to retain. The start of the bend in the line (point of inflexion or \"knee\") should indicate how many components are retained, hence in this example, three factors should be retained."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+        "title": "Principal component analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "Dimensionality reduction",
+        "text": "The transformation T = X W maps a data vector x ( i ) from an original space of p variables to a new space of p variables which are uncorrelated over the dataset. However, not all the principal components need to be kept. Keeping only the first L principal components, produced by using only the first L eigenvectors, gives the truncated transformation where the matrix T L now has n rows but only L columns. In other words, PCA learns a linear transformation t = W L T x , x ∈ R p , t ∈ R L , {\\displaystyle t=W_{L}^{\\mathsf {T}}x,x\\in \\mathbb {R} ^{p},t\\in \\mathbb {R} ^{L},} where the columns of p × L matrix W L {\\displaystyle W_{L}} form an orthogonal basis for the L features (the components of representation t ) that are decorrelated. [13] By construction, of all the transformed data matrices with only L columns, this score matrix maximises the variance in the original data that has been preserved, while minimising the total squared reconstruction error ‖ T W T − T L W L T ‖ 2 2 {\\displaystyle \\|\\mathbf {T} \\mathbf {W} ^{T}-\\mathbf {T} _{L}\\mathbf {W} _{L}^{T}\\|_{2}^{2}} or ‖ X − X L ‖ 2 2 {\\displaystyle \\|\\mathbf {X} -\\mathbf {X} _{L}\\|_{2}^{2}} . Such dimensionality reduction can be a very useful step for visualising and processing high-dimensional datasets, while still retaining as much of the variance in the dataset as possible. For example, selecting L = 2 and keeping only the first two principal components finds the two-dimensional plane through the high-dimensional dataset in which the data is most spread out, so if the data contains clusters these too may be most spread out, and therefore most visible to be plotted out in a two-dimensional diagram; whereas if two directions through the data (or two of the original variables) are chosen at random, the clusters may be much less spread apart from each other, and may in fact be much more likely to substantially overlay each other, making them indistinguishable. Similarly, in regression analysis , the larger the number of explanatory variables allowed, the greater is the chance of overfitting the model, producing conclusions that fail to generalise to other datasets. One approach, especially when there are strong correlations between different possible explanatory variables, is to reduce them to a few principal components and then run the regression against them, a method called principal component regression . Dimensionality reduction may also be appropriate when the variables in a dataset are noisy. If each column of the dataset contains independent identically distributed Gaussian noise, then the columns of T will also contain similarly identically distributed Gaussian noise (such a distribution is invariant under the effects of the matrix W , which can be thought of as a high-dimensional rotation of the co-ordinate axes). However, with more of the total variance concentrated in the first few principal components compared to the same noise variance, the proportionate effect of the noise is less—the first few components achieve a higher signal-to-noise ratio . PCA thus can have the effect of concentrating much of the signal into the first few principal components, which can usefully be captured by dimensionality reduction; while the later principal components may be dominated by noise, and so disposed of without great loss. If the dataset is not too large, the significance of the principal components can be tested using parametric bootstrap , as an aid in determining how many principal components to retain. [14]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/PCA_of_Haplogroup_J_using_37_STRs.png/220px-PCA_of_Haplogroup_J_using_37_STRs.png",
+                "caption": "A principal components analysis scatterplot of Y-STR haplotypes calculated from repeat-count values for 37 Y-chromosomal STR markers from 354 individuals. PCA has successfully found linear combinations of the markers that separate out different clusters corresponding to different lines of individuals' Y-chromosomal genetic descent."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+        "title": "Principal component analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "Factor analysis",
+        "text": "Principal component analysis creates variables that are linear combinations of the original variables. The new variables have the property that the variables are all orthogonal. The PCA transformation can be helpful as a pre-processing step before clustering. PCA is a variance-focused approach seeking to reproduce the total variable variance, in which components reflect both common and unique variance of the variable. PCA is generally preferred for purposes of data reduction (that is, translating variable space into optimal factor space) but not when the goal is to detect the latent construct or factors. Factor analysis is similar to principal component analysis, in that factor analysis also involves linear combinations of variables. Different from PCA, factor analysis is a correlation-focused approach seeking to reproduce the inter-correlations among variables, in which the factors \"represent the common variance of variables, excluding unique variance\". [69] In terms of the correlation matrix, this corresponds with focusing on explaining the off-diagonal terms (that is, shared co-variance), while PCA focuses on explaining the terms that sit on the diagonal. However, as a side result, when trying to reproduce the on-diagonal terms, PCA also tends to fit relatively well the off-diagonal correlations. [12] : 158 Results given by PCA and factor analysis are very similar in most situations, but this is not always the case, and there are some problems where the results are significantly different. Factor analysis is generally used when the research purpose is detecting data structure (that is, latent constructs or factors) or causal modeling . If the factor model is incorrectly formulated or the assumptions are not met, then factor analysis will give erroneous results. [70]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PCA_versus_Factor_Analysis.jpg/220px-PCA_versus_Factor_Analysis.jpg",
+                "caption": "The above picture is an example of the difference between PCA and Factor Analysis. In the top diagram the \"factor\" (e.g., career path) represents the three observed variables (e.g., doctor, lawyer, teacher) whereas in the bottom diagram the observed variables (e.g., pre-school teacher, middle school teacher, high school teacher) are reduced into the component of interest (e.g., teacher)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+        "title": "Principal component analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "Non-negative matrix factorization",
+        "text": "Non-negative matrix factorization (NMF) is a dimension reduction method where only non-negative elements in the matrices are used, which is therefore a promising method in astronomy, [23] [24] [25] in the sense that astrophysical signals are non-negative. The PCA components are orthogonal to each other, while the NMF components are all non-negative and therefore constructs a non-orthogonal basis. In PCA, the contribution of each component is ranked based on the magnitude of its corresponding eigenvalue, which is equivalent to the fractional residual variance (FRV) in analyzing empirical data. [21] For NMF, its components are ranked based only on the empirical FRV curves. [25] The residual fractional eigenvalue plots, that is, 1 − ∑ i = 1 k λ i / ∑ j = 1 n λ j {\\displaystyle 1-\\sum _{i=1}^{k}\\lambda _{i}{\\Big /}\\sum _{j=1}^{n}\\lambda _{j}} as a function of component number k {\\displaystyle k} given a total of n {\\displaystyle n} components, for PCA have a flat plateau, where no data is captured to remove the quasi-static noise, then the curves drop quickly as an indication of over-fitting (random noise). [21] The FRV curves for NMF is decreasing continuously [25] when the NMF components are constructed sequentially , [24] indicating the continuous capturing of quasi-static noise; then converge to higher levels than PCA, [25] indicating the less over-fitting property of NMF.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fractional_Residual_Variances_comparison%2C_PCA_and_NMF.pdf/page1-500px-Fractional_Residual_Variances_comparison%2C_PCA_and_NMF.pdf.jpg",
+                "caption": "Fractional residual variance (FRV) plots for PCA and NMF; [25] for PCA, the theoretical values are the contribution from the residual eigenvalues. In comparison, the FRV curves for PCA reaches a flat plateau where no signal are captured effectively; while the NMF FRV curves decline continuously, indicating a better ability to capture signal. The FRV curves for NMF also converges to higher levels than PCA, indicating the less-overfitting property of NMF."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+        "title": "Principal component analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "Iconography of correlations",
+        "text": "It is often difficult to interpret the principal components when the data include many variables of various origins, or when some variables are qualitative. This leads the PCA user to a delicate elimination of several variables. If observations or variables have an excessive impact on the direction of the axes, they should be removed and then projected as supplementary elements. In addition, it is necessary to avoid interpreting the proximities between the points close to the center of the factorial plane. The iconography of correlations , on the contrary, which is not a projection on a system of axes, does not have these drawbacks. We can therefore keep all the variables. The principle of the diagram is to underline the \"remarkable\" correlations of the correlation matrix, by a solid line (positive correlation) or dotted line (negative correlation). A strong correlation is not \"remarkable\" if it is not direct, but caused by the effect of a third variable. Conversely, weak correlations can be \"remarkable\". For example, if a variable Y depends on several independent variables, the correlations of Y with each of them are weak and yet \"remarkable\".",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/AirMerIconographyCorrelation.jpg/220px-AirMerIconographyCorrelation.jpg",
+                "caption": "Iconography of correlations – Geochemistry of marine aerosols"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+        "title": "Principal component analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "Nonlinear PCA",
+        "text": "Most of the modern methods for nonlinear dimensionality reduction find their theoretical and algorithmic roots in PCA or K-means. Pearson's original idea was to take a straight line (or plane) which will be \"the best fit\" to a set of data points. Trevor Hastie expanded on this concept by proposing Principal curves [85] as the natural extension for the geometric interpretation of PCA, which explicitly constructs a manifold for data approximation followed by projecting the points onto it. See also the elastic map algorithm and principal geodesic analysis . [86] Another popular generalization is kernel PCA , which corresponds to PCA performed in a reproducing kernel Hilbert space associated with a positive definite kernel. In multilinear subspace learning , [87] [88] [89] PCA is generalized to multilinear PCA (MPCA) that extracts features directly from tensor representations. MPCA is solved by performing PCA in each mode of the tensor iteratively. MPCA has been applied to face recognition, gait recognition, etc. MPCA is further extended to uncorrelated MPCA, non-negative MPCA and robust MPCA. N -way principal component analysis may be performed with models such as Tucker decomposition , PARAFAC , multiple factor analysis, co-inertia analysis, STATIS, and DISTATIS.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Elmap_breastcancer_wiki.png/300px-Elmap_breastcancer_wiki.png",
+                "caption": "Linear PCA versus nonlinear Principal Manifolds [82] for visualization of breast cancer microarray data: a) Configuration of nodes and 2D Principal Surface in the 3D PCA linear manifold. The dataset is curved and cannot be mapped adequately on a 2D principal plane; b) The distribution in the internal 2D non-linear principal surface coordinates (ELMap2D) together with an estimation of the density of points; c) The same as b), but for the linear 2D PCA manifold (PCA2D). The \"basal\" breast cancer subtype is visualized more adequately with ELMap2D and some features of the distribution become better resolved in comparison to PCA2D. Principal manifolds are produced by the elastic maps algorithm. Data are available for public competition. [83] Software is available for free non-commercial use. [84]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+        "title": "Principal component analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "Radioactive decay",
+        "text": "All ordinary matter is made up of combinations of chemical elements , each with its own atomic number , indicating the number of protons in the atomic nucleus . Additionally, elements may exist in different isotopes , with each isotope of an element differing in the number of neutrons in the nucleus. A particular isotope of a particular element is called a nuclide . Some nuclides are inherently unstable. That is, at some point in time, an atom of such a nuclide will undergo radioactive decay and spontaneously transform into a different nuclide. This transformation may be accomplished in a number of different ways, including alpha decay (emission of alpha particles ) and beta decay ( electron emission, positron emission, or electron capture ). Another possibility is spontaneous fission into two or more nuclides. [ citation needed ] While the moment in time at which a particular nucleus decays is unpredictable, a collection of atoms of a radioactive nuclide decays exponentially at a rate described by a parameter known as the half-life , usually given in units of years when discussing dating techniques. After one half-life has elapsed, one half of the atoms of the nuclide in question will have decayed into a \"daughter\" nuclide or decay product . In many cases, the daughter nuclide itself is radioactive, resulting in a decay chain , eventually ending with the formation of a stable (nonradioactive) daughter nuclide; each step in such a chain is characterized by a distinct half-life. In these cases, usually the half-life of interest in radiometric dating is the longest one in the chain, which is the rate-limiting factor in the ultimate transformation of the radioactive nuclide into its stable daughter. Isotopic systems that have been exploited for radiometric dating have half-lives ranging from only about 10 years (e.g., tritium ) to over 100 billion years (e.g., samarium-147 ). [4] For most radioactive nuclides, the half-life depends solely on nuclear properties and is essentially constant. [5] This is known because decay constants measured by different techniques give consistent values within analytical errors and the ages of the same materials are consistent from one method to another. It is not affected by external factors such as temperature , pressure , chemical environment, or presence of a magnetic or electric field . [6] [7] [8] The only exceptions are nuclides that decay by the process of electron capture, such as beryllium-7 , strontium-85 , and zirconium-89 , whose decay rate may be affected by local electron density. For all other nuclides, the proportion of the original nuclide to its decay products changes in a predictable way as the original nuclide decays over time. [ citation needed ] This predictability allows the relative abundances of related nuclides to be used as a clock to measure the time from the incorporation of the original nuclides into a material to the present.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Thorium_decay_chain_from_lead-212_to_lead-208.svg/300px-Thorium_decay_chain_from_lead-212_to_lead-208.svg.png",
+                "caption": "Example of a radioactive decay chain from lead-212 ( 212 Pb) to lead-208 ( 208 Pb) . Each parent nuclide spontaneously decays into a daughter nuclide (the decay product ) via an α decay or a β − decay . The final decay product, lead-208 ( 208 Pb), is stable and can no longer undergo spontaneous radioactive decay."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Radiometric_dating",
+        "title": "Radiometric dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "Accuracy of radiometric dating",
+        "text": "The basic equation of radiometric dating requires that neither the parent nuclide nor the daughter product can enter or leave the material after its formation. The possible confounding effects of contamination of parent and daughter isotopes have to be considered, as do the effects of any loss or gain of such isotopes since the sample was created. It is therefore essential to have as much information as possible about the material being dated and to check for possible signs of alteration . [10] Precision is enhanced if measurements are taken on multiple samples from different locations of the rock body. Alternatively, if several different minerals can be dated from the same sample and are assumed to be formed by the same event and were in equilibrium with the reservoir when they formed, they should form an isochron . This can reduce the problem of contamination . In uranium–lead dating , the concordia diagram is used which also decreases the problem of nuclide loss. Finally, correlation between different isotopic dating methods may be required to confirm the age of a sample. For example, the age of the Amitsoq gneisses from western Greenland was determined to be 3.60 ± 0.05 Ga (billion years ago) using uranium–lead dating and 3.56 ± 0.10 Ga (billion years ago) using lead–lead dating, results that are consistent with each other. [11] : 142–143 Accurate radiometric dating generally requires that the parent has a long enough half-life that it will be present in significant amounts at the time of measurement (except as described below under \"Dating with short-lived extinct radionuclides\"), the half-life of the parent is accurately known, and enough of the daughter product is produced to be accurately measured and distinguished from the initial amount of the daughter present in the material. The procedures used to isolate and analyze the parent and daughter nuclides must be precise and accurate. This normally involves isotope-ratio mass spectrometry . [12] The precision of a dating method depends in part on the half-life of the radioactive isotope involved. For instance, carbon-14 has a half-life of 5,730 years. After an organism has been dead for 60,000 years, so little carbon-14 is left that accurate dating cannot be established. On the other hand, the concentration of carbon-14 falls off so steeply that the age of relatively young remains can be determined precisely to within a few decades. [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Thermal_ionization_mass_spectrometer.jpg/220px-Thermal_ionization_mass_spectrometer.jpg",
+                "caption": "Thermal ionization mass spectrometer used in radiometric dating."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Radiometric_dating",
+        "title": "Radiometric dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "The age equation",
+        "text": "The mathematical expression that relates radioactive decay to geologic time is [14] [16] where The equation is most conveniently expressed in terms of the measured quantity N ( t ) rather than the constant initial value N o . [ citation needed ] To calculate the age, it is assumed that the system is closed (neither parent nor daughter isotopes have been lost from system), D 0 either must be negligible or can be accurately estimated, λ is known to high precision, and one has accurate and precise measurements of D* and N ( t ). [ citation needed ] The above equation makes use of information on the composition of parent and daughter isotopes at the time the material being tested cooled below its closure temperature . This is well established for most isotopic systems. [15] [18] However, construction of an isochron does not require information on the original compositions, using merely the present ratios of the parent and daughter isotopes to a standard isotope. An isochron plot is used to solve the age equation graphically and calculate the age of the sample and the original composition. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Figure_2_High_res_Debaille_et_al_%282017%29_The_role_of_phosphates_for_the_Lu%E2%80%93Hf_chronology_of_meteorites.gif/220px-Figure_2_High_res_Debaille_et_al_%282017%29_The_role_of_phosphates_for_the_Lu%E2%80%93Hf_chronology_of_meteorites.gif",
+                "caption": "Lu-Hf isochrons plotted of meteorite samples. The age is calculated from the slope of the isochron (line) and the original composition from the intercept of the isochron with the y-axis."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Radiometric_dating",
+        "title": "Radiometric dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "Uranium–lead dating method",
+        "text": "Uranium–lead radiometric dating involves using uranium-235 or uranium-238 to date a substance's absolute age. This scheme has been refined to the point that the error margin in dates of rocks can be as low as less than two million years in two-and-a-half billion years. [20] [21] An error margin of 2–5% has been achieved on younger Mesozoic rocks. [22] Uranium–lead dating is often performed on the mineral zircon (ZrSiO 4 ), though it can be used on other materials, such as baddeleyite and monazite (see: monazite geochronology ). [23] Zircon and baddeleyite incorporate uranium atoms into their crystalline structure as substitutes for zirconium , but strongly reject lead. Zircon has a very high closure temperature, is resistant to mechanical weathering and is very chemically inert. Zircon also forms multiple crystal layers during metamorphic events, which each may record an isotopic age of the event. In situ micro-beam analysis can be achieved via laser ICP-MS or SIMS techniques. [24] One of its great advantages is that any sample provides two clocks, one based on uranium-235's decay to lead-207 with a half-life of about 700 million years, and one based on uranium-238's decay to lead-206 with a half-life of about 4.5 billion years, providing a built-in crosscheck that allows accurate determination of the age of the sample even if some of the lead has been lost. This can be seen in the concordia diagram, where the samples plot along an errorchron (straight line) which intersects the concordia curve at the age of the sample. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pfunze_belt_concordia.png/400px-Pfunze_belt_concordia.png",
+                "caption": "A concordia diagram as used in uranium–lead dating , with data from the Pfunze Belt , Zimbabwe . [19] All the samples show loss of lead isotopes, but the intercept of the errorchron (straight line through the sample points) and the concordia (curve) shows the correct age of the rock. [15]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Radiometric_dating",
+        "title": "Radiometric dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "Radiocarbon dating method",
+        "text": "Radiocarbon dating is also simply called carbon-14 dating. Carbon-14 is a radioactive isotope of carbon, with a half-life of 5,730 years [28] [29] (which is very short compared with the above isotopes), and decays into nitrogen. [30] In other radiometric dating methods, the heavy parent isotopes were produced by nucleosynthesis in supernovas, meaning that any parent isotope with a short half-life should be extinct by now. Carbon-14, though, is continuously created through collisions of neutrons generated by cosmic rays with nitrogen in the upper atmosphere and thus remains at a near-constant level on Earth. The carbon-14 ends up as a trace component in atmospheric carbon dioxide (CO 2 ). [ citation needed ] A carbon-based life form acquires carbon during its lifetime. Plants acquire it through photosynthesis , and animals acquire it from consumption of plants and other animals. When an organism dies, it ceases to take in new carbon-14, and the existing isotope decays with a characteristic half-life (5730 years). The proportion of carbon-14 left when the remains of the organism are examined provides an indication of the time elapsed since its death. This makes carbon-14 an ideal dating method to date the age of bones or the remains of an organism. The carbon-14 dating limit lies around 58,000 to 62,000 years. [31] The rate of creation of carbon-14 appears to be roughly constant, as cross-checks of carbon-14 dating with other dating methods show it gives consistent results. However, local eruptions of volcanoes or other events that give off large amounts of carbon dioxide can reduce local concentrations of carbon-14 and give inaccurate dates. The releases of carbon dioxide into the biosphere as a consequence of industrialization have also depressed the proportion of carbon-14 by a few percent; in contrast, the amount of carbon-14 was increased by above-ground nuclear bomb tests that were conducted into the early 1960s. Also, an increase in the solar wind or the Earth's magnetic field above the current value would depress the amount of carbon-14 created in the atmosphere. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ales_stenar_bred.jpg/300px-Ales_stenar_bred.jpg",
+                "caption": "Ale's Stones at Kåseberga, around ten kilometres south east of Ystad , Sweden were dated at 56 CE using the carbon-14 method on organic material found at the site. [27]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Radiometric_dating",
+        "title": "Radiometric dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    },
+    {
+        "section": "Fission track dating method",
+        "text": "This involves inspection of a polished slice of a material to determine the density of \"track\" markings left in it by the spontaneous fission of uranium-238 impurities. The uranium content of the sample has to be known, but that can be determined by placing a plastic film over the polished slice of the material, and bombarding it with slow neutrons . This causes induced fission of 235 U, as opposed to the spontaneous fission of 238 U. The fission tracks produced by this process are recorded in the plastic film. The uranium content of the material can then be calculated from the number of tracks and the neutron flux . [ citation needed ] This scheme has application over a wide range of geologic dates. For dates up to a few million years micas , tektites (glass fragments from volcanic eruptions), and meteorites are best used. Older materials can be dated using zircon , apatite , titanite , epidote and garnet which have a variable amount of uranium content. [32] Because the fission tracks are healed by temperatures over about 200 °C the technique has limitations as well as benefits. The technique has potential applications for detailing the thermal history of a deposit. [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Apatite_Canada.jpg/220px-Apatite_Canada.jpg",
+                "caption": "Apatite crystals are widely used in fission track dating."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Radiometric_dating",
+        "title": "Radiometric dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Geochemical Monitoring"
+    }
+]

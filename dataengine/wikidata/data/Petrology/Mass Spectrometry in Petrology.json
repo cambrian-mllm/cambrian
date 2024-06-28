@@ -1,0 +1,572 @@
+[
+    {
+        "section": "LA-ICP-MS (Laser Ablation – Inductively Coupled Plasma – Mass Spectrometry)",
+        "text": "One of the increasingly used methods includes the use of LA-ICP-MS. [2] In LA-ICP-MS, a laser beam is focused on a sample surface, causing it to vaporize and form a high-temperature plasma. This plasma is then introduced into an inductively coupled plasma (ICP) source, where further ionization and excitation occur. The resulting ions are then analysed using a mass spectrometer (MS). [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/La-icp-ms_example_2.gif/220px-La-icp-ms_example_2.gif",
+                "caption": "Depiction of how LA-ICP-MS works"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ceramic_petrography",
+        "title": "Ceramic petrography",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Radioactive decay",
+        "text": "All ordinary matter is made up of combinations of chemical elements , each with its own atomic number , indicating the number of protons in the atomic nucleus . Additionally, elements may exist in different isotopes , with each isotope of an element differing in the number of neutrons in the nucleus. A particular isotope of a particular element is called a nuclide . Some nuclides are inherently unstable. That is, at some point in time, an atom of such a nuclide will undergo radioactive decay and spontaneously transform into a different nuclide. This transformation may be accomplished in a number of different ways, including alpha decay (emission of alpha particles ) and beta decay ( electron emission, positron emission, or electron capture ). Another possibility is spontaneous fission into two or more nuclides. [ citation needed ] While the moment in time at which a particular nucleus decays is unpredictable, a collection of atoms of a radioactive nuclide decays exponentially at a rate described by a parameter known as the half-life , usually given in units of years when discussing dating techniques. After one half-life has elapsed, one half of the atoms of the nuclide in question will have decayed into a \"daughter\" nuclide or decay product . In many cases, the daughter nuclide itself is radioactive, resulting in a decay chain , eventually ending with the formation of a stable (nonradioactive) daughter nuclide; each step in such a chain is characterized by a distinct half-life. In these cases, usually the half-life of interest in radiometric dating is the longest one in the chain, which is the rate-limiting factor in the ultimate transformation of the radioactive nuclide into its stable daughter. Isotopic systems that have been exploited for radiometric dating have half-lives ranging from only about 10 years (e.g., tritium ) to over 100 billion years (e.g., samarium-147 ). [4] For most radioactive nuclides, the half-life depends solely on nuclear properties and is essentially constant. [5] This is known because decay constants measured by different techniques give consistent values within analytical errors and the ages of the same materials are consistent from one method to another. It is not affected by external factors such as temperature , pressure , chemical environment, or presence of a magnetic or electric field . [6] [7] [8] The only exceptions are nuclides that decay by the process of electron capture, such as beryllium-7 , strontium-85 , and zirconium-89 , whose decay rate may be affected by local electron density. For all other nuclides, the proportion of the original nuclide to its decay products changes in a predictable way as the original nuclide decays over time. [ citation needed ] This predictability allows the relative abundances of related nuclides to be used as a clock to measure the time from the incorporation of the original nuclides into a material to the present.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Thorium_decay_chain_from_lead-212_to_lead-208.svg/300px-Thorium_decay_chain_from_lead-212_to_lead-208.svg.png",
+                "caption": "Example of a radioactive decay chain from lead-212 ( 212 Pb) to lead-208 ( 208 Pb) . Each parent nuclide spontaneously decays into a daughter nuclide (the decay product ) via an α decay or a β − decay . The final decay product, lead-208 ( 208 Pb), is stable and can no longer undergo spontaneous radioactive decay."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Radiometric_dating",
+        "title": "Radiometric dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Accuracy of radiometric dating",
+        "text": "The basic equation of radiometric dating requires that neither the parent nuclide nor the daughter product can enter or leave the material after its formation. The possible confounding effects of contamination of parent and daughter isotopes have to be considered, as do the effects of any loss or gain of such isotopes since the sample was created. It is therefore essential to have as much information as possible about the material being dated and to check for possible signs of alteration . [10] Precision is enhanced if measurements are taken on multiple samples from different locations of the rock body. Alternatively, if several different minerals can be dated from the same sample and are assumed to be formed by the same event and were in equilibrium with the reservoir when they formed, they should form an isochron . This can reduce the problem of contamination . In uranium–lead dating , the concordia diagram is used which also decreases the problem of nuclide loss. Finally, correlation between different isotopic dating methods may be required to confirm the age of a sample. For example, the age of the Amitsoq gneisses from western Greenland was determined to be 3.60 ± 0.05 Ga (billion years ago) using uranium–lead dating and 3.56 ± 0.10 Ga (billion years ago) using lead–lead dating, results that are consistent with each other. [11] : 142–143 Accurate radiometric dating generally requires that the parent has a long enough half-life that it will be present in significant amounts at the time of measurement (except as described below under \"Dating with short-lived extinct radionuclides\"), the half-life of the parent is accurately known, and enough of the daughter product is produced to be accurately measured and distinguished from the initial amount of the daughter present in the material. The procedures used to isolate and analyze the parent and daughter nuclides must be precise and accurate. This normally involves isotope-ratio mass spectrometry . [12] The precision of a dating method depends in part on the half-life of the radioactive isotope involved. For instance, carbon-14 has a half-life of 5,730 years. After an organism has been dead for 60,000 years, so little carbon-14 is left that accurate dating cannot be established. On the other hand, the concentration of carbon-14 falls off so steeply that the age of relatively young remains can be determined precisely to within a few decades. [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Thermal_ionization_mass_spectrometer.jpg/220px-Thermal_ionization_mass_spectrometer.jpg",
+                "caption": "Thermal ionization mass spectrometer used in radiometric dating."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Radiometric_dating",
+        "title": "Radiometric dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "The age equation",
+        "text": "The mathematical expression that relates radioactive decay to geologic time is [14] [16] where The equation is most conveniently expressed in terms of the measured quantity N ( t ) rather than the constant initial value N o . [ citation needed ] To calculate the age, it is assumed that the system is closed (neither parent nor daughter isotopes have been lost from system), D 0 either must be negligible or can be accurately estimated, λ is known to high precision, and one has accurate and precise measurements of D* and N ( t ). [ citation needed ] The above equation makes use of information on the composition of parent and daughter isotopes at the time the material being tested cooled below its closure temperature . This is well established for most isotopic systems. [15] [18] However, construction of an isochron does not require information on the original compositions, using merely the present ratios of the parent and daughter isotopes to a standard isotope. An isochron plot is used to solve the age equation graphically and calculate the age of the sample and the original composition. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Figure_2_High_res_Debaille_et_al_%282017%29_The_role_of_phosphates_for_the_Lu%E2%80%93Hf_chronology_of_meteorites.gif/220px-Figure_2_High_res_Debaille_et_al_%282017%29_The_role_of_phosphates_for_the_Lu%E2%80%93Hf_chronology_of_meteorites.gif",
+                "caption": "Lu-Hf isochrons plotted of meteorite samples. The age is calculated from the slope of the isochron (line) and the original composition from the intercept of the isochron with the y-axis."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Radiometric_dating",
+        "title": "Radiometric dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Uranium–lead dating method",
+        "text": "Uranium–lead radiometric dating involves using uranium-235 or uranium-238 to date a substance's absolute age. This scheme has been refined to the point that the error margin in dates of rocks can be as low as less than two million years in two-and-a-half billion years. [20] [21] An error margin of 2–5% has been achieved on younger Mesozoic rocks. [22] Uranium–lead dating is often performed on the mineral zircon (ZrSiO 4 ), though it can be used on other materials, such as baddeleyite and monazite (see: monazite geochronology ). [23] Zircon and baddeleyite incorporate uranium atoms into their crystalline structure as substitutes for zirconium , but strongly reject lead. Zircon has a very high closure temperature, is resistant to mechanical weathering and is very chemically inert. Zircon also forms multiple crystal layers during metamorphic events, which each may record an isotopic age of the event. In situ micro-beam analysis can be achieved via laser ICP-MS or SIMS techniques. [24] One of its great advantages is that any sample provides two clocks, one based on uranium-235's decay to lead-207 with a half-life of about 700 million years, and one based on uranium-238's decay to lead-206 with a half-life of about 4.5 billion years, providing a built-in crosscheck that allows accurate determination of the age of the sample even if some of the lead has been lost. This can be seen in the concordia diagram, where the samples plot along an errorchron (straight line) which intersects the concordia curve at the age of the sample. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pfunze_belt_concordia.png/400px-Pfunze_belt_concordia.png",
+                "caption": "A concordia diagram as used in uranium–lead dating , with data from the Pfunze Belt , Zimbabwe . [19] All the samples show loss of lead isotopes, but the intercept of the errorchron (straight line through the sample points) and the concordia (curve) shows the correct age of the rock. [15]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Radiometric_dating",
+        "title": "Radiometric dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Radiocarbon dating method",
+        "text": "Radiocarbon dating is also simply called carbon-14 dating. Carbon-14 is a radioactive isotope of carbon, with a half-life of 5,730 years [28] [29] (which is very short compared with the above isotopes), and decays into nitrogen. [30] In other radiometric dating methods, the heavy parent isotopes were produced by nucleosynthesis in supernovas, meaning that any parent isotope with a short half-life should be extinct by now. Carbon-14, though, is continuously created through collisions of neutrons generated by cosmic rays with nitrogen in the upper atmosphere and thus remains at a near-constant level on Earth. The carbon-14 ends up as a trace component in atmospheric carbon dioxide (CO 2 ). [ citation needed ] A carbon-based life form acquires carbon during its lifetime. Plants acquire it through photosynthesis , and animals acquire it from consumption of plants and other animals. When an organism dies, it ceases to take in new carbon-14, and the existing isotope decays with a characteristic half-life (5730 years). The proportion of carbon-14 left when the remains of the organism are examined provides an indication of the time elapsed since its death. This makes carbon-14 an ideal dating method to date the age of bones or the remains of an organism. The carbon-14 dating limit lies around 58,000 to 62,000 years. [31] The rate of creation of carbon-14 appears to be roughly constant, as cross-checks of carbon-14 dating with other dating methods show it gives consistent results. However, local eruptions of volcanoes or other events that give off large amounts of carbon dioxide can reduce local concentrations of carbon-14 and give inaccurate dates. The releases of carbon dioxide into the biosphere as a consequence of industrialization have also depressed the proportion of carbon-14 by a few percent; in contrast, the amount of carbon-14 was increased by above-ground nuclear bomb tests that were conducted into the early 1960s. Also, an increase in the solar wind or the Earth's magnetic field above the current value would depress the amount of carbon-14 created in the atmosphere. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ales_stenar_bred.jpg/300px-Ales_stenar_bred.jpg",
+                "caption": "Ale's Stones at Kåseberga, around ten kilometres south east of Ystad , Sweden were dated at 56 CE using the carbon-14 method on organic material found at the site. [27]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Radiometric_dating",
+        "title": "Radiometric dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Fission track dating method",
+        "text": "This involves inspection of a polished slice of a material to determine the density of \"track\" markings left in it by the spontaneous fission of uranium-238 impurities. The uranium content of the sample has to be known, but that can be determined by placing a plastic film over the polished slice of the material, and bombarding it with slow neutrons . This causes induced fission of 235 U, as opposed to the spontaneous fission of 238 U. The fission tracks produced by this process are recorded in the plastic film. The uranium content of the material can then be calculated from the number of tracks and the neutron flux . [ citation needed ] This scheme has application over a wide range of geologic dates. For dates up to a few million years micas , tektites (glass fragments from volcanic eruptions), and meteorites are best used. Older materials can be dated using zircon , apatite , titanite , epidote and garnet which have a variable amount of uranium content. [32] Because the fission tracks are healed by temperatures over about 200 °C the technique has limitations as well as benefits. The technique has potential applications for detailing the thermal history of a deposit. [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Apatite_Canada.jpg/220px-Apatite_Canada.jpg",
+                "caption": "Apatite crystals are widely used in fission track dating."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Radiometric_dating",
+        "title": "Radiometric dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Decay of 176Lu",
+        "text": "The only natural occurring radioactive isotope of lutetium Lu 71 176 {\\displaystyle {\\ce {^{176}_{71}Lu}}} decays in the following two ways: [3] Lutetium , Lu 71 176 {\\displaystyle {\\ce {^{176}_{71}Lu}}} can decay into Hf 72 176 {\\displaystyle {\\ce {^{176}_{72}Hf}}} , a heavier element, or ytterbium , Yb 70 176 {\\displaystyle {\\ce {^{176}_{70}Yb}}} , a lighter element. [3] However, as the major mode of decay is by β − emission, i.e. release of electron (e − ), as in the case for Lu 71 176 {\\displaystyle {\\ce {^{176}_{71}Lu}}} decaying to Hf 72 176 {\\displaystyle {\\ce {^{176}_{72}Hf}}} , the presence of Yb 70 176 {\\displaystyle {\\ce {^{176}_{70}Yb}}} is of negligible effect to Lu–Hf age determination. [5]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Figure_2_High_res_Debaille_et_al_%282017%29_The_role_of_phosphates_for_the_Lu%E2%80%93Hf_chronology_of_meteorites.gif/305px-Figure_2_High_res_Debaille_et_al_%282017%29_The_role_of_phosphates_for_the_Lu%E2%80%93Hf_chronology_of_meteorites.gif",
+                "caption": "Original figure 2 from Debaille et al. (2017); [6] An example of Lu/Hf isochron."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lutetium%E2%80%93hafnium_dating",
+        "title": "Lutetium–hafnium dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Geochemistry of lutetium and hafnium",
+        "text": "According to the Goldschmidt classification scheme, Lu and Hf are both lithophile (earth-loving) elements, meaning they are mainly found in the silicate fraction of Earth, i.e. the mantle and crust. [4] During the formation of the Earth, the two elements tended not be fractionated into the core during core formation, i.e. not concentrated in the core, unlike siderophile elements (iron-loving elements). [2] Lu and Hf are also refractory elements, meaning they quickly condensed from the protoplanetary disk to form the solid part of Earth, as opposed to volatile elements. [2] The two elements as a result would not be found in Earth's early atmosphere. [2] Due to these characteristics, the two elements are relatively stationary throughout planetary evolution and are thought to retain the isotopic abundance characteristics of primitive planetary material, i.e. chondritic uniform reservoir (CHUR). [2] Both Lu and Hf are incompatible trace elements and relatively immobile. [1] However, Hf is more incompatible than Lu, and thus it is relatively enriched  in the crust and in silicate melts. [1] Thus, a higher Lu/Hf ratio (also meaning a higher 176 Hf / 177 Hf ratio, over time, due to Lu decay) is generally found in the residual solid during partial melting and removal of a liquid from a geochemical reservoir. [1] [3] It is worth noting that variation in Lu/Hf ratio is usually very small. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Planetary_evolution.gif/242px-Planetary_evolution.gif",
+                "caption": "Schematic diagram showing elemental movement starting from planetesimal formation. Light blue particles represent volatile elements, which will not condense during early Earth formation. Dark brown and orange particles are both refractory elements which condense to form the solid Earth (indicated by the black circle). Dark brown particles represent siderophile elements that sink to the centre of Earth during core formation while the orange lithophile elements do not."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lutetium%E2%80%93hafnium_dating",
+        "title": "Lutetium–hafnium dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "ɛHf value implications",
+        "text": "ɛHf values are closely related to the enrichment or depletion of Hf relative to the chondritic uniform reservoir . [3] A positive ɛHf value means that 176 Hf concentration in sample is larger than that of chondritic uniform reservoir . [3] This also means a higher Lu/Hf ratio in sample. [3] Positive value would be found in the residue solid after melt extraction, as the liquid would be enriched in Hf. [3] It is worth noting that the enrichment of Hf in melt would means removing the more abundant isotopes of Hf to a larger extent than 176 Hf, resulting in the observed 176 Hf/ 177 Hf enrichment in residue solid. [3] Using the same logic, a negative ɛHf value would represent the extracted melt from reservoir, forming an evolved, juvenile material. [3] The original figure 9 from Rehman et al. (2012) showed an intermedia, mixed ɛHf trend for the eclogites that was studied. The experimental result indicate that the eclogites were formed from ocean-island basalt with contamination from sediments to produce the intermediate ɛHf values. [11]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Figure_9_Rehman_et_al._Sm-Nd_and_Lu-Hf_Isotope_Geochemistry_of_the_Himalayan_High-_and_Ultrahigh-_Pressure_Eclogites%2C_Kaghan_Valley%2C_Pakistan.jpg/471px-Figure_9_Rehman_et_al._Sm-Nd_and_Lu-Hf_Isotope_Geochemistry_of_the_Himalayan_High-_and_Ultrahigh-_Pressure_Eclogites%2C_Kaghan_Valley%2C_Pakistan.jpg",
+                "caption": "Original figure 9 from Rehman et al. (2012); [11] An example of ɛHf plot."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Schematic_Hf_evolution.png/457px-Schematic_Hf_evolution.png",
+                "caption": "A schematic Hf evolution diagram.The black curve is plotted using 176 Hf/ 177 Hf values from Patchett and Tatsumoto (1980). All other curves and values are hypothetical. 4.55 billion year was assumed to be the time of Earth formation."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lutetium%E2%80%93hafnium_dating",
+        "title": "Lutetium–hafnium dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Metamorphic rock petrogenesis and metamorphic events",
+        "text": "In understanding metamorphic rocks, Lu–Hf can still provide information of origin. In cases where zircon phase is absent or very low in abundance, such as eclogite with cumulate protolith , kyanite and orthopyroxene eclogites can be candidate for Hf analysis. Although the overall rare-earth element concentration is low is the two eclogites, Lu/Hf ratios is high, therefore enabling concentration determination of Lu and Hf. [20] Garnets play an important role in Lu/Hf applications, as they are common metamorphic minerals while having high affinity to rare-earth element . [1] This means garnets generally have high Lu/Hf ratios. [1] Dating of garnets with Lu–Hf could provide information of history of garnet growth during prograde metamorphism and peak P-T conditions . [21] With the help of garnet Lu/Hf ages, a study on Lago di Cignana, western Alps, Italy, an age of 48.8±2.1 million yr for lower boundary of garnet growth time was identified. [22] From this, the burial rate of ultra-high-pressure rocks at Lago di Cignana was estimated to be 0.23–0.47 cm/yr, which suggest ocean floor rocks were carried down to subduction and reached ultra-high-pressure metamorphism conditions. [22] Conventional isochron ages are obtained from bulk garnet separates and are only an estimate of the average age of the overall growth of garnet. To give precise estimates of the pace of growth of a single garnet crystal, geochronologists use microsampling methods to collect and date small consecutive zones of garnet crystals. [23] [24] [25] Another low-temperature, high-pressure metamorphic index mineral, lawsonite was brought into use in recent years to understand subduction metamorphism using Lu/Hf dating. [26] A study showed that lawsonite could be significant in dating low-temperature metamorphic rocks, typically in prograde metamorphism in a subduction zone settings, as garnets are formed after lawsonite is stabilized, so that lawsonite can be enriched in Lu for radiometric dating. [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Granat_%28garnet%29%2C_andradyt_-_Gilgit%2C_Baltistan%2C_Pakistan..jpg/250px-Granat_%28garnet%29%2C_andradyt_-_Gilgit%2C_Baltistan%2C_Pakistan..jpg",
+                "caption": "Garnet, a common metamorphic mineral target for Lu/Hf dating."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lutetium%E2%80%93hafnium_dating",
+        "title": "Lutetium–hafnium dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Detrital zircon and provenance",
+        "text": "Hf ages determined from detrital zircon can help to identify major event of crustal growth. [30] By analyzing detrital zircon in Yangtze River sediments, a group of researchers produced a statistical distribution of Hf model ages of the sediments. [30] The statistical peaks of age ranges were identified: 2000 Ma–1200 Ma, 2700 Ma–2400 Ma, and 3200 Ma-2900 Ma, indicating crustal growth events at ages of Paleoproterozoic to Mesoproterozoic, and of Archean in the South China Block. [30] Hf ages from detrital zircon also help tracing sediment source. [31] A study on detrital zircon from sandstones in the Oslo Rift, Norway identified major sediment source in Fennoscandia region and also a minor source in Variscan Mountains of central Europe during Late Devonian to Late Carboniferous by U–Pb and Lu–Hf characteristics of source rocks and sediments. [31]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Oslo_Graben_Cambrosilurian_240520084552.jpg/250px-Oslo_Graben_Cambrosilurian_240520084552.jpg",
+                "caption": "Oslo Rift, also known as Oslo Graben."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lutetium%E2%80%93hafnium_dating",
+        "title": "Lutetium–hafnium dating",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Underlying physics",
+        "text": "When materials are exposed to short- wavelength X-rays or to gamma rays, ionization of their component atoms may take place. Ionization consists of the ejection of one or more electrons from the atom, and may occur if the atom is exposed to radiation with an energy greater than its ionization energy . X-rays and gamma rays can be energetic enough to expel tightly held electrons from the inner orbitals of the atom. The removal of an electron in this way makes the electronic structure of the atom unstable, and electrons in higher orbitals \"fall\" into the lower orbital to fill the hole left behind. In falling, energy is released in the form of a photon, the energy of which is equal to the energy difference of the two orbitals involved. Thus, the material emits radiation, which has energy characteristic of the atoms present. The term fluorescence is applied to phenomena in which the absorption of radiation of a specific energy results in the re-emission of radiation of a different energy (generally lower).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/X-ray_fluorescence_simple_figure.svg/220px-X-ray_fluorescence_simple_figure.svg.png",
+                "caption": "Figure 1: Physics of X-ray fluorescence in a schematic representation."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/XRFScan.jpg/300px-XRFScan.jpg",
+                "caption": "Figure 2: Typical wavelength dispersive XRF spectrum"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TubeSpectrum-en.svg/300px-TubeSpectrum-en.svg.png",
+                "caption": "Figure 3: Spectrum of a rhodium target tube operated at 60 kV, showing continuous spectrum and K lines"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/X-ray_fluorescence",
+        "title": "X-ray fluorescence",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Detection",
+        "text": "In energy-dispersive analysis, dispersion and detection are a single operation, as already mentioned above. Proportional counters or various types of solid-state detectors ( PIN diode , Si(Li), Ge(Li), silicon drift detector SDD) are used. They all share the same detection principle: An incoming X-ray photon ionizes a large number of detector atoms with the amount of charge produced being proportional to the energy of the incoming photon. The charge is then collected and the process repeats itself for the next photon. Detector speed is obviously critical, as all charge carriers measured have to come from the same photon to measure the photon energy correctly (peak length discrimination is used to eliminate events that seem to have been produced by two X-ray photons arriving almost simultaneously). The spectrum is then built up by dividing the energy spectrum into discrete bins and counting the number of pulses registered within each energy bin. EDXRF detector types vary in resolution, speed and the means of cooling (a low number of free charge carriers is critical in the solid state detectors): proportional counters with resolutions of several hundred eV cover the low end of the performance spectrum, followed by PIN diode detectors, while the Si(Li), Ge(Li) and SDDs occupy the high end of the performance scale. In wavelength-dispersive analysis, the single-wavelength radiation produced by the monochromator is passed into a photomultiplier (a detector similar to a Geiger counter )  which counts individual photons as they pass through. The counter is a chamber containing a gas that is ionized by X-ray photons. A central electrode is charged at (typically) +1700 V with respect to the conducting chamber walls, and each photon triggers a pulse-like cascade of current across this field. The signal is amplified and transformed into an accumulating digital count. These counts are then processed to obtain analytical data.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/20180221-OSEC-LSC-0055_%2839518128545%29.jpg/220px-20180221-OSEC-LSC-0055_%2839518128545%29.jpg",
+                "caption": "A portable XRF analyzer using a silicon drift detector"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/X-ray_fluorescence",
+        "title": "X-ray fluorescence",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Chemical analysis",
+        "text": "The use of a primary X-ray beam to excite fluorescent radiation from the sample was first proposed by Glocker and Schreiber in 1928. [7] Today, the method is used as a non-destructive analytical technique, and as a process control tool in many extractive and processing industries. In principle, the lightest element that can be analysed is beryllium (Z = 4), but due to instrumental limitations and low X-ray yields for the light elements, it is often difficult to quantify elements lighter than sodium (Z = 11), unless background corrections and very comprehensive inter-element corrections are made.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dmedxrfschematic.jpg/220px-Dmedxrfschematic.jpg",
+                "caption": "Figure 4: Schematic arrangement of EDX spectrometer"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/X-ray_fluorescence",
+        "title": "X-ray fluorescence",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Energy dispersive spectrometry",
+        "text": "In energy-dispersive spectrometers (EDX or EDS), the detector allows the determination of the energy of the photon when it is detected. Detectors historically have been based on silicon semiconductors, in the form of lithium-drifted silicon crystals, or high-purity silicon wafers.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/DmedxrfSiLiDetector.jpg/220px-DmedxrfSiLiDetector.jpg",
+                "caption": "Figure 5: Schematic form of a Si(Li) detector"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/X-ray_fluorescence",
+        "title": "X-ray fluorescence",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Usage",
+        "text": "EDX spectrometers are different from WDX spectrometers in that they are smaller, simpler in design and have fewer engineered parts, however the accuracy and resolution of EDX spectrometers are lower than for WDX.  EDX spectrometers can also use miniature X-ray tubes or gamma sources, which makes them cheaper and allows miniaturization and portability. This type of instrument is commonly used for portable quality control screening applications, such as testing toys for lead (Pb) content, sorting scrap metals, and measuring the lead content of residential paint. On the other hand, the low resolution and problems with low count rate and long dead-time makes them inferior for high-precision analysis. They are, however, very effective for high-speed, multi-elemental analysis. Field Portable XRF analysers currently on the market weigh less than 2 kg, and have limits of detection on the order of 2 parts per million of lead (Pb) in pure sand. Using a Scanning Electron Microscope and using EDX, studies have been broadened to organic based samples such as biological samples and polymers.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dmwdxrfschematic.jpg/220px-Dmwdxrfschematic.jpg",
+                "caption": "Figure 6: Schematic arrangement of wavelength dispersive spectrometer"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/XRFgoniometer_manual.jpg/220px-XRFgoniometer_manual.jpg",
+                "caption": "Chemist operates a goniometer used for X-ray fluorescence analysis of individual grains of mineral specimens, U.S. Geological Survey , 1958."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/X-ray_fluorescence",
+        "title": "X-ray fluorescence",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Sample preparation",
+        "text": "In order to keep the geometry of the tube-sample-detector assembly constant, the sample is normally prepared as a flat disc, typically of diameter 20–50 mm. This is located at a standardized, small distance from the tube window. Because the X-ray intensity follows an inverse-square law, the tolerances for this placement and for the flatness of the surface must be very tight in order to maintain a repeatable X-ray flux. Ways of obtaining sample discs vary: metals may be machined to shape, minerals may be finely ground and pressed into a tablet, and glasses may be cast to the required shape. A further reason for obtaining a flat and representative sample surface is that the secondary X-rays from lighter elements often only emit from the top few micrometres of the sample. In order to further reduce the effect of surface irregularities, the sample is usually spun at 5–20 rpm. It is necessary to ensure that the sample is sufficiently thick to absorb the entire primary beam. For higher-Z materials, a few millimetres thickness is adequate, but for a light-element matrix such as coal, a thickness of 30–40 mm is needed.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dmbraggreflection.jpg/220px-Dmbraggreflection.jpg",
+                "caption": "Figure 7: Bragg diffraction condition"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/X-ray_fluorescence",
+        "title": "X-ray fluorescence",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Flat crystal with Söller collimators",
+        "text": "A Söller collimator is a stack of parallel metal plates, spaced a few tenths of a millimeter apart. To improve angular resolution, one must lengthen the collimator, and/or reduce the plate spacing. This arrangement has the advantage of simplicity and relatively low cost, but the collimators reduce intensity and increase scattering, and reduce the area of sample and crystal that can be \"seen\". The simplicity of the geometry is especially useful for variable-geometry monochromators.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DmwdxrfFlatXtalMonochrom.jpg/220px-DmwdxrfFlatXtalMonochrom.jpg",
+                "caption": "Figure 8: Flat crystal with Soller collimators"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/DmwdxrfCurvedXtalMonochrom.jpg/220px-DmwdxrfCurvedXtalMonochrom.jpg",
+                "caption": "Figure 9: Curved crystal with slits"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/X-ray_fluorescence",
+        "title": "X-ray fluorescence",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Structural analysis lines",
+        "text": "X-ray diffraction (XRD) is still the most used method for structural analysis of chemical compounds. Yet, with increasing detail on the relation of K β {\\displaystyle K_{\\beta }} -line spectra and the surrounding chemical environment of the ionized metal atom, measurements of the so-called valence-to-core (V2C) energy region become increasingly viable. Scientists noted that after ionization of 3d-transition metal atom, the K β {\\displaystyle K_{\\beta }} -line intensities and energies shift\nwith oxidation state of the metal and with the species of ligand(s). Spin states in a compound tend to affect this kind of measurement. [9] This means, that by intense study of these spectral lines, one can obtain several crucial pieces of information from a sample. Especially, if there are references that have been studied in detail and can be used to make out differences. The information collected from this kind of measurement include: These measurements are mostly done at synchrotron facilities, although a number of so-called \"in-lab\"-spectrometers have been developed and used for pre-beamtime (time at a synchrotron) measurements. [10] [11]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/K-Beta_%26_VtC.PNG/250px-K-Beta_%26_VtC.PNG",
+                "caption": "Figure 10:K-Beta Mainline and V2C"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/X-ray_fluorescence",
+        "title": "X-ray fluorescence",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Detectors",
+        "text": "Detectors used for wavelength dispersive spectrometry need to have high pulse processing speeds in order to cope with the very high photon count rates that can be obtained. In addition, they need sufficient energy resolution to allow filtering-out of background noise and spurious photons from the primary beam or from crystal fluorescence. There are four common types of detector: Gas flow proportional counters are used mainly for detection of longer wavelengths. Gas flows through it continuously. Where there are multiple detectors, the gas is passed through them in series, then led to waste. The gas is usually 90% argon, 10% methane (\"P10\"), although the argon may be replaced with neon or helium where very long wavelengths (over 5 nm) are to be detected. The argon is ionised by incoming X-ray photons, and the electric field multiplies this charge into a measurable pulse. The methane suppresses the formation of fluorescent photons caused by recombination of the argon ions with stray electrons. The anode wire is typically tungsten or nichrome of 20–60 μm diameter. Since the pulse strength obtained is essentially proportional to the ratio of the detector chamber diameter to the wire diameter, a fine wire is needed, but it must also be strong enough to be maintained under tension so that it remains precisely straight and concentric with the detector. The window needs to be conductive, thin enough to transmit the X-rays effectively, but thick and strong enough to minimize diffusion of the detector gas into the high vacuum of the monochromator chamber. Materials often used are beryllium metal, aluminised PET film and aluminised polypropylene. Ultra-thin windows (down to 1 μm) for use with low-penetration long wavelengths are very expensive. The pulses are sorted electronically by \"pulse height selection\" in order to isolate those pulses deriving from the secondary X-ray photons being counted. Sealed gas detectors are similar to the gas flow proportional counter, except that the gas does not flow through it. The gas is usually krypton or xenon at a few atmospheres pressure. They are applied usually to wavelengths in the 0.15–0.6 nm range. They are applicable in principle to longer wavelengths, but are limited by the problem of manufacturing a thin window capable of withstanding the high pressure difference. Scintillation counters consist of a scintillating crystal (typically of sodium iodide doped with thallium) attached to a photomultiplier. The crystal produces a group of scintillations for each photon absorbed, the number being proportional to the photon energy. This translates into a pulse from the photomultiplier of voltage proportional to the photon energy. The crystal must be protected with a relatively thick aluminium/beryllium foil window, which limits the use of the detector to wavelengths below 0.25 nm. Scintillation counters are often connected in series with a gas flow proportional counter: the latter is provided with an outlet window opposite the inlet, to which the scintillation counter is attached. This arrangement is particularly used in sequential spectrometers. Semiconductor detectors can be used in theory, and their applications are increasing as their technology improves, but historically their use for WDX has been restricted by their slow response (see EDX ).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/DmwdxrfFlowDetector.jpg/220px-DmwdxrfFlowDetector.jpg",
+                "caption": "Figure 11: Arrangement of gas flow proportional counter"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/LDHerzogBeadMaking.jpg/220px-LDHerzogBeadMaking.jpg",
+                "caption": "A glass \"bead\" specimen for XRF analysis being cast at around 1100 °C in a Herzog automated fusion machine in a cement plant quality control laboratory. 1 (top): fusing, 2: preheating the mould, 3: pouring the melt, 4: cooling the \"bead\""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/X-ray_fluorescence",
+        "title": "X-ray fluorescence",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Materials science and engineering",
+        "text": "The technique is commonly used for analyzing the chemical composition of metals, alloys, ceramics, and glasses. [21] It is particularly useful for assessing the composition of individual particles or grains and chemical changes on the scale of a few micrometres to millimeters. The electron microprobe is widely used for research, quality control, and failure analysis.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/1886VE10-SEM-HD.jpg/220px-1886VE10-SEM-HD.jpg",
+                "caption": "A section of the 1886VE10 microcontroller die by an electron microprobe. The small bright cylinders are tungsten vias left over from metalization etching . X-ray spectroscopy can be used to determine the composition of the vias."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/1886VE10-optical.jpg/220px-1886VE10-optical.jpg",
+                "caption": "For comparison, a similar section of the same microcontroller die by an optical microscope ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electron_microprobe",
+        "title": "Electron microprobe",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Definition and characteristics",
+        "text": "Basalt is composed mostly of oxides of silicon, iron, magnesium, potassium, aluminum, titanium, and calcium. Geologists classify igneous rock by its mineral content whenever possible, with the relative volume percentages of quartz (crystalline silica (SiO 2 )), alkali feldspar , plagioclase , and feldspathoid ( QAPF ) being particularly important. An aphanitic (fine-grained) igneous rock is classified as basalt when its QAPF fraction is composed of less than 10% feldspathoid and less than 20% quartz, with plagioclase making up at least 65% of its feldspar content. This places basalt in the basalt/andesite field of the QAPF diagram. Basalt is further distinguished from andesite by its silica content of under 52%. [3] [4] [5] [6] It is often not practical to determine the mineral composition of volcanic rocks, due to their very fine grain size, and geologists then classify the rocks chemically, with the total content of alkali metal oxides and silica ( TAS ) being particularly important. Basalt is then defined as volcanic rock with a content of 45% to 52% silica and not more than 5% alkali metal oxides. This places basalt in the B field of the TAS diagram. [3] [4] [6] Such a composition is described as mafic . [7] Basalt is usually dark grey to black in colour, due to its high content of augite or other dark-coloured pyroxene minerals, [8] [9] [10] but can exhibit a wide range of shading. Some basalts are quite light-coloured due to a high content of plagioclase, and these are sometimes described as leucobasalts . [11] [12] Lighter basalt can be difficult to distinguish from andesite , but a common rule of thumb , used in field research , is that basalt has a color index of 35 or greater. [13] The physical properties of basalt reflect its relatively low silica content and typically high iron and magnesium content. [14] The average density of basalt is 2.9 g/cm 3 , compared with a typical density for granite of 2.7 g/cm 3 . [15] The viscosity of basaltic magma is relatively low, around 10 4 to 10 5 cP , although this is still many orders of magnitude higher than water (which has a viscosity of about 1 cP). The viscosity of basaltic magma is similar to that of ketchup . [16] Basalt is often porphyritic , containing larger crystals ( phenocrysts ) formed prior to the extrusion that brought the magma to the surface, embedded in a finer-grained matrix . These phenocrysts usually are of augite, olivine , or a calcium-rich plagioclase, [9] which have the highest melting temperatures of the typical minerals that can crystallize from the melt and are therefore the first to form solid crystals. [17] [18] Basalt often contains vesicles , formed when dissolved gases bubble out of the magma as it decompresses during its approach to the surface, and the erupted lava then solidifies before the gases can escape. When vesicles make up a substantial fraction of the volume of the rock, the rock is described as scoria . [19] [20] The term basalt is at times applied to shallow intrusive rocks with a composition typical of basalt, but rocks of this composition with a phaneritic (coarser) groundmass are more properly referred to as diabase (also called dolerite) or, when more coarse-grained (crystals over 2 mm across), as gabbro . Diabase and gabbro are thus the hypabyssal and plutonic equivalents of basalt. [4] [21] In the Hadean , Archean , and early Proterozoic eons of Earth's history, the chemistry of erupted magmas was significantly different from today's, due to immature crustal and asthenosphere differentiation. These ultramafic volcanic rocks, with silica (SiO 2 ) contents below 45% are usually classified as komatiites . [22] [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Basalt_qapf.jpg/220px-Basalt_qapf.jpg",
+                "caption": "QAPF diagram with basalt/andesite field highlighted in yellow. Basalt is distinguished from andesite by SiO 2 < 52%."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TAS-Diagramm-basalt.png/300px-TAS-Diagramm-basalt.png",
+                "caption": "Basalt is field B in the TAS classification ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/VesicularBasalt1.jpg/220px-VesicularBasalt1.jpg",
+                "caption": "Vesicular basalt at Sunset Crater , Arizona. US quarter (24mm) for scale."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Basalt_columns_in_yellowstone_2.jpg/220px-Basalt_columns_in_yellowstone_2.jpg",
+                "caption": "Columnar basalt flows in Yellowstone National Park , USA"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Szentgy%C3%B6rgyhegy03.jpg/170px-Szentgy%C3%B6rgyhegy03.jpg",
+                "caption": "Columnar basalt at Szent György Hill, Hungary"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Types",
+        "text": "On Earth, most basalt forms by decompression melting of the mantle . [26] The high pressure in the upper mantle (due to the weight of the overlying rock ) raises the melting point of mantle rock, so that almost all of the upper mantle is solid. However, mantle rock is ductile (the solid rock slowly deforms under high stress). When tectonic forces cause hot mantle rock to creep upwards, the decrease of the pressure on the ascending rock can cause its melting point to drop enough for the rock to partially melt . This produces basaltic magma. [27] Decompression melting can occur in a variety of tectonic settings. These include continental rift zones, at mid-ocean ridges , above hotspots , [28] [29] and in back-arc basins . [30] Basalt is also produced in subduction zones , where mantle rock rises into a mantle wedge above the descending slab. Decompression melting in this setting is enhanced by further lowering of the melting point by water vapor and other volatiles released from the slab. [31] Each such setting produces basalt with distinctive characteristics. [32]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Causeway23.jpg/220px-Causeway23.jpg",
+                "caption": "Large masses must cool slowly to form a polygonal joint pattern, as here at the Giant's Causeway in Northern Ireland"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%D0%91%D0%B0%D0%B7%D0%B0%D0%BB%D1%8C%D1%82%D0%BE%D0%B2%D0%B5.jpg/220px-%D0%91%D0%B0%D0%B7%D0%B0%D0%BB%D1%8C%D1%82%D0%BE%D0%B2%D0%B5.jpg",
+                "caption": "Columns of basalt near Bazaltove , Ukraine"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Petrology",
+        "text": "The mineralogy of basalt is characterized by a preponderance of calcic plagioclase feldspar and pyroxene . Olivine can also be a significant constituent. [46] Accessory minerals present in relatively minor amounts include iron oxides and iron-titanium oxides, such as magnetite , ulvöspinel , and ilmenite . [41] Because of the presence of such oxide minerals, basalt can acquire strong magnetic signatures as it cools, and paleomagnetic studies have made extensive use of basalt. [47] In tholeiitic basalt , pyroxene ( augite and orthopyroxene or pigeonite ) and calcium -rich plagioclase are common phenocryst minerals. Olivine may also be a phenocryst, and when present, may have rims of pigeonite. The groundmass contains interstitial quartz or tridymite or cristobalite . Olivine tholeiitic basalt has augite and orthopyroxene or pigeonite with abundant olivine, but olivine may have rims of pyroxene and is unlikely to be present in the groundmass . [41] Alkali basalts typically have mineral assemblages that lack orthopyroxene but contain olivine. Feldspar phenocrysts typically are labradorite to andesine in composition. Augite is rich in titanium compared to augite in tholeiitic basalt. Minerals such as alkali feldspar , leucite , nepheline , sodalite , phlogopite mica, and apatite may be present in the groundmass. [41] Basalt has high liquidus and solidus temperatures—values at the Earth's surface are near or above 1200 °C (liquidus) [48] and near or below 1000 °C (solidus); these values are higher than those of other common igneous rocks. [49] The majority of tholeiitic basalts are formed at approximately 50–100 km depth within the mantle. Many alkali basalts may be formed at greater depths, perhaps as deep as 150–200 km. [50] [51] The origin of high-alumina basalt continues to be controversial, with disagreement over whether it is a primary melt or derived from other basalt types by fractionation. [52] : 65",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%D0%9C%D1%96%D0%BA%D1%80%D0%BE%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%8F_%D1%88%D0%BB%D1%96%D1%84%D0%B0_%D0%B1%D0%B0%D0%B7%D0%B0%D0%BB%D1%8C%D1%82%D1%83_%D1%96%D0%B7_%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%BD%D0%B8%D0%BA%D0%B0_%D0%91%D0%B0%D0%B7%D0%B0%D0%BB%D1%8C%D1%82%D0%BE%D0%B2%D1%96_%D1%81%D1%82%D0%BE%D0%B2%D0%BF%D0%B8_%D0%B2_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BE%D0%BC%D1%83_%D1%81%D0%B2%D1%96%D1%82%D0%BB%D1%96.jpg/220px-thumbnail.jpg",
+                "caption": "Photomicrograph of a thin section of basalt from Bazaltove , Ukraine"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Morphology and textures",
+        "text": "The shape, structure and texture of a basalt is diagnostic of how and where it erupted—for example, whether into the sea, in an explosive cinder eruption or as creeping pāhoehoe lava flows, the classic image of Hawaiian basalt eruptions. [61]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20011005-0039_DAS_large.jpg/220px-20011005-0039_DAS_large.jpg",
+                "caption": "An active basalt lava flow"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Columnar basalt",
+        "text": "During the cooling of a thick lava flow, contractional joints or fractures form. [68] If a flow cools relatively rapidly, significant contraction forces build up. While a flow can shrink in the vertical dimension without fracturing, it cannot easily accommodate shrinking in the horizontal direction unless cracks form; the extensive fracture network that develops results in the formation of columns . These structures are predominantly hexagonal in cross-section, but polygons with three to twelve or more sides can be observed. [69] The size of the columns depends loosely on the rate of cooling; very rapid cooling may result in very small (<1 cm diameter) columns, while slow cooling is more likely to produce large columns. [70]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Causeway-code_poet-4.jpg/220px-Causeway-code_poet-4.jpg",
+                "caption": "The Giant's Causeway in Northern Ireland"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Boyabat.jpg/220px-Boyabat.jpg",
+                "caption": "Columnar jointed basalt in Turkey"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/%D0%9C%D1%8B%D1%81_%D0%A1%D1%82%D0%BE%D0%BB%D0%B1%D1%87%D0%B0%D1%82%D1%8B%D0%B9._%D0%9F%D0%BE%D1%81%D0%BB%D0%B5_%D0%B7%D0%B0%D0%BA%D0%B0%D1%82%D0%B0.jpg/220px-%D0%9C%D1%8B%D1%81_%D0%A1%D1%82%D0%BE%D0%BB%D0%B1%D1%87%D0%B0%D1%82%D1%8B%D0%B9._%D0%9F%D0%BE%D1%81%D0%BB%D0%B5_%D0%B7%D0%B0%D0%BA%D0%B0%D1%82%D0%B0.jpg",
+                "caption": "Columnar basalt at Cape Stolbchaty , Russia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Submarine eruptions",
+        "text": "The character of submarine basalt eruptions is largely determined by depth of water, since increased pressure restricts the release of volatile gases and results in effusive eruptions. [71] It has been estimated that at depths greater than 500 metres (1,600 ft), explosive activity associated with basaltic magma is suppressed. [72] Above this depth, submarine eruptions are often explosive, tending to produce pyroclastic rock rather than basalt flows. [73] These eruptions, described as Surtseyan, are characterised by large quantities of steam and gas and the creation of large amounts of pumice . [74]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pillow_basalt_crop_l.jpg/220px-Pillow_basalt_crop_l.jpg",
+                "caption": "Pillow basalts on the Pacific seafloor"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Earth",
+        "text": "Basalt is the most common volcanic rock type on Earth, making up over 90% of all volcanic rock on the planet. [80] The crustal portions of oceanic tectonic plates are composed predominantly of basalt, produced from upwelling mantle below the ocean ridges . [81] Basalt is also the principal volcanic rock in many oceanic islands , including the islands of Hawaiʻi , [34] the Faroe Islands , [82] and Réunion . [83] The eruption of basalt lava is observed by geologists at about 20 volcanoes per year. [84] Basalt is the rock most typical of large igneous provinces . These include continental flood basalts , the most voluminous basalts found on land. [35] Examples of continental flood basalts included the Deccan Traps in India , [85] the Chilcotin Group in British Columbia , [86] Canada , the Paraná Traps in Brazil, [87] the Siberian Traps in Russia , [88] the Karoo flood basalt province in South Africa, [89] and the Columbia River Plateau of Washington and Oregon . [90] Basalt is also prevalent across extensive regions of the Eastern Galilee , Golan , and Bashan in Israel and Syria . [91] Basalt also is common around volcanic arcs, specially those on thin crust . [92] Ancient Precambrian basalts are usually only found in fold and thrust belts, and are often heavily metamorphosed. These are known as greenstone belts , [93] [94] because low-grade metamorphism of basalt produces chlorite , actinolite , epidote and other green minerals. [95]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Parana_traps.JPG/220px-Parana_traps.JPG",
+                "caption": "Paraná Traps , Brazil"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "The Moon",
+        "text": "The dark areas visible on Earth's moon , the lunar maria , are plains of flood basaltic lava flows. These rocks were sampled both by the crewed American Apollo program and the robotic Russian Luna program , and are represented among the lunar meteorites . [97] Lunar basalts differ from their Earth counterparts principally in their high iron contents, which typically range from about 17 to 22 wt% FeO. They also possess a wide range of titanium concentrations (present in the mineral ilmenite ), [98] [99] ranging from less than 1 wt% TiO 2 , to about 13 wt.%. Traditionally, lunar basalts have been classified according to their titanium content, with classes being named high-Ti, low-Ti, and very-low-Ti. Nevertheless, global geochemical maps of titanium obtained from the Clementine mission demonstrate that the lunar maria possess a continuum of titanium concentrations, and that the highest concentrations are the least abundant. [100] Lunar basalts show exotic textures and mineralogy, particularly shock metamorphism , lack of the oxidation typical of terrestrial basalts, and a complete lack of hydration . [101] Most of the Moon 's basalts erupted between about 3 and 3.5 billion years ago, but the oldest samples are 4.2 billion years old, and the youngest flows, based on the age dating method of crater counting , are estimated to have erupted only 1.2 billion years ago. [102]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lunar_Olivine_Basalt_15555_from_Apollo_15_in_National_Museum_of_Natural_History.jpg/220px-Lunar_Olivine_Basalt_15555_from_Apollo_15_in_National_Museum_of_Natural_History.jpg",
+                "caption": "Lunar olivine basalt collected by Apollo 15 astronauts"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Weathering",
+        "text": "Compared to granitic rocks exposed at the Earth's surface, basalt outcrops weather relatively rapidly. This reflects their content of minerals that crystallized at higher temperatures and in an environment poorer in water vapor than granite. These minerals are less stable in the colder, wetter environment at the Earth's surface. The finer grain size of basalt and the volcanic glass sometimes found between the grains also hasten weathering. The high iron content of basalt causes weathered surfaces in humid climates to accumulate a thick crust of hematite or other iron oxides and hydroxides, staining the rock a brown to rust-red colour. [115] [116] [117] [118] Because of the low potassium content of most basalts, weathering converts the basalt to calcium-rich clay ( montmorillonite ) rather than potassium-rich clay ( illite ). Further weathering, particularly in tropical climates, converts the montmorillonite to kaolinite or gibbsite . This produces the distinctive tropical soil known as laterite . [115] The ultimate weathering product is bauxite , the principal ore of aluminium. [119] Chemical weathering also releases readily water-soluble cations such as calcium , sodium and magnesium , which give basaltic areas a strong buffer capacity against acidification . [120] Calcium released by basalts binds CO 2 from the atmosphere forming CaCO 3 acting thus as a CO 2 trap. [121]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Absolute_iron_accumulation_in_kaolinized_basalt._C_015.jpg/220px-Absolute_iron_accumulation_in_kaolinized_basalt._C_015.jpg",
+                "caption": "Kaolinized basalt near Hungen, Vogelsberg, Germany"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Metamorphism",
+        "text": "Intense heat or great pressure transforms basalt into its metamorphic rock equivalents. Depending on the temperature and pressure of metamorphism, these may include greenschist , amphibolite , or eclogite . Basalts are important rocks within metamorphic regions because they can provide vital information on the conditions of metamorphism that have affected the region. [122] Metamorphosed basalts are important hosts for a variety of hydrothermal ores , including deposits of gold, copper and volcanogenic massive sulfides . [123]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Archean_Greenstone_Pillow_Lava_in_Michigan_USA_3.jpg/220px-Archean_Greenstone_Pillow_Lava_in_Michigan_USA_3.jpg",
+                "caption": "Metamorphosed basalt from an Archean greenstone belt in Michigan, US. The minerals that gave the original basalt its black colour have been metamorphosed into green minerals."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Uses",
+        "text": "Basalt is used in construction (e.g. as building blocks or in the groundwork ), [127] making cobblestones (from columnar basalt) [128] and in making statues . [129] [130] Heating and extruding basalt yields stone wool , which has potential to be an excellent thermal insulator . [131] [132] [133] [134] Carbon sequestration in basalt has been studied as a means of removing carbon dioxide, produced by human industrialization, from the atmosphere. Underwater basalt deposits, scattered in seas around the globe, have the added benefit of the water serving as a barrier to the re-release of CO 2 into the atmosphere. [135] [136]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/P1050763_Louvre_code_Hammurabi_face_rwk.JPG/220px-P1050763_Louvre_code_Hammurabi_face_rwk.JPG",
+                "caption": "The Code of Hammurabi was engraved on a 2.25 m (7 ft 4 + 1 ⁄ 2 in) tall basalt stele in around 1750 BC."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Basalt",
+        "title": "Basalt",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    },
+    {
+        "section": "Vapor Bubbles",
+        "text": "The presence of a vapor bubble adds an additional component for analysis given that the vapor bubble could contain a significant proportion of the H 2 O and CO 2 originally in the melt sampled by the melt inclusion. [16] [30] If the vapor bubble is composed primarily of CO 2 , Raman spectroscopy can be used to determine the density of CO 2 present. [31] [11]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Vapor_Bubble_2.png/220px-Vapor_Bubble_2.png",
+                "caption": "Melt inclusion with accompanying vapor bubble from an olivine crystal.  Collected from ash related to the 1992 eruption of Cerro Negro Volcano, Nicaragua"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/MI_bubble.gif/220px-MI_bubble.gif",
+                "caption": "Animation of a melt inclusion viewed in transmitted light."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Melt_inclusion",
+        "title": "Melt inclusion",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Mass Spectrometry in Petrology"
+    }
+]

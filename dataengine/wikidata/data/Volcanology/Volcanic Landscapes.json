@@ -1,0 +1,442 @@
+[
+    {
+        "section": "Plate tectonics",
+        "text": "According to the theory of plate tectonics, Earth's lithosphere , its rigid outer shell, is broken into sixteen larger and several smaller plates. These are in slow motion, due to convection in the underlying ductile mantle , and most volcanic activity on Earth takes place along plate boundaries, where plates are converging (and lithosphere is being destroyed) or are diverging (and new lithosphere is being created). [6] During the development of geological theory, certain concepts that allowed the grouping of volcanoes in time, place, structure and composition have developed that ultimately have had to be explained in the theory of plate tectonics. For example, some volcanoes are polygenetic with more than one period of activity during their history; other volcanoes that become extinct after erupting exactly once are monogenetic (meaning \"one life\") and such volcanoes are often grouped together in a geographical region. [7]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Spreading_ridges_volcanoes_map-en.svg/400px-Spreading_ridges_volcanoes_map-en.svg.png",
+                "caption": "Map showing the divergent plate boundaries (oceanic spreading ridges) and recent sub-aerial volcanoes (mostly at convergent boundaries)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Fissure vents",
+        "text": "Volcanic fissure vents are flat, linear fractures through which lava emerges.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lakagigar_Iceland_2004-07-01.jpg/220px-Lakagigar_Iceland_2004-07-01.jpg",
+                "caption": "Lakagigar fissure vent in Iceland , the source of the major world climate alteration of 1783–84 , has a chain of volcanic cones along its length."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Shield volcanoes",
+        "text": "Shield volcanoes, so named for their broad, shield-like profiles, are formed by the eruption of low-viscosity lava that can flow a great distance from a vent. They generally do not explode catastrophically, but are characterized by relatively gentle effusive eruptions . Since low-viscosity magma is typically low in silica, shield volcanoes are more common in oceanic than continental settings. The Hawaiian volcanic chain is a series of shield cones, and they are common in Iceland , as well.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Skjaldbreidur_Herbst_2004.jpg/220px-Skjaldbreidur_Herbst_2004.jpg",
+                "caption": "Skjaldbreiður , a shield volcano whose name means \"broad shield\""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Cinder cones",
+        "text": "Cinder cones result from eruptions of mostly small pieces of scoria and pyroclastics (both resemble cinders, hence the name of this volcano type) that build up around the vent. These can be relatively short-lived eruptions that produce a cone-shaped hill perhaps 30 to 400 meters (100 to 1,300 ft) high. Most cinder cones erupt only once and some may be found in monogenetic volcanic fields that may include other features that form when magma comes into contact with water such as maar explosion craters and tuff rings . [16] Cinder cones may form as flank vents on larger volcanoes, or occur on their own. Parícutin in Mexico and Sunset Crater in Arizona are examples of cinder cones. In New Mexico , Caja del Rio is a volcanic field of over 60 cinder cones. Based on satellite images, it has been suggested that cinder cones might occur on other terrestrial bodies in the Solar system too; on the surface of Mars and the Moon. [17] [18] [19] [20]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Izalco_Volcano.jpg/220px-Izalco_Volcano.jpg",
+                "caption": "Izalco volcano , the youngest volcano in El Salvador. Izalco erupted almost continuously from 1770 (when it formed) to 1958, earning it the nickname of \"Lighthouse of the Pacific\"."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Stratovolcanoes (composite volcanoes)",
+        "text": "Stratovolcanoes (composite volcanoes) are tall conical mountains composed of lava flows and tephra in alternate layers, the strata that gives rise to the name. They are also known as composite volcanoes because they are created from multiple structures during different kinds of eruptions. Classic examples include Mount Fuji in Japan, Mayon Volcano in the Philippines, and Mount Vesuvius and Stromboli in Italy. Ash produced by the explosive eruption of stratovolcanoes has historically posed the greatest volcanic hazard to civilizations. The lavas of stratovolcanoes are higher in silica, and therefore much more viscous, than lavas from shield volcanoes. High-silica lavas also tend to contain more dissolved gas. The combination is deadly, promoting explosive eruptions that produce great quantities of ash, as well as pyroclastic surges like the one that destroyed the city of Saint-Pierre in Martinique in 1902. They are also steeper than shield volcanoes, with slopes of 30–35° compared to slopes of generally 5–10°, and their loose tephra are material for dangerous lahars . [21] Large pieces of tephra are called volcanic bombs . Big bombs can measure more than 4 feet (1.2 meters) across and weigh several tons. [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Volcano_scheme.svg/310px-Volcano_scheme.svg.png",
+                "caption": "Cross-section through a stratovolcano (vertical scale is exaggerated) : Large magma chamber Bedrock Conduit (pipe) Base Sill Dike Layers of ash emitted by the volcano Flank Layers of lava emitted by the volcano Throat Parasitic cone Lava flow Vent Crater Ash cloud"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Submarine volcanoes",
+        "text": "Submarine volcanoes are common features of the ocean floor. Volcanic activity during the Holocene Epoch has been documented at only 119 submarine volcanoes, but there may be more than one million geologically young submarine volcanoes on the ocean floor. [27] [28] In shallow water, active volcanoes disclose their presence by blasting steam and rocky debris high above the ocean's surface. In the deep ocean basins, the tremendous weight of the water prevents the explosive release of steam and gases; however, submarine eruptions can be detected by hydrophones and by the discoloration of water because of volcanic gases . Pillow lava is a common eruptive product of submarine volcanoes and is characterized by thick sequences of discontinuous pillow-shaped masses which form under water. Even large submarine eruptions may not disturb the ocean surface, due to the rapid cooling effect and increased buoyancy in water (as compared to air), which often causes volcanic vents to form steep pillars on the ocean floor. Hydrothermal vents are common near these volcanoes, and some support peculiar ecosystems based on chemotrophs feeding on dissolved minerals. Over time, the formations created by submarine volcanoes may become so large that they break the ocean surface as new islands or floating pumice rafts . In May and June 2018, a multitude of seismic signals were detected by earthquake monitoring agencies all over the world. They took the form of unusual humming sounds, and some of the signals detected in November of that year had a duration of up to 20 minutes. An oceanographic research campaign in May 2019 showed that the previously mysterious humming noises were caused by the formation of a submarine volcano off the coast of Mayotte . [29]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif/220px-Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif",
+                "caption": "Satellite images of the 15 January 2022 eruption of Hunga Tonga-Hunga Haʻapai"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Erupted material",
+        "text": "The material that is expelled in a volcanic eruption can be classified into three types:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lava_channel_overflow.JPG/220px-Lava_channel_overflow.JPG",
+                "caption": "Pāhoehoe lava flow on Hawaii . The picture shows overflows of a main lava channel ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Litli-Hr%C3%BAtur_eruption_2023.jpg/220px-Litli-Hr%C3%BAtur_eruption_2023.jpg",
+                "caption": "Litli-Hrútur ( Fagradalsfjall ) eruption 2023. View from an airplane"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg/220px-Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg",
+                "caption": "The Stromboli stratovolcano off the coast of Sicily has erupted continuously for thousands of years, giving rise to its nickname \"Lighthouse of the Mediterranean\"."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Lava flows",
+        "text": "The form and style of eruption of a volcano is largely determined by the composition of the lava it erupts. The viscosity (how fluid the lava is) and the amount of dissolved gas are the most important characteristics of magma, and both are largely determined by the amount of silica in the magma. Magma rich in silica is much more viscous than silica-poor magma, and silica-rich magma also tends to contain more dissolved gases. Lava can be broadly classified into four different compositions: [39] Mafic lava flows show two varieties of surface texture: ʻAʻa (pronounced [ˈʔaʔa] ) and pāhoehoe ( [paːˈho.eˈho.e] ), both Hawaiian words. ʻAʻa is characterized by a rough, clinkery surface and is the typical texture of cooler basalt lava flows. Pāhoehoe is characterized by its smooth and often ropey or wrinkly surface and is generally formed from more fluid lava flows. Pāhoehoe flows are sometimes observed to transition to ʻaʻa flows as they move away from the vent, but never the reverse. [53] More silicic lava flows take the form of block lava, where the flow is covered with angular, vesicle-poor blocks. Rhyolitic flows typically consist largely of obsidian . [54]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rinjani_1994_cropped.jpg/220px-Rinjani_1994_cropped.jpg",
+                "caption": "Mount Rinjani eruption in 1994, in Lombok , Indonesia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Tephra",
+        "text": "Tephra is made when magma inside the volcano is blown apart by the rapid expansion of hot volcanic gases. Magma commonly explodes as the gas dissolved in it comes out of solution as the pressure decreases when it flows to the surface . These violent explosions produce particles of material that can then fly from the volcano. Solid particles smaller than 2 mm in diameter ( sand-sized or smaller) are called volcanic ash. [36] [37] Tephra and other volcaniclastics (shattered volcanic material) make up more of the volume of many volcanoes than do lava flows. Volcaniclastics may have contributed as much as a third of all sedimentation in the geologic record. The production of large volumes of tephra is characteristic of explosive volcanism. [55]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tuff_shards.jpg/220px-Tuff_shards.jpg",
+                "caption": "Light-microscope image of tuff as seen in thin section (long dimension is several mm): the curved shapes of altered glass shards (ash fragments) are well preserved, although the glass is partly altered. The shapes were formed around bubbles of expanding, water-rich gas."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Types of volcanic eruptions",
+        "text": "Eruption styles are broadly divided into magmatic, phreatomagmatic, and phreatic eruptions. [56] The intensity of explosive volcanism is expressed using the Volcanic Explosivity Index (VEI), which ranges from 0 for Hawaiian-type eruptions to 8 for supervolcanic eruptions. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Volcanic_injection.svg/220px-Volcanic_injection.svg.png",
+                "caption": "Schematic of volcano injection of aerosols and gases"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Volcanic activity",
+        "text": "As of December 2022 [update] , the Smithsonian Institution 's Global Volcanism Program database of volcanic eruptions in the Holocene Epoch (the last 11,700 years) lists 9,901 confirmed eruptions from 859 volcanoes. The database also lists 1,113 uncertain eruptions and 168 discredited eruptions for the same time interval. [58] [59] Volcanoes vary greatly in their level of activity, with individual volcanic systems having an eruption recurrence ranging from several times a year to once in tens of thousands of years. [60] Volcanoes are informally described as erupting , active , dormant , or extinct , but the definitions of these terms are not entirely uniform amongst volcanologists. The level of activity of most volcanoes falls upon a graduated spectrum, with much overlap between categories, and does not always fit neatly into only one of these three separate categories. [61]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pompeii_-_Casa_del_Centenario_-_MAN.jpg/170px-Pompeii_-_Casa_del_Centenario_-_MAN.jpg",
+                "caption": "Fresco with Mount Vesuvius behind Bacchus and Agathodaemon , as seen in Pompeii 's House of the Centenary"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Dormant and reactivated",
+        "text": "The USGS defines a dormant volcano as any volcano that is not showing any signs of unrest such as earthquake swarms, ground swelling, or excessive noxious gas emissions, but which shows signs that it could yet become active again. [63] Many dormant volcanoes have not erupted for thousands of years, but have still shown signs that they may be likely to erupt again in the future. [64] [65] In an article justifying the re-classification of Alaska's Mount Edgecumbe volcano from \"dormant\" to \"active\", volcanologists at the Alaska Volcano Observatory pointed out that the term \"dormant\" in reference to volcanoes has been deprecated over the past few decades and that \"[t]he term \"dormant volcano\" is so little used and undefined in modern volcanology that the Encyclopedia of Volcanoes (2000) does not contain it in the glossaries or index\", [66] however the USGS still widely employs the term. Previously a volcano was often considered to be extinct if there were no written records of its activity. Such a generalisation is inconsistent with observation and deeper study, as has occurred recently with the unexpected eruption of the Chaitén volcano in 2008. [67] Modern volcanic activity monitoring techniques, and improvements in the modelling of the factors that produce eruptions, have helped the understanding of why volcanoes may remain dormant for a long period of time, and then become unexpectedly active again. The potential for eruptions, and their style, depend mainly upon the state of the magma storage system under the volcano, the eruption trigger mechanism and its timescale. [68] : 95 For example, the Yellowstone volcano has a repose/recharge period of around 700,000 years, and Toba of around 380,000 years. [69] Vesuvius was described by Roman writers as having been covered with gardens and vineyards before its unexpected eruption of 79 CE , which destroyed the towns of Herculaneum and Pompeii . Accordingly, it can sometimes be difficult to distinguish between an extinct volcano and a dormant (inactive) one. Long volcano dormancy is known to decrease awareness. [68] : 96 Pinatubo was an inconspicuous volcano, unknown to most people in the surrounding areas, and initially not seismically monitored before its unanticipated and catastrophic eruption of 1991. Two other examples of volcanoes which were once thought to be extinct, before springing back into eruptive activity were the long-dormant Soufrière Hills volcano on the island of Montserrat , thought to be extinct until activity resumed in 1995 (turning its capital Plymouth into a ghost town ) and Fourpeaked Mountain in Alaska, which, before its September 2006 eruption, had not erupted since before 8000 BCE.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Narcondam_island.jpg/220px-Narcondam_island.jpg",
+                "caption": "Narcondam Island , India, is classified as a dormant volcano by the Geological Survey of India ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Extinct",
+        "text": "Extinct volcanoes are those that scientists consider unlikely to erupt again because the volcano no longer has a magma supply. Examples of extinct volcanoes are many volcanoes on the Hawaiian–Emperor seamount chain in the Pacific Ocean (although some volcanoes at the eastern end of the chain are active), Hohentwiel in Germany , Shiprock in New Mexico , US , Capulin in New Mexico, US, Zuidwal volcano in the Netherlands , and many volcanoes in Italy such as Monte Vulture . Edinburgh Castle in Scotland is located atop an extinct volcano, which forms Castle Rock . Whether a volcano is truly extinct is often difficult to determine. Since \"supervolcano\" calderas can have eruptive lifespans sometimes measured in millions of years, a caldera that has not produced an eruption in tens of thousands of years may be considered dormant instead of extinct. An individual volcano in a monogenetic volcanic field can be extinct but that does not mean a completely new volcano might not erupt close by with little or no warning as its field may have an active magma supply.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Capulin_1980_tde00005.jpg/220px-Capulin_1980_tde00005.jpg",
+                "caption": "Capulin Volcano National Monument in New Mexico, US"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Decade volcanoes",
+        "text": "The Decade Volcanoes are 16 volcanoes identified by the International Association of Volcanology and Chemistry of the Earth's Interior (IAVCEI) as being worthy of particular study in light of their history of large, destructive eruptions and proximity to populated areas. They are named Decade Volcanoes because the project was initiated as part of the United Nations-sponsored International Decade for Natural Disaster Reduction (the 1990s). The 16 current Decade Volcanoes are: The Deep Earth Carbon Degassing Project , an initiative of the Deep Carbon Observatory , monitors nine volcanoes, two of which are Decade volcanoes. The focus of the Deep Earth Carbon Degassing Project is to use Multi-Component Gas Analyzer System instruments to measure CO 2 /SO 2 ratios in real-time and in high-resolution to allow detection of the pre-eruptive degassing of rising magmas, improving prediction of volcanic activity . [71]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg/220px-Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg",
+                "caption": "Koryaksky volcano towering over Petropavlovsk-Kamchatsky on Kamchatka Peninsula , Far Eastern Russia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Volcanoes and humans",
+        "text": "Volcanic eruptions pose a significant threat to human civilization. However, volcanic activity has also provided humans with important resources.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mauna_Loa_atmospheric_transmission.png/220px-Mauna_Loa_atmospheric_transmission.png",
+                "caption": "Solar radiation graph 1958–2008, showing how the radiation is reduced after major volcanic eruptions"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SO2_Galapagos_20051101.jpg/220px-SO2_Galapagos_20051101.jpg",
+                "caption": "Sulfur dioxide concentration over the Sierra Negra Volcano , Galapagos Islands , during an eruption in October 2005"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Hazards",
+        "text": "There are many different types of volcanic eruptions and associated activity: phreatic eruptions (steam-generated eruptions), explosive eruption of high- silica lava (e.g., rhyolite ), effusive eruption of low-silica lava (e.g., basalt ), sector collapses , pyroclastic flows , lahars (debris flow) and carbon dioxide emission . All of these activities can pose a hazard to humans. Earthquakes, hot springs , fumaroles , mud pots and geysers often accompany volcanic activity. Volcanic gases can reach the stratosphere, where they form sulfuric acid aerosols that can reflect solar radiation and lower surface temperatures significantly. [72] Sulfur dioxide from the eruption of Huaynaputina may have caused the Russian famine of 1601–1603 . [73] Chemical reactions of sulfate aerosols in the stratosphere can also damage the ozone layer , and acids such as hydrogen chloride (HCl) and hydrogen fluoride (HF) can fall to the ground as acid rain . Excessive fluoride salts from eruptions have poisoned livestock in Iceland on multiple occasions. [74] : 39–58 Explosive volcanic eruptions release the greenhouse gas carbon dioxide and thus provide a deep source of carbon for biogeochemical cycles . [75] Ash thrown into the air by eruptions can present a hazard to aircraft, especially jet aircraft where the particles can be melted by the high operating temperature; the melted particles then adhere to the turbine blades and alter their shape, disrupting the operation of the turbine. This can cause major disruptions to air travel. A volcanic winter is thought to have taken place around 70,000 years ago after the supereruption of Lake Toba on Sumatra island in Indonesia. [76] This may have created a population bottleneck that affected the genetic inheritance of all humans today. [77] Volcanic eruptions may have contributed to major extinction events, such as the End-Ordovician , Permian-Triassic , and Late Devonian mass extinctions . [78] The 1815 eruption of Mount Tambora created global climate anomalies that became known as the \" Year Without a Summer \" because of the effect on North American and European weather. [79] The freezing winter of 1740–41, which led to widespread famine in northern Europe, may also owe its origins to a volcanic eruption. [80]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Large_eruptions.jpg/290px-Large_eruptions.jpg",
+                "caption": "Comparison of major United States prehistoric eruptions ( VEI 7 and 8 ) with major historical volcanic eruptions in the 19th and 20th century (VEI 5, 6 and 7). From left to right: Yellowstone 2.1 Ma, Yellowstone 1.3 Ma, Long Valley 6.26 Ma, Yellowstone 0.64 Ma . 19th century eruptions: Tambora 1815, Krakatoa 1883. 20th century eruptions: Novarupta 1912, St. Helens 1980, Pinatubo 1991."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Volcanoes on other celestial bodies",
+        "text": "Earth's Moon has no large volcanoes and no current volcanic activity, although recent evidence suggests it may still possess a partially molten core. [91] However, the Moon does have many volcanic features such as maria [92] (the darker patches seen on the Moon), rilles [93] and domes . [94] The planet Venus has a surface that is 90% basalt , indicating that volcanism played a major role in shaping its surface. The planet may have had a major global resurfacing event about 500 million years ago, [95] from what scientists can tell from the density of impact craters on the surface. Lava flows are widespread and forms of volcanism not present on Earth occur as well. Changes in the planet's atmosphere and observations of lightning have been attributed to ongoing volcanic eruptions, although there is no confirmation of whether or not Venus is still volcanically active. However, radar sounding by the Magellan probe revealed evidence for comparatively recent volcanic activity at Venus's highest volcano Maat Mons , in the form of ash flows near the summit and on the northern flank. [96] However, the interpretation of the flows as ash flows has been questioned. [97] There are several extinct volcanoes on Mars , four of which are vast shield volcanoes far bigger than any on Earth. They include Arsia Mons , Ascraeus Mons , Hecates Tholus , Olympus Mons , and Pavonis Mons . These volcanoes have been extinct for many millions of years, [98] but the European Mars Express spacecraft has found evidence that volcanic activity may have occurred on Mars in the recent past as well. [98] Jupiter 's moon Io is the most volcanically active object in the Solar System because of tidal interaction with Jupiter. It is covered with volcanoes that erupt sulfur , sulfur dioxide and silicate rock, and as a result, Io is constantly being resurfaced. Its lavas are the hottest known anywhere in the Solar System, with temperatures exceeding 1,800 K (1,500 °C). In February 2001, the largest recorded volcanic eruptions in the Solar System occurred on Io. [99] Europa , the smallest of Jupiter's Galilean moons , also appears to have an active volcanic system, except that its volcanic activity is entirely in the form of water, which freezes into ice on the frigid surface. This process is known as cryovolcanism , and is apparently most common on the moons of the outer planets of the Solar System . [100] In 1989, the Voyager 2 spacecraft observed cryovolcanoes (ice volcanoes) on Triton , a moon of Neptune , and in 2005 the Cassini–Huygens probe photographed fountains of frozen particles erupting from Enceladus , a moon of Saturn . [101] [102] The ejecta may be composed of water, liquid nitrogen , ammonia , dust, or methane compounds. Cassini–Huygens also found evidence of a methane-spewing cryovolcano on the Saturnian moon Titan , which is believed to be a significant source of the methane found in its atmosphere. [103] It is theorized that cryovolcanism may also be present on the Kuiper Belt Object Quaoar . A 2010 study of the exoplanet COROT-7b , which was detected by transit in 2009, suggested that tidal heating from the host star very close to the planet and neighboring planets could generate intense volcanic activity similar to that found on Io. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tvashtarvideo.gif/220px-Tvashtarvideo.gif",
+                "caption": "The Tvashtar volcano erupts a plume 330 km (205 mi) above the surface of Jupiter 's moon Io ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Olympus_Mons.jpeg/170px-Olympus_Mons.jpeg",
+                "caption": "Olympus Mons ( Latin , \"Mount Olympus\"), located on the planet Mars , is the tallest known mountain in the Solar System ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Environment",
+        "text": "The park includes 323,431 acres (505.36 sq mi; 1,308.88 km 2 ) of land. [9] Around half of the park (130,790 acres (529 km 2 )) was designated the Hawaii Volcanoes Wilderness area in 1978, providing solitude for hiking and camping. [10] Wilderness designation covers the northwestern extension of the National Park, including Mokuaweoweo , the summit of the volcano Mauna Loa .  In the southwestern portion of the park, a large chunk of wilderness includes several miles of coastline and a small portion southeast of the visitors center. The park encompasses diverse environments from sea level to the summit of the Earth's most massive active volcano, Mauna Loa , at 13,679 feet (4,169 m). Climates range from lush tropical rain forests, to the arid and barren Kaʻū Desert . Recently eruptive sites include the main caldera of Kīlauea and a more active but remote vent called Puʻu ʻŌʻō . [11] The main entrance to the park is from the Hawaii Belt Road . The Chain of Craters Road leads to the coast, passing several craters from historic eruptions. The road had continued to another park entrance near the town of Kalapana , but that portion is covered by a lava flow, and is only available as an emergency evacuation route. The park's Kahuku District is accessible via Kahuku Road off Highway 11 near mile marker 70.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Puu_Oo_cropped.jpg/220px-Puu_Oo_cropped.jpg",
+                "caption": "Lava erupting from the Puʻu ʻŌʻō vent in June 1983"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hawai%CA%BBi_Volcanoes_National_Park",
+        "title": "Hawaiʻi Volcanoes National Park",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Historic places",
+        "text": "Several of the National Register of Historic Places listings on the island of Hawaii are located within the park:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wilkes_campsite.jpg/220px-Wilkes_campsite.jpg",
+                "caption": "Wilkes Campsite on Mauna Loa"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hawai%CA%BBi_Volcanoes_National_Park",
+        "title": "Hawaiʻi Volcanoes National Park",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Visitor center and museums",
+        "text": "The main visitor center, located just within the park entrance at 19°25′46″N 155°15′25.5″W ﻿ / ﻿ 19.42944°N 155.257083°W ﻿ / 19.42944; -155.257083 , includes displays and information about the features of the park. The nearby Volcano Art Center , located in the original 1877 Volcano House hotel, is listed on the National Register of Historic Places and houses historical displays and an art gallery. The Thomas A. Jaggar Museum, now closed due to damage from the 2018 eruptive events, is located a few miles west on Crater Rim Drive. The museum featured more exhibits and a close view of Kīlauea's active vent Halemaʻumaʻu . The museum is named after scientist Thomas Jaggar , the first director of the Hawaiian Volcano Observatory , which adjoins the museum. The observatory itself is operated by the U.S. Geological Survey and is not open to the public. The Kilauea Military Camp provides accommodations for U.S. military personnel. [32] Volunteer groups also sponsor events in the park. [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Halema%E2%80%98uma%E2%80%98u_2015-04-24_05-21.jpg/220px-Halema%E2%80%98uma%E2%80%98u_2015-04-24_05-21.jpg",
+                "caption": "Night view of Halemaʻumaʻu from Jaggar Museum in 2015"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hawai%CA%BBi_Volcanoes_National_Park",
+        "title": "Hawaiʻi Volcanoes National Park",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Communications technology",
+        "text": "In 1972, British Cable & Wireless began construction of a microwave relay station at the top of Mount Scenery. [12] [32] The purpose of the microwave relay was to link the islands of Antigua and Tortolla via Saba. [12] Though no longer in operation, the relay station and tower still sit at the top of Mount Scenery today. [13] JRCC Curaçao (the Dutch Caribbean Coast Guard Joint Rescue Coordination Center at Curaçao), [33] has one of its emergency monitoring stations located on Mount Scenery. [34] The station, \"DSC Station Mt. Scenery\", [34] is a Digital Selective Calling (DSC) station, meaning that it has \"equipment that allows mariners to instantly send or receive automatically formatted distress alerts to vessels and coast stations in the area.\" [35] DSC Station Mt. Scenery provides 24-hour monitoring with a range of 70 nautical miles (130 km; 81 mi). [34] [36] On the lower slopes of Mount Scenery in the village of St. Johns , the St. John's Lighthouse was constructed. The navigational aid is a 15 metres (49 ft) high tower mounted to a 1-story white concrete base. [37] Its light emits two white flashes every 10 seconds. [37]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mt._Scenery_from_Windwardside.JPG/220px-Mt._Scenery_from_Windwardside.JPG",
+                "caption": "Communications tower at the top of Mt. Scenery"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mount_Scenery",
+        "title": "Mount Scenery",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Cones",
+        "text": "Cinder cones are formed when magma is under great pressure. It is released in a fountain of lava, blown into the air from a central vent. The lava cools as it falls, forming cinders that pile up around the vent. When the pressure has been relieved, the rest of the lava flows from the base of the cone. Cinder cones are typically monogenetic . The cinder cones of Hippo Butte, Three Sisters, Juniper Butte, and Crescent Butte are all older than the Mammoth and Modoc Crater flows, more than 30,000–40,000 years old. Eagle Nest Butte and Bearpaw Butte are 114,000 years old. Schonchin Butte cinder cone and the andesitic flow from its base were formed around 62,000 years ago. The flow that formed Valentine Cave erupted 10,850 years ago. An eruption that formed The Castles is younger than the Mammoth Crater flows. Even younger were eruptions from Fleener Chimneys, such as the Devil's Homestead flow, 10,500 years ago, and Black Crater 3,025 years ago. About 1,110 years ago, plus or minus 60 years, the Callahan flow was produced by an eruption from Cinder Butte. Though Cinder Butte is just outside the boundary of the monument, the Callahan flow is in Lava Beds and is the youngest flow in the monument. Spatter cones are built out of thicker lava. The lava is thrown out of the vent and builds, layer by layer, a chimney surrounding the vent. Fleener Chimneys and Black Crater are examples of spatter cones.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/SchonchDawn-01.jpg/220px-SchonchDawn-01.jpg",
+                "caption": "Schonchin Butte cinder cone"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lava_Beds_National_Monument",
+        "title": "Lava Beds National Monument",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Lava flows",
+        "text": "Roughly ninety percent of the lava in the Lava Beds Monument is basaltic . There are primarily two kinds of basaltic lava flows: pahoehoe and ʻaʻā . Pahoehoe is smooth, often ropy and is the most common type of lava in Lava Beds. ʻAʻā is formed when pahoehoe cools and loses some of its gases . ʻAʻā is rough, sharp, and jagged; an excellent example is the Devil's Homestead lava flow, which originated at Fleener Chimneys. Most of the rest of the lava in the monument is andesitic . Pumice , a type of rhyolitic lava, also is found covering the monument; this rained down around 900 years ago during the eruption of Glass Mountain . The flows from Mammoth and Modoc Craters comprise about two-thirds of the lava in the monument. Over 30 separate lava flows located in the park range in age from 2,000,000 years BP to 1,110 years BP. Some of the major lava flows within Lava Beds National Monument include the Callahan Flow; Schonchin Flow; Mammoth Crater Flow; Modoc Crater Flow; and Devil's Homestead Flow.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Map_2_-_Mammoth_Crater_Flow_Map.jpg/220px-Map_2_-_Mammoth_Crater_Flow_Map.jpg",
+                "caption": "The majority of cave-forming basaltic lava flows in the monument originated at Mammoth Crater, covering roughly 60% of the surface of the park at present."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Medicine_Lake_Volcano_from_Captain_Jack%27s_Stronghold_in_Lava_Beds_NM-750px.JPG/260px-Medicine_Lake_Volcano_from_Captain_Jack%27s_Stronghold_in_Lava_Beds_NM-750px.JPG",
+                "caption": "Medicine Lake Volcano from Captain Jack's Stronghold"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lava_Beds_National_Monument",
+        "title": "Lava Beds National Monument",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Lava tubes",
+        "text": "Lava flows dated to about 30,000–40,000 years ago formed most of the lava tubes in the monument. As the hot basaltic lava flowed downhill, the top cooled and crusted over, insulating the rest of the lava and forming lava tubes . Lavacicles on the ceiling of a lava tube were produced as the level of lava in the tube retreated and the viscous lava on the ceiling dripped as it cooled. Dripstone was created when lava splashed on the inside walls of the tubes. The leaching of minerals from pumice gravel, soils , and overlying rock provides for deposition of secondary speleothems in lava tubes. Lava Beds National Monument has the largest concentration of lava tubes in North America. One has electrical lighting; the others are illuminated by ceiling collapse portals or require flashlights, available on loan. Notable examples in the park include Catacombs Cave , Merrill Cave , Mushpot Cave , and Valentine Cave . [6]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/IlluminatedLavaTubeAtLBNMi-C0070.JPG/200px-IlluminatedLavaTubeAtLBNMi-C0070.JPG",
+                "caption": "Illuminated lava tube , and lavacicles with a biofilm of golden hydrophobic bacteria on ceiling of Golden Dome Cave [5]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lava_Beds_National_Monument",
+        "title": "Lava Beds National Monument",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Flora",
+        "text": "The lava tube collapse systems and lava outcrops support a great diversity of plant life, from an impressive variety of lichens and mosses to plants such as desert sweet ( Chamaebatiaria millefolium ), the aromatic purple desert sage ( Salvia dorrii carnosa ) and yellow blazing star ( Mentzelia laevicaulis ).\nAn impressive variety of fern species are present in cave entrances including the spreading wood fern ( Dryopteris expansa ) and the western swordfern ( Polystichum munitum ). These species are well outside of their normal range, which is 90–125 mi (145–201 km) west on the northern California coastline.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Blooming_Yellow_Mentzelia_Laevicaulis.JPG/220px-Blooming_Yellow_Mentzelia_Laevicaulis.JPG",
+                "caption": "Yellow blazing star ( Mentzelia laevicaulis )"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lava_Beds_National_Monument",
+        "title": "Lava Beds National Monument",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Fauna",
+        "text": "Despite harsh, semi-arid conditions, native wildlife has adapted to the environmental constraints present in the region. There are no terrestrial water resources in Lava Beds National Monument. Some animals obtain water from caves , while others fly about twenty km (12 miles) north to Tule Lake . Federal and state animal species of special concern in the Monument include the Cooper's hawk ( Accipiter cooperii ), fringed myotis ( Myotis thysanodes ), long-eared myotis ( Myotis evotis ), long-legged myotis ( Myotis volans ), pallid bat ( Antrozous pallidus ), silver-haired bat ( Lasionycteris noctivigans ), Townsends big-eared bat ( Corynorhinus townsendii ), western small-footed myotis ( Myotis ciliolabrum ), and American badger ( Taxidea taxus ). Because of a lack of surface water, amphibian presence in the monument is limited. The most common species found in the monument is the Pacific tree frog ( Pseudacris regilla ). This species is also found in the biologically rich cave entrances in the monument. Reptile species found in the monument include the northern sagebrush lizard ( Sceloporus graciosus graciosus ), Great Basin fence lizard ( Sceloporus occidentalis biseriatus ), western skink ( Eumeces skiltonianus skiltonianus ), Rocky Mountain rubber boa ( Charina bottae utahensis ), gopher snake ( Pituophis melanoleucus ), desert night snake ( Hypsiglena torquata deserticola ), and western rattlesnake ( Crotalus viridis ). Key animal species by habitat :",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Mule_Deer_at_Lava_Beds_Monument_%285711529236%29.jpg/220px-Mule_Deer_at_Lava_Beds_Monument_%285711529236%29.jpg",
+                "caption": "Mule deer"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lava_Beds_National_Monument",
+        "title": "Lava Beds National Monument",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Lava Beds Wilderness",
+        "text": "The Lava Beds National Wilderness is a 28,460-acre (11,520 ha) wilderness area within the Lava Beds National Monument.  It was designated by the US Congress on October 13, 1972, with passage of Public Law 92-493. [13] The wilderness protects more than half of the national monument in two separate eastern and western units. The larger eastern unit contains the extensive Schonchin lava flow on the east side of the monument. The western unit covers the monument's area within the transition zone of the Cascade Range's montane southern end and the arid Modoc Plateau ecosystems. The different soil types creates plant community diversity in the wilderness area, providing various habitats for a wide range of wildlife. The numerous coyotes and foxes, as well as raptors , feed on rodents such as the jackrabbit and kangaroo rat . The kangaroo rat is especially adapted to waterless environments because it does not need to drink. [14] It obtains water as a byproduct of the oxidation of nutrients in the seeds it eats. [14] Many raptors are seen in the wilderness area, with 24 species of hawks identified. [15] The monument is located on the Pacific Flyway , and the bald eagle winters in the northern portion of the wilderness area. The National Park Service manages the Lava Beds wilderness area and has several restrictions in place. Camping is prohibited near cave entrances or trails. Open campfires may be prohibited during very hot and dry weather.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/LavaBedsNatlMnmt_L7_14jun01.jpg/170px-LavaBedsNatlMnmt_L7_14jun01.jpg",
+                "caption": "A false-color satellite image of the park and surrounding area (click image to enlarge)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lava_Beds_National_Monument",
+        "title": "Lava Beds National Monument",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    },
+    {
+        "section": "Physical properties",
+        "text": "Dallol lies in the evaporitic plain of the Danakil Depression at the Afar Triangle , in the prolongation of the Erta Ale basaltic volcanic range. [8] The intrusion of basaltic magma in the marine sedimentary sequence of Danakil resulted in the formation of a salt dome structure, where the hydrothermal system is hosted. [9] [10] The age of the hydrothermal system is unknown and the latest phreatic eruption that resulted in the formation of a 30 m (100 ft) diameter crater within the dome, took place in 1926. [11] The wider area of Dallol is known as one of the driest and hottest places on the planet. [12] It is also one of the lowest land points, lying 125 m (410 ft) below mean sea level. Other known hydrothermal features nearby Dallol are Gaet'Ale Pond [13] and Black Lakes. [1] The hydrothermal springs of Dallol discharge anoxic, hyper-acidic (pH < 0), hyper-saline (almost 10 times more saline than seawater), high temperature (hotter than 108 °C or 226 °F) brines that contain more than 26 g/L of iron . [1] The main gases emitted from the springs and fumaroles are carbon dioxide , hydrogen sulfide , nitrogen , sulfur dioxide ; and traces of hydrogen , argon , and oxygen . [14] Although several other hyper-acidic (pH < 2) volcanic systems exist, mainly found in crater lakes and hydrothermal sites, the pH values of Dallol decrease far below zero. [1] The coexistence of such extreme physicochemical characteristics (pH, salinity, high temperature, lack of oxygen, etc.) render Dallol one of the very few ‘poly-extreme’ sites on Earth. [1] This is why Dallol is a key system for astrobiological studies investigating the limits of life. [15] Parts of the region are nearly sterile, except for a diverse array of \"ultrasmall\" archaea . [16] Dallol is highly dynamic; active springs go inactive and new springs emerge in new places in the range of days, and this is also reflected in the colors of the site that change with time, from white to green, lime, yellow, gold, orange, red, purple and ochre. [17] In contrast to other hydrothermal systems known for their colorful pools (e.g. Grand Prismatic Spring ), where the colors are generated by biological activity, [18] the color palette of Dallol is produced by the inorganic oxidation of the abundant iron phases. [1] Another fascinating feature of Dallol is the wide array of unusual mineral patterns such as salt-pillars, miniature geysers, water-lilies, flower-like crystals, egg-shaped crusts, and pearl-like spheres. The main mineral phases encountered at Dallol are halite , jarosite , hematite , akaganeite and other Fe-oxyhydroxides, gypsum , anhydrite , sylvite and carnallite . [19]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/The_hydrothermal_system_of_Dallol%2C_Ethiopia.png/220px-The_hydrothermal_system_of_Dallol%2C_Ethiopia.png",
+                "caption": "Hydrothermal chimneys, salt pillars and terraces of Dallol, Ethiopia."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Dallol_(hydrothermal_system)",
+        "title": "Dallol (hydrothermal system)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcanic Landscapes"
+    }
+]

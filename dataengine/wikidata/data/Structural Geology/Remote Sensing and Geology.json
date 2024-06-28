@@ -1,0 +1,696 @@
+[
+    {
+        "section": "Overview",
+        "text": "Remote sensing can be divided into two types of methods: Passive remote sensing and Active remote sensing. Passive sensors gather radiation that is emitted or reflected by the object or surrounding areas. Reflected sunlight is the most common source of radiation measured by passive sensors. Examples of passive remote sensors include film photography , infrared , charge-coupled devices , and radiometers . Active collection, on the other hand, emits energy in order to scan objects and areas whereupon a sensor then detects and measures the radiation that is reflected or backscattered from the target. RADAR and LiDAR are examples of active remote sensing where the time delay between emission and return is measured, establishing the location, speed and direction of an object. Remote sensing makes it possible to collect data of dangerous or inaccessible areas. Remote sensing applications include monitoring deforestation in areas such as the Amazon Basin , glacial features in Arctic and Antarctic regions, and depth sounding of coastal and ocean depths. Military collection during the Cold War made use of stand-off collection of data about dangerous border areas. Remote sensing also replaces costly and slow data collection on the ground, ensuring in the process that areas or objects are not disturbed. Orbital platforms collect and transmit data from different parts of the electromagnetic spectrum , which in conjunction with larger scale aerial or ground-based sensing and analysis, provides researchers with enough information to monitor trends such as El Niño and other natural long and short term phenomena. Other uses include different areas of the earth sciences such as natural resource management , agricultural fields such as land usage and conservation, [5] [6] greenhouse gas monitoring , [7] oil spill detection and monitoring, [8] and national security and overhead, ground-based and stand-off collection on border areas. [9]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Remote_Sensing_Illustration.jpg/220px-Remote_Sensing_Illustration.jpg",
+                "caption": "Illustration of remote sensing"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Remote_sensing",
+        "title": "Remote sensing",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Background",
+        "text": "In remote sensing, the electromagnetic radiation acts as the information carrier, with a distance of tens to thousands of kilometers distance between the sensor and the target. [3] Proximal Sensing is a similar idea but often refer to laboratory and field measurements, instead of images showing a large spatial extent. [5] Geophysical methods , for instance Sonar and acoustic methods , shares similar properties with remote sensing but electromagnetic wave is not the sole medium. [6] Geotechnical instrumentations, for example piezometer , tiltmeter and Global Positioning System (GPS) , on the other hand, often refer to instruments installed to measure discrete point data, compared to imagery in remote sensing. [6] A suitable sensor sensitive to the particular wavelength region, according to the designated use, is selected and employed to collect the electromagnetic wave reflected or emitted from the target object. [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Planck_law_log_log_scale.png/326px-Planck_law_log_log_scale.png",
+                "caption": "Thermal emission according to Planck's Law . The Sun is approximately 6000K in surface temperature and the emission peaks at visible light. The Earth, approximated to 300K also emit non-visible radiation."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Remote_sensing_in_geology",
+        "title": "Remote sensing in geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Working principles",
+        "text": "In remote sensing, two main variables are measured in a typical remote sensing system: the radiance (or intensity) and time of arrival for active systems. [1] The radiance (i.e. returning signal intensity) versus wavelength is plotted to a spectral reflectance curve . [3] As a point to note, the data collected is a blend of both reflection of solar radiation and emission (according to Planck's law ) from the object for visible and near infrared (VNIR) region. [7] The thermal infrared (TIR) region measures mainly emission while microwave region record backscattering portion of reflection. [7] The radiance is determined by radiation-matter interactions, which is governed by the physio-chemical properties of the target object. [7] Prominent absorptions in specific wavelength shown on the spectral reflectance curve are the fingerprints for identification using spectroradiometry . [3] The two-way travel time of the radiation could infer the distance as the speed is approximately equal to the speed of light , roughly 3 x 10^8 m/s. This allows application in ranging in light detection and ranging (LiDAR) and Radio detection and ranging (Radar) etc. [1] Since the sensors are looking through the atmosphere to reach the target, there are atmospheric absorption. Three main atmospheric windows, which allow penetration of radiation, can be identified. [1] They are 0.4–3 micro-meters (Visible and Near-Infrared (VNIR)), 3–14 micro-meters (Thermal Infrared TIR) and few millimeters to meters (microwave). [7] Camera in everyday life is a passive imaging system in VNIR wavelength region. [1] A simple classification of prevailing remote sensing instruments in geology, modified from Rees (2013) in accordance with context of this page. [1] [7] Text in [ ] refers to the related instruments.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Schematic_Drawing_of_RS.png/480px-Schematic_Drawing_of_RS.png",
+                "caption": "Schematic drawing of Passive (left) and Active (right) remote sensing. The radiation-matter interaction in microscopic scale (absorption, transmission and reflection) is depicted in the left bottom corner speech box. The relative proportion is governed by physio-chemical properties of the material. Planar surface promotes specular reflection while rough surface gives a diffused reflection. The sensor detects (blue box) reflection of solar radiation from the target in passive remote sensing, while active remote sensing systems illuminate the target and detect the reflection. Both passive and active receive naturally emitted thermal radiation emitted according to Planck's Law. They are also subject to atmospheric disturbance. [4]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Atmosph%C3%A4rische_Absorption.png/312px-Atmosph%C3%A4rische_Absorption.png",
+                "caption": "Relative transmission of radiation with respect to wavelength. There are 3 atmospheric windows (VNIR, TIR and Microwave) allowing radiation to penetrate through the atmosphere without prominent absorption. Some corrections are still needed to remove the atmospheric attenuation."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Remote_sensing_in_geology",
+        "title": "Remote sensing in geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Advantages and limitations",
+        "text": "The main advantage of employing remote sensing to deal with geological problem is that it provides direct information on the surface cover using a synoptic coverage or sometimes stereoscopic view . [3] Hence the big picture of kinematics could be better appreciated. It also reduces the burden of field work required for the area through synoptic studies of the area of interest. [3] The spectral vision allows identification of rock attributes for surficial mapping. [3] The resolution however controls the accuracy. There is a trade-off between spatial resolution and spectral resolution. [7] Since the intensity of incident ray is fixed, for a higher spectral resolution, it is expected to have a lower spatial resolution (one pixel represent larger area) to maintain an up-to-standard signal-to-noise ratio for analysis. [7] Also, the data volume for transmission is limited due to signal engineering problem. [7] One can never obtain data with maximum resolutions in all spatial, spectral and radiometric resolutions due to these constraints. The temporal resolution could be understood as both the revisiting frequency and the deformation duration. [3] For instance an instantaneous landslide or sinkhole collapse could hardly be recorded without high speed camera, while relics could be imaged into time-series where the temporal change, for instance ice calving could be revealed. Another deficiency is the inconsistent data acquisition method, plus their interpretation schemes. [5] As a result, an ideal database is hardly feasible because of dynamic environmental conditions in different locality. [5] Instead, repeated reconnaissance is suggested for studying a specific area. [8] Field observation and reconnaissance remains irreplaceable and shall never be taken over completely by remote sensing because field data greatly support remote sensing data interpretation. [3] Remote sensing should better be considered to be complementary which aims to provide instantaneous views of different scale, perspective or spectral vision. [3] Subsurface mapping by Geophysical survey and simulation models still play an important role in the 3 dimensional characterization of soil underground. [5] A word of caution is that there is no such an ‘ideal’ sensor capable or optimized to study everything. [3] It is often up to scientist's preference and experience to pick which dataset and extract information. [3] For instance aerial photographs could be more sensible in cloud-free area, but otherwise radar may perform better for overcast weather.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Filchner.png/381px-Filchner.png",
+                "caption": "The break off of Filchner Ice Shelf, Antarctica. The near-infrared reflectance image distinguishes water from ice - Landsat"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Remote_sensing_in_geology",
+        "title": "Remote sensing in geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Geological mapping",
+        "text": "Remote sensing can aid surficial geological mapping and landform characterization.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Remote_Sensing_tackling_geological_problem.png/451px-Remote_Sensing_tackling_geological_problem.png",
+                "caption": "A typical workflow for tackling geological problem, starting from defining the problem down to data selection and interpretation, inspired by Gupta (1991)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Quartz_Reflectance.gif/438px-Quartz_Reflectance.gif",
+                "caption": "An example of a mineral quartz spectral reflectance curve"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Remote_sensing_in_geology",
+        "title": "Remote sensing in geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Mineral and rock",
+        "text": "In lithological composition studies , lab and field spectroradiometry of proximal and remote sensing can help. The spectral reflectance data from imaging spectrometry employing short wavelength, for example form Airborne visible/infrared imaging spectrometer (AVIRIS), [10] provide chemical properties of the target object. For instance, the iron content, which is indicative of the soil fertility and the age of sediment , could be approximated. [10] [5] For soil with high iron oxide, which is red in colour, should give higher reflectance in red wavelength portion and diminishes in blue and green . There may also be absorption at 850-900 nm. [10] The Redness Index and absorption area in 550 nm in spectral reflectance curve are examples to quantify iron content in soil. [11] To identify mineral, available spectral reflectance libraries, for instance the USGS Spectral Library , summarize diagnostic absorption bands for many materials not limited to rocks and minerals. This helps create a mineral map to identify the type of mineral sharing similar spectra, with minimal in situ field work. [3] The mineralogy is identified by matching collected sample with spectral libraries by statistical method, such as partial least squares regression . In addition to high signal-to-noise ratio (>40:1), a fine spatial resolution, which limits the number of elements inside one single pixel, also promotes decision accuracy. [5] There are also digital subpixel spectral unmixing tools available. The USGS Tetracorder which applies multiple algorithms to one spectral data with respect to the spectral library is sensitive and give promising results. [12] The different approaches are summarized and classified in literature but unfortunately there is no universal recipe for mineral identification. For rocks, be they igneous , sedimentary or metamorphic , most of their diagnostic spectral characteristics of mineralogy are present in longer wavelength (SWIR and TIR), which is for example present in the ASTER mission. [10] This is due to the sensitivity of vibrational bands of longer wavelength. As opposed to the automatic statistical interpretation mentioned above for minerals, it is more advisable to adopt visual interpretation for identification of rock because the surficial alteration of rock may exhibit very different spectral responses. [3] Several indices are proposed for rock type identification, such as Quartz Index, Carbonate Index and Mafic Index, where Di is the data of the i-th band in ASTER. [13] [14] [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MultispectralComparedToHyperspectral.jpg/237px-MultispectralComparedToHyperspectral.jpg",
+                "caption": "Hyperspectral imaging gives high spectral resolution, but as a trade-off the spatial and radiometric resolutions are lower"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Remote_sensing_in_geology",
+        "title": "Remote sensing in geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Soil salinity",
+        "text": "Soil salinity is the result of insufficient rainwater precipitation which leads to accumulation of soluble salt in soil horizon. The spectral proximal sensing in VNIR is sensitive to absorption of water in hydrated evaporate minerals , most prominently at 505 nm, 920 nm, 1415 nm and 2205 nm. [10] [3] [5] For even more saline soil, 680, 1180 nm and 1780 nm would also give lower reflectance (higher absorption) and higher reflectance at 2200 nm possibly due to the loss of crystallinity in clay minerals. [10] [5] The spectral curve also shows a decreasing overall slope from 800 nm to 1300 nm for higher salinity. [5] The overall reflectance curve in all wavelength increases with higher salt concentration, while the compositions of salt would show some variations in absorption bands. [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Remote_Sensing_%28Geology%29_Working_Flowchart.png/445px-Remote_Sensing_%28Geology%29_Working_Flowchart.png",
+                "caption": "The surface manifestations of the geological kinematics provide clues for photo interpretation, inspired by Gupta (1991)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Remote_sensing_in_geology",
+        "title": "Remote sensing in geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Geomorphology",
+        "text": "3-dimensional geomorphological features arising from regional tectonics and formation mechanisms could also be understood from a perspective of small scale images showing a large area acquired in elevation. The topography of an area is often characterized by volcanic activity or orogenesis . These mountain building processes are determined by the stress-strain relation in accordance with rock types. [3] They behave as elastic/ plastic/ fracturing deformations, in response to different kinetics. Remote sensing techniques provide evidence such as observed lineament, global scale mountain distribution, seismicity and volcanic activities to support crustal scale tectonics and geodynamics studies. [9] Additional spectral information also helps. For example, the grain size differentiates snow and ice. [7] Aside from a planar geological map with cross-sections, sometimes 3-dimensional view from stereo-photos or representation in Digital Elevation Model (DEM) could aid the visualization. [3] In theory, LiDAR gives the best resolution up to cm grade while radar gives 10m grade because of its high sensitivity to small scale roughness. [5] Oblique images could greatly enhance the third-dimension, but users should bear in mind the shadowing and distortions. [4]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Huang_He_Delta%2C_China%2C_landuse_1979_to_2010.png/377px-Huang_He_Delta%2C_China%2C_landuse_1979_to_2010.png",
+                "caption": "The deltaic landform at the mouth of HuangHe, China – Landsat"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Remote_sensing_in_geology",
+        "title": "Remote sensing in geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Geologic hazards",
+        "text": "Geological hazards cause casualties and serious damage to properties. While it is almost impossible to prevent naturally occurring disasters, their impact could be reduced and minimized with proper prior risk assessment and planning. [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/U.S._Seismic_Hazard_Maps.gif/353px-U.S._Seismic_Hazard_Maps.gif",
+                "caption": "U.S. Seismic Hazard Maps 2014"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Remote_sensing_in_geology",
+        "title": "Remote sensing in geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Tsunami",
+        "text": "Mangrove offers protection against tsunami and storms from sweeping away inland areas because the mangrove fringes were damaged and took all the energy. [29] Remote sensing of mangrove and vegetation as a natural barrier to manage risks therefore becomes a hot topic. The recent advancement and development is highly anticipated in the near future, especially as hyperspectral imaging system and very high resolution (up to sub meter grade) satellite images prevails. [30] New classification schemes distinguishing species from composition could be developed for environmental studies. [30] Estimation leaf area , canopy height, biomass and productivity could also be improved with the emergence of existing and forthcoming sensors and algorithms. [30] Tsunami-induced inundation leads to change in coastal area, which could be quantified by remote sensing. [4] [31] Split-based approach to divide large images into subimages for further analysis by redefining change detection threshold have reduced computation time and have shown to be consistent with manual mapping of affected areas. [31]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/InSAR_Volcano.jpg/451px-InSAR_Volcano.jpg",
+                "caption": "An interferogram showing ground movement in the Three Sisters Wilderness, where eruption occurred 1500 years ago. Each colour contour represents an equal amount of uplift, which is possibly caused by magma accumulation at about 7 km depth. The uplift is about 130mm with lateral extent of 20 km. The white thumbtacks are GPS stations. ENVISAT/ Wicks, C.W. et al., 2002, USGS"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Remote_sensing_in_geology",
+        "title": "Remote sensing in geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Volcanism",
+        "text": "The dynamic magma underneath plates we are living on induces volcanic activity on Earth's surface. [3] To advance the understanding in volcanological science and active volcano monitoring, the main data streams aided by remote sensing include surface deformation and thermal measurement plus the gas flux and composition. [32] Seismicity is considered geophysical method on the other hand. The data could be collected throughout the eruption cycle, from unrest, to eruption then relaxation. [32] For example, the Ultraviolet (UV) and VNIR region is sensitive to sulfur dioxide , one of the volcanic gases. BrO (formed from the bromine explosion within plumes) [33] and CO 2 are also possible candidates for volcanic monitoring these days. [32] The thermal disturbance, for instance through temperature change in crater lakes and injection of hot gas into the atmosphere, could be detected using TIR sensors to automate volcano thermal alerts. [32] The uplift and subsidence of ground could be quantified remotely by InSAR technique. [32] The surficial manifestation of volcanism tends to favor simple geometries while complexities are introduced by subsurface interactions. [32] While remote sensing is able to collect data of ground, 3-D modeling using finite element analysis added with geophysical subsurface survey is highly encouraged. [32]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chilean_Volcanic_Eruption_Nighttime_View.jpg/220px-Chilean_Volcanic_Eruption_Nighttime_View.jpg",
+                "caption": "An ASTER night time thermal infrared image capturing 2015 eruption of Calbuco Volcano in Chile. Hot eruptive material at the summit appears in white (hot), with a purple plume streaming to the right, indicating that it is ash-laden."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Remote_sensing_in_geology",
+        "title": "Remote sensing in geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Mineral and petroleum exploration",
+        "text": "The occurrence of nature reserves that are exploitable is in close association with the surrounding geology. Feasible resources explorations should be backed up by accurate geological models to locate prospect ore and petroleum deposits from a preliminary regional overview. [3] Remote sensing can provide scalable investigation as the exploration program progress at a reasonable expenditure. One example is to monitor the surface deformation in a mine using InSAR time series. [6] Another example is using short wavelength region in VNIR  to estimate the petroleum reservoir because VNIR can provide both accurate distance measurement by lidar and spectral data from spectral scanning. [41] One point to bear in mind is the inherit limitation, that remote sensing is for surface detection while natural resources are concentrated in depth, therefore its use is somewhat limited. Nonetheless, there are some proxies providing valuable inputs, including the following examples [3] A new method is proposed in respect to the above rock alteration means, in light of the deficiencies in low reflectance due to vegetation cover and the ambiguity of some minerals, for instance kaolinite which may or may not be resultant altered mineral. The overall spectral shape from hyperspectral imaging is considered first, followed by absorption bands, in their algorithm. Correlation coefficients for each pixel is then calculated by comparison between the remote sensing data and ground field data. The decision would be assigned to each pixel by the most susceptible dominant object, but not by setting up threshold. [42]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Escondida_Mine%2C_Chile%2C_Landsat_1989%2C_2013.png/400px-Escondida_Mine%2C_Chile%2C_Landsat_1989%2C_2013.png",
+                "caption": "The expansion of tailing impoundment to save water and minimize environmental impact in Escondida Mine, Chile, world's largest source of copper - Landsat"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Remote_sensing_in_geology",
+        "title": "Remote sensing in geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Vegetation",
+        "text": "The surficial vegetation studies are mainly accomplished by multispectral or hyperspectral image analysis, mainly because of the lower penetration depth and higher resolutions of VNIR wavelength region. [30] There are a multitude of sensors, image processing and classification algorithms and result evaluation schemes from ancillary data available in vegetation analysis. [30] As an example, rangeland characterization with regard to biomass quantity and quality could be inferred from hyperspectral data. [44] [30] The detection of photosynthetic active (standing live) versus non-photosynthetic active (standing dead) and their ratio in the area of interest supports the quantification of biomass . The quality of forage presented in Carbon : Nitrogen ratio could be estimated through hyperspectral data manipulation with greater than 80% accuracy. ]From a geological perspective, some superficial cover may obscure the area of interest in an image. With vegetation, the time-series of Normalized difference Vegetation Index (NDVI) which characterizes crop growth could derive soil patterns. [5] The biogeographical gradient incorporating environmental parameters, such as floristic conditions, precipitation and temperature also provide clues to soil cover. [5] Spectral unmixing technique assuming that the total reflectance of a pixel is a linear mix of component reflectance delineates objects contributing the resultant signal received in the sensor. [5] Some other parameters and soil proxies such as non-photosynthetic vegetation cover, lichens, Plant Functional Types and Ellenberg indicator values are possible for soil characterization. [5]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Vegetation_transformation_in_Santa_Cruz%2C_Bolivia.png/385px-Vegetation_transformation_in_Santa_Cruz%2C_Bolivia.png",
+                "caption": "The vegetation have changed from dense forest to rectangular soybean cultivation land in Santa Cruz, Bolivia - Landsat"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Remote_sensing_in_geology",
+        "title": "Remote sensing in geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Planetary observation",
+        "text": "Aside from the Earth, remote sensing has made planetary exploration possible without sending an astronaut into space. For most planetary explorations, due to the thick atmosphere , radar is a suitable instrumentation to investigate planetary surface. Radar can penetrate the atmosphere and detect the surface roughness. Also, topographic maps could be derived from radar altimetry and InSAR methods, for instance in the mapping of Venus . As an example of planetary applications using remote sensing could be illustrated by the volcanism observation on Io , which features the highest number of active volcanoes per square kilometer in the Solar System . While the importance of Io Volcanology is well documented as textbooks, [45] new observations point out that the temporal evolution of spectral ratio between 2:5 micrometer thermal emissions (thermal signature) could infer eruption modes, from lava fountain down to silicic lava flows. [46] Recent suggestion have been made to improve the spatial resolution to locate more accurately the heat source vent, so as to elucidate the unsolved puzzle of the volcanology, which is strongly related to the tidal heating caused by the orbital eccentricity of Jupiter . Modeling has shown that a suitable distance between the surveyed ground and the sensor has to be maintained to ensure a meaningful pixel size to resolve the Io surface. Remote sensing by satellite also reduces jittering as the sensor is held stable in space and gives accurate data in the absence of atmosphere for terrestrial observations, notwithstanding the strong radiation zone in Jupiter which dramatically limits sensor lifetime. [47] All these promotes future instrumentation and orbit design.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tvashtar_volcano_on_Io_from_New_Horizons.jpg/220px-Tvashtar_volcano_on_Io_from_New_Horizons.jpg",
+                "caption": "Volcanism on Io to lose heat imaged by LORRI camera of the New Horizons probe"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Remote_sensing_in_geology",
+        "title": "Remote sensing in geology",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Data acquisition",
+        "text": "GIS data acquisition includes several methods for gathering spatial data into a GIS database, which can be grouped into three categories: primary data capture , the direct measurement phenomena in the field (e.g., remote sensing , the global positioning system ); secondary data capture , the extraction of information from existing sources that are not in a GIS form, such as paper maps, through digitization ; and data transfer , the copying of existing GIS data from external sources such as government agencies and private companies. All of these methods can consume significant time, finances, and other resources. [20] : 173",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Field-Map_birdie.jpg/220px-Field-Map_birdie.jpg",
+                "caption": "Example of hardware for mapping ( GPS and laser rangefinder ) and data collection ( rugged computer ). The current trend for geographical information system (GIS) is that accurate mapping and data analysis are completed while in the field. Depicted hardware ( field-map technology) is used mainly for forest inventories , monitoring and mapping."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geographic_information_system",
+        "title": "Geographic information system",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Terrain analysis",
+        "text": "Many geographic tasks involve the terrain , the shape of the surface of the earth, such as hydrology , earthworks , and biogeography . Thus, terrain data is often a core dataset in a GIS, usually in the form of a raster Digital elevation model (DEM) or a Triangulated irregular network (TIN). A variety of tools are available in most GIS software for analyzing terrain, often by creating derivative datasets that represent a specific aspect of the surface. Some of the most common include: Most of these are generated using algorithms that are discrete simplifications of vector calculus . Slope, aspect, and surface curvature in terrain analysis are all derived from neighborhood operations using elevation values of a cell's adjacent neighbours. [39] Each of these is strongly affected by the level of detail in the terrain data, such as the resolution of a DEM, which should be chosen carefully. [40]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dem.jpg/300px-Dem.jpg",
+                "caption": "Hillshade model derived from a digital elevation model of the Valestra area in the northern Apennines (Italy)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geographic_information_system",
+        "title": "Geographic information system",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Cartographic modeling",
+        "text": "Dana Tomlin coined the term \"cartographic modeling\" in his PhD dissertation (1983); he later used it in the title of his book, Geographic Information Systems and Cartographic Modeling (1990). [42] Cartographic modeling refers to a process where several thematic layers of the same area are produced, processed, and analyzed. Tomlin used raster layers, but the overlay method (see below) can be used more generally. Operations on map layers can be combined into algorithms, and eventually into simulation or optimization models.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gislayers.jpg/300px-Gislayers.jpg",
+                "caption": "An example of use of layers in a GIS application. In this example, the forest-cover layer (light green) forms the bottom layer, with the topographic layer (contour lines) over it. Next up is a standing water layer (pond, lake) and then a flowing water layer (stream, river), followed by the boundary layer and finally the road layer on top. The order is very important in order to properly display the final result. Note that the ponds are layered under the streams, so that a stream line can be seen overlying one of the ponds."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geographic_information_system",
+        "title": "Geographic information system",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Terrain depiction",
+        "text": "Traditional maps are abstractions of the real world, a sampling of important elements portrayed on a sheet of paper with symbols to represent physical objects. People who use maps must interpret these symbols. Topographic maps show the shape of land surface with contour lines or with shaded relief . Today, graphic display techniques such as shading based on altitude in a GIS can make relationships among map elements visible, heightening one's ability to extract and analyze information. For example, two types of data were combined in a GIS to produce a perspective view of a portion of San Mateo County , California . A GIS was used to register and combine the two images to render the three-dimensional perspective view looking down the San Andreas Fault , using the Thematic Mapper image pixels, but shaded using the elevation of the landforms . The GIS display depends on the viewing point of the observer and time of day of the display, to properly render the shadows created by the sun's rays at that latitude, longitude, and time of day.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Swisstopo_Eiger_-_Grindelwald.jpg/300px-Swisstopo_Eiger_-_Grindelwald.jpg",
+                "caption": "A traditional topographic map rendered in 3D"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geographic_information_system",
+        "title": "Geographic information system",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Importance of measuring geological structures by LiDAR",
+        "text": "Geological structures are responsible for providing distinct physical properties to rock masses. Discontinuous properties and plate tectonic forces may alter rock masses and their geometries. These structures contain joints , fractures , bedding planes , shear zones , mechanical breaks, or any other features ranging from microscopic (<1 cm, foliation development by metamorphism [5] ) to macroscopic scale (>100m, mid-oceanic ridges ). [6] Geological structures are typically elongated, their orientations are often described as \"strike\". If a rock body is extensively tilted, taking its slope resistivity into account, it may have a high potential to cause rockfalls. [7] The use of LiDAR in the structural analysis allows measuring landform features from a single outcrop scale to a terrestrial scale. Some geological structures measurement and their importance are listed below:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dip.svg/343px-Dip.svg.png",
+                "caption": "Strike and dip on a plane. 1) Strike, 2) Dip direction, 3) Apparent dip, 4) Dip angle.  The dip and dip directions of a plane can be plotted onto a stereonet by using visualisation of the lines and plane method."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geological_structure_measurement_by_LiDAR",
+        "title": "Geological structure measurement by LiDAR",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "LiDAR technology",
+        "text": "LiDAR (Light Detection and Ranging) is a rapid surveying process that emits and receives laser pluses to acquire 3-D information. [3] By illuminating lights with different wavelengths to the object of interest, LiDAR can be used to create precise topographic maps, with applications in: geology, geomorphology, surveying and other applications. [3] Topographic maps are possible because of the Inertial Measuring Unit and Global Positioning System . [3] Furthermore, it is a technology that can carry out studies on a steep slope and rock-cliffs . [4] Accurately measured data is necessary for the LiDAR data to be geo-referenced such as locating the data in a local or global coordinates system.  Therefore, the produced LiDAR can be overlaid onto the aerial photographs collected previously to observe the topography changes over time. [18]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/LIDAR-scanned-SICK-LMS-animation.gif/220px-LIDAR-scanned-SICK-LMS-animation.gif",
+                "caption": "A gif is showing the principle of LiDAR scanning. The light pulses are emitted and received from a receptor, it records the distance, light intensity and geo-information of the object of interest."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geological_structure_measurement_by_LiDAR",
+        "title": "Geological structure measurement by LiDAR",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Principle of Digital Terrain Model",
+        "text": "The DTMs are classified by the basic geometric units, such as triangles, squares. 3 major mathematic functions are used, as listed below : Moreover, triangle-based and grid-based are the most used.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/DTM_DSM.svg/398px-DTM_DSM.svg.png",
+                "caption": "The digital terrain model only extracts the bare ground surface, while the digital surface model may include buildings, roads or vegetations. For evaluating the dip and dip directions of rock planes, digital terrain models should be used."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geological_structure_measurement_by_LiDAR",
+        "title": "Geological structure measurement by LiDAR",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Triangular-based",
+        "text": "A triangular-based function can form a more tilted or irregular digital surface model.  This approach is treated as the primary way to construct a complex DTM.  Triangles have great flexibility, any polygons (e.g. a square, rectangle) can be decomposed into other smaller triangles. [21] A linked triangular network can incorporate break lines for plane fitting, it facilitates the formation of a curved facet/surface. [36] The minimum requirement for forming a triangle requires 3 data points, where the nearest 3 points are grouped to form a triangle by Delaunay triangulation without overlapping. [37] As the data points are unevenly distributed, the triangular-based method effectively constructs DTM because this method can create surface variations.  Even some data points of the point cloud are removed or added, a local triangle can be reformed without complete DTM reconstruction. [37] A few parameters control the surface formation process: 1) Density of Mesh 2) Maximum angle of neighbouring triangles 3) Minimum Patch size",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Delaunay_triangulation.png/220px-Delaunay_triangulation.png",
+                "caption": "A 3-D model generated by Delaunay triangulation , a 3-D surface is generated by connecting the nearest points to form triangular planes."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geological_structure_measurement_by_LiDAR",
+        "title": "Geological structure measurement by LiDAR",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Data processing and classification (Airborne LiDAR scanning only)",
+        "text": "Data classification and noise cleaning are the processes of obtaining a non-biased slope surface. When ALS collects the with multiple returns, this principle can classify the objects into different categories.  Classification algorithms can be performed by TerraScan & TerraModel, computer software for classifying point cloud data automatically developed by TerraSolid. [38] However, some manual adjustments and validations are needed to ensure the data points are classified correctly. Algorithms can identify pre-dominate landform features, these algorithms assume the surfaces with significant variations are non-ground features. [30] For creating a surface model of rock slope, only classified ground data is needed. The classifications of the ground and non-ground surfaces are in the following categories:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Line_of_sight_TLS1.png/435px-Line_of_sight_TLS1.png",
+                "caption": "Line of sight problem of Terrestrial Laser Scanning method. When the object of interest is out of the data collectable region, it creates the data void with no geospatial record. It is commonly seen when a tree another outcrop blocks the object of interest. Putting more TLS sensor is a solution to this."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geological_structure_measurement_by_LiDAR",
+        "title": "Geological structure measurement by LiDAR",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Analysis of spectral features",
+        "text": "Reflectance appears as individual absorption bands spanning the electromagnetic spectra , which vary with mineralogy and chemical compositions . [5] [11] Reflectance spectra obtained directly from the spectroradiometers without data processing are known as raw reflectance spectra. Although some prominent patterns of absorption may be identified, they are prone to influence from the overall spectra trends , and features like amplitudes and magnitudes could mislead the interpretations under such circumstances. [12] In order to facilitate data analysis, the raw reflectance spectra are commonly normalized to provide better visualization and quantification of trends and patterns of spectral parameters. This is commonly done by statistical techniques including detrending and continuum removal . [12] [13] [14] 1. Detrending: Removing the trend components present in the raw reflectance spectra to produce detrended spectra (usually flattened) revealing the true shapes, patterns, and distributions of absorption features. [5] 2. Continuum removal ( Convex hull transformation): Removing overall shape, level changes, and slopes induced by other materials in the raw reflectance spectra (indicated as continuum lines) to produce continuum -removed spectra which allows effective comparison of the individual absorption features under a common baseline. [13] [14] From the normalized spectra, spectral features can be accurately identified, analyzed, and compared to that among different materials. Spectrograms can also be generated using the normalized spectra to further enhance visualization. [6] The features can be characterized using geometrical parameters describing the shapes and appearance of a particular reflectance spectrum: [5] [14] The investigation of spectral features is often followed by building spectral indices to characterize specific minerals , i.e., parameterizing. The indices are based on the unique spectral properties exhibited by the materials, such as the positions and depths of absorption bands . [5] [16] A similar example of such indices is the Normalized difference vegetation index (NDVI). [7]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Continuum_removed_spectra_2.png/610px-Continuum_removed_spectra_2.png",
+                "caption": "A comparison of a reflectance spectra for a given material before and after the continuum removal process, modified from Tan et al., 2021. [13] The overall shape, level changes, and slopes are eliminated in the continuum removed spectrum with reference to the continuum lines, which further enhances the clarity of individual absorption features in the reflectance spectrum."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Geometrical_parameters_2.png/859px-Geometrical_parameters_2.png",
+                "caption": "An illustration of geometrical parameters in the visible-near Infrared (VNIR) reflectance spectrum of montmorillonite, a clay mineral . Modified from Clark et al., 2007. [15] The analysis of absorption features in a reflectance spectrum typically looks into the position (P) , depth (D) , and width (W) of absorption bands across a certain wavelength interval. The full width at half maximum (F) and asymmetry (AS) of shape with respect to the absorption bands are also commonly evaluated. Together, these elements combine to build spectral indices in order to characterize and parameterize specific minerals ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Spectroradiometry_for_Earth_and_planetary_remote_sensing",
+        "title": "Spectroradiometry for Earth and planetary remote sensing",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Geomorphology and surface mapping",
+        "text": "Geomorphology is the study of geological processes occurring at the surface of Earth that subsequently shape different kinds of landforms . [8] Surface mapping is a common approach to understand these processes and their effects, which can be done by using spectroradiometry. [21] Chemical weathering is one of the dominant processes controlling the morphology of Earth's surface, which produces iron oxides as coatings on particle surfaces, as well as clay minerals that evolve from hydrothermal alteration and decomposition of feldspars in surface soils and granitic rock bodies. [17] [20] These minerals are sensitive to spectral parameters like brightness and reflectance , and they exhibit distinctive absorption features on reflectance spectra, which facilitates easy diagnosis and determination of weathering states. [8] [19] [23] (1) Clay minerals ( Phyllosilicates ) [16] [17] [18] The genesis of clay minerals occurs in a progressive sequence, starting with illite and chlorite , then vermiculite , smectite , and finally forming kaolinite . Kaolinite , being the ultimate product of clay minerals , represents the most advanced stage of weathering . (2) Iron oxides [5] [12] Based on the above, three groups of distinctive spectral parameters are distinguished which can serve as the indicators of weathering states. [5] The first group of parameters deals with the absorption features at 500, 700, and 920 nm due to ferric iron components. The peaks positioned at 920 nm (P 920 ), and the ratio between absorption depths near 500 and 700 nm (D 700 /D 500 ) are inversely proportional to the concentration of hematite , thus smaller values will mean higher degree of weathering . [5] [12] The second group of parameters is related to hydroxyl group (-OH) and water (H 2 O). Stronger absorption absorption features near 1400 nm (AS 1400 ), and larger ratio between absorptions near 2200 and 1900 nm (D 2200 /D 1900 ), reflect higher molecular water contents, hence more alteration and weathering . [18] [19] The third group of parameters concerns the effects of absorption contributed by Al-OH bonds in clay minerals including illite and kaolinite , which is situated near 2200 nm. [16] These absorption bands become more asymmetric (AS 2200 > 1, showing leftward asymmetry) with increasing kaolinite contents as a result of transformation from illite, implying greater extents of mineral alteration , degree of hydrolysis , and silicate decomposition , which serves as signals that indicate more advanced weathering stages. [14] [17] Determining the above spectral parameters will enable the quantification of weathering rates, thus providing implications to paleoclimatic conditions. [5] The application of spectroradiometry in geomorphological studies brings opportunities into rapid mapping of weathered outcrops and the study of weathering kinetics and paleoclimate particularly in remote and inaccessible regions. [20] [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Clay_minerals_2.png/531px-Clay_minerals_2.png",
+                "caption": "The reflectance spectra of common clay minerals ( phyllosilicates ) in the visible and near infrared (VNIR) region, modified from Clark et al., 2007. [15] The values of reflectance as shown in the figure were offset to allow for clear comparison of spectral features among the minerals. Diagnostic absorption peaks exhibited by different clay minerals are observed along 1400, 1900, 2200, and 2300 nm, which can be used to distinguish from one another."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ferric_oxides_2.png/531px-Ferric_oxides_2.png",
+                "caption": "The reflectance spectra of common iron oxides in the visible and near infrared (VNIR) region, modified from Clark et al., 2007. [15] The values of reflectance as shown in the figure were offset to facilitate comparison of spectral features among the two minerals. Diagnostic absorption peaks exhibited by hematite and goethite are observed along 500, 700, and 920 nm, which can be used to distinguish from one another."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Spectroradiometry_for_Earth_and_planetary_remote_sensing",
+        "title": "Spectroradiometry for Earth and planetary remote sensing",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Geochronology",
+        "text": "Geochronology is the study of age and timing of geological events that have occurred throughout Earth's history . Many different geochronological methods have been developed, using various Earth materials and geological processes as proxies. Among these methods, spectroradiometry has recently emerged as a valuable tool in dating techniques, particularly in tephrochronology and surface dating applications. [24] [25]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Icelandic_tephra.JPG/360px-Icelandic_tephra.JPG",
+                "caption": "Tephra horizons as shown in an outcrop at Iceland . Tephra stands out from background sediments with its high albedo and reflectance values, which can be detected using spectroradiometry. Spectroradiometry is particularly useful in identifying tephra layers when the colour and appearance of sediments look similar, and when the tephra layers are heavily mixed with background sediments. For instance, only one tephra layer is observed in the outcrop shown in the figure. There might be more tephra layers hidden within the strata that could be detected only by using a spectroradiometer ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Spectroradiometry_for_Earth_and_planetary_remote_sensing",
+        "title": "Spectroradiometry for Earth and planetary remote sensing",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Ore exploration",
+        "text": "Spectroradiometry is widely utilized for the identification and prediction of ore deposits associated with hydrothermal systems. Hydrothermally altered deposits , known as epigenetic deposits, undergo multiple episodes of chemical alteration caused by interactions between hydrothermal fluids and the surrounding rock formations. [3] These alteration processes are often related to volcanic and geothermal activities, where hot hydrothermal fluids penetrate through fractures in pre-existing country rocks, resulting in the deposition of valuable metallic ores such as gold and copper . [3] [29] Clay minerals are commonly formed as alteration products in these deposits, and their presence can be detected using spectroradiometry. Illite , for instance, is commonly observed in the vicinity of hydrothermal ore bodies. [28] [29] Higher concentrations of illite may indicate areas conducive to ore precipitation, and the spectral characteristics of illite , including strong absorption features near 1400, 1900, and 2200 nm (D 1400 , D 1900 , D 2200 ) in the wavelength spectra , can be utilized to identify and trace ore fluid pathways and deposition . [28] [29] Regolith-hosted rare earth element (REE) deposits can also be identified and located using spectroradiometry. These deposits are conventionally situated in highly decomposed granitic rock bodies. [9] [30] The intense weathering processes occurring in granitic rocks give rise to the denudation and leaching of major element oxides , leaving behind the highly decomposed regolith . [9] [30] Throughout the weathering process, clay minerals such as kaolinite and halloysite are generated as alteration products, which possess a strong affinity for adsorbing REEs , leading to their enrichment in the regolith. [13] [31] One specific REE of interest is neodymium (Nd), which has extensive applications in the industry. [13] Nd exhibits distinctive spectral features in reflectance spectroscopy that can be used for its detection and identification, centred near 740, 800, and 865 nm (D 740 , D 800 , D 865 ) in the wavelength spectra. [13] [32] Making use of these spectral characteristics, combined with geochemical interpretations and machine learning , the identification and mapping of Nd-enriched regolith areas can be fostered, which may provide implications towards potential REE mineralization and respective ore bodies. [31] [32]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Neodymium_%2860_Nd%29.jpg/220px-Neodymium_%2860_Nd%29.jpg",
+                "caption": "A sample of Neodymium , commonly found in Regolith-hosted rare earth element deposits . It holds substantial economic value. Notably, neodymium exhibits unique spectral characteristics that make it highly traceable using spectroradiometry."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Spectroradiometry_for_Earth_and_planetary_remote_sensing",
+        "title": "Spectroradiometry for Earth and planetary remote sensing",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Mars",
+        "text": "Minerals on Mars are largely mafic , accompanied by substantial amount of clays . [36] [37] Each of these minerals are found in different regions on Mars , and are detected by spectroradiometers through their characteristic absorption features on the reflectance spectra. [36] (1) Ices [36] Ices composed of water and carbon dioxide are typically found in the northern and southern permanent polar caps on Mars. They also exist as seasonal frosts and clouds . (2) Mafic silicates [36] [38] The mafic silicates made up the composition of basaltic crusts on Mars. At Martian valleys and craters , such minerals are often seen associated with hydrated silica deposits resulted from alteration . (3) Iron oxides [34] [36] Iron oxides (mostly hematite ) are involved in the compositions of most surface soils and dust on Mars, providing implications to Martian surficial processes . (4) Clay minerals ( Phyllosilicates ) [35] [36] Iron - and magnesium -bearing clay minerals have widespread compositions on Mars. Typical examples are as follows: Aluminium -bearing clays are also found on Mars. Their spectral characteristics are mentioned in the previous sections. (5) Sulphates [36] Sulphates on Mars are polyhydrated. They are scattered along the western hemisphere, equatorial and northern part of Mars, at Valles Marineris , Meridiani Planum , and Arabia . Examples of Martian sulphates include gypsum , bassanite , kieserite , jarosite , and alunite . (6) Zeolites [36] Zeolites are identified in craters near Martian basins and highlands, providing implications towards the environments on Mars. The most distinctive zeolite mineral discovered on Mars is analcime . (7) Carbonates [36] [38] Carbonates on Mars can be iron - or magnesium -rich. Characterized by their paired absorption features near 2300 and 2500 nm, they are found along Nili Fossae , and Tyrrhena Terra located at the southern Martian highlands. The identification of mineral compositions on Mars offers vital clues towards Martian geological processes from the past to the present. In particular, the presence of clay minerals serves as the direct evidence of basaltic weathering on Mars . [34] [37] The analysis of compositional stratigraphy provided by Martian rock samples has revealed strengthening absorption features near 1400 and 1900 nm (D 1400 and D 1900 ). [34] [35] These features are diagnostic of elevated hydroxyl (-OH) contents owing to the increasing abundance of kaolinite , in replacement of other clay minerals . [34] [35] This reflects the increasing of weathering intensity and the occurrence of aqueous processes on Martian crust , indicating that a wet and warm climate had once existed on the planet. [36] Importantly, the occurrence of intensive chemical weathering on ancient Mars proves the past existence of water . [34] Other than iron oxides and clays , previously detected sulphates , carbonates , and zeolites also serve as the proxies of water . Sulphates commonly form as a result of the alteration of crustal materials by groundwater and rain , and the precipitation of evaporated water bodies. [37] Carbonates are originated from interactions between water and basalts in a CO 2 -rich environment, whereas zeolites are formed in alkaline waters and hydrothermal environments. [36] [38] The presence of these minerals altogether account for the evidence for the past occurrence of water on Mars . They also imply possibility of the planet having supported life at some point. [34]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ice_on_mars.png/530px-Ice_on_mars.png",
+                "caption": "The visible and near infrared (VNIR) reflectance spectra of common ices on Mars, modified from Viviano et al., 2014. [36] The values of reflectance as shown in the figure were offset to facilitate comparison of spectral features among the two ices. Diagnostic absorption peaks exhibited by crystalline H 2 O and CO 2 ices are observed along 1435, 1500, and 2280 nm."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Silicates_on_mars.png/530px-Silicates_on_mars.png",
+                "caption": "The visible and near infrared (VNIR) reflectance spectra of common mafic silicates on Mars, modified from Viviano et al., 2014. [36] The values of reflectance as shown in the figure were offset to facilitate comparison of spectral features among the three minerals. Diagnostic absorption peaks exhibited by olivine , pyroxene , and plagioclase are observed along 1100, 1300, and 2000 nm."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Phyllosilicates_on_mars.png/530px-Phyllosilicates_on_mars.png",
+                "caption": "The visible and near infrared (VNIR) reflectance spectra of common ices on Mars, modified from Viviano et al., 2014. [36] The values of reflectance as shown in the figure were offset to facilitate comparison of spectral features among the three minerals. Diagnostic absorption peaks exhibited by talc , prehnite , and serpentine are observed along 1400 to 1500, and 2300 to 2500 nm."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Mars_Valles_Marineris.jpeg/220px-Mars_Valles_Marineris.jpeg",
+                "caption": "Valles Marineris, a snapshot taken by the Viking 1 probe. Polyhydrated sulphates are abundant along this area."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sulphates_on_mars.png/530px-Sulphates_on_mars.png",
+                "caption": "The visible and near infrared (VNIR) reflectance spectra of common sulphates on Mars, modified from Viviano et al., 2014. [36] The values of reflectance as shown in the figure were offset to facilitate comparison of spectral features among the three minerals. Diagnostic absorption peaks exhibited by polyhydrated sulphates , including gypsum and bassanite , are observed along 1400, 1900, and 2400 nm."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Zeolites_on_mars_2.png/530px-Zeolites_on_mars_2.png",
+                "caption": "The visible and near infrared (VNIR) reflectance spectra of common ices on Mars, modified from Viviano et al., 2014. [36] Diagnostic absorption peaks exhibited by analcime are observed along 1790 and 2500 nm."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Carbonates_on_mars_2.png/530px-Carbonates_on_mars_2.png",
+                "caption": "The visible and near infrared (VNIR) reflectance spectra of common ices on Mars, modified from Viviano et al., 2014. [36] Diagnostic absorption peaks exhibited by iron -rich carbonates are observed along 2300 and 2500 nm."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Spectroradiometry_for_Earth_and_planetary_remote_sensing",
+        "title": "Spectroradiometry for Earth and planetary remote sensing",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Spectroradiometer as a tool in Spectroradiometry",
+        "text": "Spectroradiometers are primarily used as remote sensors in spectroradiometry to detect and quantify light intensity and its associated parameters (e.g. wavelength , amplitude ). Spectral reflectance and transmittance data are digitally recorded which facilitates spectral analysis . [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Basic_components_of_a_spectroradiometer.png/707px-Basic_components_of_a_spectroradiometer.png",
+                "caption": "A schematic diagram showing the basic components of a spectroradiometer and how it works.  The spectroradiometer first captures light from the target substance being measured. The components of fore optics such as optical lenses , diffusers , filters , and slits ensure the source radiation is delivered onto the detectors appropriately and efficiently. The collected light then passes through a monochromator , where it is separated into different ranges of wavelengths to create a spectrum. The separated wavelengths of light are subsequently directed onto a detector, such as a CCD (Charge Coupled Device) array or a CMOS (Complementary Metal Oxide Semiconductor) sensor, where the radiation intensities across the spectrum are recorded. The measurements of the detector is finally converted into a digital format to obtain the spectral data through computer software. [39]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Light_dispersion_conceptual_waves350px.gif/220px-Light_dispersion_conceptual_waves350px.gif",
+                "caption": "The monochromator , as a standard component of a spectroradiometer , is key to create a wide spectrum that exhibits the spectral properties of substances. It utilizes a dispersive element, such as a prism or diffraction grating, to split light radiation collected from substances into different ranges of wavelengths ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Spectroradiometry_for_Earth_and_planetary_remote_sensing",
+        "title": "Spectroradiometry for Earth and planetary remote sensing",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Resolution of Spectroradiometers",
+        "text": "The resolution of spectroradiometers refers to the potential extent of details that can be detected by the sensors . [7] [11] In general, 4 kinds of resolutions are commonly specified for each spectroradiometer. [1] [11] Spectral resolution concerns the capability of a sensor in a spectroradiometer to measure the light intensity according to specific wavelengths on the electromagnetic spectrum . It is related to the amount of spectral detail to be detected in each spectral band so as to discriminate among different materials. [11] Described by the amount, wavelength interval, and width of spectral bands in which the sensor conducts wavelength measurements, a sensor with high spectral resolution would mean that it is able to capture a spectrum of light and divides it into hundreds or thousands of narrow spectral bands or channels with typical widths up to 10 and 20 nm. [11] In modern times, multi- and hyperspectral imaging sensors are mainly adopted in spectroradiometry. Unlike ordinary broadband sensors which possess only a few spectral bands for measurements, they enable the extraction of spectral properties in sufficiently high spectral resolutions , allowing for the detection and analysis of diagnostic absorption features in a continuous spectrum. Hyperspectral sensors divide the detected light intensity into many, narrow, and contiguous (i.e., adjacent) spectral bands to reconstruct a full spectrum , while multispectral sensors measures light intensity using spectral bands of varying bandwidths in the wavelength spectrum which might not be contiguous. [1] [11] Consequently, a hyperspectral sensor is often regarded as having greater spectral resolution in comparison to a multispectral sensor, hence a better potential in mineralogical diagnosis and lithology mapping . Spatial resolution evaluates the quality of an image captured by imaging spectroradiometers. It describes the extent of spatial detail the sensors can record, i.e., the smallest feature detected, based on pixel and grid sizes of the captured digital imagery . [7] A sensor with fine spatial resolution would capture an image with small grid cells, thus recording more spatial details and image pixels. Radiometric resolution deals with the sensitivity of a sensor towards measuring the magnitude of electromagnetic radiation and light intensity . A sensor with high radiometric resolution can detect and discriminate subtle variations in brightness and radiation magnitudes. [1] In the context of multispectral imaging , the greater the number of data bits per pixel (bit depth) of the image recorded, the better the quality and interpretability of the image , thus the finer the radiometric resolution . [1] Temporal resolution is the frequency or the repeat cycle of a sensor, most commonly referring to sensors on imaging spectroradiometers, to capture images and acquire spectral information. [11] An imaging spectroradiometer with high temporal resolution typically requires less time to complete spectral measurements of an image .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Spectral_resolution.png/265px-Spectral_resolution.png",
+                "caption": "A visualization of spectral resolution . The area bounded by the curve represents the magnitude of electromagnetic radiation reflected by a given material at various wavelengths . Devices with high spectral resolution can measure the reflectance for the material within narrow bands of wavelength ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MultispectralComparedToHyperspectral.jpg/267px-MultispectralComparedToHyperspectral.jpg",
+                "caption": "A figure illustrating the differences between multi- and hyperspectral imaging . A hyperspectral sensor collects spectral data in a continuous spectrum whereas a multispectral sensor collects spectral data in varying bandwidths in the EM spectrum ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Spatial_resolution.png/268px-Spatial_resolution.png",
+                "caption": "A visualization of spatial resolution , which refers to the level of detail or the smallest discernible features that can be captured by a given spectroradiometer ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Radiometric_resolution.png/268px-Radiometric_resolution.png",
+                "caption": "A visualization of radiometric resolution . The area bounded by the curve represents the magnitude of electromagnetic radiation reflected by a given material at various wavelengths . Devices with high radiometric resolution can precisely measure and detect relatively small differences in the values of reflectance for a given material."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Spectroradiometry_for_Earth_and_planetary_remote_sensing",
+        "title": "Spectroradiometry for Earth and planetary remote sensing",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "See also",
+        "text": "Related lists:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/NEWS_Pillar_med.jpg/220px-NEWS_Pillar_med.jpg",
+                "caption": "NASA Water and Energy Cycle satellite missions as of 2006."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cr_Jason-2.jpg/220px-Cr_Jason-2.jpg",
+                "caption": "NASA Earth science satellites as of 2017."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/List_of_Earth_observation_satellites",
+        "title": "List of Earth observation satellites",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Fundamentals",
+        "text": "Geography is a systematic study of the Earth (other celestial bodies are specified, such as \"geography of Mars\", or given another name, such as areography in the case of Mars), its features, and phenomena that take place on it. [18] [19] [20] For something to fall into the domain of geography, it generally needs some sort of spatial component that can be placed on a map , such as coordinates , place names, or addresses . This has led to geography being associated with cartography and place names. Although many geographers are trained in toponymy and cartology, this is not their main preoccupation. Geographers study the Earth's spatial and temporal distribution of phenomena, processes, and features as well as the interaction of humans and their environment . [21] Because space and place affect a variety of topics, such as economics, health, climate , plants, and animals, geography is highly interdisciplinary. The interdisciplinary nature of the geographical approach depends on an attentiveness to the relationship between physical and human phenomena and their spatial patterns. [22] Geography as a discipline can be split broadly into three main branches: human geography , physical geography , and technical geography . [3] [24] Human geography largely focuses on the built environment and how humans create, view, manage, and influence space. [24] Physical geography examines the natural environment and how organisms , climate, soil , water, and landforms produce and interact. [25] The difference between these approaches led to the development of integrated geography , which combines physical and human geography and concerns the interactions between the environment and humans. [21] Technical geography involves studying and developing the tools and techniques used by geographers, such as remote sensing, cartography, and geographic information system. [26]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Physical_World_Map.svg/390px-Physical_World_Map.svg.png",
+                "caption": "Physical map of Earth"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/World_Map_%28political%29.svg/390px-World_Map_%28political%29.svg.png",
+                "caption": "Political map of Earth"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geography",
+        "title": "Geography",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Key concepts",
+        "text": "Narrowing down geography to a few key concepts is extremely challenging, and subject to tremendous debate within the discipline. [27] In one attempt, the 1st edition of the book \"Key Concepts in Geography\" broke down this into chapters focusing on \"Space,\" \"Place,\" \"Time,\" \"Scale,\" and \"Landscape.\" [28] The 2nd edition of the book expanded on these key concepts by adding \"Environmental systems,\" \"Social Systems,\" \"Nature,\" \" Globalization ,\" \"Development,\" and \"Risk,\" demonstrating how challenging narrowing the field can be. [27] Another approach used extensively in teaching geography are the Five themes of geography established by \"Guidelines for Geographic Education: Elementary and Secondary Schools,\" published jointly by the National Council for Geographic Education and the Association of American Geographers in 1984. [29] [30] These themes are Location, place, relationships within places (often summarized as Human-Environment Interaction), movement, and regions. [30] [31] The five themes of geography have shaped how American education approaches the topic in the years since. [30] [31]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/17th_Century_map_of_Pembrokeshire.jpg/220px-17th_Century_map_of_Pembrokeshire.jpg",
+                "caption": "Maps, like this 17th Century depiction of Pembrokeshire , are a central element in the study of geography."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geography",
+        "title": "Geography",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Space",
+        "text": "For something to exist in the realm of geography, it must be able to be described spatially. [32] [33] Thus, space is the most fundamental concept at the foundation of geography. [7] [8] The concept is so basic, that geographers often have difficulty defining exactly what it is. Absolute space is the exact site, or spatial coordinates, of objects, persons, places, or phenomena under investigation. [7] We exist in space. [9] Absolute space leads to the view of the world as a photograph, with everything frozen in place when the coordinates were recorded. Today, geographers are trained to recognize the world as a dynamic space where all processes interact and take place, rather than a static image on a map. [7] [34]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/3D_coordinate_system.svg/220px-3D_coordinate_system.svg.png",
+                "caption": "A right-handed three-dimensional Cartesian coordinate system used to indicate positions in space"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geography",
+        "title": "Geography",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Place",
+        "text": "Place is one of the most complex and important terms in geography. [9] [10] [11] [12] In human geography, place is the synthesis of the coordinates on the Earth's surface, the activity and use that occurs, has occurred, and will occur at the coordinates, and the meaning ascribed to the space by human individuals and groups. [33] [11] This can be extraordinarily complex, as different spaces may have different uses at different times and mean different things to different people. In physical geography, a place includes all of the physical phenomena that occur in space, including the lithosphere , atmosphere , hydrosphere , and biosphere . [12] Places do not exist in a vacuum and instead have complex spatial relationships with each other, and place is concerned how a location is situated in relation to all other locations. [36] [37] As a discipline then, the term place in geography includes all spatial phenomena occurring at a location, the diverse uses and meanings humans ascribe to that location, and how that location impacts and is impacted by all other locations on Earth. [11] [12] In one of Yi-Fu Tuan 's papers, he explains that in his view, geography is the study of Earth as a home for humanity, and thus place and the complex meaning behind the term is central to the discipline of geography. [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Yi-Fu_Tuan-Festival_international_de_g%C3%A9ographie_2012_%281%29.jpg/220px-Yi-Fu_Tuan-Festival_international_de_g%C3%A9ographie_2012_%281%29.jpg",
+                "caption": "Yi-Fu Tuan, geographer who foregrounded the importance of language in the making of place. [35]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geography",
+        "title": "Geography",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Time",
+        "text": "Time is usually thought to be within the domain of history , however, it is of significant concern in the discipline of geography. [38] [39] [40] In physics, space and time are not separated, and are combined into the concept of spacetime . [41] Geography is subject to the laws of physics, and in studying things that occur in space, time must be considered. Time in geography is more than just the historical record of events that occurred at various discrete coordinates; but also includes modeling the dynamic movement of people, organisms, and things through space. [9] Time facilitates movement through space, ultimately allowing things to flow through a system. [38] The amount of time an individual, or group of people, spends in a place will often shape their attachment and perspective to that place. [9] Time constrains the possible paths that can be taken through space, given a starting point, possible routes, and rate of travel. [42] Visualizing time over space is challenging in terms of cartography, and includes Space-Prism, advanced 3D geovisualizations, and animated maps . [36] [42] [43] [34]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sample_of_time_geographical_description.png/220px-Sample_of_time_geographical_description.png",
+                "caption": "Examples of the visual language of time geography: space-time cube, path, prism, bundle, and other concepts."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geography",
+        "title": "Geography",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Scale",
+        "text": "Scale in the context of a map is the ratio between a distance measured on the map and the corresponding distance as measured on the ground. [2] [44] This concept is fundamental to the discipline of geography, not just cartography, in that phenomena being investigated appear different depending on the scale used. [45] [46] Scale is the frame that geographers use to measure space, and ultimately to try and understand a place. [44]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Map_scale_-_8km%2C_5mi.png/290px-Map_scale_-_8km%2C_5mi.png",
+                "caption": "A graphical or bar scale. A map would also usually give its scale numerically (\"1:50,000\", for instance, means that one cm on the map represents 50,000 cm of real space, which is 500 meters)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geography",
+        "title": "Geography",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Quantitative methods",
+        "text": "Quantitative methods in geography became particularly influential in the discipline during the quantitative revolution of the 1950s and 60s. [15] These methods revitalized the discipline in many ways, allowing scientific testing of hypotheses and proposing scientific geographic theories and laws. [72] The quantitative revolution heavily influenced and revitalized technical geography, and lead to the development of the subfield of quantitative geography. [26] [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cook_chart_of_New_Zealand.jpg/220px-Cook_chart_of_New_Zealand.jpg",
+                "caption": "James Cook 's 1770 chart of New Zealand"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geography",
+        "title": "Geography",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Remote sensing",
+        "text": "Remote sensing is the art, science, and technology of obtaining information about Earth's features from measurements made at a distance. [77] Remotely sensed data can be either passive, such as traditional photography , or active, such as LiDAR . [77] A variety of platforms can be used for remote sensing, including satellite imagery , aerial photography (including consumer drones), and data obtained from hand-held sensors. [77] Products from remote sensing include Digital elevation model and cartographic base maps. Geographers increasingly use remotely sensed data to obtain information about the Earth's land surface , ocean, and atmosphere, because it: (a) supplies objective information at a variety of spatial scales (local to global), (b) provides a synoptic view of the area of interest, (c) allows access to distant and inaccessible sites, (d) provides spectral information outside the visible portion of the electromagnetic spectrum , and (e) facilitates studies of how features/areas change over time. Remotely sensed data may be analyzed independently or in conjunction with other digital data layers (e.g., in a geographic information system). Remote sensing aids in land use, land cover (LULC) mapping, by helping to determine both what is naturally occurring on a piece of land and what human activities are taking place on it. [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Death-valley-sar.jpg/170px-Death-valley-sar.jpg",
+                "caption": "Synthetic aperture radar image of Death Valley colored using polarimetry"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geography",
+        "title": "Geography",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Qualitative cartography",
+        "text": "Qualitative cartography employs many of the same software and techniques as quantitative cartography. [81] It may be employed to inform on map practices, or to visualize perspectives and ideas that are not strictly quantitative in nature. [81] [16] An example of a form of qualitative cartography is a Chorochromatic map of nominal data, such as land cover or dominant language group in an area. [82] Another example is a deep map , or maps that combine geography and storytelling to produce a product with greater information than a two-dimensional image of places, names, and topography. [83] [84] This approach offers more inclusive strategies than more traditional cartographic approaches for connecting the complex layers that makeup places. [84]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Indo-Aryan_language_map.svg/300px-Indo-Aryan_language_map.svg.png",
+                "caption": "A compound chorochromatic map of Indo-Aryan (Indic) languages"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geography",
+        "title": "Geography",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Geology",
+        "text": "The discipline of geography, especially physical geography, and geology have significant overlap. In the past, the two have often shared academic departments at universities, a point that has led to conflict over resources. [123] Both disciplines do seek to understand the rocks on the Earth's surface and the processes that change them over time. Geology employs many of the tools and techniques of technical geographers, such as GIS and remote sensing to aid in geological mapping . [124] However, geology includes research that goes beyond the spatial component, such as the chemical analysis of rocks and biogeochemistry . [125]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cycle_of_rocks_2.png/220px-Cycle_of_rocks_2.png",
+                "caption": "The rock cycle shows the relationship between igneous , sedimentary , and metamorphic rocks ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geography",
+        "title": "Geography",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    },
+    {
+        "section": "Geodetic coordinates",
+        "text": "In geodetic coordinates , Earth's surface is approximated by an ellipsoid , and locations near the surface are described in terms of geodetic latitude ( ϕ {\\displaystyle \\phi } ), longitude ( λ {\\displaystyle \\lambda } ), and ellipsoidal height ( h {\\displaystyle h} ). [note 2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Geocentric_vs_geodetic_latitude.svg/300px-Geocentric_vs_geodetic_latitude.svg.png",
+                "caption": "The same position on a spheroid has a different angle for latitude depending on whether the angle is measured from the normal line segment CP of the ellipsoid (angle α ) or the line segment OP from the center (angle β ). The \" flatness\" of the spheroid (orange) in the image is greater than that of Earth; as a result, the corresponding difference between the \"geodetic\" and \"geocentric\" latitudes is also exaggerated."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Geodetic_datum",
+        "title": "Geodetic datum",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Remote Sensing and Geology"
+    }
+]

@@ -1,0 +1,793 @@
+[
+    {
+        "section": "Solar and wind",
+        "text": "Another example of a hybrid energy system is a photovoltaic array coupled with a wind turbine . [6] This would create more output from the wind turbine during the winter, whereas during the summer, the solar panels would produce their peak output. Hybrid energy systems often yield greater economic and environmental returns than wind, solar, geothermal or trigeneration stand-alone systems by themselves. [7] A combine use of wind-solar systems results, in many places, to a smoother power output since the resources are anti-correlated. Therefore, the combined use of wind and solar systems is crucial for a large-scale grid integration. [8] In 2019 in western Minnesota , a $5m hybrid system was installed. It runs 500 kW of solar power through the inverter of a 2 MW wind turbine, increasing the capacity factor and reducing costs by $150,000 per year. Purchase contracts limits the local distributor to a 5% maximum of self-generation. [9] [10] The Pearl River Tower in Guangzhou , China, will mix solar panel on its windows and several wind turbines at different stories of its structure, allowing this tower to be energy positive. [ citation needed ] In several parts of China & India, there are lighting pylons with combinations of solar panels and wind-turbines at their top. This allows space already used for lighting to be used more efficiently with two complementary energy productions units. Most common models use horizontal axis wind-turbines, but now models are appearing with vertical axis wind-turbines, using a helicoidal shaped, twisted- Savonius system. [ citation needed ] Solar panels on the already existing wind turbines has been tested, but produced blinding rays of light that posed a threat to airplanes . A solution was to produce tinted solar panels that do not reflect as much light. Another proposed design was to have a vertical axis wind turbine coated in solar cells that are able to absorb sunlight from any angle. [11] Other solar hybrids include solar-wind systems. The combination of wind and solar has the advantage that the two sources complement each other because the peak operating times for each system occur at different times of the day and year. The power generation of such a hybrid system is more constant and fluctuates less than each of the two component subsystems. [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hybrid_Power_System.gif/250px-Hybrid_Power_System.gif",
+                "caption": "Hybrid solar and wind system"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Block_diagram.jpg/500px-Block_diagram.jpg",
+                "caption": "Block diagram of a PV/wind hybrid energy system"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eole_et_Helios.jpg/150px-Eole_et_Helios.jpg",
+                "caption": "Horizontal axis wind-turbine, combined with a solar panel on a lighting pylon at Weihai , Shandong province, China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hybrid_power",
+        "title": "Hybrid power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Solar PV, battery and grid",
+        "text": "Solar PV gives variable output which can be buffered with battery storage. However, large variations exist in production over the day, as well in many places seasonally. The battery helps match the power with the load. A hybrid solar inverter additionally allows the storage of low cost electricity drawn down on cheap tariffs. [31]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/PV-system-intelligent-hybrid-inverter.png/220px-PV-system-intelligent-hybrid-inverter.png",
+                "caption": "System diagram of intelligent hybrid inverters used in domestic setting."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hybrid_power",
+        "title": "Hybrid power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Wind-hydrogen system",
+        "text": "One method of storing wind energy is the production of hydrogen through the electrolysis of water . This hydrogen is subsequently used to generate electricity during periods when demand can not be matched by wind alone. The energy in the stored hydrogen can be converted into electrical power through fuel cell technology or a combustion engine linked to an electrical generator . Successfully storing hydrogen has many issues which need to be overcome, such as embrittlement of the materials used in the power system. This technology is being developed in many countries. In 2007 there was an IPO of an Australian firm called Wind Hydrogen that aimed to commercialise this technology in both Australia and the UK. [32] In 2008 the company changed its name and turned its operations to fossil fuel exploration. [33] In 2007, technology test sites included:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wind_hydrogen.JPG/450px-Wind_hydrogen.JPG",
+                "caption": ""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hybrid_power",
+        "title": "Hybrid power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Combined cycle hydrogen power plant",
+        "text": "Wind and solar power are variable renewable energy sources that aren't as consistent as base load energy and a combined cycle hydrogen power plant could help renewables by capturing excess energy, with electrolysis , when they produce to much and fill the gaps with that energy when they aren't producing as much. [45]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Variable_renewable_energy.svg/220px-Variable_renewable_energy.svg.png",
+                "caption": "Renewable and conventional energy production in Germany over two weeks in 2022. In hours with low wind and PV production, hard coal and gas fill the gap. Nuclear and biomass show almost no flexibility. PV follows the increased consumption during daytime hours but varies seasonally."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hybrid_power",
+        "title": "Hybrid power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Nearly isothermal compression",
+        "text": "A number of methods of nearly isothermal compression are being developed. Fluid Mechanics has a system with a heat absorbing and releasing structure (HARS) attached to a reciprocating piston. [68] Light Sail injects a water spray into a reciprocating cylinder. [ citation needed ] SustainX uses an air-water foam mix inside a semi-custom, 120-rpm compressor/expander. [69] All these systems ensure that the air is compressed with high thermal diffusivity compared to the speed of compression. Typically these compressors can run at speeds up to 1000 rpm. To ensure high thermal diffusivity, the average distance a gas molecule is from a heat-absorbing surface is about 0.5 mm. These nearly-isothermal compressors can also be used as nearly-isothermal expanders and are being developed to improve the round-trip efficiency of CAES.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Crowley%27s_isothermal_compressor_%26_expander.jpg/330px-Crowley%27s_isothermal_compressor_%26_expander.jpg",
+                "caption": "Schematic views of a nearly isothermal compressor and expander. Left view with the piston fully retracted, right view with the piston fully inserted."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Compressed-air_energy_storage",
+        "title": "Compressed-air energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Stand alone system with batteries",
+        "text": "In stand-alone photovoltaic power systems, the electrical energy produced by the photovoltaic panels cannot always be used directly. As the demand from the load does not always equal the solar panel capacity, battery banks are generally used.\nThe primary functions of a storage battery in a stand-alone PV system are:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PV-system_country_home1.png/220px-PV-system_country_home1.png",
+                "caption": "Schematic of a stand-alone PV system with battery and charger"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Stand-alone_power_system",
+        "title": "Stand-alone power system",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Main components",
+        "text": "A typical system consists of a flywheel supported by rolling-element bearing connected to a motor–generator . The flywheel and sometimes motor–generator may be enclosed in a vacuum chamber to reduce friction and energy loss. First-generation flywheel energy-storage systems use a large steel flywheel rotating on mechanical bearings. Newer systems use carbon-fiber composite rotors that have a higher tensile strength than steel and can store much more energy for the same mass . [3] To reduce friction , magnetic bearings are sometimes used instead of mechanical bearings .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Example_of_cylindrical_flywheel_rotor_assembly.png/220px-Example_of_cylindrical_flywheel_rotor_assembly.png",
+                "caption": "The main components of a typical flywheel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flywheel_energy_storage",
+        "title": "Flywheel energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Automotive",
+        "text": "In the 1950s, flywheel-powered buses, known as gyrobuses , were used in Yverdon ( Switzerland ) and Ghent ( Belgium ) and there is ongoing research to make flywheel systems that are smaller, lighter, cheaper and have a greater capacity.  It is hoped that flywheel systems can replace conventional chemical batteries for mobile applications, such as for electric vehicles.  Proposed flywheel systems would eliminate many of the disadvantages of existing battery power systems, such as low capacity, long charge times, heavy weight and short usable lifetimes. Flywheels may have been used in the experimental Chrysler Patriot , though that has been disputed. [20] Flywheels have also been proposed for use in continuously variable transmissions . Punch Powertrain is currently working on such a device. [21] During the 1990s, Rosen Motors developed a gas turbine powered series hybrid automotive powertrain using a 55,000 rpm flywheel to provide bursts of acceleration which the small gas turbine engine could not provide.  The flywheel also stored energy through regenerative braking .  The flywheel was composed of a titanium hub with a carbon fiber cylinder and was gimbal -mounted to minimize adverse gyroscopic effects on vehicle handling.  The prototype vehicle was successfully road tested in 1997 but was never mass-produced. [22] In 2013, Volvo announced a flywheel system fitted to the rear axle of its S60 sedan. Braking action spins the flywheel at up to 60,000 rpm and stops the front-mounted engine. Flywheel energy is applied via a special transmission to partially or completely power the vehicle. The 20-centimetre (7.9 in), 6-kilogram (13 lb) carbon fiber flywheel spins in a vacuum to eliminate friction. When partnered with a four-cylinder engine, it offers up to a 25 percent reduction in fuel consumption versus a comparably performing turbo six-cylinder, providing an 80 horsepower (60 kW) boost and allowing it to reach 100 kilometres per hour (62 mph) in 5.5 seconds. The company did not announce specific plans to include the technology in its product line. [23] In July 2014 GKN acquired Williams Hybrid Power (WHP) division and intends to supply 500 carbon fiber Gyrodrive electric flywheel systems to urban bus operators over the next two years [24] As the former developer name implies, these were originally designed for Formula one motor racing applications. In September 2014, Oxford Bus Company announced that it is introducing 14 Gyrodrive hybrid buses by Alexander Dennis on its Brookes Bus operation. [25] [26]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gyrobus_G3-1.jpg/220px-Gyrobus_G3-1.jpg",
+                "caption": "One of the older gyrobuses parked in a museum in Antwerp."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flywheel_energy_storage",
+        "title": "Flywheel energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Motor sports",
+        "text": "Using a continuously variable transmission (CVT), energy is recovered from the drive train during braking and stored in a flywheel. This stored energy is then used during acceleration by altering the ratio of the CVT. [40] In motor sports applications this energy is used to improve acceleration rather than reduce carbon dioxide emissions – although the same technology can be applied to road cars to improve fuel efficiency . [41] Automobile Club de l'Ouest , the organizer behind the annual 24 Hours of Le Mans event and the Le Mans Series , is currently \"studying specific rules for LMP1 which will be equipped with a kinetic energy recovery system.\" [42] Williams Hybrid Power, a subsidiary of Williams F1 Racing team, [43] have supplied Porsche and Audi with flywheel based hybrid system for Porsche's 911 GT3 R Hybrid [44] and Audi's R18 e-Tron Quattro. [45] Audi's victory in 2012 24 Hours of Le Mans is the first for a hybrid (diesel-electric) vehicle. [46]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg/220px-Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg",
+                "caption": "A Flybrid Systems Kinetic Energy Recovery System built for use in Formula One"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Flywheel_energy_storage",
+        "title": "Flywheel energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Basic principle",
+        "text": "At times of low electrical demand, excess generation capacity is used to pump water into the upper reservoir. When there is higher demand, water is released back into the lower reservoir through a turbine , generating electricity. Reversible turbine/generator assemblies act as combined pump and turbine generator units (usually Francis turbine designs). [15] Variable speed operation further optimizes the round trip efficiency in pumped hydro storage plants. [16] [17] In micro-PSH applications, a group of pumps and Pump As Turbine (PAT) could be implemented respectively for pumping and generating phases. [18] The same pump could be used in both modes by changing rotational direction and speed: [18] the operation point in pumping usually differs from the operation point in PAT mode.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pumpspeicherkraftwerk_engl.png/220px-Pumpspeicherkraftwerk_engl.png",
+                "caption": "Power distribution, over a day, of a pumped-storage hydroelectricity facility. Green represents power consumed in pumping. Red is power generated."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity",
+        "title": "Pumped-storage hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Economic efficiency",
+        "text": "Taking into account conversion losses and evaporation losses from the exposed water surface, energy recovery of 70–80% or more can be achieved. [19] This technique is currently the most cost-effective means of storing large amounts of electrical energy, but capital costs and the necessity of appropriate geography are critical decision factors in selecting pumped-storage plant sites. The relatively low energy density of pumped storage systems requires either large flows and/or large differences in height between reservoirs. The only way to store a significant amount of energy is by having a large body of water located relatively near, but as high as possible above, a second body of water. In some places this occurs naturally, in others one or both bodies of water were man-made. Projects in which both reservoirs are artificial and in which no natural inflows are involved with either reservoir are referred to as \"closed loop\" systems. [20] These systems may be economical because they flatten out load variations on the power grid, permitting thermal power stations such as coal-fired plants and nuclear power plants that provide base-load electricity to continue operating at peak efficiency, while reducing the need for \"peaking\" power plants that use the same fuels as many base-load thermal plants, gas and oil, but have been designed for flexibility rather than maximal efficiency. Hence pumped storage systems are crucial when coordinating large groups of heterogeneous generators . Capital costs for pumped-storage plants are relatively high, although this is somewhat mitigated by their proven long service life of decades - and in some cases over a century, [21] [22] which is three to five times longer than utility-scale batteries. When electricity prices become negative , pumped hydro operators may earn twice - when \"buying\" the electricity to pump the water to the upper reservoir at negative spot prices and again when selling the electricity at a later time when prices are high. Along with energy management, pumped storage systems help stabilize electrical network frequency and provide reserve generation. Thermal plants are much less able to respond to sudden changes in electrical demand that potentially cause frequency and voltage instability. Pumped storage plants, like other hydroelectric plants, can respond to load changes within seconds. The most important use for pumped storage has traditionally been to balance baseload powerplants, but they may also be used to abate the fluctuating output of intermittent energy sources . Pumped storage provides a load at times of high electricity output and low electricity demand, enabling additional system peak capacity. In certain jurisdictions, electricity prices may be close to zero or occasionally negative on occasions that there is more electrical generation available than there is load available to absorb it. Although at present this is rarely due to wind or solar power alone, increased use of such generation will increase the likelihood of those occurrences. [ citation needed ] It is particularly likely that pumped storage will become especially important as a balance for very large-scale photovoltaic and wind generation. [23] Increased long-distance transmission capacity combined with significant amounts of energy storage will be a crucial part of regulating any large-scale deployment of intermittent renewable power sources. [24] The high non-firm renewable electricity penetration in some regions  supplies 40% of annual output, but 60% may be reached before additional storage is necessary. [25] [26] [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stwlan.dam.jpg/220px-Stwlan.dam.jpg",
+                "caption": "The upper reservoir, Llyn Stwlan, and dam of the Ffestiniog Pumped Storage Scheme in North Wales . The lower power station has four water turbines which generate 360 MW of electricity within 60 seconds of the need arising."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity",
+        "title": "Pumped-storage hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Summary",
+        "text": "In 2009, world pumped storage generating capacity was 104 GW , [32] while other sources claim 127 GW, which comprises the vast majority of all types of utility grade electric storage. [33] The EU had 38.3 GW net capacity (36.8% of world capacity) out of a total of 140 GW of hydropower and representing 5% of total net electrical capacity in the EU. Japan had 25.5 GW net capacity (24.5% of world capacity). [32] In 2010 the United States had 21.5 GW of pumped storage generating capacity (20.6% of world capacity). [34] PSH contributed 21,073 GWh of energy  in 2020 in the United States, but −5,321 GWh  (net) because more energy is consumed in pumping than is generated. [35] Nameplate pumped storage capacity had grown to 21.6 GW by 2014, with pumped storage comprising 97% of grid-scale energy storage in the United States. As of late 2014, there were 51 active project proposals with a total of 39 GW of new nameplate capacity across all stages of the FERC licensing process for new pumped storage hydroelectric plants in the United States, but no new plants were currently under construction in the United States at the time. [36] [37] The five largest operational pumped-storage plants are listed below (for a detailed list see List of pumped-storage hydroelectric power stations ) :",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kruonis_Pumped_Storage_Plant.Lithuania.jpg/220px-Kruonis_Pumped_Storage_Plant.Lithuania.jpg",
+                "caption": "Kruonis Pumped Storage Plant , Lithuania"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity",
+        "title": "Pumped-storage hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Photovoltaic cells",
+        "text": "A solar cell , or photovoltaic cell, is a device that converts light into electric current using the photovoltaic effect . The first solar cell was constructed by Charles Fritts in the 1880s. [12] The German industrialist Ernst Werner von Siemens was among those who recognized the importance of this discovery. [13] In 1931, the German engineer Bruno Lange developed a photo cell using silver selenide in place of copper oxide , [14] although the prototype selenium cells converted less than 1% of incident light into electricity. Following the work of Russell Ohl in the 1940s, researchers Gerald Pearson, Calvin Fuller and Daryl Chapin created the silicon solar cell in 1954. [15] These early solar cells cost US$286/watt and reached efficiencies of 4.5–6%. [16] In 1957, Mohamed M. Atalla developed the process of silicon surface passivation by thermal oxidation at Bell Labs . [17] [18] The surface passivation process has since been critical to solar cell efficiency . [19] As of 2022 [update] over 90% of the market is crystalline silicon . [20] The array of a photovoltaic system , or PV system, produces direct current (DC) power which fluctuates with the sunlight's intensity. For practical use this usually requires conversion to alternating current (AC), through the use of inverters . [11] Multiple solar cells are connected inside panels. Panels are wired together to form arrays, then tied to an inverter, which produces power at the desired voltage, and for AC, the desired frequency/phase. [11] Many residential PV systems are connected to the grid when available, especially in developed countries with large markets. [21] In these grid-connected PV systems , use of energy storage is optional. In certain applications such as satellites, lighthouses, or in developing countries, batteries or additional power generators are often added as back-ups. Such stand-alone power systems permit operations at night and at other times of limited sunlight. In \"vertical agrivoltaics \" system, solar cells are oriented vertically on farmland, to allow the land to both grow crops and generate renewable energy. [22] Other configurations include floating solar farms , placing solar canopies over parking lots, and installing solar panels on roofs. [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/PV-system-schematics-residential-Eng.png/310px-PV-system-schematics-residential-Eng.png",
+                "caption": "Schematics of a grid-connected residential PV power system [11]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Concentrated solar power",
+        "text": "Concentrated solar power (CSP), also called \"concentrated solar thermal\", uses lenses or mirrors and tracking systems to concentrate sunlight, then uses the resulting heat to generate electricity from conventional steam-driven turbines. [31] A wide range of concentrating technologies exists: among the best known are the parabolic trough , the compact linear Fresnel reflector , the dish Stirling and the solar power tower . Various techniques are used to track the sun and focus light. In all of these systems a working fluid is heated by the concentrated sunlight and is then used for power generation or energy storage. [32] Thermal storage efficiently allows overnight electricity generation, [33] thus complementing PV. [34] CSP generates a very small share of solar power and in 2022 the IEA said that CSP should be better paid for its storage. [35] As of 2021 [update] the levelized cost of electricity from CSP is over twice that of PV. [36] However, their very high temperatures may prove useful to help decarbonize industries (perhaps via hydrogen) which need to be hotter than electricity can provide. [37]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Parabolic_trough.svg/220px-Parabolic_trough.svg.png",
+                "caption": "A parabolic collector concentrates sunlight onto a tube in its focal point."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Current status",
+        "text": "About half of installed capacity is utility scale. [70]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/World_PVOUT_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png/310px-World_PVOUT_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png",
+                "caption": "Map of solar resources from World bank"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Forecasts",
+        "text": "Most new renewable capacity between 2022 and 2027 is forecast to be solar, surpassing coal as the largest source of installed power capacity. [71] : 26 Utility scale is forecast to become the largest source of electricity in all regions except sub-Saharan Africa by 2050. [70] According to a 2021 study, global electricity generation potential of rooftop solar panels is estimated at 27 PWh per year at costs ranging from $40 (Asia) to $240 per MWh (US, Europe). Its practical realization will however depend on the availability and cost of scalable electricity storage solutions. [72]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Reality_versus_IEA_predictions_-_annual_photovoltaic_additions_2002-2016.png/310px-Reality_versus_IEA_predictions_-_annual_photovoltaic_additions_2002-2016.png",
+                "caption": "Actual annual deployments of solar PV vs predictions by the IEA for the period 2002–2016. Predictions have largely and consistently underestimated actual growth."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Concentrating solar power stations",
+        "text": "Commercial concentrating solar power (CSP) plants, also called \"solar thermal power stations\", were first developed in the 1980s. The 377 MW Ivanpah Solar Power Facility , located in California's Mojave Desert, is the world's largest solar thermal power plant project. Other large CSP plants include the Solnova Solar Power Station (150 MW), the Andasol solar power station (150 MW), and Extresol Solar Power Station (150 MW), all in Spain. The principal advantage of CSP is the ability to efficiently add thermal storage, allowing the dispatching of electricity over up to a 24-hour period. Since peak electricity demand typically occurs at about 5 pm, many CSP power plants use 3 to 5 hours of thermal storage. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IvanpahRunning.JPG/260px-IvanpahRunning.JPG",
+                "caption": "Ivanpah Solar Electric Generating System with all three towers under load"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Solar_Plant_kl.jpg/260px-Solar_Plant_kl.jpg",
+                "caption": "Part of the 354 MW Solar Energy Generating Systems (SEGS) parabolic trough solar complex in northern San Bernardino County, California"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Net metering",
+        "text": "In net metering the price of the electricity produced is the same as the price supplied to the consumer, and the consumer is billed on the difference between production and consumption. Net metering can usually be done with no changes to standard electricity meters , which accurately measure power in both directions and automatically report the difference, and because it allows homeowners and businesses to generate electricity at a different time from consumption, effectively using the grid as a giant storage battery. With net metering, deficits are billed each month while surpluses are rolled over to the following month. Best practices call for perpetual roll over of kWh credits. [102] Excess credits upon termination of service are either lost or paid for at a rate ranging from wholesale to retail rate or above, as can be excess annual credits. [103]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Feed-in_Tariff_meter_connections.png/330px-Feed-in_Tariff_meter_connections.png",
+                "caption": "Net metering , unlike a feed-in tariff , requires only one meter, but it must be bi-directional."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Community solar",
+        "text": "A community solar project is a solar power installation that accepts capital from and provides output credit and tax benefits to multiple customers, including individuals, businesses, nonprofits, and other investors. Participants typically invest in or subscribe to a certain kW capacity or kWh generation of remote electrical production. [105]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Solar_farm_in_Wisconsin_01.jpg/220px-Solar_farm_in_Wisconsin_01.jpg",
+                "caption": "Community solar farm in the town of Wheatland, Wisconsin [104]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Energy storage",
+        "text": "Concentrated solar power plants may use thermal storage to store solar energy, such as in high-temperature molten salts. These salts are an effective storage medium because they are low-cost, have a high specific heat capacity, and can deliver heat at temperatures compatible with conventional power systems. This method of energy storage is used, for example, by the Solar Two power station, allowing it to store 1.44 TJ in its 68 m 3 storage tank, enough to provide full output for close to 39 hours, with an efficiency of about 99%. [113] In stand alone PV systems , batteries are traditionally used to store excess electricity. With grid-connected photovoltaic power systems , excess electricity can be sent to the electrical grid . Net metering and feed-in tariff programs give these systems a credit for the electricity they produce. This credit offsets electricity provided from the grid when the system cannot meet demand, effectively trading with the grid instead of storing excess electricity. [114] When wind and solar are a small fraction of the grid power, other generation techniques can adjust their output appropriately, but as these forms of variable power grow, additional balance on the grid is needed. As prices are rapidly declining, PV systems increasingly use rechargeable batteries to store a surplus to be used later at night. Batteries used for grid-storage can stabilize the electrical grid by leveling out peak loads for a few hours. In the future, less expensive batteries could play an important role on the electrical grid, as they can charge during periods when generation exceeds demand and feed their stored energy into the grid when demand is higher than generation. Common battery technologies used in today's home PV systems include nickel-cadmium , lead-acid , nickel metal hydride , and lithium-ion . [115] [116] [ better source needed ] Lithium-ion batteries have the potential to replace lead-acid batteries in the near future, as they are being intensively developed and lower prices are expected due to economies of scale provided by large production facilities such as the Tesla Gigafactory 1 . In addition, the Li-ion batteries of plug-in electric cars may serve as future storage devices in a vehicle-to-grid system. Since most vehicles are parked an average of 95% of the time, their batteries could be used to let electricity flow from the car to the power lines and back. Retired electric vehicle (EV) batteries can be repurposed. [117] Other rechargeable batteries used for distributed PV systems include, sodium–sulfur and vanadium redox batteries, two prominent types of a molten salt and a flow battery, respectively. [118] [119] [120]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png/260px-Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png",
+                "caption": "Seasonal cycle of capacity factors for wind and photovoltaics in Europe shown under idealized assumptions. The figure illustrates the balancing effects of wind and solar energy at the seasonal scale (Kaspar et al., 2019). [121]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Environmental effects",
+        "text": "Solar power is cleaner than electricity from fossil fuels , [20] so can be better for the environment. [128] Solar power does not lead to harmful emissions during operation, but the production of the panels creates some pollution. A 2021 study estimated the carbon footprint of manufacturing monocrystalline panels at 515 g CO 2 /kWp in the US and 740 g CO 2 /kWp in China, [129] but this is expected to fall as manufacturers use more clean electricity and recycled materials. [130] Solar power carries an upfront cost to the environment via production with a carbon payback time of several years as of 2022 [update] , [130] but offers clean energy for the remainder of their 30-year lifetime. [131] The life-cycle greenhouse-gas emissions of solar farms are less than 50 gram (g) per kilowatt-hour (kWh), [132] [133] [134] but with battery storage could be up to 150 g/kWh. [135] In contrast, a combined cycle gas-fired power plant without carbon capture and storage emits around 500 g/kWh, and a coal-fired power plant about 1000 g/kWh. [136] Similar to all energy sources where their total life cycle emissions are mostly from construction, the switch to low carbon power in the manufacturing and transportation of solar devices would further reduce carbon emissions. [134] Lifecycle surface power density of solar power varies [137] but averages about 7 W/m2, compared to about 240 for nuclear power and 480 for gas. [138] However, when the land required for gas extraction and processing is accounted for, gas power is estimated to have not much higher power density than solar. [20] PV requires much larger amounts of land surface to produce the same nominal amount of energy as sources [ which? ] with higher surface power density and capacity factor. According to a 2021 study, obtaining 25% to 80% of electricity from solar farms in their own territory by 2050 would require the panels to cover land ranging from 0.5% to 2.8% of the European Union , 0.3% to 1.4% in India , and 1.2% to 5.2% in Japan and South Korea . [139] Occupation of such large areas for PV farms could drive residential opposition as well as lead to deforestation, removal of vegetation and conversion of farm land. [140] However some countries, such as South Korea and Japan, use land for agriculture under PV , [141] [142] or floating solar, [143] together with other low-carbon power sources. [144] [145] Worldwide land use has minimal ecological impact. [146] Land use can be reduced to the level of gas power by installing on buildings and other built up areas. [137] Harmful materials are used in the production of solar panels, but generally in small amounts. [147] As of 2022 [update] , the environmental impact of perovskite is difficult to estimate, but there is some concern that lead may be a problem. [20] A 2021 International Energy Agency study projects the demand for copper will double by 2040. The study cautions that supply needs to increase rapidly to match demand from large-scale deployment of solar and required grid upgrades. [148] [149] More tellurium and indium may also be needed. [20] Recycling may help. [20] As solar panels are sometimes replaced with more efficient panels, the second-hand panels are sometimes reused in developing countries, for example in Africa . [150] Several countries have specific regulations for the recycling of solar panels . [151] [152] [153] Although maintenance cost is already low compared to other energy sources, [154] some academics have called for solar power systems to be designed to be more repairable . [155] [156] A very small proportion of solar power is concentrated solar power . Concentrated solar power may use much more water than gas-fired power. This can be a problem, as this type of solar power needs strong sunlight so is often built in deserts. [157]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Greenhouse_gas_emissions_per_energy_source.png/260px-Greenhouse_gas_emissions_per_energy_source.png",
+                "caption": "Greenhouse gas emissions per energy source. Solar power is one of the sources with the least greenhouse gas emissions."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Blick_vom_aussichtsturm_h%C3%B6rlitz4.jpg/220px-Blick_vom_aussichtsturm_h%C3%B6rlitz4.jpg",
+                "caption": "Part of the Senftenberg Solarpark , a solar photovoltaic power plant located on former open-pit mining areas close to the city of Senftenberg , in Eastern Germany. The 78 MW Phase 1 of the plant was completed within three months."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Politics",
+        "text": "Solar production cannot be cut off by geopolitics once installed, unlike oil and gas, which contributes to energy security . [159] As of 2022 [update] over 40% of global polysilicon manufacturing capacity is in Xinjiang in China , [160] which raises concerns about human rights violations ( Xinjiang internment camps ) as well as supply chain dependency. [161]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg/260px-202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg.png",
+                "caption": "Acceptance of wind and solar facilities in one's community is stronger among U.S. Democrats (blue), while acceptance of nuclear power plants is stronger among U.S. Republicans (red). [158]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power",
+        "title": "Solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Demand side management and grid storage",
+        "text": "The demand side can also store electricity from the grid, for example charging a battery electric vehicle stores energy for a vehicle and storage heaters , district heating storage or ice storage provide thermal storage for buildings. [6] At present this storage serves only to shift consumption to the off-peak time of day, no electricity is returned to the grid. The need for grid storage to provide peak power is reduced by demand side time of use pricing , one of the benefits of smart meters . At the household level, consumers may choose less expensive off-peak times to wash and dry clothes, use dishwashers, take showers and cook. As well, commercial and industrial users will take advantage of cost savings by deferring some processes to off-peak times. Regional impacts from the unpredictable operation of wind power has created a new need for interactive demand response , where the utility communicates with the demand. Historically this was only done in cooperation with large industrial consumers, but now may be expanded to entire grids. [7] For instance, a few large-scale projects in Europe link variations in wind power to change industrial food freezer loads, causing small variations in temperature. If communicated on a grid-wide scale, small changes to heating/cooling temperatures would instantly change consumption across the grid. A report released in December 2013 by the United States Department of Energy further describes the potential benefits of energy storage and demand side technologies to the electric grid: \"Modernizing the electric system will help the nation meet the challenge of handling projected energy needs—including addressing climate change by integrating more energy from renewable sources and enhancing efficiency from non-renewable energy processes. Advances to the electric grid must maintain a robust and resilient electricity delivery system, and energy storage can play a significant role in meeting these challenges by improving the operating capabilities of the grid, lowering cost and ensuring high reliability, as well as deferring and reducing infrastructure investments. Finally, energy storage can be instrumental for emergency preparedness because of its ability to provide backup power as well as grid stabilization services\". [8] The report was written by a core group of developers representing Office of Electricity Delivery and Energy Reliability , ARPA-E , Office of Science , Office of Energy Efficiency and Renewable Energy , Sandia National Laboratories , and Pacific Northwest National Laboratory ; all of whom are engaged in the development of grid energy storage. [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Energy-Units-01.png/220px-Energy-Units-01.png",
+                "caption": "A sense of units and scale for electrical energy production and consumption"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Batteries",
+        "text": "Battery storage was used in the early days of direct current electric power. Where AC grid power was not readily available, isolated lighting plants run by wind turbines or internal combustion engines provided lighting and power to small motors. The battery system could be used to run the load without starting the engine or when the wind was calm. A bank of lead–acid batteries in glass jars both supplied power to illuminate lamps, as well as to start an engine to recharge the batteries. Battery storage technology is typically around 80% to more than 90% efficient for newer lithium-ion devices. [38] [39] Battery systems connected to large solid-state converters have been used to stabilize power distribution networks. Some grid batteries are co-located with renewable energy plants, either to smooth the power supplied by the intermittent wind or solar output, or to shift the power output into other hours of the day when the renewable plant cannot produce power directly (see Installation examples ). These hybrid systems (generation and storage) can either alleviate the pressure on the grid when connecting renewable sources or be used to reach self-sufficiency and work \"off-the-grid\" (see Stand-alone power system ). Contrary to electric vehicle applications, batteries for stationary storage do not suffer from mass or volume constraints. However, due to the large amounts of energy and power implied, the cost per power or energy unit is crucial. The relevant metrics to assess the interest of a technology for grid-scale storage is the $/Wh (or $/W) rather than the Wh/kg (or W/kg). The electrochemical grid storage was made possible thanks to the development of the electric vehicle, that induced a fast decrease in the production costs of batteries below $300/kWh. By optimizing the production chain, major industrials aimed to reach $150/kWh by the end of 2020, but actually achieved $140/kWh. The rate of decline in battery prices has consistently outpaced most estimates, reaching $132/kWh in 2021. [40] These batteries rely on a lithium-ion technology, which is suited for mobile applications (high cost, high density). Technologies optimized for the grid should focus on low cost per kWh.   Lithium iron phosphate batteries are increasingly being used in both vehicles and grid storage because of their low cost, scale and acceptable energy density for many applications. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Light-plant-Fig1198-Page989-Ch45-Hawkins-Electrical-Guide.png/220px-Light-plant-Fig1198-Page989-Ch45-Hawkins-Electrical-Guide.png",
+                "caption": "A 900 watt direct current light plant using 16 separate lead acid battery cells (32 volts) from 1917. [35]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Battery-cost-learning-curve.png/220px-Battery-cost-learning-curve.png",
+                "caption": "Learning curve of lithium-ion batteries: the price of batteries declined by 97% in three decades. [36] [37]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Electric vehicles",
+        "text": "Companies are researching the possible use of electric vehicles to meet peak demand. A parked and plugged-in electric vehicle could sell the electricity from the battery during peak loads and charge either during night (at home) or during off-peak. [69] Plug-in hybrid or electric cars could be used [70] [71] [72] for their energy storage capabilities. Vehicle-to-grid technology can be employed, turning each vehicle with its 20 to 50 kWh battery pack into a distributed load-balancing device or emergency power source. This represents two to five days per vehicle of average household requirements of 10 kWh per day, assuming annual consumption of 3,650 kWh. This quantity of energy is equivalent to between 60 and 480 kilometres (40 and 300 mi) of range in such vehicles consuming 0.1 to 0.3 kilowatt-hours per kilometre (0.16 to 0.5 kWh/mi). These figures can be achieved even in home-made electric vehicle conversions . Some electric utilities plan to use old plug-in vehicle batteries (sometimes resulting in a giant battery) to store electricity [73] [74] However, a large disadvantage of using vehicle to grid energy storage would be if each storage cycle stressed the battery with one complete charge-discharge cycle. [70] However, one major study showed that used intelligently, vehicle-to-grid storage actually improved the batteries longevity. [75] Conventional (cobalt-based) lithium-ion batteries break down with the number of cycles – newer li-ion batteries do not break down significantly with each cycle, and so have much longer lives. One approach is to reuse unreliable vehicle batteries in dedicated grid storage [76] as they are expected to be good in this role for ten years. [77] If such storage is done on a large scale it becomes much easier to guarantee replacement of a vehicle battery degraded in mobile use, as the old battery has value and immediate use.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg/220px-Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg",
+                "caption": "Nissan Leaf , the world's top-selling highway-capable electric car as of 2015"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Flywheel",
+        "text": "Mechanical inertia is the basis of this storage method. When the electric power flows into the device, an electric motor accelerates a heavy rotating disc. The motor acts as a generator when the flow of power is reversed, slowing down the disc and producing electricity. Electricity is stored as the kinetic energy of the disc. Friction must be kept to a minimum to prolong the storage time. This is often achieved by placing the flywheel in a vacuum and using magnetic bearings , tending to make the method expensive. Greater flywheel speeds allow greater storage capacity but require strong materials such as steel or composite materials to resist the centrifugal forces . The ranges of power and energy storage technology that make this method economic, however, tends to make flywheels unsuitable for general power system application; they are probably best suited to load-leveling applications on railway power systems and for improving power quality in renewable energy systems such as the 20MW system in Ireland. [78] [79] Applications that use flywheel storage are those that require very high bursts of power for very short durations such as tokamak [80] and laser experiments where a motor generator is spun up to operating speed and is partially slowed down during discharge. Flywheel storage is also currently used in the form of the Diesel rotary uninterruptible power supply to provide uninterruptible power supply systems (such as those in large datacenters ) for ride-through power necessary during transfer [81] – that is, the relatively brief amount of time between a loss of power to the mains and the warm-up of an alternate source, such as a diesel generator . This potential solution has been implemented by EDA [82] [ better source needed ] in the Azores on the islands of Graciosa and Flores . This system uses an 18 megawatt-second flywheel to improve power quality and thus allow increased renewable energy usage. As the description suggests, these systems are again designed to smooth out transient fluctuations in supply, and could never be used to cope with an outage exceeding a couple of days. Powercorp in Australia have been developing applications using wind turbines, flywheels and low load diesel (LLD) technology to maximize the wind input to small grids. A system installed in Coral Bay, Western Australia, uses wind turbines coupled with a flywheel based control system and LLDs. The flywheel technology enables the wind turbines to supply up to 95 percent of Coral Bay's energy supply at times, with a total annual wind penetration of 45 percent. [83]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/G2_front2.jpg/220px-G2_front2.jpg",
+                "caption": "NASA G2 flywheel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Pumped water",
+        "text": "In 2008, world pumped-storage generating capacity was 104 GW , [95] while other sources claim 127 GW, which comprises the vast majority of all types of grid electric storage – all other types combined are some hundreds of MW. [96] In many places, pumped-storage hydroelectricity is used to even out the daily generating load, by pumping water to a high storage reservoir during off-peak hours and weekends, using the excess base-load capacity from coal or nuclear sources.  During peak hours, this water can be used for hydroelectric generation, often as a high value rapid-response reserve to cover transient peaks in demand. Pumped storage recovers about 70% to 85% of the energy consumed, and is currently the most cost effective form of mass power storage. [97] The chief problem with pumped storage is that it usually requires two nearby reservoirs at considerably different heights, and often requires considerable capital expenditure. [98] Pumped water systems have high dispatchability , meaning they can come on-line very quickly, typically within 15 seconds, [99] which makes these systems very efficient at soaking up variability in electrical demand from consumers. There is over 90 GW of pumped storage in operation around the world, which is about 3% of instantaneous global generation capacity. Pumped water storage systems, such as the Dinorwig storage system in Britain, hold five or six hours of generating capacity, [99] and are used to smooth out demand variations. Another example is the 1836 MW Tianhuangping Pumped-Storage Hydro Plant in China, which has a reservoir capacity of eight million cubic meters (2.1 billion U.S. gallons or the volume of water over Niagara Falls in 25 minutes) with a vertical distance of 600 m (1970 feet). The reservoir can provide about 13 GW·h of stored gravitational potential energy (convertible to electricity at about 80% efficiency), or about 2% of China's daily electricity consumption. [100] A new concept in pumped-storage is utilizing wind energy or solar power to pump water. Wind turbines or solar cells that direct drive water pumps for an energy storing wind or solar dam can make this a more efficient process but are limited. Such systems can only increase kinetic water volume during windy and daylight periods. A study published in 2013 showed rooftop solar, coupled to existing pumped-storage, could replace the reactors lost at Fukushima with an equivalent capacity factor. [101]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG/220px-Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG",
+                "caption": "Mingtan Pumped-Storage Hydro Power Plant dam in Nantou , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Hydroelectric dams",
+        "text": "Hydroelectric dams with large reservoirs can also be operated to provide peak generation at times of peak demand. Water is stored in the reservoir during periods of low demand and released through the plant when demand is higher.  The net effect is the same as pumped storage, but without the pumping loss. Depending on the reservoir capacity the plant can provide daily, weekly, or seasonal load following. Many existing hydroelectric dams are fairly old (for example, the Hoover Dam was built in the 1930s), and their original design predated the newer intermittent power sources such as wind and solar by decades. A hydroelectric dam originally built to provide baseload power will have its generators sized according to the average flow of water into the reservoir. Uprating such a dam with additional generators increases its peak power output capacity, thereby increasing its capacity to operate as a virtual grid energy storage unit. [102] [103] The United States Bureau of Reclamation reports an investment cost of $69 per kilowatt capacity to uprate an existing dam, [102] compared to more than $400 per kilowatt for oil-fired peaking generators. While an uprated hydroelectric dam does not directly store excess energy from other generating units, it behaves equivalently by accumulating its own fuel – incoming river water – during periods of high output from other generating units. Functioning as a virtual grid storage unit in this way, the uprated dam is one of the most efficient forms of energy storage, because it has no pumping losses to fill its reservoir, only increased losses to evaporation and leakage. A dam which impounds a large reservoir can store and release a correspondingly large amount of energy, by controlling river outflow and raising or lowering its reservoir level a few meters. Limitations do apply to dam operation, their releases are commonly subject to government regulated water rights to limit downstream effect on rivers. For example, there are grid situations where baseload thermal plants, nuclear or wind turbines are already producing excess power at night, dams are still required to release enough water to maintain adequate river levels, whether electricity is generated or not. Conversely there's a limit to peak capacity, which if excessive could cause a river to flood for a few hours each day. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/FeiCueiReservoir.jpg/220px-FeiCueiReservoir.jpg",
+                "caption": "Fetsui hydroelectric dam in New Taipei , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Wind energy resources",
+        "text": "Wind is air movement in the Earth's atmosphere. In a unit of time, say 1 second, the volume of air that had passed an area A {\\displaystyle A} is A v {\\displaystyle Av} . If the air density is ρ {\\displaystyle \\rho } , the mass of this volume of air is M = ρ A v {\\displaystyle M=\\rho Av} , and the power transfer, or energy transfer per second is P = 1 2 M v 2 = 1 2 ρ A v 3 {\\displaystyle P={\\tfrac {1}{2}}Mv^{2}={\\tfrac {1}{2}}\\rho Av^{3}} . Wind power is thus proportional to the third power of the wind speed; the available power increases eightfold when the wind speed doubles. Change of wind speed by a factor of 2.1544 increases the wind power by one order of magnitude (multiply by 10). The global wind kinetic energy averaged approximately 1.50 MJ/m 2 over the period from 1979 to 2010, 1.31 MJ/m 2 in the Northern Hemisphere with 1.70 MJ/m 2 in the Southern Hemisphere. The atmosphere acts as a thermal engine, absorbing heat at higher temperatures, releasing heat at lower temperatures. The process is responsible for the production of wind kinetic energy at a rate of 2.46 W/m 2 thus sustaining the circulation of the atmosphere against friction. [15] Through wind resource assessment , it is possible to estimate wind power potential globally, by country or region, or for a specific site. The Global Wind Atlas provided by the Technical University of Denmark in partnership with the World Bank provides a global assessment of wind power potential. [13] [16] [17] Unlike 'static' wind resource atlases which average estimates of wind speed and power density across multiple years, tools such as Renewables.ninja provide time-varying simulations of wind speed and power output from different wind turbine models at an hourly resolution. [18] More detailed, site-specific assessments of wind resource potential can be obtained from specialist commercial providers, and many of the larger wind developers have in-house modeling capabilities. The total amount of economically extractable power available from the wind is considerably more than present human power use from all sources. [19] The strength of wind varies, and an average value for a given location does not alone indicate the amount of energy a wind turbine could produce there. To assess prospective wind power sites, a probability distribution function is often fit to the observed wind speed data. [20] Different locations will have different wind speed distributions. The Weibull model closely mirrors the actual distribution of hourly/ten-minute wind speeds at many locations. The Weibull factor is often close to 2 and therefore a Rayleigh distribution can be used as a less accurate, but simpler model. [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mean_Wind_Speed.png/220px-Mean_Wind_Speed.png",
+                "caption": "Global map of wind speed at 100 meters on land and around coasts. [13]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Lee_Ranch_Wind_Speed_Frequency.svg/350px-Lee_Ranch_Wind_Speed_Frequency.svg.png",
+                "caption": "Distribution of wind speed (red) and energy (blue) for all of 2002 at the Lee Ranch facility in Colorado. The histogram shows measured data, while the curve is the Rayleigh model distribution for the same average wind speed."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Global_Map_of_Wind_Power_Density_Potential.png/220px-Global_Map_of_Wind_Power_Density_Potential.png",
+                "caption": "Global map of wind power density potential [14]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Offshore wind power",
+        "text": "Offshore wind power is wind farms in large bodies of water, usually the sea. These installations can use the more frequent and powerful winds that are available in these locations and have less visual impact on the landscape than land-based projects. However, the construction and maintenance costs are considerably higher. [36] [37] As of November 2021, the Hornsea Wind Farm in the United Kingdom is the largest offshore wind farm in the world at 1,218 MW . [38]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Agucadoura_WindFloat_Prototype.jpg/225px-Agucadoura_WindFloat_Prototype.jpg",
+                "caption": "The world's second full-scale floating wind turbine (and first to be installed without the use of heavy-lift vessels), WindFloat, operating at rated capacity (2  MW) approximately 5  km offshore of Póvoa de Varzim , Portugal"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Growth trends",
+        "text": "In 2020, wind supplied almost 1600 TWh of electricity, which was over 5% of worldwide electrical generation and about 2% of energy consumption. [2] [3] With over 100 GW added during 2020, mostly in China , global installed wind power capacity reached more than 730 GW. [4] [3] But to help meet the Paris Agreement 's goals to limit climate change , analysts say it should expand much faster - by over 1% of electricity generation per year. [6] Expansion of wind power is being hindered by fossil fuel subsidies . [48] [49] [50] The actual amount of electric power that wind can generate is calculated by multiplying the nameplate capacity by the capacity factor , which varies according to equipment and location. Estimates of the capacity factors for wind installations are in the range of 35% to 44%. [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2010-_Power_capacity_by_technology_-_Dec_2022_International_Energy_Agency.svg/210px-2010-_Power_capacity_by_technology_-_Dec_2022_International_Energy_Agency.svg.png",
+                "caption": "Renewable energy sources, especially solar photovoltaic and wind power, are providing an increasing share of power capacity. [45]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png",
+                "caption": "Log graph of global wind power cumulative capacity (Data:GWEC) [47]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Penetration",
+        "text": "Wind energy penetration is the fraction of energy produced by wind compared with the total generation. Wind power's share of worldwide electricity usage in 2021 was almost 7%, [55] up from 3.5% in 2015. [56] [57] There is no generally accepted maximum level of wind penetration. The limit for a particular grid will depend on the existing generating plants, pricing mechanisms, capacity for energy storage , demand management, and other factors. An interconnected electric power grid will already include reserve generating and transmission capacity to allow for equipment failures. This reserve capacity can also serve to compensate for the varying power generation produced by wind stations. Studies have indicated that 20% of the total annual electrical energy consumption may be incorporated with minimal difficulty. [58] These studies have been for locations with geographically dispersed wind farms, some degree of dispatchable energy or hydropower with storage capacity, demand management, and interconnected to a large grid area enabling the export of electric power when needed. Electrical utilities continue to study the effects of large-scale penetration of wind generation on system stability. [59] A wind energy penetration figure can be specified for different duration of time but is often quoted annually. To generate almost all electricity from wind annually requires substantial interconnection to other systems, for example some wind power in Scotland is sent to the rest of the British grid . [60] On a monthly, weekly, daily, or hourly basis—or less—wind might supply as much as or more than 100% of current use, with the rest stored, exported or curtailed. The seasonal industry might then take advantage of high wind and low usage times such as at night when wind output can exceed normal demand. Such industry might include the production of silicon, aluminum, [61] steel, or natural gas, and hydrogen, and using future long-term storage to facilitate 100% energy from variable renewable energy . [62] [63] [ better source needed ] Homes and businesses can also be programmed to vary electricity demand , [64] [65] for example by remotely turning up water heater thermostats. [66]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Share_of_electricity_production_from_wind.svg/350px-Share_of_electricity_production_from_wind.svg.png",
+                "caption": "Share of electricity production from wind, 2022 [54]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Variability",
+        "text": "Wind power is variable, and during low wind periods, it may need to be replaced by other power sources. Transmission networks presently cope with outages of other generation plants and daily changes in electrical demand, but the variability of intermittent power sources such as wind power is more frequent than those of conventional power generation plants which, when scheduled to be operating, may be able to deliver their nameplate capacity around 95% of the time. Electric power generated from wind power can be highly variable at several different timescales: hourly, daily, or seasonally. Annual variation also exists but is not as significant. [ citation needed ] Because instantaneous electrical generation and consumption must remain in balance to maintain grid stability, this variability can present substantial challenges to incorporating large amounts of wind power into a grid system. Intermittency and the non- dispatchable nature of wind energy production can raise costs for regulation, incremental operating reserve , and (at high penetration levels) could require an increase in the already existing energy demand management , load shedding , storage solutions, or system interconnection with HVDC cables. Fluctuations in load and allowance for the failure of large fossil-fuel generating units require operating reserve capacity, which can be increased to compensate for the variability of wind generation. Utility-scale batteries are often used to balance hourly and shorter timescale variation, [67] [68] but car batteries may gain ground from the mid-2020s. [69] Wind power advocates argue that periods of low wind can be dealt with by simply restarting existing power stations that have been held in readiness, or interlinking with HVDC. [70] The combination of diversifying variable renewables by type and location, forecasting their variation, and integrating them with dispatchable renewables, flexible fueled generators, and demand response can create a power system that has the potential to meet power supply needs reliably. Integrating ever-higher levels of renewables is being successfully demonstrated in the real world. [71] Solar power tends to be complementary to wind. [73] [74] On daily to weekly timescales, high-pressure areas tend to bring clear skies and low surface winds, whereas low-pressure areas tend to be windier and cloudier. On seasonal timescales, solar energy peaks in summer, whereas in many areas wind energy is lower in summer and higher in winter. [A] [75] Thus the seasonal variation of wind and solar power tend to cancel each other somewhat. [72] Wind hybrid power systems are becoming more popular. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Toro_de_osborne.jpg/220px-Toro_de_osborne.jpg",
+                "caption": "Wind turbines are typically installed in windy locations. In the image, wind power generators in Spain , near an Osborne bull ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Roscoe_Wind_Farm_in_West_Texas.jpg/220px-Roscoe_Wind_Farm_in_West_Texas.jpg",
+                "caption": "Roscoe Wind Farm : an onshore wind farm in West Texas near Roscoe"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png/220px-Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png",
+                "caption": "Seasonal cycle of capacity factors for wind and photovoltaics in Europe under idealized assumptions. The figure illustrates the balancing effects of wind and solar energy at the seasonal scale (Kaspar et al., 2019). [72]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Economics",
+        "text": "Onshore wind is an inexpensive source of electric power, cheaper than coal plants and new gas plants. [10] According to BusinessGreen , wind turbines reached grid parity (the point at which the cost of wind power matches traditional sources) in some areas of Europe in the mid-2000s, and in the US around the same time. Falling prices continue to drive the Levelized cost down and it has been suggested that it has reached general grid parity in Europe in 2010, and will reach the same point in the US around 2016 due to an expected reduction in capital costs of about 12%. [88] [ needs update ] In 2021, the CEO of Siemens Gamesa warned that increased demand for low-cost wind turbines combined with high input costs and high costs of steel result in increased pressure on the manufacturers and decreasing profit margins. [89] Northern Eurasia, Canada, some parts of the United States, and Patagonia in Argentina are the best areas for onshore wind: whereas in other parts of the world solar power, or a combination of wind and solar, tend to be cheaper. [90] : 8",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Onshore-wind-lcoe.png/310px-Onshore-wind-lcoe.png",
+                "caption": "Onshore wind cost per kilowatt-hour between 1983 and 2017 [87]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Electric power cost and trends",
+        "text": "Wind power is capital intensive but has no fuel costs. [91] The price of wind power is therefore much more stable than the volatile prices of fossil fuel sources. [92] However, the estimated average cost per unit of electric power must incorporate the cost of construction of the turbine and transmission facilities, borrowed funds, return to investors (including the cost of risk), estimated annual production, and other components, averaged over the projected useful life of the equipment, which may be more than 20 years. Energy cost estimates are highly dependent on these assumptions so published cost figures can differ substantially. The presence of wind energy, even when subsidized, can reduce costs for consumers (€5 billion/yr in Germany) by reducing the marginal price, by minimizing the use of expensive peaking power plants . [93] The cost has decreased as wind turbine technology has improved. There are now longer and lighter wind turbine blades, improvements in turbine performance, and increased power generation efficiency. Also, wind project capital expenditure costs and maintenance costs have continued to decline. [94] In 2021, a Lazard study of unsubsidized electricity said that wind power levelized cost of electricity continues to fall but more slowly than before. The study estimated new wind-generated electricity cost from $26 to $50/MWh, compared to new gas power from $45 to $74/MWh. The median cost of fully deprecated existing coal power was $42/MWh, nuclear $29/MWh and gas $24/MWh. The study estimated offshore wind at around $83/MWh. Compound annual growth rate was 4% per year from 2016 to 2021, compared to 10% per year from 2009 to 2021. [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Turbine_Blade_Convoy_Passing_through_Edenfield.jpg/220px-Turbine_Blade_Convoy_Passing_through_Edenfield.jpg",
+                "caption": "A turbine blade convoy passing through Edenfield in the U.K. (2008). Even longer 2-piece blades are now manufactured, and then assembled on-site to reduce difficulties in transportation."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Small-scale wind power",
+        "text": "Small-scale wind power is the name given to wind generation systems with the capacity to produce up to 50 kW of electrical power. [102] Isolated communities, that may otherwise rely on diesel generators, may use wind turbines as an alternative. Individuals may purchase these systems to reduce or eliminate their dependence on grid electric power for economic reasons, or to reduce their carbon footprint . Wind turbines have been used for household electric power generation in conjunction with battery storage over many decades in remote areas. [103] Examples of small-scale wind power projects in an urban setting can be found in New York City , where, since 2009, several building projects have capped their roofs with Gorlov-type helical wind turbines . Although the energy they generate is small compared to the buildings' overall consumption, they help to reinforce the building's 'green' credentials in ways that \"showing people your high-tech boiler\" cannot, with some of the projects also receiving the direct support of the New York State Energy Research and Development Authority . [104] Grid-connected domestic wind turbines may use grid energy storage, thus replacing purchased electric power with locally produced power when available. The surplus power produced by domestic microgenerators can, in some jurisdictions, be fed into the network and sold to the utility company, producing a retail credit for the microgenerators' owners to offset their energy costs. [105] Off-grid system users can either adapt to intermittent power or use batteries, photovoltaic , or diesel systems to supplement the wind turbine. [106] Equipment such as parking meters, traffic warning signs, street lighting, or wireless Internet gateways may be powered by a small wind turbine, possibly combined with a photovoltaic system, that charges a small battery replacing the need for a connection to the power grid. [107] Airborne wind turbines , such as kites, can be used in places at risk of hurricanes, as they can be taken down in advance. [108]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Quietrevolution_Bristol_3513051949.jpg/220px-Quietrevolution_Bristol_3513051949.jpg",
+                "caption": "A small Quietrevolution QR5 Gorlov type vertical axis wind turbine on the roof of Bristol Beacon in Bristol, England . Measuring 3 m in diameter and 5 m high, it has a nameplate rating of 6.5 kW."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Impact on environment and landscape",
+        "text": "The environmental impact of electricity generation from wind power is minor when compared to that of fossil fuel power . [110] Wind turbines have some of the lowest life-cycle greenhouse-gas emissions of energy sources : far less greenhouse gas is emitted than for the average unit of electricity, so wind power helps limit climate change. [111] Use of engineered wood may allow carbon negative wind power. [112] Wind power consumes no fuel, and emits no local air pollution , unlike fossil fuel power sources. Onshore wind farms can have a significant visual impact. [113] Due to a very low surface power density and spacing requirements, wind farms typically need to be spread over more land than other power stations. [7] [114] Their network of turbines, access roads, transmission lines, and substations can result in \"energy sprawl\"; [8] although land between the turbines and roads can still be used for agriculture. [115] [116] Some wind farms are opposed for potentially spoiling protected scenic areas, archaeological landscapes and heritage sites. [117] [118] [119] A report by the Mountaineering Council of Scotland concluded that wind farms harmed tourism in areas known for natural landscapes and panoramic views. [120] Habitat loss and fragmentation are the greatest potential impacts on wildlife of onshore wind farms, [8] but the worldwide ecological impact is minimal. [110] Thousands of birds and bats, including rare species, have been killed by wind turbine blades, [121] though wind turbines are responsible for far fewer bird deaths than fossil-fueled power stations. [122] This can be mitigated with proper wildlife monitoring. [123] Many wind turbine blades are made of fiberglass , and have a lifetime of 20 years. [124] Blades are hollow: some blades are crushed to reduce their volume and then landfilled. [125] However, as they can take a lot of weight they can be made into long lasting small bridges for walkers or cyclists. [126] Blade end-of-life is complicated, [127] and blades manufactured in the 2020s are more likely to be designed to be completely recyclable. [128] Wind turbines also generate noise. At a distance of 300 metres (980 ft), this may be around 45 dB, which is slightly louder than a refrigerator. At 1.5 km (1 mi), they become inaudible. [129] [130] There are anecdotal reports of negative health effects on people who live very close to wind turbines. [131] Peer-reviewed research has generally not supported these claims. [132] [133] [134]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Greenhouse_gas_emissions_per_energy_source.png/220px-Greenhouse_gas_emissions_per_energy_source.png",
+                "caption": "Greenhouse gas emissions per energy source. Wind energy is one of the sources with the least greenhouse gas emissions."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Wb_deichh_drei_kuhs.jpg/220px-Wb_deichh_drei_kuhs.jpg",
+                "caption": "Livestock grazing near a wind turbine. [109]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Central government",
+        "text": "Although wind turbines with fixed bases are a mature technology and new installations are generally no longer subsidized, [135] [136] floating wind turbines are a relatively new technology so some governments subsidize them, for example to use deeper waters. [137] Fossil fuel subsidies by some governments are slowing the growth of renewables. [138] Permitting of wind farms can take years and some governments are trying to speed up - the wind industry says this will help limit climate change and increase energy security [139] - sometimes groups such as fishers resist this [140] but governments say that rules protecting biodiversity will still be followed. [141]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Floatgen.jpg/220px-Floatgen.jpg",
+                "caption": "Wind turbine floating off France"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Public opinion",
+        "text": "Surveys of public attitudes across Europe and in many other countries show strong public support for wind power. [143] [144] [145] Bakker et al. (2012) found in their study that residents who did not want turbines built near them suffered significantly more stress than those who \"benefited economically from wind turbines\". [146] Although wind power is a popular form of energy generation, onshore or near offshore wind farms are sometimes opposed for their impact on the landscape (especially scenic areas, heritage areas and archaeological landscapes), as well as noise, and impact on tourism. [147] [148] In other cases, there is direct community ownership of wind farms . The hundreds of thousands of people who have become involved in Germany's small and medium-sized wind farms demonstrate such support there. [149] A 2010 Harris Poll found strong support for wind power in Germany, other European countries, and the United States. [143] [144] [150] Public support in the United States has decreased from 75% in 2020 to 62% in 2021, with the Democrat Party supporting the use of wind energy twice as much as the Republican Party. [151] President Biden has signed an executive order to begin building large scale wind farms. [152] In China , Shen et al. (2019) found that Chinese city-dwellers may be resistant to building wind turbines in urban areas, with a surprisingly high proportion of people citing an unfounded fear of radiation as driving their concerns. [153] Also, the study finds that like their counterparts in OECD countries, urban Chinese respondents are sensitive to direct costs and wildlife externalities. Distributing relevant information about turbines to the public may alleviate resistance.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg/220px-202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg.png",
+                "caption": "Acceptance of wind and solar facilities in one's community is stronger among U.S. Democrats (blue), while acceptance of nuclear power plants is stronger among U.S. Republicans (red). [142]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Community",
+        "text": "Many wind power companies work with local communities to reduce environmental and other concerns associated with particular wind farms. [156] [157] [158] In other cases there is direct community ownership of wind farm projects . Appropriate government consultation, planning and approval procedures also help to minimize environmental risks. [143] [159] [160] Some may still object to wind farms [161] but many say their concerns should be weighed against the need to address the threats posed by air pollution , [162] [111] climate change [163] and the opinions of the broader community. [164] In the US, wind power projects are reported to boost local tax bases, helping to pay for schools, roads, and hospitals, and to revitalize the economies of rural communities by providing steady income to farmers and other landowners. [98] In the UK, both the National Trust and the Campaign to Protect Rural England have expressed concerns about the effects on the rural landscape caused by inappropriately sited wind turbines and wind farms. [165] [166] Some wind farms have become tourist attractions. The Whitelee Wind Farm Visitor Centre has an exhibition room, a learning hub, a café with a viewing deck and also a shop. It is run by the Glasgow Science Centre . [167] In Denmark, a loss-of-value scheme gives people the right to claim compensation for loss of value of their property if it is caused by proximity to a wind turbine. The loss must be at least 1% of the property's value. [168] Despite this general support for the concept of wind power in the public at large, local opposition often exists and has delayed or aborted a number of projects. [169] [170] [171] As well as concerns about the landscape, there are concerns that some installations can produce excessive sound and vibration levels leading to a decrease in property values. [172] A study of 50,000 home sales near wind turbines found no statistical evidence that prices were affected. [173] While aesthetic issues are subjective and some find wind farms pleasant and optimistic, or symbols of energy independence and local prosperity, protest groups are often formed to attempt to block some wind power stations for various reasons. [161] [174] [175] Some opposition to wind farms is dismissed as NIMBYism , [176] but research carried out in 2009 found that there is little evidence to support the belief that residents only object to wind farms because of a \"Not in my Back Yard\" attitude. [177]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wind_tubines_cumbria.JPG/450px-Wind_tubines_cumbria.JPG",
+                "caption": "Wind turbines such as these, in Cumbria , England, have been opposed for a number of reasons, including aesthetics, by some sectors of the population. [154] [155]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Whitelee_panorama.JPG/450px-Whitelee_panorama.JPG",
+                "caption": "A panoramic view of the United Kingdom's Whitelee Wind Farm with Lochgoin Reservoir in the foreground."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Pumped hydro",
+        "text": "Worldwide, pumped-storage hydroelectricity (PSH) is the largest-capacity form of active grid energy storage available, and, as of March 2012, the Electric Power Research Institute (EPRI) reports that PSH accounts for more than 99% of bulk storage capacity worldwide, representing around 127,000 MW . [6] PSH energy efficiency varies in practice between 70% and 80%, [6] [7] [8] [9] with claims of up to 87%. [10] At times of low electrical demand, excess generation capacity is used to pump water from a lower source into a higher reservoir. When demand grows, water is released back into a lower reservoir (or waterway or body of water) through a turbine , generating electricity. Reversible turbine-generator assemblies act as both a pump and turbine (usually a Francis turbine design). Nearly all facilities use the height difference between two water bodies. Pure pumped-storage plants shift the water between reservoirs, while the \"pump-back\" approach is a combination of pumped storage and conventional hydroelectric plants that use natural stream-flow.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adam_Beck_Complex.jpg/300px-Adam_Beck_Complex.jpg",
+                "caption": "The Sir Adam Beck Generating Complex at Niagara Falls, Canada , which includes a large pumped storage hydroelectricity reservoir to provide an extra 174 MW of electricity during periods of peak demand."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Compressed air",
+        "text": "Compressed-air energy storage (CAES) uses surplus energy to compress air for subsequent electricity generation. [11] Small-scale systems have long been used in such applications as propulsion of mine locomotives. The compressed air is stored in an underground reservoir , such as a salt dome . Compressed-air energy storage (CAES) plants can bridge the gap between production volatility and load. CAES storage addresses the energy needs of consumers by effectively providing readily available energy to meet demand. Renewable energy sources like wind and solar energy vary. So at times when they provide little power, they need to be supplemented with other forms of energy to meet energy demand. Compressed-air energy storage plants can take in the surplus energy output of renewable energy sources during times of energy over-production. This stored energy can be used at a later time when demand for electricity increases or energy resource availability decreases. [12] Compression of air creates heat; the air is warmer after compression. Expansion requires heat. If no extra heat is added, the air will be much colder after expansion. If the heat generated during compression can be stored and used during expansion, efficiency improves considerably. [13] A CAES system can deal with the heat in three ways. Air storage can be adiabatic , diabatic , or isothermal . Another approach uses compressed air to power vehicles. [14] [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Compressed_Air_Loco.jpg/300px-Compressed_Air_Loco.jpg",
+                "caption": "A compressed air locomotive used inside a mine between 1928 and 1961."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Flywheel",
+        "text": "Flywheel energy storage (FES) works by accelerating a rotor (a flywheel ) to a very high speed, holding energy as rotational energy . When energy is added the rotational speed of the flywheel increases, and when energy is extracted, the speed declines, due to conservation of energy . Most FES systems use electricity to accelerate and decelerate the flywheel, but devices that directly use mechanical energy are under consideration. [16] FES systems have rotors made of high strength carbon-fiber composites, suspended by magnetic bearings and spinning at speeds from 20,000 to over 50,000 revolutions per minute (rpm) in a vacuum enclosure. [17] Such flywheels can reach maximum speed (\"charge\") in a matter of minutes. The flywheel system is connected to a combination electric motor / generator . FES systems have relatively long lifetimes (lasting decades with little or no maintenance; [17] full-cycle lifetimes quoted for flywheels range from in excess of 10 5 , up to 10 7 , cycles of use), [18] high specific energy (100–130 W·h/kg, or 360–500 kJ/kg) [18] [19] and power density .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Example_of_cylindrical_flywheel_rotor_assembly.png/220px-Example_of_cylindrical_flywheel_rotor_assembly.png",
+                "caption": "The main components of a typical flywheel."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg/220px-Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg",
+                "caption": "A Flybrid Kinetic Energy Recovery System flywheel . Built for use on Formula 1 racing cars , it is employed to recover and reuse kinetic energy captured during braking."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Solid mass gravitational ",
+        "text": "Changing the altitude of solid masses can store or release energy via an elevating system driven by an electric motor/generator. Studies suggest energy can begin to be released with as little as 1 second warning, making  the method a useful supplemental feed into an electricity grid to balance load surges. [20] Efficiencies can be as high as 85% recovery of stored energy. [21] This can be achieved by siting the masses inside old vertical  mine shafts or in specially constructed towers where the heavy weights are winched up to store energy and allowed a controlled descent to release it. At 2020 a prototype vertical store is being built in Edinburgh, Scotland [22] Potential energy storage or gravity energy storage was under active development in 2013 in association with the California Independent System Operator . [23] [24] [25] It examined the movement of earth-filled hopper rail cars driven by electric locomotives from lower to higher elevations. [26] Other proposed methods include:-",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fernw%C3%A4rmespeicher_Theiss.jpg/220px-Fernw%C3%A4rmespeicher_Theiss.jpg",
+                "caption": "District heating accumulation tower from Theiss near Krems an der Donau in Lower Austria with a thermal capacity of 2 GWh"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Rechargeable battery",
+        "text": "A rechargeable battery comprises one or more electrochemical cells . It is known as a 'secondary cell' because its electrochemical reactions are electrically reversible. Rechargeable batteries come in many shapes and sizes, ranging from button cells to megawatt grid systems. Rechargeable batteries have lower total cost of use and environmental impact than non-rechargeable (disposable) batteries. Some rechargeable battery types are available in the same form factors as disposables. Rechargeable batteries have higher initial cost but can be recharged very cheaply and used many times. Common rechargeable battery chemistries include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Datacenter_Backup_Batteries.jpg/220px-Datacenter_Backup_Batteries.jpg",
+                "caption": "A rechargeable battery bank used as an uninterruptible power supply in a data center"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Supercapacitor",
+        "text": "Supercapacitors , also called electric double-layer capacitors (EDLC) or ultracapacitors, are a family of electrochemical capacitors [47] that do not have conventional solid dielectrics . Capacitance is determined by two storage principles, double-layer capacitance and pseudocapacitance . [48] [49] Supercapacitors bridge the gap between conventional capacitors and rechargeable batteries . They store the most energy per unit volume or mass ( energy density ) among capacitors. They support up to 10,000 farads /1.2 Volt, [50] up to 10,000 times that of electrolytic capacitors , but deliver or accept less than half as much power per unit time ( power density ). [47] While supercapacitors have specific energy and energy densities that are approximately 10% of batteries, their power density is generally 10 to 100 times greater. This results in much shorter charge/discharge cycles. Also, they tolerate many more charge-discharge cycles than batteries. Supercapacitors have many applications, including:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Expo_2010_Electric_Bus.jpg/220px-Expo_2010_Electric_Bus.jpg",
+                "caption": "One of a fleet of electric capabuses powered by supercapacitors, at a quick-charge station-bus stop, in service during Expo 2010 Shanghai China . Charging rails can be seen suspended over the bus."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Power-to-gas",
+        "text": "Power-to-gas is the conversion of electricity to a gaseous fuel such as hydrogen or methane . The three commercial methods use electricity to reduce water into hydrogen and oxygen by means of electrolysis . In the first method, hydrogen is injected into the natural gas grid or is used for transportation. The second method is to combine the hydrogen with carbon dioxide to produce methane using a methanation reaction such as the Sabatier reaction , or biological methanation, resulting in an extra energy conversion loss of 8%. The methane may then be fed into the natural gas grid. The third method uses the output gas of a wood gas generator or a biogas plant, after the biogas upgrader is mixed with the hydrogen from the electrolyzer, to upgrade the quality of the biogas.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/World%E2%80%99s_1st_Low-Emission_Hybrid_Battery_Storage%2C_Gas_Turbine_Peaker_System.jpg/220px-World%E2%80%99s_1st_Low-Emission_Hybrid_Battery_Storage%2C_Gas_Turbine_Peaker_System.jpg",
+                "caption": "The new technology helps reduce greenhouse gases and operating costs at two existing peaker plants in Norwalk and Rancho Cucamonga . The 10-megawatt battery storage system, combined with the gas turbine, allows the peaker plant to more quickly respond to changing energy needs, thus increasing the reliability of the electrical grid."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Capacitor",
+        "text": "A capacitor (originally known as a 'condenser') is a passive two-terminal electrical component used to store energy electrostatically . Practical capacitors vary widely, but all contain at least two electrical conductors (plates) separated by a dielectric (i.e., insulator ). A capacitor can store electric energy when disconnected from its charging circuit, so it can be used like a temporary battery , or like other types of rechargeable energy storage system . [72] Capacitors are commonly used in electronic devices to maintain power supply while batteries change. (This prevents loss of information in volatile memory.) Conventional capacitors provide less than 360 joules per kilogram, while a conventional alkaline battery has a density of 590 kJ/kg. Capacitors store energy in an electrostatic field between their plates. Given a potential difference across the conductors (e.g., when a capacitor is attached across a battery), an electric field develops across the dielectric, causing positive charge (+Q) to collect on one plate and negative charge (-Q) to collect on the other plate. If a battery is attached to a capacitor for a sufficient amount of time, no current can flow through the capacitor. However, if an accelerating or alternating voltage is applied across the leads of the capacitor, a displacement current can flow. Besides capacitor plates, charge can also be stored in a dielectric layer. [73] Capacitance is greater given a narrower separation between conductors and when the conductors have a larger surface area. In practice, the dielectric between the plates emits a small amount of leakage current and has an electric field strength limit, known as the breakdown voltage . However, the effect of recovery of a dielectric after a high-voltage breakdown holds promise for a new generation of self-healing capacitors. [74] [75] The conductors and leads introduce undesired inductance and resistance . Research is assessing the quantum effects of nanoscale capacitors [76] for digital quantum batteries. [77] [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_%40_5000_VDC.jpg/175px-Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_%40_5000_VDC.jpg",
+                "caption": "This mylar-film, oil-filled capacitor has very low inductance and low resistance, to provide the high-power (70 megawatts) and the very high speed (1.2 microsecond) discharges needed to operate a dye laser ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    },
+    {
+        "section": "Renewable energy",
+        "text": "The largest source and the greatest store of renewable energy is provided by hydroelectric dams. A large reservoir behind a dam can store enough water to average the annual flow of a river between dry and wet seasons, and a very large reservoir can store enough water to average the flow of a river between dry and wet years. While a hydroelectric dam does not directly store energy from intermittent sources, it does balance the grid by lowering its output and retaining its water when power is generated by solar or wind. If wind or solar generation exceeds the region's hydroelectric capacity, then some additional source of energy is needed. Many renewable energy sources (notably solar and wind) produce variable power . [96] Storage systems can level out the imbalances between supply and demand that this causes. Electricity must be used as it is generated or converted immediately into storable forms. [97] The main method of electrical grid storage is pumped-storage hydroelectricity . Areas of the world such as Norway, Wales, Japan and the US have used elevated geographic features for reservoirs , using electrically powered pumps to fill them. When needed, the water passes through generators and converts the gravitational potential of the falling water into electricity. [96] Pumped storage in Norway, which gets almost all its electricity from hydro, has currently a capacity of 1.4 GW but since the total installed capacity is nearly 32 GW and 75% of that is regulable, it can be expanded significantly. [98] Some forms of storage that produce electricity include pumped-storage hydroelectric dams , rechargeable batteries , thermal storage including molten salts which can efficiently store and release very large quantities of heat energy, [99] and compressed air energy storage , flywheels , cryogenic systems and superconducting magnetic coils . Surplus power can also be converted into methane ( sabatier process ) with stockage in the natural gas network. [100] [101] In 2011, the Bonneville Power Administration in the northwestern United States created an experimental program to absorb excess wind and hydro power generated at night or during stormy periods that are accompanied by high winds. Under central control, home appliances absorb surplus energy by heating ceramic bricks in special space heaters to hundreds of degrees and by boosting the temperature of modified hot water heater tanks . After charging, the appliances provide home heating and hot water as needed. The experimental system was created as a result of a severe 2010 storm that overproduced renewable energy to the extent that all conventional power sources were shut down, or in the case of a nuclear power plant, reduced to its lowest possible operating level, leaving a large area running almost completely on renewable energy. [102] [103] Another advanced method used at the former Solar Two project in the United States and the Solar Tres Power Tower in Spain uses molten salt to store thermal energy captured from the sun and then convert it and dispatch it as electrical power. The system pumps molten salt through a tower or other special conduits to be heated by the sun. Insulated tanks store the solution. Electricity is produced by turning water to steam that is fed to turbines . Since the early 21st century batteries have been applied to utility scale load-leveling and frequency regulation capabilities. [96] In vehicle-to-grid storage, electric vehicles that are plugged into the energy grid can deliver stored electrical energy from their batteries into the grid when needed.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Abengoa_Solar_%287336087392%29.jpg/220px-Abengoa_Solar_%287336087392%29.jpg",
+                "caption": "Construction of the Salt Tanks which provide efficient thermal energy storage [92] so that electricity can be generated after the sun goes down, and output can be scheduled to meet demand. [93] The 280 MW Solana Generating Station is designed to provide six hours of storage. This allows the plant to generate about 38% of its rated capacity over the course of a year. [94]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Andasol_3.jpg/220px-Andasol_3.jpg",
+                "caption": "The 150 MW Andasol solar power station in Spain is a parabolic trough solar thermal power plant that stores energy in tanks of molten salt so that it can continue generating electricity when the sun is not shining. [95]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Wind Energy",
+        "topic": "Hybrid systems (wind-solar-storage)"
+    }
+]

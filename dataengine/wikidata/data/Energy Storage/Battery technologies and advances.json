@@ -1,0 +1,831 @@
+[
+    {
+        "section": "Chemistry and principles",
+        "text": "Batteries convert chemical energy directly to electrical energy . In many cases, the electrical energy released is the difference in the cohesive [17] or bond energies of the metals, oxides, or molecules undergoing the electrochemical reaction. For instance, energy can be stored in Zn or Li, which are high-energy metals because they are not stabilized by d-electron bonding, unlike transition metals . Batteries are designed so that the energetically favorable redox reaction can occur only when electrons move through the external part of the circuit. A battery consists of some number of voltaic cells . Each cell consists of two half-cells connected in series by a conductive electrolyte containing metal cations . One half-cell includes electrolyte and the negative electrode, the electrode to which anions (negatively charged ions) migrate; the other half-cell includes electrolyte and the positive electrode, to which cations (positively charged ions ) migrate. Cations are reduced (electrons are added) at the cathode, while metal atoms are oxidized (electrons are removed) at the anode. [18] Some cells use different electrolytes for each half-cell; then a separator is used to prevent mixing of the electrolytes while allowing ions to flow between half-cells to complete the electrical circuit. Each half-cell has an electromotive force ( emf , measured in volts) relative to a standard . The net emf of the cell is the difference between the emfs of its half-cells. [19] Thus, if the electrodes have emfs E 1 {\\displaystyle {\\mathcal {E}}_{1}} and E 2 {\\displaystyle {\\mathcal {E}}_{2}} , then the net emf is E 2 − E 1 {\\displaystyle {\\mathcal {E}}_{2}-{\\mathcal {E}}_{1}} ; in other words, the net emf is the difference between the reduction potentials of the half-reactions . [20] The electrical driving force or Δ V b a t {\\displaystyle \\displaystyle {\\Delta V_{bat}}} across the terminals of a cell is known as the terminal voltage (difference) and is measured in volts . [21] The terminal voltage of a cell that is neither charging nor discharging is called the open-circuit voltage and equals the emf of the cell. Because of internal resistance, [22] the terminal voltage of a cell that is discharging is smaller in magnitude than the open-circuit voltage and the terminal voltage of a cell that is charging exceeds the open-circuit voltage. [23] An ideal cell has negligible internal resistance, so it would maintain a constant terminal voltage of E {\\displaystyle {\\mathcal {E}}} until exhausted, then dropping to zero. If such a cell maintained 1.5 volts and produce a charge of one coulomb then on complete discharge it would have performed 1.5 joules of work. [21] In actual cells, the internal resistance increases under discharge [22] and the open-circuit voltage also decreases under discharge. If the voltage and resistance are plotted against time, the resulting graphs typically are a curve; the shape of the curve varies according to the chemistry and internal arrangement employed. The voltage developed across a cell's terminals depends on the energy release of the chemical reactions of its electrodes and electrolyte. Alkaline and zinc–carbon cells have different chemistries, but approximately the same emf of 1.5 volts; likewise NiCd and NiMH cells have different chemistries, but approximately the same emf of 1.2 volts. [24] The high electrochemical potential changes in the reactions of lithium compounds give lithium cells emfs of 3 volts or more. [25] Almost any liquid or moist object that has enough ions to be electrically conductive can serve as the electrolyte for a cell. As a novelty or science demonstration, it is possible to insert two electrodes made of different metals into a lemon , [26] potato, [27] etc. and generate small amounts of electricity. A voltaic pile can be made from two coins (such as a nickel and a penny ) and a piece of paper towel dipped in salt water . Such a pile generates a very low voltage but, when many are stacked in series , they can replace normal batteries for a short time. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ElectrochemCell.png/220px-ElectrochemCell.png",
+                "caption": "A voltaic cell for demonstration purposes. In this example the two half-cells are linked by a salt bridge that permits the transfer of ions."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electric_battery",
+        "title": "Electric battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Primary and secondary batteries",
+        "text": "Batteries are classified into primary and secondary forms: Some types of primary batteries used, for example, for telegraph circuits, were restored to operation by replacing the electrodes. [31] Secondary batteries are not indefinitely rechargeable due to dissipation of the active materials, loss of electrolyte and internal corrosion. Primary batteries, or primary cells , can produce current immediately on assembly. These are most commonly used in portable devices that have low current drain, are used only intermittently, or are used well away from an alternative power source, such as in alarm and communication circuits where other electric power is only intermittently available. Disposable primary cells cannot be reliably recharged, since the chemical reactions are not easily reversible and active materials may not return to their original forms. Battery manufacturers recommend against attempting to recharge primary cells. [32] In general, these have higher energy densities than rechargeable batteries, [33] but disposable batteries do not fare well under high-drain applications with loads under 75 ohms (75 Ω). Common types of disposable batteries include zinc–carbon batteries and alkaline batteries . Secondary batteries, also known as secondary cells , or rechargeable batteries , must be charged before first use; they are usually assembled with active materials in the discharged state. Rechargeable batteries are (re)charged by applying electric current, which reverses the chemical reactions that occur during discharge/use. Devices to supply the appropriate current are called chargers. The oldest form of rechargeable battery is the lead–acid battery , which are widely used in automotive and boating applications. This technology contains liquid electrolyte in an unsealed container, requiring that the battery be kept upright and the area be well ventilated to ensure safe dispersal of the hydrogen gas it produces during overcharging . The lead–acid battery is relatively heavy for the amount of electrical energy it can supply. Its low manufacturing cost and its high surge current levels make it common where its capacity (over approximately 10 Ah) is more important than weight and handling issues. A common application is the modern car battery , which can, in general, deliver a peak current of 450 amperes .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Batteries_comparison_4%2C5_D_C_AA_AAA_AAAA_A23_9V_CR2032_LR44_matchstick-vertical.jpeg/170px-Batteries_comparison_4%2C5_D_C_AA_AAA_AAAA_A23_9V_CR2032_LR44_matchstick-vertical.jpeg",
+                "caption": "From top to bottom: a large 4.5-volt 3R12 battery, a D Cell , a C cell , an AA cell , an AAA cell , an AAAA cell , an A23 battery , a 9-volt PP3 battery , and a pair of button cells (CR2032 and LR44)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electric_battery",
+        "title": "Electric battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Composition",
+        "text": "Many types of electrochemical cells have been produced, with varying chemical processes and designs, including galvanic cells , electrolytic cells , fuel cells , flow cells and voltaic piles. [34] A wet cell battery has a liquid electrolyte . Other names are flooded cell , since the liquid covers all internal parts or vented cell , since gases produced during operation can escape to the air. Wet cells were a precursor to dry cells and are commonly used as a learning tool for electrochemistry . They can be built with common laboratory supplies, such as beakers , for demonstrations of how electrochemical cells work. A particular type of wet cell known as a concentration cell is important in understanding corrosion . Wet cells may be primary cells (non-rechargeable) or secondary cells (rechargeable). Originally, all practical primary batteries such as the Daniell cell were built as open-top glass jar wet cells. Other primary wet cells are the Leclanche cell , Grove cell , Bunsen cell , Chromic acid cell , Clark cell , and Weston cell . The Leclanche cell chemistry was adapted to the first dry cells. Wet cells are still used in automobile batteries and in industry for standby power for switchgear , telecommunication or large uninterruptible power supplies , but in many places batteries with gel cells have been used instead. These applications commonly use lead–acid or nickel–cadmium cells. Molten salt batteries are primary or secondary batteries that use a molten salt as electrolyte. They operate at high temperatures and must be well insulated to retain heat. A dry cell uses a paste electrolyte, with only enough moisture to allow current to flow. Unlike a wet cell, a dry cell can operate in any orientation without spilling, as it contains no free liquid, making it suitable for portable equipment. By comparison, the first wet cells were typically fragile glass containers with lead rods hanging from the open top and needed careful handling to avoid spillage. Lead–acid batteries did not achieve the safety and portability of the dry cell until the development of the gel battery . A common dry cell is the zinc–carbon battery , sometimes called the dry Leclanché cell , with a nominal voltage of 1.5 volts , the same as the alkaline battery (since both use the same zinc – manganese dioxide combination). A standard dry cell comprises a zinc anode, usually in the form of a cylindrical pot, with a carbon cathode in the form of a central rod. The electrolyte is ammonium chloride in the form of a paste next to the zinc anode. The remaining space between the electrolyte and carbon cathode is taken up by a second paste consisting of ammonium chloride and manganese dioxide, the latter acting as a depolariser . In some designs, the ammonium chloride is replaced by zinc chloride . A reserve battery can be stored unassembled (unactivated and supplying no power) for a long period (perhaps years).  When the battery is needed, then it is assembled (e.g., by adding electrolyte); once assembled, the battery is charged and ready to work.  For example, a battery for an electronic artillery fuze might be activated by the impact of firing a gun. The acceleration breaks a capsule of electrolyte that activates the battery and powers the fuze's circuits. Reserve batteries are usually designed for a short service life (seconds or minutes) after long storage (years). A water-activated battery for oceanographic instruments or military applications becomes activated on immersion in water. On 28 February 2017, the University of Texas at Austin issued a press release about a new type of solid-state battery , developed by a team led by lithium-ion battery inventor John Goodenough , \"that could lead to safer, faster-charging, longer-lasting rechargeable batteries for handheld mobile devices, electric cars and stationary energy storage\". [35] The solid-state battery is also said to have \"three times the energy density\", increasing its useful life in electric vehicles, for example. It should also be more ecologically sound since the technology uses less expensive, earth-friendly materials such as sodium extracted from seawater. They also have much longer life. [36] Sony has developed a biological battery that generates electricity from sugar in a way that is similar to the processes observed in living organisms. The battery generates electricity through the use of enzymes that break down carbohydrates. [37] The sealed valve regulated lead–acid battery (VRLA battery) is popular in the automotive industry as a replacement for the lead–acid wet cell. The VRLA battery uses an immobilized sulfuric acid electrolyte, reducing the chance of leakage and extending shelf life . [38] VRLA batteries immobilize the electrolyte. The two types are: Other portable rechargeable batteries include several sealed \"dry cell\" types, that are useful in applications such as mobile phones and laptop computers . Cells of this type (in order of increasing power density and cost) include nickel–cadmium (NiCd), nickel–zinc (NiZn), nickel metal hydride (NiMH), and lithium-ion (Li-ion) cells. Li-ion has by far the highest share of the dry cell rechargeable market. NiMH has replaced NiCd in most applications due to its higher capacity, but NiCd remains in use in power tools , two-way radios , and medical equipment . In the 2000s, developments include batteries with embedded electronics such as USBCELL , which allows charging an AA battery through a USB connector, nanoball batteries that allow for a discharge rate about 100x greater than current batteries,  and smart battery packs with state-of-charge monitors and battery protection circuits that prevent damage on over-discharge. Low self-discharge (LSD) allows secondary cells to be charged prior to shipping. Lithium–sulfur batteries were used on the longest and highest solar-powered flight. [39]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dry_cell_%28PSF%29.png/170px-Dry_cell_%28PSF%29.png",
+                "caption": "Line art drawing of a dry cell: 1. brass cap, 2. plastic seal, 3. expansion space, 4. porous cardboard, 5. zinc can, 6. carbon rod, 7. chemical mixture"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electric_battery",
+        "title": "Electric battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Performance, capacity and discharge",
+        "text": "A battery's characteristics may vary over load cycle, over charge cycle , and over lifetime due to many factors including internal chemistry, current drain, and temperature. At low temperatures, a battery cannot deliver as much power. As such, in cold climates, some car owners install battery warmers, which are small electric heating pads that keep the car battery warm. A battery's capacity is the amount of electric charge it can deliver at the rated voltage. The more electrode material contained in the cell the greater its capacity. A small cell has less capacity than a larger cell with the same chemistry, although they develop the same open-circuit voltage. [49] Capacity is measured in units such as amp-hour (A·h). The rated capacity of a battery is usually expressed as the product of 20 hours multiplied by the current that a new battery can consistently supply for 20 hours at 20 °C (68 °F), while remaining above a specified terminal voltage per cell. For example, a battery rated at 100 A·h can deliver 5 A over a 20-hour period at room temperature . The fraction of the stored charge that a battery can deliver depends on multiple factors, including battery chemistry, the rate at which the charge is delivered (current), the required terminal voltage, the storage period, ambient temperature and other factors. [49] The higher the discharge rate, the lower the capacity. [50] The relationship between current, discharge time and capacity for a lead acid battery is approximated (over a typical range of current values) by Peukert's law : where Batteries that are stored for a long period or that are discharged at a small fraction of the capacity lose capacity due to the presence of generally irreversible side reactions that consume charge carriers without producing current. This phenomenon is known as internal self-discharge. Further, when batteries are recharged, additional side reactions can occur, reducing capacity for subsequent discharges. After enough recharges, in essence all capacity is lost and the battery stops producing power. Internal energy losses and limitations on the rate that ions pass through the electrolyte cause battery efficiency to vary. Above a minimum threshold, discharging at a low rate delivers more of the battery's capacity than at a higher rate. Installing batteries with varying A·h ratings does not affect device operation (although it may affect the operation interval) rated for a specific voltage unless load limits are exceeded. High-drain loads such as digital cameras can reduce total capacity, as happens with alkaline batteries. For example, a battery rated at 2 A·h for a 10- or 20-hour discharge would not sustain a current of 1 A for a full two hours as its stated capacity implies. The C-rate is a measure of the rate at which a battery is being charged or discharged. It is defined as the current through the battery divided by the theoretical current draw under which the battery would deliver its nominal rated capacity in one hour. [51] It has the units h −1 . Because of internal resistance loss and the chemical processes inside the cells, a battery rarely delivers nameplate rated capacity in only one hour. Typically, maximum capacity is found at a low C-rate, and charging or discharging at a higher C-rate reduces the usable life and capacity of a battery. Manufacturers often publish datasheets with graphs showing capacity versus C-rate curves. C-rate is also used as a rating on batteries to indicate the maximum current that a battery can safely deliver in a circuit. Standards for rechargeable batteries generally rate the capacity and charge cycles over a 4-hour (0.25C), 8 hour (0.125C) or longer discharge time. Types intended for special purposes, such as in a computer uninterruptible power supply , may be rated by manufacturers for discharge periods much less than one hour (1C) but may suffer from limited cycle life. As of 2012 [update] , lithium iron phosphate ( LiFePO 4 ) battery technology was the fastest-charging/discharging, fully discharging in 10–20 seconds. [52]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Battery_checker.jpg/170px-Battery_checker.jpg",
+                "caption": "A device to check battery voltage"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electric_battery",
+        "title": "Electric battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Lifespan",
+        "text": "Battery life (and its synonym battery lifetime) has two meanings for rechargeable batteries but only one for non-chargeables. For rechargeables, it can mean either the length of time a device can run on a fully charged battery or the number of charge/discharge cycles possible before the cells fail to operate satisfactorily. For a non-rechargeable these two lives are equal since the cells last for only one cycle by definition. The term shelf life is used to describe how long a battery will retain its performance between manufacture and use. Available capacity of all batteries drops with decreasing temperature. In contrast to most of today's batteries, the Zamboni pile , invented in 1812, offers a very long service life without refurbishment or recharge, although it supplies current only in the nanoamp range. The Oxford Electric Bell has been ringing almost continuously since 1840 on its original pair of batteries, thought to be Zamboni piles. [ citation needed ] Disposable batteries typically lose 8–20% of their original charge per year when stored at room temperature (20–30 °C). [53] This is known as the \"self-discharge\" rate, and is due to non-current-producing \"side\" chemical reactions that occur within the cell even when no load is applied. The rate of side reactions is reduced for batteries stored at lower temperatures, although some can be damaged by freezing. Old rechargeable batteries self-discharge more rapidly than disposable alkaline batteries, especially nickel-based batteries; a freshly charged nickel cadmium (NiCd) battery loses 10% of its charge in the first 24 hours, and thereafter discharges at a rate of about 10% a month. However, newer low self-discharge nickel metal hydride (NiMH) batteries and modern lithium designs display a lower self-discharge rate (but still higher than for primary batteries). The active material on the battery plates changes chemical composition on each charge and discharge cycle; active material may be lost due to physical changes of volume, further limiting the number of times the battery can be recharged. Most nickel-based batteries are partially discharged when purchased, and must be charged before first use. [54] Newer NiMH batteries are ready to be used when purchased, and have only 15% discharge in a year. [55] Some deterioration occurs on each charge–discharge cycle. Degradation usually occurs because electrolyte migrates away from the electrodes or because active material detaches from the electrodes. Low-capacity NiMH batteries (1,700–2,000 mA·h) can be charged some 1,000 times, whereas high-capacity NiMH batteries (above 2,500 mA·h) last about 500 cycles. [56] NiCd batteries tend to be rated for 1,000 cycles before their internal resistance permanently increases beyond usable values. Fast charging increases component changes, shortening battery lifespan. [56] If a charger cannot detect when the battery is fully charged then overcharging is likely, damaging it. [57] NiCd cells, if used in a particular repetitive manner, may show a decrease in capacity called \" memory effect \". [58] The effect can be avoided with simple practices. NiMH cells, although similar in chemistry, suffer less from memory effect. [59] Automotive lead–acid rechargeable batteries must endure stress due to vibration, shock, and temperature range. Because of these stresses and sulfation of their lead plates, few automotive batteries last beyond six years of regular use. [60] Automotive starting ( SLI : Starting, Lighting, Ignition ) batteries have many thin plates to maximize current. In general, the thicker the plates the longer the life. They are typically discharged only slightly before recharge. \"Deep-cycle\" lead–acid batteries such as those used in electric golf carts have much thicker plates to extend longevity. [61] The main benefit of the lead–acid battery is its low cost; its main drawbacks are large size and weight for a given capacity and voltage. Lead–acid batteries should never be discharged to below 20% of their capacity, [62] because internal resistance will cause heat and damage when they are recharged. Deep-cycle lead–acid systems often use a low-charge warning light or a low-charge power cut-off switch to prevent the type of damage that will shorten the battery's life. [63] Battery life can be extended by storing the batteries at a low temperature, as in a refrigerator or freezer , which slows the side reactions. Such storage can extend the life of alkaline batteries by about 5%; rechargeable batteries can hold their charge much longer, depending upon type. [64] To reach their maximum voltage, batteries must be returned to room temperature; discharging an alkaline battery at 250 mA at 0 °C is only half as efficient as at 20 °C. [33] Alkaline battery manufacturers such as Duracell do not recommend refrigerating batteries. [32]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2011-04-04_18-35-26_267.jpg/220px-2011-04-04_18-35-26_267.jpg",
+                "caption": "An analog camcorder [lithium ion] battery"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electric_battery",
+        "title": "Electric battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Hazards",
+        "text": "A battery explosion is generally caused by misuse or malfunction, such as attempting to recharge a primary (non-rechargeable) battery, or a short circuit . When a battery is recharged at an excessive rate, an explosive gas mixture of hydrogen and oxygen may be produced faster than it can escape from within the battery (e.g. through a built-in vent), leading to pressure build-up and eventual bursting of the battery case. In extreme cases, battery chemicals may spray violently from the casing and cause injury. An expert summary of the problem indicates that this type uses \"liquid electrolytes to transport lithium ions between the anode and the cathode. If a battery cell is charged too quickly, it can cause a short circuit, leading to explosions and fires\". [65] [66] Car batteries are most likely to explode when a short circuit generates very large currents. Such batteries produce hydrogen , which is very explosive, when they are overcharged (because of electrolysis of the water in the electrolyte). During normal use, the amount of overcharging is usually very small and generates little hydrogen, which dissipates quickly. However, when \"jump starting\" a car, the high current can cause the rapid release of large volumes of hydrogen, which can be ignited explosively by a nearby spark, e.g. when disconnecting a jumper cable . Overcharging (attempting to charge a battery beyond its electrical capacity) can also lead to a battery explosion, in addition to leakage or irreversible damage. It may also cause damage to the charger or device in which the overcharged battery is later used. Disposing of a battery via incineration may cause an explosion as steam builds up within the sealed case. Many battery chemicals are corrosive, poisonous or both. If leakage occurs, either spontaneously or through accident, the chemicals released may be dangerous. For example, disposable batteries often use a zinc \"can\" both as a reactant and as the container to hold the other reagents. If this kind of battery is over-discharged, the reagents can emerge through the cardboard and plastic that form the remainder of the container. The active chemical leakage can then damage or disable the equipment that the batteries power. For this reason, many electronic device manufacturers recommend removing the batteries from devices that will not be used for extended periods of time. Many types of batteries employ toxic materials such as lead, mercury , and cadmium as an electrode or electrolyte. When each battery reaches end of life it must be disposed of to prevent environmental damage. [67] Batteries are one form of electronic waste (e-waste). E-waste recycling services recover toxic substances, which can then be used for new batteries. [68] Of the nearly three billion batteries purchased annually in the United States, about 179,000 tons end up in landfills across the country. [69] Batteries may be harmful or fatal if swallowed . [70] Small button cells can be swallowed, in particular by young children. While in the digestive tract, the battery's electrical discharge may lead to tissue damage; [71] such damage is occasionally serious and can lead to death. Ingested disk batteries do not usually cause problems unless they become lodged in the gastrointestinal tract . The most common place for disk batteries to become lodged is the esophagus, resulting in clinical sequelae . Batteries that successfully traverse the esophagus are unlikely to lodge elsewhere. The likelihood that a disk battery will lodge in the esophagus is a function of the patient's age and battery size. Older children do not have problems with batteries smaller than 21–23 mm. Liquefaction necrosis may occur because sodium hydroxide is generated by the current produced by the battery (usually at the anode). Perforation has occurred as rapidly as 6 hours after ingestion. [72] Some battery manufactures have added a bad taste to batteries to discourage swallowing. [73]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BATTERY_EXPLOSION_IN_TEST_CELL_-_NARA_-_17443202.jpg/220px-BATTERY_EXPLOSION_IN_TEST_CELL_-_NARA_-_17443202.jpg",
+                "caption": "Battery after explosion"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/LeakedBattery_2701a.jpg/220px-LeakedBattery_2701a.jpg",
+                "caption": "Leak -damaged alkaline battery"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electric_battery",
+        "title": "Electric battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Invention",
+        "text": "From the mid 18th century on, before there were batteries, experimenters used Leyden jars to store electrical charge. As an early form of capacitor , Leyden jars, unlike electrochemical cells, stored their charge physically and would release it all at once. Many experimenters took to hooking several Leyden jars together to create a stronger charge and one of them, the colonial American inventor Benjamin Franklin , may have been the first to call his grouping an \"electrical battery\" , a play on the military term for weapons functioning together. [1] [2] Based on some findings by Luigi Galvani , Alessandro Volta , a friend and fellow scientist, believed observed electrical phenomena were caused by two different metals joined by a moist intermediary. He verified this hypothesis through experiments and published the results in 1791. In 1800, Volta invented the first true battery, storing and releasing a charge through a chemical reaction instead of physically, which came to be known as the voltaic pile . The voltaic pile consisted of pairs of copper and zinc discs piled on top of each other, separated by a layer of cloth or cardboard soaked in brine (i.e., the electrolyte ). Unlike the Leyden jar , the voltaic pile produced continuous electricity and stable current, and lost little charge over time when not in use, though his early models could not produce a voltage strong enough to produce sparks. [3] He experimented with various metals and found that zinc and silver gave the best results. Volta believed the current was the result of two different materials simply touching each other – an obsolete scientific theory known as contact tension – and not the result of chemical reactions. As a consequence, he regarded the corrosion of the zinc plates as an unrelated flaw that could perhaps be fixed by changing the materials somehow. However, no scientist ever succeeded in preventing this corrosion. In fact, it was observed that the corrosion was faster when a higher current was drawn. This suggested that the corrosion was actually integral to the battery's ability to produce a current. This, in part, led to the rejection of Volta's contact tension theory in favor of the electrochemical theory. Volta's illustrations of his Crown of Cups and voltaic pile have extra metal disks, now known to be unnecessary, on both the top and bottom. The figure associated with this section, of the zinc-copper voltaic pile, has the modern design, an indication that \"contact tension\" is not the source of electromotive force for the voltaic pile. Volta's original pile models had some technical flaws, one of them involving the electrolyte leaking and causing short-circuits due to the weight of the discs compressing the brine-soaked cloth. A Scotsman named William Cruickshank solved this problem by laying the elements in a box instead of piling them in a stack. This was known as the trough battery . [4] Volta himself invented a variant that consisted of a chain of cups filled with a salt solution, linked together by metallic arcs dipped into the liquid. This was known as the Crown of Cups. These arcs were made of two different metals (e.g., zinc and copper) soldered together. This model also proved to be more efficient than his original piles, [5] though it did not prove as popular. Another problem with Volta's batteries was short battery life (an hour's worth at best), which was caused by two phenomena. The first was that the current produced electrolyzed the electrolyte solution, resulting in a film of hydrogen bubbles forming on the copper , which steadily increased the internal resistance of the battery (this effect, called polarization , is counteracted in modern cells by additional measures). The other was a phenomenon called local action , wherein minute short-circuits would form around impurities in the zinc, causing the zinc to degrade. The latter problem was solved in 1835 by the English inventor William Sturgeon , who found that amalgamated zinc, whose surface had been treated with some mercury , did not suffer from local action. [6] Despite its flaws, Volta's batteries provide a steadier current than Leyden jars, and made possible many new experiments and discoveries, such as the first electrolysis of water by the English surgeon Anthony Carlisle and the English chemist William Nicholson .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Voltaic_pile.svg/220px-Voltaic_pile.svg.png",
+                "caption": "A zinc-copper voltaic pile"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/History_of_the_battery",
+        "title": "History of the battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Daniell cell",
+        "text": "An English professor of chemistry named John Frederic Daniell found a way to solve the hydrogen bubble problem in the Voltaic Pile by using a second electrolyte to consume the hydrogen produced by the first. In 1836, he invented the Daniell cell , which consists of a copper pot filled with a copper sulfate solution, in which is immersed an unglazed earthenware container filled with sulfuric acid and a zinc electrode. The earthenware barrier is porous, which allows ions to pass through but keeps the solutions from mixing. The Daniell cell was a great improvement over the existing technology used in the early days of battery development and was the first practical source of electricity. It provides a longer and more reliable current than the Voltaic cell. It is also safer and less corrosive. It has an operating voltage of roughly 1.1 volts. It soon became the industry standard for use, especially with the new telegraph networks. The Daniell cell was also used as the first working standard for definition of the volt , which is the unit of electromotive force . [7]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Daniel_cell.png",
+                "caption": "Schematic representation of Daniell 's original cell"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/History_of_the_battery",
+        "title": "History of the battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Porous pot cell",
+        "text": "The porous pot version of the Daniell cell was invented by John Dancer , a Liverpool instrument maker, in 1838. It consists of a central zinc anode dipped into a porous earthenware pot containing a zinc sulfate solution. The porous pot is, in turn, immersed in a solution of copper sulfate contained in a copper can, which acts as the cell's cathode . The use of a porous barrier allows ions to pass through but keeps the solutions from mixing.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/%C3%89l%C3%A9ment_Daniell.jpg/200px-%C3%89l%C3%A9ment_Daniell.jpg",
+                "caption": "Porous pot cell"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/History_of_the_battery",
+        "title": "History of the battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Gravity cell",
+        "text": "In the 1860s, a Frenchman named Callaud invented a variant of the Daniell cell called the gravity cell . This simpler version dispensed with the porous barrier. This reduces the internal resistance of the system and, thus, the battery yields a stronger current. It quickly became the battery of choice for the American and British telegraph networks, and was widely used until the 1950s. The gravity cell consists of a glass jar, in which a copper cathode sits on the bottom and a zinc anode is suspended beneath the rim. Copper sulfate crystals are scattered around the cathode and then the jar is filled with distilled water. As the current is drawn, a layer of zinc sulfate solution forms at the top around the anode. This top layer is kept separate from the bottom copper sulfate layer by its lower density and by the polarity of the cell. The zinc sulfate layer is clear in contrast to the deep blue copper sulfate layer, which allows a technician to measure the battery life with a glance. On the other hand, this setup means the battery can be used only in a stationary appliance, or else the solutions mix or spill. Another disadvantage is that a current has to be continually drawn to keep the two solutions from mixing by diffusion, so it is unsuitable for intermittent use.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Gravity_cell.gif/220px-Gravity_cell.gif",
+                "caption": "A 1919 illustration of a gravity cell . This particular variant is also known as a crowfoot cell due to distinctive shape of the electrodes"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/History_of_the_battery",
+        "title": "History of the battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Lead-acid",
+        "text": "Up to this point, all existing batteries would be permanently drained when all their chemical reactants were spent. In 1859, Gaston Planté invented the lead–acid battery , the first-ever battery that could be recharged by passing a reverse current through it. A lead-acid cell consists of a lead anode and a lead dioxide cathode immersed in sulfuric acid. Both electrodes react with the acid to produce lead sulfate , but the reaction at the lead anode releases electrons whilst the reaction at the lead dioxide consumes them, thus producing a current. These chemical reactions can be reversed by passing a reverse current through the battery, thereby recharging it. Planté's first model consisted of two lead sheets separated by rubber strips and rolled into a spiral. [9] His batteries were first used to power the lights in train carriages while stopped at a station. [ citation needed ] In 1881, Camille Alphonse Faure invented an improved version that consists of a lead grid lattice into which is pressed a lead oxide paste, forming a plate. Multiple plates can be stacked for greater performance. This design is easier to mass-produce. Compared to other batteries, Planté's is rather heavy and bulky for the amount of energy it can hold. However, it can produce remarkably large currents in surges, because it has very low internal resistance, meaning that a single battery can be used to power multiple circuits. [6] The lead-acid battery is still used today in automobiles and other applications where weight is not a big factor. The basic principle has not changed since 1859. In the early 1930s, a gel electrolyte (instead of a liquid) produced by adding silica to a charged cell was used in the LT battery of portable vacuum-tube radios . In the 1970s, \"sealed\" versions became common (commonly known as a \" gel cell \" or \" SLA \"), allowing the battery to be used in different positions without failure or leakage. Today cells are classified as \"primary\" if they produce a current only until their chemical reactants are exhausted, and \"secondary\" if the chemical reactions can be reversed by recharging the cell. The lead-acid cell was the first \"secondary\" cell.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Plante_lead_acid_cell.jpg",
+                "caption": "19th-century illustration of Planté's original lead-acid cell"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/History_of_the_battery",
+        "title": "History of the battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Leclanché cell",
+        "text": "In 1866, Georges Leclanché invented a battery that consists of a zinc anode and a manganese dioxide cathode wrapped in a porous material, dipped in a jar of ammonium chloride solution. The manganese dioxide cathode has a little carbon mixed into it as well, which improves conductivity and absorption. [10] It provided a voltage of 1.4 volts. [11] This cell achieved very quick success in telegraphy, signaling, and electric bell work. The dry cell form was used to power early telephones—usually from an adjacent wooden box affixed to fit batteries before telephones could draw power from the telephone line itself. The Leclanché cell can not provide a sustained current for very long. In lengthy conversations, the battery would run down, rendering the conversation inaudible. [12] This is because certain chemical reactions in the cell increase the internal resistance and, thus, lower the voltage.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Leclanche_cell.gif/220px-Leclanche_cell.gif",
+                "caption": "A 1912 illustration of a Leclanché cell"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/History_of_the_battery",
+        "title": "History of the battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Nickel-iron",
+        "text": "Waldemar Jungner patented a nickel–iron battery in 1899, the same year as his Ni-Cad battery patent, but found it to be inferior to its cadmium counterpart and, as a consequence, never bothered developing it. [19] It produced a lot more hydrogen gas when being charged, meaning it could not be sealed, and the charging process was less efficient (it was, however, cheaper). Seeing a way to make a profit in the already competitive lead-acid battery market, Thomas Edison worked in the 1890s on developing an alkaline based battery that he could get a patent on. Edison thought that if he produced a lightweight and durable battery electric cars would become the standard, with his firm as its main battery vendor. After many experiments, and probably borrowing from Jungner's design, he patented an alkaline based nickel–iron battery in 1901. [20] However, customers found his first model of the alkaline nickel–iron battery to be prone to leakage leading to short battery life, and it did not outperform the lead-acid cell by much either. Although Edison was able to produce a more reliable and powerful model seven years later, by this time the inexpensive and reliable Model T Ford had made gasoline engine cars the standard. Nevertheless, Edison's battery achieved great success in other applications such as electric and diesel-electric rail vehicles, providing backup power for railroad crossing signals, or to provide power for the lamps used in mines. [21] [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Thomas_Edison%27s_nickel%E2%80%93iron_batteries.jpg/220px-Thomas_Edison%27s_nickel%E2%80%93iron_batteries.jpg",
+                "caption": "Nickel-iron batteries manufactured between 1972 and 1975 under the \"Exide\" brand, originally developed in 1901 by Thomas Edison."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/AccuEvolution.jpg",
+                "caption": "A set of modern batteries"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/History_of_the_battery",
+        "title": "History of the battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Alkali metal-ion batteries",
+        "text": "Lithium is the alkali metal with lowest density and with the greatest electrochemical potential and energy-to-weight ratio .  The low atomic weight and small size of its ions also speeds its diffusion, likely making it an ideal battery material. [28] Experimentation with lithium batteries began in 1912 under American physical chemist Gilbert N. Lewis , but commercial lithium batteries did not come to market until the 1970s in the form of the lithium-ion battery . [29] [30] Three volt lithium primary cells such as the CR123A type and three volt button cells are still widely used, especially in cameras and very small devices. Three important developments regarding lithium batteries occurred in the 1980s. In 1980, an American chemist, John B. Goodenough , discovered the LiCoO 2 ( Lithium cobalt oxide ) cathode (positive lead) and a Moroccan research scientist, Rachid Yazami , discovered the graphite anode (negative lead) with the solid electrolyte. In 1981, Japanese chemists Tokio Yamabe and Shizukuni Yata discovered a novel nano-carbonacious-PAS (polyacene) [31] and found that it was very effective for the anode in the conventional liquid electrolyte. [32] [33] This led a research team managed by Akira Yoshino of Asahi Chemical , Japan, to build the first lithium-ion battery prototype in 1985, a rechargeable and more stable version of the lithium battery; Sony commercialized the lithium-ion battery in 1991. [34] In 2019, John Goodenough, Stanley Whittingham , and Akira Yoshino, were awarded the Nobel Prize in Chemistry , for their development of lithium-ion batteries. [35] In 1997, the lithium polymer battery was released by Sony and Asahi Kasei. These batteries hold their electrolyte in a solid polymer composite instead of in a liquid solvent, and the electrodes and separators are laminated to each other. The latter difference allows the battery to be encased in a flexible wrapping instead of in a rigid metal casing, which means such batteries can be specifically shaped to fit a particular device. This advantage has favored lithium polymer batteries in the design of portable electronic devices such as mobile phones and personal digital assistants , and of radio-controlled aircraft , as such batteries allow for a more flexible and compact design. They generally have a lower energy density than normal lithium-ion batteries. High costs and concerns about mineral extraction associated with lithium chemistry have renewed interest in sodium-ion battery development, with early electric vehicle product launches in 2023. [36]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lithium_Battery1.jpg/220px-Lithium_Battery1.jpg",
+                "caption": "Lithium-ion battery"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Battery-cost-learning-curve.png/220px-Battery-cost-learning-curve.png",
+                "caption": "Curve of price and capacity of lithium-ion batteries over time; the price of these batteries declined by 97% in three decades."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/History_of_the_battery",
+        "title": "History of the battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Nickel–metal hydride (NiMH)",
+        "text": "Nickel–metal hydride batteries are considered a mature technology . [35] While less efficient (60–70%) in charging and discharging than even lead–acid, they have a higher specific energy of 30–80 W·h/kg. When used properly, nickel–metal hydride batteries can have exceptionally long lives, as has been demonstrated in their use in hybrid cars and in the surviving first-generation NiMH Toyota RAV4 EVs that still operate well after 100,000 miles (160,000 km) and over a decade of service. Downsides include finicky charge cycles and poor performance in cold weather. [ citation needed ] GM Ovonic produced the NiMH battery used in the second generation EV-1. [36] Prototype NiMH-EVs delivered up to 200 km (120 mi) of range.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/GM_Ovonic_NiMH_Battery_Module_90_Ah.jpg/220px-GM_Ovonic_NiMH_Battery_Module_90_Ah.jpg",
+                "caption": "GM Ovonic NiMH battery module"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electric_vehicle_battery",
+        "title": "Electric vehicle battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Manufacturing",
+        "text": "There are mainly three stages during the manufacturing process of EV batteries: materials manufacturing, cell manufacturing and integration, as shown in Manufacturing process of EV batteries graph in grey, green and orange color respectively. This shown process does not include manufacturing of cell hardware, i.e. casings and current collectors. During the materials manufacturing process, the active material, conductivity additives, polymer binder and solvent are mixed first. After this, they are coated on the current collectors ready for the drying process. During this stage, the methods of making active materials depend on the electrode and the chemistry. Cathodes mostly use transition metal oxides, i.e. Lithium nickel manganese cobalt oxides (Li-NMC), or else Lithium metal phosphates, i.e. Lithium iron phosphates (LFP).  The most popular material for anodes is graphite.  However, recently there have been a lot of companies started to make Si mixed anode ( Sila Nanotech , ProLogium ) and Li metal anode ( Cuberg , Solid Power ). In general, for active materials production, there are three steps: materials preparation, materials processing and refinement. Schmuch et al. discussed materials manufacturing in greater details. [40] In the cell manufacturing stage, the prepared electrode will be processed to the desired shape for packaging in a cylindrical, rectangular or pouch format. Then after filling the electrolytes and sealing the cells, the battery cells are cycled carefully to form SEI protecting the anode. Then, these batteries are assembled into packs ready for vehicle integration.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Manufacturing_schematic.png/547px-Manufacturing_schematic.png",
+                "caption": "Manufacturing process of EV batteries"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electric_vehicle_battery",
+        "title": "Electric vehicle battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Reusing and repurposing",
+        "text": "When an EV battery pack degrades to 70% to 80% of its original capacity, it is defined to reach the end-of-life. One of the waste management methods is to reuse the pack. By repurposing the pack for stationary storage, more value can be extracted from the battery pack while reducing the per kWh lifecycle impact. Uneven and undesired battery degradation happens during EV operation depending on temperature during operation and charging/discharging patterns. Each battery cell could degrade differently during operation. Currently, the state of health (SOH) information from a battery management system (BMS) can be extracted on a pack level but not on a cell level. Engineers can mitigate the degradation by engineering the next-generation thermal management system. electrochemical impedance spectroscopy (EIS) can be used to ensure the quality of the battery pack. [41] [42] It is costly and time-intensive to disassemble modules and cells. The module must be fully discharged. Then, the pack must be disassembled and reconfigured to meet the power and energy requirement of the second life application. A refurbishing company can sell or reuse the discharged energy from the module to reduce the cost of this process. Robots are being used to increase the safety of the dismantling process. [41] [43] Battery technology is non-transparent and lacks standards. Because battery development is the core part of EV, it is difficult for the manufacturer to label the exact chemistry of cathode, anode and electrolytes on the pack. In addition, the capacity and the design of the cells and packs changes on a yearly basis. The refurbishing company needs to closely work with the manufacture to have a timely update on this information. On the other hand, government can set up labeling standard. [41] Lastly, battery costs have decreased faster than predicted. The refurbished unit may be less attractive than the new batteries to the market. [41] Nonetheless, there have been several successes on the second-life application as shown in the examples of storage projects using second-life EV batteries. They are used in less demanding stationary storage application as peak shaving or additional storage for renewable-based generating sources. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Reuse_application.png/504px-Reuse_application.png",
+                "caption": "Examples of storage projects using second-life EV batteries. Adapted from Awan [41]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electric_vehicle_battery",
+        "title": "Electric vehicle battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Recycling",
+        "text": "Although battery life span can be extended by enabling a second-life application, ultimately EV batteries need to be recycled. Recyclability is not currently an important design consideration for battery manufacturers, and in 2019 only 5% of electric vehicle batteries were recycled. [44] However, closing the loop is extremely important. Not only because of a predicted tightened supply of nickel, cobalt and lithium in the future, also recycling EV batteries has the potential to maximize the environmental benefit. Xu et al. predicted that in the sustainable development scenario, lithium, cobalt and nickel will reach or surpass the amount of known reserves in the future if no recycling is in place. [45] Ciez and Whitacre found that by deploying battery recycling some green house gas (GHG) emission from mining could be avoided. [46] BEV technologies lack an established recycling framework in many countries, making the usage of BEV and other battery-operated electrical equipment a large energy expenditure, ultimately increasing CO 2 emissions - especially in countries lacking renewable energy resources. [47] There have been many efforts around the world to promote recycling technologies development and deployment. In the US, the Department of Energy Vehicle Technologies Offices (VTO) set up two efforts targeting at innovation and practicability of recycling processes. ReCell Lithium Recycling RD center brings in three universities and three national labs together to develop innovative, efficient recycling technologies. Most notably, the direct cathode recycling method was developed by the ReCell center. On the other hand, VTO also set up the battery recycling prize to incentivize American entrepreneurs to find innovative solutions to solve current challenges. [48]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Recycling_companies.png/502px-Recycling_companies.png",
+                "caption": "Examples of current lithium-ion battery recycling facilities. Adapted from Awan [41]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electric_vehicle_battery",
+        "title": "Electric vehicle battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Recycling vs mining",
+        "text": "To develop a deeper understanding of the lifecycle of EV batteries, it is important to analyze the emission associated with different phases. Using NMC cylindrical cells as an example, Ciez and Whitacre found that around 9 kg CO 2 e kg battery - 1 is emitted during raw materials pre-processing and battery manufacturing under the US average electricity grid. The biggest part of the emission came from materials preparation accounting for more than 50% of the emissions. If NMC pouch cell is used, the total emission increases to almost 10 kg CO 2 e kg battery - 1 while materials manufacturing still contributes to more than 50% of the emission. [46] During the end-of-life management phase, the refurbishing process adds little emission to the lifecycle emission. The recycling process, on the other hand, as suggested by Ciez and Whitacre emits a significant amount of GHG. As shown in the battery recycling emission plot a and c, the emission of the recycling process varies with the different recycling processes, different chemistry and different form factor. Thus, the net emission avoided compared to not recycling also varies with these factors. At a glance, as shown in the plot b and d, the direct recycling process is the most ideal process for recycling pouch cell batteries, while the hydrometallurgical process is most suitable for cylindrical type battery. However, with the error bars shown, the best approach cannot be picked with confidence. It is worth noting that for the lithium iron phosphates (LFP) chemistry, the net benefit is negative. Because LFP cells lacks cobalt and nickel which are expensive and energy intensive to produce, it is more energetically efficient to mine. In general, in addition to promoting the growth of a single sector, a more integrated effort should be in place to reduce the lifecycle emission of EV batteries. A finite total supply of rare earth material can apparently justify the need for recycling. But the environmental benefit of recycling needs closer scrutiny. Based on current recycling technology, the net benefit of recycling depends on the form factors, the chemistry and the recycling process chosen.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/EV_batteries_recycling_emission.png/462px-EV_batteries_recycling_emission.png",
+                "caption": "Battery recycling emissions under US average electricity grid. (a,b) for cylindrical cell and (c,d) for pouch cell. Adapted from Ciez and Whitacre. [46]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electric_vehicle_battery",
+        "title": "Electric vehicle battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Internal components",
+        "text": "Battery pack designs for electric vehicles (EVs) are complex and vary widely by manufacturer and specific application. However, they all incorporate a combination of several simple mechanical and electrical component systems which perform the basic required functions of the pack. [ citation needed ] The actual battery cells can have different chemistry, physical shapes, and sizes as preferred by various pack manufacturers. Battery packs will always incorporate many discrete cells connected in series and parallel to achieve the total voltage and current requirements of the pack. Battery packs for all electric drive EVs can contain several hundred individual cells. Each cell has a nominal voltage of 3-4 volts , depending on its chemical composition. [ citation needed ] To assist in manufacturing and assembly, the large stack of cells is typically grouped into smaller stacks called modules. Several of these modules are placed into a single pack. Within each module the cells are welded together to complete the electrical path for current flow. Modules can also incorporate cooling mechanisms, temperature monitors, and other devices. Modules must remain within a specific temperature range for optimal performance. [63] In most cases, modules also allow for monitoring the voltage produced by each battery cell in the stack by using a battery management system (BMS). [64] The battery cell stack has a main fuse which limits the current of the pack under a short circuit. A \"service plug\" or \"service disconnect\" can be removed to split the battery stack into two electrically isolated halves. With the service plug removed, the exposed main terminals of the battery present no high potential electrical danger to service technicians. [64] [65] The battery pack also contains relays, or contactors, which control the distribution of the battery pack's electrical power to the output terminals. In most cases there will be a minimum of two main relays which connect the battery cell stack to the main positive and negative output terminals of the pack, which then supply high current to the electrical drive motor. Some pack designs include alternate current paths for pre-charging the drive system through a pre-charge resistor or for powering an auxiliary bus which will also have their own associated control relays. For safety reasons these relays are all normally open. [64] [65] The battery pack also contains a variety of temperature, voltage, and current sensors. Collection of data from the pack sensors and activation of the pack relays are accomplished by the pack's battery monitoring unit (BMU) or BMS. The BMS is also responsible for communications with the vehicle outside the battery pack. [64]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ASEAG_999_Batterie.jpg/220px-ASEAG_999_Batterie.jpg",
+                "caption": "Battery pack on the roof of a battery electric bus"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Iveco_Stralis_AD_190_E-truck._Lidl._Spielvogel.jpg/220px-Iveco_Stralis_AD_190_E-truck._Lidl._Spielvogel.jpg",
+                "caption": "Electric truck e-Force One. Battery pack between the axles."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lithium-Ion_Cell_cylindric.JPG/220px-Lithium-Ion_Cell_cylindric.JPG",
+                "caption": "Cylindrical cell (18650) prior to assembly"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lithium_Ionen_Akku_%C3%9Cberwachungselektronik.jpg/220px-Lithium_Ionen_Akku_%C3%9Cberwachungselektronik.jpg",
+                "caption": "Lithium ion battery monitoring electronics (overcharge and over-discharge protection)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electric_vehicle_battery",
+        "title": "Electric vehicle battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Recharging time",
+        "text": "With rapid recharging, the concern about limited travel ranges loses relevance. There is a growing electric vehicle charging network [70] with DC powers of 150 kW and more which can add up to 300 km of range within a typical 20 minute break. The maximum power consumption depends on the EV model. In 2024, typical rapid charging powers were between 30 and 80 kW. The load decreases when the  battery gets fuller. [69] Charging at home or smaller charging stations using alternating current usually takes several hours.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EV-charging-curves-at-300-kW-chargers-35.png/220px-EV-charging-curves-at-300-kW-chargers-35.png",
+                "caption": "EV charging curves at 300 kW chargers [69]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electric_vehicle_battery",
+        "title": "Electric vehicle battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Dendrites",
+        "text": "Solid lithium (Li) metal anodes in solid-state batteries are replacement candidates in lithium-ion batteries for higher energy densities , safety, and faster recharging times. Such anodes tend to suffer from the formation and the growth of Li dendrites , non-uniform metal growths which penetrate the electrolyte lead to electrical short circuits . This shorting leads to energy discharge, overheating , and sometimes fires or explosions due to thermal runaway . [89] Li dendrites reduce coulombic efficiency . [90] The exact mechanisms of dendrite growth remain a subject of research. Studies of metal dendrite growth in solid electrolytes began with research of molten sodium / sodium - β - alumina / sulfur cells at elevated temperature. In these systems, dendrites sometimes grow as a result of micro-crack extension due to the presence of plating-induced pressure at the sodium / solid electrolyte interface. [91] However, dendrite growth may also occur due to chemical degradation of the solid electrolyte. [92] In Li-ion solid electrolytes apparently stable to Li metal, dendrites propagate primarily due to pressure build up at the electrode / solid electrolyte interface, leading to crack extension. [93] Meanwhile, for solid electrolytes which are chemically unstable against their respective metal, interphase growth and eventual cracking often prevents dendrites from forming. [94] Dendrite growth in solid-state Li-ion cells can be mitigated by operating the cells at elevated temperature, [95] or by using residual stresses to fracture toughen electrolytes, [93] thereby deflecting dendrites and delaying dendrite induced short-circuiting. Aluminum-containing electronic rectifying interphases between the solid-state electrolyte and the lithium metal anode have also been shown to be effective in preventing dendrite growth. [96]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lithium_dendrites.svg/220px-Lithium_dendrites.svg.png",
+                "caption": "Lithium metal dendrite from the anode piercing through the separator and growing towards the cathode."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solid-state_battery",
+        "title": "Solid-state battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Design",
+        "text": "Generally, the negative electrode of a conventional lithium-ion cell is graphite made from carbon . The positive electrode is typically a metal oxide or phosphate. The electrolyte is a lithium salt in an organic solvent . [45] The negative electrode (which is the anode when the cell is discharging) and the positive electrode (which is the cathode when discharging) are prevented from shorting by a separator. [46] The electrodes are connected to the powered circuit through two pieces of metal called current collectors. [47] The negative and positive electrodes swap their electrochemical roles ( anode and cathode ) when the cell is charged. Despite this, in discussions of battery design the negative electrode of a rechargeable cell is often just called \"the anode\" and the positive electrode \"the cathode\". In its fully lithiated state of LiC 6 , graphite correlates to a theoretical capacity of 1339 coulombs per gram (372 mAh/g). [48] The positive electrode is generally one of three materials: a layered oxide (such as lithium cobalt oxide ), a polyanion (such as lithium iron phosphate ) or a spinel (such as lithium manganese oxide ). [49] More experimental materials include graphene -containing electrodes, although these remain far from commercially viable due to their high cost. [50] Lithium reacts vigorously with water to form lithium hydroxide (LiOH) and hydrogen gas. Thus, a non-aqueous electrolyte is typically used, and a sealed container rigidly excludes moisture from the battery pack. The non-aqueous electrolyte is typically a mixture of organic carbonates such as ethylene carbonate and propylene carbonate containing complexes of lithium ions. [51] Ethylene carbonate is essential for making solid electrolyte interphase on the carbon anode, [52] but since it is solid at room temperature, a liquid solvent (such as propylene carbonate or diethyl carbonate ) is added. The electrolyte salt is almost always [ citation needed ] lithium hexafluorophosphate ( LiPF 6 ), which combines good ionic conductivity with chemical and electrochemical stability. The hexafluorophosphate anion is essential for passivating the aluminum current collector used for the positive electrode. A titanium tab is ultrasonically welded to the aluminum current collector.\nOther salts like lithium perchlorate ( LiClO 4 ), lithium tetrafluoroborate ( LiBF 4 ), and lithium bis(trifluoromethanesulfonyl)imide ( LiC 2 F 6 NO 4 S 2 ) are frequently used in research in tab-less coin cells , but are not usable in larger format cells, [53] often because they are not compatible with the aluminum current collector. Copper (with a spot-welded nickel tab) is used as the current collector at the negative electrode. Current collector design and surface treatments may take various forms: foil, mesh, foam (dealloyed), etched (wholly or selectively), and coated (with various materials) to improve electrical characteristics. [47] Depending on materials choices, the voltage , energy density , life, and safety of a lithium-ion cell can change dramatically. Current effort has been exploring the use of novel architectures using nanotechnology to improve performance. Areas of interest include nano-scale electrode materials and alternative electrode structures. [54]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lithium-Ion_Cell_cylindric.JPG/220px-Lithium-Ion_Cell_cylindric.JPG",
+                "caption": "Cylindrical Panasonic 18650 lithium-ion cell before closing."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lithium_Ionen_Akku_%C3%9Cberwachungselektronik.jpg/220px-Lithium_Ionen_Akku_%C3%9Cberwachungselektronik.jpg",
+                "caption": "Lithium-ion battery monitoring electronics (over-charge and deep-discharge protection)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Liion-18650-AA-battery.jpg/170px-Liion-18650-AA-battery.jpg",
+                "caption": "Left: AA alkaline battery. Right: 18650 lithium ion battery"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lithium-ion_battery",
+        "title": "Lithium-ion battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Discharging and charging",
+        "text": "During discharge, lithium ions ( Li + ) carry the current within the battery cell from the negative to the positive electrode, through the non- aqueous electrolyte and separator diaphragm. [62] During charging, an external electrical power source applies an over-voltage (a voltage greater than the cell's own voltage) to the cell, forcing electrons to flow from the positive to the negative electrode. The lithium ions also migrate (through the electrolyte) from the positive to the negative electrode where they become embedded in the porous electrode material in a process known as intercalation . Energy losses arising from electrical contact resistance at interfaces between electrode layers and at contacts with current collectors can be as high as 20% of the entire energy flow of batteries under typical operating conditions. [63] The charging procedures for single Li-ion cells, and complete Li-ion batteries, are slightly different: During the constant current phase, the charger applies a constant current to the battery at a steadily increasing voltage, until the top-of-charge voltage limit per cell is reached. During the balance phase, the charger/battery reduces the charging current (or cycles the charging on and off to reduce the average current) while the state of charge of individual cells is brought to the same level by a balancing circuit until the battery is balanced. Balancing typically occurs whenever one or more cells reach their top-of-charge voltage before the other(s), as it is generally inaccurate to do so at other stages of the charge cycle. This is most commonly done by passive balancing, which dissipates excess charge via resistors connected momentarily across the cell(s) to be balanced. Active balancing is less common, more expensive, but more efficient, returning excess energy to other cells (or the entire pack) through the means of a DC-DC converter or other circuitry. Some fast chargers skip this stage. Some chargers accomplish the balance by charging each cell independently. This is often performed by the battery protection circuit/ battery management system (BPC or BMS) and not the charger (which typically provides only the bulk charge current, and does not interact with the pack at the cell-group level), e.g., e-bike and hoverboard chargers. In this method, the BPC/BMS will request a lower charge current (such as EV batteries), or will shut-off the charging input (typical in portable electronics) through the use of transistor circuitry while balancing is in effect (to prevent over-charging cells). Balancing most often occurs during the constant voltage stage of charging, switching between charge modes until complete. The pack is usually fully charged only when balancing is complete, as even a single cell group lower in charge than the rest will limit the entire battery's usable capacity to that of its own. Balancing can last hours or even days, depending on the magnitude of the imbalance in the battery. During the constant voltage phase, the charger applies a voltage equal to the maximum cell voltage times the number of cells in series to the battery, as the current gradually declines towards 0, until the current is below a set threshold of about 3% of initial constant charge current. Periodic topping charge about once per 500 hours. Top charging is recommended to be initiated when voltage goes below 4.05 V/cell. [ dubious – discuss ] Failure to follow current and voltage limitations can result in an explosion. [66] [67] Charging temperature limits for Li-ion are stricter than the operating limits. Lithium-ion chemistry performs well at elevated temperatures but prolonged exposure to heat reduces battery life. Li‑ion batteries offer good charging performance at cooler temperatures and may even allow \"fast-charging\" within a temperature range of 5 to 45 °C (41 to 113 °F). [68] [ better source needed ] Charging should be performed within this temperature range. At temperatures from 0 to 5 °C charging is possible, but the charge current should be reduced. During a low-temperature (under 0 °C) charge, the slight temperature rise above ambient due to the internal cell resistance is beneficial. High temperatures during charging may lead to battery degradation and charging at temperatures above 45 °C will degrade battery performance, whereas at lower temperatures the internal resistance of the battery may increase, resulting in slower charging and thus longer charging times. [68] [ better source needed ] Batteries gradually self-discharge even if not connected and delivering current. Li-ion rechargeable batteries have a self-discharge rate typically stated by manufacturers to be 1.5–2% per month. [69] [70] The rate increases with temperature and state of charge. A 2004 study found that for most cycling conditions self-discharge was primarily time-dependent; however, after several months of stand on open circuit or float charge, state-of-charge dependent losses became significant. The self-discharge rate did not increase monotonically with state-of-charge, but dropped somewhat at intermediate states of charge. [71] Self-discharge rates may increase as batteries age. [72] In 1999, self-discharge per month was measured at 8% at 21 °C, 15% at 40 °C, 31% at 60 °C. [73] By 2007, monthly self-discharge rate was estimated at 2% to 3%, and 2 [7] –3% by 2016. [74] By comparison, the self-discharge rate for NiMH batteries dropped, as of 2017, from up to 30% per month for previously common cells [75] to about 0.08–0.33% per month for low self-discharge NiMH batteries, and is about 10% per month in NiCd batteries . [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Li_ion_laptop_battery.jpg/220px-Li_ion_laptop_battery.jpg",
+                "caption": "A lithium-ion battery from a laptop computer"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lithium-ion_battery",
+        "title": "Lithium-ion battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Formats",
+        "text": "Lithium-ion batteries may have multiple levels of structure. Small batteries consist of a single battery cell. Larger batteries connect cells in parallel into a module and connect modules in series and parallel into a pack. Multiple packs may be connected in series to increase the voltage. [143]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Nissan_Leaf_012.JPG/240px-Nissan_Leaf_012.JPG",
+                "caption": "Nissan Leaf 's lithium-ion battery pack"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lithium-ion_battery",
+        "title": "Lithium-ion battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Lifespan",
+        "text": "The lifespan of a lithium-ion battery is typically defined as the number of full charge-discharge cycles to reach a failure threshold in terms of capacity loss or impedance rise. Manufacturers' datasheet typically uses the word \"cycle life\" to specify lifespan in terms of the number of cycles to reach 80% of the rated battery capacity. [173] Simply storing lithium-ion batteries in the charged state also reduces their capacity (the amount of cyclable Li + ) and increases the cell resistance (primarily due to the continuous growth of the solid electrolyte interface on the anode ). Calendar life is used to represent the whole life cycle of battery involving both the cycle and inactive storage operations. Battery cycle life is affected by many different stress factors including temperature, discharge current, charge current, and state of charge ranges (depth of discharge). [174] [175] Batteries are not fully charged and discharged in real applications such as smartphones, laptops and electric cars and hence defining battery life via full discharge cycles can be misleading. To avoid this confusion, researchers sometimes use cumulative discharge [174] defined as the total amount of charge (Ah) delivered by the battery during its entire life or equivalent full cycles, [175] which represents the summation of the partial cycles as fractions of a full charge-discharge cycle. Battery degradation during storage is affected by temperature and battery state of charge (SOC) and a combination of full charge (100% SOC) and high temperature (usually > 50 °C) can result in a sharp capacity drop and gas generation. [176] Multiplying the battery cumulative discharge by the rated nominal voltage gives the total energy delivered over the life of the battery. From this one can calculate the cost per kWh of the energy (including the cost of charging). Over their lifespan batteries degrade gradually leading to reduced capacity (and, in some cases, lower operating cell voltage) due to a variety of chemical and mechanical changes to the electrodes. [177] Several degradation processes occur in lithium-ion batteries, some during cycling, some during storage, and some all the time: [178] [179] [177] Degradation is strongly temperature-dependent: degradation at room temperature is minimal but increases for batteries stored or used in high temperature (usually > 35 °C) or low temperature (usually < 5 °C) environments. [180] High charge levels also hasten capacity loss . [181] Frequent over-charging (> 90%) and over-discharging (< 10%) may also hasten capacity loss . In a study, scientists provided 3D imaging and model analysis to reveal main causes, mechanics, and potential mitigations of the problematic degradation of the batteries over charge cycles . They found \"[p]article cracking increases and contact loss between particles and carbon-binder domain are observed to correlate with the cell degradation\" and indicates that \"the reaction heterogeneity within the thick cathode caused by the unbalanced electron conduction is the main cause of the battery degradation over cycling\". [182] [183] [ additional citation(s) needed ] The most common degradation mechanisms in lithium-ion batteries include: [184] These are shown in the figure on the right. A change from one main degradation mechanism to another appears as a knee (slope change) in the capacity vs. cycle number plot. [184] Most studies of lithium-ion battery aging have been done at elevated (50–60 °C) temperatures in order to complete the experiments sooner. Under these storage conditions, fully charged nickel-cobalt-aluminum and lithium-iron phosphate cells lose ca. 20% of their cyclable charge in 1–2 years. It is believed that the aforementioned anode aging is the most important degradation pathway in these cases.  On the other hand, manganese-based cathodes show a (ca. 20–50%) faster degradation under these conditions, probably due to the additional mechanism of Mn ion dissolution. [179] At 25 °C the degradation of lithium-ion batteries seems to follow the same pathway(s) as the degradation at 50 °C, but with half the speed. [179] In other words, based on the limited extrapolated experimental data, lithium-ion batteries are expected to lose irreversibly ca. 20% of their cyclable charge in 3–5 years or 1000–2000 cycles at 25 °C. [184] Lithium-ion batteries with titanate anodes do not suffer from SEI growth, and last longer (>5000 cycles) than graphite anodes. However, in complete cells other degradation mechanisms (i.e. the dissolution of Mn + 3 and the Ni + 3 /Li + place exchange, decomposition of PVDF binder and particle detachment) show up after 1000–2000 days, and the use titanate anode does not improve full cell durability in practice.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2022-Vermeer-F2.jpg/220px-2022-Vermeer-F2.jpg",
+                "caption": "Overview of the correlation between operational stress factors (the causes for degradation), the corresponding aging mechanisms, aging mode, and their effect on Lithium-ion batteries aging."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lithium-ion_battery",
+        "title": "Lithium-ion battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Recalls",
+        "text": "In 2006, approximately 10 million Sony batteries used in Dell , Sony , Apple , Lenovo , Panasonic , Toshiba , Hitachi , Fujitsu and Sharp laptops were recalled. The batteries were found to be susceptible to internal contamination by metal particles during manufacture. Under some circumstances, these particles could pierce the separator, causing a dangerous short circuit. [233] IATA estimates that over a billion lithium metal and lithium-ion cells are flown each year. [221] Some kinds of lithium batteries may be prohibited aboard aircraft because of the fire hazard. [234] [235] Some postal administrations restrict air shipping (including EMS ) of lithium and lithium-ion batteries, either separately or installed in equipment.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/1-7-12_JAL787_APU_Battery.JPG/220px-1-7-12_JAL787_APU_Battery.JPG",
+                "caption": "Japan Airlines Boeing 787 lithium cobalt oxide battery that caught fire in 2013"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ADR_9A.svg/170px-ADR_9A.svg.png",
+                "caption": "Transport Class 9A:Lithium batteries"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Lithium-ion_battery",
+        "title": "Lithium-ion battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Demand side management and grid storage",
+        "text": "The demand side can also store electricity from the grid, for example charging a battery electric vehicle stores energy for a vehicle and storage heaters , district heating storage or ice storage provide thermal storage for buildings. [6] At present this storage serves only to shift consumption to the off-peak time of day, no electricity is returned to the grid. The need for grid storage to provide peak power is reduced by demand side time of use pricing , one of the benefits of smart meters . At the household level, consumers may choose less expensive off-peak times to wash and dry clothes, use dishwashers, take showers and cook. As well, commercial and industrial users will take advantage of cost savings by deferring some processes to off-peak times. Regional impacts from the unpredictable operation of wind power has created a new need for interactive demand response , where the utility communicates with the demand. Historically this was only done in cooperation with large industrial consumers, but now may be expanded to entire grids. [7] For instance, a few large-scale projects in Europe link variations in wind power to change industrial food freezer loads, causing small variations in temperature. If communicated on a grid-wide scale, small changes to heating/cooling temperatures would instantly change consumption across the grid. A report released in December 2013 by the United States Department of Energy further describes the potential benefits of energy storage and demand side technologies to the electric grid: \"Modernizing the electric system will help the nation meet the challenge of handling projected energy needs—including addressing climate change by integrating more energy from renewable sources and enhancing efficiency from non-renewable energy processes. Advances to the electric grid must maintain a robust and resilient electricity delivery system, and energy storage can play a significant role in meeting these challenges by improving the operating capabilities of the grid, lowering cost and ensuring high reliability, as well as deferring and reducing infrastructure investments. Finally, energy storage can be instrumental for emergency preparedness because of its ability to provide backup power as well as grid stabilization services\". [8] The report was written by a core group of developers representing Office of Electricity Delivery and Energy Reliability , ARPA-E , Office of Science , Office of Energy Efficiency and Renewable Energy , Sandia National Laboratories , and Pacific Northwest National Laboratory ; all of whom are engaged in the development of grid energy storage. [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Energy-Units-01.png/220px-Energy-Units-01.png",
+                "caption": "A sense of units and scale for electrical energy production and consumption"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Batteries",
+        "text": "Battery storage was used in the early days of direct current electric power. Where AC grid power was not readily available, isolated lighting plants run by wind turbines or internal combustion engines provided lighting and power to small motors. The battery system could be used to run the load without starting the engine or when the wind was calm. A bank of lead–acid batteries in glass jars both supplied power to illuminate lamps, as well as to start an engine to recharge the batteries. Battery storage technology is typically around 80% to more than 90% efficient for newer lithium-ion devices. [38] [39] Battery systems connected to large solid-state converters have been used to stabilize power distribution networks. Some grid batteries are co-located with renewable energy plants, either to smooth the power supplied by the intermittent wind or solar output, or to shift the power output into other hours of the day when the renewable plant cannot produce power directly (see Installation examples ). These hybrid systems (generation and storage) can either alleviate the pressure on the grid when connecting renewable sources or be used to reach self-sufficiency and work \"off-the-grid\" (see Stand-alone power system ). Contrary to electric vehicle applications, batteries for stationary storage do not suffer from mass or volume constraints. However, due to the large amounts of energy and power implied, the cost per power or energy unit is crucial. The relevant metrics to assess the interest of a technology for grid-scale storage is the $/Wh (or $/W) rather than the Wh/kg (or W/kg). The electrochemical grid storage was made possible thanks to the development of the electric vehicle, that induced a fast decrease in the production costs of batteries below $300/kWh. By optimizing the production chain, major industrials aimed to reach $150/kWh by the end of 2020, but actually achieved $140/kWh. The rate of decline in battery prices has consistently outpaced most estimates, reaching $132/kWh in 2021. [40] These batteries rely on a lithium-ion technology, which is suited for mobile applications (high cost, high density). Technologies optimized for the grid should focus on low cost per kWh.   Lithium iron phosphate batteries are increasingly being used in both vehicles and grid storage because of their low cost, scale and acceptable energy density for many applications. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Light-plant-Fig1198-Page989-Ch45-Hawkins-Electrical-Guide.png/220px-Light-plant-Fig1198-Page989-Ch45-Hawkins-Electrical-Guide.png",
+                "caption": "A 900 watt direct current light plant using 16 separate lead acid battery cells (32 volts) from 1917. [35]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Battery-cost-learning-curve.png/220px-Battery-cost-learning-curve.png",
+                "caption": "Learning curve of lithium-ion batteries: the price of batteries declined by 97% in three decades. [36] [37]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Electric vehicles",
+        "text": "Companies are researching the possible use of electric vehicles to meet peak demand. A parked and plugged-in electric vehicle could sell the electricity from the battery during peak loads and charge either during night (at home) or during off-peak. [69] Plug-in hybrid or electric cars could be used [70] [71] [72] for their energy storage capabilities. Vehicle-to-grid technology can be employed, turning each vehicle with its 20 to 50 kWh battery pack into a distributed load-balancing device or emergency power source. This represents two to five days per vehicle of average household requirements of 10 kWh per day, assuming annual consumption of 3,650 kWh. This quantity of energy is equivalent to between 60 and 480 kilometres (40 and 300 mi) of range in such vehicles consuming 0.1 to 0.3 kilowatt-hours per kilometre (0.16 to 0.5 kWh/mi). These figures can be achieved even in home-made electric vehicle conversions . Some electric utilities plan to use old plug-in vehicle batteries (sometimes resulting in a giant battery) to store electricity [73] [74] However, a large disadvantage of using vehicle to grid energy storage would be if each storage cycle stressed the battery with one complete charge-discharge cycle. [70] However, one major study showed that used intelligently, vehicle-to-grid storage actually improved the batteries longevity. [75] Conventional (cobalt-based) lithium-ion batteries break down with the number of cycles – newer li-ion batteries do not break down significantly with each cycle, and so have much longer lives. One approach is to reuse unreliable vehicle batteries in dedicated grid storage [76] as they are expected to be good in this role for ten years. [77] If such storage is done on a large scale it becomes much easier to guarantee replacement of a vehicle battery degraded in mobile use, as the old battery has value and immediate use.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg/220px-Nissan_Leaf_aan_Amsterdamse_laadpaal.jpg",
+                "caption": "Nissan Leaf , the world's top-selling highway-capable electric car as of 2015"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Flywheel",
+        "text": "Mechanical inertia is the basis of this storage method. When the electric power flows into the device, an electric motor accelerates a heavy rotating disc. The motor acts as a generator when the flow of power is reversed, slowing down the disc and producing electricity. Electricity is stored as the kinetic energy of the disc. Friction must be kept to a minimum to prolong the storage time. This is often achieved by placing the flywheel in a vacuum and using magnetic bearings , tending to make the method expensive. Greater flywheel speeds allow greater storage capacity but require strong materials such as steel or composite materials to resist the centrifugal forces . The ranges of power and energy storage technology that make this method economic, however, tends to make flywheels unsuitable for general power system application; they are probably best suited to load-leveling applications on railway power systems and for improving power quality in renewable energy systems such as the 20MW system in Ireland. [78] [79] Applications that use flywheel storage are those that require very high bursts of power for very short durations such as tokamak [80] and laser experiments where a motor generator is spun up to operating speed and is partially slowed down during discharge. Flywheel storage is also currently used in the form of the Diesel rotary uninterruptible power supply to provide uninterruptible power supply systems (such as those in large datacenters ) for ride-through power necessary during transfer [81] – that is, the relatively brief amount of time between a loss of power to the mains and the warm-up of an alternate source, such as a diesel generator . This potential solution has been implemented by EDA [82] [ better source needed ] in the Azores on the islands of Graciosa and Flores . This system uses an 18 megawatt-second flywheel to improve power quality and thus allow increased renewable energy usage. As the description suggests, these systems are again designed to smooth out transient fluctuations in supply, and could never be used to cope with an outage exceeding a couple of days. Powercorp in Australia have been developing applications using wind turbines, flywheels and low load diesel (LLD) technology to maximize the wind input to small grids. A system installed in Coral Bay, Western Australia, uses wind turbines coupled with a flywheel based control system and LLDs. The flywheel technology enables the wind turbines to supply up to 95 percent of Coral Bay's energy supply at times, with a total annual wind penetration of 45 percent. [83]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/G2_front2.jpg/220px-G2_front2.jpg",
+                "caption": "NASA G2 flywheel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Pumped water",
+        "text": "In 2008, world pumped-storage generating capacity was 104 GW , [95] while other sources claim 127 GW, which comprises the vast majority of all types of grid electric storage – all other types combined are some hundreds of MW. [96] In many places, pumped-storage hydroelectricity is used to even out the daily generating load, by pumping water to a high storage reservoir during off-peak hours and weekends, using the excess base-load capacity from coal or nuclear sources.  During peak hours, this water can be used for hydroelectric generation, often as a high value rapid-response reserve to cover transient peaks in demand. Pumped storage recovers about 70% to 85% of the energy consumed, and is currently the most cost effective form of mass power storage. [97] The chief problem with pumped storage is that it usually requires two nearby reservoirs at considerably different heights, and often requires considerable capital expenditure. [98] Pumped water systems have high dispatchability , meaning they can come on-line very quickly, typically within 15 seconds, [99] which makes these systems very efficient at soaking up variability in electrical demand from consumers. There is over 90 GW of pumped storage in operation around the world, which is about 3% of instantaneous global generation capacity. Pumped water storage systems, such as the Dinorwig storage system in Britain, hold five or six hours of generating capacity, [99] and are used to smooth out demand variations. Another example is the 1836 MW Tianhuangping Pumped-Storage Hydro Plant in China, which has a reservoir capacity of eight million cubic meters (2.1 billion U.S. gallons or the volume of water over Niagara Falls in 25 minutes) with a vertical distance of 600 m (1970 feet). The reservoir can provide about 13 GW·h of stored gravitational potential energy (convertible to electricity at about 80% efficiency), or about 2% of China's daily electricity consumption. [100] A new concept in pumped-storage is utilizing wind energy or solar power to pump water. Wind turbines or solar cells that direct drive water pumps for an energy storing wind or solar dam can make this a more efficient process but are limited. Such systems can only increase kinetic water volume during windy and daylight periods. A study published in 2013 showed rooftop solar, coupled to existing pumped-storage, could replace the reactors lost at Fukushima with an equivalent capacity factor. [101]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG/220px-Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG",
+                "caption": "Mingtan Pumped-Storage Hydro Power Plant dam in Nantou , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Hydroelectric dams",
+        "text": "Hydroelectric dams with large reservoirs can also be operated to provide peak generation at times of peak demand. Water is stored in the reservoir during periods of low demand and released through the plant when demand is higher.  The net effect is the same as pumped storage, but without the pumping loss. Depending on the reservoir capacity the plant can provide daily, weekly, or seasonal load following. Many existing hydroelectric dams are fairly old (for example, the Hoover Dam was built in the 1930s), and their original design predated the newer intermittent power sources such as wind and solar by decades. A hydroelectric dam originally built to provide baseload power will have its generators sized according to the average flow of water into the reservoir. Uprating such a dam with additional generators increases its peak power output capacity, thereby increasing its capacity to operate as a virtual grid energy storage unit. [102] [103] The United States Bureau of Reclamation reports an investment cost of $69 per kilowatt capacity to uprate an existing dam, [102] compared to more than $400 per kilowatt for oil-fired peaking generators. While an uprated hydroelectric dam does not directly store excess energy from other generating units, it behaves equivalently by accumulating its own fuel – incoming river water – during periods of high output from other generating units. Functioning as a virtual grid storage unit in this way, the uprated dam is one of the most efficient forms of energy storage, because it has no pumping losses to fill its reservoir, only increased losses to evaporation and leakage. A dam which impounds a large reservoir can store and release a correspondingly large amount of energy, by controlling river outflow and raising or lowering its reservoir level a few meters. Limitations do apply to dam operation, their releases are commonly subject to government regulated water rights to limit downstream effect on rivers. For example, there are grid situations where baseload thermal plants, nuclear or wind turbines are already producing excess power at night, dams are still required to release enough water to maintain adequate river levels, whether electricity is generated or not. Conversely there's a limit to peak capacity, which if excessive could cause a river to flood for a few hours each day. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/FeiCueiReservoir.jpg/220px-FeiCueiReservoir.jpg",
+                "caption": "Fetsui hydroelectric dam in New Taipei , Taiwan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+        "title": "Grid energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Mathematics",
+        "text": "The 9th century mathematician Muhammad ibn Musa al-Khwarizmi founded algebra and expanded upon Persian and Indian arithmetic systems. His writings were translated into Latin by Gerard of Cremona under the title: De jebra et almucabola . Robert of Chester also translated it under the title Liber algebras et almucabala . The works of Kharazmi \"exercised a profound influence on the development of mathematical thought in the medieval West\". [11] The Banū Mūsā brothers (\"Sons of Moses\"), namely Abū Jaʿfar, Muḥammad ibn Mūsā ibn Shākir (before 803 –  February 873), Abū al‐Qāsim, Aḥmad ibn Mūsā ibn Shākir (d. 9th century) and Al-Ḥasan ibn Mūsā ibn Shākir (d. 9th century), were three 9th-century Persian [12] [13] scholars who lived and worked in Baghdad . They are known for their Book of Ingenious Devices on automata and mechanical devices and their Book on the Measurement of Plane and Spherical Figures . [14] Other Iranian scientists included Abu Abbas Fazl Hatam, Farahani, Omar Ibn Farakhan, Abu Zeid Ahmad Ibn Soheil Balkhi (9th century AD), Abul Vafa Bouzjani, Abu Jaafar Khan, Bijan Ibn Rostam Kouhi , Ahmad Ibn Abdul Jalil Qomi, Bu Nasr Araghi, Abu Reyhan Birooni , the noted Iranian poet Hakim Omar Khayyam Neishaburi, Qatan Marvazi, Massoudi Ghaznavi (13th century AD), Khajeh Nassireddin Tusi , and Ghiasseddin Jamshidi Kashani .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Book_Al_Sufi.jpg/220px-Book_Al_Sufi.jpg",
+                "caption": "Manuscript of Abdolrahman Sufi 's Depiction of Celestial Constellations"
+            },
+            {
+                "url": "https:https://wikimedia.org/api/rest_v1/media/math/render/svg/84de280ed37db3999ee30109b77260a3443ccadc",
+                "caption": "The first five rows of Khayam-Pascal's triangle"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Science_and_technology_in_Iran",
+        "title": "Science and technology in Iran",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Medicine",
+        "text": "The hospital system was developed in Sassanian Iran; for example, the Academy of Gundishapur was influential on the ideals and traditions of hospitals in the Mohammedan period. [15] Several documents still exist from which the definitions and treatments of the headache in medieval Persia can be ascertained. These documents give detailed and precise clinical information on the different types of headaches. The medieval physicians listed various signs and symptoms, apparent causes, and hygienic and dietary rules for prevention of headaches. The medieval writings are both accurate and vivid, and they provide long lists of substances used in the treatment of headaches. Many of the approaches of physicians in medieval Persia are accepted today; however, still more of them could be of use to modern medicine. [16] During the 7th century the Achaemenian dynasty was the major advocate of science. Documents indicate that condemned criminals' bodies were dissected and used for medical research during this timeframe [17] In due course, Persians' methods of gathering scientific information would undergo a major change. In the aftermath of the conquest of Islam, Muslim armies destroyed major libraries, and as a result, Persian scholars were deeply concerned as knowledge of the fields of science had been lost. Persians also prohibited the use of human anatomical dissection by Muslim medical practitioners for social and religious reasons. [17] Persian literature was translated into Arabic for approximately two centuries to preserve the surviving Persians literature, which also indirectly served to conserve Persian history. [17] In the 10th century work of Shahnameh , Ferdowsi describes a Caesarean section performed on Rudabeh , during which a special wine agent was prepared by a Zoroastrian priest and used to produce unconsciousness for the operation. [18] Although largely mythical in content, the passage illustrates working knowledge of anesthesia in ancient Persia . Later in the 10th century, Abu Bakr Muhammad Bin Zakaria Razi is considered the founder of practical physics and the inventor of the special or net weight of matter. His student, Abu Bakr Joveini , wrote the first comprehensive medical book in the Persian language. After the Islamic conquest of Iran , medicine continued to flourish with the rise of notables such as Rhazes and Haly Abbas , albeit Baghdad was the new cosmopolitan inheritor of Sassanid Jundishapur's medical academy. Rhaze noted that different diseases might have similar signs and symptoms, which highlights Rhazes' contribution to applied neuroanatomy. The differential diagnosis approach is still used in modern medicine. His music therapy was used as a means of promoting healing and he was one of the first people to realize that diet influences the function of the body and the predisposition to disease [17] An idea of the number of medical works composed in Persian alone may be gathered from Adolf Fonahn 's Zur Quellenkunde der Persischen Medizin , published in Leipzig in 1910. The author enumerates over 400 works in the Persian language on medicine, excluding authors such as Avicenna , who wrote in Arabic. Author-historians Meyerhof, Casey Wood, and Hirschberg also have recorded the names of at least 80 oculists who contributed treatises on subjects related to ophthalmology from the beginning of 800 AD to the full flowering of Muslim medical literature in 1300 AD. Aside from the aforementioned, two other medical works attracted great attention in medieval Europe, namely Abu Mansur Muwaffaq 's Materia Medica , written around 950 AD, and the illustrated Anatomy of Mansur ibn Muhammad , written in 1396 AD. Modern academic medicine began in Iran when Joseph Cochran established a medical college in Urmia in 1878. Cochran is often credited for founding Iran's \"first contemporary medical college\". [19] The website of Urmia University credits Cochran for \"lowering the infant mortality rate in the region\" [20] and for founding one of Iran's first modern hospitals (Westminster Hospital) in Urmia. Iran started contributing to modern medical research late in 20th century. Most publications were from pharmacology and pharmacy labs located at a few top universities, most notably Tehran University of Medical Sciences. Ahmad Reza Dehpour and Abbas Shafiee were among the most prolific scientists in that era. Research programs in immunology, parasitology, pathology, medical genetics, and public health were also established in late 20th century. In 21st century, we witnessed a huge surge in the number of publications in medical journals by Iranian scientists on nearly all areas in basic and clinical medicine. Interdisciplinary research were introduced during 2000s and dual degree programs including Medicine/Science, Medicine/Engineering and Medicine/Public health programs were founded. Alireza Mashaghi was one of the main figures behind the development of interdisciplinary research and education in Iran. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mansur1911.jpg/250px-Mansur1911.jpg",
+                "caption": "From: Mansur ibn Ilyas: Tashrīḥ-e badan-e ensān. تشريح بدن انسان ( dissection of human body ). Manuscript, c. 1450 , U.S. National Library of Medicine."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Canons_of_medicine.JPG/220px-Canons_of_medicine.JPG",
+                "caption": "A 500-year-old Latin translation of the Canon of Medicine by Avicenna ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Science_and_technology_in_Iran",
+        "title": "Science and technology in Iran",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Astronomy",
+        "text": "In 1000 AD, Biruni wrote an astronomical encyclopaedia that discussed the possibility that the earth might revolve around the sun. This was before Tycho Brahe drew the first maps of the sky, using stylized animals to depict the constellations. In the tenth century, the Persian astronomer Abd al-Rahman al-Sufi recorded the first known reference to the Andromeda galaxy, which he called a \"little cloud\". [21] In 830, the Persian mathematician al-Khwarizmi wrote the first major work of Muslim astronomy. In addition to presenting tables covering the movements of the Sun, Moon and the five planets, Ptolemaic concepts were introduced into Islamic science through this work. [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Astrolabe-Persian-18C.jpg/250px-Astrolabe-Persian-18C.jpg",
+                "caption": "An 18th century Persian astrolabe"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Science_and_technology_in_Iran",
+        "title": "Science and technology in Iran",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Physics",
+        "text": "Kamal al-Din Al-Farisi (1267–1318) born in Tabriz , Iran, is known for giving the first mathematically satisfactory (though incorrect) explanation of the rainbow, and an explication of the nature of colours that reformed the theory of Ibn al-Haytham. Al-Farisi also \"proposed a model where the ray of light from the sun was refracted twice by a water droplet, one or more reflections occurring between the two refractions.\" [ citation needed ] He tested this through experimentation using a transparent sphere filled with water.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Kamal-1.jpg/220px-Kamal-1.jpg",
+                "caption": "Kamal al-Din al-Farisi 's autograph manuscript in Optics, Tanqih al-Manazir, 1309 A.D., Adilnor Collection."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Science_and_technology_in_Iran",
+        "title": "Science and technology in Iran",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Student enrollment trends",
+        "text": "The result of greater spending on higher education has been a steep rise in tertiary enrollment. Between 2007 and 2013, student rolls swelled from 2.8 million to 4.4 million in the country's public and private universities. Some 45% of students were enrolled in private universities in 2011. There were more women studying than men in 2007, a proportion that has since dropped back slightly to 48%. [28] Enrollment has progressed in most fields. The most popular in 2013 were social sciences (1.9 million students, of which 1.1 million women) and engineering (1.5 million, of which 373 415 women). Women also made up two-thirds of medical students. One in eight bachelor's students go on to enroll in a master's/PhD programme. This is comparable to the ratio in the Republic of Korea and Thailand (one in seven) and Japan (one in ten). [28] The number of PhD graduates has progressed at a similar pace as university enrollment overall. Natural sciences and engineering have proved increasingly popular among both sexes, even if engineering remains a male-dominated field. In 2012, women made up one-third of PhD graduates, being drawn primarily to health (40% of PhD students), natural sciences (39%), agriculture (33%) and humanities and arts (31%). According to the UNESCO Institute for Statistics, 38% of master's and PhD students were studying science and engineering fields in 2011. [28] There has been an interesting evolution in the gender balance among PhD students. Whereas the share of female PhD graduates in health remained stable at 38–39% between 2007 and 2012, it rose in all three other broad fields. Most spectacular was the leap in female PhD graduates in agricultural sciences from 4% to 33% but there was also a marked progression in science (from 28% to 39%) and engineering (from 8% to 16% of PhD students). Although data are not readily available on the number of PhD graduates choosing to stay on as faculty, the relatively modest level of domestic research spending would suggest that academic research suffers from inadequate funding. [28] The Fifth Five-Year Economic Development Plan (2010–2015) fixed the target of attracting 25 000 foreign students to Iran by 2015. By 2013, there were about 14 000 foreign students attending Iranian universities, most of whom came from Afghanistan, Iraq, Pakistan, Syria and Turkey. In a speech delivered at the University of Tehran in October 2014, President Rouhani recommended greater interaction with the outside world. He said that One in four Iranian PhD students were studying abroad in 2012 (25.7%). The top destinations were Malaysia, the US, Canada, Australia, UK, France, Sweden and Italy. In 2012, one in seven international students in Malaysia was of Iranian origin. There is a lot of scope for the development of twinning between universities for teaching and research, as well as for student exchanges. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Students_enrolled_in_Iranian_universities%2C_2007_and_2013.svg/220px-Students_enrolled_in_Iranian_universities%2C_2007_and_2013.svg.png",
+                "caption": "Students enrolled in Iranian universities, 2007 and 2013. Source: UNESCO Science Report: towards 2030 (2015)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/PhD_graduates_in_Iran_by_field_of_study_and_gender%2C_2007_and_2012.svg/220px-PhD_graduates_in_Iran_by_field_of_study_and_gender%2C_2007_and_2012.svg.png",
+                "caption": "PhD graduates in Iran by field of study and gender, 2007 and 2012. Source: UNESCO Science Report: towards 2030 (2015)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Science_and_technology_in_Iran",
+        "title": "Science and technology in Iran",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Funding the transition to a knowledge economy",
+        "text": "Vision 2025 foresaw an investment of US$3.7 trillion by 2025 to finance the transition to a knowledge economy. It was intended for one-third of this amount to come from abroad but, so far, FDI has remained elusive. It has contributed less than 1% of GDP since 2006 and just 0.5% of GDP in 2014. Within the country's Fifth Five-Year Economic Development Plan (2010–2015), a National Development Fund has been established to finance efforts to diversify the economy. By 2013, the fund was receiving 26% of oil and gas revenue. [28] Much of the US$3.7 trillion earmarked in Vision 2025 is to go towards supporting investment in research and development by knowledge-based firms and the commercialization of research results. A law passed in 2010 provides an appropriate mechanism, the Innovation and Prosperity Fund. According to the fund's president, Behzad Soltani, 4600 billion Iranian rials (circa US$171.4 million) had been allocated to 100 knowledge-based companies by late 2014. Public and private universities wishing to set up private firms may also apply to the fund. [28] Some 37 industries trade shares on the Tehran Stock Exchange . These industries include the petrochemical, automotive, mining, steel, iron, copper, agriculture and telecommunications industries, 'a unique situation in the Middle East'. Most of the companies developing high technologies remain state-owned, including in the automotive and pharmaceutical industries, despite plans to privatize 80% of state-owned companies by 2014. It was estimated in 2014 that the private sector accounted for about 30% of the Iranian pharmaceutical market . [28] The Industrial Development and Renovation Organization (IDRO) controls about 290 state-owned companies. IDRO has set up special purpose companies in each high-tech sector to coordinate investment and business development. These entities are the Life Science Development Company, Information Technology Development Centre, Iran InfoTech Development Company and the Emad Semiconductor Company. In 2010, IDRO set up a capital fund to finance the intermediary stages of product- and technology-based business development within these companies. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Scientific_publication_trends_in_Iran%2C_2005%E2%80%932014%2C_Strong_growth_in_Iranian_publications.svg/220px-Scientific_publication_trends_in_Iran%2C_2005%E2%80%932014%2C_Strong_growth_in_Iranian_publications.svg.png",
+                "caption": "Trends in Iranian scientific publications, 2005–2014. Source: UNESCO Science Report: towards 2030 (2015)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Iranians_now_publish_most_in_engineering%2C_followed_by_chemistry.svg/220px-Iranians_now_publish_most_in_engineering%2C_followed_by_chemistry.svg.png",
+                "caption": "Iranian publications by field of science, 2008–2014. Source: UNESCO Science Report: towards 2030 (2015)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Science_and_technology_in_Iran",
+        "title": "Science and technology in Iran",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Innovation",
+        "text": "As of 2004, Iran's national innovation system (NIS) had not experienced a serious entrance to the technology creation phase and mainly exploited the technologies developed by other countries (e.g. in the petrochemicals industry ). [53] In 2016, Iran ranked second in the percentage of graduates in science and engineering in the Global Innovation Index . Iran also ranked fourth in tertiary education , 26 in knowledge creation, 31 in gross percentage of tertiary enrollment, 41 in general infrastructure, 48 in human capital as well as research and 51 in innovation efficiency ratio. [54] In recent years several drugmakers in Iran are gradually developing the ability to innovate, away from generic drugs production itself. [55] According to the State Registration Organization of Deeds and Properties , a total of 9,570 national inventions were registered in Iran during 2008. Compared with the previous year, there was a 38-percent increase in the number of inventions registered by the organization. [56] Iran was ranked 62nd in the Global Innovation Index in 2023, up from 67th in 2020. [57] [58] Iran has several funds to support entrepreneurship and innovation: [46]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Index_of_economic_complexity_-_Iran.svg/220px-Index_of_economic_complexity_-_Iran.svg.png",
+                "caption": "Economic complexity index for Iran (1964–2014)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Science_and_technology_in_Iran",
+        "title": "Science and technology in Iran",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Private sector",
+        "text": "The 5th Development Plan (2010–15) requires the private sector to communicate research needs to universities so that universities would coordinate research projects in line with these needs, with sharing of expenses by both sides. [52] Because of its weakness or absence, the support industry makes little contribution to the innovation/technology development activities. Supporting the development of small and medium enterprises in Iran will strengthen greatly the supplier network . [44] As of 2014, Iran had 930 industrial parks and zones, of which 731 are ready to be ceded to the private sector . [59] The government of Iran has plans for the establishment of 50–60 new industrial parks by the end of the fifth Five-Year Socioeconomic Development Plan (2015). [60] As of 2016, Iran had nearly 3,000 knowledge-based companies. [61] As of February 2023, this number increased to 8,046. The number of knowledge-based companies in biotechnology, agriculture, and food industries is 362, in advanced pharmaceuticals is 480, in advanced materials (chemistry and polymer) is 1130, and in advanced machinery and equipment is 1721. This number is 326 companies in the field of medical equipment, 1821 in electricity and electronics, 1778 in information technology, 397 in commercialization, and 31 companies in creative industries and humanities. [62] A 2003-report by the United Nations Industrial Development Organization regarding small and medium-sized enterprises (SMEs) [63] identified the following impediments to industrial development: The economic complexity ranking of Iran has increased by 1 places over the past 50 years from 66th in 1964 to 65th in 2014. [64] According to UNCTAD in 2016, private companies in Iran need better marketing strategies with emphasis on innovation . [61] Despite these problems, Iran has progressed in various scientific and technological fields, including petrochemical , pharmaceutical , aerospace , defense , and heavy industry . Even in the face of economic sanctions , Iran is emerging as an industrialized country . [65] Parallel to academic research, several companies have been founded in Iran during last few decades. For example, CinnaGen , established in 1992, is one of the pioneering biotechnology companies in the region. CinnaGen won Biotechnology Asia 2005 Innovation Awards due to its achievements and innovation in biotechnology research. In 2006, Parsé Semiconductor Co. announced it had designed and produced a 32-bit computer microprocessor inside the country for the first time. [66] Software companies are growing rapidly. In CeBIT 2006, ten Iranian software companies introduced their products. [67] [68] In FY 2019, around 5,000 Iranian knowledge-based companies sold $28 billion worth of products or services including pharmaceuticals and medical equipment, polymer and chemical products, and industrial machinery. Among them, 250 companies exported $400 million to Central Asia and all of Iran's direct neighbours. [69]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Samand_LX_Kermanshah.jpg/220px-Samand_LX_Kermanshah.jpg",
+                "caption": "IKCO 's Samand LX"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Science_and_technology_in_Iran",
+        "title": "Science and technology in Iran",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Science in modern Iran",
+        "text": "Theoretical and computational sciences are highly developed in Iran. [70] Despite the limitations in funds, facilities, and international collaborations, Iranian scientists have been very productive in several experimental fields such as pharmacology , pharmaceutical chemistry , and organic and polymer chemistry . Iranian biophysicists , especially molecular biophysicists, have gained international reputations since the 1990s [ citation needed ] . High field nuclear magnetic resonance facility, micro calorimetry , circular dichroism , and instruments for single protein channel studies have been provided in Iran during the past two decades. Tissue engineering and research on biomaterials have just started to emerge in biophysics departments. Considering the country's brain drain and its poor political relationship with the United States and some other Western countries, Iran's scientific community remains productive, even while economic sanctions make it difficult for universities to buy equipment or to send people to the United States to attend scientific meetings. [71] Furthermore, Iran considers scientific backwardness, as one of the root causes of political and military bullying by developed countries over developing states. [72] After the Iranian Revolution , there have been efforts by the religious scholars to assimilate Islam with modern science and this is seen by some as the reason behind the recent successes of Iran to augment its scientific output. [73] Currently Iran aims for a national goal of self-sustainment in all scientific arenas. [74] [75] Many individual Iranian scientists , along with the Iranian Academy of Medical Sciences and Academy of Sciences of Iran , are involved in this revival. The Comprehensive Scientific Plan has been devised based on about 51,000 pages of documents and includes 224 scientific projects that must be implemented by the year 2025. [76] [77]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/IUST_GATE.jpg/200px-IUST_GATE.jpg",
+                "caption": "Iran University of Science and Technology entrance"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Science_and_technology_in_Iran",
+        "title": "Science and technology in Iran",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Medical sciences",
+        "text": "With over 400 medical research facilities and 76 medical magazine indexes available in the country, Iran is the 19th country in medical research and is set to become the 10th within 10 years (2012). [ citation needed ] Clinical sciences are invested in highly in Iran. In areas such as rheumatology , hematology , and bone marrow transplantation , Iranian medical scientists publish regularly. [78] The Hematology, Oncology and Bone Marrow Transplantation Research Center (HORC) of Tehran University of Medical Sciences in Shariati Hospital was established in 1991. Internationally, this center is one of the largest bone marrow transplantation centers and has carried out a large number of successful transplantations. [79] According to a study conducted in 2005, associated specialized pediatric hematology and oncology (PHO) services exist in almost all major cities throughout the country, where 43 board-certified or eligible pediatric hematologist–oncologists are giving care to children suffering from cancer or hematological disorders. Three children's medical centers at universities have approved PHO fellowship programs. [80] Besides hematology, gastroenterology has recently attracted many talented medical students. The gasteroenterology research center based at Tehran University of Medical Sciences has produced increasing numbers of scientific publications since its establishment. Modern organ transplantation in Iran dates to 1935, when the first cornea transplant in Iran was performed by Professor Mohammad-Qoli Shams at Farabi Eye Hospital in Tehran, Iran. The Shiraz Nemazi transplant center, also one of the pioneering transplant units of Iran, performed the first Iranian kidney transplant in 1967 and the first Iranian liver transplant in 1995. The first heart transplant in Iran was performed in 1993 in Tabriz. The first lung transplant was performed in 2001, and the first heart and lung transplants were performed in 2002, both at Tehran University of Medical Sciences . [81] Currently, renal, liver, and heart transplantations are routinely performed in Iran. Iran ranks fifth in the world in kidney transplants. [82] The Iranian Tissue Bank, commencing in 1994, was the first multi-facility tissue bank in country. In June 2000, the Organ Transplantation Brain Death Act was approved by the Parliament, followed by the establishment of the Iranian Network for Transplantation Organ Procurement. This act helped to expand heart, lung, and liver transplantation programs. By 2003, Iran had performed 131 liver, 77 heart, 7 lung, 211 bone marrow, 20,581 cornea, and 16,859 renal transplantations. 82 percent of these were donated by living and unrelated donors; 10 percent by cadavers; and 8 percent came from living-related donors. The 3-year renal transplant patient survival rate was 92.9%, and the 40-month graft survival rate was 85.9%. [81] Neuroscience is also emerging in Iran. [83] A few PhD programs in cognitive and computational neuroscience have been established in the country during recent decades. [84] Iran ranks first in Mideast and region in ophthalmology . [85] [86] Iranian surgeons treating wounded Iranian veterans during the Iran–Iraq War invented a new neurosurgical treatment for brain injured patients that laid to rest the previously prevalent technique developed by US Army surgeon Dr Ralph Munslow. This new surgical procedure helped devise new guidelines that have decreased death rates for comatosed patients with penetrating brain injuries from 55% of 1980 to 20% of 2010. It has been said that these new treatment guidelines benefited US congresswoman Gabby Giffords who had been shot in the head . [87] [88] [89]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MoslemBahadori.jpg/200px-MoslemBahadori.jpg",
+                "caption": "Prof Moslem Bahadori , one of the pioneering figures in modern Iranian medicine"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Science_and_technology_in_Iran",
+        "title": "Science and technology in Iran",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Biotechnology",
+        "text": "Planning and attention to biotechnology in Iran started in 1996 with the formation of the Supreme Council for Biotechnology. The Biotech National Document targeted to develop the technology in the country in 2004 was approved by the government. In 1999, with the aim of developing and synergies, particularly with regard to the importance of new technologies and strategic location of biotechnology, the Biotechnology Development Council was established under the vice presidency of science and technology and all activities of the former Supreme Council were held at the headquarters.\nAccording to the Supreme Leader, emphasis on special attention to the development of biotechnology and biotech presenting to emphasize the development of a five-year program of economic, social and cultural, Biotech Development Council according to Act 705 dated 27/10/1390 Session Supreme Council of the Cultural Revolution as The main reference of Policy, planning, strategy implementation, coordination and monitoring in the field of biotechnology was determined. Iran has a biotechnology sector that is one of the most advanced in the developing world. [90] [91] The Razi Institute for Serums and Vaccines and the Pasteur Institute of Iran are leading regional facilities in the development and manufacture of vaccines. In January 1997, the Iranian Biotechnology Society (IBS) was created to oversee biotechnology research in Iran. [90] Agricultural research has been successful in releasing high-yielding varieties with higher stability as well as tolerance to harsh weather conditions. The agriculture researchers are working jointly with international Institutes to find the best procedures and genotypes to overcome produce failure and to increase yield. In 2005, Iran's first genetically modified (GM) rice was approved by national authorities and is being grown commercially for human consumption. In addition to GM rice, Iran has produced several GM plants in the laboratory, such as insect-resistant maize; cotton; potatoes and sugar beets; herbicide-resistant canola; salinity- and drought-tolerant wheat; and blight-resistant maize and wheat. [92] The Royan Institute engineered Iran's first cloned animal ; the sheep was born on 2 August 2006 and passed the critical first two months of his life. [93] [94] In the last months of 2006, Iranian biotechnologists announced that they, as the third manufacturer in the world, have sent CinnoVex (a recombinant type of Interferon b1a) to the market. [95] According to a study by David Morrison and Ali Khademhosseini (Harvard-MIT and Cambridge), stem cell research in Iran is amongst the top 10 in the world. [96] Iran planned to invest 2.5 billion dollars in the country's stem cell research in the years 2008–2013. [97] Iran ranks second in the world in transplantation of stem cells. [98] According to Scopus , Iran ranked 21st in biotechnology by producing nearly 4,000 related-scientific articles in 2014. [99] In 2010, AryoGen Biopharma established the biggest and most modern knowledge-based facility for production of therapeutic monoclonal antibodies in the region. As at 2012, Iran produced 15 types of monoclonal/anti-body drugs. These anti-cancer drugs are now produced by only two to three western companies. [100] In 2015, Noargen [101] company was established as the first officially registered CRO and CMO in Iran. Noargen uses the concept of CMO and CRO servicing to the biopharma sector of Iran as its main activity to fill the gap and promote developing biotech ideas/products toward commercialization.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Inside_Aryogen.jpg/220px-Inside_Aryogen.jpg",
+                "caption": "Inside AryoGen 's production line"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Laser_DSC09088.JPG/220px-Laser_DSC09088.JPG",
+                "caption": "Ali Javan first proposed and co-invented the gas laser . [ citation needed ]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Science_and_technology_in_Iran",
+        "title": "Science and technology in Iran",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Chemistry and nanotechnology",
+        "text": "Iran is ranked 120th in the field of chemistry (2018). [121] In 2007, Iranian scientists at the Medical Sciences and Technology Center succeeded in mass-producing an advanced scanning microscope—the Scanning Tunneling Microscope (STM). [122] By 2017, Iran ranked 4th in ISI indexed nano-articles. [123] [124] [125] [126] [127] Iran has designed and mass-produced more than 35 kinds of advanced nanotechnology devices. These include laboratory equipment, antibacterial strings, power station filters and construction related equipment and materials. [128] Research in nanotechnology has taken off in Iran since the Nanotechnology Initiative Council (NIC) was founded in 2002. The council determines the general policies for the development of nanotechnology and co-ordinates their implementation. It provides facilities, creates markets and helps the private sector to develop relevant R&D activities. In the past decade, 143 nanotech companies have been established in eight industries. More than one-quarter of these are found in the health care industry, compared to just 3% in the automotive industry. [28] Today, five research centres specialize in nanotechnology, including the Nanotechnology Research Centre at Sharif University, which established Iran's first doctoral programme in nanoscience and nanotechnology a decade ago. Iran also hosts the International Centre on Nanotechnology for Water Purification, established in collaboration with UNIDO in 2012. In 2008, NIC established an Econano network to promote the scientific and industrial development of nanotechnology among fellow members of the Economic Cooperation Organization, namely Afghanistan, Azerbaijan, Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan, Turkey, Turkmenistan and Uzbekistan. [28] Iran recorded strong growth in the number of articles on nanotechnology between 2009 and 2013, according to Thomson Reuters' Web of Science. By 2013, Iran ranked seventh for this indicator. The number of articles per million population has tripled to 59, overtaking Japan in the process. Few patents are being granted to Iranian inventors in nanotechnology, as yet, however. The ratio of nanotechnology patents to articles was 0.41 per 100 articles for Iran in 2015. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Trends_in_nanotechnology_in_Iran%2C_Iran_is_now_ranked_seventh_worldwide_for_the_number_of_nanotech-related_papers.svg/220px-Trends_in_nanotechnology_in_Iran%2C_Iran_is_now_ranked_seventh_worldwide_for_the_number_of_nanotech-related_papers.svg.png",
+                "caption": "Number of Iranian articles on nanotechnology in 2014. Source: UNESCO Science Report: towards 2030 (2015)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Trends_in_nanotechnology_in_Iran%2C_The_143_Iranian_nanotech_companies_are_active_in_eight_industries.svg/220px-Trends_in_nanotechnology_in_Iran%2C_The_143_Iranian_nanotech_companies_are_active_in_eight_industries.svg.png",
+                "caption": "Industries in which Iranian nanotech companies are active. Source: UNESCO Science Report: towards 2030"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Science_and_technology_in_Iran",
+        "title": "Science and technology in Iran",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Aviation and space",
+        "text": "On 17 August 2008, The Iranian Space Agency proceeded with the second test launch of a three stages Safir SLV from a site south of Semnan in the northern part of the Dasht-e-Kavir desert . The Safir (Ambassador) satellite carrier successfully launched the Omid satellite into orbit in February 2009. [129] [130] Iran is the 9th country to put a domestically built satellite into orbit since the Soviet Union launched the first in 1957. [131] Iran is among a handful of countries in the world capable of developing satellite-related technologies, including satellite navigation systems . [132] Iran is the 8th country capable of manufacturing jet engines . [133]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%D8%B3%DB%8C%D9%85%D8%B1%D8%BA_-_%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD_%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87_%D9%85%D9%84%DB%8C_%D9%81%D8%B6%D8%A7%DB%8C%DB%8C_%D8%A7%D9%85%D8%A7%D9%85_%D8%AE%D9%85%DB%8C%D9%86%DB%8C%28%D8%B1%D9%87%29_%282%29.jpg/220px-%D8%B3%DB%8C%D9%85%D8%B1%D8%BA_-_%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD_%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87_%D9%85%D9%84%DB%8C_%D9%81%D8%B6%D8%A7%DB%8C%DB%8C_%D8%A7%D9%85%D8%A7%D9%85_%D8%AE%D9%85%DB%8C%D9%86%DB%8C%28%D8%B1%D9%87%29_%282%29.jpg",
+                "caption": "Simorgh launch . Iranian Space Agency"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Science_and_technology_in_Iran",
+        "title": "Science and technology in Iran",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Armaments",
+        "text": "Iran possesses the technology to launch superfast anti-submarine rockets that can travel at the speed of 100 meters per second under water, making the country second only to Russia in possessing the technology. [149] Iran is among the few countries that possess the technological know-how of the unmanned aerial vehicles (UAV) fitted with scanning and reconnaissance systems. [150] Since 1992, it also has produced its own tanks, armored personnel carriers, sophisticated radars, guided missiles, a submarine, and fighter planes . [151]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Trends_in_nanotechnology_in_Iran%2C_Average_citations_of_Iranian_nanotech_articles%2C_in_comparison_with_those_of_other_leading_countries%2C_2013.svg/220px-Trends_in_nanotechnology_in_Iran%2C_Average_citations_of_Iranian_nanotech_articles%2C_in_comparison_with_those_of_other_leading_countries%2C_2013.svg.png",
+                "caption": "Average citations of Iranian nanotech articles, in comparison with those of other leading countries, 2013. Source: UNESCO Science Report: towards 2030 (2015)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Science_and_technology_in_Iran",
+        "title": "Science and technology in Iran",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Contribution of Iranians and people of Iranian origin to modern science",
+        "text": "Scientists with an Iranian background have made significant contributions to the international scientific community with Sunnis making up to 35% of the contributoons according to IranPolls. [161] In 1960, Ali Javan invented first gas laser. In 1973, the fuzzy set theory was developed by Lotfi Zadeh . Iranian cardiologist Tofy Mussivand invented the first artificial heart and afterwards developed it further. HbA1c was discovered by Samuel Rahbar and introduced to the medical community. The Vafa-Witten theorem was proposed by Cumrun Vafa , an Iranian string theorist, and his co-worker Edward Witten . Nima Arkani-Hamed , is a noted theoretical physicist at the Institute for Advanced Study in Princeton who is known for large extra dimensions and scattering amplitudes. The Kardar-Parisi-Zhang (KPZ) equation has been named after Mehran Kardar , notable Iranian physicist. Other examples of notable discoveries and innovations by Iranian scientists and engineers (or of Iranian origin) include: Many Iranian scientist received internationally recognised awards. Examples are:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ahmad_Reza_Dehpour.jpg/120px-Ahmad_Reza_Dehpour.jpg",
+                "caption": "Ahmad Reza Dehpour , Iran's most prolific researcher of the year 2006"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Science_and_technology_in_Iran",
+        "title": "Science and technology in Iran",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Iranian journals listed in the Institute for Scientific Information (ISI)",
+        "text": "According to the Institute for Scientific Information (ISI), Iranian researchers and scientists have published a total of 60,979 scientific studies in major international journals in the last 19 years (1990–2008). [232] [233] Iran science production growth (as measured by the number of publications in science journals) is reportedly the \"fastest in the world\", followed by Russia and China respectively (2017/18). [234]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Natureestaki.jpg/500px-Natureestaki.jpg",
+                "caption": "Iranian neuroscientists have also published in highly acclaimed journals. This nature paper is an example of such a research work carried out by Iranians who did their majority training and research in Iran"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Science_and_technology_in_Iran",
+        "title": "Science and technology in Iran",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Materials",
+        "text": "Due to the physical and electrochemical properties of sodium, SIBs require different materials from those used for LIBs. [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sodium-ion_battery_systems.png/300px-Sodium-ion_battery_systems.png",
+                "caption": "Illustration of the various electrode structures in sodium-ion batteries"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sodium-ion_battery",
+        "title": "Sodium-ion battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    },
+    {
+        "section": "Faradion Limited",
+        "text": "Faradion Limited is a subsidiary of India's Reliance Industries . [76] Its cell design uses oxide cathodes with hard carbon anode and a liquid electrolyte. Their pouch cells have energy densities comparable to commercial Li-ion batteries (160 Wh/kg at cell-level) with good rate performance till 3C and cycle lives of 300 (100% depth of discharge ) to over 1,000 cycles (80% depth of discharge). Its battery packs have demonstrated use for e-bike and e-scooter applications. [36] They demonstrated transporting sodium-ion cells in the shorted state (at 0 V), eliminating risks from commercial transport of such cells. [77] It is partnering with AMTE Power plc [78] (formerly known as AGM Batteries Limited). [79] [80] [81] [82] In November 2019, Faradion co-authored a report with Bridge India [83] titled 'The Future of Clean Transportation: Sodium-ion Batteries' [84] looking at the growing role India can play in manufacturing sodium-ion batteries. On December 5, 2022, Faradion installed its first sodium-ion battery for Nation in New South Wales Australia. [85]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Faradion_sodium-ion_battery_-_Science_Museum%2C_London.jpg/220px-Faradion_sodium-ion_battery_-_Science_Museum%2C_London.jpg",
+                "caption": "A Faradion sodium-ion battery manufactured in 2022"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Sodium-ion_battery",
+        "title": "Sodium-ion battery",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Battery technologies and advances"
+    }
+]

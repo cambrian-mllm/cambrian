@@ -1,0 +1,1244 @@
+[
+    {
+        "section": "Calculating the amount of available power",
+        "text": "A hydropower resource can be evaluated by its available power . Power is a function of the hydraulic head and volumetric flow rate . The head is the energy per unit weight (or unit mass) of water. [5] The static head is proportional to the difference in height through which the water falls. Dynamic head is related to the velocity of moving water. Each unit of water can do an amount of work equal to its weight times the head. The power available from falling water can be calculated from the flow rate and density of water, the height of fall, and the local acceleration due to gravity: To illustrate, the power output of a turbine that is 85% efficient, with a flow rate of 80 cubic metres per second (2800 cubic feet per second) and a head of 145 metres (476 feet), is 97 megawatts: [note 1] Operators of hydroelectric stations compare the total electrical energy produced with the theoretical potential energy of the water passing through the turbine to calculate efficiency. Procedures and definitions for calculation of efficiency are given in test codes such as ASME PTC 18 and IEC 60041. Field testing of turbines is used to validate the manufacturer's efficiency guarantee. Detailed calculation of the efficiency of a hydropower turbine accounts for the head lost due to flow friction in the power canal or penstock, rise in tailwater level due to flow, the location of the station and effect of varying gravity, the air temperature and barometric pressure, the density of the water at ambient temperature, and the relative altitudes of the forebay and tailbay. For precise calculations, errors due to rounding and the number of significant digits of constants must be considered. [6] Some hydropower systems such as water wheels can draw power from the flow of a body of water without necessarily changing its height. In this case, the available power is the kinetic energy of the flowing water. Over-shot water wheels can efficiently capture both types of energy. [7] The flow in a stream can vary widely from season to season. The development of a hydropower site requires analysis of flow records , sometimes spanning decades, to assess the reliable annual energy supply. Dams and reservoirs provide a more dependable source of power by smoothing seasonal changes in water flow. However, reservoirs have a significant environmental impact , as does alteration of naturally occurring streamflow. Dam design must account for the worst-case, \"probable maximum flood\" that can be expected at the site; a spillway is often included to route flood flows around the dam. A computer model of the hydraulic basin and rainfall and snowfall records are used to predict the maximum flood. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_Dam_%282890371280%29.jpg/280px-The_Dam_%282890371280%29.jpg",
+                "caption": "The Three Gorges Dam in China; the hydroelectric dam is the world's largest power station by installed capacity ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydropower",
+        "title": "Hydropower",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Role in addressing climate change",
+        "text": "As part of the global effort to limit climate change , most countries have committed to net zero greenhouse gas emissions . [26] In practice, this means phasing out fossil fuels and replacing them with low-emissions energy sources. [12] At the 2023 United Nations Climate Change Conference , around three-quarters of the world's countries set a goal of tripling renewable energy capacity by 2030. [27] The European Union aims to generate 40% of its electricity from renewables by the same year. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2021_Death_rates%2C_by_energy_source.svg/300px-2021_Death_rates%2C_by_energy_source.svg.png",
+                "caption": "Deaths caused as a result of fossil fuel use (areas of rectangles in chart) greatly exceed those resulting from production of renewable energy (rectangles barely visible in chart). [25]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Intermittency",
+        "text": "The two most important forms of renewable energy, solar and wind, are intermittent energy sources : they are not available constantly, resulting in lower capacity factors . In contrast, fossil fuel power plants are usually able to produce precisely the amount of energy an electricity grid requires at a given time. Solar energy can only be captured during the day, and ideally in cloudless conditions. Wind power generation can vary significantly not only day-to-day, but even month-to-month. [31] This poses a challenge when transitioning away from fossil fuels: energy demand will often be higher or lower than what renewables can provide. [32] Both scenarios can cause electricity grids to become overloaded, leading to power outages . In the medium-term, this variability may require keeping some gas-fired power plants or other dispatchable generation on standby [33] [34] until there is enough energy storage, demand response , grid improvement, and/or baseload power from non-intermittent sources. In the long-term, energy storage is an important way of dealing with intermittency. [35] Using diversified renewable energy sources and smart grids can also help flatten supply and demand. [36] Sector coupling of the power generation sector with other sectors may increase flexibility: for example the transport sector can be coupled by charging electric vehicles and sending electricity from vehicle to grid . [37] Similarly the industry sector can be coupled by hydrogen produced by electrolysis, [38] and the buildings sector by thermal energy storage for space heating and cooling. [39] Building overcapacity for wind and solar generation can help ensure sufficient electricity production even during poor weather. In optimal weather, it may be necessary to curtail energy generation if it is not possible to use or store excess electricity. [40]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Renewables_need_flexible_backup_not_baseload.png/300px-Renewables_need_flexible_backup_not_baseload.png",
+                "caption": "Estimated power demand over a week in May 2012 and May 2020, Germany, showing the variability in solar and wind power both day-to-day and month-to-month."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Solar energy",
+        "text": "Solar power produced around 1.3 terrawatt-hours (TWh) worldwide in 2022, [10] representing 4.6% of the world's electricity. Almost all of this growth has happened since 2010. [52] Solar energy can be harnessed anywhere that receives sunlight; however, the amount of solar energy that can be harnessed for electricity generation is influenced by weather conditions , geographic location and time of day. [53] There are two mainstream ways of harnessing solar energy: solar thermal , which converts solar energy into heat; and photovoltaics (PV), which converts it into electricity. [12] PV is far more widespread, accounting for around two thirds of the global solar energy capacity as of 2022. [54] It is also growing at a much faster rate, with 170 GW newly installed capacity in 2021, [55] compared to 25 GW of solar thermal. [54] Passive solar refers to a range of construction strategies and technologies that aim to optimize the distribution of solar heat in a building. Examples include solar chimneys , [12] orienting a building to the sun, using construction materials that can store heat , and designing spaces that naturally circulate air . [56] From 2020 to 2022, solar technology investments almost doubled from USD 162 billion to USD 308 billion, driven by the sector's increasing maturity and cost reductions, particularly in solar photovoltaic (PV), which accounted for 90% of total investments. China and the United States were the main recipients, collectively making up about half of all solar investments since 2013. Despite reductions in Japan and India due to policy changes and COVID-19 , growth in China, the United States, and a significant increase from Vietnam's feed-in tariff program offset these declines. Globally, the solar sector added 714 gigawatts (GW) of solar PV and concentrated solar power (CSP) capacity between 2013 and 2021, with a notable rise in large-scale solar heating installations in 2021, especially in China, Europe, Turkey, and Mexico. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/SolarFachwerkhaus.jpg/220px-SolarFachwerkhaus.jpg",
+                "caption": "A small, roof-top mounted PV system in Bonn , Germany"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Mount_Komekura_Photovoltaic_power_plant_Jan2012.JPG/220px-Mount_Komekura_Photovoltaic_power_plant_Jan2012.JPG",
+                "caption": "Komekurayama photovoltaic power station in Kofu , Japan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Photovoltaics",
+        "text": "A photovoltaic system , consisting of solar cells assembled into panels , converts light into electrical direct current via the photoelectric effect . [60] PV has several advantages that make it by far the fastest-growing renewable energy technology. It is cheap, low-maintenance and scalable; adding to an existing PV installation as demanded arises is simple. Its main disadvantage is its poor performance in cloudy weather. [12] PV systems range from small, residential and commercial rooftop or building integrated installations, to large utility-scale photovoltaic power station . [61] A household's solar panels can either be used for just that household or, if connected to an electrical grid, can be aggregated with millions of others. [62] The first utility-scale solar power plant was built in 1982 in Hesperia, California by ARCO . [63] The plant was not profitable and was sold eight years later. [64] However, over the following decades, PV cells became significantly more efficient and cheaper. [65] As a result, PV adoption has grown exponentially since 2010. [66] Global capacity increased from 230 GW at the end of 2015 to 890 GW in 2021. [67] PV grew fastest in China between 2016 and 2021, adding 560 GW, more than all advanced economies combined. [68] Four of the ten biggest solar power stations are in China, including the biggest, Golmud Solar Park in China. [69]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg/220px-1975_%E2%80%93_Price_of_solar_panels_as_a_function_of_cumulative_installed_capacity.svg.png",
+                "caption": "Swanson's law –stating that solar module prices have dropped about 20% for each doubling of installed capacity—defines the \" learning rate \" of solar photovoltaics . [58] [59]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Wind power",
+        "text": "Humans have harnessed wind energy since at least 3500 BC. Until the 20th century, it was primarily used to power ships, windmills and water pumps. Today, the vast majority of wind power is used to generate electricity using wind turbines. [12] Modern utility-scale wind turbines range from around 600 kW to 9 MW of rated power. The power available from the wind is a function of the cube of the wind speed, so as wind speed increases, power output increases up to the maximum output for the particular turbine. [76] Areas where winds are stronger and more constant, such as offshore and high-altitude sites, are preferred locations for wind farms. Wind-generated electricity met nearly 4% of global electricity demand in 2015, with nearly 63 GW of new wind power capacity installed. Wind energy was the leading source of new capacity in Europe, the US and Canada, and the second largest in China. In Denmark, wind energy met more than 40% of its electricity demand while Ireland, Portugal and Spain each met nearly 20%. [77] Globally, the long-term technical potential of wind energy is believed to be five times total current global energy production, or 40 times current electricity demand, assuming all practical barriers needed were overcome. This would require wind turbines to be installed over large areas, particularly in areas of higher wind resources, such as offshore, and likely also industrial use of new types of VAWT turbines in addition to the horizontal axis units currently in use. As offshore wind speeds average ~90% greater than that of land, offshore resources can contribute substantially more energy than land-stationed turbines. [78] Investments in wind technologies reached USD 161 billion in 2020, with onshore wind dominating at 80% of total investments from 2013 to 2022. Offshore wind investments nearly doubled to USD 41 billion between 2019 and 2020, primarily due to policy incentives in China and expansion in Europe. Global wind capacity increased by 557 GW between 2013 and 2021, with capacity additions increasing by an average of 19% each year. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Pretty_flamingos_-_geograph.org.uk_-_578705.jpg/170px-Pretty_flamingos_-_geograph.org.uk_-_578705.jpg",
+                "caption": "Burbo , NW-England"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fentonwindpark1.jpg/220px-Fentonwindpark1.jpg",
+                "caption": "Sunrise at the Fenton Wind Farm in Minnesota, United States"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wind_energy_generation_by_region%2C_OWID.svg/300px-Wind_energy_generation_by_region%2C_OWID.svg.png",
+                "caption": "Wind energy generation by region over time [72]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Hydropower",
+        "text": "Since water is about 800 times denser than air , even a slow flowing stream of water, or moderate sea swell , can yield considerable amounts of energy. Water can generate electricity with a conversion efficiency of about 90%, which is the highest rate in renewable energy. [82] There are many forms of water energy: Much hydropower is flexible, thus complementing wind and solar. [86] In 2021, the world renewable hydropower capacity was 1,360 GW. [68] Only a third of the world's estimated hydroelectric potential of 14,000 TWh/year has been developed. [87] [88] New hydropower projects face opposition from local communities due to their large impact, including relocation of communities and flooding of wildlife habitats and farming land. [89] High cost and lead times from permission process, including environmental and risk assessments, with lack of environmental and social acceptance are therefore the primary challenges for new developments. [90] It is popular to repower old dams thereby increasing their efficiency and capacity as well as quicker responsiveness on the grid. [91] Where circumstances permit existing dams such as the Russell Dam built in 1985 may be updated with \"pump back\" facilities for pumped-storage which is useful for peak loads or to support intermittent wind and solar power. Because dispatchable power is more valuable than VRE [92] [93] countries with large hydroelectric developments such as Canada and Norway are spending billions to expand their grids to trade with neighboring countries having limited hydro. [94]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/220px-ThreeGorgesDam-China2009.jpg",
+                "caption": "The Three Gorges Dam for hydropower on the Yangtze River in China"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Three_gorges_dam_from_space.jpg/220px-Three_gorges_dam_from_space.jpg",
+                "caption": "Three Gorges Dam and Gezhouba Dam , China"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Bioenergy",
+        "text": "Biomass is biological material derived from living, or recently living organisms. Most commonly, it refers to plants or plant-derived materials. As an energy source, biomass can either be used directly via combustion to produce heat, or converted to a more energy-dense biofuel like ethanol. Wood is the most significant biomass energy source as of 2012 [98] and is usually sourced from a trees cleared for silvicultural reasons or fire prevention . Municipal wood waste – for instance, construction materials or sawdust – is also often burned for energy. [99] The biggest per-capita producers of wood-based bioenergy are heavily forested countries like Finland, Sweden, Estonia, Austria, and Denmark. [100] Bioenergy can be environmentally destructive if old-growth forests are cleared to make way for crop production. In particular, demand for palm oil to produce biodiesel has contributed to the deforestation of tropical rainforests in Brazil and Indonesia. [101] In addition, burning biomass still produces carbon emissions, although much less than fossil fuels (39 grams of CO 2 per megajoule of energy, compared to 75 g/MJ for fossil fuels). [102]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Metz_biomass_power_station.jpg/220px-Metz_biomass_power_station.jpg",
+                "caption": "A CHP power station using wood to supply 30,000 households in France"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Biofuel",
+        "text": "Biofuels are primarily used in transportation, providing 3.5% of the world's transport energy demand in 2022, [103] up from 2.7% in 2010. [104] Biojet is expected to be important for short-term reduction of carbon dioxide emissions from long-haul flights. [105] Aside from wood, the major sources of bioenergy are bioethanol and biodiesel . [12] Bioethanol is usually produced by fermenting the sugar components of crops like sugarcane and maize , while biodiesel is mostly made from oils extracted from plants, such as soybean oil and corn oil . [106] Most of the crops used to produce bioethanol and biodiesel are grown specifically for this purpose, [107] although used cooking oil accounted for 14% of the oil used to produce biodiesel as of 2015. [106] The biomass used to produce biofuels varies by region. Maize is the major feedstock in the United States, while sugarcane dominates in Brazil. [108] In the European Union, where biodiesel is more common than bioethanol, rapeseed oil and palm oil are the main feedstocks. [109] China, although it produces comparatively much less biofuel, uses mostly corn and wheat. [110] In many countries, biofuels are either subsidized or mandated to be included in fuel mixtures . [101] There are many other sources of bioenergy that are more niche, or not yet viable at large scales. For instance, bioethanol could be produced from the cellulosic parts of crops, rather than only the seed as is common today. [111] Sweet sorghum may be a promising alternative source of bioethanol, due to its tolerance of a wide range of climates. [112] Cow dung can be converted into methane. [113] There is also a great deal of research involving algal fuel , which is attractive because algae is a non-food resource, grows around 20 times faster than most food crops, and can be grown almost anywhere. [114]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Faz_S_Sofia_canavial_090607_REFON.JPG/220px-Faz_S_Sofia_canavial_090607_REFON.JPG",
+                "caption": "Sugarcane plantation to produce ethanol in Brazil"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Soybeanbus.jpg/220px-Soybeanbus.jpg",
+                "caption": "A bus fueled by biodiesel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Geothermal energy",
+        "text": "Geothermal energy is thermal energy (heat) extracted from the Earth's crust . It originates from several different sources , of which the most significant is slow radioactive decay of minerals contained in the Earth's interior , [12] as well as some leftover heat from the formation of the Earth . [119] Some of the heat is generated near the Earth's surface in the crust, but some also flows from deep within the Earth from the mantle and core . [119] Geothermal energy extraction is viable mostly in countries located on tectonic plate edges, where the Earth's hot mantle is more exposed. [120] As of 2023, the United States has by far the most geothermal capacity (2.7 GW, [121] or less than 0.2% of the country's total energy capacity [122] ), followed by Indonesia and the Philippines. Global capacity in 2022 was 15 GW. [121] Geothermal energy can be either used directly to heat homes, as is common in Iceland, or to generate electricity. At smaller scales, geothermal power can be generated with geothermal heat pumps , which can extract heat from ground temperatures of under 30 °C (86 °F), allowing them to be used at relatively shallow depths of a few meters. [120] Electricity generation requires large plants and ground temperatures of at least 150 °C (302 °F). In some countries, electricity produced from geothermal energy accounts for a large portion of the total, such as Kenya (43%) and Indonesia (5%). [123] Technical advances may eventually make geothermal power more widely available. For example, enhanced geothermal systems involve drilling around 10 kilometres (6.2 mi) into the Earth, breaking apart hot rocks and extracting the heat using water. In theory, this type of geothermal energy extraction could be done anywhere on Earth. [120]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/220px-NesjavellirPowerPlant_edit2.jpg",
+                "caption": "Steam rising from the Nesjavellir Geothermal Power Station in Iceland"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/West_Ford_Flat_Geothermal_Cooling_Tower.JPG/170px-West_Ford_Flat_Geothermal_Cooling_Tower.JPG",
+                "caption": "Geothermal plant at The Geysers , California, US"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Krafla_geothermal_power_station_wiki.jpg/220px-Krafla_geothermal_power_station_wiki.jpg",
+                "caption": "Krafla , a geothermal power station in Iceland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Marine energy",
+        "text": "Marine energy (also sometimes referred to as ocean energy) is the energy carried by ocean waves , tides , salinity , and ocean temperature differences . Technologies to harness the energy of moving water include wave power , marine current power , and tidal power . Reverse electrodialysis (RED) is a technology for generating electricity by mixing fresh water and salty sea water in large power cells. [130] Most marine energy harvesting technologies are still at low technology readiness levels and not used at large scales. Tidal energy is generally considered the most mature, but has not seen wide deployment. [131] The world's largest tidal power station is on Sihwa Lake , South Korea, [132] which produces around 550 gigawatt-hours of electricity per year. [133]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sihwa_Lake_Tidal_Power_Station_aerial_view.jpg/220px-Sihwa_Lake_Tidal_Power_Station_aerial_view.jpg",
+                "caption": "Aerial view of Sihwa Tidal Power Station in South Korea"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Growth of renewables",
+        "text": "The results of a recent review of the literature concluded that as greenhouse gas (GHG) emitters begin to be held liable for damages resulting from GHG emissions resulting in climate change, a high value for liability mitigation would provide powerful incentives for deployment of renewable energy technologies. [181] In the decade of 2010–2019, worldwide investment in renewable energy capacity excluding large hydropower amounted to US$2.7 trillion, of which the top countries China contributed US$818 billion, the United States contributed US$392.3 billion, Japan contributed US$210.9 billion, Germany contributed US$183.4 billion, and the United Kingdom contributed US$126.5 billion. [182] This was an increase of over three and possibly four times the equivalent amount invested in the decade of 2000–2009 (no data is available for 2000–2003). [182] As of 2022, an estimated 28% of the world's electricity was generated by renewables. This is up from 19% in 1990. [183]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20210119_Renewable_energy_investment_-_2004-_BloombergNEF.svg/232px-20210119_Renewable_energy_investment_-_2004-_BloombergNEF.svg.png",
+                "caption": "Investment: Companies, governments and households have committed increasing amounts to decarbonization, including renewable energy (solar, wind), electric vehicles and associated charging infrastructure, energy storage, energy-efficient heating systems, carbon capture and storage, and hydrogen. [171] [172]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20201019_Levelized_Cost_of_Energy_%28LCOE%2C_Lazard%29_-_renewable_energy.svg/232px-20201019_Levelized_Cost_of_Energy_%28LCOE%2C_Lazard%29_-_renewable_energy.svg.png",
+                "caption": "Levelized cost: With increasingly widespread implementation of renewable energy sources, costs have declined, most notably for energy generated by solar panels. [175] [176] Levelized cost of energy (LCOE) is a measure of the average net present cost of electricity generation for a generating plant over its lifetime."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Future projections",
+        "text": "A December 2022 report by the IEA forecasts that over 2022-2027, renewables are seen growing by almost 2 400 GW in its main forecast, equal to the entire installed power capacity of China in 2021. This is an 85% acceleration from the previous five years, and almost 30% higher than what the IEA forecast in its 2021 report, making its largest ever upward revision. Renewables are set to account for over 90% of global electricity capacity expansion over the forecast period. [68] To achieve net zero emissions by 2050, IEA believes that 90% of global electricity generation will need to be produced from renewable sources. [17] In June 2022 IEA Executive Director Fatih Birol said that countries should invest more in renewables to \"ease the pressure on consumers from high fossil fuel prices, make our energy systems more secure, and get the world on track to reach our climate goals.\" [185] China's five year plan to 2025 includes increasing direct heating by renewables such as geothermal and solar thermal. [186] REPowerEU , the EU plan to escape dependence on fossil Russian gas , is expected to call for much more green hydrogen . [187] After a transitional period, [188] renewable energy production is expected to make up most of the world's energy production. In 2018, the risk management firm, DNV GL , forecasts that the world's primary energy mix will be split equally between fossil and non-fossil sources by 2050. [189]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2010-_Fossil_fuels_vs_Wind_%2B_Solar_-_electricity_generation.svg/220px-2010-_Fossil_fuels_vs_Wind_%2B_Solar_-_electricity_generation.svg.png",
+                "caption": "In 2023, electricity generation from wind and solar sources was projected to exceed 30% by 2030. [184]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Policy",
+        "text": "Policies to support renewable energy have been vital in their expansion. Where Europe dominated in establishing energy policy in the early 2000s, most countries around the world now have some form of energy policy. [199] The International Renewable Energy Agency (IRENA) is an intergovernmental organization for promoting the adoption of renewable energy worldwide. It aims to provide concrete policy advice and facilitate capacity building and technology transfer. IRENA was formed in 2009, with 75 countries signing the charter of IRENA. [200] As of April 2019, IRENA has 160 member states. [201] The then United Nations Secretary-General Ban Ki-moon has said that renewable energy can lift the poorest nations to new levels of prosperity, [202] and in September 2011 he launched the UN Sustainable Energy for All initiative to improve energy access, efficiency and the deployment of renewable energy. [203] The 2015 Paris Agreement on climate change motivated many countries to develop or improve renewable energy policies. [204] In 2017, a total of 121 countries adopted some form of renewable energy policy. [199] National targets that year existed in 176 countries. [204] In addition, there is also a wide range of policies at the state/provincial, and local levels. [104] Some public utilities help plan or install residential energy upgrades . Many national, state and local governments have created green banks . A green bank is a quasi-public financial institution that uses public capital to leverage private investment in clean energy technologies. [205] Green banks use a variety of financial tools to bridge market gaps that hinder the deployment of clean energy. Climate neutrality by the year 2050 is the main goal of the European Green Deal . [206] For the European Union to reach their target of climate neutrality, one goal is to decarbonise its energy system by aiming to achieve \"net-zero greenhouse gas emissions by 2050.\" [207]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Share_of_electricity_production_from_renewables.svg/330px-Share_of_electricity_production_from_renewables.svg.png",
+                "caption": "Share of electricity production from renewables, 2022 [8]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Geopolitics",
+        "text": "The geopolitical impact of the growing use of renewable energy is a subject of ongoing debate and research. [219] Many fossil-fuel producing countries, such as Qatar , Russia , Saudi Arabia and Norway , are currently able to exert diplomatic or geopolitical influence as a result of their oil wealth. Most of these countries are expected to be among the geopolitical \"losers\" of the energy transition, although some, like Norway, are also significant producers and exporters of renewable energy. Fossil fuels and the infrastructure to extract them may, in the long term, become stranded assets . [220] It has been speculated that countries dependent on fossil fuel revenue may one day find it in their interests to quickly sell off their remaining fossil fuels. [221] Conversely, nations abundant in renewable resources, and the minerals required for renewables technology, are expected to gain influence. [222] [223] In particular, China has become the world's dominant manufacturer of the technology needed to produce or store renewable energy, especially solar panels , wind turbines , and lithium-ion batteries . [224] Nations rich in solar and wind energy could become major energy exporters. [225] Some may produce and export green hydrogen , [226] [225] although electricity is projected to be the dominant energy carrier in 2050, accounting for almost 50% of total energy consumption (up from 22% in 2015). [227] Countries with large uninhabited areas such as Australia, China, and many African and Middle Eastern countries have a potential for huge installations of renewable energy. The production of renewable energy technologies requires rare-earth elements with new supply chains. [228] Countries with already weak governments that rely on fossil fuel revenue may face even higher political instability or popular unrest. Analysts consider Nigeria, Angola , Chad , Gabon , and Sudan , all countries with a history of military coups , to be at risk of instability due to dwindling oil income. [229] A study found that transition from fossil fuels to renewable energy systems reduces risks from mining, trade and political dependence because renewable energy systems don't need fuel – they depend on trade only for the acquisition of materials and components during construction. [230] In October 2021, European Commissioner for Climate Action Frans Timmermans suggested \"the best answer\" to the 2021 global energy crisis is \"to reduce our reliance on fossil fuels.\" [231] He said those blaming the European Green Deal were doing so \"for perhaps ideological reasons or sometimes economic reasons in protecting their vested interests.\" [231] Some critics blamed the European Union Emissions Trading System (EU ETS) and closure of nuclear plants for contributing to the energy crisis. [232] [233] [234] European Commission President Ursula von der Leyen said that Europe is \"too reliant\" on natural gas and too dependent on natural gas imports . According to Von der Leyen, \"The answer has to do with diversifying our suppliers ... and, crucially, with speeding up the transition to clean energy.\" [235]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TREC-Map-en.jpg/220px-TREC-Map-en.jpg",
+                "caption": "A concept of a super grid"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Public support",
+        "text": "Solar power plants may compete with arable land , [254] [255] while on-shore wind farms often face opposition due to aesthetic concerns and noise. [256] [257] Such opponents are often described as NIMBYs (\"not in my back yard\"). [258] Some environmentalists are concerned about fatal collisions of birds and bats with wind turbines. [259] Although protests against new wind farms occasionally occur around the world, regional and national surveys generally find broad support for both solar and wind power. [260] [261] [262] Community-owned wind energy is sometimes proposed as a way to increase local support for wind farms. [263] A 2011 UK Government document stated that \"projects are generally more likely to succeed if they have broad public support and the consent of local communities. This means giving communities both a say and a stake.\" [264] In the 2000s and early 2010s, many renewable projects in Germany, Sweden and Denmark were owned by local communities, particularly through cooperative structures. [265] [266] In the years since, more installations in Germany have been undertaken by large companies, [263] but community ownership remains strong in Denmark. [267]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg/220px-202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg.png",
+                "caption": "Acceptance of wind and solar facilities in one's community is stronger among U.S. Democrats (blue), while acceptance of nuclear power plants is stronger among U.S. Republicans (red). [253]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+        "title": "Renewable energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Wind energy resources",
+        "text": "Wind is air movement in the Earth's atmosphere. In a unit of time, say 1 second, the volume of air that had passed an area A {\\displaystyle A} is A v {\\displaystyle Av} . If the air density is ρ {\\displaystyle \\rho } , the mass of this volume of air is M = ρ A v {\\displaystyle M=\\rho Av} , and the power transfer, or energy transfer per second is P = 1 2 M v 2 = 1 2 ρ A v 3 {\\displaystyle P={\\tfrac {1}{2}}Mv^{2}={\\tfrac {1}{2}}\\rho Av^{3}} . Wind power is thus proportional to the third power of the wind speed; the available power increases eightfold when the wind speed doubles. Change of wind speed by a factor of 2.1544 increases the wind power by one order of magnitude (multiply by 10). The global wind kinetic energy averaged approximately 1.50 MJ/m 2 over the period from 1979 to 2010, 1.31 MJ/m 2 in the Northern Hemisphere with 1.70 MJ/m 2 in the Southern Hemisphere. The atmosphere acts as a thermal engine, absorbing heat at higher temperatures, releasing heat at lower temperatures. The process is responsible for the production of wind kinetic energy at a rate of 2.46 W/m 2 thus sustaining the circulation of the atmosphere against friction. [15] Through wind resource assessment , it is possible to estimate wind power potential globally, by country or region, or for a specific site. The Global Wind Atlas provided by the Technical University of Denmark in partnership with the World Bank provides a global assessment of wind power potential. [13] [16] [17] Unlike 'static' wind resource atlases which average estimates of wind speed and power density across multiple years, tools such as Renewables.ninja provide time-varying simulations of wind speed and power output from different wind turbine models at an hourly resolution. [18] More detailed, site-specific assessments of wind resource potential can be obtained from specialist commercial providers, and many of the larger wind developers have in-house modeling capabilities. The total amount of economically extractable power available from the wind is considerably more than present human power use from all sources. [19] The strength of wind varies, and an average value for a given location does not alone indicate the amount of energy a wind turbine could produce there. To assess prospective wind power sites, a probability distribution function is often fit to the observed wind speed data. [20] Different locations will have different wind speed distributions. The Weibull model closely mirrors the actual distribution of hourly/ten-minute wind speeds at many locations. The Weibull factor is often close to 2 and therefore a Rayleigh distribution can be used as a less accurate, but simpler model. [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mean_Wind_Speed.png/220px-Mean_Wind_Speed.png",
+                "caption": "Global map of wind speed at 100 meters on land and around coasts. [13]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Lee_Ranch_Wind_Speed_Frequency.svg/350px-Lee_Ranch_Wind_Speed_Frequency.svg.png",
+                "caption": "Distribution of wind speed (red) and energy (blue) for all of 2002 at the Lee Ranch facility in Colorado. The histogram shows measured data, while the curve is the Rayleigh model distribution for the same average wind speed."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Global_Map_of_Wind_Power_Density_Potential.png/220px-Global_Map_of_Wind_Power_Density_Potential.png",
+                "caption": "Global map of wind power density potential [14]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Offshore wind power",
+        "text": "Offshore wind power is wind farms in large bodies of water, usually the sea. These installations can use the more frequent and powerful winds that are available in these locations and have less visual impact on the landscape than land-based projects. However, the construction and maintenance costs are considerably higher. [36] [37] As of November 2021, the Hornsea Wind Farm in the United Kingdom is the largest offshore wind farm in the world at 1,218 MW . [38]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Agucadoura_WindFloat_Prototype.jpg/225px-Agucadoura_WindFloat_Prototype.jpg",
+                "caption": "The world's second full-scale floating wind turbine (and first to be installed without the use of heavy-lift vessels), WindFloat, operating at rated capacity (2  MW) approximately 5  km offshore of Póvoa de Varzim , Portugal"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Growth trends",
+        "text": "In 2020, wind supplied almost 1600 TWh of electricity, which was over 5% of worldwide electrical generation and about 2% of energy consumption. [2] [3] With over 100 GW added during 2020, mostly in China , global installed wind power capacity reached more than 730 GW. [4] [3] But to help meet the Paris Agreement 's goals to limit climate change , analysts say it should expand much faster - by over 1% of electricity generation per year. [6] Expansion of wind power is being hindered by fossil fuel subsidies . [48] [49] [50] The actual amount of electric power that wind can generate is calculated by multiplying the nameplate capacity by the capacity factor , which varies according to equipment and location. Estimates of the capacity factors for wind installations are in the range of 35% to 44%. [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2010-_Power_capacity_by_technology_-_Dec_2022_International_Energy_Agency.svg/210px-2010-_Power_capacity_by_technology_-_Dec_2022_International_Energy_Agency.svg.png",
+                "caption": "Renewable energy sources, especially solar photovoltaic and wind power, are providing an increasing share of power capacity. [45]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png",
+                "caption": "Log graph of global wind power cumulative capacity (Data:GWEC) [47]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Penetration",
+        "text": "Wind energy penetration is the fraction of energy produced by wind compared with the total generation. Wind power's share of worldwide electricity usage in 2021 was almost 7%, [55] up from 3.5% in 2015. [56] [57] There is no generally accepted maximum level of wind penetration. The limit for a particular grid will depend on the existing generating plants, pricing mechanisms, capacity for energy storage , demand management, and other factors. An interconnected electric power grid will already include reserve generating and transmission capacity to allow for equipment failures. This reserve capacity can also serve to compensate for the varying power generation produced by wind stations. Studies have indicated that 20% of the total annual electrical energy consumption may be incorporated with minimal difficulty. [58] These studies have been for locations with geographically dispersed wind farms, some degree of dispatchable energy or hydropower with storage capacity, demand management, and interconnected to a large grid area enabling the export of electric power when needed. Electrical utilities continue to study the effects of large-scale penetration of wind generation on system stability. [59] A wind energy penetration figure can be specified for different duration of time but is often quoted annually. To generate almost all electricity from wind annually requires substantial interconnection to other systems, for example some wind power in Scotland is sent to the rest of the British grid . [60] On a monthly, weekly, daily, or hourly basis—or less—wind might supply as much as or more than 100% of current use, with the rest stored, exported or curtailed. The seasonal industry might then take advantage of high wind and low usage times such as at night when wind output can exceed normal demand. Such industry might include the production of silicon, aluminum, [61] steel, or natural gas, and hydrogen, and using future long-term storage to facilitate 100% energy from variable renewable energy . [62] [63] [ better source needed ] Homes and businesses can also be programmed to vary electricity demand , [64] [65] for example by remotely turning up water heater thermostats. [66]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Share_of_electricity_production_from_wind.svg/350px-Share_of_electricity_production_from_wind.svg.png",
+                "caption": "Share of electricity production from wind, 2022 [54]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Variability",
+        "text": "Wind power is variable, and during low wind periods, it may need to be replaced by other power sources. Transmission networks presently cope with outages of other generation plants and daily changes in electrical demand, but the variability of intermittent power sources such as wind power is more frequent than those of conventional power generation plants which, when scheduled to be operating, may be able to deliver their nameplate capacity around 95% of the time. Electric power generated from wind power can be highly variable at several different timescales: hourly, daily, or seasonally. Annual variation also exists but is not as significant. [ citation needed ] Because instantaneous electrical generation and consumption must remain in balance to maintain grid stability, this variability can present substantial challenges to incorporating large amounts of wind power into a grid system. Intermittency and the non- dispatchable nature of wind energy production can raise costs for regulation, incremental operating reserve , and (at high penetration levels) could require an increase in the already existing energy demand management , load shedding , storage solutions, or system interconnection with HVDC cables. Fluctuations in load and allowance for the failure of large fossil-fuel generating units require operating reserve capacity, which can be increased to compensate for the variability of wind generation. Utility-scale batteries are often used to balance hourly and shorter timescale variation, [67] [68] but car batteries may gain ground from the mid-2020s. [69] Wind power advocates argue that periods of low wind can be dealt with by simply restarting existing power stations that have been held in readiness, or interlinking with HVDC. [70] The combination of diversifying variable renewables by type and location, forecasting their variation, and integrating them with dispatchable renewables, flexible fueled generators, and demand response can create a power system that has the potential to meet power supply needs reliably. Integrating ever-higher levels of renewables is being successfully demonstrated in the real world. [71] Solar power tends to be complementary to wind. [73] [74] On daily to weekly timescales, high-pressure areas tend to bring clear skies and low surface winds, whereas low-pressure areas tend to be windier and cloudier. On seasonal timescales, solar energy peaks in summer, whereas in many areas wind energy is lower in summer and higher in winter. [A] [75] Thus the seasonal variation of wind and solar power tend to cancel each other somewhat. [72] Wind hybrid power systems are becoming more popular. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Toro_de_osborne.jpg/220px-Toro_de_osborne.jpg",
+                "caption": "Wind turbines are typically installed in windy locations. In the image, wind power generators in Spain , near an Osborne bull ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Roscoe_Wind_Farm_in_West_Texas.jpg/220px-Roscoe_Wind_Farm_in_West_Texas.jpg",
+                "caption": "Roscoe Wind Farm : an onshore wind farm in West Texas near Roscoe"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png/220px-Seasonal_cycle_of_capacity_factors_for_wind_and_photovoltaics_in_Europe_under_idealized_assumptions.png",
+                "caption": "Seasonal cycle of capacity factors for wind and photovoltaics in Europe under idealized assumptions. The figure illustrates the balancing effects of wind and solar energy at the seasonal scale (Kaspar et al., 2019). [72]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Economics",
+        "text": "Onshore wind is an inexpensive source of electric power, cheaper than coal plants and new gas plants. [10] According to BusinessGreen , wind turbines reached grid parity (the point at which the cost of wind power matches traditional sources) in some areas of Europe in the mid-2000s, and in the US around the same time. Falling prices continue to drive the Levelized cost down and it has been suggested that it has reached general grid parity in Europe in 2010, and will reach the same point in the US around 2016 due to an expected reduction in capital costs of about 12%. [88] [ needs update ] In 2021, the CEO of Siemens Gamesa warned that increased demand for low-cost wind turbines combined with high input costs and high costs of steel result in increased pressure on the manufacturers and decreasing profit margins. [89] Northern Eurasia, Canada, some parts of the United States, and Patagonia in Argentina are the best areas for onshore wind: whereas in other parts of the world solar power, or a combination of wind and solar, tend to be cheaper. [90] : 8",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Onshore-wind-lcoe.png/310px-Onshore-wind-lcoe.png",
+                "caption": "Onshore wind cost per kilowatt-hour between 1983 and 2017 [87]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Electric power cost and trends",
+        "text": "Wind power is capital intensive but has no fuel costs. [91] The price of wind power is therefore much more stable than the volatile prices of fossil fuel sources. [92] However, the estimated average cost per unit of electric power must incorporate the cost of construction of the turbine and transmission facilities, borrowed funds, return to investors (including the cost of risk), estimated annual production, and other components, averaged over the projected useful life of the equipment, which may be more than 20 years. Energy cost estimates are highly dependent on these assumptions so published cost figures can differ substantially. The presence of wind energy, even when subsidized, can reduce costs for consumers (€5 billion/yr in Germany) by reducing the marginal price, by minimizing the use of expensive peaking power plants . [93] The cost has decreased as wind turbine technology has improved. There are now longer and lighter wind turbine blades, improvements in turbine performance, and increased power generation efficiency. Also, wind project capital expenditure costs and maintenance costs have continued to decline. [94] In 2021, a Lazard study of unsubsidized electricity said that wind power levelized cost of electricity continues to fall but more slowly than before. The study estimated new wind-generated electricity cost from $26 to $50/MWh, compared to new gas power from $45 to $74/MWh. The median cost of fully deprecated existing coal power was $42/MWh, nuclear $29/MWh and gas $24/MWh. The study estimated offshore wind at around $83/MWh. Compound annual growth rate was 4% per year from 2016 to 2021, compared to 10% per year from 2009 to 2021. [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Turbine_Blade_Convoy_Passing_through_Edenfield.jpg/220px-Turbine_Blade_Convoy_Passing_through_Edenfield.jpg",
+                "caption": "A turbine blade convoy passing through Edenfield in the U.K. (2008). Even longer 2-piece blades are now manufactured, and then assembled on-site to reduce difficulties in transportation."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Small-scale wind power",
+        "text": "Small-scale wind power is the name given to wind generation systems with the capacity to produce up to 50 kW of electrical power. [102] Isolated communities, that may otherwise rely on diesel generators, may use wind turbines as an alternative. Individuals may purchase these systems to reduce or eliminate their dependence on grid electric power for economic reasons, or to reduce their carbon footprint . Wind turbines have been used for household electric power generation in conjunction with battery storage over many decades in remote areas. [103] Examples of small-scale wind power projects in an urban setting can be found in New York City , where, since 2009, several building projects have capped their roofs with Gorlov-type helical wind turbines . Although the energy they generate is small compared to the buildings' overall consumption, they help to reinforce the building's 'green' credentials in ways that \"showing people your high-tech boiler\" cannot, with some of the projects also receiving the direct support of the New York State Energy Research and Development Authority . [104] Grid-connected domestic wind turbines may use grid energy storage, thus replacing purchased electric power with locally produced power when available. The surplus power produced by domestic microgenerators can, in some jurisdictions, be fed into the network and sold to the utility company, producing a retail credit for the microgenerators' owners to offset their energy costs. [105] Off-grid system users can either adapt to intermittent power or use batteries, photovoltaic , or diesel systems to supplement the wind turbine. [106] Equipment such as parking meters, traffic warning signs, street lighting, or wireless Internet gateways may be powered by a small wind turbine, possibly combined with a photovoltaic system, that charges a small battery replacing the need for a connection to the power grid. [107] Airborne wind turbines , such as kites, can be used in places at risk of hurricanes, as they can be taken down in advance. [108]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Quietrevolution_Bristol_3513051949.jpg/220px-Quietrevolution_Bristol_3513051949.jpg",
+                "caption": "A small Quietrevolution QR5 Gorlov type vertical axis wind turbine on the roof of Bristol Beacon in Bristol, England . Measuring 3 m in diameter and 5 m high, it has a nameplate rating of 6.5 kW."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Impact on environment and landscape",
+        "text": "The environmental impact of electricity generation from wind power is minor when compared to that of fossil fuel power . [110] Wind turbines have some of the lowest life-cycle greenhouse-gas emissions of energy sources : far less greenhouse gas is emitted than for the average unit of electricity, so wind power helps limit climate change. [111] Use of engineered wood may allow carbon negative wind power. [112] Wind power consumes no fuel, and emits no local air pollution , unlike fossil fuel power sources. Onshore wind farms can have a significant visual impact. [113] Due to a very low surface power density and spacing requirements, wind farms typically need to be spread over more land than other power stations. [7] [114] Their network of turbines, access roads, transmission lines, and substations can result in \"energy sprawl\"; [8] although land between the turbines and roads can still be used for agriculture. [115] [116] Some wind farms are opposed for potentially spoiling protected scenic areas, archaeological landscapes and heritage sites. [117] [118] [119] A report by the Mountaineering Council of Scotland concluded that wind farms harmed tourism in areas known for natural landscapes and panoramic views. [120] Habitat loss and fragmentation are the greatest potential impacts on wildlife of onshore wind farms, [8] but the worldwide ecological impact is minimal. [110] Thousands of birds and bats, including rare species, have been killed by wind turbine blades, [121] though wind turbines are responsible for far fewer bird deaths than fossil-fueled power stations. [122] This can be mitigated with proper wildlife monitoring. [123] Many wind turbine blades are made of fiberglass , and have a lifetime of 20 years. [124] Blades are hollow: some blades are crushed to reduce their volume and then landfilled. [125] However, as they can take a lot of weight they can be made into long lasting small bridges for walkers or cyclists. [126] Blade end-of-life is complicated, [127] and blades manufactured in the 2020s are more likely to be designed to be completely recyclable. [128] Wind turbines also generate noise. At a distance of 300 metres (980 ft), this may be around 45 dB, which is slightly louder than a refrigerator. At 1.5 km (1 mi), they become inaudible. [129] [130] There are anecdotal reports of negative health effects on people who live very close to wind turbines. [131] Peer-reviewed research has generally not supported these claims. [132] [133] [134]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Greenhouse_gas_emissions_per_energy_source.png/220px-Greenhouse_gas_emissions_per_energy_source.png",
+                "caption": "Greenhouse gas emissions per energy source. Wind energy is one of the sources with the least greenhouse gas emissions."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Wb_deichh_drei_kuhs.jpg/220px-Wb_deichh_drei_kuhs.jpg",
+                "caption": "Livestock grazing near a wind turbine. [109]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Central government",
+        "text": "Although wind turbines with fixed bases are a mature technology and new installations are generally no longer subsidized, [135] [136] floating wind turbines are a relatively new technology so some governments subsidize them, for example to use deeper waters. [137] Fossil fuel subsidies by some governments are slowing the growth of renewables. [138] Permitting of wind farms can take years and some governments are trying to speed up - the wind industry says this will help limit climate change and increase energy security [139] - sometimes groups such as fishers resist this [140] but governments say that rules protecting biodiversity will still be followed. [141]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Floatgen.jpg/220px-Floatgen.jpg",
+                "caption": "Wind turbine floating off France"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Public opinion",
+        "text": "Surveys of public attitudes across Europe and in many other countries show strong public support for wind power. [143] [144] [145] Bakker et al. (2012) found in their study that residents who did not want turbines built near them suffered significantly more stress than those who \"benefited economically from wind turbines\". [146] Although wind power is a popular form of energy generation, onshore or near offshore wind farms are sometimes opposed for their impact on the landscape (especially scenic areas, heritage areas and archaeological landscapes), as well as noise, and impact on tourism. [147] [148] In other cases, there is direct community ownership of wind farms . The hundreds of thousands of people who have become involved in Germany's small and medium-sized wind farms demonstrate such support there. [149] A 2010 Harris Poll found strong support for wind power in Germany, other European countries, and the United States. [143] [144] [150] Public support in the United States has decreased from 75% in 2020 to 62% in 2021, with the Democrat Party supporting the use of wind energy twice as much as the Republican Party. [151] President Biden has signed an executive order to begin building large scale wind farms. [152] In China , Shen et al. (2019) found that Chinese city-dwellers may be resistant to building wind turbines in urban areas, with a surprisingly high proportion of people citing an unfounded fear of radiation as driving their concerns. [153] Also, the study finds that like their counterparts in OECD countries, urban Chinese respondents are sensitive to direct costs and wildlife externalities. Distributing relevant information about turbines to the public may alleviate resistance.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg/220px-202307_Survey_-_comfortable_with_solar_wind_nuclear_in_my_community.svg.png",
+                "caption": "Acceptance of wind and solar facilities in one's community is stronger among U.S. Democrats (blue), while acceptance of nuclear power plants is stronger among U.S. Republicans (red). [142]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Community",
+        "text": "Many wind power companies work with local communities to reduce environmental and other concerns associated with particular wind farms. [156] [157] [158] In other cases there is direct community ownership of wind farm projects . Appropriate government consultation, planning and approval procedures also help to minimize environmental risks. [143] [159] [160] Some may still object to wind farms [161] but many say their concerns should be weighed against the need to address the threats posed by air pollution , [162] [111] climate change [163] and the opinions of the broader community. [164] In the US, wind power projects are reported to boost local tax bases, helping to pay for schools, roads, and hospitals, and to revitalize the economies of rural communities by providing steady income to farmers and other landowners. [98] In the UK, both the National Trust and the Campaign to Protect Rural England have expressed concerns about the effects on the rural landscape caused by inappropriately sited wind turbines and wind farms. [165] [166] Some wind farms have become tourist attractions. The Whitelee Wind Farm Visitor Centre has an exhibition room, a learning hub, a café with a viewing deck and also a shop. It is run by the Glasgow Science Centre . [167] In Denmark, a loss-of-value scheme gives people the right to claim compensation for loss of value of their property if it is caused by proximity to a wind turbine. The loss must be at least 1% of the property's value. [168] Despite this general support for the concept of wind power in the public at large, local opposition often exists and has delayed or aborted a number of projects. [169] [170] [171] As well as concerns about the landscape, there are concerns that some installations can produce excessive sound and vibration levels leading to a decrease in property values. [172] A study of 50,000 home sales near wind turbines found no statistical evidence that prices were affected. [173] While aesthetic issues are subjective and some find wind farms pleasant and optimistic, or symbols of energy independence and local prosperity, protest groups are often formed to attempt to block some wind power stations for various reasons. [161] [174] [175] Some opposition to wind farms is dismissed as NIMBYism , [176] but research carried out in 2009 found that there is little evidence to support the belief that residents only object to wind farms because of a \"Not in my Back Yard\" attitude. [177]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wind_tubines_cumbria.JPG/450px-Wind_tubines_cumbria.JPG",
+                "caption": "Wind turbines such as these, in Cumbria , England, have been opposed for a number of reasons, including aesthetics, by some sectors of the population. [154] [155]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Whitelee_panorama.JPG/450px-Whitelee_panorama.JPG",
+                "caption": "A panoramic view of the United Kingdom's Whitelee Wind Farm with Lochgoin Reservoir in the foreground."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wind_power",
+        "title": "Wind power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Large facilities",
+        "text": "The largest power producers in the world are hydroelectric power stations, with some hydroelectric facilities capable of generating more than double the installed capacities of the current largest nuclear power stations . Although no official definition exists for the capacity range of large hydroelectric power stations, facilities from over a few hundred megawatts are generally considered large hydroelectric facilities. Currently, only seven facilities over 10 GW ( 10,000 MW ) are in operation worldwide, see table below. [30]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Itaipu_D%C3%A9cembre_2007_-_Vue_G%C3%A9n%C3%A9rale.jpg/1500px-Itaipu_D%C3%A9cembre_2007_-_Vue_G%C3%A9n%C3%A9rale.jpg",
+                "caption": "Panoramic view of the Itaipu Dam , with the spillways (closed at the time of the photo) on the left. In 1994, the American Society of Civil Engineers elected the Itaipu Dam as one of the Seven Wonders of the Modern World . [31]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydroelectricity",
+        "title": "Hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Small",
+        "text": "Small hydro is hydroelectric power on a scale serving a small community or industrial plant. The definition of a small hydro project varies but a generating capacity of up to 10 megawatts (MW) is generally accepted as the upper limit. This may be stretched to 25 MW and 30 MW in Canada and the United States. [32] [33] Small hydro stations may be connected to conventional electrical distribution networks as a source of low-cost renewable energy. Alternatively, small hydro projects may be built in isolated areas that would be uneconomic to serve from a grid, or in areas where there is no national electrical distribution network. Since small hydro projects usually have minimal reservoirs and civil construction work, they are seen as having a relatively low environmental impact compared to large hydro. This decreased environmental impact depends strongly on the balance between stream flow and power production. [ citation needed ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Nw_vietnam_hydro.jpg/300px-Nw_vietnam_hydro.jpg",
+                "caption": "A micro-hydro facility in Vietnam"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Amateur_Hydroelectricity.jpg/300px-Amateur_Hydroelectricity.jpg",
+                "caption": "Pico hydroelectricity in Mondulkiri , Cambodia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydroelectricity",
+        "title": "Hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Underground",
+        "text": "An underground power station is generally used at large facilities and makes use of a large natural height difference between two waterways, such as a waterfall or mountain lake. A tunnel is constructed to take water from the high reservoir to the generating hall built in a cavern near the lowest point of the water tunnel and a horizontal tailrace taking water away to the lower outlet waterway.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tailrace-Forebay-Limestone.JPG/220px-Tailrace-Forebay-Limestone.JPG",
+                "caption": "Measurement of the tailrace and forebay rates at the Limestone Generating Station in Manitoba , Canada ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydroelectricity",
+        "title": "Hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Ecosystem damage and loss of land",
+        "text": "Large reservoirs associated with traditional hydroelectric power stations result in submersion of extensive areas upstream of the dams, sometimes destroying biologically rich and productive lowland and riverine valley forests, marshland and grasslands. Damming interrupts the flow of rivers and can harm local ecosystems, and building large dams and reservoirs often involves displacing people and wildlife. [30] The loss of land is often exacerbated by habitat fragmentation of surrounding areas caused by the reservoir. [46] Hydroelectric projects can be disruptive to surrounding aquatic ecosystems both upstream and downstream of the plant site. Generation of hydroelectric power changes the downstream river environment. Water exiting a turbine usually contains very little suspended sediment, which can lead to scouring of river beds and loss of riverbanks. [47] The turbines also will kill large portions of the fauna passing through, for instance 70% of the eel passing a turbine will perish immediately. [48] [49] [50] Since turbine gates are often opened intermittently, rapid or even daily fluctuations in river flow are observed. [51]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/MeroweDam01.jpg/220px-MeroweDam01.jpg",
+                "caption": "Merowe Dam in Sudan . Hydroelectric power stations that use dams submerge large areas of land due to the requirement of a reservoir . These changes to land color or albedo , alongside certain projects that concurrently submerge rainforests, can in these specific cases result in the global warming impact, or equivalent life-cycle greenhouse gases of hydroelectricity projects, to potentially exceed that of coal power stations."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydroelectricity",
+        "title": "Hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Methane emissions (from reservoirs)",
+        "text": "Lower positive impacts are found in the tropical regions. In lowland rainforest areas, where inundation of a part of the forest is necessary, it has been noted that the reservoirs of power plants produce substantial amounts of methane . [56] This is due to plant material in flooded areas decaying in an anaerobic environment and forming methane, a greenhouse gas . According to the World Commission on Dams report, [57] where the reservoir is large compared to the generating capacity (less than 100 watts per square metre of surface area) and no clearing of the forests in the area was undertaken prior to impoundment of the reservoir, greenhouse gas emissions from the reservoir may be higher than those of a conventional oil-fired thermal generation plant. [58] In boreal reservoirs of Canada and Northern Europe, however, greenhouse gas emissions are typically only 2% to 8% of any kind of conventional fossil-fuel thermal generation. A new class of underwater logging operation that targets drowned forests can mitigate the effect of forest decay. [59]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hoover_Dam_Nevada_Luftaufnahme.jpg/220px-Hoover_Dam_Nevada_Luftaufnahme.jpg",
+                "caption": "The Hoover Dam in the United States is a large conventional dammed-hydro facility, with an installed capacity of 2,080 MW ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydroelectricity",
+        "title": "Hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Hydro power by country",
+        "text": "In 2022 hydro generated 4,289 TWh, 15% of total electricity and half of renewables. Of the world total, China (30%) produced the most, followed by Brazil (10%), Canada (9.2%), the United States (5.8%) and Russia (4.6%). Paraguay produces nearly all of its electricity from hydro and exports far more than it uses. [68] Larger plants tend to be built and operated by national governments, so most capacity (70%) is publicly owned, despite the fact that most plants (nearly 70%) are owned and operated by the private sector, as of 2021. [1] The following table lists these data for each country: Data are sourced from Ember dating to the year 2022 unless otherwise specified. [67] Only includes countries with more than 1 TWh of generation. Links for each location go to the relevant hydro power page, when available.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Share-electricity-hydro.svg/330px-Share-electricity-hydro.svg.png",
+                "caption": "Share of electricity production from hydropower, 2022 [66]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/World_hydro_generation_yearly.png/330px-World_hydro_generation_yearly.png",
+                "caption": "Yearly hydro generation by continent [67]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/World_hydro_generation_2021.png/330px-World_hydro_generation_2021.png",
+                "caption": "Hydro generation by country, 2021 [67]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydroelectricity",
+        "title": "Hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Definition",
+        "text": "The IPCC Sixth Assessment Report defines a drought simply as \"drier than normal conditions\". [1] : 1157 This means that a drought is \"a moisture deficit relative to the average water availability at a given location and season\". [1] : 1157 According to National Integrated Drought Information System , a multi-agency partnership, drought is generally defined as \"a deficiency of precipitation over an extended period of time (usually a season or more), resulting in a water shortage\". The National Weather Service office of the NOAA defines drought as \"a deficiency of moisture that results in adverse impacts on people, animals, or vegetation over a sizeable area\". [15] Drought is a complex phenomenon − relating to the absence of water − which is difficult to monitor and define. [16] By the early 1980s, over 150 definitions of \"drought\" had already been published. [17] The range of definitions reflects differences in regions, needs, and disciplinary approaches.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Fields_outside_benambra.jpg/350px-Fields_outside_benambra.jpg",
+                "caption": "Fields outside Benambra , Australia suffering from drought in 2006."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Drought",
+        "title": "Drought",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Climate change",
+        "text": "Globally, the occurrence of droughts has increased as a result of the increase in temperature and atmospheric evaporative demand . In addition, increased climate variability has increased the frequency and severity of drought events. Moreover, the occurrence and impact of droughts are aggravated by anthropogenic activities such as land use change and water management and demand. [22] The IPCC Sixth Assessment Report also pointed out that \"Warming over land drives an increase in atmospheric evaporative demand and in the severity of drought events\" [43] : 1057 and \"Increased atmospheric evaporative demand increases plant water stress, leading to agricultural and ecological drought\". [44] : 578 There is a rise of compound warm-season droughts in Europe that are concurrent with an increase in potential evapotranspiration . [45]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Global_warming_and_extreme_weather.svg/300px-Global_warming_and_extreme_weather.svg.png",
+                "caption": "There will likely be multiplicative increases in the frequency of extreme weather events compared to the pre-industrial era for heat waves , droughts and heavy precipitation events, for various climate change scenarios. [42]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Drought",
+        "title": "Drought",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Impacts",
+        "text": "Drought is one of the most complex and major natural hazards , and it has devastating impacts on the environment, economy, water resources, agriculture, and society worldwide. [22] One can divide the impacts of droughts and water shortages into three groups: environmental, economic and social (including health).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Global_Drought_Total_Economic_Loss_Risk_Deciles_%285457316295%29.jpg/220px-Global_Drought_Total_Economic_Loss_Risk_Deciles_%285457316295%29.jpg",
+                "caption": "Global drought total economic loss risk"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DroughtinNamibia.jpg/220px-DroughtinNamibia.jpg",
+                "caption": "Pair of dead oryx in Namibia during the 2018–19 Southern Africa drought ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ruins_at_Farina.JPG/220px-Ruins_at_Farina.JPG",
+                "caption": "After years of drought and dust storms the town of Farina in South Australia was abandoned."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Drought",
+        "title": "Drought",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Environmental and economic impacts",
+        "text": "Environmental effects of droughts include: lower surface and subterranean water-levels, lower flow-levels (with a decrease below the minimum leading to direct danger for amphibian life), increased pollution of surface water , the drying out of wetlands , more and larger wildfires , higher deflation intensity, loss of biodiversity , worse health of trees and the appearance of pests and dendroid diseases. [56] [6] Economic losses as a result of droughts include lower agricultural, forests, game and fishing output, higher food-production costs, lower energy-production levels in hydro plants, losses caused by depleted water tourism and transport revenue, problems with water supply for the energy sector and for technological processes in metallurgy, mining, the chemical, paper, wood, foodstuff industries etc., disruption of water supplies for municipal economies. Further examples of common environmental and economic consequences of drought include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mixed_Douglas-fir_-_Western_Redcedar_forest%2C_with_some_Western_Redcedar_dying_from_drought%3B_Arlington%2C_Washington%2C_2018_%2829721380337%29.jpg/220px-Mixed_Douglas-fir_-_Western_Redcedar_forest%2C_with_some_Western_Redcedar_dying_from_drought%3B_Arlington%2C_Washington%2C_2018_%2829721380337%29.jpg",
+                "caption": "Western red cedar dying from drought, USA, 2018"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Drought",
+        "title": "Drought",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Agricultural impacts",
+        "text": "Droughts can cause land degradation and loss of soil moisture, resulting in the destruction of cropland productivity. [64] This can result in diminished crop growth or yield productions and carrying capacity for livestock . Drought in combination with high levels of grazing pressure can function as the tipping point for an ecosystem, causing woody encroachment . [65] Water stress affects plant development and quality in a variety of ways: firstly drought can cause poor germination and impaired seedling development. [66] At the same time plant growth relies on cellular division, cell enlargement, and differentiation. Drought stress impairs mitosis and cell elongation via loss of turgor pressure which results in poor growth. [67] Development of leaves is also dependent upon turgor pressure, concentration of nutrients, and carbon assimilates [ clarification needed ] all of which are reduced by drought conditions, thus drought stress lead to a decrease in leaf size and number. [67] Plant height, biomass, leaf size and stem girth has been shown to decrease in maize under water limiting conditions. [67] Crop yield is also negatively effected by drought stress, the reduction in crop yield results from a decrease in photosynthetic rate, changes in leaf development, and altered allocation of resources all due to drought stress. [67] Crop plants exposed to drought stress suffer from reductions in leaf water potential and transpiration rate. Water-use efficiency increases in crops such as wheat while decreasing in others, such as potatoes. [68] [69] [67] Plants need water for the uptake of nutrients from the soil, and for the transport of nutrients throughout the plant: drought conditions limit these functions leading to stunted growth. Drought stress also causes a decrease in photosynthetic activity in plants due to the reduction of photosynthetic tissues, stomatal closure, and reduced performance of photosynthetic machinery. This reduction in photosynthetic activity contributes to the reduction in plant growth and yields. [67] Another factor influencing reduced plant growth and yields include the allocation of resources; following drought stress plants will allocate more resources to roots to aid in water uptake increasing root growth and reducing the growth of other plant parts while decreasing yields. [67]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Soil_moisture_and_climate_change.svg/300px-Soil_moisture_and_climate_change.svg.png",
+                "caption": "Impacts of climate change on soil moisture at 2 °C of global warming. A reduction of one standard deviation means that average soil moisture will approximate the ninth driest year between 1850 and 1900."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Drought",
+        "title": "Drought",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Social and health impacts",
+        "text": "The most negative impacts of drought for humans include crop failure , food crisis , famine, malnutrition, and poverty , which lead to loss of life and mass migration of people. [22] There are negative effects on the health of people who are directly exposed to this phenomenon (excessive heat waves ). Droughts can also cause limitations of water supplies, increased water pollution levels, high food-costs, stress caused by failed harvests, water scarcity , etc. Reduced water quality can occur because lower water-flows reduce dilution of pollutants and increase contamination of remaining water sources. [70] [71] This explains why droughts and water scarcity operate as a factor which increases the gap between developed and developing countries . [72] Effects vary according to vulnerability. For example, subsistence farmers are more likely to migrate during drought because they do not have alternative food-sources. Areas with populations that depend on water sources as a major food-source are more vulnerable to famine. Further examples of social and health consequences include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Queuing_for_registration_in_the_heat_of_the_sun_%285977577531%29.jpg/220px-Queuing_for_registration_in_the_heat_of_the_sun_%285977577531%29.jpg",
+                "caption": "People displaced by a drought in Somalia arriving at a camp in Dolo Ado , Ethiopia , 2011"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Drought",
+        "title": "Drought",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "East Africa and Sahel",
+        "text": "Recurring droughts leading to desertification in East Africa have created grave ecological catastrophes, prompting food shortages in 1984–85 , 2006 and 2011 . [87] During the 2011 drought, an estimated 50,000 to 150,000 people were reported to have died, [88] though these figures and the extent of the crisis are disputed. [89] In February 2012, the UN announced that the crisis was over due to a scaling up of relief efforts and a bumper harvest. [90] Aid agencies subsequently shifted their emphasis to recovery efforts, including digging irrigation canals and distributing plant seeds. [90] The 2020–2022 Horn of Africa drought has surpassed the horrific drought in 2010–2011 in both duration and severity. [12] [13] The Darfur conflict in Sudan , also affecting Chad , was fueled by decades of drought; combination of drought, desertification and overpopulation are among the causes of the Darfur conflict, because the Arab Baggara nomads searching for water have to take their livestock further south, to land mainly occupied by non-Arab farming people. [91] In 2012, a severe drought struck the western Sahel . More than 10 million people in the region were at risk of famine due to a month-long heat wave that was hovering over Niger , Mali , Mauritania and Burkina Faso . [92]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/ShrinkingLakeChad-1973-1997-EO.jpg/220px-ShrinkingLakeChad-1973-1997-EO.jpg",
+                "caption": "Lake Chad in a 2001 satellite image. The lake has shrunk by 95% since the 1960s. [85] [86]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sahel_Map-Africa_rough.png/220px-Sahel_Map-Africa_rough.png",
+                "caption": "Affected areas in the western Sahel belt during the 2012 drought ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Drought",
+        "title": "Drought",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Himalayan river basins",
+        "text": "Approximately 2.4 billion people live in the drainage basin of the Himalayan rivers. [93] India , China , Pakistan , Bangladesh , Nepal and Myanmar could experience floods followed by droughts in coming decades. More than 150 districts in India are drought vulnerable, mostly concentrated in the state of Rajasthan, Gujarat, Madhya Pradesh and its adjoining Chhattisgarh, Uttar Pradesh, northern Karnataka and adjoining Maharashtra of the country. [14] Drought in India affecting the Ganges is of particular concern, as it provides drinking water and agricultural irrigation for more than 500 million people. [94] [95] [96]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Drought_affected_area_in_Karnataka%2C_India%2C_2012.jpg/220px-Drought_affected_area_in_Karnataka%2C_India%2C_2012.jpg",
+                "caption": "Drought-affected area in Karnataka , India in 2012."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Drought",
+        "title": "Drought",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Protection, mitigation and relief",
+        "text": "Agriculturally, people can effectively mitigate much of the impact of drought through irrigation and crop rotation . Failure to develop adequate drought mitigation strategies carries a grave human cost in the modern era, exacerbated by ever-increasing population densities. Strategies for drought protection or mitigation include: When water is scarce due to droughts, there are a range of options for people to access other sources of water, such as wastewater reuse , rainwater harvesting and stormwater recovery , or seawater desalination .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FEMA_-_917_-_Photograph_by_Angel_Santiago_taken_on_04-03-1998_in_Marshall_Islands.jpg/170px-FEMA_-_917_-_Photograph_by_Angel_Santiago_taken_on_04-03-1998_in_Marshall_Islands.jpg",
+                "caption": "Water distribution on Marshall Islands during El Niño ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Drought",
+        "title": "Drought",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Projects in Gwadar Port and City",
+        "text": "Gwadar came in the focus of attention post the Kargil War when Pakistan felt the need of having a military naval port and the Karachi-Gwadar Road (Coastal Highway) was built for defence purpose. [82] Gwadar forms the crux of the CPEC project, as it is envisaged to be the link between China's ambitious One Belt, One Road project, and its 21st Century Maritime Silk Road project. [83] In total, more than $1 billion worth of projects are to be developed around the port of Gwadar by December 2017. As of 2022, only three China–Pakistan Economic Corridor projects – $4 million Gwadar Smart Port City Master Plan, $300 million Physical Infrastructure of Gwadar Port and the Free Zone Phase-1, and a $10 million Pak-China Technical and Vocational Institute – in Gwadar were declared completed whereas one-dozen projects worth nearly $2 billion remain undeveloped including water supply, electricity provision, expressway, international airport, fishing harbour and hospital among others. [84] China has provided a total of 7,000 sets of solar panels for households in Gwadar over the past two years. Another 10,000 sets of solar panels are under active preparation and will be allocated to poor people in Balochistan . The Chinese Embassy in Pakistan is also to donate household solar units and other assistance to the people of Balochistan. [18]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pakistan_Balochistan_province_-_Gwadar_IMG_7931.jpg/220px-Pakistan_Balochistan_province_-_Gwadar_IMG_7931.jpg",
+                "caption": "A view of the Gwadar Promontory and isthmus"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_Economic_Corridor",
+        "title": "China–Pakistan Economic Corridor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Roadway projects",
+        "text": "The CPEC project envisages major upgrades and overhauls to Pakistan's transportation infrastructure. Under the CPEC project, China has announced financing for $10.63  billion worth of transportation infrastructure so far; $6.1  billion have been allocated for constructing \"Early Harvest\" roadway projects at an interest rate of 1.6 percent. [103] The remainder of funds will be allocated when the Pakistani government awards contracts for the construction of road segments which are still in the planning phase. Three corridors have been identified for cargo transport: the Eastern Alignment through the heavily populated provinces of Sindh and Punjab where most industries are located, the Western Alignment through the less developed and more sparsely populated provinces of Khyber Pakhtunkhwa and Balochistan, and the future Central Alignment which will pass through Khyber Pakhtunkhwa, Punjab, and Balochistan. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Road_network_CPEC.jpg/220px-Road_network_CPEC.jpg",
+                "caption": "The CPEC roadway network"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pakistan_roadway_map.jpg/220px-Pakistan_roadway_map.jpg",
+                "caption": ""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_Economic_Corridor",
+        "title": "China–Pakistan Economic Corridor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Karakoram Highway",
+        "text": "The CPEC projects call for reconstruction and upgrade works on National Highway 35 (N-35), which forms the Pakistani portion of the Karakoram Highway (KKH). The KKH spans the 887-kilometer long distance between the China-Pakistan border and the town of Burhan , near Hasan Abdal . At Burhan, the existing M1 motorway will intersect the N-35 at the Shah Maqsood Interchange. From there, access onwards to Islamabad and Lahore continues as part of the existing M1 and M2 motorways. Burhan will also be at the intersection of the Eastern Alignment , and Western Alignment . Upgrades to the 487-kilometer long section between Burhan and Raikot of the Karakoram Highway are officially referred to in Pakistan as the Karakoram Highway Phase 2 project. At the southern end of the N-35, works are already underway to construct a 59-kilometer-long, 4-lane controlled-access highway between Burhan and Havelian which upon completion will be officially referred to as the E-35 expressway . [105] North of Havelian, the next 66 kilometres of road will be upgraded to a 4-lane dual carriageway between Havelian and Shinkiari . [106] Groundbreaking on this portion commenced in April 2016. [107] The entire 354 kilometres of roadway north of Shinkiari and ending in Raikot, near Chilas will be constructed as a 2-lane highway. [107] Construction on the first section between Shinkiari and Thakot commenced in April 2016 jointly with construction of the Havelian to Shinkiari 4-lane dual carriageway further south. [108] Construction on both these sections is expected to be completed with 42 months at a cost of approximately $1.26 billion with 90% of funding to come from China's EXIM bank in the form of low interest rate concessional loans. [108] [109] [110] Between Thakot and Raikot spans an area in which the government of Pakistan is currently either planning or actively constructing several hydropower projects, most notably the Diamer-Bhasha Dam and Dasu Dam . Sections of the N-35 around these projects will be completely rebuilt in tandem with dam construction. [111] In the interim, this section of the N-35 is currently being upgraded from its current state until dam construction commences in full force at a later date. Improvement projects on this section are expected to be completed by January 2017 at a cost of approximately $72 million. [112] [113] The next 335 kilometres of roadway connect Raikot to the China-Pakistan border. Reconstruction works on this section of roadway preceded the CPEC, and were initiated after severe damage to roadways in the area following the 2010 Pakistan floods . Most of this section of roadway was completed in September 2012 at a cost of $510 million. [114] A large earthquake rocked the region nearest to the China-Pakistan border in 2010, triggering massive landslides that dammed the Indus River, resulting in the formation of the Attabad Lake . Portions of the Karakoram Highway were submerged in the lake, forcing all vehicular traffic onto barges to traverse the new reservoir. Construction on a 24 kilometer series of bridges and tunnels to Attabad Lake began in 2012 and required 36 months for completion. The bypass consists of 2 large bridges and 5 kilometres worth of tunnels that were inaugurated for public use on 14 September 2015 at a cost of $275 million. [115] [116] The 175 kilometre road between Gilgit and Skardu will be upgraded to a 4-lane road at a cost of $475 million to provide direct access to Skardu from the N-35. [117] [118]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/KKHReconstructions.png/220px-KKHReconstructions.png",
+                "caption": "Highlighted in red is the route of National Highway 35 , which is to be completely rebuilt and upgraded under the CPEC agreement. Highlighted in blue is the 175-kilometer road between Gilgit and Skardu which is to be upgraded to a 4-lane highway."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sost_Pakistan_Customs_and_Chinese_Trucks_IMG_7494_China_Pakistan_Karakoram_Highway_KKH.jpg/220px-Sost_Pakistan_Customs_and_Chinese_Trucks_IMG_7494_China_Pakistan_Karakoram_Highway_KKH.jpg",
+                "caption": "China and Pakistan already conduct trade via the Karakoram Highway."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_Economic_Corridor",
+        "title": "China–Pakistan Economic Corridor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Eastern Alignment",
+        "text": "The term Eastern Alignment of CPEC refers to roadway projects located in Sindh and Punjab provinces – some of which were first envisioned in 1991. [119] As part of the Eastern Alignment, a 1,152 km long motorway will connect Pakistan's two largest cities, Karachi and Lahore with 6-lane controlled access highway designed for travel speeds up to 120 kilometres per hour. [120] The entire project will cost approximately $6.6 billion, with the bulk of financing to be distributed by various Chinese state-owned banks. [121] The entire Eastern Alignment motorway project is divided into four sections: a 136-kilometer long section between Karachi and Hyderabad also known as the M9 motorway , a 345-kilometer long section between Hyderabad and Sukkur, a 392-kilometer long section between Sukkur, and Multan , [122] and a 333-kilometer section between Multan and Lahore via the town of Abdul Hakeem . [123] The first section of the project is providing high-speed road access from the Port of Karachi to the city of Hyderabad and interior Sindh. Upgrade and construction works on this section currently known as Super Highway between Karachi and Hyderabad began in March 2015, and will convert the road into the 6-lane controlled access M9 Motorway which was completed in an estimated 30 months. [124] In February 2017, a completed 75 kilometer stretch of the motorway was opened for public use by Prime Minister Nawaz Sharif. [125] At the terminus of the M9 motorway in Hyderabad, the Karachi-Lahore Motorway will continue onwards to Sukkur as a six-lane controlled-access motorway known also as M6 motorway that will be 345 kilometers long, [122] The planned cost for this project is $1.7 billion, [126] and will provide high-speed road access to interior Sindh – especially near the towns of Matiari , Nawabshah , and Khairpur . The project will require the construction of seven interchanges, and 25 bridges on the Indus river and irrigation canals. [127] The planned route of the motorway runs roughly parallel to the existing National Highway and Indus Highway at various portions. In July 2016, the Pakistani government announced that the project would be open to international bidders on a build-operate-transfer basis , with Chinese and South Korean companies expressing interest in the project. [126] The 392 kilometers Sukkur to Multan section of the motorway is estimated to cost $2.89  billion, [120] with construction works inaugurated on this section of roadway on 6 May 2016 and completed in September 2019. [128] The road will be a six lane wide controlled access highway, [129] with 11 planned interchanges, 10 rest facilities, 492 underpasses, and 54 bridges along its route. [128] The Pakistani government in January 2016 awarded the contract to build this section to China State Construction Engineering , [120] but final approvals required for disbursement of funds were not granted by the Government of the People's Republic of China until May 2016. [110] [120] 90% of the project's cost is to be financed by concessionary loans from China, with the remaining 10% to be financed by the government of Pakistan. [130] Construction on this segment is expected to last 36 months. [120] Construction of the portion between Multan and Lahore costing approximately $1.5 billion [131] was launched in November 2015 [132] as a joint venture between the China Railway Construction Corporation Limited and Pakistan's Zahir Khan and Brothers Engineers. [133] The total length of this motorway section is 333 kilometres; however, the first 102 kilometres of the road between Khanewal and Abdul Hakeem is designed as part of the M4 Motorway , and is being funded by the Asian Development Bank . [134] [135] The portion of motorway between Abdul Hakeem and Lahore that is under construction as part of CPEC will consist of the remaining 231 kilometers. [136]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lahore-Islamabad_M2_motorway_%28Pakistan%29_01.jpg/220px-Lahore-Islamabad_M2_motorway_%28Pakistan%29_01.jpg",
+                "caption": "Sukkur-Multan motorway is longest Motorway of Pakistan constructed under CPEC."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_Economic_Corridor",
+        "title": "China–Pakistan Economic Corridor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Western Alignment",
+        "text": "The CPEC project envisages an expanded and upgraded road network in the Pakistani provinces of Balochistan , Khyber Pakhtunkhwa , and western Punjab Province as part of the Western Alignment. The Western Alignment project will result in the upgrading of several hundred kilometers worth of road into 2 and 4-lane divided highways by mid-2018, with land acquisition sufficient for upgrading parts of the road to a 6-lane motorway in the future. [137] In total, the CPEC project envisages reconstruction of 870 kilometers of road in Balochistan province alone as part of the Western Alignment. Of those 870 kilometers of road, 620 kilometers have already been rebuilt as of January 2016. [138] The Western Alignment roadway network will begin at the Barahma Bahtar Interchange on the M1 Motorway near the towns of Burhan and Hasan Abdal in northern Punjab province. [139] The newly reconstructed Karakoram Highway will connect to the Western Alignment at Burhan, near where the new 285-kilometre-long controlled-access Brahma Bahtar-Yarik Motorway will commence. [140] The motorway will terminate near the town of Yarik , just north of Dera Ismail Khan . [141] Groundbreaking for the project took place on 17 May 2016 and was inaugurated on 5 January 2022. [142] The motorway traverses the Sindh Sagar Doab region, and cross the Indus River at Mianwali before entering into Khyber Pakhtunkhwa province. It consists of 11 interchanges, 74 culverts, and 3 major bridges spanning the Indus , Soan , and Kurram Rivers. [143] Total costs for the project were approx. $1.05 billion. [144] At the southern terminus of the new Brahma Bahtar-Yarik motorway, the N50 National Highway will also be upgraded between Dera Ismail Khan in Khyber Pakhtunkhwa and Zhob in neighbouring Balochistan province, with eventual reconstruction between Zhob and Quetta. [145] The upgraded roadway will consist of a 4 lane dual-carriageway spanning the 205 kilometre distance between the two cities. [146] The first portion of the N50 to be upgraded will be the 81 kilometre portion of the N50 between Zhob and Mughal Kot, with construction works having begun in January 2016. [147] Construction on this portion is expected to be completed by 2018 at a cost of $86 million. [145] While the project is considered a vital link in the CPEC's Western Alignment, [147] the project's cost will not be financed by Chinese state-owned banks, but instead by Asian Development Bank under a 2014 agreement which preceded CPEC, [148] [149] as well as by a grant provided by the United Kingdom's Department for International Development . [150] Heading south from Quetta, the Western Alignment of the CPEC will continue to the town of Surab in central Balochistan as the N25 National Highway . From Surab, a 470 kilometre long route known as the N85 National Highway will connect central Balochistan with the town of Hoshab in southwestern Balochistan province near the city of Turbat . The stretch of road between these cities was completed in December 2016, [151] as per schedule. [152] Along the Western Alignment route, the towns of Hoshab and Gwadar are connected by a newly built 193-kilometer-long portion of the M8 Motorway – the Hoshab to Gwadar portion of the motorway was completed and inaugurated in February 2016 by Prime Minister Nawaz Sharif. [153] The Western Alignment will be flanked by special economic zones along its route, [154] with at least seven special economic zones planned to be established in Khyber Pakhtunkhwa. [137]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/CPEC_Western_Alignment.png/220px-CPEC_Western_Alignment.png",
+                "caption": "The Western Alignment of CPEC is depicted by the red line. The 1,153-kilometer route will link the Brahma Bahtar Interchange of the M1 Motorway with the city of Gwadar in Balochistan province . The portion depicted by the orange line between Basima and Shahdadkot is sometimes regarded as part of the Western Alignment."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/CPECWesternAlignment.png/220px-CPECWesternAlignment.png",
+                "caption": ""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_Economic_Corridor",
+        "title": "China–Pakistan Economic Corridor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Associated roadway projects",
+        "text": "The 184 kilometers long M-4 Motorway between Faisalabad and Multan does not fall under the scope of CPEC projects but is nevertheless considered vital to the CPEC transportation project. It will instead be financed by the Asian Development Bank and the Asian Infrastructure Investment Bank , [134] and will be the first project jointly financed by those banks. [156] Further funding comes from an additional $90.7  million grant announced in October 2015 by the government of the United Kingdom towards the construction of a portion of the M4 Motorway project. [157] The Karakoram Highway south of the city of Mansehra will also be upgraded into a controlled-access highway to officially be known as the E-35 expressway . While it is considered to be a crucial part of the route between Gwadar and China, the E35 will not be financed by CPEC funds. The project will instead be financed by the Asian Development Bank [158] with a $121.6 million grant from the United Kingdom towards the project. [159] Once completed, the E35 Expressway, the M4 Motorway, and Karachi-Lahore Motorway will provide continuous high-speed road travel on controlled-access motorways from Mansehra to Karachi – 1,550 kilometers away. Approximately halfway between Zhob and Quetta, the town of Qilla Saifullah in Balochistan lies at the intersection of the N50 National Highway and the N70 National Highway . The two roads form the 447-kilometer route between Quetta and Multan in southern Punjab. While the N70 project is not officially a part of CPEC, it will connect the CPEC's Western Alignment to the Karachi-Lahore Motorway at Multan. Reconstruction works on the 126 kilometre portion of the N70 between Qilla Saifullah and Wagum are slated for completion by 2018, [160] and are financed as part of a $195 million package by the Asian Development Bank , [149] and by a $72.4 million grant from the United Kingdom's Department for International Development . [150]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Under_Construction_at_Mansehra.jpg/220px-Under_Construction_at_Mansehra.jpg",
+                "caption": "Hazara Motorway considered to be vital link for the Western alignment CPEC."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_Economic_Corridor",
+        "title": "China–Pakistan Economic Corridor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Railway projects",
+        "text": "The CPEC project emphasises major upgrades to Pakistan's aging railway system , including rebuilding of the entire Main Line 1 railway between Karachi and Peshawar by 2020; [161] this single railway currently handles 70% of Pakistan Railways traffic. [162] As of 25.05.2022 this project is in doldrums due to reluctance of China to provide funds. [163] In addition to the stalled Main Line 1 railway, upgrades and expansions are slated for the Main Line 2 railway, Main Line 3 railway. The CPEC plan also calls for completion of a rail link over the 4,693-meter high Khunjerab Pass . The railway will provide direct access for Chinese and East Asian goods to Pakistani seaports at Karachi and Gwadar by 2030. [162] Procurement of an initial 250 new passenger coaches, and reconstruction of 21 train stations are also planned as part of the first phase of the project – bringing the total investment in Pakistan's railway system to approximately $5  billion by the end of 2019. [164] 180 of the coaches are to be built at the Pakistan Railways Carriage Factory near Islamabad, [165] while the Government of Pakistan intends to procure an additional 800 coaches at a later date, with the intention of building 595 of those coaches in Pakistan. [165] In September 2018, the new government led by Prime Minister Imran Khan reduced the Chinese investment in railways by $2 billion to $6.2 billion because of financing burdens. [166]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Phase1KPM.png/220px-Phase1KPM.png",
+                "caption": "Phase 1 of the ML-1 overhaul and reconstruction is highlighted black between Peshawar and Lahore . Overhauling and reconstruction of the line will allow trains to travel at up to 160 kilometres per hour."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Phase2KPM.png/220px-Phase2KPM.png",
+                "caption": "Phase 2 of the ML-1 overhaul between Multan and Hyderabad is marked in orange. Phase 3 of the project is indicated by the green line between Hyderabad and Karachi ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_Economic_Corridor",
+        "title": "China–Pakistan Economic Corridor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Main Line 2",
+        "text": "In addition to upgrading the ML-1, the CPEC project also calls for similar major upgrade on the 1,254 kilometre long Main Line 2 (ML-2) railway between Kotri in Sindh province, and Attock in northern Punjab province via the cities of Larkana and Dera Ghazi Khan . [172] The route towards northern Pakistan roughly parallels the Indus River , as opposed to the ML-1 which takes a more eastward course towards Lahore. The project also includes a plan to connect Gwadar, to the town of Jacobabad , Sindh [173] which lies at the intersection of the ML-2 and ML-3 railways.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Main_Lines_2_and_3_of_Pakistan_Railways.png/220px-Main_Lines_2_and_3_of_Pakistan_Railways.png",
+                "caption": "ML-2 of Pakistan Railways is marked in purple, while ML-3 is marked in orange. Other lines are in blue."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_Economic_Corridor",
+        "title": "China–Pakistan Economic Corridor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Khunjerab Railway",
+        "text": "Longer-term projects under CPEC also call for construction of the 682 kilometre long Khunjerab Railway line between the city of Havelian , to the Khunjerab Pass on the Chinese border, [174] with extension to China's Lanxin Railway in Kashgar , Xinjiang. The railway will roughly parallel the Karakoram Highway , and is expected to be complete in 2030. [162] The cost of the entire project is estimated to be approximately $12 billion, and will require 5 years for completion. A 300 million rupee study to establish final feasibility of constructing the rail line between Havelian and the Chinese border is already underway. [175] A preliminary feasibility study was completed in 2008 by the Austrian engineering firm TBAC. [176]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Karakoram_Railway.png/220px-Karakoram_Railway.png",
+                "caption": "The proposed route of the Khunjerab Railway is indicated by the brown line."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_Economic_Corridor",
+        "title": "China–Pakistan Economic Corridor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "CPEC and the \"Malacca Dilemma\"",
+        "text": "The Straits of Malacca provide China with its shortest maritime access to Europe, Africa, and the Middle East. [293] Approximately 80% of its Middle Eastern energy imports also pass through the Straits of Malacca. [294] As the world's biggest oil importer, [47] energy security is a key concern for China while current sea routes used to import Middle Eastern oil are frequently patrolled by the United States' Navy. [ citation needed ] In the event that China were to face hostile actions from a United States [ who? ] , energy imports through the Straits of Malacca could be impeded, which in turn may jeopardise the Chinese economy in a scenario that is frequently referred to as the \"Malacca Dilemma\". [294] In addition to vulnerabilities faced in the Straits of Malacca region, China is heavily dependent upon sea-routes that pass through the South China Sea , near the disputed Spratly Islands and Paracel Islands , which are currently a source of tension between China, Taiwan, Vietnam, the Philippines, and the United States. [295] The CPEC project will allow Chinese energy imports to circumvent these contentious areas and find a new artery in the west, and thereby decrease the possibility of confrontation between the United States and China. [296] However, there is evidence to suggest that any pipelines from Gwadar up to China would be very expensive, would encounter numerous logistical difficulties including difficult terrain and potential terrorism, and would barely make any impact on China's overall energy security. [297]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Schina_sea_88.png/220px-Schina_sea_88.png",
+                "caption": "Map showing territorial claims in South China Sea. A high percentage of Chinese energy imports pass through this disputed region, rendering much of China's energy imports vulnerable to conflict."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_Economic_Corridor",
+        "title": "China–Pakistan Economic Corridor",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Power plants",
+        "text": "Nuclear power plants are thermal power stations that generate electricity by harnessing the thermal energy released from nuclear fission . A fission nuclear power plant is generally composed of: a nuclear reactor , in which the nuclear reactions generating heat take place; a cooling system, which removes the heat from inside the reactor; a steam turbine , which transforms the heat into mechanical energy ; an electric generator , which transforms the mechanical energy into electrical energy. [61] When a neutron hits the nucleus of a uranium-235 or plutonium atom, it can split the nucleus into two smaller nuclei, which is a nuclear fission reaction. The reaction releases energy and neutrons. The released neutrons can hit other uranium or plutonium nuclei, causing new fission reactions, which release more energy and more neutrons. This is called a chain reaction . In most commercial reactors, the reaction rate is contained by control rods that absorb excess neutrons. The controllability of nuclear reactors depends on the fact that a small fraction of neutrons resulting from fission are delayed . The time delay between the fission and the release of the neutrons slows changes in reaction rates and gives time for moving the control rods to adjust the reaction rate. [61] [62]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png",
+                "caption": "Number of electricity-generating civilian reactors by type as of 2014 [60] PWR BWR GCR PHWR LWGR FBR"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+        "title": "Nuclear power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Fuel cycle",
+        "text": "The life cycle of nuclear fuel starts with uranium mining . The uranium ore is then converted into a compact ore concentrate form, known as yellowcake (U 3 O 8 ), to facilitate transport. [63] Fission reactors generally need uranium-235 , a fissile isotope of uranium . The concentration of uranium-235 in natural uranium is low (about 0.7%). Some reactors can use this natural uranium as fuel, depending on their neutron economy . These reactors generally have graphite or heavy water moderators. For light water reactors, the most common type of reactor, this concentration is too low, and it must be increased by a process called uranium enrichment . [63] In civilian light water reactors, uranium is typically enriched to 3.5–5% uranium-235. [64] The uranium is then generally converted into uranium oxide (UO 2 ), a ceramic, that is then compressively sintered into fuel pellets, a stack of which forms fuel rods of the proper composition and geometry for the particular reactor. [64] After some time in the reactor, the fuel will have reduced fissile material and increased fission products, until its use becomes impractical. [64] At this point, the spent fuel will be moved to a spent fuel pool which provides cooling for the thermal heat and shielding for ionizing radiation. After several months or years, the spent fuel is radioactively and thermally cool enough to be moved to dry storage casks or reprocessed. [64]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Nuclear_Fuel_Cycle.png/220px-Nuclear_Fuel_Cycle.png",
+                "caption": "The nuclear fuel cycle begins when uranium is mined, enriched, and manufactured into nuclear fuel (1), which is delivered to a nuclear power plant . After use, the spent fuel is delivered to a reprocessing plant (2) or to a final repository (3). In nuclear reprocessing , 95% of spent fuel can potentially be recycled to be returned to use in a power plant (4)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+        "title": "Nuclear power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Uranium resources",
+        "text": "Uranium is a fairly common element in the Earth's crust: it is approximately as common as tin or germanium , and is about 40 times more common than silver . [65] Uranium is present in trace concentrations in most rocks, dirt, and ocean water, but is generally economically extracted only where it is present in relatively high concentrations. Uranium mining can be underground, open-pit , or in-situ leach mining. An increasing number of the highest output mines are remote underground operations, such as McArthur River uranium mine , in Canada, which by itself accounts for 13% of global production. As of 2011 the world's known resources of uranium, economically recoverable at the arbitrary price ceiling of US$130/kg, were enough to last for between 70 and 100 years. [66] [67] [68] In 2007, the OECD estimated 670 years of economically recoverable uranium in total conventional resources and phosphate ores assuming the then-current use rate. [69] Light water reactors make relatively inefficient use of nuclear fuel, mostly using only the very rare uranium-235 isotope. [70] Nuclear reprocessing can make this waste reusable, and newer reactors also achieve a more efficient use of the available resources than older ones. [70] With a pure fast reactor fuel cycle with a burn up of all the uranium and actinides (which presently make up the most hazardous substances in nuclear waste), there is an estimated 160,000 years worth of uranium in total conventional resources and phosphate ore at the price of 60–100 US$/kg. [71] However, reprocessing is expensive, possibly dangerous and can be used to manufacture nuclear weapons. [72] [73] [74] [75] [76] One analysis found that uranium prices could increase by two orders of magnitude between 2035 and 2100 and that there could be a shortage near the end of the century. [77] A 2017 study by researchers from MIT and WHOI found that \"at the current consumption rate, global conventional reserves of terrestrial uranium (approximately 7.6 million tonnes) could be depleted in a little over a century\". [78] Limited uranium-235 supply may inhibit substantial expansion with the current nuclear technology. [79] While various ways to reduce dependence on such resources are being explored, [80] [81] [82] new nuclear technologies are considered to not be available in time for climate change mitigation purposes or competition with alternatives of renewables in addition to being more expensive and require costly research and development. [79] [83] [84] A study found it to be uncertain whether identified resources will be developed quickly enough to provide uninterrupted fuel supply to expanded nuclear facilities [85] and various forms of mining may be challenged by ecological barriers, costs, and land requirements. [86] [87] Researchers also report considerable import dependence of nuclear energy. [88] [89] [90] [91] Unconventional uranium resources also exist. Uranium is naturally present in seawater at a concentration of about 3 micrograms per liter, [92] [93] [94] with 4.4 billion tons of uranium considered present in seawater at any time. [95] In 2014 it was suggested that it would be economically competitive to produce nuclear fuel from seawater if the process was implemented at large scale. [96] Like fossil fuels, over geological timescales, uranium extracted on an industrial scale from seawater would be replenished by both river erosion of rocks and the natural process of uranium dissolved from the surface area of the ocean floor, both of which maintain the solubility equilibria of seawater concentration at a stable level. [95] Some commentators have argued that this strengthens the case for nuclear power to be considered a renewable energy . [97]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Uranium_enrichment_proportions_%28horizontal%29.svg/440px-Uranium_enrichment_proportions_%28horizontal%29.svg.png",
+                "caption": "Proportions of the isotopes uranium-238 (blue) and uranium-235 (red) found in natural uranium and in enriched uranium for different applications. Light water reactors use 3–5% enriched uranium, while CANDU reactors work with natural uranium."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+        "title": "Nuclear power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Waste",
+        "text": "The normal operation of nuclear power plants and facilities produce radioactive waste , or nuclear waste. This type of waste is also produced during plant decommissioning. There are two broad categories of nuclear waste: low-level waste and high-level waste. [99] The first has low radioactivity and includes contaminated items such as clothing, which poses limited threat. High-level waste is mainly the spent fuel from nuclear reactors, which is very radioactive and must be cooled and then safely disposed of or reprocessed. [99]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nuclear_fuel_composition.svg/330px-Nuclear_fuel_composition.svg.png",
+                "caption": "Typical composition of uranium dioxide fuel before and after approximately three years in the once-through nuclear fuel cycle of a LWR [98]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+        "title": "Nuclear power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "High-level waste",
+        "text": "The most important waste stream from nuclear power reactors is spent nuclear fuel , which is considered high-level waste . For Light Water Reactors (LWRs), spent fuel is typically composed of 95% uranium, 4% fission products , and about 1% transuranic actinides (mostly plutonium , neptunium and americium ). [101] The fission products are responsible for the bulk of the short-term radioactivity, whereas the plutonium and other transuranics are responsible for the bulk of the long-term radioactivity. [102] High-level waste (HLW) must be stored isolated from the biosphere with sufficient shielding so as to limit radiation exposure. After being removed from the reactors, used fuel bundles are stored for six to ten years in spent fuel pools , which provide cooling and shielding against radiation. After that, the fuel is cool enough that it can be safely transferred to dry cask storage . [103] The radioactivity decreases exponentially with time, such that it will have decreased by 99.5% after 100 years. [104] The more intensely radioactive short-lived fission products (SLFPs) decay into stable elements in approximately 300 years, and after about 100,000 years, the spent fuel becomes less radioactive than natural uranium ore. [98] [105] Commonly suggested methods to isolate LLFP waste from the biosphere include separation and transmutation , [98] synroc treatments, or deep geological storage. [106] [107] [108] [109] Thermal-neutron reactors , which presently constitute the majority of the world fleet, cannot burn up the reactor grade plutonium that is generated during the reactor operation. This limits the life of nuclear fuel to a few years. In some countries, such as the United States, spent fuel is classified in its entirety as a nuclear waste. [110] In other countries, such as France, it is largely reprocessed to produce a partially recycled fuel, known as mixed oxide fuel or MOX . For spent fuel that does not undergo reprocessing, the most concerning isotopes are the medium-lived transuranic elements , which are led by reactor-grade plutonium (half-life 24,000 years). [111] Some proposed reactor designs, such as the integral fast reactor and molten salt reactors , can use as fuel the plutonium and other actinides in spent fuel from light water reactors, thanks to their fast fission spectrum. This offers a potentially more attractive alternative to deep geological disposal. [112] [113] [114] The thorium fuel cycle results in similar fission products, though creates a much smaller proportion of transuranic elements from neutron capture events within a reactor. Spent thorium fuel, although more difficult to handle than spent uranium fuel, may present somewhat lower proliferation risks. [115]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Spent_nuclear_fuel_decay_sievert.jpg/330px-Spent_nuclear_fuel_decay_sievert.jpg",
+                "caption": "Activity of spent UOx fuel in comparison to the activity of natural uranium ore over time [100] [98]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nuclear_dry_storage.jpg/220px-Nuclear_dry_storage.jpg",
+                "caption": "Dry cask storage vessels storing spent nuclear fuel assemblies"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+        "title": "Nuclear power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Waste disposal",
+        "text": "Following interim storage in a spent fuel pool , the bundles of used fuel rod assemblies of a typical nuclear power station are often stored on site in dry cask storage vessels. [125] Presently, waste is mainly stored at individual reactor sites and there are over 430 locations around the world where radioactive material continues to accumulate. Disposal of nuclear waste is often considered the most politically divisive aspect in the lifecycle of a nuclear power facility. [126] The lack of movement of nuclear waste in the 2 billion year old natural nuclear fission reactors in Oklo , Gabon is cited as \"a source of essential information today.\" [127] [128] Experts suggest that centralized underground repositories which are well-managed, guarded, and monitored, would be a vast improvement. [126] There is an \"international consensus on the advisability of storing nuclear waste in deep geological repositories \". [129] With the advent of new technologies, other methods including horizontal drillhole disposal into geologically inactive areas have been proposed. [130] [131] There are no commercial scale purpose built underground high-level waste repositories in operation. [129] [132] [133] However, in Finland the Onkalo spent nuclear fuel repository of the Olkiluoto Nuclear Power Plant was under construction as of 2015. [134]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/WIPP-04.jpeg/220px-WIPP-04.jpeg",
+                "caption": "Nuclear waste flasks generated by the United States during the Cold War are stored underground at the Waste Isolation Pilot Plant (WIPP) in New Mexico . The facility is seen as a potential demonstration for storing spent fuel from civilian reactors."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alpha-Gamma_Hot_Cell_Facility_001.jpg/220px-Alpha-Gamma_Hot_Cell_Facility_001.jpg",
+                "caption": "Most waste packaging, small-scale experimental fuel recycling chemistry and radiopharmaceutical refinement is conducted within remote-handled hot cells ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+        "title": "Nuclear power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Breeding",
+        "text": "Breeding is the process of converting non-fissile material into fissile material that can be used as nuclear fuel. The non-fissile material that can be used for this process is called fertile material , and constitute the vast majority of current nuclear waste. This breeding process occurs naturally in breeder reactors . As opposed to light water thermal-neutron reactors, which use uranium-235 (0.7% of all natural uranium), fast-neutron breeder reactors use uranium-238 (99.3% of all natural uranium) or thorium. A number of fuel cycles and breeder reactor combinations are considered to be sustainable or renewable sources of energy. [145] [146] In 2006 it was estimated that with seawater extraction, there was likely five billion years' worth of uranium resources for use in breeder reactors. [147] Breeder technology has been used in several reactors, but as of 2006, the high cost of reprocessing fuel safely requires uranium prices of more than US$200/kg before becoming justified economically. [148] Breeder reactors are however being developed for their potential to burn all of the actinides (the most active and dangerous components) in the present inventory of nuclear waste, while also producing power and creating additional quantities of fuel for more reactors via the breeding process. [149] [150] As of 2017, there are two breeders producing commercial power, BN-600 reactor and the BN-800 reactor , both in Russia. [151] The Phénix breeder reactor in France was powered down in 2009 after 36 years of operation. [151] Both China and India are building breeder reactors. The Indian 500 MWe Prototype Fast Breeder Reactor is in the commissioning phase, [152] with plans to build more. [153] Another alternative to fast-neutron breeders are thermal-neutron breeder reactors that use uranium-233 bred from thorium as fission fuel in the thorium fuel cycle . [154] Thorium is about 3.5 times more common than uranium in the Earth's crust, and has different geographic characteristics. [154] India's three-stage nuclear power programme features the use of a thorium fuel cycle in the third stage, as it has abundant thorium reserves but little uranium. [154]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nuclear-Fuel.jpg/170px-Nuclear-Fuel.jpg",
+                "caption": "Nuclear fuel assemblies being inspected before entering a pressurized water reactor in the United States"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+        "title": "Nuclear power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Production",
+        "text": "Civilian nuclear power supplied 2,586 terawatt hours (TWh) of electricity in 2019, equivalent to about 10% of global electricity generation , and was the second largest low-carbon power source after hydroelectricity . [38] [161] Since electricity accounts for about 25% of world energy consumption , nuclear power's contribution to global energy was about 2.5% in 2011. [162] This is a little more than the combined global electricity production from wind, solar, biomass and geothermal power, which together provided 2% of global final energy consumption in 2014. [163] Nuclear power's share of global electricity production has fallen from 16.5% in 1997, in large part because the economics of nuclear power have become more difficult. [164] As of March 2022, [update] there are 439 civilian fission reactors in the world , with a combined electrical capacity of 392 gigawatt (GW). There are also 56 nuclear power reactors under construction and 96 reactors planned, with a combined capacity of 62 GW and 96 GW, respectively. [165] The United States has the largest fleet of nuclear reactors, generating over 800 TWh per year with an average capacity factor of 92%. [166] Most reactors under construction are generation III reactors in Asia. [167] Regional differences in the use of nuclear power are large. The United States produces the most nuclear energy in the world, with nuclear power providing 20% of the electricity it consumes, while France produces the highest percentage of its electrical energy from nuclear reactors—71% in 2019. [18] In the European Union , nuclear power provides 26% of the electricity as of 2018. [168] Nuclear power is the single largest low-carbon electricity source in the United States, [169] and accounts for two-thirds of the European Union 's low-carbon electricity. [170] Nuclear energy policy differs among European Union countries, and some, such as Austria, Estonia , Ireland and Italy , have no active nuclear power stations. In addition, there were approximately 140 naval vessels using nuclear propulsion in operation, powered by about 180 reactors. [171] [172] These include military and some civilian ships, such as nuclear-powered icebreakers . [173] International research is continuing into additional uses of process heat such as hydrogen production (in support of a hydrogen economy ), for desalinating sea water, and for use in district heating systems. [174]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nuclear-energy-electricity-production.png/400px-Nuclear-energy-electricity-production.png",
+                "caption": "Share of electricity production from nuclear, 2022 [159]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nuclear_power_station.svg/400px-Nuclear_power_station.svg.png",
+                "caption": "The status of nuclear power globally (click for legend)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+        "title": "Nuclear power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Use in space",
+        "text": "The most common use of nuclear power in space is the use of radioisotope thermoelectric generators , which use radioactive decay to generate power. These power generators are relatively small scale (few kW), and they are mostly used to power space missions and experiments for long periods where solar power is not available in sufficient quantity, such as in the Voyager 2 space probe. [195] A few space vehicles have been launched using nuclear reactors : 34 reactors belong to the Soviet RORSAT series and one was the American SNAP-10A . [195] Both fission and fusion appear promising for space propulsion applications, generating higher mission velocities with less reaction mass . [195] [196]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Msl-MMRTG.jpg/220px-Msl-MMRTG.jpg",
+                "caption": "The multi-mission radioisotope thermoelectric generator (MMRTG), used in several space missions such as the Curiosity Mars rover"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+        "title": "Nuclear power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Safety",
+        "text": "Nuclear power plants have three unique characteristics that affect their safety, as compared to other power plants. Firstly, intensely radioactive materials are present in a nuclear reactor. Their release to the environment could be hazardous. Secondly, the fission products , which make up most of the intensely radioactive substances in the reactor, continue to generate a significant amount of decay heat even after the fission chain reaction has stopped. If the heat cannot be removed from the reactor, the fuel rods may overheat and release radioactive materials. Thirdly, a criticality accident (a rapid increase of the reactor power) is possible in certain reactor designs if the chain reaction cannot be controlled. These three characteristics have to be taken into account when designing nuclear reactors. [197] All modern reactors are designed so that an uncontrolled increase of the reactor power is prevented by natural feedback mechanisms, a concept known as negative void coefficient of reactivity. If the temperature or the amount of steam in the reactor increases, the fission rate inherently decreases. The chain reaction can also be manually stopped by inserting control rods into the reactor core. Emergency core cooling systems (ECCS) can remove the decay heat from the reactor if normal cooling systems fail. [198] If the ECCS fails, multiple physical barriers limit the release of radioactive materials to the environment even in the case of an accident. The last physical barrier is the large containment building . [197] With a death rate of 0.03 per TWh , nuclear power is the second safest energy source per unit of energy generated, after solar power, in terms of mortality when the historical track-record is considered. [199] Energy produced by coal, petroleum, natural gas and hydropower has caused more deaths per unit of energy generated due to air pollution and energy accidents . This is found when comparing the immediate deaths from other energy sources to both the immediate and the latent, or predicted, indirect cancer deaths from nuclear energy accidents. [200] [201] When the direct and indirect fatalities (including fatalities resulting from the mining and air pollution) from nuclear power and fossil fuels are compared, [202] the use of nuclear power has been calculated to have prevented about 1.84 million deaths from air pollution between 1971 and 2009, by reducing the proportion of energy that would otherwise have been generated by fossil fuels. [203] [204] Following the 2011 Fukushima nuclear disaster, it has been estimated that if Japan had never adopted nuclear power, accidents and pollution from coal or gas plants would have caused more lost years of life. [205] Serious impacts of nuclear accidents are often not directly attributable to radiation exposure, but rather social and psychological effects. Evacuation and long-term displacement of affected populations created problems for many people, especially the elderly and hospital patients. [206] Forced evacuation from a nuclear accident may lead to social isolation, anxiety, depression, psychosomatic medical problems, reckless behavior, and suicide. A comprehensive 2005 study on the aftermath of the Chernobyl disaster concluded that the mental health impact is the largest public health problem caused by the accident. [207] Frank N. von Hippel , an American scientist, commented that a disproportionate fear of ionizing radiation ( radiophobia ) could have long-term psychological effects on the population of contaminated areas following the Fukushima disaster. [208]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Death_rates_from_energy_production_per_TWh_%28including_solar%29.svg/400px-Death_rates_from_energy_production_per_TWh_%28including_solar%29.svg.png",
+                "caption": "Death rates from air pollution and accidents related to energy production, measured in deaths in the past per terawatt hours (TWh)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+        "title": "Nuclear power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Accidents",
+        "text": "Some serious nuclear and radiation accidents have occurred. The severity of nuclear accidents is generally classified using the International Nuclear Event Scale (INES) introduced by the International Atomic Energy Agency (IAEA). The scale ranks anomalous events or accidents on a scale from 0 (a deviation from normal operation that poses no safety risk) to 7 (a major accident with widespread effects). There have been three accidents of level 5 or higher in the civilian nuclear power industry, two of which, the Chernobyl accident and the Fukushima accident , are ranked at level 7. The first major nuclear accidents were the Kyshtym disaster in the Soviet Union and the Windscale fire in the United Kingdom, both in 1957. The first major accident at a nuclear reactor in the USA occurred in 1961 at the SL-1 , a U.S. Army experimental nuclear power reactor at the Idaho National Laboratory . An uncontrolled chain reaction resulted in a steam explosion which killed the three crew members and caused a meltdown . [211] [212] Another serious accident happened in 1968, when one of the two liquid-metal-cooled reactors on board the Soviet submarine K-27 underwent a fuel element failure , with the emission of gaseous fission products into the surrounding air, resulting in 9 crew fatalities and 83 injuries. [213] The Fukushima Daiichi nuclear accident was caused by the 2011 Tohoku earthquake and tsunami . The accident has not caused any radiation-related deaths but resulted in radioactive contamination of surrounding areas. The difficult cleanup operation is expected to cost tens of billions of dollars over 40 or more years. [214] [215] The Three Mile Island accident in 1979 was a smaller scale accident, rated at INES level 5. There were no direct or indirect deaths caused by the accident. [216] The impact of nuclear accidents is controversial. According to Benjamin K. Sovacool , fission energy accidents ranked first among energy sources in terms of their total economic cost, accounting for 41% of all property damage attributed to energy accidents. [217] Another analysis found that coal, oil, liquid petroleum gas and hydroelectric accidents (primarily due to the Banqiao Dam disaster ) have resulted in greater economic impacts than nuclear power accidents. [218] The study compares latent cancer deaths attributable to nuclear power with immediate deaths from other energy sources per unit of energy generated, and does not include fossil fuel related cancer and other indirect deaths created by the use of fossil fuel consumption in its \"severe accident\" (an accident with more than five fatalities) classification. The Chernobyl accident in 1986 caused approximately 50 deaths from direct and indirect effects, and some temporary serious injuries from acute radiation syndrome . [219] The future predicted mortality from increases in cancer rates is estimated at 4000 in the decades to come. [220] [221] [222] However, the costs have been large and are increasing. Nuclear power works under an insurance framework that limits or structures accident liabilities in accordance with national and international conventions. [223] It is often argued that this potential shortfall in liability represents an external cost not included in the cost of nuclear electricity. This cost is small, amounting to about 0.1% of the levelized cost of electricity , according to a study by the Congressional Budget Office in the United States. [224] These beyond-regular insurance costs for worst-case scenarios are not unique to nuclear power. Hydroelectric power plants are similarly not fully insured against a catastrophic event such as dam failures . For example, the failure of the Banqiao Dam caused the death of an estimated 30,000 to 200,000 people, and 11 million people lost their homes. As private insurers base dam insurance premiums on limited scenarios, major disaster insurance in this sector is likewise provided by the state. [225]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fukushima_I_by_Digital_Globe_crop.jpg/260px-Fukushima_I_by_Digital_Globe_crop.jpg",
+                "caption": "Following the 2011 Fukushima Daiichi nuclear disaster , the world's worst nuclear accident since 1986, 50,000 households were displaced after radiation leaked into the air, soil and sea. [209] Radiation checks led to bans of some shipments of vegetables and fish. [210]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Decay_heat_illustration2.PNG/260px-Decay_heat_illustration2.PNG",
+                "caption": "Reactor decay heat as a fraction of full power after the reactor shutdown, using two different correlations. To remove the decay heat, reactors need cooling after the shutdown of the fission reactions. A loss of the ability to remove decay heat caused the Fukushima accident ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+        "title": "Nuclear power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Proliferation",
+        "text": "Nuclear proliferation is the spread of nuclear weapons , fissionable material, and weapons-related nuclear technology to states that do not already possess nuclear weapons. Many technologies and materials associated with the creation of a nuclear power program have a dual-use capability, in that they can also be used to make nuclear weapons. For this reason, nuclear power presents proliferation risks. Nuclear power program can become a route leading to a nuclear weapon. An example of this is the concern over Iran's nuclear program . [233] The re-purposing of civilian nuclear industries for military purposes would be a breach of the Non-Proliferation Treaty , to which 190 countries adhere. As of April 2012, there are thirty one countries that have civil nuclear power plants, [234] of which nine have nuclear weapons . The vast majority of these nuclear weapons states have produced weapons before commercial nuclear power stations. A fundamental goal for global security is to minimize the nuclear proliferation risks associated with the expansion of nuclear power. [233] The Global Nuclear Energy Partnership was an international effort to create a distribution network in which developing countries in need of energy would receive nuclear fuel at a discounted rate, in exchange for that nation agreeing to forgo their own indigenous development of a uranium enrichment program. The France-based Eurodif / European Gaseous Diffusion Uranium Enrichment Consortium is a program that successfully implemented this concept, with Spain and other countries without enrichment facilities buying a share of the fuel produced at the French-controlled enrichment facility, but without a transfer of technology. [235] Iran was an early participant from 1974 and remains a shareholder of Eurodif via Sofidif . A 2009 United Nations report said that: On the other hand, power reactors can also reduce nuclear weapon arsenals when military-grade nuclear materials are reprocessed to be used as fuel in nuclear power plants. The Megatons to Megawatts Program is considered the single most successful non-proliferation program to date. [231] Up to 2005, the program had processed $8 billion of high enriched, weapons-grade uranium into low enriched uranium suitable as nuclear fuel for commercial fission reactors by diluting it with natural uranium . This corresponds to the elimination of 10,000 nuclear weapons. [237] For approximately two decades, this material generated nearly 10 percent of all the electricity consumed in the United States, or about half of all U.S. nuclear electricity, with a total of around 7,000 TWh of electricity produced. [238] In total it is estimated to have cost $17 billion, a \"bargain for US ratepayers\", with Russia profiting $12 billion from the deal. [238] Much needed profit for the Russian nuclear oversight industry, which after the collapse of the Soviet economy , had difficulties paying for the maintenance and security of the Russian Federations highly enriched uranium and warheads. [239] The Megatons to Megawatts Program was hailed as a major success by anti-nuclear weapon advocates as it has largely been the driving force behind the sharp reduction in the number of nuclear weapons worldwide since the cold war ended. [231] However, without an increase in nuclear reactors and greater demand for fissile fuel, the cost of dismantling and down blending has dissuaded Russia from continuing their disarmament. As of 2013, Russia appears to not be interested in extending the program. [240]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/US_and_USSR_nuclear_stockpiles.svg/260px-US_and_USSR_nuclear_stockpiles.svg.png",
+                "caption": "United States and USSR /Russian nuclear weapons stockpiles, 1945–2006. The Megatons to Megawatts Program was the main driving force behind the sharp reduction in the quantity of nuclear weapons worldwide since the cold war ended. [231] [232]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/US_Navy_060420-N-9621S-004_The_guided-missile_cruiser_USS_Monterey_%28CG_61%29_conducts_a_fueling_at_sea_%28FAS%29_with_the_Nimitz-class_aircraft_carrier_USS_George_Washington_%28CVN_73%29.jpg/260px-thumbnail.jpg",
+                "caption": "The guided-missile cruiser USS Monterey (CG 61) receives fuel at sea (FAS) from the Nimitz-class aircraft carrier USS George Washington (CVN 73)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+        "title": "Nuclear power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Environmental impact",
+        "text": "Being a low-carbon energy source with relatively little land-use requirements, nuclear energy can have a positive environmental impact. It also requires a constant supply of significant amounts of water and affects the environment through mining and milling. [241] [242] [243] [244] Its largest potential negative impacts on the environment may arise from its transgenerational risks for nuclear weapons proliferation that may increase risks of their use in the future, risks for problems associated with the management of the radioactive waste such as groundwater contamination, risks for accidents and for risks for various forms of attacks on waste storage sites or reprocessing- and power-plants. [72] [245] [246] [247] [248] [244] [249] [250] However, these remain mostly only risks as historically there have only been few disasters at nuclear power plants with known relatively substantial environmental impacts.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ikata_Nuclear_Powerplant.JPG/260px-Ikata_Nuclear_Powerplant.JPG",
+                "caption": "The Ikata Nuclear Power Plant , a pressurized water reactor that cools by using a secondary coolant heat exchanger with a large body of water, an alternative cooling approach to large cooling towers"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+        "title": "Nuclear power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Carbon emissions",
+        "text": "Nuclear power is one of the leading low carbon power generation methods of producing electricity , and in terms of total life-cycle greenhouse gas emissions per unit of energy generated , has emission values comparable to or lower than renewable energy . [252] [253] A 2014 analysis of the carbon footprint literature by the Intergovernmental Panel on Climate Change (IPCC) reported that the embodied total life-cycle emission intensity of nuclear power has a median value of 12 g CO 2 eq / kWh , which is the lowest among all commercial baseload energy sources. [251] [254] This is contrasted with coal and natural gas at 820 and 490 g CO 2 eq/kWh. [251] [254] As of 2021, nuclear reactors worldwide have helped avoid the emission of 72 billion tonnes of carbon dioxide since 1970, compared to coal-fired electricity generation, according to a report. [204] [255]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/CO2_Emissions_from_Electricity_Production_IPCC.png/260px-CO2_Emissions_from_Electricity_Production_IPCC.png",
+                "caption": "Life-cycle greenhouse gas emissions of electricity supply technologies, median values calculated by IPCC [251]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+        "title": "Nuclear power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Debate",
+        "text": "The nuclear power debate concerns the controversy which has surrounded the deployment and use of nuclear fission reactors to generate electricity from nuclear fuel for civilian purposes. [25] [259] [26] Proponents of nuclear energy regard it as a sustainable energy source that reduces carbon emissions and increases energy security by decreasing dependence on other energy sources that are also [89] [90] [91] often dependent on imports. [260] [261] [262] For example, proponents note that annually, nuclear-generated electricity reduces 470 million metric tons of carbon dioxide emissions that would otherwise come from fossil fuels. [263] Additionally, the amount of comparatively low waste that nuclear energy does create is safely disposed of by the large scale nuclear energy production facilities or it is repurposed/recycled for other energy uses. [264] M. King Hubbert , who popularized the concept of peak oil , saw oil as a resource that would run out and considered nuclear energy its replacement. [265] Proponents also claim that the present quantity of nuclear waste is small and can be reduced through the latest technology of newer reactors and that the operational safety record of fission-electricity in terms of deaths is so far \"unparalleled\". [14] Kharecha and Hansen estimated that \"global nuclear power has prevented an average of 1.84 million air pollution-related deaths and 64 gigatonnes of CO 2 -equivalent (GtCO 2 -eq) greenhouse gas (GHG) emissions that would have resulted from fossil fuel burning\" and, if continued, it could prevent up to 7 million deaths and 240 GtCO 2 -eq emissions by 2050. [204] Proponents also bring to attention the opportunity cost of using other forms of electricity. For example, the Environmental Protection Agency estimates that coal kills 30,000 people a year, [266] as a result of its environmental impact, while 60 people died in the Chernobyl disaster. [267] A real world example of impact provided by proponents is the 650,000 ton increase in carbon emissions in the two months following the closure of the Vermont Yankee nuclear plant. [268] Opponents believe that nuclear power poses many threats to people's health and environment [269] [270] such as the risk of nuclear weapons proliferation, long-term safe waste management and terrorism in the future. [271] [272] They also contend that nuclear power plants are complex systems where many things can and have gone wrong. [273] [274] Costs of the Chernobyl disaster amount to ≈$68 billion as of 2019 and are increasing, [34] the Fukushima disaster is estimated to cost taxpayers ~$187 billion, [189] and radioactive waste management is estimated to cost the Eureopean Union nuclear operators ~$250 billion by 2050. [191] However, in countries that already use nuclear energy, when not considering reprocessing, intermediate nuclear waste disposal costs could be relatively fixed to certain but unknown degrees [275] \"as the main part of these costs stems from the operation of the intermediate storage facility\". [276] Critics find that one of the largest drawbacks to building new nuclear fission power plants are the large construction and operating costs when compared to alternatives of sustainable energy sources. [54] [277] [83] [243] [278] Further costs include ongoing research and development, expensive reprocessing in cases where such is practiced [72] [73] [74] [76] and decommissioning. [279] [280] [281] Proponents note that focussing on the levelized cost of energy (LCOE), however, ignores the value premium associated with 24/7 dispatchable electricity and the cost of storage and backup systems necessary to integrate variable energy sources into a reliable electrical grid. [282] \"Nuclear thus remains the dispatchable low-carbon technology with the lowest expected costs in 2025. Only large hydro reservoirs can provide a similar contribution at comparable costs but remain highly dependent on the natural endowments of individual countries.\" [283] Overall, many opponents find that nuclear energy cannot meaningfully contribute to climate change mitigation. In general, they find it to be, too dangerous, too expensive, to take too long for deployment, to be an obstacle to achieving a transition towards sustainability and carbon-neutrality, [83] [284] [285] [286] effectively being a distracting [287] [288] competition for resources (i.e. human, financial, time, infrastructure and expertise) for the deployment and development of alternative, sustainable, energy system technologies [84] [288] [83] [289] (such as for wind, ocean and solar [83] – including e.g. floating solar – as well as ways to manage their intermittency other than nuclear baseload [290] generation such as dispatchable generation , renewables-diversification, [291] [292] super grids , flexible energy demand and supply regulating smart grids and energy storage [293] [294] [295] [296] [297] technologies). [298] [299] [300] [301] [302] [303] [304] [305] [250] Nevertheless, there is ongoing research and debate over costs of new nuclear, especially in regions where i.a. seasonal energy storage is difficult to provide and which aim to phase out fossil fuels in favor of low carbon power faster than the global average. [306] Some find that financial transition costs for a 100% renewables-based European energy system that has completely phased out nuclear energy could be more costly by 2050 based on current technologies (i.e. not considering potential advances in e.g. green hydrogen , transmission and flexibility capacities, ways to reduce energy needs, geothermal energy and fusion energy) when the grid only extends across Europe. [307] Arguments of economics and safety are used by both sides of the debate.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/3-Learning-curves-for-electricity-prices.png/440px-3-Learning-curves-for-electricity-prices.png",
+                "caption": "A comparison of prices over time for energy from nuclear fission and from other sources. Over the presented time, thousands of wind turbines and similar were built on assembly lines in mass production resulting in an economy of scale. While nuclear remains bespoke, many first of their kind facilities added in the timeframe indicated and none are in serial production. Our World in Data notes that this cost is the global average , while the 2 projects that drove nuclear pricing upwards were in the US. The organization recognises that the median cost of the most exported and produced nuclear energy facility in the 2010s the South Korean APR1400 , remained \"constant\", including in export. [258] LCOE is a measure of the average net present cost of electricity generation for a generating plant over its lifetime. As a metric, it remains controversial as the lifespan of units are not independent but manufacturer projections, not a demonstrated longevity."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gr%C3%BCne_protests_against_nuclear_energy.jpg/220px-Gr%C3%BCne_protests_against_nuclear_energy.jpg",
+                "caption": "Anti-nuclear protest near nuclear waste disposal centre at Gorleben in northern Germany"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+        "title": "Nuclear power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Fusion",
+        "text": "Nuclear fusion reactions have the potential to be safer and generate less radioactive waste than fission. [359] [360] These reactions appear potentially viable, though technically quite difficult and have yet to be created on a scale that could be used in a functional power plant. Fusion power has been under theoretical and experimental investigation since the 1950s. Nuclear fusion research is underway but fusion energy is not likely to be commercially widespread before 2050. [361] [362] [363] Several experimental nuclear fusion reactors and facilities exist. The largest and most ambitious international nuclear fusion project currently in progress is ITER , a large tokamak under construction in France. ITER is planned to pave the way for commercial fusion power by demonstrating self-sustained nuclear fusion reactions with positive energy gain. Construction of the ITER facility began in 2007, but the project has run into many delays and budget overruns. The facility is now not expected to begin operations until the year 2027 – 11 years after initially anticipated. [364] A follow on commercial nuclear fusion power station, DEMO , has been proposed. [349] [365] There are also suggestions for a power plant based upon a different fusion approach, that of an inertial fusion power plant . Fusion-powered electricity generation was initially believed to be readily achievable, as fission-electric power had been. However, the extreme requirements for continuous reactions and plasma containment led to projections being extended by several decades. In 2020, more than 80 years after the first attempts , commercialization of fusion power production was thought to be unlikely before 2050. [349] [350] [351] [352] [353] To enhance and accelerate the development of fusion energy, the United States Department of Energy (DOE) granted $46 million to eight firms, including Commonwealth Fusion Systems and Tokamak Energy Inc, in 2023. This ambitious initiative aims to introduce pilot-scale fusion within a decade. [366]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/U.S._Department_of_Energy_-_Science_-_425_003_001_%289786811206%29.jpg/260px-U.S._Department_of_Energy_-_Science_-_425_003_001_%289786811206%29.jpg",
+                "caption": "Schematic of the ITER tokamak under construction in France"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+        "title": "Nuclear power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Largest hydroelectric power stations",
+        "text": "This is a list of the ten largest hydroelectric power stations in the United States by installed capacity .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Plant_map_Hydro.png/330px-Plant_map_Hydro.png",
+                "caption": "Hydro plants by capacity in 2021"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydroelectric_power_in_the_United_States",
+        "title": "Hydroelectric power in the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Origin",
+        "text": "The theory that fossil fuels formed from the fossilized remains of dead plants by exposure to heat and pressure in Earth's crust over millions of years was first introduced by Andreas Libavius \"in his 1597 Alchemia [Alchymia]\" and later by Mikhail Lomonosov \"as early as 1757 and certainly by 1763\". [21] The first use of the term \"fossil fuel\" occurs in the work of the German chemist Caspar Neumann , in English translation in 1759. [22] The Oxford English Dictionary notes that in the phrase \"fossil fuel\" the adjective \"fossil\" means \"[o]btained by digging; found buried in the earth\", which dates to at least 1652, [23] before the English noun \"fossil\" came to refer primarily to long-dead organisms in the early 18th century. [24] Aquatic phytoplankton and zooplankton that died and sedimented in large quantities under anoxic conditions millions of years ago began forming petroleum and natural gas as a result of anaerobic decomposition . Over geological time this organic matter , mixed with mud , became buried under further heavy layers of inorganic sediment. The resulting high temperature and pressure caused the organic matter to chemically alter , first into a waxy material known as kerogen , which is found in oil shales , and then with more heat into liquid and gaseous hydrocarbons in a process known as catagenesis . Despite these heat-driven transformations, the energy released in combustion is still photosynthetic in origin. [4] Terrestrial plants tended to form coal and methane. Many of the coal fields date to the Carboniferous period of Earth's history . Terrestrial plants also form type III kerogen , a source of natural gas. Although fossil fuels are continually formed by natural processes, they are classified as non-renewable resources because they take millions of years to form and known viable reserves are being depleted much faster than new ones are generated. [25] [26]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Countries_by_Oil_Production_in_2013.svg/300px-Countries_by_Oil_Production_in_2013.svg.png",
+                "caption": "Since oil fields are located only at certain places on Earth, [20] only some countries are oil-independent; the other countries depend on the oil-production capacities of these countries."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fossil_fuel",
+        "title": "Fossil fuel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Importance",
+        "text": "Fossil fuels have been important to human development because they can be readily burned in the open atmosphere to produce heat. The use of peat as a domestic fuel predates recorded history. Coal was burned in some early furnaces for the smelting of metal ore , while semi-solid hydrocarbons from oil seeps were also burned in ancient times, [29] they were mostly used for waterproofing and embalming . [30] Commercial exploitation of petroleum began in the 19th century. [31] Natural gas, once flared-off as an unneeded byproduct of petroleum production, is now considered a very valuable resource. [32] Natural gas deposits are also the main source of helium . Heavy crude oil , which is much more viscous than conventional crude oil, and oil sands , where bitumen is found mixed with sand and clay, began to become more important as sources of fossil fuel in the early 2000s. [33] Oil shale and similar materials are sedimentary rocks containing kerogen , a complex mixture of high-molecular weight organic compounds, which yield synthetic crude oil when heated ( pyrolyzed ). With additional processing, they can be employed instead of other established fossil fuels. During the 2010s and 2020s there was disinvestment from exploitation of such resources due to their high carbon cost relative to more easily-processed reserves. [34] Prior to the latter half of the 18th century, windmills and watermills provided the energy needed for work such as milling flour, sawing wood or pumping water, while burning wood or peat provided domestic heat. The wide-scale use of fossil fuels, coal at first and petroleum later, in steam engines enabled the Industrial Revolution . At the same time, gas lights using natural gas or coal gas were coming into wide use. The invention of the internal combustion engine and its use in automobiles and trucks greatly increased the demand for gasoline and diesel oil , both made from fossil fuels. Other forms of transportation, railways and aircraft, also require fossil fuels. The other major use for fossil fuels is in generating electricity and as feedstock for the petrochemical industry . Tar , a leftover of petroleum extraction, is used in the construction of roads . The energy for the Green Revolution was provided by fossil fuels in the form of fertilizers (natural gas), pesticides (oil), and hydrocarbon -fueled irrigation . [35] [36] The development of synthetic nitrogen fertilizer has significantly supported global population growth ; it has been estimated that almost half of the Earth's population are currently fed as a result of synthetic nitrogen fertilizer use. [37] According to head of a fertilizers commodity price agency, \"50% of the world's food relies on fertilisers.\" [38]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2008-_Oil_and_gas_industry_global_net_income_-_IEA.svg/220px-2008-_Oil_and_gas_industry_global_net_income_-_IEA.svg.png",
+                "caption": "Net income of the global oil and gas industry reached a record US$4 trillion in 2022. [27]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2007-_Profits_of_energy_companies_%28annual%29_-_stacked_bar_chart.svg/220px-2007-_Profits_of_energy_companies_%28annual%29_-_stacked_bar_chart.svg.png",
+                "caption": "After recovering from the COVID-19 pandemic , energy company profits increased with greater revenues from higher fuel prices resulting from the Russian invasion of Ukraine , falling debt levels, tax write-downs of projects shut down in Russia, and backing off from earlier plans to reduce greenhouse gas emissions. [28] Record profits sparked public calls for windfall taxes . [28]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fossil_fuel",
+        "title": "Fossil fuel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Environmental effects",
+        "text": "The burning of fossil fuels has a number of negative externalities – harmful environmental impacts where the effects extend beyond the people using the fuel. These effects vary between different fuels. All fossil fuels release CO 2 when they burn, thus accelerating climate change . Burning coal, and to a lesser extent oil and its derivatives, contributes to atmospheric particulate matter , smog and acid rain . [39] [40] [41] Climate change is largely driven by the release of greenhouse gases like CO 2 , and the burning of fossil fuels is the main source of these emissions. In most parts of the world climate change is negatively impacting ecosystems . [44] This includes contributing to the extinction of species and reducing people's ability to produce food, thus adding to the problem of world hunger . Continued rises in global temperatures will lead to further adverse effects on both ecosystems and people; the World Health Organization has said that climate change is the greatest threat to human health in the 21st century. [45] [46] Combustion of fossil fuels generates sulfuric and nitric acids , which fall to Earth as acid rain, impacting both natural areas and the built environment. Monuments and sculptures made from marble and limestone are particularly vulnerable, as the acids dissolve calcium carbonate . Fossil fuels also contain radioactive materials, mainly uranium and thorium , which are released into the atmosphere. In 2000, about 12,000 tonnes of thorium and 5,000 tonnes of uranium were released worldwide from burning coal. [47] It is estimated that during 1982, US coal burning released 155 times as much radioactivity into the atmosphere as the Three Mile Island accident . [48] Burning coal also generates large amounts of bottom ash and fly ash . These materials are used in a wide variety of applications (see Fly ash reuse ), utilizing, for example, [ clarification needed ] about 40% of the United States production. [49] In addition to the effects that result from burning, the harvesting, processing, and distribution of fossil fuels also have environmental effects. Coal mining methods, particularly mountaintop removal and strip mining , have negative environmental impacts, and offshore oil drilling poses a hazard to aquatic organisms. Fossil fuel wells can contribute to methane release via fugitive gas emissions . Oil refineries also have negative environmental impacts, including air and water pollution. Coal is sometimes transported by diesel-powered locomotives, while crude oil is typically transported by tanker ships, requiring the combustion of additional fossil fuels. A variety of mitigating efforts have arisen to counter the negative effects of fossil fuels. This includes a movement to use alternative energy sources, such as renewable energy . Environmental regulation uses a variety of approaches to limit these emissions; for example, rules against releasing waste products like fly ash into the atmosphere. [41] In December 2020, the United Nations released a report saying that despite the need to reduce greenhouse emissions, various governments are \" doubling down \" on fossil fuels, in some cases diverting over 50% of their COVID-19 recovery stimulus funding to fossil fuel production rather than to alternative energy. The UN secretary general António Guterres declared that \"Humanity is waging war on nature. This is suicidal. Nature always strikes back – and it is already doing so with growing force and fury.\" He also claimed there is still cause for hope, anticipating the US plan to join other large emitters like China and the EU in adopting targets to reach net zero emissions by 2050. [50] [51] [52]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/CO2_Emissions_by_Source_Since_1880.svg/300px-CO2_Emissions_by_Source_Since_1880.svg.png",
+                "caption": "The Global Carbon Project shows how additions to CO 2 since 1880 have been caused by different sources ramping up one after another."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Common_Era_Temperature.svg/300px-Common_Era_Temperature.svg.png",
+                "caption": "Global surface temperature reconstruction over the last 2000 years using proxy data from tree rings, corals, and ice cores in blue. [42] Directly observational data is in red, with all data showing a 5 year moving average. [43]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fossil_fuel",
+        "title": "Fossil fuel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    },
+    {
+        "section": "Illness and deaths",
+        "text": "Environmental pollution from fossil fuels impacts humans because particulates and other air pollution from fossil fuel combustion cause illness and death when inhaled. These health effects include premature death, acute respiratory illness, aggravated asthma, chronic bronchitis and decreased lung function. The poor, undernourished, very young and very old, and people with preexisting respiratory disease and other ill health are more at risk. [54] Global air pollution deaths due to fossil fuels have been estimated at over 8 million people (2018, nearly 1 in 5 deaths worldwide) [55] at 10.2 million (2019), [56] and 5.13 million excess deaths from ambient air pollution from fossil fuel use (2023). [57] While all energy sources inherently have adverse effects, the data show that fossil fuels cause the highest levels of greenhouse gas emissions and are the most dangerous for human health. In contrast, modern renewable energy sources appear to be safer for human health and cleaner. The death rates from accidents and air pollution in the EU are as follows per terawatt-hour (TWh): [58] As the data shows, coal, oil, natural gas, and biomass cause higher death rates and higher levels of greenhouse gas emissions than hydropower, nuclear energy, wind, and solar power. Scientists propose that 1.8 million lives have been saved by replacing fossil fuel sources with nuclear power. [59]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2021_Death_rates%2C_by_energy_source.svg/220px-2021_Death_rates%2C_by_energy_source.svg.png",
+                "caption": "Deaths caused as a result of fossil fuel use (areas of rectangles in chart) greatly exceed those resulting from production of renewable energy (rectangles barely visible in chart). [53]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fossil_fuel",
+        "title": "Fossil fuel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Economic implications of hydropower"
+    }
+]

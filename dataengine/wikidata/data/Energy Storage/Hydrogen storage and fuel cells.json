@@ -1,0 +1,676 @@
+[
+    {
+        "section": "Chemical storage",
+        "text": "Chemical storage could offer high storage performance due to the high storage densities. For example, supercritical hydrogen at 30 °C and 500 bar only has a density of 15.0 mol/L while methanol has a hydrogen density of 49.5 mol H 2 /L methanol and saturated dimethyl ether at 30 °C and 7 bar has a density of 42.1 mol H 2 /L dimethyl ether. [ citation needed ] Regeneration of storage material is problematic. A large number of chemical storage systems have been investigated. H 2 release can be induced by hydrolysis reactions or catalyzed dehydrogenation reactions . Illustrative storage compounds are hydrocarbons, boron hydrides , ammonia , and alane etc. [8] A most promising chemical approach is electrochemical hydrogen storage, as the release of hydrogen can be controlled by the applied electricity. [9] Most of the materials listed below can be directly used for electrochemical hydrogen storage. As shown before, nanomaterials offer advantage for hydrogen storage systems. Nanomaterials offer an alternative that overcomes the two major barriers of bulk materials, rate of sorption and release temperature. [ citation needed ] Enhancement of sorption kinetics and storage capacity can be improved through nanomaterial-based catalyst doping, as shown in the work of the Clean Energy Research Center in the University of South Florida . [10] This research group studied LiBH 4 doped with nickel nanoparticles and analyzed the weight loss and release temperature of the different species. They observed that an increasing amount of nanocatalyst lowers the release temperature by approximately 20 °C and increases the weight loss of the material by 2-3%. The optimum amount of Ni particles was found to be 3 mol%, for which the temperature was within the limits established (around 100 °C) and the weight loss was notably greater than the undoped species. The rate of hydrogen sorption improves at the nanoscale due to the short diffusion distance in comparison to bulk materials. They also have favorable surface-area-to-volume ratio . The release temperature of a material is defined as the temperature at which the desorption process begins. The energy or temperature to induce release affects the cost of any chemical storage strategy. If the hydrogen is bound too weakly, the pressure needed for regeneration is high, thereby cancelling any energy savings. The target for onboard hydrogen fuel systems is roughly <100 °C for release and <700 bar for recharge (20–60 kJ/mol H 2 ). [11] A modified van ’t Hoff equation , relates temperature and partial pressure of hydrogen during the desorption process. The modifications to the standard equation are related to size effects at the nanoscale. Where p H 2 is the partial pressure of hydrogen, Δ H is the enthalpy of the sorption process (exothermic), Δ S is the change in entropy , R is the ideal gas constant , T is the temperature in Kelvin, V m is the molar volume of the metal, r is the radius of the nanoparticle and γ is the surface free energy of the particle. From the above relation we see that the enthalpy and entropy change of desorption processes depend on the radius of the nanoparticle. Moreover, a new term is included that takes into account the specific surface area of the particle and it can be mathematically proven that a decrease in particle radius leads to a decrease in the release temperature for a given partial pressure. [12]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DOE_FCTO_hydrogen_storage_materials_capacity_chart.png/440px-DOE_FCTO_hydrogen_storage_materials_capacity_chart.png",
+                "caption": "Hydrogen gravimetric capacity of proposed storage materials for hydrogen fuel as a function of hydrogen release temperature. The targets have since been lowered. [7]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_storage",
+        "title": "Hydrogen storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Metal hydrides",
+        "text": "Metal hydrides , such as MgH 2 , NaAlH 4 , LiAlH 4 , LiH , LaNi 5 H 6 , TiFeH 2 , ammonia borane , and palladium hydride represent sources of stored hydrogen. Again the persistent problems are the % weight of H 2 that they carry and the reversibility of the storage process. [14] Some are easy-to-fuel liquids at ambient temperature and pressure, whereas others are solids which could be turned into pellets. These materials have good energy density , although their specific energy is often worse than the leading hydrocarbon fuels. LiNH 2 , LiBH 4 , and NaBH 4 . [15] An alternative method for lowering dissociation temperatures is doping with activators. This strategy has been used for aluminium hydride , but the complex synthesis makes the approach unattractive. [16] Proposed hydrides for use in a hydrogen economy include simple hydrides of magnesium [17] or transition metals and complex metal hydrides , typically containing sodium , lithium , or calcium and aluminium or boron . Hydrides chosen for storage applications provide low reactivity (high safety) and high hydrogen storage densities. Leading candidates are lithium hydride , sodium borohydride , lithium aluminium hydride and ammonia borane . A French company McPhy Energy is developing the first industrial product, based on magnesium hydride, already sold to some major clients such as Iwatani and ENEL. Reversible hydrogen storage is exhibited by frustrated Lewis pair , which produces a borohydride. [18] [19] [20] The phosphino-borane on the left accepts one equivalent of hydrogen at one atmosphere and 25 °C and expels it again by heating to 100 °C. The storage capacity is 0.25 wt%.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Metal_hydride_hydrogen.storage.graph.gif/280px-Metal_hydride_hydrogen.storage.graph.gif",
+                "caption": "Metal hydride hydrogen storage"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Phosphinoboranehydrogenstorage_2.png/600px-Phosphinoboranehydrogenstorage_2.png",
+                "caption": "Phosphino borane hydrogenstorage"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_storage",
+        "title": "Hydrogen storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Organic hydrogen carriers",
+        "text": "Unsaturated organic compounds can store huge amounts of hydrogen. These Liquid Organic Hydrogen Carriers (LOHC) are hydrogenated for storage and dehydrogenated again when the energy/hydrogen is needed. Using LOHCs, relatively high gravimetric storage densities can be reached (about 6 wt-%) and the overall energy efficiency is higher than for other chemical storage options such as producing methane from the hydrogen . [55] Both hydrogenation and dehydrogenation of LOHCs requires catalysts. [56] It was demonstrated that replacing hydrocarbons by hetero-atoms, like N, O etc. improves reversible de/hydrogenation properties.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Perhydro-N-Carbazol.PNG/280px-Perhydro-N-Carbazol.PNG",
+                "caption": "Reversible hydrogenation of N-ethylcarbazole."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_storage",
+        "title": "Hydrogen storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Porous or layered carbon",
+        "text": "Activated carbons are highly porous amorphous carbon materials with high apparent surface area. Hydrogen physisorption can be increased in these materials by increasing the apparent surface area and optimizing pore diameter to around 7 Å. [86] These materials are of particular interest due to the fact that they can be made from waste materials, such as cigarette butts which have shown great potential as precursor materials for high-capacity hydrogen storage materials. [87] [88] Graphene can store hydrogen efficiently. The H 2 adds to the double bonds giving graphane . The hydrogen is released upon heating to 450 °C. [89] [90] Hydrogen carriers based on nanostructured carbon (such as carbon buckyballs and nanotubes ) have been proposed. However, hydrogen content amounts up to ≈3.0-7.0 wt% at 77K which is far from the value set by US Department of Energy (6 wt% at nearly ambient conditions). [ citation needed ] To realize carbon materials as effective hydrogen storage technologies, carbon nanotubes (CNTs) have been doped with MgH 2 . [10] The metal hydride has proven to have a theoretical storage capacity (7.6 wt%) that fulfills the United States Department of Energy requirement of 6 wt%, but has limited practical applications due to its high release temperature. The proposed mechanism involves the creation of fast diffusion channels by CNTs within the MgH 2 lattice. Fullerene substances are other carbonaceous nanomaterials that have been tested for hydrogen storage in this center. Fullerene molecules are composed of a C 60 close-caged structure, that allows for hydrogenation of the double bonded carbons leading to a theoretical C 60 H 60 isomer with a hydrogen content of 7.7 wt%. However, the release temperature in these systems is high (600 °C).",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Carbon_nanotubes.jpg",
+                "caption": "Carbon nanotubes"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_storage",
+        "title": "Hydrogen storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Underground hydrogen storage",
+        "text": "Underground hydrogen storage [118] is the practice of hydrogen storage in caverns , salt domes and depleted oil and gas fields. Large quantities of gaseous hydrogen have been stored in caverns by ICI for many years without any difficulties. [119] The storage of large quantities of liquid hydrogen underground can function as grid energy storage . The round-trip efficiency is approximately 40% (vs. 75-80% for pumped-hydro (PHES) ), and the cost is slightly higher than pumped hydro, if only a limited number of hours of storage is required. [120] Another study referenced by a European staff working paper found that for large scale storage, the cheapest option is hydrogen at €140/MWh for 2,000 hours of storage using an electrolyser, salt cavern storage and combined-cycle power plant. [117] : 15 The European project Hyunder [121] indicated in 2013 that for the storage of wind and solar energy an additional 85 caverns are required as it cannot be covered by PHES and CAES systems. [122] A German case study on storage of hydrogen in salt caverns found that if the German power surplus (7% of total variable renewable generation by 2025 and 20% by 2050) would be converted to hydrogen and stored underground, these quantities would require some 15 caverns of 500,000 cubic metres each by 2025 and some 60 caverns by 2050 – corresponding to approximately one third of the number of gas caverns currently operated in Germany. [123] In the US, Sandia Labs are conducting research into the storage of hydrogen in depleted oil and gas fields, which could easily absorb large amounts of renewably produced hydrogen as there are some 2.7 million depleted wells in existence. [124] Underground hydrogen storage is the practice of hydrogen storage in caverns , [125] [126] salt domes and depleted oil / gas fields . [127] [128] Large quantities of gaseous hydrogen have been stored in caverns for many years. [129] [ failed verification – see discussion ] [ unreliable source? ] The storage of large quantities of hydrogen underground in solution-mined salt domes , [130] aquifers , [131] excavated rock caverns, or mines can function as grid energy storage , [132] essential for the hydrogen economy . [133] By using a turboexpander the electricity needs for compressed storage on 200 bar amounts to 2.1% of the energy content. [134]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Available_storage_technologies%2C_their_capacity_and_discharge_time.jpg/330px-Available_storage_technologies%2C_their_capacity_and_discharge_time.jpg",
+                "caption": "'Available storage technologies, their capacity and discharge time.' [117] : 12"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_storage",
+        "title": "Hydrogen storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Types of fuel cells; design",
+        "text": "Fuel cells come in many varieties; however, they all work in the same general manner. They are made up of three adjacent segments: the anode , the electrolyte , and the cathode . Two chemical reactions occur at the interfaces of the three different segments. The net result of the two reactions is that fuel is consumed, water or carbon dioxide is created, and an electric current is created, which can be used to power electrical devices, normally referred to as the load. At the anode a catalyst ionizes the fuel, turning the fuel into a positively charged ion and a negatively charged electron. The electrolyte is a substance specifically designed so ions can pass through it, but the electrons cannot. The freed electrons travel through a wire creating an electric current. The ions travel through the electrolyte to the cathode. Once reaching the cathode, the ions are reunited with the electrons and the two react with a third chemical, usually oxygen, to create water or carbon dioxide. Design features in a fuel cell include: A typical fuel cell produces a voltage from 0.6 to 0.7 V at a full-rated load. Voltage decreases as current increases, due to several factors: To deliver the desired amount of energy, the fuel cells can be combined in series to yield higher voltage , and in parallel to allow a higher current to be supplied. Such a design is called a fuel cell stack . The cell surface area can also be increased, to allow higher current from each cell.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Fuel_Cell_Block_Diagram.svg/300px-Fuel_Cell_Block_Diagram.svg.png",
+                "caption": "A block diagram of a fuel cell"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fuel_cell",
+        "title": "Fuel cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Proton-exchange membrane fuel cells",
+        "text": "In the archetypical hydrogen–oxide proton-exchange membrane fuel cell (PEMFC) design, a proton-conducting polymer membrane (typically nafion ) contains the electrolyte solution that separates the anode and cathode sides. [27] [28] This was called a solid polymer electrolyte fuel cell ( SPEFC ) in the early 1970s, before the proton-exchange mechanism was well understood. (Notice that the synonyms polymer electrolyte membrane and proton-exchange mechanism result in the same acronym .) On the anode side, hydrogen diffuses to the anode catalyst where it later dissociates into protons and electrons. These protons often react with oxidants causing them to become what are commonly referred to as multi-facilitated proton membranes. The protons are conducted through the membrane to the cathode, but the electrons are forced to travel in an external circuit (supplying power) because the membrane is electrically insulating. On the cathode catalyst, oxygen molecules react with the electrons (which have traveled through the external circuit) and protons to form water. In addition to this pure hydrogen type, there are hydrocarbon fuels for fuel cells, including diesel , methanol ( see: direct-methanol fuel cells and indirect methanol fuel cells ) and chemical hydrides. The waste products with these types of fuel are carbon dioxide and water. When hydrogen is used, the CO 2 is released when methane from natural gas is combined with steam, in a process called steam methane reforming , to produce the hydrogen. This can take place in a different location to the fuel cell, potentially allowing the hydrogen fuel cell to be used indoors—for example, in forklifts. The different components of a PEMFC are The materials used for different parts of the fuel cells differ by type. The bipolar plates may be made of different types of materials, such as, metal, coated metal, graphite , flexible graphite, C–C composite , carbon – polymer composites etc. [30] The membrane electrode assembly (MEA) is referred to as the heart of the PEMFC and is usually made of a proton-exchange membrane sandwiched between two catalyst -coated carbon papers . Platinum and/or similar types of noble metals are usually used as the catalyst for PEMFC, and these can be contaminated by carbon monoxide , necessitating a relatively pure hydrogen fuel. [31] The electrolyte could be a polymer membrane .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/PEM_fuelcell.svg/390px-PEM_fuelcell.svg.png",
+                "caption": "Construction of a high-temperature PEMFC : Bipolar plate as electrode with in-milled gas channel structure, fabricated from conductive composites (enhanced with graphite , carbon black , carbon fiber , and/or carbon nanotubes for more conductivity); [24] Porous carbon papers; reactive layer, usually on the polymer membrane applied; polymer membrane."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Condensation.jpg/340px-Condensation.jpg",
+                "caption": "Condensation of water produced by a PEMFC on the air channel wall. The gold wire around the cell ensures the collection of electric current. [25]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SEM_micrograph_of_an_MEA_cross_section.jpg/220px-SEM_micrograph_of_an_MEA_cross_section.jpg",
+                "caption": "SEM micrograph of a PEMFC MEA cross-section with a non-precious metal catalyst cathode and Pt/C anode. [26] False colors applied for clarity."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fuel_cell",
+        "title": "Fuel cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Buses",
+        "text": "As of August 2011 [update] , there were about 100 fuel cell buses in service around the world. [132] Most of these were manufactured by UTC Power , Toyota, Ballard, Hydrogenics , and Proton Motor. UTC buses had driven more than 970,000 km (600,000 mi) by 2011. [133] Fuel cell buses have from 39% to 141% higher fuel economy than diesel buses and natural gas buses. [113] [134] As of 2019 [update] , the NREL was evaluating several current and planned fuel cell bus projects in the U.S. [135]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/TOYOTA_FCHV_Bus.jpg/220px-TOYOTA_FCHV_Bus.jpg",
+                "caption": "Toyota FCHV-BUS at the Expo 2005"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fuel_cell",
+        "title": "Fuel cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Boats",
+        "text": "The Hydra , a 22-person fuel cell boat operated from 1999 to 2001 on the Rhine river near Bonn , Germany, [169] and was used as a ferry boat in Ghent , Belgium, during an electric boat conference in 2000. It was fully certified by the Germanischer Lloyd for passenger transport. [170] The Zemship, a small passenger ship, was produced in 2003 to 2013. It used a 100 kW Polymer Electrolyte Membrane Fuel Cells (PEMFC) with 7 lead gel batteries. With these systems, alongside 12 storage tanks, fuel cells provided an energy capacity of 560 V and 234 Kwh. [171] Made in Hamburg , Germany, the FCS Alsterwasser, revealed in 2008, was one of the first passenger ships powered by fuel cells and could carry 100 passengers. The hybrid fuel cell technology that powered this ship was produced by Proton Motor Fuel Cell GmbH. [172] In 2010, the MF Vågen was first produced, utilizing 12 Kw fuel cells and 2-to-3-kilogram metal hydride hydrogen storage. It also utilizes 25kwh lithium batteries and a 10 kw DC motor. [171] The Hornblower Hybrid debuted in 2012. It utilizes a diesel generator , batteries, photovoltaics , wind power , and fuel cells for energy. [171] Made in Bristol , a 12 passenger hybrid ferry, Hydrogenesis, has been in operation since 2012. [171] The SF-BREEZE is a two-motor boat that utilizes 41 x 120 Kw fuel cells. With a type C storage tank, the pressurized vessel can maintain 1200 kg of LH2. These ships are still in operation today. [171] In Norway, the first ferry powered by fuel cells running on liquid hydrogen was scheduled for its first test drives in December 2022. [173] [174] The Type 212 submarines of the German and Italian navies use fuel cells to remain submerged for weeks without the need to surface. [ citation needed ] The U212A is a non-nuclear submarine developed by German naval shipyard Howaldtswerke Deutsche Werft. [175] The system consists of nine PEM fuel cells, providing between 30 kW and 50 kW each. The ship is silent, giving it an advantage in the detection of other submarines. [176]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Die_Hydra_in_Leipzig_I.jpg/220px-Die_Hydra_in_Leipzig_I.jpg",
+                "caption": "Fuel cell boat ( Hydra ), in Leipzig , Germany"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fuel_cell",
+        "title": "Fuel cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Fueling stations",
+        "text": "According to FuelCellsWorks, an industry group, at the end of 2019, 330 hydrogen refueling stations were open to the public worldwide. [189] As of June 2020, there were 178 publicly available hydrogen stations in operation in Asia. [190] 114 of these were in Japan. [190] There were at least 177 stations in Europe, and about half of these were in Germany. [191] [192] There were 44 publicly accessible stations in the US, 42 of which were located in California. [193] A hydrogen fueling station costs between $1 million and $4 million to build. [194]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Hydrogen_vehicle.jpg",
+                "caption": "Hydrogen fueling station"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fuel_cell",
+        "title": "Fuel cell",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Uses",
+        "text": "Hydrogen can be deployed as a fuel in two distinct ways: in fuel cells which produce electricity, and via combustion to generate heat. [48] When hydrogen is consumed in fuel cells, the only emission at the point of use is water vapor. [48] Combustion of hydrogen can lead to the thermal formation of harmful nitrogen oxides emissions. [48]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Hydrogen_Ladder%2C_Version_5.0.jpg/220px-The_Hydrogen_Ladder%2C_Version_5.0.jpg",
+                "caption": "Some projected uses in the medium term, but analysts disagree [47]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Photo_praxair_plant.hydrogen.infrastructure.jpg/200px-Photo_praxair_plant.hydrogen.infrastructure.jpg",
+                "caption": "Hydrogen fuel requires the development of a specific infrastructure for processing, transport and storage."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_economy",
+        "title": "Hydrogen economy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Safety",
+        "text": "Hydrogen poses a number of hazards to human safety, from potential detonations and fires when mixed with air to being an asphyxiant in its pure, oxygen -free form. [67] In addition, liquid hydrogen is a cryogen and presents dangers (such as frostbite ) associated with very cold liquids. [68] Hydrogen dissolves in many metals and in addition to leaking out, may have adverse effects on them, such as hydrogen embrittlement , [69] leading to cracks and explosions. [70] Hydrogen is flammable when mixed even in small amounts with ordinary air. Ignition can occur at a volumetric ratio of hydrogen to air as low as 4%. [71] Moreover, hydrogen fire, while being extremely hot, is almost invisible, and thus can lead to accidental burns. [72]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hydrogen_Flame_Broom_Test_NASA.jpg/220px-Hydrogen_Flame_Broom_Test_NASA.jpg",
+                "caption": "A NASA engineer sweeps an area with a corn broom to find the location of a hydrogen fire. Hydrogen burns with a nearly-invisible flame."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_economy",
+        "title": "Hydrogen economy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Examples and pilot programs",
+        "text": "The distribution of hydrogen for the purpose of transportation is being tested around the world, particularly in the US ( California , Massachusetts ), Canada , Japan , the EU ( Portugal , Norway , Denmark, Germany ), and Iceland . An indicator of the presence of large natural gas infrastructures already in place in countries and in use by citizens is the number of natural gas vehicles present in the country. The countries with the largest amount of natural gas vehicles are (in order of magnitude): [92] Iran , China , Pakistan , Argentina , India , Brasil , Italy , Colombia , Thailand , Uzbekistan , Bolivia , Armenia , Bangladesh , Egypt , Peru , Ukraine , United States . Natural gas vehicles can also be converted to run on hydrogen . Also, in a few private homes, fuel cell micro-CHP plants can be found, which can operate on hydrogen, or other fuels as natural gas or LPG. [93] [94]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Brno%2C_Autotec%2C_Mercedes_Citaro_na_palivov%C3%A9_%C4%8Dl%C3%A1nky_II.jpg/220px-Brno%2C_Autotec%2C_Mercedes_Citaro_na_palivov%C3%A9_%C4%8Dl%C3%A1nky_II.jpg",
+                "caption": "A Mercedes-Benz O530 Citaro powered by hydrogen fuel cells, in Brno , Czech Republic ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_economy",
+        "title": "Hydrogen economy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Rockets",
+        "text": "Many large rockets use liquid hydrogen as fuel, with liquid oxygen as an oxidizer (LH2/LOX). An advantage of hydrogen rocket fuel is the high effective exhaust velocity compared to kerosene / LOX or UDMH / NTO engines. According to the Tsiolkovsky rocket equation , a rocket with higher exhaust velocity uses less propellant to accelerate. Also the energy density of hydrogen is greater than any other fuel. [18] LH2/LOX also yields the greatest efficiency in relation to the amount of propellant consumed, of any known rocket propellant. [19] A disadvantage of LH2/LOX engines is the low density and low temperature of liquid hydrogen, which means bigger and insulated and thus heavier fuel tanks are needed compared to methane, although methane is more polluting. [20] This increases the rocket's structural mass which reduces its delta-v significantly. Another disadvantage is the poor storability of LH2/LOX-powered rockets: Due to the constant hydrogen boil-off, the rocket must be fueled shortly before launch, which makes cryogenic engines unsuitable for ICBMs and other rocket applications with the need for short launch preparations. Overall, the delta-v of a hydrogen stage is typically not much different from that of a dense fuelled stage, but the weight of a hydrogen stage is much less, which makes it particularly effective for upper stages, since they are carried by the lower stages. For first stages, dense fuelled rockets in studies may show a small advantage, due to the smaller vehicle size and lower air drag. [21] LH2/LOX were also used in the Space Shuttle to run the fuel cells that power the electrical systems. [22] The byproduct of the fuel cell is water, which is used for drinking and other applications that require water in space.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Centaur_Rocket_Engine_-_GPN-2000-000387.jpg/220px-Centaur_Rocket_Engine_-_GPN-2000-000387.jpg",
+                "caption": "Centaur (rocket stage) was the first to use liquid hydrogen"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_vehicle",
+        "title": "Hydrogen vehicle",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Automobiles",
+        "text": "As of 2021 [update] , there are two hydrogen cars publicly available in select markets: the Toyota Mirai and the Hyundai Nexo . [23] The Honda Clarity was produced from 2016 to 2021. [24] Hydrogen combustion cars are not commercially available. [ citation needed ] In the light road vehicle segment, by the end of 2022, 70,200 fuel cell electric vehicles had been sold worldwide, [25] compared with 26 million plug-in electric vehicles. [26] In 2023, 3,143 hydrogen cars were sold in the US compared with 380,000 BEVs. [27] With the rapid rise of electric vehicles and associated battery technology and infrastructure, the global scope for hydrogen's role in cars is shrinking relative to earlier expectations. [11] [28] John Max of Hydrogen Fuel News believes that hydrogen may, however, be used directly, or as a feedstock for efuel, for vintage and muscle cars. [29] [30] [31] The first road vehicle powered by a hydrogen fuel cell was the Chevrolet Electrovan, introduced by General Motors in 1966. [32] The Toyota FCHV and Honda FCX , which began leasing on December 2, 2002, became the world's first government-certified commercial hydrogen fuel cell vehicles, [16] [15] [33] and the Honda FCX Clarity , which began leasing in 2008, was the world's first hydrogen fuel cell vehicle designed for mass production rather than adapting an existing model. [34] Honda established the world's first fuel cell vehicle dealer network in 2008, and at the time was the only company able to lease hydrogen fuel cell vehicles to private customers. [35] [36] The 2013 Hyundai Tucson FCEV , a modified Tucson, was introduced to the market as a lease-only vehicle, [37] [38] and Hyundai Motors claimed it was the world's first mass-produced hydrogen fuel cell vehicle. [39] [40] [41] However, due to high prices and a lack of charging infrastructure, sales fell far short of initial plans, with only 273 units sold by the end of May 2015. [39] Hyundai Nexo , which succeeded the Tucson in 2018, was selected as the \"safest SUV\" by the Euro NCAP in 2018. [42] Toyota launched the world's first dedicated mass-produced fuel cell vehicle (FCV), the Mirai , in Japan at the end of 2014 [12] [13] [14] and began sales in California, mainly the Los Angeles area and also in selected markets in Europe, the UK, Germany and Denmark [43] later in 2015. [44] The car has a range of 312 mi (502 km) and takes about five minutes to refill its hydrogen tank. The initial sale price in Japan was about 7 million yen ($69,000). [45] Former European Parliament President Pat Cox estimated that Toyota would initially lose about $100,000 on each Mirai sold. [46] At the end of 2019, Toyota had sold over 10,000 Mirais. [47] [4] Many automobile companies have introduced demonstration models in limited numbers (see List of fuel cell vehicles and List of hydrogen internal combustion engine vehicles ). [48] [49] In 2013 BMW leased hydrogen technology from Toyota , and a group formed by Ford Motor Company , Daimler AG , and Nissan announced a collaboration on hydrogen technology development. [50] In 2015, Toyota announced that it would offer all 5,680 patents related to hydrogen fuel cell vehicles and hydrogen fuel cell charging station technology, which it has been researching for over 20 years, to its competitors free of charge in order to stimulate the market for hydrogen-powered vehicles. [51] By 2017, however, Daimler had abandoned hydrogen vehicle development, [52] and most of the automobile companies developing hydrogen cars had switched their focus to battery electric vehicles. [53] By 2020, all but three automobile companies had abandoned plans to manufacture hydrogen cars. [54]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Toyota_Mirai_%28JPD20%29_IMG_5303.jpg/220px-Toyota_Mirai_%28JPD20%29_IMG_5303.jpg",
+                "caption": "The Toyota Mirai"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_vehicle",
+        "title": "Hydrogen vehicle",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Aeroplanes",
+        "text": "Some publications project hydrogen may be used in shipping [61] and jetplanes, [62] while others predict that biofuels and batteries will have more commercial success. [63] Companies such as Boeing , Lange Aviation , and the German Aerospace Center are pursuing hydrogen as fuel for crewed and uncrewed aeroplanes. In February 2008 Boeing tested a crewed flight of a small aircraft powered by a hydrogen fuel cell. Uncrewed hydrogen planes have also been tested. [64] For large passenger aeroplanes, The Times reported that \"Boeing said that hydrogen fuel cells were unlikely to power the engines of large passenger jet aeroplanes but could be used as backup or auxiliary power units onboard.\" [65] In July 2010, Boeing unveiled its hydrogen-powered Phantom Eye UAV , powered by two Ford internal-combustion engines that have been converted to run on hydrogen. [66]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Boeing_Fuel_Cell_Demonstrator_AB1.JPG/220px-Boeing_Fuel_Cell_Demonstrator_AB1.JPG",
+                "caption": "The Boeing Fuel Cell Demonstrator powered by a hydrogen fuel cell"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Hydrogen_Ladder%2C_Version_5.0.jpg/220px-The_Hydrogen_Ladder%2C_Version_5.0.jpg",
+                "caption": "Hydrogen projections [61] [62]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_vehicle",
+        "title": "Hydrogen vehicle",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Buses",
+        "text": "Fuel-cell buses were trialed in Ursus Lublin in 2017. [69] Solaris Bus & Coach introduced its Urbino 12 hydrogen electric buses in 2019. Several dozen were ordered. [70] The first city in the U.S. to have a fleet of hydrogen powered buses was Champaign , Illinois, when in 2021 the Champaign–Urbana Mass Transit District ordered two New Flyer XHE60 articulated hydrogen fuel cell buses, with 10 more New Flyer XHE40 buses added in 2024. [71] In 2022, the city of Montpellier , France, cancelled a contract to procure 51 buses powered by hydrogen fuel cells, when it found that \"the cost of operation for hydrogen [buses] is 6 times the cost of electricity\". [72]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Solaris_Urbino_12_hydrogen_2.jpg/220px-Solaris_Urbino_12_hydrogen_2.jpg",
+                "caption": "A Solaris Urbino 12 bus near its factory in Bolechowo, Poland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_vehicle",
+        "title": "Hydrogen vehicle",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Bicycles and stand-up scooters",
+        "text": "In 2007, Pearl Hydrogen Power Source Technology Co of Shanghai , China, demonstrated a PHB hydrogen bicycle. [85] [86] In 2014, Australian scientists from the University of New South Wales presented their Hy-Cycle model. [87] The same year, Canyon Bicycles started to work on the Eco Speed concept bicycle. [88] In 2017, Pragma Industries of France developed a bicycle that was able to travel 100 km on a single hydrogen cylinder. [89] In 2019, Pragma announced that the product, \"Alpha Bike\", has been improved to offer an electrically assisted pedalling range of 150 km, and the first 200 of the bikes are to be provided to journalists covering the 45th G7 summit in Biarritz , France. [90] In 2020, Alles over Waterstof [91] developed a 2-wheel hydrogen powered stand-up scooter. The stand-up scooter has a range of over 20 km on 15 grams of hydrogen. It uses a swappable 1 litre 200 bar hydrogen cylinder. In 2021 the company developed a hydrogen powered cargo-bike, using a static 3 litre 300 bar refillable hydrogen cylinder. The HydroCargo bike has a range of up to 100 km on 80 grams of hydrogen. [92] Lloyd Alter of TreeHugger responded to the announcement, asking \"why … go through the trouble of using electricity to make hydrogen, only to turn it back into electricity to charge a battery to run the e-bike [or] pick a fuel that needs an expensive filling station that can only handle 35 bikes a day, when you can charge a battery powered bike anywhere. [If] you were a captive fleet operator, why [not] just swap out batteries to get the range and the fast turnover?\" [93]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hydrogen_bicycle.jpg/220px-Hydrogen_bicycle.jpg",
+                "caption": "PHB hydrogen bicycle"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_vehicle",
+        "title": "Hydrogen vehicle",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Storage",
+        "text": "Compressed hydrogen in hydrogen tanks at 350 bar (5,000 psi) and 700 bar (10,000 psi) is used for hydrogen tank systems in vehicles, based on type IV carbon-composite technology. [137] Hydrogen has a very low volumetric energy density at ambient conditions, compared with gasoline and other vehicle fuels. [138] It must be stored in a vehicle either as a super-cooled liquid or as highly compressed gas, which require additional energy to accomplish. [139] In 2018, researchers at CSIRO in Australia powered a Toyota Mirai and Hyundai Nexo with hydrogen separated from ammonia using a membrane technology. Ammonia is easier to transport safely in tankers than pure hydrogen. [140]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Blue_diamond_compressed_hydrogen.jpg/170px-Blue_diamond_compressed_hydrogen.jpg",
+                "caption": "Compressed hydrogen storage mark"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_vehicle",
+        "title": "Hydrogen vehicle",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Infrastructure",
+        "text": "To enable the delivery of hydrogen fuel to transport end-users, a broad range of investments are needed, including, according to the International Energy Agency (IEA), the \"construction and operation of new port infrastructure, buffer storage, pipelines, ships, refueling stations and plants to convert the hydrogen into a more readily transportable commodity (and potentially back to hydrogen)\". [141] In particular, the IEA notes that refueling stations will be needed in locations that are suitable for long‐distance trucking such as industrial hubs and identifies the need for investment in airport infrastructure for the storage and delivery of hydrogen. The IEA deems the infrastructure requirements for hydrogen in shipping more challenging, drawing attention to the \"need for major investments and co‐ordinated efforts among fuel suppliers, ports, shipbuilders and shippers\". [142] As of 2021 [update] , there were 49 publicly accessible hydrogen refueling stations in the US, 48 of which were located in California (compared with 42,830 electric charging stations). [143] [144] By 2017, there were 91 hydrogen fueling stations in Japan. [145]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Hydrogen_vehicle.jpg",
+                "caption": "Hydrogen car fueling"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hydrogen_refueling.jpg/220px-Hydrogen_refueling.jpg",
+                "caption": "The refueling of a Hydrogen-powered vehicle. The vehicle is a Hyundai Nexo . Note the condensation around the handle; this is because of the hydrogen gas expanding, causing the handle to freeze."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_vehicle",
+        "title": "Hydrogen vehicle",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "In energy storage and fuels",
+        "text": "In energy storage applications the energy density relates the energy in an energy store to the volume of the storage facility, e.g. the fuel tank. The higher the energy density of the fuel, the more energy may be stored or transported for the same amount of volume. Given the high energy density of gasoline, the exploration of alternative media to store the energy of powering a car, such as hydrogen or battery, is strongly limited by the energy density of the alternative medium.  The same mass of lithium-ion storage, for example, would result in a car with only 2% the range of its gasoline counterpart.  If sacrificing the range is undesirable, it becomes necessary to carry that much more fuel. The energy density of a fuel per unit mass is called the specific energy of that fuel. In general an engine using that fuel will generate less kinetic energy due to inefficiencies and thermodynamic considerations—hence the specific fuel consumption of an engine will always be greater than its rate of production of the kinetic energy of motion. Energy density differs from energy conversion efficiency (net output per input) or embodied energy (the energy output costs to provide, as harvesting , refining , distributing, and dealing with pollution all use energy). Large scale, intensive energy use impacts and is impacted by climate , waste storage , and environmental consequences . No single energy storage method boasts the best in specific power , specific energy , and energy density. Peukert's law describes how the amount of useful energy that can be obtained (for a lead-acid cell) depends on how quickly it is pulled out. Alternative options are discussed for energy storage to increase energy density and decrease charging time. [10] [11] [12] [13] The figure above shows the gravimetric and volumetric energy density of some fuels and storage technologies (modified from the Gasoline article). Some values may not be precise because of isomers or other irregularities.  See Heating value for a comprehensive table of specific energies of important fuels. Generally the density values for chemical fuels do not include the weight of the oxygen required for combustion. The atomic weights of carbon and oxygen are similar, while hydrogen is much lighter. Figures are presented in this way for those fuels where in practice air would only be drawn in locally to the burner. This explains the apparently lower energy density of materials that contain their own oxidizer (such as gunpowder and TNT), where the mass of the oxidizer in effect adds weight, and absorbs some of the energy of combustion to dissociate and liberate oxygen to continue the reaction. This also explains some apparent anomalies, such as the energy density of a sandwich appearing to be higher than that of a stick of dynamite.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Energy_density.svg/400px-Energy_density.svg.png",
+                "caption": "Selected energy densities plot [3] [4] [5] [6] [7] [8] [9]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_density",
+        "title": "Energy density",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Specifications",
+        "text": "The Mirai uses the Toyota Fuel Cell System (TFCS), which features both fuel cell technology and hybrid technology, and includes proprietary Toyota-developed components including the fuel cell (FC) stack, FC boost converter , and high-pressure hydrogen tanks . The TFCS is more energy-efficient than internal combustion engines [ clarification needed ] and emits no CO 2 at the point of operation or substances of concern (SOCs) when driven. The system accelerates Mirai from 0 to 97 km/h ( 0 to 60 mph ) in 9.0 seconds and delivers a passing time of 3 seconds from 40 to 64 km/h (25 to 40 mph). The Mirai refueling takes between 3 and 5 minutes, and Toyota expected a total range of 480 km (300 miles) on a full tank. [42] The Mirai has a button labeled H 2 O that opens a gate at the rear, dumping the water vapor that forms from the hydrogen-oxygen reaction in the fuel cell. [46] The exhaust H 2 O or water volume is 240 mL per 4 km running. [48] [49] At the end of the journey, there is still some water left in the pipes. Using the H 2 O button the water from the vehicle is pumped through the pipes out of the car. The video shows the process after about 30 km (20 miles) drive.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Toyota_Mirai_%E2%80%93_Heckansicht%2C_11._November_2018%2C_D%C3%BCsseldorf.jpg/220px-Toyota_Mirai_%E2%80%93_Heckansicht%2C_11._November_2018%2C_D%C3%BCsseldorf.jpg",
+                "caption": "Rear view"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Toyota_Mirai",
+        "title": "Toyota Mirai",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Fuel cell stack",
+        "text": "The first generation of Toyota FC Stack achieved a maximum output of 114 kW (153 hp; 155 PS). Electricity generation efficiency was enhanced through the use of 3D fine mesh flow channels. These channels—a world first, according to Toyota—were arranged in a fine three-dimensional lattice structure to enhance the dispersion of air (oxygen), thereby enabling uniform generation of electricity on cell surfaces. This, in turn, provided a compact size and a high level of performance, including the stack's world-leading power output density of 3.1 kW/L (2.2 times higher than that of the previous Toyota FCHV-adv limited-lease model), or 2.0 kW/kg. Each stack comprises 370 (single-line stacking) cells, with a cell thickness of 1.34mm (0.05 in) and weight of 102 grams (3.6 oz). The compact Mirai FC stack generates about 160 times more power than the residential fuel cells on sale in Japan. [42] The Mirai has a new compact (13-litre (2.9 imp gal; 3.4 US gal)), high-efficiency, high-capacity converter developed to boost voltage generated in the Toyota FC Stack to 650 volts. [42]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Toyota_Mirai_fuel_cell_stack_and_hydrogen_tank_SAO_2016_9028.jpg/220px-Toyota_Mirai_fuel_cell_stack_and_hydrogen_tank_SAO_2016_9028.jpg",
+                "caption": "Mirai cutaway showing the power control unit and the electric traction motor in the front, the fuel cell stack and hydrogen storage tank in the middle, and the nickel–metal hydride rechargeable battery above in the rear."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Toyota_Mirai_fuel_cell_stack_SAO_2016_9034.jpg/220px-Toyota_Mirai_fuel_cell_stack_SAO_2016_9034.jpg",
+                "caption": "The Mirai's fuel cell stack"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Toyota_Mirai",
+        "title": "Toyota Mirai",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "High-pressure hydrogen tanks",
+        "text": "The Mirai has two hydrogen tanks with a three-layer structure made of carbon fiber-reinforced plastic consisting of nylon 6 from Ube Industries [50] and other materials. The tanks are 122 litres (27 imp gal; 32 US gal) combined, [51] and store hydrogen at 70 MPa (10,000 psi). The tanks have a combined weight of 87.5 kg (193 lb), [45] [42] and 5 kg (11 lb) capacity.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Toyota_Mirai_hydrogen_tank_and_electric_battery_SAO_2016_9030.jpg/220px-Toyota_Mirai_hydrogen_tank_and_electric_battery_SAO_2016_9030.jpg",
+                "caption": "The Mirai's high-pressure hydrogen tank and rechargeable battery pack on top"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Toyota_Mirai",
+        "title": "Toyota Mirai",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Safety",
+        "text": "At Toyota's Higashi-Fuji Technical Center , the Mirai has been subjected to extensive crash testing to evaluate a design specifically intended to address frontal, side and rear impacts and to provide claimed excellent protection of vehicle occupants. A high level of collision safety has also been achieved to help protect the fuel cell stack and high-pressure tanks against body deformation. The high pressure hydrogen tanks are claimed to have excellent hydrogen permeation prevention performance, strength, and durability. Hydrogen sensors provide warnings and can shut off tank main stop valves. The hydrogen tanks and other hydrogen-related parts are located outside the cabin to ensure that if hydrogen leaks, it will dissipate easily. The vehicle structure is enhanced with carbon-fiber-reinforced polymers from Toray [52] and designed to disperse and absorb impact energy across multiple parts to ensure a high-impact safety performance that protects the Toyota FC Stack and high-pressure hydrogen tanks during frontal, side or rear impacts. [42]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2015_Toyota_MIRAI_ZBA-JPD10_Cockpit.jpg/220px-2015_Toyota_MIRAI_ZBA-JPD10_Cockpit.jpg",
+                "caption": "Interior"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Toyota_Mirai",
+        "title": "Toyota Mirai",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": " Second generation (JPD20; 2020)",
+        "text": "The second-generation Mirai was unveiled in October 2019 [56] and went on sale in December 2020. It has a target of 30 percent increase in driving range with increased hydrogen capacity. [41] In April 2021, Toyota announced that it would offer its \"Teammate\" level 2 driver assistance system on Mirai. The system offers two modes, Advanced Drive and Advanced Park. Advanced Drive provides \"hands off\" driving on supported roads with a driver monitoring system verifying that the operator keeps their eyes on the road. Advanced Park is an advanced parking assistance system . [57] [58] In March 2023, the Mirai received a new infotainment system. [59]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Toyota_Mirai_%28JPD20%29_Auto_Zuerich_2021_IMG_0166.jpg/220px-Toyota_Mirai_%28JPD20%29_Auto_Zuerich_2021_IMG_0166.jpg",
+                "caption": "Rear view"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Toyota_Mirai",
+        "title": "Toyota Mirai",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Infrastructure",
+        "text": "As of January 2013 [update] , Japan had ten demonstration hydrogen fueling stations . [61] Toyota operated three of these stations. [62] To support commercialization of hydrogen fuel-cell vehicles by Toyota and other manufacturers, the Japanese government announced a goal to build approximately 100 hydrogen fueling stations by March 2016 in Japanese cities where the vehicles were to be launched initially. [63] By May 2016, there were approximately 80 hydrogen fueling stations in Japan. [64] California had ten hydrogen fueling stations in 2015, and the government provided about $47 million for 28 additional stations there. [21] As of December, 2017, there are 19 True Zero hydrogen stations [65] and 33 total hydrogen stations operating in California. [66] As of 2023 [update] , the province of British Columbia in Canada has 3 hydrogen stations in Metro Vancouver , one in Victoria and one station in Kelowna . [67]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hydrogen_fueling.jpg/220px-Hydrogen_fueling.jpg",
+                "caption": "The Saratoga, California , True Zero hydrogen fueling station, filling a Toyota Mirai while the station is being refilled by an Air Products SmartFuel Hydrogen delivery truck"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Linde_hydrogen_station_Mountain_View.jpg/220px-Linde_hydrogen_station_Mountain_View.jpg",
+                "caption": "The Linde hydrogen fuel station in Mountain View, California, with Linde liquid-hydrogen delivery truck, and a Toyota Mirai fueling up"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Toyota_Mirai",
+        "title": "Toyota Mirai",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Markets and sales",
+        "text": "In January 2015, it was announced that production of the Mirai fuel cell vehicle would increase from 700 units in 2015 to approximately 2,000 in 2016 and 3,000 in 2017. [77] As of December 2017 [update] , global sales totaled 5,300 Mirais. The top selling markets were the U.S. with 2,900 units, Japan with 2,100 and Europe with 200. [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Toyota_Mirai_WAS_2017_1578.jpg/220px-Toyota_Mirai_WAS_2017_1578.jpg",
+                "caption": "Rear badging of the American Toyota Mirai with California's white HOV lane access sticker"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Toyota_Mirai",
+        "title": "Toyota Mirai",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "United States",
+        "text": "The first 57 units were delivered to retail customers in California in October and November 2015. [13] Toyota hoped to release the Mirai in the five Northeastern States in the first half of 2016, but hydrogen fueling infrastructure was not built in the region. Toyota committed to provide free hydrogen fueling for the first three years to initial buyers of the Mirai, as Hyundai did for lessees of its Hyundai Tucson-ix35 Fuel Cell in California. [14] [84] In the American market, the 2016 model year Toyota Mirai started at US$57,500 before any government incentives, and a leasing option for 36 months was available with a $3,649 down payment and a lease rate of $499 per month. [14] [84] [85] Several states have established incentives and tax exemptions for fuel cell vehicles. [86] [87] As a zero-emission vehicle (ZEV), the Mirai is eligible for a purchase rebate in California of US$5,000 through the Clean Vehicle Rebate Project . [87] The federal tax credit for fuel cell vehicles originally expired on 31 December 2014, [84] [88] but it was retroactively extended through 31 December 2016. [88] By September 2016, Toyota had reduced the down-payment from US$3,649 to US$2,499 and leasing price to US$349 /month with several benefits, [89] and sold 710 Mirais. [90] As of December 2017 [update] , U.S. sales totaled about 2,900 Mirais. [78] Sales in California passed the 3,000 unit mark in January 2018, where there were 31 retail hydrogen stations in operation. [91] As of January 2018 [update] , Mirai sales represented more than 80% of all hydrogen fuel cell vehicles on the road in the United States. [91]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Toyota_Mirai_WAS_2017_1579.jpg/220px-Toyota_Mirai_WAS_2017_1579.jpg",
+                "caption": "Retail deliveries of the Mirai in the U.S. began in October 2015. [13]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Toyota_Mirai",
+        "title": "Toyota Mirai",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Recognition",
+        "text": "The Toyota Mirai won the 2016 World Green Car of the Year Award , announced at the 2016 New York International Auto Show . [99] In April 2018 the Mirai became first hydrogen powered fuel cell electric vehicle to travel the length of Great Britain from John O'Groats in Scotland to Land's End in England ( Land's End to John o' Groats ), a historic milestone in British motoring. [100] Driven by Richard Bremner and Luc Lacey from Autocar magazine and Jon Hunt from Toyota they started the journey from Kirkwall in the Orkney Islands. To reach the hydrogen refuelling infrastructure at the time they travelled via Aberdeen, Sunderland, [101] Rotherham and Beaconsfield covering 1,785 km (1,109 miles) at an average speed of 90 km/h (56 mph). The journey took 19 hours 40 minutes with hydrogen consumption of 0.9 kg per 100 km (16.1 kg of hydrogen consumed). [102] The second generation Mirai was awarded in May 2021 by the Hispanic Motor Press for 'Car Technology of the Year', noting the commitments towards zero emissions and Toyota Safety Sense. [103]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Toyota_Mirai_John_O%27Groats.jpg/220px-Toyota_Mirai_John_O%27Groats.jpg",
+                "caption": "Richard Bremner with the Toyota Mirai the first JOG to LE Hydrogen Fuel Cell Car at John O'Groats"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Toyota_Mirai_Lands_End.jpg/220px-Toyota_Mirai_Lands_End.jpg",
+                "caption": "Jon Hunt with the Toyota Mirai the first JOG to LE Hydrogen Fuel Cell Car at Land's End"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Toyota_Mirai",
+        "title": "Toyota Mirai",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Marketing",
+        "text": "In 2015, Toyota released Fueled By... , a series of video commercials for the Mirai which show how hydrogen to power fuel cells like the ones that Mirais use could come from various unexpected sources. [104] The last commercial, Fueled by the Future , features Michael J. Fox , Christopher Lloyd and YouTube science personality Go Tech Yourself.  It recalls the Back to the Future franchise and illustrates how the idea of converting trash into fuel (which had been introduced with the \"Mr. Fusion\" reactor that Dr. Emmett Brown (Lloyd) had brought back from the future at the end of the first film) had become reality. The commercial was released on 21 October — the same date in 2015 in Back to the Future Part II when Marty McFly (Fox), Jennifer Parker ( Claudia Wells / Elisabeth Shue ) and Brown traveled.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Toyota_Mirai_fuel_cell_badge_SAO_2016_9042.jpg/220px-Toyota_Mirai_fuel_cell_badge_SAO_2016_9042.jpg",
+                "caption": "Toyota's \" FUEL CELL \" badge used in the Mirai"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Toyota_Mirai",
+        "title": "Toyota Mirai",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Hydrogen powered cars",
+        "text": "Audi: BMW: Chrysler: Daimler: Fiat: Ford: Forze Hydrogen-Electric Racing Team Delft General Motors: Honda: Hyundai: Lotus Engineering: Kia: Mazda: Mitsubishi: Morgan: Nissan: Peugeot: Renault: Riversimple: Ronn Motor Company: Toyota: Volkswagen:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hydrogen_fueling_nozzle2.jpg/200px-Hydrogen_fueling_nozzle2.jpg",
+                "caption": "Hydrogen fueling nozzle"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_technologies",
+        "title": "Hydrogen technologies",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Products",
+        "text": "Horizon's technology platform has three parts: PEM fuel cells (micro-fuel cells and stacks) and their materials, hydrogen supply (electrolysis, reforming, and hydrolysis), and hydrogen storage and pressure related devices. Fuel cell stacks are offered in three ranges: Educational products and kits . A toy car was used to show a thin-film micro-fuel cell. [11] A fuel cell car kit was used in a competitive racing format. This led to the start of Destination Zero Carbon, a global STEM education program. The South African Agency for Science and Technology and the National Research Foundation have a video about the importance of making Science fun to boost research. [12] Horizon's H-CELL product is featured in the video. [11] In May 2013, French Minister of Industry, Frédéric Cuvillier [13] hands out the Saint Jo 24  hour race's trophy cup specially made for this challenge, which was to keep a hydrogen-powered car using rainwater, with hydrolysis done by solar panels, working under competitive conditions for 24  hours non-stop. The winning car was powered by Horizon Fuel Cell. [3] It was the first time that a hydrogen-powered car finished the 24  hour race, [14] a one-tenth replica of 24 Hours of Le Mans for radio-controlled car . Portable fuel cells are designed for, clean electric power generation in various off-grid emergency situations. They are deployed in: Stationary backup power units are developed internally or with integrators and partners seeking to develop cost-effective solutions. [ buzzword ] [15] The transport division works closely with integration partners that cater both to the car industry (supplying fuel cells to the Riversimple Urban Car or Micro cab) [16] [17] and offers an Electric Bike Kit, a plug and play hydrogen fuel cell system to hybrid with existing electric bikes . The aerospace division focuses on lightweight alternatives to batteries, where fuel cell systems combined with hydrogen generators increase electric flight duration. Early applications include monitoring wildlife poaching activity over large territories, pipeline monitoring, border patrol and geological surveys. [18] Paternoster, a 5 kW aircraft developed with Oklahoma State University and Calstate [19] flew 120  km (78 miles) - consuming 16 of the 64 grams of Hydrogen, giving the aircraft a potential flight range of 500 km (310 miles). [20]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Horizon_Fuel_Cell_Technologies_Hydrofill.png/220px-Horizon_Fuel_Cell_Technologies_Hydrofill.png",
+                "caption": "The Hydrofill"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Horizon_Fuel_Cell_Technologies_Hydrocar.png/220px-Horizon_Fuel_Cell_Technologies_Hydrocar.png",
+                "caption": "fuel cell powered Hydrocar"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Horizon_Fuel_Cell_Technologies",
+        "title": "Horizon Fuel Cell Technologies",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "High temperature electrolysis at nuclear power plants",
+        "text": "High-temperature electrolysis at nuclear power plants could produce hydrogen at scale and more efficiently. The DOE Office of Nuclear Energy has demonstration projects to test 3 nuclear facilities in the United States at:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Theoretical_thermal_water_splitting_efficiencies.webp/300px-Theoretical_thermal_water_splitting_efficiencies.webp.png",
+                "caption": "Theoretical thermal water splitting efficiencies. [10] 60% efficient at 1000° C Steam reforming of hydrocarbons to hydrogen is 70-85% efficient [11]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hydrogen_fuel_cell_power_plant",
+        "title": "Hydrogen fuel cell power plant",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Automobiles",
+        "text": "Honda established the world's first fuel cell vehicle dealer network in 2008, and at the time was the only company able to lease hydrogen fuel cell vehicles to private customers. [33] [34] The Honda FCX Clarity was introduced in 2008 for leasing by customers in Japan and Southern California and discontinued by 2015. From 2008 to 2014, Honda leased a total of 45 FCX units in the US. [35] Over 20 other FCEV prototypes and demonstration cars were released in that time period, [36] including the GM HydroGen4 , [29] and Mercedes-Benz F-Cell . The Hyundai ix35 FCEV Fuel Cell vehicle was available for lease from 2014 to 2018, [37] when 54 units were leased. [38] In 2018, Hyundai introduced the Nexo . [39] Sales of the Toyota Mirai to customers began in Japan in December 2014. Most of the initial customers were expected to be governments and corporations, not individuals. [40] Pricing started at ¥ 6,700,000 (~ US$57,400 ) before taxes and a government incentive of ¥ 2,000,000 (~ US$19,600 ). [41] Former European Parliament President Pat Cox estimated that Toyota initially would lose about $100,000 on each Mirai sold. [42] As of December 2017 [update] , global sales totaled 5,300 Mirais. The top selling markets were the U.S. with 2,900 units, Japan with 2,100 and Europe with 200. [43] In 2015, Toyota announced that it would offer all 5,680 patents related to hydrogen fuel cell vehicles and hydrogen fuel cell charging station technology, which it has been researching for over 20 years, to its competitors free of charge in order to stimulate the market for hydrogen-powered vehicles. [44] The Honda Clarity Fuel Cell was produced from 2016 to 2021. [45] [46] The 2017 Clarity had the highest combined and city fuel economy ratings among all hydrogen fuel cell cars rated by the EPA that year, with a combined city/highway rating of 67 miles per gallon gasoline equivalent (MPGe), and 68 MPGe in city driving. [47] In 2019, Katsushi Inoue, the president of Honda Europe, stated, \"Our focus is on hybrid and electric vehicles now. Maybe hydrogen fuel cell cars will come, but that's a technology for the next era.\" [48] By 2017, Daimler phased out its FCEV development, citing declining battery costs and increasing range of EVs, [49] and most of the automobile companies developing hydrogen cars had switched their focus to battery electric vehicles. [50] By 2020, only three car makers were still manufacturing, or had active manufacturing programs for hydrogen cars. [51] In 2023, 3,143 hydrogen cars were sold in the US compared with 380,000 BEVs. [52]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/FCX-Honda.JPG/220px-FCX-Honda.JPG",
+                "caption": "The Honda FCX , along with the Toyota FCHV , is the world's first government-certified commercial hydrogen fuel cell vehicle. [5] [4]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/FCX_Clarity.jpg/220px-FCX_Clarity.jpg",
+                "caption": "2008 Honda FCX Clarity"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fuel_cell_vehicle",
+        "title": "Fuel cell vehicle",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Buses",
+        "text": "As of 2020 [update] , 5,648 hydrogen fuel cell buses were in use around the world, with 93.7% of them in China . [55] From the late 1980s, concern regarding diesel emissions from buses led to experimentation with fuel cells to power them. After initial experiments with phosphoric acid fuel cells , hydrogen-powered fuel-cell buses were tested in cities in the late 1990s. [56] In the 2000s, buses entered trial service in cities around the world; the European Union supported the research project Clean Urban Transport for Europe . [57] By the 2010s, commercial introduction of hydrogen fuel cell buses was underway around the world. [58] [59] However, many transit operators were purchasing battery electric buses instead, as these were cheaper to operate and purchase. [60] However, battery electric buses lacked range compared to diesel buses, take time to charge (often overnight, compared with hydrogen fuel cell buses, which can be refilled quickly) and have reduced energy storage in cold weather. Some companies have proposed using the fuel cell as a range extender , combining it with a larger battery or a supercapacitor . [61] Hydrogen fuel cell buses have historically been significantly more expensive to purchase and operate than diesel, hybrid or electric buses. [56] [60] In recent years, costs have been reduced to levels comparable with diesel buses. [62] A variety of bus manufacturers are currently producing hydrogen fuel cell buses. [63] [64] [65] Bus manufacturers usually work with a provider of hydrogen fuel cells to power the bus, such as Ballard Power Systems or Toyota . [63] [64]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/20221014_4-15335_on_ZZB_985.jpg/220px-20221014_4-15335_on_ZZB_985.jpg",
+                "caption": "Yutong F12 in Zhengzhou, China in 2022"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fuel_cell_vehicle",
+        "title": "Fuel cell vehicle",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Forklifts",
+        "text": "A fuel cell forklift (also called a fuel cell lift truck or a fuel cell forklift) is a fuel cell-powered industrial forklift truck used to lift and transport materials. Most fuel cells used in forklifts are powered by PEM fuel cells. [66] In 2013, there were over 4,000 fuel cell forklifts used in material handling in the US [67] of which 500 received funding from DOE (2012). [68] [69] As of 2024, approximately 50,000 hydrogen forklifts are in operation worldwide (the bulk of which are in the U.S.), as compared with 1.2 million battery electric forklifts that were purchased in 2021. [70] PEM fuel-cell-powered forklifts provide significant benefits over petroleum powered forklifts as they produce no local emissions. Fuel-cell forklifts can work for a full 8-hour shift on a single tank of hydrogen, can be refueled in 3 minutes and have a lifetime of 8–10 years. Fuel cell-powered forklifts are often used in refrigerated warehouses as their performance is not degraded by lower temperatures. [71] In design the FC units are often made as drop-in replacements. [72] [73]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Yamaha_FC-me.jpg/220px-Yamaha_FC-me.jpg",
+                "caption": "Yamaha FC-me motorcycle"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fuel_cell_vehicle",
+        "title": "Fuel cell vehicle",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Airplanes",
+        "text": "Boeing researchers and industry partners throughout Europe conducted experimental flight tests in February 2008 of a crewed airplane powered only by a fuel cell and lightweight batteries . The Fuel Cell Demonstrator Airplane, as it was called, used a Proton-Exchange Membrane (PEM) fuel cell/ lithium-ion battery hybrid system to power an electric motor, which was coupled to a conventional propeller. [80] In 2003, the world's first propeller driven airplane to be powered entirely by a fuel cell was flown.  The fuel cell was a unique FlatStack stack design which allowed the fuel cell to be integrated with the aerodynamic surfaces of the plane. [81] There have been several fuel cell powered unmanned aerial vehicles (UAV).  A Horizon fuel cell UAV set the record distance flown by a small UAV in 2007. [82] The military is especially interested in this application because of the low noise, low thermal signature and ability to attain high altitude. In 2009, the Naval Research Laboratory's (NRL's) Ion Tiger utilized a hydrogen-powered fuel cell and flew for 23 hours and 17 minutes. [83] Boeing is completing tests on the Phantom Eye, a high-altitude, long endurance (HALE) to be used to conduct research and surveillance flying at 20,000 m (65,000 ft) for up to four days at a time. [84] Fuel cells are also being used to provide auxiliary power for aircraft, replacing fossil fuel generators that were previously used to start the engines  and power on board electrical needs. [84] Fuel cells can help airplanes reduce CO 2 and other pollutant emissions and noise.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Boeing_Fuel_Cell_Demonstrator_AB1.JPG/220px-Boeing_Fuel_Cell_Demonstrator_AB1.JPG",
+                "caption": "The Boeing Fuel Cell Demonstrator powered by a hydrogen fuel cell"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fuel_cell_vehicle",
+        "title": "Fuel cell vehicle",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Boats",
+        "text": "The world's first Fuel Cell Boat HYDRA used an AFC system with 6.5 kW net output. For each liter of fuel consumed, the average outboard motor produces 140 times less [ citation needed ] the hydrocarbons produced by the average modern car.  Fuel cell engines have higher energy efficiencies than combustion engines, and therefore offer better range and significantly reduced emissions. [85] Amsterdam introduced its first fuel cell powered boat in 2011 that ferries people around the city's canals. [86]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Die_Hydra_in_Leipzig_I.jpg/220px-Die_Hydra_in_Leipzig_I.jpg",
+                "caption": "The Hydra fuel cell boat"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fuel_cell_vehicle",
+        "title": "Fuel cell vehicle",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Trains",
+        "text": "In March 2015, China South Rail Corporation (CSR) demonstrated the world's first hydrogen fuel cell-powered tramcar at an assembly facility in Qingdao. [90] 83 miles of tracks for the new vehicle were built in seven Chinese cities. China had plans to spend 200 billion yuan ($32 billion) over the next five years to increase tram tracks to more than 1,200 miles. [91] In 2016, Alstom debuted the Coradia iLint , a regional train powered by hydrogen fuel cells. It was designed to reach 140 kilometres per hour (87 mph) and travel 600–800 kilometres (370–500 mi) on a full tank of hydrogen. [92] The train entered service in Germany in 2018 and is expected to be tested in the Netherlands beginning in 2019. [93] Swiss manufacturer Stadler Rail signed a contract in California to supply a hydrogen fuel cell train in the US, the FLIRT H2 train, in 2024 as part of the Arrow commuter rail service. [94]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/InnoTrans_2016_%E2%80%93_Alstom_iLint_with_Fuel_Cell_Batteries_%2829782914176%29.jpg/220px-InnoTrans_2016_%E2%80%93_Alstom_iLint_with_Fuel_Cell_Batteries_%2829782914176%29.jpg",
+                "caption": "Debut of the Alstom Coradia iLint at InnoTrans 2016"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fuel_cell_vehicle",
+        "title": "Fuel cell vehicle",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Trucks",
+        "text": "For transport applications such as long-haul trucks, fuel cells are a potential solution for zero emission transport. A 2022 study in Energies magazine cites relatively fast refueling times compared with electric truck charging times and the current limitations of the energy density of batteries, but they note that \"operating constraints\" include the \"high amount of CO2 emissions [caused by] hydrogen production\", the lack of storage and refueling infrastructure, H2 leakage and safety challenges, efficiency \"losses in compression, storage and dispensing\", . [95] In 2020, Hyundai started to manufacture hydrogen powered 34-ton cargo trucks under the model name XCIENT, making an initial shipment of 10 of the vehicles to Switzerland. They are able to travel 400 kilometres (250 mi) on a full tank and take 8 to 20 minutes to fill up. [96] In 2022, Total Transportation Services (TTSI), Toyota Logistics Services (TLS), UPS, and Southern Counties Express (SCE) are operating a 12-month \"Shore-to-Store (S2S) project\" running hydrogen fuel cell trucks on trips from Los Angeles area ports. [97] [98] The Kenworth T680 hydrogen prototype used in Los Angeles and Long Beach was unveiled in 2018 and has also been tested in the Seattle area. [99]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hyundai_Xcient_Fuel_Cell.jpg/220px-Hyundai_Xcient_Fuel_Cell.jpg",
+                "caption": "Hyundai Xcient Fuel Cell in Winterthur , Switzerland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fuel_cell_vehicle",
+        "title": "Fuel cell vehicle",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    },
+    {
+        "section": "Innovation",
+        "text": "Fuel cell patent fillings in the area of hydrogen fuel cells increased in the 1960s, partly due to NASAs space program; another increase in the 80s was driven by research for automobiles. This was followed by a surge in filings from 2000 to 2005 by inventors in Japan, US and South Korea. Since then, China has dominated patent fillings in the field, with a smaller number in Japan, Germany, South Korea and the US. [152] Between 2016 and 2020, annual filings, particularly for transportation applications, increased by a further 23%. [153] [154] Almost 80% of the patents in the area of fuel cells for transportation were filed by car companies. [155] Academia is collaborating actively with the industry. [156] Although filings related to road vehicles such as cars and trucks dominate, inventions in other areas like shipping, aviation, rail and other special vehicles is increasing. [157] Airbus , a major aircraft manufacturer, has increased its patenting activity in the area since 2019. [158] The number of fuel cell patents for shipping applications is comparable in size to the one for aviation and similarly slow in growth. [156] A 2022 World Intellectual Property Organization report argues that because heavy-duty vehicles, such as construction vehicles , forklifts , and airport tugs require a higher payload, the high energy density of hydrogen can make fuel cells a more advantageous solution than battery applications. [158]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Patent_filings_in_the_field_of_fuel_cells_by_year_of_filing_%281950%E2%80%932020%29.png/220px-Patent_filings_in_the_field_of_fuel_cells_by_year_of_filing_%281950%E2%80%932020%29.png",
+                "caption": "Graph showing increase in fuel cell patent applications"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Fuel_cell_vehicle",
+        "title": "Fuel cell vehicle",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Hydrogen storage and fuel cells"
+    }
+]

@@ -1,0 +1,800 @@
+[
+    {
+        "section": "Plate tectonics",
+        "text": "According to the theory of plate tectonics, Earth's lithosphere , its rigid outer shell, is broken into sixteen larger and several smaller plates. These are in slow motion, due to convection in the underlying ductile mantle , and most volcanic activity on Earth takes place along plate boundaries, where plates are converging (and lithosphere is being destroyed) or are diverging (and new lithosphere is being created). [6] During the development of geological theory, certain concepts that allowed the grouping of volcanoes in time, place, structure and composition have developed that ultimately have had to be explained in the theory of plate tectonics. For example, some volcanoes are polygenetic with more than one period of activity during their history; other volcanoes that become extinct after erupting exactly once are monogenetic (meaning \"one life\") and such volcanoes are often grouped together in a geographical region. [7]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Spreading_ridges_volcanoes_map-en.svg/400px-Spreading_ridges_volcanoes_map-en.svg.png",
+                "caption": "Map showing the divergent plate boundaries (oceanic spreading ridges) and recent sub-aerial volcanoes (mostly at convergent boundaries)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Fissure vents",
+        "text": "Volcanic fissure vents are flat, linear fractures through which lava emerges.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lakagigar_Iceland_2004-07-01.jpg/220px-Lakagigar_Iceland_2004-07-01.jpg",
+                "caption": "Lakagigar fissure vent in Iceland , the source of the major world climate alteration of 1783–84 , has a chain of volcanic cones along its length."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Shield volcanoes",
+        "text": "Shield volcanoes, so named for their broad, shield-like profiles, are formed by the eruption of low-viscosity lava that can flow a great distance from a vent. They generally do not explode catastrophically, but are characterized by relatively gentle effusive eruptions . Since low-viscosity magma is typically low in silica, shield volcanoes are more common in oceanic than continental settings. The Hawaiian volcanic chain is a series of shield cones, and they are common in Iceland , as well.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Skjaldbreidur_Herbst_2004.jpg/220px-Skjaldbreidur_Herbst_2004.jpg",
+                "caption": "Skjaldbreiður , a shield volcano whose name means \"broad shield\""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Cinder cones",
+        "text": "Cinder cones result from eruptions of mostly small pieces of scoria and pyroclastics (both resemble cinders, hence the name of this volcano type) that build up around the vent. These can be relatively short-lived eruptions that produce a cone-shaped hill perhaps 30 to 400 meters (100 to 1,300 ft) high. Most cinder cones erupt only once and some may be found in monogenetic volcanic fields that may include other features that form when magma comes into contact with water such as maar explosion craters and tuff rings . [16] Cinder cones may form as flank vents on larger volcanoes, or occur on their own. Parícutin in Mexico and Sunset Crater in Arizona are examples of cinder cones. In New Mexico , Caja del Rio is a volcanic field of over 60 cinder cones. Based on satellite images, it has been suggested that cinder cones might occur on other terrestrial bodies in the Solar system too; on the surface of Mars and the Moon. [17] [18] [19] [20]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Izalco_Volcano.jpg/220px-Izalco_Volcano.jpg",
+                "caption": "Izalco volcano , the youngest volcano in El Salvador. Izalco erupted almost continuously from 1770 (when it formed) to 1958, earning it the nickname of \"Lighthouse of the Pacific\"."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Stratovolcanoes (composite volcanoes)",
+        "text": "Stratovolcanoes (composite volcanoes) are tall conical mountains composed of lava flows and tephra in alternate layers, the strata that gives rise to the name. They are also known as composite volcanoes because they are created from multiple structures during different kinds of eruptions. Classic examples include Mount Fuji in Japan, Mayon Volcano in the Philippines, and Mount Vesuvius and Stromboli in Italy. Ash produced by the explosive eruption of stratovolcanoes has historically posed the greatest volcanic hazard to civilizations. The lavas of stratovolcanoes are higher in silica, and therefore much more viscous, than lavas from shield volcanoes. High-silica lavas also tend to contain more dissolved gas. The combination is deadly, promoting explosive eruptions that produce great quantities of ash, as well as pyroclastic surges like the one that destroyed the city of Saint-Pierre in Martinique in 1902. They are also steeper than shield volcanoes, with slopes of 30–35° compared to slopes of generally 5–10°, and their loose tephra are material for dangerous lahars . [21] Large pieces of tephra are called volcanic bombs . Big bombs can measure more than 4 feet (1.2 meters) across and weigh several tons. [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Volcano_scheme.svg/310px-Volcano_scheme.svg.png",
+                "caption": "Cross-section through a stratovolcano (vertical scale is exaggerated) : Large magma chamber Bedrock Conduit (pipe) Base Sill Dike Layers of ash emitted by the volcano Flank Layers of lava emitted by the volcano Throat Parasitic cone Lava flow Vent Crater Ash cloud"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Submarine volcanoes",
+        "text": "Submarine volcanoes are common features of the ocean floor. Volcanic activity during the Holocene Epoch has been documented at only 119 submarine volcanoes, but there may be more than one million geologically young submarine volcanoes on the ocean floor. [27] [28] In shallow water, active volcanoes disclose their presence by blasting steam and rocky debris high above the ocean's surface. In the deep ocean basins, the tremendous weight of the water prevents the explosive release of steam and gases; however, submarine eruptions can be detected by hydrophones and by the discoloration of water because of volcanic gases . Pillow lava is a common eruptive product of submarine volcanoes and is characterized by thick sequences of discontinuous pillow-shaped masses which form under water. Even large submarine eruptions may not disturb the ocean surface, due to the rapid cooling effect and increased buoyancy in water (as compared to air), which often causes volcanic vents to form steep pillars on the ocean floor. Hydrothermal vents are common near these volcanoes, and some support peculiar ecosystems based on chemotrophs feeding on dissolved minerals. Over time, the formations created by submarine volcanoes may become so large that they break the ocean surface as new islands or floating pumice rafts . In May and June 2018, a multitude of seismic signals were detected by earthquake monitoring agencies all over the world. They took the form of unusual humming sounds, and some of the signals detected in November of that year had a duration of up to 20 minutes. An oceanographic research campaign in May 2019 showed that the previously mysterious humming noises were caused by the formation of a submarine volcano off the coast of Mayotte . [29]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif/220px-Tonga_Volcano_Eruption_2022-01-15_0320Z_to_0610Z_Himawari-8_visible.gif",
+                "caption": "Satellite images of the 15 January 2022 eruption of Hunga Tonga-Hunga Haʻapai"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Erupted material",
+        "text": "The material that is expelled in a volcanic eruption can be classified into three types:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lava_channel_overflow.JPG/220px-Lava_channel_overflow.JPG",
+                "caption": "Pāhoehoe lava flow on Hawaii . The picture shows overflows of a main lava channel ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Litli-Hr%C3%BAtur_eruption_2023.jpg/220px-Litli-Hr%C3%BAtur_eruption_2023.jpg",
+                "caption": "Litli-Hrútur ( Fagradalsfjall ) eruption 2023. View from an airplane"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg/220px-Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg",
+                "caption": "The Stromboli stratovolcano off the coast of Sicily has erupted continuously for thousands of years, giving rise to its nickname \"Lighthouse of the Mediterranean\"."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Lava flows",
+        "text": "The form and style of eruption of a volcano is largely determined by the composition of the lava it erupts. The viscosity (how fluid the lava is) and the amount of dissolved gas are the most important characteristics of magma, and both are largely determined by the amount of silica in the magma. Magma rich in silica is much more viscous than silica-poor magma, and silica-rich magma also tends to contain more dissolved gases. Lava can be broadly classified into four different compositions: [39] Mafic lava flows show two varieties of surface texture: ʻAʻa (pronounced [ˈʔaʔa] ) and pāhoehoe ( [paːˈho.eˈho.e] ), both Hawaiian words. ʻAʻa is characterized by a rough, clinkery surface and is the typical texture of cooler basalt lava flows. Pāhoehoe is characterized by its smooth and often ropey or wrinkly surface and is generally formed from more fluid lava flows. Pāhoehoe flows are sometimes observed to transition to ʻaʻa flows as they move away from the vent, but never the reverse. [53] More silicic lava flows take the form of block lava, where the flow is covered with angular, vesicle-poor blocks. Rhyolitic flows typically consist largely of obsidian . [54]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rinjani_1994_cropped.jpg/220px-Rinjani_1994_cropped.jpg",
+                "caption": "Mount Rinjani eruption in 1994, in Lombok , Indonesia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Tephra",
+        "text": "Tephra is made when magma inside the volcano is blown apart by the rapid expansion of hot volcanic gases. Magma commonly explodes as the gas dissolved in it comes out of solution as the pressure decreases when it flows to the surface . These violent explosions produce particles of material that can then fly from the volcano. Solid particles smaller than 2 mm in diameter ( sand-sized or smaller) are called volcanic ash. [36] [37] Tephra and other volcaniclastics (shattered volcanic material) make up more of the volume of many volcanoes than do lava flows. Volcaniclastics may have contributed as much as a third of all sedimentation in the geologic record. The production of large volumes of tephra is characteristic of explosive volcanism. [55]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tuff_shards.jpg/220px-Tuff_shards.jpg",
+                "caption": "Light-microscope image of tuff as seen in thin section (long dimension is several mm): the curved shapes of altered glass shards (ash fragments) are well preserved, although the glass is partly altered. The shapes were formed around bubbles of expanding, water-rich gas."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Types of volcanic eruptions",
+        "text": "Eruption styles are broadly divided into magmatic, phreatomagmatic, and phreatic eruptions. [56] The intensity of explosive volcanism is expressed using the Volcanic Explosivity Index (VEI), which ranges from 0 for Hawaiian-type eruptions to 8 for supervolcanic eruptions. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Volcanic_injection.svg/220px-Volcanic_injection.svg.png",
+                "caption": "Schematic of volcano injection of aerosols and gases"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Volcanic activity",
+        "text": "As of December 2022 [update] , the Smithsonian Institution 's Global Volcanism Program database of volcanic eruptions in the Holocene Epoch (the last 11,700 years) lists 9,901 confirmed eruptions from 859 volcanoes. The database also lists 1,113 uncertain eruptions and 168 discredited eruptions for the same time interval. [58] [59] Volcanoes vary greatly in their level of activity, with individual volcanic systems having an eruption recurrence ranging from several times a year to once in tens of thousands of years. [60] Volcanoes are informally described as erupting , active , dormant , or extinct , but the definitions of these terms are not entirely uniform amongst volcanologists. The level of activity of most volcanoes falls upon a graduated spectrum, with much overlap between categories, and does not always fit neatly into only one of these three separate categories. [61]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pompeii_-_Casa_del_Centenario_-_MAN.jpg/170px-Pompeii_-_Casa_del_Centenario_-_MAN.jpg",
+                "caption": "Fresco with Mount Vesuvius behind Bacchus and Agathodaemon , as seen in Pompeii 's House of the Centenary"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Dormant and reactivated",
+        "text": "The USGS defines a dormant volcano as any volcano that is not showing any signs of unrest such as earthquake swarms, ground swelling, or excessive noxious gas emissions, but which shows signs that it could yet become active again. [63] Many dormant volcanoes have not erupted for thousands of years, but have still shown signs that they may be likely to erupt again in the future. [64] [65] In an article justifying the re-classification of Alaska's Mount Edgecumbe volcano from \"dormant\" to \"active\", volcanologists at the Alaska Volcano Observatory pointed out that the term \"dormant\" in reference to volcanoes has been deprecated over the past few decades and that \"[t]he term \"dormant volcano\" is so little used and undefined in modern volcanology that the Encyclopedia of Volcanoes (2000) does not contain it in the glossaries or index\", [66] however the USGS still widely employs the term. Previously a volcano was often considered to be extinct if there were no written records of its activity. Such a generalisation is inconsistent with observation and deeper study, as has occurred recently with the unexpected eruption of the Chaitén volcano in 2008. [67] Modern volcanic activity monitoring techniques, and improvements in the modelling of the factors that produce eruptions, have helped the understanding of why volcanoes may remain dormant for a long period of time, and then become unexpectedly active again. The potential for eruptions, and their style, depend mainly upon the state of the magma storage system under the volcano, the eruption trigger mechanism and its timescale. [68] : 95 For example, the Yellowstone volcano has a repose/recharge period of around 700,000 years, and Toba of around 380,000 years. [69] Vesuvius was described by Roman writers as having been covered with gardens and vineyards before its unexpected eruption of 79 CE , which destroyed the towns of Herculaneum and Pompeii . Accordingly, it can sometimes be difficult to distinguish between an extinct volcano and a dormant (inactive) one. Long volcano dormancy is known to decrease awareness. [68] : 96 Pinatubo was an inconspicuous volcano, unknown to most people in the surrounding areas, and initially not seismically monitored before its unanticipated and catastrophic eruption of 1991. Two other examples of volcanoes which were once thought to be extinct, before springing back into eruptive activity were the long-dormant Soufrière Hills volcano on the island of Montserrat , thought to be extinct until activity resumed in 1995 (turning its capital Plymouth into a ghost town ) and Fourpeaked Mountain in Alaska, which, before its September 2006 eruption, had not erupted since before 8000 BCE.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Narcondam_island.jpg/220px-Narcondam_island.jpg",
+                "caption": "Narcondam Island , India, is classified as a dormant volcano by the Geological Survey of India ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Extinct",
+        "text": "Extinct volcanoes are those that scientists consider unlikely to erupt again because the volcano no longer has a magma supply. Examples of extinct volcanoes are many volcanoes on the Hawaiian–Emperor seamount chain in the Pacific Ocean (although some volcanoes at the eastern end of the chain are active), Hohentwiel in Germany , Shiprock in New Mexico , US , Capulin in New Mexico, US, Zuidwal volcano in the Netherlands , and many volcanoes in Italy such as Monte Vulture . Edinburgh Castle in Scotland is located atop an extinct volcano, which forms Castle Rock . Whether a volcano is truly extinct is often difficult to determine. Since \"supervolcano\" calderas can have eruptive lifespans sometimes measured in millions of years, a caldera that has not produced an eruption in tens of thousands of years may be considered dormant instead of extinct. An individual volcano in a monogenetic volcanic field can be extinct but that does not mean a completely new volcano might not erupt close by with little or no warning as its field may have an active magma supply.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Capulin_1980_tde00005.jpg/220px-Capulin_1980_tde00005.jpg",
+                "caption": "Capulin Volcano National Monument in New Mexico, US"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Decade volcanoes",
+        "text": "The Decade Volcanoes are 16 volcanoes identified by the International Association of Volcanology and Chemistry of the Earth's Interior (IAVCEI) as being worthy of particular study in light of their history of large, destructive eruptions and proximity to populated areas. They are named Decade Volcanoes because the project was initiated as part of the United Nations-sponsored International Decade for Natural Disaster Reduction (the 1990s). The 16 current Decade Volcanoes are: The Deep Earth Carbon Degassing Project , an initiative of the Deep Carbon Observatory , monitors nine volcanoes, two of which are Decade volcanoes. The focus of the Deep Earth Carbon Degassing Project is to use Multi-Component Gas Analyzer System instruments to measure CO 2 /SO 2 ratios in real-time and in high-resolution to allow detection of the pre-eruptive degassing of rising magmas, improving prediction of volcanic activity . [71]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg/220px-Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg",
+                "caption": "Koryaksky volcano towering over Petropavlovsk-Kamchatsky on Kamchatka Peninsula , Far Eastern Russia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Volcanoes and humans",
+        "text": "Volcanic eruptions pose a significant threat to human civilization. However, volcanic activity has also provided humans with important resources.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mauna_Loa_atmospheric_transmission.png/220px-Mauna_Loa_atmospheric_transmission.png",
+                "caption": "Solar radiation graph 1958–2008, showing how the radiation is reduced after major volcanic eruptions"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SO2_Galapagos_20051101.jpg/220px-SO2_Galapagos_20051101.jpg",
+                "caption": "Sulfur dioxide concentration over the Sierra Negra Volcano , Galapagos Islands , during an eruption in October 2005"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Hazards",
+        "text": "There are many different types of volcanic eruptions and associated activity: phreatic eruptions (steam-generated eruptions), explosive eruption of high- silica lava (e.g., rhyolite ), effusive eruption of low-silica lava (e.g., basalt ), sector collapses , pyroclastic flows , lahars (debris flow) and carbon dioxide emission . All of these activities can pose a hazard to humans. Earthquakes, hot springs , fumaroles , mud pots and geysers often accompany volcanic activity. Volcanic gases can reach the stratosphere, where they form sulfuric acid aerosols that can reflect solar radiation and lower surface temperatures significantly. [72] Sulfur dioxide from the eruption of Huaynaputina may have caused the Russian famine of 1601–1603 . [73] Chemical reactions of sulfate aerosols in the stratosphere can also damage the ozone layer , and acids such as hydrogen chloride (HCl) and hydrogen fluoride (HF) can fall to the ground as acid rain . Excessive fluoride salts from eruptions have poisoned livestock in Iceland on multiple occasions. [74] : 39–58 Explosive volcanic eruptions release the greenhouse gas carbon dioxide and thus provide a deep source of carbon for biogeochemical cycles . [75] Ash thrown into the air by eruptions can present a hazard to aircraft, especially jet aircraft where the particles can be melted by the high operating temperature; the melted particles then adhere to the turbine blades and alter their shape, disrupting the operation of the turbine. This can cause major disruptions to air travel. A volcanic winter is thought to have taken place around 70,000 years ago after the supereruption of Lake Toba on Sumatra island in Indonesia. [76] This may have created a population bottleneck that affected the genetic inheritance of all humans today. [77] Volcanic eruptions may have contributed to major extinction events, such as the End-Ordovician , Permian-Triassic , and Late Devonian mass extinctions . [78] The 1815 eruption of Mount Tambora created global climate anomalies that became known as the \" Year Without a Summer \" because of the effect on North American and European weather. [79] The freezing winter of 1740–41, which led to widespread famine in northern Europe, may also owe its origins to a volcanic eruption. [80]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Large_eruptions.jpg/290px-Large_eruptions.jpg",
+                "caption": "Comparison of major United States prehistoric eruptions ( VEI 7 and 8 ) with major historical volcanic eruptions in the 19th and 20th century (VEI 5, 6 and 7). From left to right: Yellowstone 2.1 Ma, Yellowstone 1.3 Ma, Long Valley 6.26 Ma, Yellowstone 0.64 Ma . 19th century eruptions: Tambora 1815, Krakatoa 1883. 20th century eruptions: Novarupta 1912, St. Helens 1980, Pinatubo 1991."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Volcanoes on other celestial bodies",
+        "text": "Earth's Moon has no large volcanoes and no current volcanic activity, although recent evidence suggests it may still possess a partially molten core. [91] However, the Moon does have many volcanic features such as maria [92] (the darker patches seen on the Moon), rilles [93] and domes . [94] The planet Venus has a surface that is 90% basalt , indicating that volcanism played a major role in shaping its surface. The planet may have had a major global resurfacing event about 500 million years ago, [95] from what scientists can tell from the density of impact craters on the surface. Lava flows are widespread and forms of volcanism not present on Earth occur as well. Changes in the planet's atmosphere and observations of lightning have been attributed to ongoing volcanic eruptions, although there is no confirmation of whether or not Venus is still volcanically active. However, radar sounding by the Magellan probe revealed evidence for comparatively recent volcanic activity at Venus's highest volcano Maat Mons , in the form of ash flows near the summit and on the northern flank. [96] However, the interpretation of the flows as ash flows has been questioned. [97] There are several extinct volcanoes on Mars , four of which are vast shield volcanoes far bigger than any on Earth. They include Arsia Mons , Ascraeus Mons , Hecates Tholus , Olympus Mons , and Pavonis Mons . These volcanoes have been extinct for many millions of years, [98] but the European Mars Express spacecraft has found evidence that volcanic activity may have occurred on Mars in the recent past as well. [98] Jupiter 's moon Io is the most volcanically active object in the Solar System because of tidal interaction with Jupiter. It is covered with volcanoes that erupt sulfur , sulfur dioxide and silicate rock, and as a result, Io is constantly being resurfaced. Its lavas are the hottest known anywhere in the Solar System, with temperatures exceeding 1,800 K (1,500 °C). In February 2001, the largest recorded volcanic eruptions in the Solar System occurred on Io. [99] Europa , the smallest of Jupiter's Galilean moons , also appears to have an active volcanic system, except that its volcanic activity is entirely in the form of water, which freezes into ice on the frigid surface. This process is known as cryovolcanism , and is apparently most common on the moons of the outer planets of the Solar System . [100] In 1989, the Voyager 2 spacecraft observed cryovolcanoes (ice volcanoes) on Triton , a moon of Neptune , and in 2005 the Cassini–Huygens probe photographed fountains of frozen particles erupting from Enceladus , a moon of Saturn . [101] [102] The ejecta may be composed of water, liquid nitrogen , ammonia , dust, or methane compounds. Cassini–Huygens also found evidence of a methane-spewing cryovolcano on the Saturnian moon Titan , which is believed to be a significant source of the methane found in its atmosphere. [103] It is theorized that cryovolcanism may also be present on the Kuiper Belt Object Quaoar . A 2010 study of the exoplanet COROT-7b , which was detected by transit in 2009, suggested that tidal heating from the host star very close to the planet and neighboring planets could generate intense volcanic activity similar to that found on Io. [104]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tvashtarvideo.gif/220px-Tvashtarvideo.gif",
+                "caption": "The Tvashtar volcano erupts a plume 330 km (205 mi) above the surface of Jupiter 's moon Io ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Olympus_Mons.jpeg/170px-Olympus_Mons.jpeg",
+                "caption": "Olympus Mons ( Latin , \"Mount Olympus\"), located on the planet Mars , is the tallest known mountain in the Solar System ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano",
+        "title": "Volcano",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Types of plate boundaries",
+        "text": "Three types of plate boundaries exist, [13] characterized by the way the plates move relative to each other. They are associated with different types of surface phenomena. The different types of plate boundaries are: [14] [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Continental-continental_constructive_plate_boundary.svg/250px-Continental-continental_constructive_plate_boundary.svg.png",
+                "caption": "Divergent boundary"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Continental-continental_destructive_plate_boundary.svg/250px-Continental-continental_destructive_plate_boundary.svg.png",
+                "caption": "Convergent boundary"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Continental-continental_conservative_plate_boundary_opposite_directions.svg/250px-Continental-continental_conservative_plate_boundary_opposite_directions.svg.png",
+                "caption": "Transform boundary"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Plate_tectonics",
+        "title": "Plate tectonics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Driving forces of plate motion",
+        "text": "Tectonic plates are able to move because of the relative density of oceanic lithosphere and the relative weakness of the asthenosphere . Dissipation of heat from the mantle is the original source of the energy required to drive plate tectonics through convection or large scale upwelling and doming. As a consequence, a powerful source generating plate motion is the excess density of the oceanic lithosphere sinking in subduction zones. When the new crust forms at mid-ocean ridges, this oceanic lithosphere is initially less dense than the underlying asthenosphere, but it becomes denser with age as it conductively cools and thickens. The greater density of old lithosphere relative to the underlying asthenosphere allows it to sink into the deep mantle at subduction zones, providing most of the driving force for plate movement. The weakness of the asthenosphere allows the tectonic plates to move easily towards a subduction zone. [17]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Global_plate_motion_2008-04-17.jpg/300px-Global_plate_motion_2008-04-17.jpg",
+                "caption": "Plate motion based on Global Positioning System (GPS) satellite data from NASA JPL . Each red dot is a measuring point and vectors show direction and magnitude of motion."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Plate_tectonics",
+        "title": "Plate tectonics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Modern plates",
+        "text": "Depending on how they are defined, there are usually seven or eight \"major\" plates: African , Antarctic , Eurasian , North American , South American , Pacific , and Indo-Australian . The latter is sometimes subdivided into the Indian and Australian plates. There are dozens of smaller plates, the eight largest of which are the Arabian , Caribbean , Juan de Fuca , Cocos , Nazca , Philippine Sea , Scotia and Somali . During the twenties of the 21st Century new proposals have come forward that divide the Earth's crust into many smaller plates, called terranes, which reflects the fact that Plate reconstructions show that the larger plates have been internally deformed and oceanic and continental plates have been fragmented over time. This has resulted in the definition of ca. 1200 terranes inside the oceanic plates, continental blocks and the mobile zones (mountainous belts) that separate them. [92] [93] The motion of the tectonic plates is determined by remote sensing satellite data sets, calibrated with ground station measurements.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Plate_tectonics_map.gif/440px-Plate_tectonics_map.gif",
+                "caption": "Plate tectonics map"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Plate_tectonics",
+        "title": "Plate tectonics",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Cause of volcano tectonic earthquakes",
+        "text": "One possible scenario resulting in a possible volcano tectonic earthquake occurs in tectonic subduction zones . The compression of plates at these subduction zones forces the magma beneath them to move. [4] Magma can not move through the newly compressed crust as easily. This means it tends to pool in magma chambers beneath the surface and between the converging tectonic plates . Many of the famous and most well known volcanoes are of this type, including those of the Ring of Fire . As the plates move, magma underground may be forced in and out of these chambers and form intrusions into surrounding crust. This movement is capable of causing the unstable rocks around it to cave in or shift. The movement of this magma as described, causes measurable seismic activity. [4] Where plates diverge such as at mid-ocean ridges the magma also can move into storage chambers and form intrusions again causing shifts in the rocks around them that can be detected as earthquakes. This is separate from earthquakes directly related to faults. However it is known than tectonic earthquake triggering has occurred with some volcanic eruptions, and there may be other associations of these in place and time with some eruptions, which could cause confusion because of the similar terminology. [5] Scientists monitoring volcanoes have noticed that magma movement may lead to earthquake swarms depending on the movement of magma and the interaction with rock beneath the ground. Additionally, the volatility of volcanoes and the accompanying earthquakes has been shown to be linked to dike induced stress and the interaction this causes between the magma, rock, and wall of the chamber. [3]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Four-types-seismograms.gif/300px-Four-types-seismograms.gif",
+                "caption": "Four types of seismograms , or seismic signatures"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano_tectonic_earthquake",
+        "title": "Volcano tectonic earthquake",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Importance",
+        "text": "Volcano tectonic seismicity is an important tool as it may predict the eruptions of volcanoes. Seismic activity occurs as a precursor to most large eruptions. Rarely, because of complex interactions, it may appear to settle just before an eruption. [6] Such tectonic events can predict eruptions in long- dormant volcanoes and the size of the magma pocket. [2] Some notable examples of eruptions preceded by volcano tectonic earthquakes include ones at Nevado del Ruiz (1985), Pinatubo (1991) , Unzen (1990) , and Cotopaxi (2002) . Quakes with volcano-tectonic characteristics accompany magmatic intrusions in near real time.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nevado_del_Ruiz_1985.jpg/220px-Nevado_del_Ruiz_1985.jpg",
+                "caption": "Nevado del Ruiz during the 1985 eruption. This eruption was one where seismic activity was monitored in order to determine that an eruption was imminent."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcano_tectonic_earthquake",
+        "title": "Volcano tectonic earthquake",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Origin",
+        "text": "The origins of the concept of hotspots lie in the work of J. Tuzo Wilson , who postulated in 1963 that the formation of the Hawaiian Islands resulted from the slow movement of a tectonic plate across a hot region beneath the surface. [5] It was later postulated that hotspots are fed by streams of hot mantle rising from the Earth's core–mantle boundary in a structure called a mantle plume . [6] Whether or not such mantle plumes exist has been the subject of a major controversy in Earth science, [4] [7] but seismic images consistent with evolving theory now exist. [8] At any place where volcanism is not linked to a constructive or destructive plate margin, the concept of a hotspot has been used to explain its origin. A review article by Courtillot et al. [9] listing possible hotspots makes a distinction between primary hotspots coming from deep within the mantle and secondary hotspots derived from mantle plumes. The primary hotspots originate from the core/mantle boundary and create large volcanic provinces with linear tracks (Easter Island, Iceland, Hawaii, Afar, Louisville, Reunion, and Tristan confirmed; Galapagos, Kerguelen and Marquersas likely). The secondary hotspots originate at the upper/lower mantle boundary, and do not form large volcanic provinces, but island chains (Samoa, Tahiti, Cook, Pitcairn, Caroline, MacDonald confirmed, with up to 20 or so more possible). Other potential hotspots are the result of shallow mantle material surfacing in areas of lithospheric break-up caused by tension and are thus a very different type of volcanism. Estimates for the number of hotspots postulated to be fed by mantle plumes have ranged from about 20 to several thousand, with most geologists considering a few tens to exist. [8] Hawaii , Réunion , Yellowstone , Galápagos , and Iceland are some of the most active volcanic regions to which the hypothesis is applied. The plumes imaged to date vary widely in width and other characteristics, and are tilted, being not the simple, relatively narrow and purely thermal plumes many expected. [8] Only one, (Yellowstone) has as yet been consistently modelled and imaged from deep mantle to surface. [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Partial_melting_asthenosphere_EN.svg/220px-Partial_melting_asthenosphere_EN.svg.png",
+                "caption": "Schematic diagram showing the physical processes inside the Earth that lead to the generation of magma. Partial melting begins above the fusion point."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tectonic_plates_boundaries_physical_World_map_Wt_180degE_centered-en.svg/300px-Tectonic_plates_boundaries_physical_World_map_Wt_180degE_centered-en.svg.png",
+                "caption": "Map showing approximate location of many current hotspots and the relationship to current tectonic plates and their boundaries and movement vectors"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hotspot_(geology)",
+        "title": "Hotspot (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Hotspot volcanic chains",
+        "text": "The joint mantle plume /hotspot hypothesis originally envisaged the feeder structures to be fixed relative to one another, with the continents and seafloor drifting overhead. The hypothesis thus predicts that time-progressive chains of volcanoes are developed on the surface. Examples are Yellowstone , which lies at the end of a chain of extinct calderas, which become progressively older to the west. Another example is the Hawaiian archipelago, where islands become progressively older and more deeply eroded to the northwest. Geologists have tried to use hotspot volcanic chains to track the movement of the Earth's tectonic plates. This effort has been vexed by the lack of very long chains, by the fact that many are not time-progressive (e.g. the Galápagos ) and by the fact that hotspots do not appear to be fixed relative to one another (e.g. Hawaii and Iceland ). [15] That mantle plumes are much more complex than originally hypothesised and move independently of each other and plates is now used to explain such observations. [8] In 2020, Wei et al. used seismic tomography to detect the oceanic plateau, formed about 100 million years ago by the hypothesized mantle plume head of the Hawaii-Emperor seamount chain, now subducted to a depth of 800 km under eastern Siberia. [16]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hawaii_hotspot.jpg/350px-Hawaii_hotspot.jpg",
+                "caption": "Over millions of years, the Pacific Plate has moved over the Hawaii hotspot , creating a trail of underwater mountains that stretches across the Pacific."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Puu_Oo_cropped.jpg/220px-Puu_Oo_cropped.jpg",
+                "caption": "Kilauea is the most active shield volcano in the world. The volcano erupted from 1983 to 2018 and is part of the Hawaiian–Emperor seamount chain ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mauna_Loa_Volcano.jpg/220px-Mauna_Loa_Volcano.jpg",
+                "caption": "Mauna Loa is a large shield volcano. Its last eruption was in 2022 and it is part of the Hawaiian–Emperor seamount chain ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bowie_Seamount1.jpg/220px-Bowie_Seamount1.jpg",
+                "caption": "Bowie Seamount is a dormant submarine volcano and part of the Kodiak-Bowie Seamount chain ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Axial_Exaggerated_Bathymetry.jpg/220px-Axial_Exaggerated_Bathymetry.jpg",
+                "caption": "Axial Seamount is the youngest seamount of the Cobb–Eickelberg Seamount chain . Its last eruption was in 2015."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mauna_Kea_from_the_ocean.jpg/220px-Mauna_Kea_from_the_ocean.jpg",
+                "caption": "Mauna Kea is the tallest volcano in the Hawaiian–Emperor seamount chain . Many cinder cones have been emplaced around its summit."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hual%C4%81lai_1996.jpg/220px-Hual%C4%81lai_1996.jpg",
+                "caption": "Hualalai is a massive shield volcano in the Hawaiian–Emperor seamount chain . Its last eruption was in 1801."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Hotspot_(geology)",
+        "title": "Hotspot (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Past plate configurations",
+        "text": "Along the coast of east Asia, during the Late Triassic about 210 million years ago, subduction of the Izanagi Plate (the Paleo-Pacific Plate) was occurring, [39] and this continued in the Jurassic , producing volcanic belts, for example, in what is now eastern China. [40] The Pacific Plate came into existence in the Early Jurassic about 190 million years ago, [41] far from the margins of the then Paleo-Pacific Ocean. Until the Pacific Plate grew large enough to reach the margins of the ocean basin, other older plates were subducted ahead of it at the ocean basin margins. For example, subduction has been occurring at the coast of South America since the Jurassic Period more than 145 million years ago, and remnants of Jurassic and Cretaceous volcanic arcs are preserved there. [42] At about 120 to 115 million years ago, the Farallon Plate was subducting under South America, North America and north-east Asia while the Izanagi Plate was subducting under east Asia. By 85 to 70 million years ago, the Izanagi Plate had moved north-eastwards and was subducting under east Asia and North America, while the Farallon Plate was subducting under South America and the Pacific Plate was subducting under east Asia. About 70 to 65 million years ago, the Farallon plate was subducting under South America, the Kula Plate was subducting under North America and north-east Asia, and the Pacific Plate was subducting under east Asia and Papua New Guinea. About 35 million years ago, the Kula and Farallon plates had been subducted and the Pacific Plate was subducting around its rim in a configuration closely resembling the outline of the present-day Ring of Fire. [39] [43] [44]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pacific_Ocean_180Ma.jpg/220px-Pacific_Ocean_180Ma.jpg",
+                "caption": "The tectonic plates of the Pacific Ocean in the Early Jurassic (180 Ma)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+        "title": "Ring of Fire",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Present-day plate configuration",
+        "text": "The eastern parts of the Ring of Fire result from the collision of a few relatively large plates. The western parts of the Ring are more complex, with a number of large and small tectonic plates in collision. [45] In South America, the Ring of Fire is the result of the Antarctic Plate , the Nazca Plate and the Cocos Plate being subducted beneath the South American Plate . In Central America , the Cocos Plate is being subducted beneath the Caribbean Plate . A portion of the Pacific Plate and the small Juan de Fuca Plate are being subducted beneath the North American Plate . Along the northern portion, the northwestward-moving Pacific Plate is being subducted beneath the Aleutian Islands arc. Farther west, the Pacific Plate is being subducted at the Kamchatka Peninsula and Kuril arcs. Farther south, at Japan, Taiwan and the Philippines, the Philippine Plate is being subducted beneath the Eurasian Plate. The southwest section of the Ring of Fire is more complex, with a number of smaller tectonic plates in collision with the Pacific Plate at the Mariana Islands , the Philippines , eastern Indonesia , Papua New Guinea , Tonga , and New Zealand; this part of the Ring excludes Australia , because that landmass lies in the center of its tectonic plate far from subduction zones. [45]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plates_tect2_en.svg/310px-Plates_tect2_en.svg.png",
+                "caption": "Present-day principal tectonic plates of the Earth"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+        "title": "Ring of Fire",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Subduction zones and oceanic trenches",
+        "text": "If a tectonic plate's oceanic lithosphere is subducted beneath oceanic lithosphere of another plate, a volcanic island arc is created at the subduction zone. An example in the Ring of Fire is the Mariana Arc in the western Pacific Ocean. If, however, oceanic lithosphere is subducted under continental lithosphere, then a volcanic continental arc forms; a Ring of Fire example is the coast of Chile. [2] The steepness of the descending plate at a subduction zone depends on the age of the oceanic lithosphere that is being subducted. The older the oceanic lithosphere being subducted, the steeper the angle of descent of the subducted slab. As the Pacific's mid-ocean ridges , which are the source of its oceanic lithosphere, are not actually in the middle of the ocean but located much closer to South America than to Asia, the oceanic lithosphere consumed at the South American subduction zones is younger and therefore subduction occurs at the South American coast at a relatively shallow angle. Older oceanic lithosphere is subducted in the western Pacific, with steeper angles of slab descent. This variation affects, for example, the location of volcanoes relative to the ocean trench, lava composition, type and severity of earthquakes, sediment accretion , and the amount of compression or tension. A spectrum of subduction zones exists between the Chilean and Mariana end members. [46] [2]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Subduction_zone_-_2ategories.png/220px-Subduction_zone_-_2ategories.png",
+                "caption": "Chilean-type and Mariana-type subduction zones"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+        "title": "Ring of Fire",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Oceanic trenches",
+        "text": "Oceanic trenches are the topographic expression of subduction zones on the floor of the oceans. Oceanic trenches associated with the Ring of Fire's subduction zones are:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kuril-Kamchatka_Trench_USGS.png/220px-Kuril-Kamchatka_Trench_USGS.png",
+                "caption": "Map of earthquake epicenters at the Kuril–Kamchatka trench and subduction zone"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+        "title": "Ring of Fire",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Antarctica",
+        "text": "Some geologists include the volcanoes of the South Shetland Islands , off the northern tip of the Antarctic Peninsula, as part of the Ring of Fire. These volcanoes, e.g. Deception Island , are due to rifting in the Bransfield back-arc basin close to the South Shetland subduction zone. [56] The Antarctic Peninsula (Graham Land) is also sometimes included in the Ring. [57] Volcanoes south of the Antarctic Circle (e.g. the volcanoes of Victoria Land including Mount Erebus , and the volcanoes of Mary Byrd Land ) are not related to subduction; therefore, they are not part of the Ring of Fire. [31] The Balleny Islands , located between Antarctica and New Zealand, are volcanic but their volcanism is not related to subduction; [58] therefore, they are not part of the Ring of Fire.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Antarctica_2013_Journey_to_the_Crystal_Desert_%288370600188%29.jpg/220px-Antarctica_2013_Journey_to_the_Crystal_Desert_%288370600188%29.jpg",
+                "caption": "Layers of phreatomagmatic tephra on Deception Island"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+        "title": "Ring of Fire",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Chile",
+        "text": "Chile has experienced numerous volcanic eruptions from about 90 volcanoes during the Holocene Epoch. [3] Villarrica is one of Chile's most active volcanoes, rising above the lake and town of the same name. It is the westernmost of three large stratovolcanoes that trend perpendicular to the Andes along the Gastre Fault .  Villarrica, along with Quetrupillán and the Chilean part of Lanín , are protected within Villarrica National Park . Villarrica, with its lava of basaltic-andesitic composition, is one of only five volcanoes worldwide known to have an active lava lake within its crater. The volcano usually generates strombolian eruptions , with ejection of incandescent pyroclasts and lava flows. Melting of snow and glacier ice , as well as rainfall, often causes lahars , such as during the eruptions of 1964 and 1971. [61] A two-kilometre-wide ( 1 + 1 ⁄ 4 mi) postglacial caldera is located at the base of the presently active dominantly basaltic-to-andesitic cone at the northwest margin of the Pleistocene caldera. About 25 scoria cones dot Villarica's flanks. Plinian eruptions and pyroclastic flows have been produced during the Holocene from this dominantly basaltic volcano, but historical eruptions have consisted of largely mild-to-moderate explosive activity with occasional lava effusion. Lahars from the glacier-covered volcanoes have damaged towns on its flanks. The Llaima Volcano is one of the largest and most active volcanoes in Chile. It is situated 82 km (51 mi) northeast of Temuco and 663 km (412 mi) southeast of Santiago , within the borders of Conguillío National Park . Llaima's activity has been documented since the 17th century, and consists of several separate episodes of moderate explosive eruptions with occasional lava flows. Lascar is a stratovolcano and the most active volcano of the northern Chilean Andes. The largest eruption of Lascar took place about 26,500 years ago, and following the eruption of the Tumbres scoria flow about 9,000 years ago, activity shifted back to the eastern edifice, where three overlapping craters were formed. Frequent small-to-moderate explosive eruptions have been recorded from Lascar in historical time since the mid-19th century, along with periodic larger eruptions that produced ash and tephra fall up to hundreds of kilometers away from the volcano. The largest eruption of Lascar in recent history took place in 1993, producing pyroclastic flows as far as 8.5 km (5 mi) northwest of the summit and ash fall in Buenos Aires , Argentina, more than 1,600 km (1,000 mi) to the southeast. Chiliques is a stratovolcano located in the Antofagasta Region of Chile, immediately north of Cerro Miscanti . Laguna Lejía lies to the north of the volcano and has been dormant for at least 10,000 years, but is now showing signs of life. A January 6, 2002, nighttime thermal infrared image from ASTER revealed a hot spot in the summit crater, as well as several others along the upper flanks of the volcano's edifice, indicating new volcanic activity. Examination of an earlier nighttime thermal infrared image from May 24, 2000, showed no such hot spots. [62] Calbuco is a stratovolcano in southern Chile, located southeast of Llanquihue Lake and northwest of Chapo Lake , in Los Lagos Region . The volcano and the surrounding area are protected within Llanquihue National Reserve . It is a very explosive andesite volcano that underwent edifice collapse in the late Pleistocene , producing a volcanic debris avalanche that reached the lake.  At least nine eruptions occurred since 1837, with the latest one in 1972. One of the largest historical eruptions in southern Chile took place there in 1893–1894. Violent eruptions ejected 30 cm (12 in) bombs to distances of 8 km (5.0 mi) from the crater, accompanied by voluminous hot lahars. Strong explosions occurred in April 1917, and a lava dome formed in the crater accompanied by hot lahars. Another short explosive eruption in January 1929 also included an apparent pyroclastic flow and a lava flow. The last major eruption of Calbuco, in 1961, sent ash columns 12–15 km (7.5–9.3 mi) high and produced plumes that dispersed mainly to the southeast and two lava flows were also emitted. A minor, four-hour eruption happened on August 26, 1972. Strong fumarolic emission from the main crater was observed on August 12, 1996. Lonquimay is a stratovolocano of late-Pleistocene to dominantly Holocene age, with the shape of a truncated cone. The cone is largely andesitic, though basaltic and dacitic rocks are present. It is located in La Araucanía Region of Chile , immediately southeast of Tolhuaca volcano. Sierra Nevada and Llaima are their neighbors to the south. The snow-capped volcano lies within the protected area Malalcahuello-Nalcas .  The volcano last erupted in 1988, ending in 1990. The VEI was 3. The eruption was from a flank vent and involved lava flows and explosive eruptions. Some fatalities occurred. [63] The volcanoes in Chile are monitored by the National Geology and Mining Service (SERNAGEOMIN) [64] [65] Earthquake activity in Chile is related to subduction of the Nazca Plate to the east. Chile notably holds the record for the largest earthquake ever recorded, the 1960 Valdivia earthquake . More recently, a magnitude-8.8 earthquake struck central Chile on February 27, 2010 , the Puyehue-Cordón Caulle volcano erupted in 2011 , and a M8.2 earthquake struck northern Chile on April 1, 2014 .  The main shock was preceded by a number of moderate to large shocks and was followed by a large number of moderate to very large aftershocks, including a magnitude-7.6 event on April 2. [66]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Llaima_eruption2_crop.jpg/220px-Llaima_eruption2_crop.jpg",
+                "caption": "Llaima 's 2008 eruption"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lascar_eruption_2006b_-_cropped.jpg/220px-Lascar_eruption_2006b_-_cropped.jpg",
+                "caption": "Lascar erupting in 2006"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+        "title": "Ring of Fire",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Ecuador",
+        "text": "Cotopaxi is a stratovolcano in the Andes, located about 50 km (30 mi) south of Quito , Ecuador , South America. [70] It is the second-highest summit in the country, reaching a height of 5,897 m (19,347 ft). Since 1738, Cotopaxi has erupted more than 50 times, resulting in the creation of numerous valleys formed by mudflows around the volcano. In October 1999, Pichincha Volcano erupted in Quito and covered the city with several inches of ash . Prior to that, the last major eruptions were in 1553 [71] and in 1660, when about 30 cm of ash fell on the city. [72] At 5,286 m (17,343 ft), Sangay Volcano is an active stratovolcano in central Ecuador, one of the highest active volcanoes in the world and is one of Ecuador's most active volcanoes. It exhibits mostly strombolian activity; An eruption, which started in 1934, ended in 2011. [73] More recent eruptions have occurred. Geologically, Sangay marks the southern bound of the Northern Volcanic Zone , and its position straddling two major pieces of crust accounts for its high level of activity. Sangay's roughly 500,000-year history is one of instability; two previous versions of the mountain were destroyed in massive flank collapses, evidence of which still litters its surroundings today. Sangay is one of two active volcanoes located within the namesake Sangay National Park , the other being Tungurahua to the north. As such, it has been listed as a UNESCO World Heritage Site since 1983. Reventador is an active stratovolcano that lies in the eastern Andes of Ecuador. Since 1541, it has erupted over 25 times, with its most recent eruption starting in 2008 and, as of 2020 [update] , still ongoing, [74] but the largest historical eruption occurred in 2002. During that eruption, the plume from the volcano reached a height of 17 km ( 10 + 1 ⁄ 2 mi), and pyroclastic flows reached 7 km (4.3 mi) from the cone.  On March 30, 2007, the volcano erupted ash again, which reached a height of about 3 km (2 mi). In Ecuador, EPN monitors volcanic activity.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/19991102_Tung_large.jpg/220px-19991102_Tung_large.jpg",
+                "caption": "Tungurahua erupting molten lava at night (1999)"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+        "title": "Ring of Fire",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Mexico",
+        "text": "Volcanoes of Mexico related to subduction of the Cocos and Rivera plates occur in the Trans-Mexican Volcanic Belt , which extends 900 km (560 mi) from west to east across central-southern Mexico. Popocatépetl , lying in the eastern half of the Trans-Mexican Volcanic Belt, is the second-highest peak in Mexico after the Pico de Orizaba . It is one of the most active volcanoes in Mexico, having had more than 20 major eruptions since the arrival of the Spanish in 1519. The 1982 eruption of El Chichón , which killed about 2,000 people who lived near the volcano, created a 1-km-wide caldera that filled with an acidic crater lake. Before 1982, this relatively unknown volcano was heavily forested and of no greater height than adjacent nonvolcanic peaks. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Map_mexico_volcanoes.gif/220px-Map_mexico_volcanoes.gif",
+                "caption": "The Trans-Mexican Volcanic Belt"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+        "title": "Ring of Fire",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "United States",
+        "text": "The Cascade Volcanic Arc lies in the western United States. This arc includes nearly 20 major volcanoes, among a total of over 4,000 separate volcanic vents including numerous stratovolcanoes, shield volcanoes, lava domes, and cinder cones, along with a few isolated examples of rarer volcanic forms such as tuyas . Volcanism in the arc began about 37 million years ago, but most of the present-day Cascade volcanoes are less than 2 million years old, and the highest peaks are less than 100,000 years old. The arc is formed by the subduction of the Gorda and Juan de Fuca plates at the Cascadia subduction zone . This is a 1,090-kilometre-long (680 mi) fault , running 80 km (50 mi) off the coast of the Pacific Northwest from northern California to Vancouver Island , British Columbia. The plates move at a relative rate of over 10 mm (0.4 in) per year at an oblique angle to the subduction zone. Because of the very large fault area, the Cascadia subduction zone can produce very large earthquakes, magnitude 9.0 or greater, if rupture occurred over its whole area. When the \"locked\" zone stores energy for an earthquake, the \"transition\" zone, although somewhat plastic, can rupture. Thermal and deformation studies indicate that the locked zone is fully locked for 60 km (37 mi) down-dip from the deformation front. Further down-dip, a transition from fully locked to aseismic sliding occurs. Unlike most subduction zones worldwide, no oceanic trench is present along the continental margin in Cascadia . Instead, terranes and the accretionary wedge have been lifted up to form a series of coast ranges and exotic mountains. A high rate of sedimentation from the outflow of the three major rivers ( Fraser River , Columbia River , and Klamath River ) which cross the Cascade Range contributes to further obscuring the presence of a trench. However, in common with most other subduction zones, the outer margin is slowly being compressed, similar to a giant spring . When the stored energy is suddenly released by slippage across the fault at irregular intervals, the Cascadia subduction zone can create very large earthquakes such as the magnitude-9 Cascadia earthquake of 1700 . Geological evidence indicates that great earthquakes may have occurred at least seven times in the last 3,500 years, suggesting a return time of 400 to 600 years. Also, evidence of accompanying tsunamis with every earthquake is seen, as the prime reason these earthquakes are known is through \"scars\" the tsunamis left on the coast, and through Japanese records (tsunami waves can travel across the Pacific). The 1980 eruption of Mount St. Helens was the most significant to occur in the contiguous 48 U.S. states in recorded history ( VEI = 5, 1.3 km 3 (0.3 cu mi) of material erupted), exceeding the destructive power and volume of material released by the 1915 eruption of California's Lassen Peak . The eruption was preceded by a two-month series of earthquakes and steam-venting episodes caused by an injection of magma at shallow depth below the mountain that created a huge bulge and a fracture system on Mount St. Helens ' north slope. An earthquake at 8:32 am on May 18, 1980, caused the entire weakened north face to slide away, suddenly exposing the partly molten, gas-rich rock in the volcano to lower pressure. The rock responded by exploding into a very hot mix of pulverized lava and older rock that sped toward Spirit Lake so fast that it quickly passed the avalanching north face. Alaska is known for its seismic and volcanic activity, holding the record for the second-largest earthquake in the world, the Good Friday earthquake , and having more than 50 volcanoes which have erupted since about 1760. [77] Volcanoes are found not only in the mainland, but also in the Aleutian Islands . The United States Geological Survey and the National Earthquake Information Center monitor volcanoes and earthquakes in the United States.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cascadia_subduction_zone_USGS.png/220px-Cascadia_subduction_zone_USGS.png",
+                "caption": "Area of the Cascadia subduction zone , including the Cascade Volcanic Arc (red triangles)"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Cascade_eruptions_in_the_last_4000_years.png/220px-Cascade_eruptions_in_the_last_4000_years.png",
+                "caption": "American Cascade Range volcano eruptions in the last 4000 years"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+        "title": "Ring of Fire",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Canada",
+        "text": "British Columbia and Yukon are home to a region of volcanoes and volcanic activity in the Pacific Ring of Fire. More than 20 volcanoes have erupted in the western Canada during the Holocene Epoch but only 6 are directly related to subduction: Bridge River Cones , Mount Cayley , Mount Garibaldi , Garibaldi Lake , Silverthrone Caldera , and Mount Meager massif . [3] Several mountains in populated areas of British Columbia are dormant volcanoes . Most of these were active during the Pleistocene and Holocene epochs. Although none of Canada's volcanoes are currently erupting, several volcanoes, volcanic fields, and volcanic centers are considered potentially active. [78] There are hot springs at some volcanoes. Since 1975, seismic activity appears to have been associated with some volcanoes in British Columbia including the six subduction-related volcanoes as well as intraplate volcanoes such as Wells Gray-Clearwater volcanic field . [78] The volcanoes are grouped into five volcanic belts with different tectonic settings. The Northern Cordilleran Volcanic Province is an area of numerous volcanoes, which are caused by continental rifting not subduction; therefore geologists often regard it as a gap in the Pacific Ring of Fire between the Cascade Volcanic Arc further south and Alaska's Aleutian Arc further north. [79] The Garibaldi Volcanic Belt in southwestern British Columbia is the northern extension of the Cascade Volcanic Arc in the United States (which includes Mount Baker and Mount St. Helens) and contains the most explosive young volcanoes in Canada. [80] It formed as a result of subduction of the Juan de Fuca Plate (a remnant of the much larger Farallon Plate ) under the North American Plate along the Cascadia subduction zone. [80] The Garibaldi Volcanic Belt includes the Bridge River Cones, Mount Cayley, Mount Fee , Mount Garibaldi, Mount Price , Mount Meager massif, the Squamish Volcanic Field, and more smaller volcanoes. The eruption styles in the belt range from effusive to explosive, with compositions from basalt to rhyolite . Morphologically, centers include calderas, cinder cones, stratovolcanoes and small isolated lava masses. Due to repeated continental and alpine glaciations, many of the volcanic deposits in the belt reflect complex interactions between magma composition, topography, and changing ice configurations. The most recent major catastrophic eruption in the Garibaldi Volcanic Belt was an explosive eruption of the Mount Meager massif about 2,350 years ago. It was similar to the 1980 eruption of Mount St. Helens, [80] sending an ash column about 20 km into the stratosphere . [81] The Chilcotin Group is a north–south range of volcanoes in southern British Columbia running parallel to the Garibaldi Volcanic Belt. The majority of the eruptions in this belt happened either 6–10 million years ago ( Miocene ) or 2–3 million years ago (Pliocene), although with some slightly more recent eruptions (in the Pleistocene). [82] It is thought to have formed as a result of back-arc extension behind the Cascadia subduction zone. [82] Volcanoes in this belt include Mount Noel , the Clisbako Caldera Complex , Lightning Peak , Black Dome Mountain , and many lava flows. Eruptions of basaltic to rhyolitic volcanoes and hypabyssal rocks of the Alert Bay Volcanic Belt in northern Vancouver Island are probably linked with the subducted margin flanked by the Explorer and Juan de Fuca Plates at the Cascadia subduction zone. It appears to have been active during the Pliocene and Pleistocene. However, no Holocene eruptions are known, and volcanic activity in the belt has likely ceased. The active Queen Charlotte Fault on the west coast of the Haida Gwaii , British Columbia , has generated three large earthquakes during the 20th century: a magnitude 7 event in 1929; a magnitude 8.1 in 1949 (Canada's largest recorded earthquake); and a magnitude 7.4 in 1970. [83] The Public Safety Geo-science Program at the Natural Resources Canada undertakes research to support risk reduction from the effects of space weather, earthquakes, tsunamis, volcanoes, and landslides. [84]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Young_volcanoes_of_western_Canada.png/220px-Young_volcanoes_of_western_Canada.png",
+                "caption": "Map of young volcanoes in Western Canada"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MountMeagerPlinthCapricorn.jpg/220px-MountMeagerPlinthCapricorn.jpg",
+                "caption": "The Mount Meager massif as seen from the east near Pemberton, British Columbia: Summits left to right are Capricorn Mountain , Mount Meager , and Plinth Peak ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+        "title": "Ring of Fire",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Russia",
+        "text": "The Kamchatka Peninsula in the Russian Far East is one of the most active volcanic areas in the world, with 20 historically active volcanoes. [85] It lies between the Pacific Ocean to the east and the Okhotsk Sea to the west. Immediately offshore along the Pacific coast of the peninsula runs the 10,500-metre-deep (34,400 ft) Kuril–Kamchatka Trench, where subduction of the Pacific Plate fuels the volcanism. Several types of volcanic activity are present, including stratovolcanoes, shield volcanoes, Hawaiian-style fissure eruptions and geysers. Active, dormant and extinct volcanoes of Kamchatka are in two major volcanic belts. The most recent activity takes place in the eastern belt, starting in the north at the Shiveluch volcanic complex, which lies at the junction of the Aleutian and Kamchatka volcanic arcs. Just to the south is the Klyuchi volcanic group, comprising the twin volcanic cones of Kliuchevskoi and Kamen , the volcanic complexes of Tolbachik and Ushkovsky , and a number of other large stratovolcanoes. Ichinsky , the only active volcano in the central belt, is located farther to the west. Farther south, the eastern belt of stratovolcanoes continues to the southern tip of Kamchatka, continuing onto the Kuril Islands , with their 32 historically active volcanoes. [85] [86]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Dsc_%28179253513%29.jpeg/220px-Dsc_%28179253513%29.jpeg",
+                "caption": "Kambalny , an active volcano in the Kamchatka Peninsula"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+        "title": "Ring of Fire",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Japan",
+        "text": "About 10% of the world's active volcanoes are found in Japan, which lies in a zone of extreme crustal instability. They are formed by subduction of the Pacific Plate and the Philippine Sea Plate . As many as 1,500 earthquakes are recorded yearly, and magnitudes of 4 to 6 are not uncommon. Minor tremors occur almost daily in one part of the country or another, causing some slight shaking of buildings. Major earthquakes occur infrequently; the most famous in the 20th century were: the Great Kantō earthquake of 1923, in which 130,000 people died; and the Great Hanshin earthquake of January 17, 1995, in which 6,434 people died. On March 11, 2011 a magnitude 9.0 earthquake hit Japan , the country's biggest ever and the fifth largest on record, according to US Geological Survey data. [87] Undersea earthquakes also expose the Japanese coastline to danger from tsunamis . Mount Bandai , one of Japan's most noted volcanoes, rises above the north shore of Lake Inawashiro . Mount Bandai is formed of several overlapping stratovolcanoes, the largest of which is O-Bandai, constructed within a horseshoe-shaped caldera that formed about 40,000 years ago when an earlier volcano collapsed, forming the Okinajima debris avalanche , which traveled to the southwest and was accompanied by a plinian eruption . Four major phreatic eruptions have occurred during the past 5,000 years, two of them in historical time, in 806 and 1888. Seen from the south, Bandai presents a conical profile, but much of the north side of the volcano is missing as a result of the collapse of Ko-Bandai volcano during the 1888 eruption, in which a debris avalanche buried several villages and formed several large lakes. In July 1888, the north flank of Mount Bandai collapsed during an eruption quite similar to the May 18, 1980, eruption of Mount St. Helens. After a week of seismic activity, a large earthquake on July 15, 1888, was followed by a tremendous noise and a large explosion. Eyewitnesses heard about 15 to 20 additional explosions and observed that the last one was projected almost horizontally to the north. Mount Fuji is Japan's highest and most noted volcano, featuring heavily in Japanese culture and serving as one of the country's most popular landmarks. The modern postglacial stratovolcano is constructed above a group of overlapping volcanoes, remnants of which form irregularities on Fuji's profile. Growth of the younger Mount Fuji began with a period of voluminous lava flows from 11,000 to 8,000 years ago, accounting for four-fifths of the volume of the younger Mount Fuji. Minor explosive eruptions dominated activity from 8,000 to 4,500 years ago, with another period of major lava flows occurring from 4,500 to 3,000 years ago. Subsequently, intermittent major explosive eruptions occurred, with subordinate lava flows and small pyroclastic flows. Summit eruptions dominated from 3,000 to 2,000 years ago, after which flank vents were active. The extensive basaltic lava flows from the summit and some of the more than 100 flank cones and vents blocked drainage against the Tertiary Misaka Mountains on the north side of the volcano, forming the Fuji Five Lakes . The last eruption of this dominantly basaltic volcano in 1707 ejected andesitic pumice and formed a large new crater on the east flank. Some minor volcanic activity may occur in the next few years.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Fuji_Kawaguchi_357.JPG/220px-Fuji_Kawaguchi_357.JPG",
+                "caption": "Mount Fuji at sunrise from Lake Kawaguchi"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+        "title": "Ring of Fire",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Philippines",
+        "text": "The 1991 eruption of Mount Pinatubo is the world's second-largest eruption of the 20th century. Successful predictions of the onset of the climactic eruption led to the evacuation of tens of thousands of people from the surrounding areas, saving many lives, but as the surrounding areas were severely damaged by pyroclastic flows, ash deposits, and later, lahars caused by rainwater remobilising earlier volcanic deposits, thousands of houses were destroyed. Mayon Volcano is the Philippines' most active volcano. It has steep upper slopes that average 35–40° and is capped by a small summit crater. The historical eruptions of this basaltic-andesitic volcano date back to 1616 and range from Strombolian to basaltic Plinian eruptions . Eruptions occur predominately from the central conduit and have also produced lava flows that travel far down the flanks. Pyroclastic flows and mudflows have commonly swept down many of the roughly 40 ravines that radiate from the summit and have often devastated populated lowland areas. Taal Volcano has had 33 recorded eruptions since 1572. A devastating eruption occurred in 1911, which claimed more than a thousand lives. The deposits of that eruption consist of a yellowish, fairly decomposed (nonjuvenile) tephra with a high sulfur content. The most recent period of activity lasted from 1965 to 1977, and was characterized by the interaction of magma with the lake water, which produced violent phreatic and phreatomagmatic eruptions. The volcano was dormant from 1977 then showed signs of unrest since 1991 with strong seismic activity and ground-fracturing events, as well as the formation of small mud geysers on parts of the island. An eruption occurred in January 2020. Kanlaon Volcano , the most active volcano in the central Philippines, has erupted 25 times since 1866. Eruptions are typically phreatic explosions of small-to-moderate size that produce minor ash falls near the volcano. On August 10, 1996, Kanlaon erupted without warning, killing 3 persons who were among 24 mountain climbers trapped near the summit. On June 3, 2024, Mt. Kanlaon erupted, displacing more than 1,000 people.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MajorVolcanoesOfThePhilippines-USGS.gif/170px-MajorVolcanoesOfThePhilippines-USGS.gif",
+                "caption": "Map showing major volcanoes of the Philippines"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mayon1984.jpg/220px-Mayon1984.jpg",
+                "caption": "Mayon Volcano overlooks a pastoral scene about five months before the volcano's violent eruption in September 1984."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+        "title": "Ring of Fire",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Indonesia",
+        "text": "Indonesia is located where the Ring of Fire around the Pacific Ocean meets the Alpide belt (which runs from Southeast Asia to Southwest Europe). The eastern islands of Indonesia (Sulawesi, the Lesser Sunda Islands (excluding Bali, Lombok, Sumbawa and Sangeang), Halmahera, the Banda Islands and the Sangihe Islands) are geologically associated with subduction of the Pacific Plate or its related minor plates and, therefore, the eastern islands are often regarded as part of the Ring of Fire. The western islands of Indonesia (the Sunda Arc of Sumatra, Krakatoa, Java, Bali, Lombok, Sumbawa and Sangeang) are located north of a subduction zone in the Indian Ocean. Although news media, popular science publications and some geologists include the western islands (and their notable volcanoes such as Krakatoa , Merapi , Tambora and Toba ) in the Ring of Fire, geologists often exclude the western islands from the Ring; instead the western islands are often included in the Alpide belt. [88]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Map_indonesia_volcanoes.gif/330px-Map_indonesia_volcanoes.gif",
+                "caption": "Major volcanoes in Indonesia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+        "title": "Ring of Fire",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "New Zealand",
+        "text": "New Zealand contains the world's strongest concentration of youthful rhyolitic volcanoes, and voluminous sheets of tuff blanket much of the North Island . The earliest historically dated eruption was at Whakaari/White Island in 1826, [89] followed in 1886 by the country's largest historical eruption at Mount Tarawera .  Much of the region north of New Zealand's North Island is made up of seamounts and small islands, including 16 submarine volcanoes . In the last 1.6 million years, most of New Zealand's volcanism is from the Taupō Volcanic Zone . [90] Mount Ruapehu , at the southern end of the Taupō Volcanic Zone, is one of the most active volcanoes in New Zealand. [91] It began erupting at least 250,000 years ago. In recorded history, major eruptions have been about 50 years apart, [91] in 1895, 1945, and 1995–1996. Minor eruptions are frequent, with at least 60 since 1945. Some of the minor eruptions in the 1970s generated small ash falls and lahars that damaged ski fields. [92] Between major eruptions, a warm acidic crater lake forms, fed by melting snow. Major eruptions may completely expel the lake water. Where a major eruption has deposited a tephra dam across the lake's outlet, the dam may collapse after the lake has refilled and risen above the level of its normal outlet, the outrush of water causing a large lahar. The most notable lahar caused the Tangiwai disaster on December 24, 1953, when 151 people aboard a Wellington to Auckland express train were killed after the lahar destroyed the Tangiwai rail bridge just moments before the train was due. In 2000, the ERLAWS system was installed on the mountain to detect such a collapse and alert the relevant authorities. The Auckland volcanic field on the North Island of New Zealand has produced a diverse array of explosive craters, scoria cones, and lava flows. Currently dormant , the field is likely to erupt again within the next \"hundreds to thousands of years\", a very short timeframe in geologic terms. [93] The field contains at least 40 volcanoes, most recently active about 600 years ago at Rangitoto Island , erupting 2.3 km 3 (0.55 cu mi) of lava.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Map_new_zealand_volcanoes.gif/220px-Map_new_zealand_volcanoes.gif",
+                "caption": "Major volcanoes of New Zealand"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Mt_Taranaki.JPG/220px-Mt_Taranaki.JPG",
+                "caption": "View of Mount Taranaki from Stratford"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+        "title": "Ring of Fire",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Examples",
+        "text": "Two classic examples of oceanic island arcs are the Mariana Islands in the western Pacific Ocean and the Lesser Antilles in the western Atlantic Ocean.  The Cascade Volcanic Arc in western North America and the Andes along the western edge of South America are examples of continental volcanic arcs. The best examples of volcanic arcs with both sets of characteristics are in the North Pacific, with the Aleutian Arc consisting of the Aleutian Islands and their extension the Aleutian Range on the Alaska Peninsula , and the Kuril–Kamchatka Arc comprising the Kuril Islands and southern Kamchatka Peninsula .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cascadia_subduction_zone_USGS.png/280px-Cascadia_subduction_zone_USGS.png",
+                "caption": "Cascade Volcanic Arc, a continental volcanic arc"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Map_of_alaska_volcanoes_okmok.jpg/390px-Map_of_alaska_volcanoes_okmok.jpg",
+                "caption": "The Aleutian Arc, with both oceanic and continental parts."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanic_arc",
+        "title": "Volcanic arc",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Largest Holocene eruptions",
+        "text": "Due to incomplete surveys, which also need to be confined to subaerial eruptions and not include igneous intrusions , the accumulative amounts of dense-rock equivalent erupted in Iceland will be underestimated. [4] The amounts known are some of the most significant contributions to recent eruptive volumes on Earth. [4] Since the last ice age 91% of the magma erupted in Iceland has been mafic , 6% intermediate in composition and 3% silicic . [4] : 203 The number of eruptions estimated in this 11,700 odd year period can only be an approxiamate figure, [a] but about three to four explosive ones occur for every purely effusive one. [4] : 203",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eyjafjallaj%C3%B6kull_ash_cloud_20100417.jpg/220px-Eyjafjallaj%C3%B6kull_ash_cloud_20100417.jpg",
+                "caption": "Eruption column of Eyjafjallajökull in 2010"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/B%C3%A1r%C3%B0arbunga_Volcano%2C_September_4_2014_-_15123275226.jpg/220px-B%C3%A1r%C3%B0arbunga_Volcano%2C_September_4_2014_-_15123275226.jpg",
+                "caption": "Eruptions at Holuhraun (Bárðarbunga-Veiðivötn volcanic system), 2014"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gr%C3%A1br%C3%B3kkrater.jpg/220px-Gr%C3%A1br%C3%B3kkrater.jpg",
+                "caption": "The craters of Grábrók"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Geldingadalagos.jpg/220px-Geldingadalagos.jpg",
+                "caption": "2021 Fagradalsfjall volcanic eruption"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Litli-Hr%C3%BAtur_eruption_2023.jpg/220px-Litli-Hr%C3%BAtur_eruption_2023.jpg",
+                "caption": "Litli-Hrútur eruption 2023"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Iceland_Volcano_Eruption_19_December_2023.jpg/220px-Iceland_Volcano_Eruption_19_December_2023.jpg",
+                "caption": "Sundhnúkur in Iceland on December 19th 2023."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_of_Iceland",
+        "title": "Volcanism of Iceland",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Fagradalsfjall 2021-2022",
+        "text": "Following a three-week period of increased seismic activity, an eruption fissure developed near Fagradalsfjall , [43] a mountain on the Reykjanes Peninsula .  Lava flow from a 200-meter fissure was first discovered by an Icelandic Coast Guard helicopter on March 19, 2021, in the Geldingadalur area near Grindavík , and within hours the fissure had grown to 500 m (1,600 ft) in length. [44] Another eruption, very similar to the 2021 eruption, began on 3 August 2022, [45] and ceased on 21 August 2022.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_blue_Lagoon%2C_Iceland_%285454149170%29.jpg/220px-The_blue_Lagoon%2C_Iceland_%285454149170%29.jpg",
+                "caption": "ʻAʻā ( apalhraun ) field near Blue Lagoon"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_of_Iceland",
+        "title": "Volcanism of Iceland",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Structure of lava fields",
+        "text": "The smooth flowing basaltic lava pāhoehoe is known in Icelandic as helluhraun [ˈhɛtlʏˌr̥œyːn] . [Islandsbok 1] It forms smooth surfaces that are quite easy to cross. More viscous lava forms ʻaʻā flows, known in Icelandic as apalhraun [ˈaːpalˌr̥œyːn] . [Islandsbok 1] The loose, broken, sharp, spiny surface of an ʻaʻā flow makes hiking across it difficult, slow and dangerous, it is easy to stick a foot into a hole and break a leg.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2014-04-28_13-14-48_Iceland_Nor%C3%B0urland_Eystra_-_Reykjahl%C3%AD%C3%B0.JPG/220px-2014-04-28_13-14-48_Iceland_Nor%C3%B0urland_Eystra_-_Reykjahl%C3%AD%C3%B0.JPG",
+                "caption": "Pāhoehoe ( helluhraun ) lava fields in Iceland"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Volcanism_of_Iceland",
+        "title": "Volcanism of Iceland",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Volcanic mountains",
+        "text": "Movements of tectonic plates create volcanoes along the plate boundaries, which erupt and form mountains. A volcanic arc system is a series of volcanoes that form near a subduction zone where the crust of a sinking oceanic plate melts and drags water down with the subducting crust. [9] Most volcanoes occur in a band encircling the Pacific Ocean (the Pacific Ring of Fire ), and in another that extends from the Mediterranean across Asia to join the Pacific band in the Indonesian Archipelago. The most important types of volcanic mountain are composite cones or stratovolcanoes and shield volcanoes . [10] [11] A shield volcano has a gently sloping cone because of the low viscosity of the emitted material, primarily basalt . Mauna Loa is the classic example, with a slope of 4°-6°. (The relation between slope and viscosity falls under the topic of angle of repose . [12] ) A composite volcano or stratovolcano has a more steeply rising cone (33°-40°), [13] because of the higher viscosity of the emitted material, and eruptions are more violent and less frequent than for shield volcanoes. Examples include Vesuvius , Kilimanjaro , Mount Fuji , Mount Shasta , Mount Hood and Mount Rainier . [14]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ISS-38_Kliuchevskoi_Volcano_on_Kamchatka.jpg/400px-ISS-38_Kliuchevskoi_Volcano_on_Kamchatka.jpg",
+                "caption": "Annotated view includes Ushkovsky , Tolbachik , Bezymianny , Zimina , and Udina stratovolcanoes of Kamchatka , Russia. Oblique view taken on November 12, 2013, from ISS. [7]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Volcanoes_at_subduction.JPG/220px-Volcanoes_at_subduction.JPG",
+                "caption": "Stratovolcanoes associated with a subduction zone (left) and a spreading ridge volcano (right). A hotspot volcano is center. [8]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sofia-vitosha-kempinski.jpg/300px-Sofia-vitosha-kempinski.jpg",
+                "caption": "The Dome of Vitosha mountain next to Sofia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mountain_formation",
+        "title": "Mountain formation",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Fold mountains",
+        "text": "When plates collide or undergo subduction (that is, ride one over another), the plates tend to buckle and fold , forming mountains. Most of the major continental mountain ranges are associated with thrusting and folding or orogenesis . Examples are the Balkan Mountains , the Jura and the Zagros mountains. [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kolunchin_Zardkuh.JPG/220px-Kolunchin_Zardkuh.JPG",
+                "caption": "Zard-Kuh , a fold mountain in the central Zagros range of Iran."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mountain_formation",
+        "title": "Mountain formation",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    },
+    {
+        "section": "Block mountains",
+        "text": "When a fault block is raised or tilted, a block mountain can result. [17] Higher blocks are called horsts , and troughs are called grabens . A spreading apart of the surface causes tensional forces. When the tensional forces are strong enough to cause a plate to split apart, it does so such that a center block drops down relative to its flanking blocks. An example is the Sierra Nevada range, where delamination created a block 650 km long and 80 km wide that consists of many individual portions tipped gently west, with east facing slips rising abruptly to produce the highest mountain front in the continental United States. [18] [19] Another example is the Rila – Rhodope massif in Bulgaria , including the well defined horsts of Belasitsa (linear horst), Rila mountain (vaulted domed shaped horst) and Pirin mountain —a horst forming a massive anticline situated between the complex graben valleys of the Struma and Mesta rivers. [20] [21] [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fault_block_mountain.JPG/220px-Fault_block_mountain.JPG",
+                "caption": "Fault-block mountain of the tilted type. [16]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sierra_Nevada_Mountains.JPG/220px-Sierra_Nevada_Mountains.JPG",
+                "caption": "Sierra Nevada Mountains (formed by delamination) as seen from the International Space Station ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mountain_formation",
+        "title": "Mountain formation",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Volcanology",
+        "topic": "Volcano Tectonics"
+    }
+]

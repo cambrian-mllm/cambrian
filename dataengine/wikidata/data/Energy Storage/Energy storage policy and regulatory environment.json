@@ -1,0 +1,751 @@
+[
+    {
+        "section": "Pumped hydro",
+        "text": "Worldwide, pumped-storage hydroelectricity (PSH) is the largest-capacity form of active grid energy storage available, and, as of March 2012, the Electric Power Research Institute (EPRI) reports that PSH accounts for more than 99% of bulk storage capacity worldwide, representing around 127,000 MW . [6] PSH energy efficiency varies in practice between 70% and 80%, [6] [7] [8] [9] with claims of up to 87%. [10] At times of low electrical demand, excess generation capacity is used to pump water from a lower source into a higher reservoir. When demand grows, water is released back into a lower reservoir (or waterway or body of water) through a turbine , generating electricity. Reversible turbine-generator assemblies act as both a pump and turbine (usually a Francis turbine design). Nearly all facilities use the height difference between two water bodies. Pure pumped-storage plants shift the water between reservoirs, while the \"pump-back\" approach is a combination of pumped storage and conventional hydroelectric plants that use natural stream-flow.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adam_Beck_Complex.jpg/300px-Adam_Beck_Complex.jpg",
+                "caption": "The Sir Adam Beck Generating Complex at Niagara Falls, Canada , which includes a large pumped storage hydroelectricity reservoir to provide an extra 174 MW of electricity during periods of peak demand."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Compressed air",
+        "text": "Compressed-air energy storage (CAES) uses surplus energy to compress air for subsequent electricity generation. [11] Small-scale systems have long been used in such applications as propulsion of mine locomotives. The compressed air is stored in an underground reservoir , such as a salt dome . Compressed-air energy storage (CAES) plants can bridge the gap between production volatility and load. CAES storage addresses the energy needs of consumers by effectively providing readily available energy to meet demand. Renewable energy sources like wind and solar energy vary. So at times when they provide little power, they need to be supplemented with other forms of energy to meet energy demand. Compressed-air energy storage plants can take in the surplus energy output of renewable energy sources during times of energy over-production. This stored energy can be used at a later time when demand for electricity increases or energy resource availability decreases. [12] Compression of air creates heat; the air is warmer after compression. Expansion requires heat. If no extra heat is added, the air will be much colder after expansion. If the heat generated during compression can be stored and used during expansion, efficiency improves considerably. [13] A CAES system can deal with the heat in three ways. Air storage can be adiabatic , diabatic , or isothermal . Another approach uses compressed air to power vehicles. [14] [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Compressed_Air_Loco.jpg/300px-Compressed_Air_Loco.jpg",
+                "caption": "A compressed air locomotive used inside a mine between 1928 and 1961."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Flywheel",
+        "text": "Flywheel energy storage (FES) works by accelerating a rotor (a flywheel ) to a very high speed, holding energy as rotational energy . When energy is added the rotational speed of the flywheel increases, and when energy is extracted, the speed declines, due to conservation of energy . Most FES systems use electricity to accelerate and decelerate the flywheel, but devices that directly use mechanical energy are under consideration. [16] FES systems have rotors made of high strength carbon-fiber composites, suspended by magnetic bearings and spinning at speeds from 20,000 to over 50,000 revolutions per minute (rpm) in a vacuum enclosure. [17] Such flywheels can reach maximum speed (\"charge\") in a matter of minutes. The flywheel system is connected to a combination electric motor / generator . FES systems have relatively long lifetimes (lasting decades with little or no maintenance; [17] full-cycle lifetimes quoted for flywheels range from in excess of 10 5 , up to 10 7 , cycles of use), [18] high specific energy (100–130 W·h/kg, or 360–500 kJ/kg) [18] [19] and power density .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Example_of_cylindrical_flywheel_rotor_assembly.png/220px-Example_of_cylindrical_flywheel_rotor_assembly.png",
+                "caption": "The main components of a typical flywheel."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg/220px-Flybrid_Systems_Kinetic_Energy_Recovery_System.jpg",
+                "caption": "A Flybrid Kinetic Energy Recovery System flywheel . Built for use on Formula 1 racing cars , it is employed to recover and reuse kinetic energy captured during braking."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Solid mass gravitational ",
+        "text": "Changing the altitude of solid masses can store or release energy via an elevating system driven by an electric motor/generator. Studies suggest energy can begin to be released with as little as 1 second warning, making  the method a useful supplemental feed into an electricity grid to balance load surges. [20] Efficiencies can be as high as 85% recovery of stored energy. [21] This can be achieved by siting the masses inside old vertical  mine shafts or in specially constructed towers where the heavy weights are winched up to store energy and allowed a controlled descent to release it. At 2020 a prototype vertical store is being built in Edinburgh, Scotland [22] Potential energy storage or gravity energy storage was under active development in 2013 in association with the California Independent System Operator . [23] [24] [25] It examined the movement of earth-filled hopper rail cars driven by electric locomotives from lower to higher elevations. [26] Other proposed methods include:-",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fernw%C3%A4rmespeicher_Theiss.jpg/220px-Fernw%C3%A4rmespeicher_Theiss.jpg",
+                "caption": "District heating accumulation tower from Theiss near Krems an der Donau in Lower Austria with a thermal capacity of 2 GWh"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Rechargeable battery",
+        "text": "A rechargeable battery comprises one or more electrochemical cells . It is known as a 'secondary cell' because its electrochemical reactions are electrically reversible. Rechargeable batteries come in many shapes and sizes, ranging from button cells to megawatt grid systems. Rechargeable batteries have lower total cost of use and environmental impact than non-rechargeable (disposable) batteries. Some rechargeable battery types are available in the same form factors as disposables. Rechargeable batteries have higher initial cost but can be recharged very cheaply and used many times. Common rechargeable battery chemistries include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Datacenter_Backup_Batteries.jpg/220px-Datacenter_Backup_Batteries.jpg",
+                "caption": "A rechargeable battery bank used as an uninterruptible power supply in a data center"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Supercapacitor",
+        "text": "Supercapacitors , also called electric double-layer capacitors (EDLC) or ultracapacitors, are a family of electrochemical capacitors [47] that do not have conventional solid dielectrics . Capacitance is determined by two storage principles, double-layer capacitance and pseudocapacitance . [48] [49] Supercapacitors bridge the gap between conventional capacitors and rechargeable batteries . They store the most energy per unit volume or mass ( energy density ) among capacitors. They support up to 10,000 farads /1.2 Volt, [50] up to 10,000 times that of electrolytic capacitors , but deliver or accept less than half as much power per unit time ( power density ). [47] While supercapacitors have specific energy and energy densities that are approximately 10% of batteries, their power density is generally 10 to 100 times greater. This results in much shorter charge/discharge cycles. Also, they tolerate many more charge-discharge cycles than batteries. Supercapacitors have many applications, including:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Expo_2010_Electric_Bus.jpg/220px-Expo_2010_Electric_Bus.jpg",
+                "caption": "One of a fleet of electric capabuses powered by supercapacitors, at a quick-charge station-bus stop, in service during Expo 2010 Shanghai China . Charging rails can be seen suspended over the bus."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Power-to-gas",
+        "text": "Power-to-gas is the conversion of electricity to a gaseous fuel such as hydrogen or methane . The three commercial methods use electricity to reduce water into hydrogen and oxygen by means of electrolysis . In the first method, hydrogen is injected into the natural gas grid or is used for transportation. The second method is to combine the hydrogen with carbon dioxide to produce methane using a methanation reaction such as the Sabatier reaction , or biological methanation, resulting in an extra energy conversion loss of 8%. The methane may then be fed into the natural gas grid. The third method uses the output gas of a wood gas generator or a biogas plant, after the biogas upgrader is mixed with the hydrogen from the electrolyzer, to upgrade the quality of the biogas.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/World%E2%80%99s_1st_Low-Emission_Hybrid_Battery_Storage%2C_Gas_Turbine_Peaker_System.jpg/220px-World%E2%80%99s_1st_Low-Emission_Hybrid_Battery_Storage%2C_Gas_Turbine_Peaker_System.jpg",
+                "caption": "The new technology helps reduce greenhouse gases and operating costs at two existing peaker plants in Norwalk and Rancho Cucamonga . The 10-megawatt battery storage system, combined with the gas turbine, allows the peaker plant to more quickly respond to changing energy needs, thus increasing the reliability of the electrical grid."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Capacitor",
+        "text": "A capacitor (originally known as a 'condenser') is a passive two-terminal electrical component used to store energy electrostatically . Practical capacitors vary widely, but all contain at least two electrical conductors (plates) separated by a dielectric (i.e., insulator ). A capacitor can store electric energy when disconnected from its charging circuit, so it can be used like a temporary battery , or like other types of rechargeable energy storage system . [72] Capacitors are commonly used in electronic devices to maintain power supply while batteries change. (This prevents loss of information in volatile memory.) Conventional capacitors provide less than 360 joules per kilogram, while a conventional alkaline battery has a density of 590 kJ/kg. Capacitors store energy in an electrostatic field between their plates. Given a potential difference across the conductors (e.g., when a capacitor is attached across a battery), an electric field develops across the dielectric, causing positive charge (+Q) to collect on one plate and negative charge (-Q) to collect on the other plate. If a battery is attached to a capacitor for a sufficient amount of time, no current can flow through the capacitor. However, if an accelerating or alternating voltage is applied across the leads of the capacitor, a displacement current can flow. Besides capacitor plates, charge can also be stored in a dielectric layer. [73] Capacitance is greater given a narrower separation between conductors and when the conductors have a larger surface area. In practice, the dielectric between the plates emits a small amount of leakage current and has an electric field strength limit, known as the breakdown voltage . However, the effect of recovery of a dielectric after a high-voltage breakdown holds promise for a new generation of self-healing capacitors. [74] [75] The conductors and leads introduce undesired inductance and resistance . Research is assessing the quantum effects of nanoscale capacitors [76] for digital quantum batteries. [77] [78]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_%40_5000_VDC.jpg/175px-Mylar-film_oil-filled_low-inductance_capacitor_6.5_MFD_%40_5000_VDC.jpg",
+                "caption": "This mylar-film, oil-filled capacitor has very low inductance and low resistance, to provide the high-power (70 megawatts) and the very high speed (1.2 microsecond) discharges needed to operate a dye laser ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Renewable energy",
+        "text": "The largest source and the greatest store of renewable energy is provided by hydroelectric dams. A large reservoir behind a dam can store enough water to average the annual flow of a river between dry and wet seasons, and a very large reservoir can store enough water to average the flow of a river between dry and wet years. While a hydroelectric dam does not directly store energy from intermittent sources, it does balance the grid by lowering its output and retaining its water when power is generated by solar or wind. If wind or solar generation exceeds the region's hydroelectric capacity, then some additional source of energy is needed. Many renewable energy sources (notably solar and wind) produce variable power . [96] Storage systems can level out the imbalances between supply and demand that this causes. Electricity must be used as it is generated or converted immediately into storable forms. [97] The main method of electrical grid storage is pumped-storage hydroelectricity . Areas of the world such as Norway, Wales, Japan and the US have used elevated geographic features for reservoirs , using electrically powered pumps to fill them. When needed, the water passes through generators and converts the gravitational potential of the falling water into electricity. [96] Pumped storage in Norway, which gets almost all its electricity from hydro, has currently a capacity of 1.4 GW but since the total installed capacity is nearly 32 GW and 75% of that is regulable, it can be expanded significantly. [98] Some forms of storage that produce electricity include pumped-storage hydroelectric dams , rechargeable batteries , thermal storage including molten salts which can efficiently store and release very large quantities of heat energy, [99] and compressed air energy storage , flywheels , cryogenic systems and superconducting magnetic coils . Surplus power can also be converted into methane ( sabatier process ) with stockage in the natural gas network. [100] [101] In 2011, the Bonneville Power Administration in the northwestern United States created an experimental program to absorb excess wind and hydro power generated at night or during stormy periods that are accompanied by high winds. Under central control, home appliances absorb surplus energy by heating ceramic bricks in special space heaters to hundreds of degrees and by boosting the temperature of modified hot water heater tanks . After charging, the appliances provide home heating and hot water as needed. The experimental system was created as a result of a severe 2010 storm that overproduced renewable energy to the extent that all conventional power sources were shut down, or in the case of a nuclear power plant, reduced to its lowest possible operating level, leaving a large area running almost completely on renewable energy. [102] [103] Another advanced method used at the former Solar Two project in the United States and the Solar Tres Power Tower in Spain uses molten salt to store thermal energy captured from the sun and then convert it and dispatch it as electrical power. The system pumps molten salt through a tower or other special conduits to be heated by the sun. Insulated tanks store the solution. Electricity is produced by turning water to steam that is fed to turbines . Since the early 21st century batteries have been applied to utility scale load-leveling and frequency regulation capabilities. [96] In vehicle-to-grid storage, electric vehicles that are plugged into the energy grid can deliver stored electrical energy from their batteries into the grid when needed.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Abengoa_Solar_%287336087392%29.jpg/220px-Abengoa_Solar_%287336087392%29.jpg",
+                "caption": "Construction of the Salt Tanks which provide efficient thermal energy storage [92] so that electricity can be generated after the sun goes down, and output can be scheduled to meet demand. [93] The 280 MW Solana Generating Station is designed to provide six hours of storage. This allows the plant to generate about 38% of its rated capacity over the course of a year. [94]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Andasol_3.jpg/220px-Andasol_3.jpg",
+                "caption": "The 150 MW Andasol solar power station in Spain is a parabolic trough solar thermal power plant that stores energy in tanks of molten salt so that it can continue generating electricity when the sun is not shining. [95]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_storage",
+        "title": "Energy storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Renewable energy policy",
+        "text": "In 2016 it was reported that America currently had 264 billion barrels of oil reserves , the largest oil reserve of any nation. [82] The United States also has a vast amount of coal reserves, amounting to 26% of the world's total, more than any other nation. [83] Its untapped oil and coal resources are estimated to be worth about $50 trillion according to the Trump administration. [73] However, reports from the Natural Resources Defense Council (NRDC) show that coal consumption in the US has steadily declined by about 20% over the last 10 years, with natural gas and renewable energy quickly taking over. [84] Christina Simeone, director of policy and external affairs with the Kleinman Center for Energy Policy at the University of Pennsylvania , says that strict regulations aren't the only reason for the faltering coal market; natural gas has now become a cheaper option. [74] Trump wants America to achieve energy independence from OPEC and all nations hostile to the interests of the United States to ensure national security, and insulate it from any supply disruptions and price fluctuations from the global oil market. [85] However, fossil fuels are finite, and entities such as the Pentagon claim climate change also poses a threat to national security. [86] The NRDC has argued that a more reliable long-term solution would be to develop more of a reliance on renewable energy rather than maintaining a reliance on fossil fuels. [84] The America First Energy Plan does not mention renewable energy and instead reflects the president's focus on fossil fuels. [87] During the campaign, Trump praised solar technology during a rally in California the summer of 2016 but then criticized it for being too expensive and has since complained about the subsidies renewable energy companies receive. [88] [89] In June 2017, Trump said in a White House meeting that the wall with Mexico should be covered with solar panels. The statement was not taken seriously. [90] The Trump administration's 2019 budget proposes large cuts in programs that research renewable energy and that study the effects of and ways to mitigate climate change . [91] Wind power is one of the fastest job-growing industries in the country and it is producing a substantial amount of power in some areas; for example, 25% of the energy in Iowa and North and South Dakota is from the wind. Minnesota, which ranks 7th in the nation at 18%, plans to shut down all of its coal-fired plants by 2030 and switch to renewable energy for all of its power needs. [92] Trump has repeatedly claimed, without evidence, that noise from windmills causes cancer. He has also repeatedly said that they cause avian deaths, which is true. The US Fish and Wildlife Service reports that up to 300,000 birds a year are killed by windmills; however, they say that that number is low compared to other sources: \"Communication towers kill 40 million, power lines kill 140 million, and cats kill hundreds of millions.\" [92]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/U.S._wind_farms_by_wind_design_class_and_summer_electricity_generation_capacity_in_2018_%2848803317626%29.png/220px-U.S._wind_farms_by_wind_design_class_and_summer_electricity_generation_capacity_in_2018_%2848803317626%29.png",
+                "caption": "2018 US wind farms"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_policy_of_the_Donald_Trump_administration",
+        "title": "Environmental policy of the Donald Trump administration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Keystone XL and Dakota Access pipeline",
+        "text": "The construction of the Keystone XL and Dakota Access had been placed on hold by then-president Barack Obama, who considered it a major contributor to climate change due to the greenhouse gas intensive extraction of oil from tar sands . [98] After months of protest , in December 2016 the United States Army Corps of Engineers (USACE) under the Obama administration announced that it would not grant an easement for the pipeline to be drilled under Lake Oahe and that USACE was undertaking an environmental impact statement to look at possible alternative routes. [99] Many Sioux tribes said that the pipeline threatens the tribe's environmental and economic well-being, and that it has damaged and destroyed sites of great historic, religious, and cultural significance. The tribe has expressed concern about leaks because the pipeline passes under Lake Oahe, which serves as a major source of water. [100] Protests at pipeline construction sites in North Dakota began in the spring of 2016 and drew indigenous people from throughout North America as well as many other supporters, creating the largest gathering of Native Americans in the past hundred years. [101] An executive order reviving the plans for the pipelines was signed by Trump on January 24, 2017, with the hopes of creating jobs and bolstering domestic energy production.  The pipeline became commercially operational on June 1, 2017 [102] [103] In September 2018, the Dakota Access pipeline was estimated to have created 51 permanent jobs across the four states that it passes through. [104] The Standing Rock Sioux Tribe sued and in March 2020 a federal judge sided with the tribe and ordered USACE to do a full environmental impact statement .  The Judge found the existing impact statement extremely lacking, noting numerous factors that had not been taken into account or were clearly not accurate. [105] In July 2020, saying federal officials failed to carry out a complete analysis of its environmental impacts, U.S. District Judge James Boasberg ruled that the pipeline must be shut down by August 5.  Pipeline owner Energy Transfer appealed and on August 5, the Court of Appeals sided with Energy Transfer to allow the pipeline to stay open.  However the court did not grant Energy Transfer's motion to block the review, which must continue. [106]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bakken_-_Dakota_Access_Oil_Pipeline%2C_North_Dakota_%2829357938502%29.jpg/220px-Bakken_-_Dakota_Access_Oil_Pipeline%2C_North_Dakota_%2829357938502%29.jpg",
+                "caption": "Construction of the Dakota Access Pipeline (shown above) resumed under the Trump administration"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_policy_of_the_Donald_Trump_administration",
+        "title": "Environmental policy of the Donald Trump administration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Proposed EPA budget cuts",
+        "text": "While campaigning for office Trump had proposed the idea of eliminating the Environmental Protection Agency to help balance the United States' budget . Trump said, \"We're going to have little tidbits left but we're going to get most of it out\". [130] Following his election, in March 2017, he announced plans to cut the EPA 2018 budget by 31%, by far the largest budget cut to any federal agency. The cut would result in a loss of 19% of the workforce or roughly 3,200 employees, through both staff buyouts and layoffs . [131] The choice to remove the Clean Power Plan , which was put in place to reduce carbon dioxide emissions chiefly from coal-fired Power Plants , would effectively eliminate Obama's efforts to curb climate change. This plan would also remove the $100 million allocated to fund research combating climate change. [132] The National Oceanic and Atmospheric Administration provides $250 million for programs which aid countries with high risk of impacts from rising and increasingly warm and acidic sea water levels. These programs would be eliminated under the new set of budget cuts. [133] If enacted, this would mean the elimination of up to 38 of the agency's programs. [131] Programs to be eliminated included the radon program, grants to clean up industrial sites (\" brownfields \"), climate change research, and the Office of Environmental Justice. [134] Trump's objectives include the lifting of regulations from various energy industries to boost domestic energy production. [135] Trump asked American manufacturers which regulations made production the most difficult. The industry leaders responded, and an overwhelming number of them recommended lifting restrictions related to the environment and workers' rights. [135] In an open letter to Scott Pruitt, Mustafa Ali, former head of the EPA's Environmental Justice Program who resigned in protest to Pruitt's budget cuts, expressed concerns with how the budget cuts will effect pollution in poor and minority neighborhoods. [136] The administration said it planned to refocus the EPA mission on clean water, air, and other core responsibilities. It also planned to delegate more of the EPA's enforcement activities to the states, while decreasing the amount of money given to states for that purpose by 30%. [134] Issues like greenhouse gas emissions would be trimmed significantly or eliminated from the budget. [137] On September 12, 2018, the Senate approved a so-called Minibus funding bill or Omnibus spending bill , which reduced the EPA's budget from $8.2 billion annually to $5.7 billion, a decrease of $2.5 billion or −31%. [138] The bill was expected to eliminate more than 50 programs and 3,200 jobs, discontinue funding for international climate-change programs, cut funding for the Office of Research and development in half, cut funding for the Superfund cleanup program and the Office of Enforcement and Compliance , and prioritizes drinking water and wastewater infrastructure projects. [139] [ needs update ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/People%27s_Climate_March_2017_in_Washington_DC_20_-_Middle_aged_couple_with_signs%2C_%22Resist_cuts_to_EPA_and_NIH.%22.jpg/220px-People%27s_Climate_March_2017_in_Washington_DC_20_-_Middle_aged_couple_with_signs%2C_%22Resist_cuts_to_EPA_and_NIH.%22.jpg",
+                "caption": "People's Climate March in Washington DC – 2017"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_policy_of_the_Donald_Trump_administration",
+        "title": "Environmental policy of the Donald Trump administration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Tongass National Forest",
+        "text": "In August 2019, Trump had instructed Agriculture Secretary Sonny Perdue to exempt Alaska's Tongass National Forest from logging restrictions established nearly 20 years ago during the Clinton administration.  The move opens it to potential logging and energy and mining projects.  Tongass is the world's largest intact temperate rainforest , containing old-growth cedar, hemlock and spruce, fjords and rivers with salmon runs.  It serves as an enormous natural carbon sink , holding an estimated 8% of all carbon stored in U.S. national forests. Unlike most other national forests, most of the forest is in a natural condition.  The Forest Service had finalized a plan to phase out old-growth logging in 2016 and Congress had designated more than 5.7 million acres of the forest as wilderness, not to be developed under any circumstances.  Should Trump's plan be successful, it could affect 9.5 million acres. [148] On September 25, 2020, the Trump administration submitted a revised environmental impact study which recommended a \"full exemption\" for the Tongass, opening the forest to more development and logging.  Responding, Andy Moderow of the Alaska Wilderness League said that Tongass plays an important role in helping to combat climate change noting that it \"stores more than 400 million metric tons of CO2 and sequesters an additional 3 million metric tons annually, equivalent to taking nearly 650,000 cars off the road each year.\" [149] In November 2021, the Biden administration announced they would start to reinstate the Roadless Rule, protecting about 9 million acres of Tongass National Forest.  In a statement Agriculture Secretary Tom Vilsack said, \"'Restoring the Tongas'’ roadless protections supports the advancement of economic, ecologic and cultural sustainability in Southeast Alaska in a manner that is guided by local voces\". [150]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MistyFjordsWaterfall.jpg/220px-MistyFjordsWaterfall.jpg",
+                "caption": "Misty Fjords Waterfall"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_policy_of_the_Donald_Trump_administration",
+        "title": "Environmental policy of the Donald Trump administration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Boundary Waters Canoe Area Wilderness",
+        "text": "The Boundary Waters Canoe Area Wilderness is a 1,090,000-acre (4,400 km 2 ) wilderness area in the state of Minnesota.  In 2018, the Trump administration cleared the way for renewed mineral leasing within the watershed of the BWCA.  The Obama administration had proposed a 20-year mining ban and asked for an environmental study based on concerns that mining in the Boundary Waters watershed could lead to irreversible harm to the BWCA. Environmentalists challenged the reversal of the decisions in federal court. [153] In January 2022, the Biden administration cancelled the mining leases granted by Trump saying that the department's Office of Solicitor ruled that they had been improperly renewed. [154]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bwca-and-wooden-canoe.jpg/220px-Bwca-and-wooden-canoe.jpg",
+                "caption": "Boundary Waters Canoe Area Wilderness"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_policy_of_the_Donald_Trump_administration",
+        "title": "Environmental policy of the Donald Trump administration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Bears Ears Monument",
+        "text": "Bears Ears National Monument , located in southeastern Utah , was established by presidential proclamation by Barack Obama in 2016. Five native American tribes urged Obama to create the monument to preserve about 9,000 recorded archaeological sites, including petroglyphs, woven cloth, human remains and ancient roads. In 2017 Donald Trump reduced it by 85%.  Members of the Navajo tribe in particular were integral to the monument's passage. A tribal spokesperson stated that a reduction in the size of the Bear's Ears Monument would be \"an attack on a significant part of the foundation of American conservation law.\" A different opinion was offered by Republican Utah state representative Mike Noel who sees a shrinking of the Bears Ears Monument as a victory over federal restrictions over mining and animal grazing. \"When you turn the management over to the tree-huggers, the bird and bunny lovers and the rock lickers, you turn your heritage over.\" [158] Legal scholars have argued that the reduction is not authorized by law and several federal lawsuits have been filed challenging Trump's action.  They contend that the Trump administration stacked the Federal Advisory Committee Act committee, which is supposed to be balanced and not unduly influenced by the financial interests of its members, with politicians and ranchers with a conflict of interest.  An attorney who works with Democracy Forward commented, \"The Bears Ears committee was designed to protect a treasure of the American West and stacking it with opponents of the monument could violate federal law.\" [162] (See update above)",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Indian-creek_and_Cliffside.jpg/220px-Indian-creek_and_Cliffside.jpg",
+                "caption": "Bridger Jack Butte (left) with the Sixshooter Peaks in the background. The names are listed in the presidential proclamation as \"Hoon'Naqvut, Shash Jáa, Kwiyagatu Nukavachi, Ansh An Lashokdiwe\", all four mean \"Bears Ears\""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_policy_of_the_Donald_Trump_administration",
+        "title": "Environmental policy of the Donald Trump administration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Opening the Arctic National Wildlife Refuge and North Slope to drilling",
+        "text": "The Trump administration tax bill passed in December 2017, including a provision introduced by Alaska senator Lisa Murkowski that required Interior Secretary Ryan Zinke to approve at least two lease sales for drilling in Alaska's Arctic National Wildlife Refuge (ANWR). Scientists, environmentalists and former Interior Department officials have warned that fossil fuel extraction in the ANWR could harm the landscape and the species that live there. [168] [169] In September 2019, the administration said they would like to see the entire coastal plain opened for gas and oil exploration, the most aggressive of the suggested development options.  The Interior Department's Bureau of Land Management (BLM) has filed a final environmental impact statement and plans to start granting leases by the end of the year. The area includes areas where caribou visit for calving and polar bears who have been driven to spend more of their time along the refuge's coastal plain due to melting ice caused by global warming have their dens.  There are concerns for the Indigenous populations as well because many of them rely on subsistence hunting and fishing.\nIn a review of the statement the U.S. Fish and Wildlife Service said the BLM's final statement underestimated the climate impacts of the oil leases because they viewed global warming as cyclical rather than human-made.  The administration's plan calls for \"the construction of as many as four places for airstrips and well pads, 175 miles of roads, vertical supports for pipelines, a seawater-treatment plant and a barge landing and storage site.\" [9] [170] On August 17, 2020, the Trump Administration finalized and announced its decision to open the ANWR to drilling. [171] [172] Interior Secretary David Bernhardt , formerly an oil industry lobbyist, said that the administration's oil and gas leasing program could \"create thousands of jobs\" and \"mark a new chapter in American energy independence.\" Due to the ongoing coronavirus pandemic, the market for oil had collapsed, bringing historically low prices, and since Trump took office in 2017, there had been an increased awareness of the need to combat global warming, it was unlikely that any drilling would soon begin. However, Trump's decision had been seen as a way to make the opening of the region to drilling harder to undo should a new administration be voted in during the November 2020 presidential election. [173] In January 2021 President Trump finalized legislation to allow drilling in 18.6 million acres in the Alaska North Slope (see map above) along the Arctic Ocean. Tribal and environmental groups warned that expanding drilling will potentially imperil wildlife and Native Alaskans who count on caribou hunting for sustenance. [174] In June 2021,`the Biden Administration suspended all drilling in the Arctic National Wildlife Refuge and the North Slope. [175]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NPRA_F1lg.gif/220px-NPRA_F1lg.gif",
+                "caption": "A map of northern Alaska ; the dotted line shows the southern boundary of the North Slope. Alaska is to the west, the Arctic National Wildlife Refuge to the east, and Prudhoe Bay is between them."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Area_1002_caribou_herd.jpg/220px-Area_1002_caribou_herd.jpg",
+                "caption": "Caribou herd at the Arctic National Wildlife Refuge"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Polarbearsfamily.jpg/220px-Polarbearsfamily.jpg",
+                "caption": "Polar bear sow and two cubs on the Beaufort Sea coast, Arctic National Wildlife Refuge"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_policy_of_the_Donald_Trump_administration",
+        "title": "Environmental policy of the Donald Trump administration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Mexico border wall concerns",
+        "text": "President Donald Trump's signature campaign promise was the construction of a big wall on the southern border. The administration has described the project as including a 30 ft-tall concrete and steel \"big, beautiful wall\", a 150 ft 'enforcement zone' which will be kept clear of vegetation, and a road. Critical habitats are on the border with Mexico in California, Arizona, New Mexico and Texas. The Endangered Species Act of 1973 and candidates for that list from the United States Fish and Wildlife Service includes ninety-three species whose ranges are near or cross the border. [184] Trump's proposed border wall will block the movement of threatened wildlife and interfere with the movement of animals in response to climate change and could prevent genetic exchange . [185] Among the threatened species are the jaguar (the largest cat native to North America), the ocelot (30 lb [14 kg] cats that could be making a comeback), the Mexican wolf (the smallest Gray Wolf in North America), the Sonoran pronghorn (related to giraffes, they can run 60 mph [97 km/h] and are North America's fastest land mammals), the tiny cactus ferruginous pygmy owl (who fly at about 4.5 to 13 ft [1.4–4.0 m], lower than the wall), and the Quino checkerspot butterfly (who fly no higher than 6 to 8 ft [1.8–2.4 m]). [184] In July 2018, citing \"bypassed environmental laws, habitat destruction, and losses to conservation and scientific research\", in a report published in the scientific journal BioScience thousands of scientists \"expressed alarm\" over the expansion of the U.S.-Mexico border wall. The report has 16 co-authors and as of July 24, 2,700, signatures from almost 50 countries. [186] In December 2018, the U.S. Supreme Court issued a ruling which allowed the Trump administration to waive federal environmental protection laws to construct a border wall cutting through the National Butterfly Center in Mission, Texas. The center has been called the most diverse butterfly sanctuary in the country. Habitat restoration has also attracted birds which can not be seen anywhere else in the continental U.S. The wall will also slice through the Santa Ana National Wildlife Refuge and the Bentsen-Rio Grande Valley State Park . [187]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Male_Jaguar%E2%80%93Photo_Courtesy_of_UA-USFWS_%2817841490874%29.jpg/220px-Male_Jaguar%E2%80%93Photo_Courtesy_of_UA-USFWS_%2817841490874%29.jpg",
+                "caption": "Male jaguar from the Santa Rita Mountains , Arizona, in 2015"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_policy_of_the_Donald_Trump_administration",
+        "title": "Environmental policy of the Donald Trump administration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Yellowstone grizzly",
+        "text": "Grizzly bears in the Lower 48 States were placed on the endangered list in 1975 because they had lost 98 percent of their historical range and the Yellowstone-area population had dropped to fewer than 140 bears. In June 2017, the Trump administration announced a decision to remove protections for Yellowstone grizzly bears under the Endangered Species Act. [188] [189] They argued that the population had sufficiently recovered from the threat of extinction, however numerous conservation and tribal organizations argued that the grizzly population remained genetically vulnerable.  Numerous tribes revere the grizzly as sacred and they and environmentalists expressed fears about trophy hunts, livestock and logging interests, and the gas, coal, and oil extraction industries. They sued the administration ( Crow Tribe et al v. Zinke ) and in September 2018 they won their lawsuit and on July 30, 2019, the Yellowstone grizzly was officially returned to federal protection.  At a hearing on August 1, 2019, Congresswoman Liz Cheney , Republican from Wyoming which is one of the states affected by the ruling, stated that the successful litigation by the tribes and environmentalists \"was not based on science or facts\" but motivated by plaintiffs \"intent on destroying our Western way of life.\" [190] [191]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Yellowstone_Grizzly_-_panoramio.jpg/220px-Yellowstone_Grizzly_-_panoramio.jpg",
+                "caption": "Yellowstone grizzly"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_policy_of_the_Donald_Trump_administration",
+        "title": "Environmental policy of the Donald Trump administration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Endangered gray wolves",
+        "text": "In October 2020 the Trump administration announced that they had removed grey wolves from the endangered species list. [196] Grey wolves were put on the list in 1967 when only 1000 remained in the Lower 48 states and at this time there are less than 8,000, mostly in three Midwestern states—Minnesota, Wisconsin, and Michigan.  Conservationists say that the population remains severely depleted in thousands of acres of historical wolf habitat areas in states such as Washington, California, and Oregon.  They criticized the removal saying that the agency had not considered the impact that illegal hunting could have on the wolf population and concerns that in some isolated areas without connections to the larger populations they may be unable to survive. [197] In February 2022, a federal judge restored grey wolf protections in 45 states saying the US Fish and Wildlife Service  \"failed to adequately analyze and consider the impacts of partial delisting and of historical range loss on the already-listed species.\" [198]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Black_and_grey_wolf_%28female_from_Druid_pack%2C_%22Half_Black%22%29_walking_in_snow_near_Lamar_River_bridge_%2816054296980%29.jpg/220px-Black_and_grey_wolf_%28female_from_Druid_pack%2C_%22Half_Black%22%29_walking_in_snow_near_Lamar_River_bridge_%2816054296980%29.jpg",
+                "caption": "Grey wolf – photographed in Yellowstone National Park"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_policy_of_the_Donald_Trump_administration",
+        "title": "Environmental policy of the Donald Trump administration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Climate change",
+        "text": "Although in the scientific literature there is overwhelming scientific consensus that global surface temperatures have increased in recent decades and that the trend is caused by human-induced emissions of greenhouse gases, neither Trump nor any of the department heads he has appointed believe that global warming is human-related. Speaking in a 2017 interview he stated, \"You have scientists on both sides of it. My uncle was a great professor at MIT for many years, Dr. John Trump, and I didn't talk to him about this particular subject, but I have a natural instinct for science, and I will say that you have scientists on both sides of the picture.\" Calling himself \"an environmentalist\", he said, \"Everything I want and everything I have is clean. Clean is very important – water, air. I want absolutely crystal clear water and I want the cleanest air on the planet and our air now is cleaner than it's ever been. Very important to me.\" [264] Following Trump's election large amounts of climate information from the EPA website was altered or removed. There was widespread concern among environmentalists and scientists and a coalition of scientific and academic groups began to make copies of the EPA web pages before they were deleted. According to the Environmental Data & Governance Initiative which tracks changes to government websites under the Trump administration, over 200 web pages providing climate information were omitted during Trump's first year in office. Other pages were altered to remove mentions of climate and climate change. [265] In August 2017, the Trump administration rolled back regulations that required the federal government to account for climate change and sea-level rise when building infrastructure. [266] Responding to a 2018 government-funded study which warned of potentially catastrophic climate change impacts , Trump said he had read part of the report but did not believe it. [10] In May 2019, The New York Times reported that the White House-appointed director of the United States Geological Survey (USGS), James Reilly , who has background in petroleum geology, ordered that the USGS only project impacts of climate change to 2040, instead of their previous practice of projecting to 2099. Thus, according to the Times , the 2022 National Climate Assessment, or other government reports on science, will not automatically include \"such worst-case scenario projections\". Models show that carbon emissions will only significantly change Earth's rate of warming around 2050. The Times also reported that the Trump administration is also planning to create a climate change review panel headed by William Happer , who is presently serving on Trump's United States National Security Council . Happer has repeatedly publicly stated, \"the demonization of carbon dioxide is just like the demonization of the poor Jews under Hitler.\" [70] [267] [268] In June 2019, Trump's White House reportedly tried to prevent a State Department intelligence analyst, Rod Schoonover, from testifying to Congress about \"possibly catastrophic\" effects of human-caused climate change. Trump's White House reportedly prevented Schoonover's written testimony from being included in the official Congressional Record because it \"doesn't reflect the coordinated [intelligence committee] position, or the administration's position\". The National Security Council offered many criticisms of Schoonover's testimony, including a comment that \"a consensus of peer reviewed literature has nothing to do with the truth.\" The New York Times quoted two anonymous sources as saying that the comments came from William Happer , a denier of the scientific consensus on global warming. The White House Office of Legislative Affairs also reportedly proposed removing five pages of testimony about the \"Scientific Baseline\" regarding climate change and the \"Stresses to Human and Societal Systems\" posed by climate change. [271] [272] Schoonover resigned July 2019. [273] In 2020, looking back at the Trump administration's first term policy changes, some environmentalists believe that a second Trump term would mean severe and irreversible changes in the climate. [274] During the summer of 2020 numerous large fires burned thousands of acres with the loss of many homes and lives.  Scientists report that they are related to climate changes which have increased the likelihood of more fires that will burn more widely and intensely than in the past. [275] Trump was briefed in September on the status of fires in California–more than two dozen were burning at that time.  Wade Crowfoot, California's secretary for natural resources and other officials repeatedly urged him to consider the role of global warming.  Trump replied, \"It'll start getting cooler. You just—you just watch\" and Crowfoot replied, \"I wish science agreed with you.\"  Trump replied, \"Well, I don't think science knows, actually.\" [276] The Sabin Center for Climate Change listed 175 deregulations made by the Trump administration. [277]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/20201211_Billion_dollar_events_related_to_climate_change_-_U.S._-en.svg/330px-20201211_Billion_dollar_events_related_to_climate_change_-_U.S._-en.svg.png",
+                "caption": "NOAA's National Centers for Environmental Information (NCEI) has reported growing numbers of weather and climate-related events costing at least a billion dollars, [261] exceeding the 1980–2019 inflation-adjusted average of 6.6 such events. [262]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/2009-_Pew_survey_-_is_climate_change_a_major_threat%2C_by_political_party.svg/330px-2009-_Pew_survey_-_is_climate_change_a_major_threat%2C_by_political_party.svg.png",
+                "caption": "Democrats and Republicans differ in views of the seriousness of climate change, with the gap widening in the 2010s [269] and Democrats more than three times as likely to view it as a major threat. [270]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_policy_of_the_Donald_Trump_administration",
+        "title": "Environmental policy of the Donald Trump administration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Policy and regulation",
+        "text": "The Energy Market Regulatory Authority was created in 2001.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CO2_emissions_Turkey.svg/220px-CO2_emissions_Turkey.svg.png",
+                "caption": "Development of carbon dioxide emissions"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_in_Turkey",
+        "title": "Energy in Turkey",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Security of supply",
+        "text": "Turkey meets a quarter of its energy demand from national resources. [27] The Centre for Economics and Foreign Policy Studies (EDAM), a think tank , says that in the 2010s, fossil fuel imports were probably the largest structural vulnerability of the country's economy: [28] they cost $41 billion in 2019 representing about a fifth of Turkey's total import bill, [29] and were a large part of the 2018 current account deficit [30] and the country's debt problems . Although the country imports 99% of its natural gas and 93% of the petroleum it uses, [31] in the early 2020s fossil gas supply was diversified to reduce dependence on Russia. [32] To secure energy supply, the government built new gas pipelines, [28] and regasification plants. For example, gas supplies from Azerbaijan surpassed those from Russia in 2020. [32] There is a large surplus of electricity generation capacity, [33] however the government aims at meeting the forecast increase in demand for electricity in Turkey by building its first nuclear power plant and more solar , wind , hydro and coal-fired power plants. [34] The International Climate Initiative says that, as an oil importer, Turkey can increase security of supply by increasing the proportion of renewable electricity it produces. [27] The International Energy Agency has suggested a carbon market , [35] and EDAM says that in the long term, a carbon tax would reduce import dependency by speeding development of national solar and wind energy. [36] Because the Turkish government is very centralised, [37] its energy policy is national. Lack of transmission capacity was one cause of the nationwide blackout in 2015 , therefore policy includes improving electricity transmission. [38] As well as natural gas storage and regasification plants to convert imported liquid natural gas (LNG) to natural gas, [39] the government supports pumped-storage hydroelectricity for long term energy storage. [40] In 2020, renewables generated 40% of Turkey's electricity, which reduced gas import costs: but, being mainly hydroelectricity , the amount that can be produced is vulnerable to drought. [41] According to Hülya Saygılı, an economist at Turkey's central bank , although imports of solar and wind power components accounted for 12% of import costs in 2017, in EU countries this is largely due to one-time setup costs. She said that compared with Italy and Greece, Turkey has not invested enough in solar and wind power. [42]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Primary_energy_supply_in_Turkey.svg/310px-Primary_energy_supply_in_Turkey.svg.png",
+                "caption": "Primary energy supply in Turkey (2014–2020) [26]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_in_Turkey",
+        "title": "Energy in Turkey",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Energy efficiency",
+        "text": "The National Energy Efficiency plan aims to decrease Turkey's energy intensity —the energy required to produce ₺1 ( Turkish lira ) of GDP—to the OECD average by 2023. [43] Despite the Energy Efficiency Law and a target to reduce its energy intensity by at least 20% between 2011 and 2023; between 2005 and 2015, Turkey's energy intensity increased by seven per cent. [35] According to one study, if energy policy was changed—most importantly the removal of fossil fuel subsidies —at least 20% of energy costs could be saved, [44] and according to the Chamber of Mechanical Engineers, the energy required for buildings could be cut by half. [19] In 2019, Energy Minister Fatih Dönmez said that improvement of the energy efficiency of public buildings should take the lead and that efficiency improvements are an important source of jobs. [45] It has been suggested that more specific energy efficiency targets for buildings are needed. [46] According to the Ministry of Energy and Natural Resources , Turkey has the potential to cut 15% to 20% of total consumption through energy conservation. [47]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/KarabukGES.jpg/220px-KarabukGES.jpg",
+                "caption": "Karabuk Solar Energy Farm"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_in_Turkey",
+        "title": "Energy in Turkey",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Energy transition",
+        "text": "The World Bank has estimated the cost and benefits, but has suggested government do far more detailed planning. [85] 60,000 people are employed as of 2020 [update] and it is estimated employment could be boosted to 80,000 if rooftop solar is boosted. [86] According to the International Renewable Energy Agency and academic study, increasing the share of renewable energy could make the country more energy independent and increase employment [87] especially in Turkey's solar PV and solar heating industries. [88] SHURA Energy Transition Center said in 2018 that a plan for solar power in Turkey beyond 2023 is needed. [89] In an attempt to reduce fossil fuel imports the government supports local production of electric cars and solar cells . [90] Some academics say that funding for renewables such as wind should be decentralized. [91] For three decades from 1990, carbon intensity remained almost constant around 61 tCO2/TJ (tons of carbon dioxide per terajoule). [2] Nuclear safety regulations and human resources could be improved [92] by cooperation with Euratom ( European Atomic Energy Community). [35] In 2018, a new regulator was set up for nuclear power safety, and $0.15 per kWh of generated electricity will be set aside for waste management. [93]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wind_turbines_on_Nurda%C4%9F%C4%B1_02.jpg/220px-Wind_turbines_on_Nurda%C4%9F%C4%B1_02.jpg",
+                "caption": "A wind farm in Gaziantep Province"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_in_Turkey",
+        "title": "Energy in Turkey",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Economics",
+        "text": "Turkey's energy trade deficit was over $US80 billion in 2022, [100] causing a large foreign trade deficit. [101] Europe supports energy efficiency and renewable energy via the €1 billion Mid-size Sustainable Energy Financing Facility (MidSEFF) to finance investments in these areas. [35] [102] Energy subsidies amounted to 200 billion lira in 2021. [103] Up to 150kWh per month of free electricity is provided to two million poor families. [104] Fatih Birol , the head of the International Energy Agency said in 2019 that, because of its falling price, the focus should be on maximizing onshore wind power in Turkey. [105] The economics of coal power has been modelled by Carbon Tracker . [106] They estimate that for new plants both wind and solar is already cheaper than coal power. [107] And they forecast that existing coal plants will be more expensive than new solar by 2023 and new wind by 2027. [107] Most energy deals in 2019 were for renewables, and over half the investment in these was from outside the country. [108] The external costs of fossil fuel consumption in 2018 has been estimated as 1.5% of GDP. [109] The government sets the price of residential gas and electricity, [110] and as of 2018 [update] , for residential consumers, \"high cost is the most important problem of Turkey's energy system\". [111] In 2022 the energy import bill was 97 billion USD. Keeping consumer prices low is a political priority. [100]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Renewable_energy_increases_employment_in_Turkey.jpg/290px-Renewable_energy_increases_employment_in_Turkey.jpg",
+                "caption": "According to some studies a coal-phase out in favour of renewable energy would increase employment. [98] [99]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_in_Turkey",
+        "title": "Energy in Turkey",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Coal",
+        "text": "Coal supplies over a quarter of Turkey's primary energy. [112] Every year, thousands of people die prematurely from coal-related causes, the most common of which is local air pollution . Most coal mined in Turkey is lignite (brown coal), which is more polluting than other types of coal. [113] Turkey's energy policy encourages mining lignite for coal-fired power stations to reduce gas imports ; [114] and coal supplies over 40% of domestic energy production. [115] Mining peaked in 2018, at over 100 million tonnes, [116] and declined considerably in 2019. [20] In contrast to local lignite production, Turkey imports almost all of the bituminous coal it uses. The largest coalfield in Turkey is Elbistan . [117]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tufanbeyli_Termik_Santrali.jpg/220px-Tufanbeyli_Termik_Santrali.jpg",
+                "caption": "Tufanbeyli coal-fired power station, Adana"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_in_Turkey",
+        "title": "Energy in Turkey",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Nuclear",
+        "text": "There is no nuclear power in Turkey yet, but Akkuyu Nuclear Power Plant is being built and is expected to start selling power in 2023. The nuclear power debate has a long history, with the 2018 construction start in Mersin Province being the sixth major attempt to build a nuclear power plant since 1960. [138] Plans for a nuclear plant in Sinop and another at İğneada have stalled. [139]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Turkey_adm_location_map.svg/350px-Turkey_adm_location_map.svg.png",
+                "caption": "class=notpageimage| Nuclear power stations in Turkey ( view ) Under construction Proposed"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_in_Turkey",
+        "title": "Energy in Turkey",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Renewable energy",
+        "text": "Although there are plenty of renewable resources for energy in Turkey, [141] only hydropower has been developed to any degree, supplying an average of about 20% of Turkey's national electricity supply. [89] with other renewables supplying 12%. [142] However, due to drought in Turkey , hydro has supplied less electricity than usual in recent years, [143] compared to around a third in a wet year. [144] Turkey has invested less in solar and wind power than similar Mediterranean countries. [143] Turkey is a net exporter of wind power equipment, but a net importer of solar power equipment. [145] By greatly increasing its production of solar power in the south and wind power in the west, the country's entire energy demand could be met from renewable sources by 2050. [146]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TR_Izmir_asv2020-02_img01_Basmane_Station.jpg/220px-TR_Izmir_asv2020-02_img01_Basmane_Station.jpg",
+                "caption": "Solar panels on an İzmir train station roof: the country has the potential to get a large part of its energy from the sun."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_in_Turkey",
+        "title": "Energy in Turkey",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Petroleum",
+        "text": "The US bans energy imports from countries such as Russia (because of the Russo-Ukrainian War ) [78] and Venezuela . [79] The US also limits exports of oil from Iran . [80] Although it is a net exporter, the US imports energy from multiple countries, led by Canada.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Oil_imports_by_country.webp/300px-Oil_imports_by_country.webp.png",
+                "caption": "United States oil product imports by country"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_policy_of_the_United_States",
+        "title": "Energy policy of the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Sources",
+        "text": "In 2021, energy in the United States came mostly from fossil fuels : 36% originated from petroleum , 32% from natural gas , and 11% from coal . [102] Renewable energy supplied the rest: hydropower , biomass , wind , geothermal , and solar supplied 12%, while nuclear supplied 8%. [102]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gulf_Offshore_Platform.jpg/220px-Gulf_Offshore_Platform.jpg",
+                "caption": "An offshore oil platform"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Circle_frame.svg/220px-Circle_frame.svg.png",
+                "caption": ""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_policy_of_the_United_States",
+        "title": "Energy policy of the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Renewable energy",
+        "text": "In the United States, the share of renewable energy in electricity generation has grown to 21% by 2020. [110] Oil use is expected to decline in the US because of increasing vehicle efficiency and replacement of crude oil by natural gas as a feedstock for the petrochemical sector. One forecast is that the rapid uptake of electric vehicles will reduce oil demand drastically by 80% lower in 2050 compared with today. [111] A Renewable Portfolio Standard (RPS) is a state/local mandate that requires electricity providers to supply a minimum amount of power from renewable sources, usually defined as a percentage of total energy production. [112]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Shepherds_Flat_Wind_Farm_2011.jpg/139px-Shepherds_Flat_Wind_Farm_2011.jpg",
+                "caption": "The Shepherds Flat Wind Farm is an 845 megawatt (MW) wind farm in the U.S. state of Oregon ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TeslaRoadster-front.jpg/220px-TeslaRoadster-front.jpg",
+                "caption": "Tesla Roadster (2008) uses lithium ion batteries to achieve 220 mi (350 km) per charge, while also capable of going 0–60 in under 4 seconds."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_policy_of_the_United_States",
+        "title": "Energy policy of the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Electricity transmission and distribution",
+        "text": "Electric power transmission results in energy loss, through electrical resistance , heat generation, electromagnetic induction and less-than-perfect electrical insulation . [123] Electric transmission (production to consumer) loses over 23% of the energy due to generation, transmission, and distribution. [124] In 1995, long distance transmission losses were estimated at 7.2% of the power transported. [125] Reducing transmission distances reduces these losses. For every five units of energy going into typical large fossil fuel power plants, only about one unit reaches the consumer in a usable form. [126] A similar situation exists in natural gas transport, which requires compressor stations along pipelines that use energy to keep the gas moving. Gas liquefaction, cooling, and re-gasification in the liquified natural gas supply chain uses a substantial amount of energy. Distributed generation and distributed storage are means of reducing total and transmission losses as well as reducing costs for electricity consumers. [127] [128] [129] In October 2023, the Biden administration announced the largest major investment in the grid since the Recovery Act in 2009. [130] [131] The DOE announced the results of a mandated triennial study that, for the first time in its history, included anticipation of future grid transmission needs. The DOE also announced the first three recipients of a new $2.5 billion loan program which it called the Transmission Facilitation Program, created to provide funding to help build up the interstate power grid. They are the 1.2-gigawatt Twin States Clean Energy Link between Quebec, New Hampshire and Vermont; the 1.5-gigawatt Cross-Tie Transmission Line between Utah and Nevada; and the 1-gigawatt Southline Transmission Project between Arizona and New Mexico. [132] The Federal Energy Regulatory Commission (FERC) is the primary regulatory agency of electric power transmission and wholesale electricity sales within the United States. FERC was originally established by Congress in 1920 as the Federal Power Commission and has since undergone multiple name and responsibility modifications. Electric power distribution and the retail sale of power is under state jurisdiction.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/UnitedStatesPowerGrid.jpg/220px-UnitedStatesPowerGrid.jpg",
+                "caption": "The US power transmission grid consists of about 300,000 km (190,000 mi) of lines operated by approximately 500 companies. The North American Electric Reliability Corporation (NERC) oversees all of them."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_policy_of_the_United_States",
+        "title": "Energy policy of the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Greenhouse gas emissions",
+        "text": "While the United States has cumulatively emitted the most greenhouse gases of any country, it represents a declining fraction of ongoing emissions, long superseded by China. [162] [163] Since its peak in 1973, per capita US emissions have declined by 40%, resulting from improved technology, the shift in economic activity from manufacturing to services, changing consumer preferences and government policy. [164] State and local government have launched initiatives. Cities in 50 states endorsed the Kyoto protocol. [165] Northeastern US states established the Regional Greenhouse Gas Initiative (RGGI), [166] a state-level emissions cap and trade program. On February 16, 2007, the United States, together with leaders from Canada , France , Germany , Italy , Japan , Russia , United Kingdom , Brazil , China , India , Mexico and South Africa agreed in principle on the outline of a successor to the Kyoto Protocol known as the Washington Declaration . They envisaged a global cap-and-trade system that would apply to both industrialized nations and developing countries . [167] [168] The system did not come to pass. Arjun Makhijani argued that in order to limit global warming to 2 °C, the world would need to reduce CO 2 emissions by 85% and the US by 95%. [169] [170] [171] He developed a model by which such changes could occur. Effective delivered energy is modeled to increase from about 75 Quadrillion Btu in 2005 to about 125 Quadrillion in 2050, [172] but due to efficiency increases, the actual energy input increases from about 99 Quadrillion Btu in 2005 to about 103 Quadrillion in 2010 and then will decrease to about 77 Quadrillion in 2050. [173] Petroleum use is assumed to increase until 2010 and then linearly decrease to zero by 2050. The roadmap calls for nuclear power to decrease to zero, with the reduction also beginning in 2010. [174] Joseph Romm called for the rapid deployment of existing technologies to decrease carbon emissions. He argued that \"If we are to have confidence in our ability to stabilize carbon dioxide levels below 450 p.p.m. emissions must average less than [5 billion metric tons of carbon] per year over the century. This means accelerating the deployment of the 11 wedges so they begin to take effect in 2015 and are completely operational in much less time than originally modeled by Socolow and Pacala .\" [175] In 2012, the National Renewable Energy Laboratory assessed the technical potential for renewable electricity for each of the 50 states. It concluded that each state had the technical potential for renewable electricity, mostly from solar and wind, that could exceed its current electricity consumption. The report cautions: \"Note that as a technical potential, rather than economic or market potential, these estimates do not consider availability of transmission infrastructure, costs, reliability or time-of-dispatch, current or future electricity loads, or relevant policies.\" [176] In 2022, the EPA received funding for a green bank called the Greenhouse Gas Reduction Fund to drive down carbon dioxide emissions, as part of the Inflation Reduction Act , the largest decarbonization incentives package in U.S. history. [60] [61] The Fund will award $14 billion to a select few green banks nationwide for a broad variety of decarbonization investments, $6 billion to green banks in low-income and historically disadvantaged communities for similar investments, and $7 billion to state and local energy funds for decentralized solar power in communities with no financing alternatives. [177] [178] The EPA set the deadline to apply for the first two award initiatives at October 12, 2023 [179] and the latter initiative at September 26, 2023. [180]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20210626_Variwide_chart_of_greenhouse_gas_emissions_per_capita_by_country.svg/300px-20210626_Variwide_chart_of_greenhouse_gas_emissions_per_capita_by_country.svg.png",
+                "caption": "Though China has the greatest total annual carbon dioxide emissions, the U.S. exceeds China in per capita emissions. [161]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Co-emissions-per-capita-map.png/300px-Co-emissions-per-capita-map.png",
+                "caption": "CO 2 emissions per capita , per year, per country, 2021"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_policy_of_the_United_States",
+        "title": "Energy policy of the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Climate change mitigation policies",
+        "text": "The final target of the administration is reaching carbon neutrality in the United States by 2050. [34] Joe Biden sees climate change as an \"existential threat\", [35] a view supported by most in the scientific community. [36] [37] [38] During his inauguration, Biden said: \"A cry for survival comes from the planet itself, a cry that can't be any more desperate or any more clear.\" However, some activists have criticized the administration's policies for being insufficient to prevent catastrophic climate change. [39] Democratic control of the United States Congress raises the chances that the administration will be able to pass climate-related legislation, although members like Senator Joe Manchin hold key voting positions and could block proposed bills from passing the Senate. [40] Biden's climate plan changed significantly in 2020. In the beginning, it was criticized by many environmental groups as not being aggressive enough or even being detrimental contrary to prior stances on climate. [41] Biden consulted with them, mainly through the Biden-Sanders Unity Task Forces , and included many of their recommendations in his plans, after which it received more support. [42] The administration set a target of achieving zero emissions from the power sector by 2035. [43] Other sectors with considerable emissions are agriculture and construction . Biden's climate plan includes a strong increase in green building . According to the plan, 4 million buildings in the United States should be upgraded, as well as 2 million weatherized in the next 4 years. [44] This is expected to create 1 million green jobs. The entire climate plan is expected to create 10 million green jobs. [45] This number is smaller than other proposals like the Green New Deal , which claims to guarantee a job for every American. [46] [47] Biden ordered the director of national intelligence Avril Haines to prepare a report about the impacts of climate change. Biden also included John Kerry – the Climate Envoy – in the National Security Council . He created a National Climate Task Force and the White House Office of Domestic Climate Policy. He said: \"In my view, we've already waited too long to deal with this climate crisis and we can't wait any longer. We see it with our own eyes, we feel it, we know it in our bones.\" and \"it's time to act\". He also mentioned that climate action is linked with other aspects of his agenda such as health, jobs, and security. [35] As of August 2021, some calculations suppose that the infrastructure bill, the budget reconciliation bill, if passed, will cut emissions by 45% by 2030. [ needs update ] Administrative orders from Biden and some states should increase the reduction to 50%. [48] In September 2021, the EPA planned to issue its final rule to reduce hydrofluorocarbon (HFC) emissions by 85% within 15 years. HFCs are greenhouse gases that are thousands of times more potent than CO 2 . [49] In December 2021, Biden signed an executive order directing the US government to cut its own emission by 65% by 2030 with different measures including energy efficiency, electric vehicles and renewable energy. [50]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/President_Joe_Biden_at_COP26.jpg/220px-President_Joe_Biden_at_COP26.jpg",
+                "caption": "Biden at the opening ceremony of the COP26 climate summit in Glasgow , Scotland on November 1, 2021"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_policy_of_the_Joe_Biden_administration",
+        "title": "Environmental policy of the Joe Biden administration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Paris climate agreement",
+        "text": "Upon his first hours in office on January 20, 2021, President Biden signed an executive order bringing the United States back into the Paris Climate Agreement , after President Trump announced the country's withdrawal in 2017. [379] The move was welcomed by environmental groups and by the Union of Concerned Scientists . [51] [380] The Secretary-General of the United Nations , António Guterres , congratulated Biden, stating that with the United States rejoining the agreement, the countries responsible for two-thirds of the global greenhouse gas emission will have made pledges to become carbon neutral. Without the United States, it was only half. [381] President of France Emmanuel Macron congratulated Biden saying, 'Welcome back to the Paris Agreement!' [34] In February 2021, The United States officially rejoined the Paris Agreement. Speaking about the occasion, John Kerry mentioned the urgent need to act on climate change in the next 10 years, the impact that climate change will have on the future, and the impacts that it is already having, such as the latest extreme cold events in the USA that in his opinion is \"related to climate because the polar vortex penetrates further south because of the weakening of the jet stream related to warming.\" This opinion is shared by many climate scientists. [382] [383] One week after Biden became president, he also began the process of creating a special plan for providing financial help for low-income countries in addressing issues related to climate change mitigation and climate change adaptation . [353] In February 2021, Biden issued an order to begin the process of identification of climate refugees and finding ways to help those people. [384] [385] The Biden administration is urging China to speed up its commitment to becoming carbon neutral, with John Kerry saying that its pledge to reach net-zero emissions by 2060 is \"not good enough\". [386]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/John_Kerry_and_Ruslan_Edelgeriyev_in_Moscow_%281%29.jpg/220px-John_Kerry_and_Ruslan_Edelgeriyev_in_Moscow_%281%29.jpg",
+                "caption": "John Kerry (right), U.S. Special Presidential Envoy for Climate , and his Russian counterpart Ruslan Edelgeriyev in Moscow on July 12, 2021 [4]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_policy_of_the_Joe_Biden_administration",
+        "title": "Environmental policy of the Joe Biden administration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "United Nations climate summits",
+        "text": "In November 2021, world leaders met at the 2021 United Nations Climate Change Conference (COP26) to negotiate goals to reduce global warming. While there was some progress, it is believed that the agreements reached are not sufficient to avoid the worst damage. [392] Developing countries, which have already faced hardships due to intense droughts and flooding, asked that developed countries, largely responsible for global warming, establish a fund to help them cope.  The more well-to-do nations, including the U.S., refused. One of the successes of the conference was the US - China agreement on fighting climate change together. The framework includes commitments to: At the conference, 40 countries, including the U.S. and five institutions promised to stop financing carbon intensive projects abroad by the end of the year 2022. [394] At the conference US and UAE launched an initiative named \"the Agriculture Innovation Mission for Climate (AIM for Climate)\". In February 2022 the US gave 1 billion dollars to GHG emissions, cutting from its agricultural sector what can be considered as part of the implementation. The initiative needs another 8 billion dollars for being implemented as well. [395]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/John_Kerry_joins_Joe_Biden_at_the_First_Movers_Coalition_of_COP26.jpg/220px-John_Kerry_joins_Joe_Biden_at_the_First_Movers_Coalition_of_COP26.jpg",
+                "caption": "John Kerry joins Joe Biden at the First Movers Coalition of COP26"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Environmental_policy_of_the_Joe_Biden_administration",
+        "title": "Environmental policy of the Joe Biden administration",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Consumption per person",
+        "text": "Electricity consumption per person (per capita) is based upon data mined from US DOE Energy Information Administration/Electric Power Annual 2022 files [11] Population [12] data is from Demographics of the United States . Per capita consumption in 2022 is 12,809 kWh. This is up 351 kWh from 2021 and down 1.8% from a decade ago and down 7.2% from its peak in 2007. The following table shows the yearly US per capita consumption by fuel source from 1999 to 2022. The following table used the first column from the Demographics of the United States#Vital statistics table for population, and generation from Electric Power Annual. Technically this means that \"consumption\" includes transmission losses, etc., because the values in the table were all calculated from table ES1. Summary Statistics for the United States. Also since 2016 the small scale solar estimate is included in the solar contribution.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/US_per_Capita_Consumption.jpg/220px-US_per_Capita_Consumption.jpg",
+                "caption": "US per Capita Consumption kWh/yr"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_of_the_United_States",
+        "title": "Electricity sector of the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Electricity generation",
+        "text": "In 2022, utility scale installed electricity generation summer capacity [15] in the United States was 1161.43 gigawatts (GW), up 15.57 GW from 2021. The main energy sources for electricity generation include Actual USA utility scale electricity generation [16] in 2022 was 4230.723 terawatt-hours (TWh) and was up 134.883 TWh (3.29%) from 2021. The USA also imported 56.97 TWh and exported 15.758 TWh:[16] making a total of 4271.88 TWh for consumption, up 114.78 TWh (2.78%) from 2021. Electricity generation was primarily from the following sources: The share of coal and nuclear in energy generation is much higher than their share in installed capacity, because coal and nuclear plants provide base load and thus are running longer hours than natural gas and petroleum plants which typically provide peak load , while wind turbines and solar plants produce electricity when they can and natural gas fills in as required to compensate. The following tables summarize the electrical energy generated by fuel source for the United States. Electric Power Annual [20] for 2022 data.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Power_plants_map.png/440px-Power_plants_map.png",
+                "caption": "Current power plants map from the U.S. Energy Information Administration"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_of_the_United_States",
+        "title": "Electricity sector of the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Nuclear power",
+        "text": "As of 2007 in the United States, there are 104 commercial nuclear reactors in the US, generating approximately 20% of the nation's total electric energy consumption. For many years, no new nuclear plants have been built in the US. However, since 2005 there has been a renewed interest in nuclear power in the US. This has been facilitated in part by the federal government with the Nuclear Power 2010 Program of 2002. [24] and the Energy Policy Act . [25] [26] As of March 9, 2009, the U.S. Nuclear Regulatory Commission had received applications for permission to construct 26 new nuclear power reactors [27] However, as of 2013 most of the new applications had been abandoned due to the low cost of electricity generated with natural gas which had become available at cheap prices due to the boom in hydraulic fracturing ; electricity produced using natural gas being 4 cents per kilowatt-hour versus 10 cents, or more, for nuclear. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/10_Yr_Nuclear_Generated_Electric_Energy_Profile_2022-2012.jpg/220px-10_Yr_Nuclear_Generated_Electric_Energy_Profile_2022-2012.jpg",
+                "caption": "10 Yr Nuclear Generated Electric Energy Profile 2022-2012"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NUCLEAR_Generated_Electric_Energy_Profile_2022-2021.jpg/220px-NUCLEAR_Generated_Electric_Energy_Profile_2022-2021.jpg",
+                "caption": "NUCLEAR Generated Electric Energy Profile 2022-2021"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_of_the_United_States",
+        "title": "Electricity sector of the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Renewable energy",
+        "text": "The following table summarizes the electrical energy generated by renewable fuel sources for the US. Data was obtained from Electric Power Annual 2022. [29] [30] Note: Biomass includes wood and wood derived fuel, landfill gas, biogenic municipal solid waste and other waste biomass. The development of renewable energy and energy efficiency marks \"a new era of energy exploration\" in the United States, according to President Barack Obama . [32] In a joint address to the Congress on February 24, 2009, President Obama called for doubling renewable energy within the next three years. [33] From the end of 2008 to the end of 2011 renewable energy increased by 35% and from the end of 2008 till the end of 2014, 41.4%.  In reality it took twelve years instead of three to double as 2020 saw a 100% increase from 2008. Renewable energy accounted for more than 22.4% percent of the domestically produced electric energy used in the United States in 2022, up from 12.2% in 2012. All renewables have increased by 1.92X in the last decade. Wind production in 2022 was 10.17% of all production and has grown 2.9X over the last decade. Over this same time period solar( including small scale) has increased by 13.1X and now provides 3.37% of US electric energy needs. Utility scale solar has grown 11.1X over the last decade and in the last eight years of estimating small scale solar it has grown by 5.4X. According to a report by the Interior Department, U.S. wind power – including off-shore turbines – could more than meet U.S. electricity needs. [34] The Department of Energy has said wind power could generate 20% of US electricity by 2030. [35] [36] [37] Several solar thermal power stations, including the new 64 MW Nevada Solar One , have also been built. The largest of these solar thermal power stations is the SEGS group of plants in the Mojave Desert with a total generating capacity of 354 MW, making the system the largest solar plant of any kind in the world. [38]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20220314_Renewable_electricity_generation_-_United_States.svg/220px-20220314_Renewable_electricity_generation_-_United_States.svg.png",
+                "caption": "Growth in renewable-source electricity generation has been led by wind and solar"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Timeline_of_electricity_from_renewable_sources_in_the_United_States.png/440px-Timeline_of_electricity_from_renewable_sources_in_the_United_States.png",
+                "caption": "Timeline of electricity from renewable sources in the United States"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_of_the_United_States",
+        "title": "Electricity sector of the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Transmission",
+        "text": "There are two major wide area synchronous grids in North America, the Eastern Interconnection and the Western Interconnection . Besides this there are two minor power grids in the U.S., the Alaska Interconnection and the Texas Interconnection . The Eastern, Western and Texas Interconnections are tied together at various points with DC interconnects allowing electrical power to be transmitted throughout the contiguous U.S., parts of Canada and parts of Mexico. The transmission grids are operated by transmission system operators (TSOs), not-for profit companies that are typically owned by the utilities in their respective service area, where they coordinate, control and monitor the operation of the electrical power system. TSOs are obliged to provide non-discriminatory transmission access to electricity generators and customers. TSOs can be of two types: Independent System Operators (ISOs) and Regional Transmission Organizations (RTOs). The former operates within a single state and the latter covers wider areas crossing state borders. [ citation needed ] In 2009 there were four RTOs in the U.S.: [ citation needed ] There are also three ISOs: RTOs are similar, but not identical to the nine Regional Reliability Councils associated in the North American Electric Reliability Corporation (NERC), a non-profit entity that is in charge of improving the reliability and security of the bulk power system in the U.S., Canada and the northern part of Baja California in Mexico. The members of the Regional Reliability Councils include private, public and cooperative utilities, power marketers and final customers. The Regional Reliability Councils are: The FERC distinguishes between 10 power markets in the U.S., including the seven for which RTOs have been established, well as: ISOs and RTOs were established in the 1990s when states and regions established wholesale competition for electricity.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NERC-map-en.svg/330px-NERC-map-en.svg.png",
+                "caption": "The three major and two minor NERC Interconnections, and the nine NERC Regional Reliability Councils."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_of_the_United_States",
+        "title": "Electricity sector of the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Tariffs and affordability",
+        "text": "In 2008 the average electricity tariff in the U.S. was 9.82 ¢/kWh, up from 6.9 ¢/kWh in 1995. Residential tariffs were somewhat higher at 11.36 ¢/kWh, while commercial tariffs stood at 10.28 ¢/kWh and industrial tariffs at 7.01 ¢/kWh. [5] The cost of supplying high-voltage power to high-volume industrial customers is lower than the cost of providing low-voltage (120 V) power to residential and commercial customers. In 2006–07 commercial electricity tariffs in the U.S. (9.28 ¢/kWh) were higher than in Australia (7.1 ¢/kWh), Canada (6.18 ¢/kWh) that relies mainly on hydropower or in France (8.54 ¢/kWh) that relies heavily on nuclear power, but lower than in Germany (13.16 ¢/kWh), Italy (15.74 ¢/kWh) or the UK (11.16 ¢/kWh) that all rely to a larger degree on fossil fuels, all compared at purchasing power parity . [44] Residential tariffs vary significantly between states from 6.7 ¢/kWh in West Virginia to 24.1 ¢/kWh in Hawaii. An important factor that influences tariff levels is the mix of energy sources used in power generation. For example, access to cheap federal power from hydropower plants contributes to low electricity tariffs in some states. Average residential electricity consumption in the U.S. was 936 kWh/month per in 2007, and the average bill was US$100/month. Average residential consumption varies considerably between states from 530 kWh/month in Maine to 1,344 kWh/month in Tennessee. Factors that influence residential energy consumption are climate, tariffs and efforts to promote energy conservation.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Electricity_price_map_of_the_United_States_2013.jpeg/220px-Electricity_price_map_of_the_United_States_2013.jpeg",
+                "caption": "Electricity price map of the United States"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_of_the_United_States",
+        "title": "Electricity sector of the United States",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Existing buildings",
+        "text": "Energy conservation measures have primarily focused on technological innovations to improve efficiencies and financial incentives with theoretical explanations obtained from the mentioned analytical traditions. [4] Existing buildings can improve energy efficiency by changing structural maintenance materials, adjusting the composition of air conditioning systems, selecting energy-saving equipment, and formulating subsidy policies. [5] These measures can improve users' thermal comfort and reduce buildings' environmental impact. The selection of combinatorial optimization schemes that contain measures to guide and restrict users' behavior in addition to carrying out demand-side management can dynamically adjust energy consumption. At the same time, economic means should enable users to change their behavior and achieve a low-carbon life. Combination optimization and pricing incentives reduce building energy consumption and carbon emissions and reduce users' costs. [5] Energy monitoring through energy audits can achieve energy efficiency in existing buildings. An energy audit is an inspection and analysis of energy use and flows for energy conservation in a structure, process, or system intending to reduce energy input without negatively affecting output. Energy audits can determine specific opportunities for energy conservation and efficiency measures as well as determine cost-effective strategies. [2] Training professionals typically accomplish this and can be part of some national programs discussed above. The recent development of smartphone apps enables homeowners to complete relatively sophisticated energy audits themselves. For instance, smart thermostats can connect to standard HVAC systems to maintain energy-efficient indoor temperatures. In addition, data loggers can also be installed to monitor the interior temperature and humidity levels to provide a more precise understanding of the conditions. If the data gathered is compared with the users' perceptions of comfort, more fine-tuning of the interiors can be implemented (e.g., increasing the temperature where A.C. is used to prevent over-cooling). Building technologies and smart meters can allow commercial and residential energy users to visualize the impact their energy use can have in their workplaces or homes. Advanced real-time energy metering can help people save energy through their actions. Another approach towards energy conservation is the implementation of ECMs in commercial buildings, which often employ Energy Service Companies (ESCOs) experienced in energy performance contracting. This industry has been around since the 1970s and is more prevalent than ever today. The US-based organization EVO (Efficiency Valuation Organization) has created a set of guidelines for ESCOs to adhere to in evaluating the savings achieved by ECMs. These guidelines are called the International Performance Measurement and Verification Protocol (IPMVP). Energy efficiency can also be achieved by upgrading certain aspects of existing buildings. [6] Firstly, making thermal improvements by adding insulation to crawl spaces and ensuring no leaks achieves an efficient building envelope, reducing the need for mechanical systems to heat and cool the space. High-performance insulation is also supported by adding double/triple-glazed windows to minimize thermal heat transmission. Minor upgrades in existing buildings include changing mixers to low flow greatly aids in water conservation, changing light bulbs to LED lights results in 70-90% less energy consumption than a standard incandescent or C.F.L. bulb, changing inefficient appliances with Energy Star-rated appliances will consume less energy, and finally adding vegetation in the landscape surrounding the building to function as a shading element. [6] A window windcatcher can reduce the total energy use of a building by 23.3%. [7] Energy conservation through users' behaviors requires understanding household occupants' lifestyle, social, and behavioral factors in analyzing energy consumption. [4] This involves one-time investments in energy efficiency, such as purchasing new energy-efficient appliances or upgrading the building insulation without curtailing economic utility or the level of energy services, and energy curtailment behaviors which are theorized to be driven more by social-psychological factors and environmental concerns in comparison to the energy efficiency behaviors. Replacing existing appliances with newer and more efficient ones leads to energy efficiency as less energy is wasted throughout. Overall, energy efficiency behaviors are identified more with one-time, cost-incurring investments in efficient appliances and retrofits, while energy curtailment behaviors include repetitive, low-cost energy-saving efforts. [4] To identify and optimize residential energy use, conventional and behavioral economics, technology adoption theory and attitude-based decision-making, social and environmental psychology, and sociology must be analyzed. [4] The techno-economic and psychological literature analysis focuses on the individual attitude, behavior, and choice/context/external conditions. In contrast, the sociological literature relies more on the energy consumption practices shaped by the social, cultural, and economic factors in a dynamic setting. [4]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Plot1.jpg/220px-Plot1.jpg",
+                "caption": "Energy consumption by household type in the northeast United States in 2015"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Qanat_wind_tower.svg/220px-Qanat_wind_tower.svg.png",
+                "caption": "A windcatcher and qanat used for cooling. Windcatchers \"reduce the building's energy consumption and carbon footprint \". [8]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_conservation",
+        "title": "Energy conservation",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "New buildings",
+        "text": "Many steps can be taken toward energy conservation and efficiency when designing new buildings. Firstly, the building can be designed to optimize building performance by having an efficient building envelope with high-performing insulation and window glazing systems, window facades strategically oriented to optimize daylighting, shading elements to mitigate unwanted glare, and passive energy systems for appliances. In passive solar building designs , windows, walls, and floors are made to collect, store, and distribute solar energy in the form of heat in the winter and reject solar heat in the summer. The key to designing a passive solar building is to best take advantage of the local climate . Elements to be considered include window placement and glazing type, thermal insulation , thermal mass , and shading. Optimizing daylighting can decrease energy waste from incandescent bulbs, windows, and balconies, allow natural ventilation, reduce the need for heating and cooling, low flow mixers aid in water conservation, and upgrade to Energy star rated appliances consume less energy. [9] Designing a building according to LEED guidelines while incorporating smart home technology can help save a lot of energy and money in the long run. [9] Passive solar design techniques can be applied most easily to new buildings, but existing buildings can be retrofitted. Mainly, energy conservation is achieved by modifying user habits or providing an energy-saving recommendation of curtailing an appliance or scheduling it to low-price energy tariff hours. Besides changing user habits and appliance control, identifying irrelevant appliances concerning user activities in smart homes saves energy. Smart home technology can advise users on energy-saving strategies according to their behavior, encouraging behavioral change that leads to energy conservation. [1] This guidance includes reminders to turn off lights, leakage sensors to prevent plumbing issues, running appliances on off-peak hours, and smart sensors that save energy. Such technology learns user-appliance activity patterns, gives a complete overview of various energy-consuming appliances, and can provide guidance to improve these patterns to contribute to energy conservation. [1] As a result, they can strategically schedule appliances by monitoring the energy consumption profiles of the appliances, schedule devices to the energy-efficient mode, or plan to work during off-peak hours. Appliance-oriented approaches emphasize appliance profiling, curtailing, and scheduling to off-peak hours, as supervision of appliances is key to energy preservation. [1] It usually leads to appliance curtailment in which an appliance is either scheduled to work another time or is turned off. Appliance curtailment involves appliance recognition, activity-appliances model, unattended appliance detection, and energy conservation service. The appliance recognition module detects active appliances to identify the activities of smart home users. After identifying users' activities, the association between the functional appliances and user activities is established. The unattended appliance detection module looks for active appliances but is unrelated to user activity. These functional appliances waste energy and can be turned off by providing recommendations to the user. [1] Based on the smart home recommendations, users can give weight to certain appliances that increase user comfort and satisfaction while conserving energy. [1] Energy consumption models of energy consumption of appliances and the level of comfort they create can balance priorities among smart home comfort levels and energy consumption. According to Kashimoto, Ogura, Yamamoto, Yasumoto, and Ito, the energy supply reduces based on the historical state of the appliance and increases according to the comfort level requirement of the user, leading to a targeted energy-saving ratio. Scenarios-based energy consumption can be employed as a strategy for energy conservation, with each scenario encompassing a specific set of rules for energy consumption. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Illust_passive_solar_d1.gif/220px-Illust_passive_solar_d1.gif",
+                "caption": "Elements of passive solar design, shown in a direct gain application"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_conservation",
+        "title": "Energy conservation",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Transportation",
+        "text": "Transporting people, goods, and services represented 29% of U.S. energy consumption in 2007. The transportation sector also accounted for about 33% of U.S. carbon dioxide emissions in 2006, with highway vehicles accounting for about 84% of that, making transportation an essential target for addressing global climate change (E.I.A., 2008). [10] Suburban infrastructure evolved during an age of relatively easy access to fossil fuels , leading to transportation-dependent living systems. [ citation needed ] The amount of energy used to transport people to and from a facility, whether they are commuters, customers, vendors, or homeowners, is known as the transportation energy intensity of the building. Land is developing at a faster rate than population growth, leading to urban sprawl and, therefore, high transportation energy intensity as more people need to commute longer distances to jobs. As a result, the location of a building is essential in decreasing embodied emissions. [11] In transportation, state and local efforts in energy conservation and efficiency measures tend to be more targeted and smaller in scale. However, with more robust fuel economy standards, new targets for the use of alternative transportation fuels, and new efforts in electric and hybrid electric vehicles, EPAct05 and EISA provide a new set of national policy signals and financial incentives to the private sector and state and local governments for the transportation sector. [10] Zoning reforms that allow greater urban density and designs for walking and bicycling can greatly reduce energy consumed for transportation. Many Americans work in jobs that allow for remote work instead of commuting daily, which is a significant opportunity to conserve energy. [ citation needed ] Intelligent transportation systems (ITS) provide a solution to traffic congestion and C.E.s caused by increased vehicles. [12] ITS combines improvements in information technology and systems, communications, sensors, controllers, and advanced mathematical methods with the traditional world of transportation infrastructure. It improves traffic safety and mobility, reduces environmental impact, promotes sustainable transportation, and increases productivity. [12] The ITS strengthens the connection and cooperation between people, vehicles, roads, and the environment while improving road capacity, reducing traffic accidents, and improving transportation efficiency and safety by alleviating traffic congestion and reducing pollution. It makes full use of traffic information as an application service, which can enhance the operational efficiency of existing traffic facilities. The most significant energy-saving potential is that there are the most problems in urban transportation in various countries, such as management systems, policies and regulations, planning, technology, operation, and management mechanism. Improvements in one or several aspects will improve road transportation. Efficiency has a positive impact, which leads to the improvement of the urban traffic environment and efficiency. [12] In addition to ITS, transit-oriented development (T.O.D.) significantly improves transportation in urban areas by emphasizing density, proximity to transit, diversity of uses, and streetscape design. Density is important for optimizing location and is a way to cut down on driving. [11] Planners can regulate development rights by exchanging them from ecologically sensitive areas to growth-friendly zones according to density transfer procedures. Distance is defined as the accessibility of rail and bus transits, which serve as deterrents for driving. For transit-oriented development to be feasible, transportation stops must be close to where people live. Diversity refers to mixed-use areas that offer essential services close to homes and offices and include residential spaces for different socioeconomic categories, commercial and retail. This creates a pedestrian shed where one area can meet people's everyday needs on foot. Lastly, the streetscapes design involves minimal parking and walkable areas that calm traffic. [11] Generous parking incentivizes people to use cars, whereas minimal and expensive parking deters commuters. At the same time, streetscapes can be designed to incorporate bicycling lanes and designated bicycle paths and trails. People may commute by bicycle to work without being concerned about their bicycles becoming wet because of covered bicycle storage. This encourages commuters to use bicycles rather than other modes of transportation and contributes to energy saving. People will be happy to walk a few blocks from a train stop if there are attractive, pedestrian-friendly outdoor spaces nearby with good lighting, park benches, outdoor tables at cafés, shade tree plantings, pedestrian courts that are blocked off to cars, and public internet connection. Additionally, this strategy calms traffic, improving the intended pedestrian environment. [11] New urban planning schemes can be designed to improve connectivity in cities through networks of interconnected streets that spread out traffic flow, slow down vehicles, and make walking more pleasant. By dividing the number of road links by the number of road nodes, the connectivity index is calculated. The higher the connectivity index, the greater the route choices and the better the pedestrian access. [11] Realizing the transportation impacts associated with buildings allows commuters to take steps toward energy conservation. Connectivity encourages energy-conserving behaviors as commuters use fewer cars, walk and bike more, and use public transportation. For commuters who do not have the option of public transportation, smaller vehicles that are hybrid or have better mileage can be used. [11]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Light_switch_with_passive_infrared_sensor.jpg/100px-Light_switch_with_passive_infrared_sensor.jpg",
+                "caption": "Occupancy sensors can conserve energy by turning off appliances in unoccupied rooms. [13]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_conservation",
+        "title": "Energy conservation",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Consumer products",
+        "text": "Homeowners implementing ECMs in their residential buildings often start with an energy audit . This is a way homeowners look at what areas of their homes are using, and possibly losing energy. Residential energy auditors are accredited by the Building Performance Institute (BPI) [15] or the Residential Energy Services Network (RESNET). [16] [17] Homeowners can hire a professional or do it themselves [18] [19] or use a smartphone to help do an audit. [20] Energy conservation measures are often combined into larger guaranteed Energy Savings Performance Contracts to maximize energy savings while minimizing disruption to building occupants by coordinating renovations. [21] Some ECMs cost less to implement yet return higher energy savings. Traditionally, lighting projects were a good example of \"low hanging fruit\" [22] that could be used to drive implementation of more substantial upgrades to HVAC systems in large facilities. Smaller buildings might combine window replacement with modern insulation using advanced building foams to improve energy for performance. Energy dashboard projects [23] are a new kind of ECM that relies on the behavioral change of building occupants to save energy. When implemented as part of a program, case studies, such as that for the DC Schools, report energy savings up 30%. [24] Under the right circumstances, open energy dashboards can even be implemented for free [25] to improve upon these savings even more. Consumers are often poorly informed of the savings of energy-efficient products. [ citation needed ] A prominent example of this is the energy savings that can be made by replacing an incandescent light bulb with a more modern alternative. When purchasing light bulbs, many consumers opt for cheap incandescent bulbs, failing to take into account their higher energy costs and lower lifespans when compared to modern compact fluorescent and LED bulbs . Although these energy-efficient alternatives have a higher upfront cost, their long lifespan and low energy use can save consumers a considerable amount of money. [26] The price of LED bulbs has also been steadily decreasing in the past five years due to improvements in semiconductor technology. Many LED bulbs on the market qualify for utility rebates that further reduce the price of the purchase to the consumer. [27] Estimates by the U.S. Department of Energy state that widespread adoption of LED lighting over the next 20 years could result in about $265 billion worth of savings in United States energy costs. [28] The research one must put into conserving energy is often too time-consuming and costly for the average consumer when there are cheaper products and technology available using today's fossil fuels. [29] Some governments and NGOs are attempting to reduce this complexity with Eco-labels that make differences in energy efficiency easy to research while shopping. [30] To provide the kind of information and support people need to invest money, time and effort in energy conservation, it is important to understand and link to people's topical concerns. [31] For instance, some retailers argue that bright lighting stimulates purchasing. However, health studies have demonstrated that headache, stress , blood pressure , fatigue and worker error all generally increase with the common over-illumination present in many workplace and retail settings. [32] [33] It has been shown that natural daylighting increases productivity levels of workers, while reducing energy consumption. [34] In warm climates where air conditioning is used, any household device that gives off heat will result in a larger load on the cooling system. Items such as stoves, dishwashers, clothes dryers, hot water, and incandescent lighting all add heat to the home. Low-power or insulated versions of these devices give off less heat for the air conditioning to remove. The air conditioning system can also improve efficiency by using a heat sink that is cooler than the standard air heat exchanger, such as geothermal or water. In cold climates, heating air and water is a major demand for household energy use. Significant energy reductions are possible by using different technologies. Heat pumps are a more efficient alternative to electrical resistance heaters for warming air or water. A variety of efficient clothes dryers are available, and the clothes lines requires no energy- only time. Natural-gas (or bio-gas) condensing boilers and hot-air furnaces increase efficiency over standard hot-flue models. Standard electric boilers can be made to run only at hours of the day when they are needed by means of a time switch . [35] This decreases energy use vastly. In showers, a semi-closed-loop system could be used. New construction implementing heat exchangers can capture heat from wastewater or exhaust air in bathrooms, laundry, and kitchens. In both warm and cold climate extremes, airtight thermal insulated construction is the largest factor determining the efficiency of a home. Insulation is added to minimize the flow of heat to or from the home, but can be labor-intensive to retrofit to an existing home.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Assorted_LED_Lamps.jpg/220px-Assorted_LED_Lamps.jpg",
+                "caption": "An assortment of energy-efficient semiconductor (LED) lamps for commercial and residential lighting use. LED lamps to use at least 75% less energy, and last 25 times longer, than traditional incandescent light bulbs. [14]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_conservation",
+        "title": "Energy conservation",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    },
+    {
+        "section": "Japan",
+        "text": "Since the 1973 oil crisis , energy conservation has been an issue in Japan. All oil-based fuel is imported, so domestic sustainable energy is being developed. The Energy Conservation Center [50] promotes energy efficiency in every aspect of Japan. Public entities are implementing the efficient use of energy for industries and research. It includes projects such as the Top Runner Program. [51] In this project, new appliances are regularly tested on efficiency, and the most efficient ones are made the standard.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/03-05-JPN153.jpg/170px-03-05-JPN153.jpg",
+                "caption": "Advertising with high energy and light pollution in Shinjuku, Japan"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_conservation",
+        "title": "Energy conservation",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Energy Storage",
+        "topic": "Energy storage policy and regulatory environment"
+    }
+]

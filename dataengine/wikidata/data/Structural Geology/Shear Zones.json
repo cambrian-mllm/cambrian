@@ -1,0 +1,112 @@
+[
+    {
+        "section": "General introduction",
+        "text": "A shear zone is a zone of strong deformation (with a high strain rate ) surrounded by rocks with a lower state of finite strain . It is characterised by a length to width ratio of more than 5:1. [1] Shear zones form a continuum of geological structures, ranging from brittle shear zones (or faults ) via brittle–ductile shear zones (or semibrittle shear zones ), ductile–brittle to ductile shear zones . In brittle shear zones, the deformation is concentrated in a narrow fracture surface separating the wall rocks, whereas in a ductile shear zone the deformation is spread out through a wider zone, the deformation state varying continuously from wall to wall. Between these end-members, there are intermediate types of brittle–ductile (semibrittle) and ductile–brittle shear zones that can combine these geometric features in different proportions. This continuum found in the structural geometries of shear zones reflects the different deformation mechanisms reigning in the crust, i.e. the changeover from brittle (fracturing) at or near the surface to ductile (flow) deformation with increasing depth. By passing through the brittle–semibrittle transition the ductile response to deformation is starting to set in. This transition is not tied to a specific depth, but rather occurs over a certain depth range - the so-called alternating zone , where brittle fracturing and plastic flow coexist. The main reason for this is found in the usually heteromineral composition of rocks, with different minerals showing different responses to applied stresses (for instance, under stress quartz reacts plastically long before feldspars do). Thus differences in lithology , grain size , and preexisting fabrics determine a different rheological response. Yet other, purely physical factors, influence the changeover depth as well, including: In Scholz's model for a quartzo-feldspathic crust (with a geotherm taken from Southern California), the brittle–semibrittle transition starts at about 11 km depth with an ambient temperature of 300 °C. The underlying alternating zone then extends to roughly 16 km depth with a temperature of about 360 °C. [2] Below approximately 16 km depth, only ductile shear zones are found. The seismogenic zone , in which earthquakes nucleate, is tied to the brittle domain, the schizosphere . Below an intervening alternating zone, there is the plastosphere . In the seismogenic layer , which occurs below an upper stability transition related to an upper seismicity cutoff (situated usually at about 4–5 km depth), true cataclasites start to appear. The seismogenic layer then yields to the alternating zone at 11 km depth. Yet big earthquakes can rupture both up to the surface and well into the alternating zone, sometimes even into the plastosphere.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Shear_zones.jpg/300px-Shear_zones.jpg",
+                "caption": "Diagram showing the major different types of shear zones. Displacement, shear strain, and depth distribution are also indicated."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Brittle_Ductile.png/220px-Brittle_Ductile.png",
+                "caption": "Strength profile and change in rock type with depth in idealised fault/shear zone"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Margin_of_dextral_shear_zone.JPG/220px-Margin_of_dextral_shear_zone.JPG",
+                "caption": "Margin of a dextral sense ductile shear zone (about 20 m thick), showing transition from schists outside the zone to mylonites inside, Cap de Creus,"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Shear_zone",
+        "title": "Shear zone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Shear Zones"
+    },
+    {
+        "section": "Sense of shear",
+        "text": "The sense of shear in a shear zone ( dextral , sinistral , reverse or normal) can be deduced by macroscopic structures and by a plethora of microtectonic indicators.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dextral_shear_folds.JPG/220px-Dextral_shear_folds.JPG",
+                "caption": "Asymmetric folds within a dextral sense shear zone, Cap de Creus"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Asymmetric_boudins_in_dextral_shear_zone.JPG/220px-Asymmetric_boudins_in_dextral_shear_zone.JPG",
+                "caption": "Asymmetric boudins of pegmatite within a dextral sense shear zone, Cap de Creus"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Dextral_shear_bands.JPG/220px-Dextral_shear_bands.JPG",
+                "caption": "Shear bands developed in a dextral sense shear zone, Cap de Creus"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Shear_zone",
+        "title": "Shear zone",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Shear Zones"
+    },
+    {
+        "section": "Shear zone",
+        "text": "A shear zone is a tabular to sheetlike, planar or curviplanar zone composed of rocks that are more highly strained than rocks adjacent to the zone.  Typically this is a type of fault , but it may be difficult to place a distinct fault plane into the shear zone. Shear zones may form zones of much more intense foliation , deformation , and folding . En echelon veins or fractures may be observed within shear zones. Many shear zones host ore deposits as they are a focus for hydrothermal flow through orogenic belts . They may often show some form of retrograde metamorphism from a peak metamorphic assemblage and are commonly metasomatised . Shear zones can be only inches wide, or up to several kilometres wide. Often, due to their structural control and presence at the edges of tectonic blocks, shear zones are mappable units and form important discontinuities to separate terranes. As such, many large and long shear zones are named, identical to fault systems. When the horizontal displacement of this faulting can be measured in the tens or hundreds of kilometers of length, the fault is referred to as a megashear.  Megashears often indicate the edges of ancient tectonic plates. [1]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Asymmetric_shear.jpg/220px-Asymmetric_shear.jpg",
+                "caption": "Asymmetric shear in basalt, Labouchere mine, Glengarry Basin, Australia. Shear asymmetry is sinistral, pen for scale"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Shear_(geology)",
+        "title": "Shear (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Shear Zones"
+    },
+    {
+        "section": "Mechanisms of shearing",
+        "text": "The mechanisms of shearing depend on the pressure and temperature of the rock and on the rate of shear which the rock is subjected to. The response of the rock to these conditions determines how it accommodates the deformation. Shear zones which occur in more brittle rheological conditions (cooler, less confining pressure ) or at high rates of strain, tend to fail by brittle failure; breaking of minerals, which are ground up into a breccia with a milled texture. Shear zones which occur under brittle-ductile conditions can accommodate much deformation by enacting a series of mechanisms which rely less on fracture of the rock and occur within the minerals and the mineral lattices themselves. Shear zones accommodate compressive stress by movement on foliation planes. Shearing at ductile conditions may occur by fracturing of minerals and growth of sub-grain boundaries, as well as by lattice glide .  This occurs particularly on platy minerals, especially micas. Mylonites are essentially ductile shear zones.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PySlick.JPG/220px-PySlick.JPG",
+                "caption": "Dextral slickenside of pyrite"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Shear_(geology)",
+        "title": "Shear (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Shear Zones"
+    },
+    {
+        "section": "Microstructures of shear zones",
+        "text": "During the initiation of shearing, a penetrative planar foliation is first formed within the rock mass. This manifests as realignment of textural features, growth and realignment of micas and growth of new minerals. The incipient shear foliation typically forms normal to the direction of principal shortening, and is diagnostic of the direction of shortening. In symmetric shortening, objects flatten on this shear foliation much the same way that a round ball of treacle flattens with gravity. Within asymmetric shear zones, the behavior of an object undergoing shortening is analogous to the ball of treacle being smeared as it flattens, generally into an ellipse. Within shear zones with pronounced displacements a shear foliation may form at a shallow angle to the gross plane of the shear zone. This foliation ideally manifests as a sinusoidal set of foliations formed at a shallow angle to the main shear foliation, and which curve into the main shear foliation. Such rocks are known as L-S tectonites. If the rock mass begins to undergo large degrees of lateral movement, the strain ellipse lengthens into a cigar shaped volume. At this point shear foliations begin to break down into a rodding lineation or a stretch lineation. Such rocks are known as L-tectonites.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Geological_shear_r.jpg/220px-Geological_shear_r.jpg",
+                "caption": "Typical example of dextral shear foliation in an L-S tectonite, with pencil pointing in direction of shear sense. Note the sinusoidal nature of the shear foliation."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Stretch_Conglomerate.jpg/220px-Stretch_Conglomerate.jpg",
+                "caption": "Stretched pebble conglomerate L-tectonite illustrating a stretch lineation within a shear zone, Glengarry Basin, Australia. Pronounced asymmetric shearing has stretched the conglomerate pebbles into elongate cigar shaped rods."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Shear_(geology)",
+        "title": "Shear (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Shear Zones"
+    },
+    {
+        "section": "Ductile shear microstructures",
+        "text": "Very distinctive textures form as a consequence of ductile shear. An important group of microstructures observed in ductile shear zones are S-planes, C-planes and C' planes. The sense of shear shown by both S-C and S-C' structures matches that of the shear zone in which they are found. Other microstructures which can give sense of shear include:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Thin_section_of_garnet-mica-schist.jpg/220px-Thin_section_of_garnet-mica-schist.jpg",
+                "caption": "Thin section (crossed polars) of Garnet-Mica- Schist showing a rotated porphyroblast of garnet , mica fish and elongated minerals. This specimen was from close to a shear zone in Norway (the Ose thrust), the garnet in the centre (black) is approximately 2mm in diameter"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Shear_(geology)",
+        "title": "Shear (geology)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Structural Geology",
+        "topic": "Shear Zones"
+    }
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "section": "Basic principle",
+        "text": "At times of low electrical demand, excess generation capacity is used to pump water into the upper reservoir. When there is higher demand, water is released back into the lower reservoir through a turbine , generating electricity. Reversible turbine/generator assemblies act as combined pump and turbine generator units (usually Francis turbine designs). [15] Variable speed operation further optimizes the round trip efficiency in pumped hydro storage plants. [16] [17] In micro-PSH applications, a group of pumps and Pump As Turbine (PAT) could be implemented respectively for pumping and generating phases. [18] The same pump could be used in both modes by changing rotational direction and speed: [18] the operation point in pumping usually differs from the operation point in PAT mode.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pumpspeicherkraftwerk_engl.png/220px-Pumpspeicherkraftwerk_engl.png",
+                "caption": "Power distribution, over a day, of a pumped-storage hydroelectricity facility. Green represents power consumed in pumping. Red is power generated."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity",
+        "title": "Pumped-storage hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Pumped storage hydropower projects"
+    },
+    {
+        "section": "Economic efficiency",
+        "text": "Taking into account conversion losses and evaporation losses from the exposed water surface, energy recovery of 70–80% or more can be achieved. [19] This technique is currently the most cost-effective means of storing large amounts of electrical energy, but capital costs and the necessity of appropriate geography are critical decision factors in selecting pumped-storage plant sites. The relatively low energy density of pumped storage systems requires either large flows and/or large differences in height between reservoirs. The only way to store a significant amount of energy is by having a large body of water located relatively near, but as high as possible above, a second body of water. In some places this occurs naturally, in others one or both bodies of water were man-made. Projects in which both reservoirs are artificial and in which no natural inflows are involved with either reservoir are referred to as \"closed loop\" systems. [20] These systems may be economical because they flatten out load variations on the power grid, permitting thermal power stations such as coal-fired plants and nuclear power plants that provide base-load electricity to continue operating at peak efficiency, while reducing the need for \"peaking\" power plants that use the same fuels as many base-load thermal plants, gas and oil, but have been designed for flexibility rather than maximal efficiency. Hence pumped storage systems are crucial when coordinating large groups of heterogeneous generators . Capital costs for pumped-storage plants are relatively high, although this is somewhat mitigated by their proven long service life of decades - and in some cases over a century, [21] [22] which is three to five times longer than utility-scale batteries. When electricity prices become negative , pumped hydro operators may earn twice - when \"buying\" the electricity to pump the water to the upper reservoir at negative spot prices and again when selling the electricity at a later time when prices are high. Along with energy management, pumped storage systems help stabilize electrical network frequency and provide reserve generation. Thermal plants are much less able to respond to sudden changes in electrical demand that potentially cause frequency and voltage instability. Pumped storage plants, like other hydroelectric plants, can respond to load changes within seconds. The most important use for pumped storage has traditionally been to balance baseload powerplants, but they may also be used to abate the fluctuating output of intermittent energy sources . Pumped storage provides a load at times of high electricity output and low electricity demand, enabling additional system peak capacity. In certain jurisdictions, electricity prices may be close to zero or occasionally negative on occasions that there is more electrical generation available than there is load available to absorb it. Although at present this is rarely due to wind or solar power alone, increased use of such generation will increase the likelihood of those occurrences. [ citation needed ] It is particularly likely that pumped storage will become especially important as a balance for very large-scale photovoltaic and wind generation. [23] Increased long-distance transmission capacity combined with significant amounts of energy storage will be a crucial part of regulating any large-scale deployment of intermittent renewable power sources. [24] The high non-firm renewable electricity penetration in some regions  supplies 40% of annual output, but 60% may be reached before additional storage is necessary. [25] [26] [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stwlan.dam.jpg/220px-Stwlan.dam.jpg",
+                "caption": "The upper reservoir, Llyn Stwlan, and dam of the Ffestiniog Pumped Storage Scheme in North Wales . The lower power station has four water turbines which generate 360 MW of electricity within 60 seconds of the need arising."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity",
+        "title": "Pumped-storage hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Pumped storage hydropower projects"
+    },
+    {
+        "section": "Summary",
+        "text": "In 2009, world pumped storage generating capacity was 104 GW , [32] while other sources claim 127 GW, which comprises the vast majority of all types of utility grade electric storage. [33] The EU had 38.3 GW net capacity (36.8% of world capacity) out of a total of 140 GW of hydropower and representing 5% of total net electrical capacity in the EU. Japan had 25.5 GW net capacity (24.5% of world capacity). [32] In 2010 the United States had 21.5 GW of pumped storage generating capacity (20.6% of world capacity). [34] PSH contributed 21,073 GWh of energy  in 2020 in the United States, but −5,321 GWh  (net) because more energy is consumed in pumping than is generated. [35] Nameplate pumped storage capacity had grown to 21.6 GW by 2014, with pumped storage comprising 97% of grid-scale energy storage in the United States. As of late 2014, there were 51 active project proposals with a total of 39 GW of new nameplate capacity across all stages of the FERC licensing process for new pumped storage hydroelectric plants in the United States, but no new plants were currently under construction in the United States at the time. [36] [37] The five largest operational pumped-storage plants are listed below (for a detailed list see List of pumped-storage hydroelectric power stations ) :",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kruonis_Pumped_Storage_Plant.Lithuania.jpg/220px-Kruonis_Pumped_Storage_Plant.Lithuania.jpg",
+                "caption": "Kruonis Pumped Storage Plant , Lithuania"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity",
+        "title": "Pumped-storage hydroelectricity",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Pumped storage hydropower projects"
+    },
+    {
+        "section": "List of plants larger than 1000 MW capacity",
+        "text": "The table below lists currently operational power stations. Some of these may have additional units under construction, but only current installed capacity is listed.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Oberbecken%28Markersbach%29.jpg/220px-Oberbecken%28Markersbach%29.jpg",
+                "caption": "The upper reservoir of the Markersbach PSPS"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Siah_Bishe_dam.jpg/220px-Siah_Bishe_dam.jpg",
+                "caption": "Dam of Siah Bishe Pumped Storage Power Plant"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Tumut3GeneratingStation.jpg/220px-Tumut3GeneratingStation.jpg",
+                "caption": "The Tumut-3 Hydroelectric Power Station"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Minamiaiki_Dam.jpg/220px-Minamiaiki_Dam.jpg",
+                "caption": "The upper Minamiaiki Dam of the Kannagawa Hydropower Plant"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Castaic_Power_Plant_Front.jpg/220px-Castaic_Power_Plant_Front.jpg",
+                "caption": "Castaic Power Plant"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/SEO_main_cavern_Stolzembourg.jpg/220px-SEO_main_cavern_Stolzembourg.jpg",
+                "caption": "Main pump-generator hall of Vianden Pumped Storage Plant"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Coo-I-Superieur-27jan2010.jpg/220px-Coo-I-Superieur-27jan2010.jpg",
+                "caption": "Upper reservoir for Coo-Trois-Ponts PSPS"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Goldisthal-PSW-Unterbecken.jpg/220px-Goldisthal-PSW-Unterbecken.jpg",
+                "caption": "Goldisthal Pumped Storage Station"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG/220px-Taiwan_Power_Ccopany_Mingtan_Power_Station.JPG",
+                "caption": "Mingtan Dam"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/List_of_pumped-storage_hydroelectric_power_stations",
+        "title": "List of pumped-storage hydroelectric power stations",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Pumped storage hydropower projects"
+    },
+    {
+        "section": "Characteristics",
+        "text": "It consists of a reservoir 110 feet (34 m) deep,  2.5 miles (4.0 km) long, and one mile (1.6 km) wide which holds 27 billion US gallons (100 Gl) or 82859 acre-feet of water. The 1.3-square-mile (3.4 km 2 ) reservoir is located on the banks of Lake Michigan . Because impervious bedrock is more than 800 feet (240 m) below the reservoir, the builders had to line the reservoir with a layer of asphalt and clay to prevent water seeping into the ground. The power plant consists of six reversible turbines that can each generate 312 megawatts of electricity for a total output of 1,872 megawatts. [7] Water is delivered from the upper reservoir to the turbines by six penstocks each 1,100 feet (340 m) long that taper from 28 to 24 feet (8.5 to 7.3 m) in diameter. At night, during low demand for electricity, the turbines run in reverse to pump water 363 feet (111 m) uphill from Lake Michigan into the reservoir. The plant takes advantage of the natural steep sand dune landform of eastern Lake Michigan. During periods of peak demand water is released to generate power. Electrical generation can begin within two minutes with peak electric output of 1872 MW achieved in under 30 minutes.  Maximum water flow is over 33 million US gallons (120,000 m 3 ) per minute. This process was designed to level the load of nearby nuclear power plants on the grid. It also replaces the need to build natural gas peak power plants used only during high demand. The Ludington Pumped Storage plant is connected to six 345-kV Transmission lines, all owned and maintained by METC, a subsidiary of ITC Holdings. The project was given the 1973 award for \"Outstanding Civil Engineering Achievement\" by the American Society of Civil Engineers . [8]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/GENERATING_STATION_OF_CONSUMER_POWER_PLANT_IN_LUDINGTON_-_NARA_-_547129_--_color_graded.tif/lossy-page1-220px-GENERATING_STATION_OF_CONSUMER_POWER_PLANT_IN_LUDINGTON_-_NARA_-_547129_--_color_graded.tif.jpg",
+                "caption": "Detail of the turbines when first constructed."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Ludington_Pumped_Storage_Power_Plant",
+        "title": "Ludington Pumped Storage Power Plant",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Pumped storage hydropower projects"
+    },
+    {
+        "section": "Design and location",
+        "text": "It is located remotely within the Kosciuszko National Park in the Snowy Mountains . [3] Snowy Hydro 2.0 will use water from the Talbingo Reservoir (bottom storage) and Tantangara Reservoir (top storage). [11] The dams have a height differential of 700 metres. [12] The new power station is being built by the Italian firm Webuild . [23] It will be located in a cavern 800 metres underground. [11] The underground location allows for reduced environmental impacts within the national park. The operational footprint of the facility is less than 0.01% of the total size of the park. [24] The Inclined Pressure Shaft (IPS) through which the water will pass is the largest of its kind in the world and facilitates the water’s return to the upper reservoir when the pump-turbines operate in reverse. [25] The IPS is 10 metres in diameter, 1.6 kilometres long and at a 25 degree incline. Pre-cast concrete segments for the shaft are produced at a factory in the town of Cooma . [25] Fatigue resistance is a key design element in the IPS. [25] The power station will measure 22 metres (m) wide, 50 m high and 250 m long. [10] The station will house six reversible Francis pump-turbine and motor-generator units. [19] Three units will be of variable speed with the remaining of synchronous speed.  Each turbine will have a rated output of 333 megawatts. [26] Power generating equipment is being supplied by Voith . [26] It will be connected to the grid via the HumeLink transmission line. [13] [27] The construction of overhead power lines by TransGrid has been opposed by community advocacy groups. [28] Landholders desire to see the transmission line built underground have been opposed due to prohibitive costs. [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tantangara_Dam%2C_on_Murrumbidgee_River%2C_NSW.JPG/220px-Tantangara_Dam%2C_on_Murrumbidgee_River%2C_NSW.JPG",
+                "caption": "Tantangara Reservoir , 2013"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Snowy_2.0_Pumped_Storage_Power_Station",
+        "title": "Snowy 2.0 Pumped Storage Power Station",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Hydropower",
+        "topic": "Pumped storage hydropower projects"
+    }
+]

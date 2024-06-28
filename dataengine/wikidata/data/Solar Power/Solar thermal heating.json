@@ -1,0 +1,789 @@
+[
+    {
+        "section": "Low-temperature heating and cooling",
+        "text": "Systems for utilizing low-temperature solar thermal energy include means for heat collection; usually heat storage, either short-term or interseasonal; and distribution within a structure or a district heating network. In some cases a single feature can do more than one of these things (e.g. some kinds of solar collectors also store heat). Some systems  are passive, others are active (requiring other external energy to function). [5] Heating is the most obvious application, but solar cooling can be achieved for a building or for district cooling by using a heat-driven absorption or adsorption chiller (heat pump). There is a productive coincidence that the greater the driving heat from insolation, the greater the cooling output. In 1878, Auguste Mouchout pioneered solar cooling by making ice using a solar steam engine attached to a refrigeration device. [6] In the United States, heating , ventilation , and air conditioning ( HVAC ) systems account for over 25% (4.75 EJ) of the energy used in commercial buildings (50% in northern cities)  and nearly half (10.1 EJ) of the energy used in residential buildings. [7] [8] Solar heating, cooling, and ventilation technologies can be used to offset a portion of this energy. The most popular solar heating technology for heating buildings is the building integrated transpired solar air collection system which connects to the building's HVAC equipment. According to Solar Energy Industries Association over 500,000 m 2 (5,000,000 square feet) of these panels are in operation in North America as of 2015. In Europe, since the mid-1990s about 125 large solar-thermal district heating\nplants have been constructed, each with over 500 m 2 (5400 ft 2 ) of solar\ncollectors. The largest are about 10,000 m 2 , with capacities of 7\nMW-thermal and solar heat costs around 4 Eurocents/kWh without subsidies. [9] 40 of them have nominal capacities of 1 MW-thermal or more. The Solar District Heating program (SDH) has participation from 14 European Nations and the European Commission, and is working toward technical and market development, and holds annual conferences. [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Flipped_MIT_Solar_One_house.png/220px-Flipped_MIT_Solar_One_house.png",
+                "caption": "MIT's Solar House#1 built in 1939 used seasonal thermal energy storage (STES) for year-round heating."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_energy",
+        "title": "Solar thermal energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Low-temperature collectors",
+        "text": "Glazed solar collectors are designed primarily for space heating. They recirculate building air through a solar air panel where the air is heated and then directed back into the building. These solar space heating systems require at least two penetrations into the building and only perform when the air in the solar collector is warmer than the building room temperature. Most glazed collectors are used in the residential sector. Unglazed solar collectors are primarily used to pre-heat make-up ventilation air in commercial, industrial and institutional buildings with a high ventilation load. They turn building walls or sections of walls into low cost, high performance, unglazed solar collectors. Also called, \"transpired solar panels\" or \" solar wall \", they employ a painted perforated metal solar heat absorber that also serves as the exterior wall surface of the building. Heat transfer to the air takes place on the surface of the absorber, through the metal absorber and behind the absorber. The boundary layer of solar heated air is drawn into a nearby perforation before the heat can escape by convection to the outside air. The heated air is then drawn from behind the absorber plate into the building's ventilation system. A Trombe wall is a passive solar heating and ventilation system consisting of an air channel sandwiched between a window and a sun-facing thermal mass. During the ventilation cycle, sunlight stores heat in the thermal mass and warms the air channel causing circulation through vents at the top and bottom of the wall. During the heating cycle the Trombe wall radiates stored heat. [11] Solar roof ponds for solar heating and cooling were developed by Harold Hay in the 1960s. A basic system consists of a roof-mounted water bladder with a movable insulating cover. This system can control heat exchange between interior and exterior environments by covering and uncovering the bladder between night and day. When heating is a concern the bladder is uncovered during the day allowing sunlight to warm the water bladder and store heat for evening use. When cooling is a concern the covered bladder draws heat from the building's interior during the day and is uncovered at night to radiate heat to the cooler atmosphere. The Skytherm house in Atascadero, California uses a prototype roof pond for heating and cooling. [12] Solar space heating with solar air heat collectors is more popular in the USA and Canada than heating with solar liquid collectors since most buildings already have a ventilation system for heating and cooling. The two main types of solar air panels are glazed and unglazed. Of the 21,000,000 square feet (2,000,000 m 2 ) of solar thermal collectors produced in the United States in 2007, 16,000,000 square feet (1,500,000 m 2 ) were of the low-temperature variety. [13] Low-temperature collectors are generally installed to heat swimming pools, although they can also be used for space heating. Collectors can use air or water as the medium to transfer the heat to their destination. The sun’s free energy can also be used to heat water to fulfil domestic hot water demands, such as the hot water that comes out of taps. Solar thermal water heating systems can provide approximately 50% of a property’s annual hot water demand (depending on the size of the property, its location etc) which in turn can help homeowners make savings on their energy bills. [14]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Transpired_Air_Collector.PNG/220px-Transpired_Air_Collector.PNG",
+                "caption": "Unglazed, \"transpired\" air collector"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Canadair%28compressed%29.jpg/220px-Canadair%28compressed%29.jpg",
+                "caption": "Building integrated unglazed transpired solar air collector with grey walls and white canopy/collection ducts"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_energy",
+        "title": "Solar thermal energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Process heat",
+        "text": "Solar process heating systems are designed to provide large quantities of hot water or space heating for nonresidential buildings. [21] Evaporation ponds are shallow ponds that concentrate dissolved solids through evaporation . The use of evaporation ponds to obtain salt from sea water is one of the oldest applications of solar energy. Modern uses include concentrating brine solutions used in leach mining and removing dissolved solids from waste streams. Altogether, evaporation ponds represent one of the largest commercial applications of solar energy in use today. [22] Unglazed transpired collectors are perforated sun-facing walls used for preheating ventilation air. Transpired collectors can also be roof mounted for year-round use and can raise the incoming air temperature up to 22 °C and deliver outlet temperatures of 45-60 °C. The short payback period of transpired collectors (3 to 12 years) make them a more cost-effective alternative to glazed collection systems. As of 2015, over 4000 systems with a combined collector area of 500,000 m 2 had been installed worldwide. Representatives include an 860 m 2 collector in Costa Rica used for drying coffee beans and a 1300 m 2 collector in Coimbatore, India used for drying marigolds. [23] [24] A food processing facility in Modesto, California uses parabolic troughs to produce steam used in the manufacturing process. The 5,000 m 2 collector area is expected to provide 15 TJ per year. [25]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Solar_Evaporation_Ponds%2C_Atacama_Desert.jpg/220px-Solar_Evaporation_Ponds%2C_Atacama_Desert.jpg",
+                "caption": "Solar Evaporation Ponds in the Atacama Desert ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_energy",
+        "title": "Solar thermal energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Cooking",
+        "text": "Solar cookers use sunlight for cooking, drying and pasteurization . Solar cooking offsets fuel costs, reduces demand for fuel or firewood, and improves air quality by reducing or removing a source of smoke. The simplest type of solar cooker is the box cooker first built by Horace de Saussure in 1767. A basic box cooker consists of an insulated container with a transparent lid. These cookers can be used effectively with partially overcast skies and will typically reach temperatures of 50–100 °C. [29] [30] Concentrating solar cookers use reflectors to concentrate solar energy onto a cooking container. The most common reflector geometries are flat plate, disc and parabolic trough type. These designs cook faster and at higher temperatures (up to 350 °C) but require direct light to function properly. The Solar Kitchen in Auroville , India uses a unique concentrating technology known as the solar bowl . Contrary to conventional tracking reflector/fixed receiver systems, the solar bowl uses a fixed spherical reflector with a receiver which tracks the focus of light as the Sun moves across the sky. The solar bowl's receiver reaches temperature of 150 °C that is used to produce steam that helps cook 2,000 daily meals. [31] Many other solar kitchens in India use another unique concentrating technology known as the Scheffler reflector. This technology was first developed by Wolfgang Scheffler in 1986. A Scheffler reflector is a parabolic dish that uses single axis tracking to follow the Sun's daily course. These reflectors have a flexible reflective surface that is able to change its curvature to adjust to seasonal variations in the incident angle of sunlight. Scheffler reflectors have the advantage of having a fixed focal point which improves the ease of cooking and are able to reach temperatures of 450-650 °C. [32] Built in 1999 by the Brahma Kumaris , the world's largest Scheffler reflector system in Abu Road, Rajasthan India is capable of cooking up to 35,000 meals a day. [33] By early 2008, over 2000 large cookers of the Scheffler design had been built worldwide.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Auroville_Solar_Bowl.JPG/220px-Auroville_Solar_Bowl.JPG",
+                "caption": "The Solar Bowl above the Solar Kitchen in Auroville, India concentrates sunlight on a movable receiver to produce steam for cooking."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_energy",
+        "title": "Solar thermal energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "High-temperature collectors",
+        "text": "Where temperatures below about 95 °C are sufficient, as for space heating, flat-plate collectors of the nonconcentrating type are generally used. Because of the relatively high heat losses through the glazing, flat plate collectors will not reach temperatures much above 200 °C even when the heat transfer fluid is stagnant. Such temperatures are too low for efficient conversion to electricity. The efficiency of heat engines increases with the temperature of the heat source. To achieve this in solar thermal energy plants, solar radiation is concentrated by mirrors or lenses to obtain higher temperatures – a technique called Concentrated Solar Power (CSP). The practical effect of high efficiencies is to reduce the plant's collector size and total land use per unit power generated, reducing the environmental impacts of a power plant as well as its expense. As the temperature increases, different forms of conversion become practical. Up to 600 °C, steam turbines , standard technology, have an efficiency up to 41%. Above 600 °C, gas turbines can be more efficient. Higher temperatures are problematic because different materials and techniques are needed. One proposal for very high temperatures is to use liquid fluoride salts operating between 700 °C to 800 °C, using multi-stage turbine systems to achieve 50% or more thermal efficiencies. [36] The higher operating temperatures permit the plant to use higher-temperature dry heat exchangers for its thermal exhaust, reducing the plant's water use – critical in the deserts where large solar plants are practical. High temperatures also make heat storage more efficient, because more watt-hours are stored per unit of fluid. Commercial concentrating solar thermal power (CSP) plants were first developed in the 1980s. The world’s largest solar thermal power plants are now the 370 MW Ivanpah Solar Power Facility , commissioned in 2014, and the 354 MW SEGS CSP installation, both located in the Mojave Desert of California, where several other solar projects have been realized as well. The principal advantage of CSP is the ability to efficiently add thermal storage, allowing the dispatching of electricity over up to a 24-hour period. Since peak electricity demand typically occurs between about 4 and 8 pm, [37] many CSP power plants use 3 to 5 hours of thermal storage. With current technology, storage of heat is much cheaper and more efficient than storage of electricity. In this way, the CSP plant can produce electricity day and night. If the CSP site has predictable solar radiation, then the CSP plant becomes a reliable power plant. Reliability can further be improved by installing a back-up combustion system. The back-up system can use most of the CSP plant, which decreases the cost of the back-up system. With reliability, unused desert, no pollution, and no fuel costs, the obstacles for large deployment for CSP are cost, aesthetics, land use and similar factors for the necessary connecting high tension lines. Although only a small percentage of the desert is necessary to meet global electricity demand, still a large area must be covered with mirrors or lenses to obtain a significant amount of energy. An important way to decrease cost is the use of a simple design. When considering land use impacts associated with the exploration and extraction through to transportation and conversion of fossil fuels , which are used for most of our electrical power, utility-scale solar power compares as one of the most land-efficient energy resources available: [38] The federal government has dedicated nearly 2,000 times more acreage to oil and gas leases than to solar development. In 2010 the Bureau of Land Management approved nine large-scale solar projects, with a total generating capacity of 3,682 megawatts, representing approximately 40,000 acres. In contrast, in 2010, the Bureau of Land Management processed more than 5,200 applications gas and oil leases, and issued 1,308 leases, for a total of 3.2 million acres. Currently, 38.2 million acres of onshore public lands and an additional 36.9 million acres of offshore exploration in the Gulf of Mexico are under lease for oil and gas development, exploration and production. [38] [ failed verification ]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Solar_Plant_kl.jpg/220px-Solar_Plant_kl.jpg",
+                "caption": "Part of the 354 MW SEGS solar complex in northern San Bernardino County, California ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Four-solaire-odeillo-02.jpg/220px-Four-solaire-odeillo-02.jpg",
+                "caption": "The solar furnace at Odeillo in the French Pyrenees-Orientales can reach temperatures up to 3,500°C ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_energy",
+        "title": "Solar thermal energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Parabolic trough designs",
+        "text": "Parabolic trough power plants use a curved, mirrored trough which reflects the direct solar radiation onto a glass tube containing a fluid (also called a receiver, absorber or collector) running the length of the trough, positioned at the focal point of the reflectors. The trough is parabolic along one axis and linear in the orthogonal axis. For change of the daily position of the sun perpendicular to the receiver, the trough tilts east to west so that the direct radiation remains focused on the receiver. However, seasonal changes in the angle of sunlight parallel to the trough does not require adjustment of the mirrors, since the light is simply concentrated elsewhere on the receiver. Thus the trough design does not require tracking on a second axis. The receiver may be enclosed in a glass vacuum chamber. The vacuum significantly reduces convective heat loss. A fluid (also called heat transfer fluid) passes through the receiver and becomes very hot. Common fluids are synthetic oil, molten salt and pressurized steam. The fluid containing the heat is transported to a heat engine where about a third of the heat is converted to electricity. Full-scale parabolic trough systems consist of many such troughs laid out in parallel over a large area of land. Since 1985 a solar thermal system using this principle has been in full operation in California in the United States . It is called the Solar Energy Generating Systems (SEGS) system. [41] Other CSP designs lack this kind of long experience and therefore it can currently be said that the parabolic trough design is the most thoroughly proven CSP technology. The SEGS is a collection of nine plants with a total capacity of 354 MW and has been the world's largest solar power plant, both thermal and non-thermal, for many years. A newer plant is Nevada Solar One plant with a capacity of 64 MW. The 150 MW Andasol solar power stations are in Spain with each site having a capacity of 50 MW. Note however, that those plants have heat storage which requires a larger field of solar collectors relative to the size of the steam turbine-generator to store heat and send heat to the steam turbine at the same time. Heat storage enables better utilization of the steam turbine. With day and some nighttime operation of the steam-turbine Andasol 1 at 50 MW peak capacity produces more energy than Nevada Solar One at 64 MW peak capacity, due to the former plant's thermal energy storage system and larger solar field. The 280MW Solana Generating Station came online in Arizona in 2013 with 6 hours of power storage. Hassi R'Mel integrated solar combined cycle power station in Algeria and Martin Next Generation Solar Energy Center both use parabolic troughs in a combined cycle with natural gas.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Solarpipe-scheme.svg/220px-Solarpipe-scheme.svg.png",
+                "caption": "Sketch of a parabolic trough design. A change of position of the sun parallel to the receiver does not require adjustment of the mirrors."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_energy",
+        "title": "Solar thermal energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Enclosed trough",
+        "text": "The enclosed trough architecture encapsulates the solar thermal system within a greenhouse-like glasshouse. The glasshouse creates a protected environment to withstand the elements that can negatively impact reliability and efficiency of the solar thermal system. [42] Lightweight curved solar-reflecting mirrors are suspended within the glasshouse structure. A single-axis tracking system positions the mirrors to track the sun and focus its light onto a network of stationary steel pipes, also suspended from the glasshouse structure. [43] Steam is generated directly, using oil field-quality water, as water flows from the inlet throughout the length of the pipes, without heat exchangers or intermediate working fluids. The steam produced is then fed directly to the field’s existing steam distribution network, where the steam is continuously injected deep into the oil reservoir. Sheltering the mirrors from the wind allows them to achieve higher temperature rates and prevents dust from building up as a result from exposure to humidity. [42] GlassPoint Solar , the company that created the Enclosed Trough design, states its technology can produce heat for EOR for about $5 per million British thermal units in sunny regions, compared to between $10 and $12 for other conventional solar thermal technologies. [44] GlassPoint’s enclosed trough system has been utilized at the Miraah facility in Oman , and a new project has recently been announced for the company to bring its enclosed trough technology to the South Belridge Oil Field , near Bakersfield, California . [45]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Inside_an_enclosed_CSP_Trough.jpg/220px-Inside_an_enclosed_CSP_Trough.jpg",
+                "caption": "Inside an enclosed trough system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_energy",
+        "title": "Solar thermal energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Power tower designs",
+        "text": "Power towers (also known as 'central tower' power plants or ' heliostat ' power plants) capture and focus the sun's thermal energy with thousands of tracking mirrors (called heliostats) in roughly a two square mile field. A tower resides in the center of the heliostat field. The heliostats focus concentrated sunlight on a receiver which sits on top of the tower. Within the receiver the concentrated sunlight heats molten salt to over 1,000 °F (538 °C). The heated molten salt then flows into a thermal storage tank where it is stored, maintaining 98% thermal efficiency , and eventually pumped to a steam generator. The steam drives a standard turbine to generate electricity. This process, also known as the \" Rankine cycle \" is similar to a standard coal-fired power plant, except it is fueled by solar energy. The advantage of this design above the parabolic trough design is the higher temperature. Thermal energy at higher temperatures can be converted to electricity more efficiently and can be more cheaply stored for later use. Furthermore, there is less need to flatten the ground area. In principle a power tower can be built on the side of a hill. Mirrors can be flat and plumbing is concentrated in the tower. The disadvantage is that each mirror must have its own dual-axis control, while in the parabolic trough design single axis tracking can be shared for a large array of mirrors. A cost/performance comparison between power tower and parabolic trough concentrators was made by the NREL which estimated that by 2020 electricity could be produced from power towers for 5.47 ¢/kWh and for 6.21 ¢/kWh from parabolic troughs. The capacity factor for power towers was estimated to be 72.9% and 56.2% for parabolic troughs. [46] There is some hope that the development of cheap, durable, mass producible heliostat power plant components could bring this cost down. [47] The first commercial tower power plant was PS10 in Spain with a capacity of 11 MW, completed in 2007. Since then a number of plants have been proposed, several have been built in a number of countries (Spain, Germany, U.S., Turkey, China, India) but several proposed plants were cancelled as photovoltaic solar prices plummeted. A solar power tower went online in South Africa in 2016. [48] Ivanpah Solar Power Facility in California generates 392 MW of electricity from three towers, making it the largest solar power tower plant when it came online in late 2013.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IvanpahRunning.JPG/500px-IvanpahRunning.JPG",
+                "caption": "Ivanpah Solar Electric Generating System with all three towers under load, Feb., 2014. Taken from I-15 in San Bernardino County, California . The Clark Mountain Range can be seen in the distance."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_energy",
+        "title": "Solar thermal energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Dish designs",
+        "text": "A dish Stirling system uses a large, reflective, parabolic dish (similar in shape to a satellite television dish). It focuses all the sunlight that strikes the dish up onto a single point above the dish, where a receiver captures the heat and transforms it into a useful form. Typically the dish is coupled with a Stirling engine in a Dish-Stirling System, but also sometimes a steam engine is used. [49] These create rotational kinetic energy that can be converted to electricity using an electric generator. [50] In 2005 Southern California Edison announced an agreement to purchase solar powered Stirling engines from Stirling Energy Systems over a twenty-year period and in quantities (20,000 units) sufficient to generate 500 megawatts of electricity. In January 2010, Stirling Energy Systems and Tessera Solar commissioned the first demonstration 1.5-megawatt power plant (\"Maricopa Solar\") using Stirling technology in Peoria, Arizona. [51] At the beginning of 2011 Stirling Energy's development arm, Tessera Solar, sold off its two large projects, the 709 MW Imperial project and the 850 MW Calico project to AES Solar and K.Road, respectively. [52] [53] In 2012 the Maricopa plant was bought and dismantled by United Sun Systems . [54] United Sun Systems released a new generation system , based on a V-shaped Stirling engine and a peak production of 33 kW. The new CSP-Stirling technology brings down LCOE to USD 0.02 in utility scale. [ citation needed ] According to its developer, Rispasso Energy , a Swedish firm, in 2015 its Dish Sterling system being tested in the Kalahari Desert in South Africa showed 34% efficiency. [55]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SolarStirlingEngine.jpg/220px-SolarStirlingEngine.jpg",
+                "caption": "A parabolic solar dish concentrating the sun's rays on the heating element of a Stirling engine . The entire unit acts as a solar tracker ."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_energy",
+        "title": "Solar thermal energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Fresnel technologies",
+        "text": "A linear Fresnel reflector power plant uses a series of long, narrow, shallow-curvature (or even flat) mirrors to focus light onto one or more linear receivers positioned above the mirrors. On top of the receiver a small parabolic mirror can be attached for further focusing the light. These systems aim to offer lower overall costs by sharing a receiver between several mirrors (as compared with trough and dish concepts), while still using the simple line-focus geometry with one axis for tracking. This is similar to the trough design (and different from central towers and dishes with dual-axis). The receiver is stationary and so fluid couplings are not required (as in troughs and dishes). The mirrors also do not need to support the receiver, so they are structurally simpler. When suitable aiming strategies are used (mirrors aimed at different receivers at different times of day), this can allow a denser packing of mirrors on available land area. Rival single axis tracking technologies include the relatively new linear Fresnel reflector (LFR) and compact-LFR (CLFR) technologies. The LFR differs from that of the parabolic trough in that the absorber is fixed in space above the mirror field. Also, the reflector is composed of many low row segments, which focus collectively on an elevated long tower receiver running parallel to the reflector rotational axis. [56] Prototypes of Fresnel lens concentrators have been produced for the collection of thermal energy by International Automated Systems . [57] No full-scale thermal systems using Fresnel lenses are known to be in operation, although products incorporating Fresnel lenses in conjunction with photovoltaic cells are already available. [58]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/CLFR_Alternating_Inclination.JPG/220px-CLFR_Alternating_Inclination.JPG",
+                "caption": "Fresnel reflector"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_energy",
+        "title": "Solar thermal energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Molten salt storage",
+        "text": "Molten salt is used to transport heat in solar power tower systems because it is liquid at atmospheric pressure, provides a low-cost medium to store thermal energy, its operating temperatures are compatible with today's steam turbines, and it is non-flammable and nontoxic. Molten salt is also used in the chemical and metals industries to transport heat. The first commercial molten salt mixture was a common form of saltpeter , 60% sodium nitrate and 40% potassium nitrate . Saltpeter melts at 220 °C (430 °F) and is kept liquid at 290 °C (550 °F) in an insulated storage tank. Calcium nitrate can reduce the melting point to 131 °C, permitting more energy to be extracted before the salt freezes. There are now several technical calcium nitrate grades stable at more than 500 °C. This solar power system can generate power in cloudy weather or at night using the heat in the tank of hot salt. The tanks are insulated, able to store heat for a week. Tanks that power a 100-megawatt turbine for four hours would be about 9 m (30 ft) tall and 24 m (80 ft) in diameter. The Andasol power plant in Spain is the first commercial solar thermal power plant using molten salt for heat storage and nighttime generation. It came on line March 2009. [65] On July 4, 2011, a company in Spain celebrated an historic moment for the solar industry: Torresol’s 19.9 MW concentrating solar power plant became the first ever to generate uninterrupted electricity for 24 hours straight, using a molten salt heat storage. [66] In January 2019 Shouhang Energy Saving Dunhuang 100MW molten salt tower solar energy photothermal power station project was connected to grid and started operating. Its configuration includes an 11-hour molten salt heat storage system and can generate power consecutively for 24 hours. [67]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Andasol_Guadix_4.jpg/220px-Andasol_Guadix_4.jpg",
+                "caption": "The 150 MW Andasol solar power station is a commercial parabolic trough solar thermal power plant, located in Spain . The Andasol plant uses tanks of molten salt to store solar energy so that it can continue generating electricity even when the sun isn't shining. [64]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_energy",
+        "title": "Solar thermal energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Structure and working",
+        "text": "Simple designs include a simple glass-topped insulated box with a flat solar absorber made of dark-colored sheet metal, attached to copper heat exchanger pipes , or a set of metal tubes surrounded by an evacuated (near vacuum) glass cylinder. In industrial cases a parabolic mirror can concentrate sunlight on the tube. Heat is stored in a hot water storage tank . The volume of this tank needs to be larger with solar heating systems to compensate for bad weather [ clarification needed ] and because the optimum final temperature for the solar collector [ clarification needed ] is lower than a typical immersion or combustion heater. The heat transfer fluid (HTF) for the absorber may be  water, but more commonly (at least in active systems) is a separate loop of fluid containing anti-freeze and a corrosion inhibitor delivers heat to the tank through a heat exchanger (commonly a coil of copper heat exchanger tubing within the tank). Copper is an important component in solar thermal heating and cooling systems because of its high heat conductivity, atmospheric and water corrosion resistance, sealing and joining by soldering and mechanical strength. Copper is used both in receivers and primary circuits (pipes and heat exchangers for water tanks). [17] The 'drain-back' is another lower-maintenance concept. [18] No anti-freeze is required; instead, all the piping is sloped to cause water to drain back to the tank. The tank is not pressurized and operates at atmospheric pressure. As soon as the pump shuts off, flow reverses and the pipes empty before freezing can occur. Residential solar thermal installations fall into two groups: passive (sometimes called \"compact\") and active (sometimes called \"pumped\") systems. Both typically include an auxiliary energy source (electric heating element or connection to a gas or fuel oil central heating system) that is activated when the water in the tank falls below a minimum temperature setting, ensuring that hot water is always available. The combination of solar water heating and back-up heat from a wood stove chimney [19] can enable a hot water system to work all year round in cooler climates, without the supplemental heat requirement of a solar water heating system being met with fossil fuels or electricity. When a solar water heating and hot-water central heating system are used together, solar heat will either be concentrated in a pre-heating tank that feeds into the tank heated by the central heating , or the solar heat exchanger will replace the lower heating element and the upper element will remain to provide for supplemental heat. However, the primary need for central heating is at night and in winter when solar gain is lower. Therefore, solar water heating for washing and bathing is often a better application than central heating because supply and demand are better matched. In many climates, a solar hot water system can provide up to 85% of domestic hot water energy. This can include domestic non-electric concentrating solar thermal systems. In many northern European countries, combined hot water and space heating systems ( solar combisystems ) are used to provide 15 to 25% of home heating energy. When combined with storage , large scale solar heating can provide 50-97% of annual heat consumption for district heating . [20] [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Solar_Hot_Water_Diagram.png/220px-Solar_Hot_Water_Diagram.png",
+                "caption": "How a solar hot water system works"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_water_heating",
+        "title": "Solar water heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Direct",
+        "text": "Direct or open loop systems circulate potable water through the collectors. They are relatively cheap. Drawbacks include: The advent of freeze-tolerant designs expanded the market for SWH to colder climates. In freezing conditions, earlier models were damaged when the water turned to ice, rupturing one or more components.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/DirectSolarSystems.jpg/310px-DirectSolarSystems.jpg",
+                "caption": "Direct systems: (A) Passive CHS system with tank above collector. (B) Active system with pump and controller driven by a photovoltaic panel."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_water_heating",
+        "title": "Solar water heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Passive direct systems",
+        "text": "An integrated collector storage (ICS or batch heater) system uses a tank that acts as both storage and collector. Batch heaters are thin rectilinear tanks with a glass side facing the Sun at noon . They are simple and less costly than plate and tube collectors, but they may require bracing if installed on a roof (to support 400–700 lb (180–320 kg) lbs of water), suffer from significant heat loss at night since the side facing the sun is largely uninsulated and are only suitable in moderate climates. A convection heat storage unit (CHS) system is similar to an ICS system, except the storage tank and collector are physically separated and transfer between the two is driven by convection. CHS systems typically use standard flat-plate type or evacuated tube collectors. The storage tank must be located above the collectors for convection to work properly. The main benefit of CHS systems over ICS systems is that heat loss is largely avoided since the storage tank can be fully insulated. Since the panels are located below the storage tank, heat loss does not cause convection, as the cold water stays at the lowest part of the system.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Batch_solar_thermal_collectorColour.jpg/220px-Batch_solar_thermal_collectorColour.jpg",
+                "caption": "An integrated collector storage (ICS) system"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_water_heating",
+        "title": "Solar water heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Collector",
+        "text": "Solar thermal collectors capture and retain heat from the sun and use it to heat a liquid. [27] Two important physical principles govern the technology of solar thermal collectors:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flat-plate_solar_thermal_collector%2C_viewed_from_roof-level.png/220px-Flat-plate_solar_thermal_collector%2C_viewed_from_roof-level.png",
+                "caption": "Flat-plate solar thermal collector, viewed from roof-level"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_water_heating",
+        "title": "Solar water heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Evacuated tube",
+        "text": "Evacuated tube collectors (ETC) are a way to reduce the heat loss, [29] inherent in flat plates. Since heat loss due to convection cannot cross a vacuum, it forms an efficient isolation mechanism to keep heat inside the collector pipes. [31] Since two flat glass sheets are generally not strong enough to withstand a vacuum, the vacuum is created between two concentric tubes. Typically, the water piping in an ETC is therefore surrounded by two concentric tubes of glass separated by a vacuum that admits heat from the sun (to heat the pipe) but that limits heat loss. The inner tube is coated with a thermal absorber. [32] Vacuum life varies from collector to collector, from 5 years to 15 years. Flat plate collectors are generally more efficient than ETC in full sunshine conditions. However, the energy output of flat plate collectors is reduced slightly more than ETCs in cloudy or extremely cold conditions. [29] Most ETCs are made out of annealed glass, which is susceptible to hail , failing given roughly golf ball -sized particles. ETCs made from \"coke glass\", which has a green tint, are stronger and less likely to lose their vacuum, but efficiency is slightly reduced due to reduced transparency. ETCs can gather energy from the sun all day long at low angles due to their tubular shape. [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Sistema_por_Hidroneumatico_%28Calentador_solar_para_alta_presi%C3%B3n%29.JPG/220px-Sistema_por_Hidroneumatico_%28Calentador_solar_para_alta_presi%C3%B3n%29.JPG",
+                "caption": "Evacuated tube solar water heater on a roof"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_water_heating",
+        "title": "Solar water heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Energy production",
+        "text": "The amount of heat delivered by a solar water heating system depends primarily on the amount of heat delivered by the sun at a particular place ( insolation ). In the tropics insolation can be relatively high, e.g. 7 kWh/m 2 per day, versus e.g., 3.2 kWh/m 2 per day in temperate areas. Even at the same latitude average insolation can vary a great deal from location to location due to differences in local weather patterns and the amount of overcast. Calculators are available for estimating insolation at a site. [44] [45] [46] Below is a table that gives a rough indication of the specifications and energy that could be expected from a solar water heating system involving some 2 m 2 of absorber area of the collector, demonstrating two evacuated tube and three flat plate solar water heating systems. Certification information or figures calculated from those data are used. The bottom two rows give estimates for daily energy production (kWh/day) for a tropical and a temperate scenario. These estimates are for heating water to 50 °C above ambient temperature. With most solar water heating systems, the energy output scales linearly with the collector surface area. [47] The figures are fairly similar between the above collectors, yielding some 4 kWh/day in a temperate climate and some 8 kWh/day in a tropical climate when using a collector with a 2 m 2 absorber. In the temperate scenario this is sufficient to heat 200 litres of water by some 17 °C. In the tropical scenario the equivalent heating would be by some 33 °C. Many thermosiphon systems have comparable energy output to equivalent active systems. The efficiency of evacuated tube collectors is somewhat lower than for flat plate collectors because the absorbers are narrower than the tubes and the tubes have space between them, resulting in a significantly larger percentage of inactive overall collector area. Some methods of comparison [48] calculate the efficiency of evacuated tube collectors based on the actual absorber area and not on the space occupied as has been done in the above table. Efficiency is reduced at higher temperatures.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Laundromat-SolarCell.png/220px-Laundromat-SolarCell.png",
+                "caption": "A laundromat in California with panels on the roof providing hot washing water"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_water_heating",
+        "title": "Solar water heating",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Flat plate collectors",
+        "text": "Flat-plate collectors are the most common solar thermal technology in Europe . [7] They consist of an (1) enclosure containing (2) a dark-colored absorber plate with fluid circulation passageways, and (3) a transparent cover to allow transmission of solar energy into the enclosure. The sides and back of the enclosure are typically insulated to reduce heat loss to the ambient. A heat transfer fluid is circulated through the absorber's fluid passageways to remove heat from the solar collector. The circulation fluid in tropical and sub-tropical climates is typically water. In climates where freezing is likely, a heat transfer fluid similar to an automotive antifreeze solution may be used instead of water, or in a mixture with water. If a heat transfer fluid is used, a heat exchanger is typically employed to transfer heat from the solar collector fluid to a hot water storage tank. The most common absorber design consists of copper tubing joined to a high conductivity metal sheet (copper or aluminum). A dark coating is applied to the sun-facing side of the absorber assembly to increase its absorption of solar energy. A common absorber coating is black enamel paint. In higher performance solar collector designs, the transparent cover is tempered soda-lime glass having reduced iron oxide content same as for photovoltaic solar panels . The glass may also have a stippling pattern and one or two anti-reflective coatings to further enhance transparency . The absorber coating is typically a selective coating, where selective stands for having the special optical property to combine high absorption in the visible part of the electromagnetic spectrum coupled to low emittance in the infrared one. This creates a selective surface , which reduces black body energy emission from the absorber and improves performance. Piping can be laser or ultrasound welded to the absorber sheet to reduce damage to the selective coating, which is typically applied prior to joining to large coils in a roll-to-roll process . Absorber piping configurations include: A flat plate collector making use of a honeycomb structure to reduce heat loss also at the glass side too has also been made available commercially. Most flat plate collectors have a life expectancy of over 25 years. [ citation needed ] .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flat-plate_solar_thermal_collector%2C_viewed_from_roof-level.png/220px-Flat-plate_solar_thermal_collector%2C_viewed_from_roof-level.png",
+                "caption": "Two flat plate solar collectors side-by-side"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_collector",
+        "title": "Solar thermal collector",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Evacuated tube collectors",
+        "text": "Evacuated tube collectors are the most common solar thermal technology in the world. [7] They make use of a glass tube to surround the absorber with high vacuum and effectively resist atmospheric pressure . The vacuum that surrounds the absorber greatly reduces convection and conduction heat loss, therefore achieving greater energy conversion efficiency . The absorber can be either metallic as in the case of flat plate collectors or being a second concentric glass tube (\"Sydney Tube\"). Heat transfer fluid can flow in and out of each tube or being in contact with a heat pipe reaching inside the tube. For the latter, heat pipes transfer heat to the fluid in a heat exchanger called a \"manifold\" placed transversely with respect to the tubes. [ citation needed ] The manifold is wrapped in insulation ( glass wool ) and covered by a protective metal or plastic case also used for fixing to supports. Glass-metal evacuated tubes are made with flat or curved metal absorber sheets same as those of flat plates. These sheets are joined to pipes or heat pipes to make \"fins\" and placed inside a single borosilicate glass tube. An anti-reflective coating can be deposited on the inner and outer surfaces of such tubes to improve transparency. Both selective and anti-reflective coating (inner tube surface) will not degrade until the vacuum is lost. [8] A high vacuum-tight glass-metal seal is however required at one or both sides of each evacuated tube. This seal is cycled between ambient and fluid temperature each day of collector operation and might lead to failures in time. Glass-glass evacuated tubes are made with two borosilicate glass tubes fused together at one or both ends (similar a vacuum bottle or dewar flask). The absorber fin is placed inside the inner tube at atmospheric pressure. Glass-glass tubes have a very reliable seal, but the two layers of glass reduce the amount of sunlight that reaches the absorber. The selective coating can be deposited on the inner borosilicate tube (high vacuum side) to avoid this, but heat has then to flow through the poorly conducting glass thickness of the inner tube in this case. Moreover, moisture may enter the non-evacuated area inside the inner tube and cause absorber corrosion in particular when made from dissimilar materials ( galvanic corrosion ). A Barium flash getter pump is commonly evaporated inside the high vacuum gap in between tubes to keep the internal pressure stable through time. The high temperatures that can occur inside evacuated tubes may require special design to prevent overheating . Some evacuated tube collectors work as a thermal one-way valve due to their heat pipes. This gives them an inherent maximum operating temperature that acts as a safety feature. [9] Evacuated tubes collectors can also be provided with low concentrating reflectors at the back of the tubes realising a CPC collector. [10]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Vakuumroehrenkollektor_01.jpg/220px-Vakuumroehrenkollektor_01.jpg",
+                "caption": "Evacuated tube collector"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Vacuum_collector_double_tube.png/220px-Vacuum_collector_double_tube.png",
+                "caption": "Direct flow evacuated tube"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Vacuum_collector_single_tube.png/220px-Vacuum_collector_single_tube.png",
+                "caption": "Heat pipe evacuated tube"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Solar_vacuum_tube_collectors_Thessaloniki.jpg/220px-Solar_vacuum_tube_collectors_Thessaloniki.jpg",
+                "caption": "An array of evacuated tube collectors on a roof"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_collector",
+        "title": "Solar thermal collector",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Comparisons of flat plate and evacuated tube collectors",
+        "text": "A longstanding argument exists between proponents of these two technologies. Some of this can be related to the structure of evacuated tube collectors which have a discontinuous absorbance area. An array of evacuated tubes collectors on a roof has space between the individual tubes and a vacuum gap between each tube and its absorber inside, covering only a fraction of the installation area on a roof. If evacuated tubes are compared with flat-plate collectors on the basis of the area of roof occupied (gross area), a different conclusion might be reached than if the absorber or aperture areas were compared. The recent revision of the ISO 9806 standard [11] states that the efficiency of solar thermal collectors should be measured in terms of gross area and this might favour flat plates in respect to evacuated tube collectors in direct comparisons. Flat-plate collectors usually lose more heat to the environment than evacuated tubes because there is no insulation at the glass side. Evacuated tube collectors intrinsically have a lower absorber to gross area ratio (typically 60–80% less) than flat plates because tubes have to be spaced apart. Although several European companies manufacture evacuated tube collectors (mainly glass-metal type), the evacuated tube market is dominated by manufacturers in China, with some companies having track records of 15–30 years or more. There is no unambiguous evidence that the two designs differ in long-term reliability. However, evacuated tube technology (especially for newer variants with glass-metal seals and heat pipes) still needs to demonstrate competitive lifetimes. The modularity of evacuated tubes can be advantageous in terms of extensibility and maintenance, for example, if the vacuum in one heat pipe tube is lost it can be easily be replaced with minimal effort. In most climates, flat plate collectors will generally be more cost-effective than evacuated tubes. [14] However, evacuated tube collectors are well-suited to cold ambient temperatures and work well in situations of low solar irradiance, providing heat more consistently throughout the year. Unglazed flat plate collectors are the preferred devices for heating swimming pool water. Unglazed collectors may be suitable in tropical or subtropical environments if domestic hot water needs to be heated by less than 20 °C (36 °F) over ambient temperature. Evacuated tube collectors have less aerodynamic drag, which may allow for a simpler installation on roofs in windy locations. The gaps between the tubes may allow for snow to fall through the collector, minimizing the loss of production in some snowy conditions, though the lack of radiated heat from the tubes can also prevent effective shedding of accumulated snow. Flat plate collectors might be easier to clean. Other properties, such as appearance and ease of installation are more subjective and difficult to compare.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MT-Power_Masdar_City.jpg/220px-MT-Power_Masdar_City.jpg",
+                "caption": "An array of evacuated flat plate collectors next to compact solar concentrators"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/SolarCollectorsCompare1.jpg/220px-SolarCollectorsCompare1.jpg",
+                "caption": "A comparison of the energy output (kW.h/day) of a flat plate collector (blue lines; Thermodynamics S42-P [ dubious – discuss ] ; absorber 2.8 m 2 ) and an evacuated tube collector (green lines; SunMaxx 20EVT [ dubious – discuss ] ; absorber 3.1 m 2 . Data obtained from SRCC certification documents on the Internet. [ dubious – discuss ] Tm-Ta = temperature difference between water in the collector and the ambient temperature. Q = insolation during the measurements. Firstly, as (Tm-Ta) increases the flat plate collector loses efficiency more rapidly than the evac tube collector. This means the flat plate collector is less efficient in producing water higher than 25 degrees C above ambient (i.e. to the right of the red marks on the graph). [ dubious – discuss ] Secondly, even though the output of both collectors drop off strongly under cloudy conditions (low insolation), the evac tube collector yields significantly more energy under cloudiness than the flat plate collector. Although many factors obstruct the extrapolation from two collectors to two different technologies, above, the basic relationships between their efficiencies remain valid [ dubious – discuss ] ."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Panelcomp2.jpg/220px-Panelcomp2.jpg",
+                "caption": "A field trial [12] illustrating the differences discussed in the figure on the left. A flat plate collector and a similar-sized evacuated tube collector were installed adjacently on a roof, each with a pump, controller and storage tank. Several variables were logged during a day with intermittent rain and cloud. Green line = solar irradiation. The top maroon line indicates the temperature of the evac tube collector for which cycling of the pump is much slower and even stopping for some 30 minutes during the cool parts of the day (irradiation low), indicating a slow rate of heat collection. The temperature of the flat plate collector fell significantly during the day (bottom purple line) but started cycling again later in the day when irradiation increased. The temperature in the water storage tank of the evac tube system (dark blue graph) increased by 8 degrees C during the day while that of the flat plate system (light blue graph) only remained constant. Courtesy ITS-solar. [12] [ dubious – discuss ]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Comparison_1000.png/220px-Comparison_1000.png",
+                "caption": "Chart showing flat-plate collectors outperforming evacuated tubes up until 67 °C (120 °F) above ambient and, shaded in gray, the normal operating range for solar domestic hot water systems. [13]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_collector",
+        "title": "Solar thermal collector",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Bowl collectors",
+        "text": "A solar bowl is a type of solar thermal collector that operates similarly to a parabolic dish , but instead of using a tracking parabolic mirror with a fixed receiver, it has a fixed spherical mirror with a tracking receiver. This reduces efficiency but makes it cheaper to build and operate. Designers call it a fixed mirror distributed focus solar power system . The main reason for its development was to eliminate the cost of moving a large mirror to track the sun as with parabolic dish systems. [23] A fixed parabolic mirror creates a variously shaped image of the sun as it moves across the sky. Only when the mirror is pointed directly at the sun does the light focus on one point. That is why parabolic dish systems track the sun. A fixed spherical mirror focuses the light in the same place independent of the sun's position. The light, however, is not directed to one point but is distributed on a line from the surface of the mirror to one half radius (along a line that runs through the sphere center and the sun). [ citation needed ] As the sun moves across the sky, the aperture of any fixed collector changes. This causes changes in the amount of captured sunlight, producing what is called the sinus effect of power output. Proponents of the solar bowl design claim the reduction in overall power output compared with tracking parabolic mirrors is offset by lower system costs. [23] The sunlight concentrated at the focal line of a spherical reflector is collected using a tracking receiver. This receiver is pivoted around the focal line and is usually counterbalanced. The receiver may consist of pipes carrying fluid for thermal transfer or photovoltaic cells for direct conversion of light to electricity. The solar bowl design resulted from a project of the Electrical Engineering Department of the Texas Technical University, headed by Edwin O'Hair, to develop a 5 MWe power plant. A solar bowl was built for the town of Crosbyton, Texas as a pilot facility. [23] The bowl had a diameter of 65 ft (20 m), tilted at a 15° angle to optimize the cost/yield relation (33° would have maximized yield). The rim of the hemisphere was \"trimmed\" to 60°, creating a maximum aperture of 3,318 square feet (308.3 m 2 ). This pilot bowl produced electricity at a rate of 10 kW peak. [ citation needed ] A 15-metre (49 ft) diameter Auroville solar bowl was developed from an earlier test of a 3.5-metre (11 ft) bowl in 1979–1982 by the Tata Energy Research Institute . That test showed the use of the solar bowl in the production of steam for cooking. The full-scale project to build a solar bowl and kitchen ran from 1996 and was fully operational by 2001. [ citation needed ] In locations with average available solar energy, flat plate collectors are sized approximately 1.2 to 2.4 square decimeter per liter of one day's hot water use.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Sphericalmirrorimage.jpg/220px-Sphericalmirrorimage.jpg",
+                "caption": "Typical energy density along the 1/2 radius length focal line of a spherical reflector"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_collector",
+        "title": "Solar thermal collector",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Background",
+        "text": "The term \"unglazed air collector\" refers to a solar air heating system that consists of a metal absorber without any glass or glazing over top. The most common type of unglazed collector on the market is the transpired solar collector. The technology has been extensively monitored by these government agencies, and Natural Resources Canada developed the feasibility tool RETScreen™ to model the energy savings from transpired solar collectors. Since that time, several thousand transpired solar collector systems have been installed in a variety of commercial, industrial, institutional, agricultural, and process applications in countries around the world. This technology was originally used primarily in industrial applications such as manufacturing and assembly plants where there were high ventilation requirements, stratified ceiling heat, and often negative pressure in the building. With the increasing drive to install renewable energy systems on buildings, transpired solar collectors are now used across the entire building stock because of high energy production (up to 750 peak thermal Watts/square metre), high solar conversion (up to 90%) and lower capital costs when compared against solar photovoltaic and solar water heating. Solar air heating is a renewable energy heating technology used to heat or condition air for buildings or process heat applications. It is typically the most cost-effective of all the solar technologies, especially in large scale applications, and it addresses the largest usage of building energy in heating climates, which is space heating and industrial process heating. They are either glazed or unglazed.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Transpired_Air_Collector.PNG/220px-Transpired_Air_Collector.PNG",
+                "caption": "Solar air heating is a solar thermal technology in which the energy from the sun, solar insolation, is captured by an absorbing medium and used to heat air."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_collector",
+        "title": "Solar thermal collector",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Generating electricity",
+        "text": "Parabolic troughs , dishes and towers described in this section are used almost exclusively in solar power generating stations or for research purposes. Parabolic troughs have been used for some commercial solar air conditioning systems. Although simple, these solar concentrators are quite far from the theoretical maximum concentration. [25] [26] For example, the parabolic trough concentration is about 1/3 of the theoretical maximum for the same acceptance angle , that is, for the same overall tolerances for the system. Approaching the theoretical maximum may be achieved by using more elaborate concentrators based on nonimaging optics . [25] Solar thermal collectors may also be used in conjunction with photovoltaic collectors to obtain combined heat and power. [27] [28]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Parabolic_trough.svg/220px-Parabolic_trough.svg.png",
+                "caption": "Parabolic trough"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_collector",
+        "title": "Solar thermal collector",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Parabolic dish",
+        "text": "With a parabolic dish collector, one or more parabolic dishes concentrate solar energy at a single focal point, similar to the way a reflecting telescope focuses starlight, or a dish antenna focuses radio waves. This geometry may be used in solar furnaces and solar power plants. The shape of a parabola means that incoming light rays which are parallel to the dish's axis will be reflected toward the focus, no matter where on the dish they arrive. Light from the sun arrives at the Earth's surface almost completely parallel, and the dish is aligned with its axis pointing at the sun, allowing almost all incoming radiation to be reflected towards the focal point of the dish. Most losses in such collectors are due to imperfections in the parabolic shape and imperfect reflection. Losses due to atmospheric scattering are generally minimal. However, on a hazy or foggy day, light is diffused in all directions through the atmosphere, which significantly reduces the efficiency of a parabolic dish. In dish stirling power plant designs, a stirling engine coupled to a dynamo is placed at the focus of the dish. This absorbs the energy focused onto it and converts it into electricity.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dish-Stirling_Principle.png/220px-Dish-Stirling_Principle.png",
+                "caption": "Solar parabolic dish"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_collector",
+        "title": "Solar thermal collector",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Power tower",
+        "text": "A power tower is a large tower surrounded by tracking mirrors called heliostats . These mirrors align themselves and focus sunlight on the receiver at the top of the tower, collected heat is transferred to a power station below. This design reaches very high temperatures. High temperatures are suitable for electricity generation using conventional methods like steam turbine or a direct high-temperature chemical reaction such as liquid salt. [29] By concentrating sunlight, current systems can get better efficiency than simple solar cells. A larger area can be covered by using relatively inexpensive mirrors rather than using expensive solar cells . Concentrated light can be redirected to a suitable location via optical fiber cable for such uses as illuminating buildings. Heat storage for power production during cloudy and overnight conditions can be accomplished, often by underground tank storage of heated fluids. Molten salts have been used to good effect. Other working fluids, such as liquid metals, have also been proposed due to their superior thermal properties. [30] However, concentrating systems require sun tracking to maintain sunlight focus at the collector. They are unable to provide significant power in diffused light conditions. Solar cells are able to provide some output even if the sky becomes cloudy, but power output from concentrating systems drops drastically in cloudy conditions as diffused light cannot be concentrated well.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/PS10_solar_power_tower.jpg/220px-PS10_solar_power_tower.jpg",
+                "caption": "Solar power tower"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_thermal_collector",
+        "title": "Solar thermal collector",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Potential",
+        "text": "The Earth receives 174 petawatts (PW) of incoming solar radiation ( insolation ) at the upper atmosphere . [6] Approximately 30% is reflected back to space while the rest, 122 PW, is absorbed by clouds, oceans and land masses. The spectrum of solar light at the Earth's surface is mostly spread across the visible and near-infrared ranges with a small part in the near-ultraviolet . [7] Most of the world's population live in areas with insolation levels of 150–300 watts/m 2 , or 3.5–7.0 kWh /m 2 per day. [8] Solar radiation is absorbed by the Earth's land surface, oceans – which cover about 71% of the globe – and atmosphere. Warm air containing evaporated water from the oceans rises, causing atmospheric circulation or convection . When the air reaches a high altitude, where the temperature is low, water vapor condenses into clouds, which rain onto the Earth's surface, completing the water cycle . The latent heat of water condensation amplifies convection, producing atmospheric phenomena such as wind, cyclones and anticyclones . [9] Sunlight absorbed by the oceans and land masses keeps the surface at an average temperature of 14 °C. [10] By photosynthesis , green plants convert solar energy into chemically stored energy, which produces food, wood and the biomass from which fossil fuels are derived. [11] The total solar energy absorbed by Earth's atmosphere, oceans and land masses is approximately 122 PW·year = 3,850,000 exajoules (EJ) per year. [12] In 2002 (2019), this was more energy in one hour (one hour and 25 minutes) than the world used in one year. [13] [14] Photosynthesis captures approximately 3,000 EJ per year in biomass. [15] The potential solar energy that could be used by humans differs from the amount of solar energy present near the surface of the planet because factors such as geography, time variation, cloud cover, and the land available to humans limit the amount of solar energy that we can acquire. In 2021, Carbon Tracker Initiative estimated the land area needed to generate all our energy from solar alone was 450,000 km 2 — or about the same as the area of Sweden , or the area of Morocco , or the area of California (0.3% of the Earth's total land area). [20] Solar technologies are categorized as either passive or active depending on the way they capture, convert and distribute sunlight and enable solar energy to be harnessed at different levels around the world, mostly depending on the distance from the Equator. Although solar energy refers primarily to the use of solar radiation for practical ends, all types of renewable energy, other than geothermal power and tidal power , are derived either directly or indirectly from the Sun. Active solar techniques use photovoltaics, concentrated solar power , solar thermal collectors , pumps, and fans to convert sunlight into useful output. Passive solar techniques include selecting materials with favorable thermal properties, designing spaces that naturally circulate air, and referencing [ clarification needed ] the position of a building to the Sun. Active solar technologies increase the supply of energy and are considered supply side technologies, while passive solar technologies reduce the need for alternative resources and are generally considered demand-side technologies. [21] In 2000, the United Nations Development Programme , UN Department of Economic and Social Affairs, and World Energy Council published an estimate of the potential solar energy that could be used by humans each year. This took into account factors such as insolation, cloud cover, and the land that is usable by humans. It was stated that solar energy has a global potential of 1,600 to 49,800 exajoules (4.4 × 10 14 to 1.4 × 10 16 kWh) per year (see table below) . [22]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Breakdown_of_the_incoming_solar_energy.svg/225px-Breakdown_of_the_incoming_solar_energy.svg.png",
+                "caption": "About half the incoming solar energy reaches the Earth's surface."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/World_GHI_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png/330px-World_GHI_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png",
+                "caption": "Global map of horizontal irradiation [5]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Early commercial adaptation",
+        "text": "In 1878, at the Universal Exposition in Paris, Augustin Mouchot successfully demonstrated a solar steam engine but could not continue development because of cheap coal and other factors. In 1897, Frank Shuman , a US inventor, engineer and solar energy pioneer built a small demonstration solar engine that worked by reflecting solar energy onto square boxes filled with ether, which has a lower boiling point than water and were fitted internally with black pipes which in turn powered a steam engine. In 1908 Shuman formed the Sun Power Company with the intent of building larger solar power plants. He, along with his technical advisor A.S.E. Ackermann and British physicist Sir Charles Vernon Boys , [24] developed an improved system using mirrors to reflect solar energy upon collector boxes, increasing heating capacity to the extent that water could now be used instead of ether. Shuman then constructed a full-scale steam engine powered by low-pressure water, enabling him to patent the entire solar engine system by 1912. Shuman built the world's first solar thermal power station in Maadi , Egypt , between 1912 and 1913. His plant used parabolic troughs to power a 45–52 kilowatts (60–70 hp ) engine that pumped more than 22,000 litres (4,800 imp gal; 5,800 US gal) of water per minute from the Nile River to adjacent cotton fields. Although the outbreak of World War I and the discovery of cheap oil in the 1930s discouraged the advancement of solar energy, Shuman's vision, and basic design were resurrected in the 1970s with a new wave of interest in solar thermal energy. [25] In 1916 Shuman was quoted in the media advocating solar energy's utilization, saying:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/US_Patent_1240890.pdf/page1-180px-US_Patent_1240890.pdf.jpg",
+                "caption": "1917 patent drawing of Shuman's solar collector"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Water heating",
+        "text": "Solar hot water systems use sunlight to heat water. In middle geographical latitudes (between 40 degrees north and 40 degrees south), 60 to 70% of the domestic hot water use, with water temperatures up to 60 °C (140 °F), can be provided by solar heating systems. [27] The most common types of solar water heaters are evacuated tube collectors (44%) and glazed flat plate collectors (34%) generally used for domestic hot water; and unglazed plastic collectors (21%) used mainly to heat swimming pools. [28] As of 2015, the total installed capacity of solar hot water systems was approximately 436 thermal gigawatt (GW th ), and China is the world leader in their deployment with 309 GW th installed, taken up 71% of the market. [29] Israel and Cyprus are the per capita leaders in the use of solar hot water systems with over 90% of homes using them. [30] In the United States, Canada, and Australia, heating swimming pools is the dominant application of solar hot water with an installed capacity of 18 GW th as of 2005. [21]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Twice_Cropped_Zonnecollectoren.JPG/170px-Twice_Cropped_Zonnecollectoren.JPG",
+                "caption": "Solar water heaters facing the Sun to maximize gain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Heating, cooling and ventilation",
+        "text": "In the United States, heating, ventilation and air conditioning (HVAC) systems account for 30% (4.65 EJ/yr) of the energy used in commercial buildings and nearly 50% (10.1 EJ/yr) of the energy used in residential buildings. [31] [32] Solar heating, cooling and ventilation technologies can be used to offset a portion of this energy.  Use of solar for heating can roughly be divided into passive solar concepts and active solar concepts, depending on whether active elements such as sun tracking and solar concentrator optics are used. Thermal mass is any material that can be used to store heat—heat from the Sun in the case of solar energy. Common thermal mass materials include stone, cement, and water. Historically they have been used in arid climates or warm temperate regions to keep buildings cool by absorbing solar energy during the day and radiating stored heat to the cooler atmosphere at night. However, they can be used in cold temperate areas to maintain warmth as well. The size and placement of thermal mass depend on several factors such as climate, daylighting, and shading conditions. When duly incorporated, thermal mass maintains space temperatures in a comfortable range and reduces the need for auxiliary heating and cooling equipment. [33] A solar chimney (or thermal chimney, in this context) is a passive solar ventilation system composed of a vertical shaft connecting the interior and exterior of a building. As the chimney warms, the air inside is heated, causing an updraft that pulls air through the building. Performance can be improved by using glazing and thermal mass materials [34] in a way that mimics greenhouses. Deciduous trees and plants have been promoted as a means of controlling solar heating and cooling. When planted on the southern side of a building in the northern hemisphere or the northern side in the southern hemisphere, their leaves provide shade during the summer, while the bare limbs allow light to pass during the winter. [35] Since bare, leafless trees shade 1/3 to 1/2 of incident solar radiation, there is a balance between the benefits of summer shading and the corresponding loss of winter heating. [36] In climates with significant heating loads, deciduous trees should not be planted on the Equator-facing side of a building because they will interfere with winter solar availability. They can, however, be used on the east and west sides to provide a degree of summer shading without appreciably affecting winter solar gain . [37]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Flipped_MIT_Solar_One_house.png/220px-Flipped_MIT_Solar_One_house.png",
+                "caption": "MIT 's Solar House #1, built in 1939 in the US, used seasonal thermal energy storage for year-round heating."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Cooking",
+        "text": "Solar cookers use sunlight for cooking, drying, and pasteurization . They can be grouped into three broad categories: box cookers, panel cookers, and reflector cookers. [38] The simplest solar cooker is the box cooker first built by Horace de Saussure in 1767. [39] A basic box cooker consists of an insulated container with a transparent lid. It can be used effectively with partially overcast skies and will typically reach temperatures of 90–150 °C (194–302 °F). [40] Panel cookers use a reflective panel to direct sunlight onto an insulated container and reach temperatures comparable to box cookers. Reflector cookers use various concentrating geometries (dish, trough, Fresnel mirrors) to focus light on a cooking container. These cookers reach temperatures of 315 °C (599 °F) and above but require direct light to function properly and must be repositioned to track the Sun. [41]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Auroville_Solar_Bowl.JPG/220px-Auroville_Solar_Bowl.JPG",
+                "caption": "Parabolic dish produces steam for cooking, in Auroville , India."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Water treatment",
+        "text": "Solar distillation can be used to make saline or brackish water potable. The first recorded instance of this was by 16th-century Arab alchemists. [47] A large-scale solar distillation project was first constructed in 1872 in the Chilean mining town of Las Salinas. [48] The plant, which had solar collection area of 4,700 m 2 (51,000 sq ft), could produce up to 22,700 L (5,000 imp gal; 6,000 US gal) per day and operate for 40 years. [48] Individual still designs include single-slope, double-slope (or greenhouse type), vertical, conical, inverted absorber, multi-wick, and multiple effect. These stills can operate in passive, active, or hybrid modes. Double-slope stills are the most economical for decentralized domestic purposes, while active multiple effect units are more suitable for large-scale applications. [47] Solar water disinfection (SODIS) involves exposing water-filled plastic polyethylene terephthalate (PET) bottles to sunlight for several hours. [49] Exposure times vary depending on weather and climate from a minimum of six hours to two days during fully overcast conditions. [50] It is recommended by the World Health Organization as a viable method for household water treatment and safe storage. [51] Over two million people in developing countries use this method for their daily drinking water. [50] Solar energy may be used in a water stabilization pond to treat waste water without chemicals or electricity. A further environmental advantage is that algae grow in such ponds and consume carbon dioxide in photosynthesis, although algae may produce toxic chemicals that make the water unusable. [52] [53]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Indonesia-sodis-gross.jpg/220px-Indonesia-sodis-gross.jpg",
+                "caption": "Solar water disinfection in Indonesia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Architecture and urban planning",
+        "text": "Sunlight has influenced building design since the beginning of architectural history. [73] Advanced solar architecture and urban planning methods were first employed by the Greeks and Chinese , who oriented their buildings toward the south to provide light and warmth. [74] The common features of passive solar architecture are orientation relative to the Sun, compact proportion (a low surface area to volume ratio), selective shading (overhangs) and thermal mass . [73] When these features are tailored to the local climate and environment, they can produce well-lit spaces that stay in a comfortable temperature range. Socrates ' Megaron House is a classic example of passive solar design. [73] The most recent approaches to solar design use computer modeling tying together solar lighting , heating and ventilation systems in an integrated solar design package. [75] Active solar equipment such as pumps, fans, and switchable windows can complement passive design and improve system performance. Urban heat islands (UHI) are metropolitan areas with higher temperatures than that of the surrounding environment. The higher temperatures result from increased absorption of solar energy by urban materials such as asphalt and concrete, which have lower albedos and higher heat capacities than those in the natural environment. A straightforward method of counteracting the UHI effect is to paint buildings and roads white and to plant trees in the area. Using these methods, a hypothetical \"cool communities\" program in Los Angeles has projected that urban temperatures could be reduced by approximately 3 °C at an estimated cost of US$1  billion, giving estimated total annual benefits of US$530  million from reduced air-conditioning costs and healthcare savings. [76]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Technische_Universit%C3%A4t_Darmstadt_-_Solar_Decathlon_2007.jpg/220px-Technische_Universit%C3%A4t_Darmstadt_-_Solar_Decathlon_2007.jpg",
+                "caption": "Darmstadt University of Technology , Germany, won the 2007 Solar Decathlon in Washington, DC with this passive house designed for humid and hot subtropical climate. [72]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Agriculture and horticulture",
+        "text": "Agriculture and horticulture seek to optimize the capture of solar energy to optimize the productivity of plants. Techniques such as timed planting cycles, tailored row orientation, staggered heights between rows and the mixing of plant varieties can improve crop yields. [77] [78] [79] While sunlight is generally considered a plentiful resource, the exceptions highlight the importance of solar energy to agriculture. During the short growing seasons of the Little Ice Age , French and English farmers employed fruit walls to maximize the collection of solar energy. These walls acted as thermal masses and accelerated ripening by keeping plants warm. Early fruit walls were built perpendicular to the ground and facing south, but over time, sloping walls were developed to make better use of sunlight. In 1699, Nicolas Fatio de Duillier even suggested using a tracking mechanism which could pivot to follow the Sun. [80] Applications of solar energy in agriculture aside from growing crops include pumping water, drying crops, brooding chicks and drying chicken manure. [46] [81] More recently the technology has been embraced by vintners , who use the energy generated by solar panels to power grape presses. [82] Greenhouses convert solar light to heat, enabling year-round production and the growth (in enclosed environments) of specialty crops and other plants not naturally suited to the local climate. Primitive greenhouses were first used during Roman times to produce cucumbers year-round for the Roman emperor Tiberius . [83] The first modern greenhouses were built in Europe in the 16th century to keep exotic plants brought back from explorations abroad. [84] Greenhouses remain an important part of horticulture today. Plastic transparent materials have also been used to similar effect in polytunnels and row covers .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Westland_kassen.jpg/220px-Westland_kassen.jpg",
+                "caption": "Greenhouses like these in the Westland municipality of the Netherlands grow vegetables, fruits and flowers."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Transport",
+        "text": "Development of a solar-powered car has been an engineering goal since the 1980s. The World Solar Challenge is a biannual solar-powered car race, where teams from universities and enterprises compete over 3,021 kilometres (1,877 mi) across central Australia from Darwin to Adelaide . In 1987, when it was founded, the winner's average speed was 67 kilometres per hour (42 mph) and by 2007 the winner's average speed had improved to 90.87 kilometres per hour (56.46 mph). [85] The North American Solar Challenge and the planned South African Solar Challenge are comparable competitions that reflect an international interest in the engineering and development of solar powered vehicles. [86] [87] Some vehicles use solar panels for auxiliary power, such as for air conditioning, to keep the interior cool, thus reducing fuel consumption. [88] [89] In 1975, the first practical solar boat was constructed in England. [90] By 1995, passenger boats incorporating PV panels began appearing and are now used extensively. [91] In 1996, Kenichi Horie made the first solar-powered crossing of the Pacific Ocean, and the Sun21 catamaran made the first solar-powered crossing of the Atlantic Ocean in the winter of 2006–2007. [92] There were plans to circumnavigate the globe in 2010. [93] In 1974, the unmanned AstroFlight Sunrise airplane made the first solar flight. On 29 April 1979, the Solar Riser made the first flight in a solar-powered, fully controlled, man-carrying flying machine, reaching an altitude of 40 ft (12 m). In 1980, the Gossamer Penguin made the first piloted flights powered solely by photovoltaics. This was quickly followed by the Solar Challenger which crossed the English Channel in July 1981. In 1990 Eric Scott Raymond in 21 hops flew from California to North Carolina using solar power. [94] Developments then turned back to unmanned aerial vehicles (UAV) with the Pathfinder (1997) and subsequent designs, culminating in the Helios which set the altitude record for a non-rocket-propelled aircraft at 29,524 metres (96,864 ft) in 2001. [95] The Zephyr , developed by BAE Systems , is the latest in a line of record-breaking solar aircraft, making a 54-hour flight in 2007, and month-long flights were envisioned by 2010. [96] From March 2015 to July 2016, Solar Impulse , an electric aircraft , successfully circumnavigated the globe. It is a single-seat plane powered by solar cells and capable of taking off under its own power. The design allows the aircraft to remain airborne for several days. [97] A solar balloon is a black balloon that is filled with ordinary air. As sunlight shines on the balloon, the air inside is heated and expands, causing an upward buoyancy force, much like an artificially heated hot air balloon . Some solar balloons are large enough for human flight, but usage is generally limited to the toy market as the surface-area to payload-weight ratio is relatively high. [98]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nuna_7.jpg/225px-Nuna_7.jpg",
+                "caption": "Winner of the 2013 World Solar Challenge in Australia"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Squad Solar vehicle",
+        "text": "The Squad Solar is a Neighborhood Electric Vehicle that has a solar roof and can be plugged into a normal 120 volt outlet to be charged. [99]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Squad_Solar_Car_%28Fully_Charged_2022%29.jpg/220px-Squad_Solar_Car_%28Fully_Charged_2022%29.jpg",
+                "caption": "Squad Solar"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Fuel production",
+        "text": "Solar chemical processes use solar energy to drive chemical reactions. These processes offset energy that would otherwise come from a fossil fuel source and can also convert solar energy into storable and transportable fuels. Solar induced chemical reactions can be divided into thermochemical or photochemical . [100] A variety of fuels can be produced by artificial photosynthesis . [101] The multielectron catalytic chemistry involved in making carbon-based fuels (such as methanol ) from reduction of carbon dioxide is challenging; a feasible alternative is hydrogen production from protons, though use of water as the source of electrons (as plants do) requires mastering the multielectron oxidation of two water molecules to molecular oxygen. [102] Some have envisaged working solar fuel plants in coastal metropolitan areas by 2050 –  the splitting of seawater providing hydrogen to be run through adjacent fuel-cell electric power plants and the pure water by-product going directly into the municipal water system. [103] In addition, chemical energy storage is another solution to solar energy storage. [104] Hydrogen production technologies have been a significant area of solar chemical research since the 1970s. Aside from electrolysis driven by photovoltaic or photochemical cells, several thermochemical processes have also been explored. One such route uses concentrators to split water into oxygen and hydrogen at high temperatures (2,300–2,600 °C or 4,200–4,700 °F). [105] Another approach uses the heat from solar concentrators to drive the steam reformation of natural gas thereby increasing the overall hydrogen yield compared to conventional reforming methods. [106] Thermochemical cycles characterized by the decomposition and regeneration of reactants present another avenue for hydrogen production. The Solzinc process under development at the Weizmann Institute of Science uses a 1 MW solar furnace to decompose zinc oxide (ZnO) at temperatures above 1,200 °C (2,200 °F). This initial reaction produces pure zinc, which can subsequently be reacted with water to produce hydrogen. [107]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Photo_of_the_Week-_Boosting_Solar_Technology_%288722948189%29.jpg/220px-Photo_of_the_Week-_Boosting_Solar_Technology_%288722948189%29.jpg",
+                "caption": "Concentrated solar panels are getting a power boost. Pacific Northwest National Laboratory (PNNL) will be testing a new concentrated solar power system – one that can help natural gas power plants reduce their fuel usage by up to 20 percent. [ needs update ]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Energy storage methods",
+        "text": "Thermal mass systems can store solar energy in the form of heat at domestically useful temperatures for daily or interseasonal durations . Thermal storage systems generally use readily available materials with high specific heat capacities such as water, earth and stone. Well-designed systems can lower peak demand , shift time-of-use to off-peak hours and reduce overall heating and cooling requirements. [108] [109] Phase change materials such as paraffin wax and Glauber's salt are another thermal storage medium. These materials are inexpensive, readily available, and can deliver domestically useful temperatures (approximately 64 °C or 147 °F). The \"Dover House\" (in Dover, Massachusetts ) was the first to use a Glauber's salt heating system, in 1948. [110] Solar energy can also be stored at high temperatures using molten salts . Salts are an effective storage medium because they are low-cost, have a high specific heat capacity, and can deliver heat at temperatures compatible with conventional power systems. The Solar Two project used this method of energy storage, allowing it to store 1.44 terajoules (400,000 kWh) in its 68 m 3 storage tank with an annual storage efficiency of about 99%. [111] Off-grid PV systems have traditionally used rechargeable batteries to store excess electricity. With grid-tied systems, excess electricity can be sent to the transmission grid , while standard grid electricity can be used to meet shortfalls. Net metering programs give household systems credit for any electricity they deliver to the grid. This is handled by 'rolling back' the meter whenever the home produces more electricity than it consumes. If the net electricity use is below zero, the utility then rolls over the kilowatt-hour credit to the next month. [112] Other approaches involve the use of two meters, to measure electricity consumed vs. electricity produced. This is less common due to the increased installation cost of the second meter. Most standard meters accurately measure in both directions, making a second meter unnecessary. Pumped-storage hydroelectricity stores energy in the form of water pumped when energy is available from a lower elevation reservoir to a higher elevation one. The energy is recovered when demand is high by releasing the water, with the pump becoming a hydroelectric power generator. [113]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Andasol_3.jpg/220px-Andasol_3.jpg",
+                "caption": "Thermal energy storage . The Andasol CSP plant uses tanks of molten salt to store solar energy."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Development, deployment and economics",
+        "text": "Beginning with the surge in coal use, which accompanied the Industrial Revolution , energy consumption steadily transitioned from wood and biomass to fossil fuels . The early development of solar technologies starting in the 1860s was driven by an expectation that coal would soon become scarce. However, development of solar technologies stagnated in the early 20th  century in the face of the increasing availability, economy, and utility of coal and petroleum . [114] The 1973 oil embargo and 1979 energy crisis caused a reorganization of energy policies around the world. It brought renewed attention to developing solar technologies. [115] [116] Deployment strategies focused on incentive programs such as the Federal Photovoltaic Utilization Program in the US and the Sunshine Program in Japan. Other efforts included the formation of research facilities in the US (SERI, now NREL ), Japan ( NEDO ), and Germany ( Fraunhofer Institute for Solar Energy Systems ISE ). [117] Commercial solar water heaters began appearing in the United States in the 1890s. [118] These systems saw increasing use until the 1920s but were gradually replaced by cheaper and more reliable heating fuels. [119] As with photovoltaics, solar water heating attracted renewed attention as a result of the oil crises in the 1970s, but interest subsided in the 1980s due to falling petroleum prices. Development in the solar water heating sector progressed steadily throughout the 1990s, and annual growth rates have averaged 20% since 1999. [120] Although generally underestimated, solar water heating and cooling is by far the most widely deployed solar technology with an estimated capacity of 154  GW as of 2007. [120] The International Energy Agency has said that solar energy can make considerable contributions to solving some of the most urgent problems the world now faces: [1] In 2011, a report by the International Energy Agency found that solar energy technologies such as photovoltaics, solar hot water, and concentrated solar power could provide a third of the world's energy by 2060 if politicians commit to limiting climate change and transitioning to renewable energy . The energy from the Sun could play a key role in de-carbonizing the global economy alongside improvements in energy efficiency and imposing costs on greenhouse gas emitters. \"The strength of solar is the incredible variety and flexibility of applications, from small scale to big scale\". [121] In 2021 Lazard estimated the levelized cost of new build unsubsidized utility scale solar electricity at less than 37 dollars per MWh and existing coal-fired power above that amount. [122] [123] The 2021 report also said that new solar was also cheaper than new gas-fired power, but not generally existing gas power. [123]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/03242012Taller_sostenibilidad_lore060.jpg/220px-03242012Taller_sostenibilidad_lore060.jpg",
+                "caption": "Participants in a workshop on sustainable development inspect solar panels at Monterrey Institute of Technology and Higher Education, Mexico City on top of a building on campus."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Solar_PV_module_prices.svg/220px-Solar_PV_module_prices.svg.png",
+                "caption": "Cost development of solar PV modules per watt"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Solar aircraft",
+        "text": "An electric aircraft is an aircraft that runs on electric motors rather than internal combustion engines , with electricity coming from fuel cells , solar cells , ultracapacitors , power beaming , [140] or batteries . Currently, flying manned electric aircraft are mostly experimental demonstrators, though many small unmanned aerial vehicles are powered by batteries. Electrically powered model aircraft have been flown since the 1970s, with one report in 1957. [141] [142] The first man-carrying electrically powered flights were made in 1973. [143] Between 2015 and 2016, a manned, solar-powered plane, Solar Impulse 2 , completed a circumnavigation of the Earth. [144]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Solar_Impulse_SI2_pilote_Bertrand_Piccard_Payerne_November_2014.jpg/220px-Solar_Impulse_SI2_pilote_Bertrand_Piccard_Payerne_November_2014.jpg",
+                "caption": "In 2016, Solar Impulse 2 was the first solar-powered aircraft to complete a circumnavigation of the world."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_energy",
+        "title": "Solar energy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Parabolic trough",
+        "text": "A parabolic trough consists of a linear parabolic reflector that concentrates light onto a receiver positioned along the reflector's focal line. The receiver is a tube positioned at the longitudinal focal line of the parabolic mirror and filled with a working fluid. The reflector follows the sun during the daylight hours by tracking along a single axis. A working fluid (e.g. molten salt [43] ) is heated to 150–350 °C (302–662 °F) as it flows through the receiver and is then used as a heat source for a power generation system. [44] Trough systems are the most developed CSP technology. The Solar Energy Generating Systems (SEGS) plants in California, the world's first commercial parabolic trough plants, Acciona's Nevada Solar One near Boulder City, Nevada , and Andasol , Europe's first commercial parabolic trough plant are representative, along with Plataforma Solar de Almería 's SSPS-DCS test facilities in Spain . [45]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Parabolic_trough_at_Harper_Lake_in_California.jpg/220px-Parabolic_trough_at_Harper_Lake_in_California.jpg",
+                "caption": "Parabolic trough at a plant near Harper Lake, California"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Linear_Parabolic_Reflector_Diagram_%28Concentrated_Solar_Power%29.svg/220px-Linear_Parabolic_Reflector_Diagram_%28Concentrated_Solar_Power%29.svg.png",
+                "caption": "Diagram of linear parabolic reflector concentrating sun rays to heat working fluid"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Concentrated_solar_power",
+        "title": "Concentrated solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Solar power tower",
+        "text": "A solar power tower consists of an array of dual-axis tracking reflectors ( heliostats ) that concentrate sunlight on a central receiver atop a tower; the receiver contains a heat-transfer fluid, which can consist of water-steam or molten salt . Optically a solar power tower is the same as a circular Fresnel reflector. The working fluid in the receiver is heated to 500–1000 °C (773–1,273 K or 932–1,832 °F) and then used as a heat source for a power generation or energy storage system. [44] An advantage of the solar tower is the reflectors can be adjusted instead of the whole tower. Power-tower development is less advanced than trough systems, but they offer higher efficiency and better energy storage capability. Beam down tower application is also feasible with heliostats to heat the working fluid. [49] The Solar Two in Daggett , California and the CESA-1 in Plataforma Solar de Almeria Almeria, Spain, are the most representative demonstration plants. The Planta Solar 10 (PS10) in Sanlucar la Mayor , Spain, is the first commercial utility-scale solar power tower in the world. The 377 MW Ivanpah Solar Power Facility , located in the Mojave Desert , was the largest CSP facility in the world, and uses three power towers. [50] Ivanpah generated only 0.652 TWh (63%) of its energy from solar means, and the other 0.388 TWh (37%) was generated by burning natural gas . [51] [52] [53] Supercritical carbon dioxide can be used instead of steam as heat-transfer fluid for increased electricity production efficiency. However, because of the high temperatures in arid areas where solar power is usually located, it is impossible to cool down carbon dioxide below its critical temperature in the compressor inlet. Therefore, supercritical carbon dioxide blends with higher critical temperature are currently in development.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Brigthsource_Tower_Ashalim.jpg/170px-Brigthsource_Tower_Ashalim.jpg",
+                "caption": "Ashalim Power Station , Israel, on its completion the tallest solar tower in the world. It concentrates light from over 50,000 heliostats."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/PS10_solar_power_tower.jpg/220px-PS10_solar_power_tower.jpg",
+                "caption": "The PS10 solar power plant in Andalusia , Spain concentrates sunlight from a field of heliostats onto a central solar power tower."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Concentrated_solar_power",
+        "title": "Concentrated solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Dish Stirling",
+        "text": "A dish Stirling or dish engine system consists of a stand-alone parabolic reflector that concentrates light onto a receiver positioned at the reflector's focal point. The reflector tracks the Sun along two axes. The working fluid in the receiver is heated to 250–700 °C (482–1,292 °F) and then used by a Stirling engine to generate power. [44] Parabolic-dish systems provide high solar-to-electric efficiency (between 31% and 32%), and their modular nature provides scalability. The Stirling Energy Systems (SES), United Sun Systems (USS) and Science Applications International Corporation (SAIC) dishes at UNLV , and Australian National University 's Big Dish in Canberra , Australia are representative of this technology. A world record for solar to electric efficiency was set at 31.25% by SES dishes at the National Solar Thermal Test Facility (NSTTF) in New Mexico on 31 January 2008, a cold, bright day. [58] According to its developer, Ripasso Energy, a Swedish firm, in 2015 its Dish Sterling system being tested in the Kalahari Desert in South Africa showed 34% efficiency. [59] The SES installation in Maricopa, Phoenix was the largest Stirling Dish power installation in the world until it was sold to United Sun Systems . Subsequently, larger parts of the installation have been moved to China as part of the huge energy demand.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SolarStirlingEngine.jpg/220px-SolarStirlingEngine.jpg",
+                "caption": "A dish Stirling"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Concentrated_solar_power",
+        "title": "Concentrated solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Cost and value",
+        "text": "Bulk power from CSP today is much more expensive than solar PV or Wind power, however when including energy storage CSP can be a cheaper alternative. As early as 2011, the rapid decline of the price of photovoltaic systems lead to projections that CSP will no longer be economically viable. [90] As of 2020, the least expensive utility-scale concentrated solar power stations in the United States and worldwide are five times more expensive than utility-scale photovoltaic power stations , with a projected minimum price of 7 cents per kilowatt-hour for the most advanced CSP stations against record lows of 1.32 cents per kWh [91] for utility-scale PV. [92] This five-fold price difference has been maintained since 2018. [93] Even though overall deployment of CSP remains limited in the early 2020s, the levelized cost of power from commercial scale plants has decreased significantly since the 2010s. With a learning rate estimated at around 20% cost reduction of every doubling in capacity [94] the cost were approaching the upper end of the fossil fuel cost range at the beginning of the 2020s driven by support schemes in several countries, including Spain, the US, Morocco, South Africa, China, and the UAE: CSP deployment has slowed down considerably as most of the above-mentioned markets have cancelled their support, [95] as the technology turned out to be more expensive on a per kWH basis than solar PV and wind power. CSP in combination with Thermal Energy Storage (TES) is expected by some to remain cheaper than PV with lithium batteries for storage durations above 4 hours per day, [96] while NREL expects that by 2030 PV with 10-hour storage lithium batteries will cost the same as PV with 4-hour storage used to cost in 2020. [97] Combining the affordability of PV and the dispatchability of CSP is a promising avenue for high capacity factor solar power at low cost. Few PV-CSP plants in China are hoping to operate profitably on the regional coal tariff of US$50 per MWh in the year 2021. [98]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/LCOE_of_Concentrating_Solar_Power_from_2006-2019.jpg/500px-LCOE_of_Concentrating_Solar_Power_from_2006-2019.jpg",
+                "caption": "LCOE of Concentrating Solar Power from 2006 to 2019"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Concentrated_solar_power",
+        "title": "Concentrated solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Spain",
+        "text": "In 2008, Spain launched the first commercial scale CSP market in Europe. Until 2012, solar-thermal electricity generation was initially eligible for feed-in tariff payments (art. 2 RD 661/2007) – leading to the creation of the largest CSP fleet in the world which at 2.3 GW of installed capacity contributes about 5TWh of power to the Spanish grid every year. [99] The initial requirements for plants in the FiT were: The capacity limits for the different system types were re-defined during the review of the application conditions every quarter (art. 5 RD 1578/2008, Annex III RD 1578/2008). Prior to the end of an application period, the market caps specified for each system type are published on the website of the Ministry of Industry, Tourism and Trade (art. 5 RD 1578/2008). [100] Because of cost concerns Spain has halted acceptance of new projects for the feed-in-tariff on 27 January 2012 [101] [102] Already accepted projects were affected by a 6% \"solar-tax\" on feed-in-tariffs, effectively reducing the feed-in-tariff. [103] In this context, the Spanish Government enacted the Royal Decree-Law 9/2013 [104] in 2013, aimed at the adoption of urgent measures to guarantee the economic and financial stability of the electric system, laying the foundations of the new Law 24/2013 of the Spanish electricity sector. [105] This new retroactive legal-economic framework applied to all the renewable energy systems was developed in 2014 by the RD 413/2014, [106] which abolished the former regulatory frameworks set by the RD 661/2007 and the RD 1578/2008 and defined a new remuneration scheme for these assets. After a lost decade for CSP in Europe, Spain announced in its National Energy and Climate Plan the intention of adding 5GW of CSP capacity between 2021 and 2030. [107] Towards this end bi-annual auctions of 200 MW of CSP capacity starting in October 2022 are expected, but details are not yet known. [108]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Andasol_5.jpg/220px-Andasol_5.jpg",
+                "caption": "Andasol Solar Power Station in Spain"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Concentrated_solar_power",
+        "title": "Concentrated solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "China",
+        "text": "In 2024, China is offering second generation CSP technology to compete with other on-demand electricity generation methods based on renewable or non-renewable fossil fuels without any  direct or indirect subsidies. [11] In the current 14th five-year plan CSP projects are developed in several provinces alongside large GW sized solar PV and wind projects. [98] [8] In 2016, China announced its intention to build a batch of 20 technologically diverse CSP demonstration projects in the context of the 13th five-year plan , with the intention of building up an internationally competitive CSP industry. [114] Since the first plants were completed in 2018, the generated electricity from the plants with thermal storage is supported with an administratively set FiT of RMB 1.5 per kWh. [115] At the end of 2020, China operated a total of 545 MW in 12 CSP plants, [116] [117] seven plants (320 MW) are molten-salt towers; another two plants (150 MW) use the proven Eurotrough 150 parabolic trough design, [118] three plants (75 MW) use linear Fresnel collectors. Plans to build a second batch of demonstration projects were never enacted and further technology specific support for CSP in the upcoming 14th five-year plan is unknown. Federal support projects from the demonstration batch ran out at the end of 2021. [119]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/50_MW_molten-salt_power_tower_in_hami.jpg/220px-50_MW_molten-salt_power_tower_in_hami.jpg",
+                "caption": "The China Energy Engineering Corporation  50 MW Hami power tower has 8 hours of molten-salt storage"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Concentrated_solar_power",
+        "title": "Concentrated solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Effects on wildlife",
+        "text": "Insects can be attracted to the bright light caused by concentrated solar technology, and as a result birds that hunt them can be killed by being burned if they fly near the point where light is being focused. This can also affect raptors who hunt the birds. [141] [142] [143] [144] Federal wildlife officials were quoted by opponents as calling the Ivanpah power towers \"mega traps\" for wildlife. [145] [146] [147] Some media sources have reported that concentrated solar power plants have injured or killed large numbers of birds due to intense heat from the concentrated sunrays. [148] [149] Some of the claims may have been overstated or exaggerated. [150] According to rigorous reporting, in over six months, 133 songbirds were counted at Ivanpah. [151] By focusing no more than four mirrors on any one place in the air during standby, at Crescent Dunes Solar Energy Project , in three months, the death rate dropped to zero. [152]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Warbler_burned_mid-air_by_solar_thermal_power_plant.jpg/220px-Warbler_burned_mid-air_by_solar_thermal_power_plant.jpg",
+                "caption": "Dead warbler burned in mid-air by solar thermal power plant"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Concentrated_solar_power",
+        "title": "Concentrated solar power",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Glazed air systems",
+        "text": "Functioning in a similar manner as a conventional forced air furnace, systems provide heat by recirculating conditioned building air through solar collectors . Through the use of an energy collecting surface to absorb the sun’s thermal energy, and ducting air to come in contact with it, a simple and effective collector can be made for a variety of air conditioning and process applications. A simple solar air collector consists of an absorber material, sometimes having a selective surface , to capture radiation from the sun and transfers this thermal energy to air via conduction heat transfer.  This heated air is then ducted to the building space or to the process area where the heated air is used for space heating or process heating needs. The pioneering figure for this type of system was George Löf , who built solar heated air system for a house in Boulder, Colorado, in 1945. He later included a gravel bed for heat storage. [13]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Solar_Air_Heat_Collector.JPG/220px-Solar_Air_Heat_Collector.JPG",
+                "caption": "SPF Solar Air Heat Collector"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_air_heat",
+        "title": "Solar air heat",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Design",
+        "text": "Generally, installations use from 150 hectares (1,500,000 m 2 ) to 320 hectares (3,200,000 m 2 ). In 2023, Australia’s national science agency CSIRO tested a CSP arrangement in which tiny ceramic particles fall through the beam of concentrated solar energy, the ceramic particles capable of storing a greater amount of heat than molten salt, while not requiring a container that would diminish heat transfer. [6]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Brigthsource_Tower_Ashalim.jpg/170px-Brigthsource_Tower_Ashalim.jpg",
+                "caption": "Ashalim Power Station , Israel, on its completion the tallest solar tower in the world."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Solar_Two_2003.jpg/170px-Solar_Two_2003.jpg",
+                "caption": "The decommissioned Solar Two in California"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power_tower",
+        "title": "Solar power tower",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    },
+    {
+        "section": "Novel applications",
+        "text": "The Pit Power Tower [12] [13] combines a solar power tower and an aero-electric power tower [14] in a decommissioned open pit mine. Traditional solar power towers are constrained in size by the height of the tower and closer heliostats blocking the line of sight of outer heliostats to the receiver. The use of the pit mine's \"stadium seating\" helps overcome the blocking constraint. As solar power towers commonly use steam to drive the turbines, and water tends to be scarce in regions with high solar energy, another advantage of open pits is that they tend to collect water, having been dug below the water table. The Pit Power Tower uses low heat steam to drive the pneumatic tubes in a co-generation system. A third benefit of re-purposing a pit mine for this kind of project is the possibility of reusing mine infrastructure such as roads, buildings, and electricity.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Pit_Power_Tower.gif/220px-Pit_Power_Tower.gif",
+                "caption": "Pit Power Tower concept in Bingham Canyon mine"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Solar_power_tower",
+        "title": "Solar power tower",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Solar Power",
+        "topic": "Solar thermal heating"
+    }
+]

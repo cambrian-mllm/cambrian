@@ -1,0 +1,589 @@
+[
+    {
+        "section": "Terminology",
+        "text": "The term biofuel is used in different ways. One definition is \"Biofuels are biobased products, in solid, liquid, or gaseous forms. They are produced from crops or natural products, such as wood, or agricultural residues, such as molasses and bagasse.\" [2] : 173 Other publications reserve the term biofuel for liquid or gaseous fuels, used for transportation. [3] The IPCC Sixth Assessment Report defines biofuel as \"A fuel, generally in liquid form, produced from biomass . Biofuels include bioethanol from sugarcane, sugar beet or maize, and biodiesel from canola or soybeans.\". [15] : 1795 It goes on to define biomass in this context as \"organic material excluding the material that is fossilised or embedded in geological formations\". [15] : 1795 This means that coal or other fossil fuels is not a form of biomass in this context.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Types_and_generation_of_biofuels.png/220px-Types_and_generation_of_biofuels.png",
+                "caption": "Types and generation of biofuels"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biofuel",
+        "title": "Biofuel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Biodiesel",
+        "text": "Biodiesel is the most common biofuel in Europe. It is produced from oils or fats using transesterification and is a liquid similar in composition to fossil/mineral diesel. Chemically, it consists mostly of fatty acid methyl (or ethyl) esters ( FAMEs ). [27] Feedstocks for biodiesel include animal fats, vegetable oils, soy , rapeseed , jatropha , mahua , mustard , flax , sunflower , palm oil , hemp , field pennycress , Pongamia pinnata and algae . Pure biodiesel (B100, also known as \"neat\" biodiesel) currently reduces emissions with up to 60% compared to diesel Second generation B100. [28] As of 2020 [update] , researchers at Australia's CSIRO have been studying safflower oil as an engine lubricant , and researchers at Montana State University 's Advanced Fuels Center in the US have been studying the oil's performance in a large diesel engine , with results described as a \"breakthrough\". [29] Biodiesel can be used in any diesel engine and modified equipment when mixed with mineral diesel. It can also be used in its pure form (B100) in diesel engines, but some maintenance and performance problems may occur during wintertime utilization, since the fuel becomes somewhat more viscous at lower temperatures, depending on the feedstock used. [30] Electronically controlled ' common rail ' and ' Unit Injector ' type systems from the late 1990s onwards can only use biodiesel blended with conventional diesel fuel. These engines have finely metered and atomized multiple-stage injection systems that are very sensitive to the viscosity of the fuel. Many current-generation diesel engines are designed to run on B100 without altering the engine itself, although this depends on the fuel rail design.\nSince biodiesel is an effective solvent and cleans residues deposited by mineral diesel, engine filters may need to be replaced more often, as the biofuel dissolves old deposits in the fuel tank and pipes. It also effectively cleans the engine combustion chamber of carbon deposits, helping to maintain efficiency. Biodiesel is an oxygenated fuel, meaning it contains a reduced amount of carbon and higher hydrogen and oxygen content than fossil diesel. This improves the combustion of biodiesel and reduces the particulate emissions from unburnt carbon. However, using pure biodiesel may increase NO x -emissions [31] Biodiesel is also safe to handle and transport because it is non-toxic and biodegradable , and has a high flash point of about 300 °F (148 °C) compared to petroleum diesel fuel, which has a flash point of 125 °F (52 °C). [32] In many European countries, a 5% biodiesel blend is widely used and is available at thousands of gas stations. [33] [34] In France, biodiesel is incorporated at a rate of 8% in the fuel used by all French diesel vehicles. [35] Avril Group produces under the brand Diester , a fifth of 11 million tons of biodiesel consumed annually by the European Union . [36] It is the leading European producer of biodiesel. [35]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Biofuel_pumps_DCA_07_2010_9834.JPG/220px-Biofuel_pumps_DCA_07_2010_9834.JPG",
+                "caption": "Biofuel pumps, 2010"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Targray_Biodiesel_Railcar.png/220px-Targray_Biodiesel_Railcar.png",
+                "caption": "Targray Biofuels Division railcar transporting Biodiesel."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biofuel",
+        "title": "Biofuel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Straight vegetable oil",
+        "text": "Straight unmodified edible vegetable oil is generally not used as fuel, but lower-quality oil has been used for this purpose. Used vegetable oil is increasingly being processed into biodiesel, or (more rarely) cleaned of water and particulates and then used as a fuel. The IEA estimates that biodiesel production used 17% of global vegetable oil supplies in 2021. [21] Oils and fats reacted with 10 pounds of a short-chain alcohol (usually methanol) in the presence of a catalyst (usually sodium hydroxide [NaOH] can be hydrogenated to give a diesel substitute. [48] The resulting product is a straight-chain hydrocarbon with a high cetane number , low in aromatics and sulfur and does not contain oxygen. Hydrogenated oils can be blended with diesel in all proportions. They have several advantages over biodiesel, including good performance at low temperatures, no storage stability problems and no susceptibility to microbial attack. [49]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Walmart%E2%80%99s_Grease_Fuel_Truck_%282%29.jpg/220px-Walmart%E2%80%99s_Grease_Fuel_Truck_%282%29.jpg",
+                "caption": "A biofuel truck in 2009 [47]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biofuel",
+        "title": "Biofuel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Bioethers",
+        "text": "Bioethers (also referred to as fuel ethers or oxygenated fuels) are cost-effective compounds that act as octane rating enhancers. \"Bioethers are produced by the reaction of reactive iso-olefins, such as iso-butylene, with bioethanol.\" [51] [ attribution needed ] Bioethers are created from wheat or sugar beets, and also be produced from the waste glycerol that results from the production of biodiesel. [52] They also enhance engine performance, while significantly reducing engine wear and toxic exhaust emissions . By greatly reducing the amount of ground-level ozone emissions, they contribute to improved air quality. [53] [54] In transportation fuel there are six ether additives: dimethyl ether (DME), diethyl ether (DEE), methyl tert -butyl ether (MTBE), ethyl tert -butyl ether (ETBE), tert -amyl methyl ether (TAME), and tert -amyl ethyl ether (TAEE). [55] The European Fuel Oxygenates Association identifies MTBE and ETBE as the most commonly used ethers in fuel to replace lead. Ethers were introduced in Europe in the 1970s to replace the highly toxic compound. [56] Although Europeans still use bioether additives, the U.S. Energy Policy Act of 2005 lifted a requirement for reformulated gasoline to include an oxygenate, leading to less MTBE being added to fuel. [57] Although bioethers are likely to replace ethers produced from petroleum in the UK, it is highly unlikely they will become a fuel in and of itself due to the low energy density. [58]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sao_Paulo_ethanol_pump_04_2008_74_zoom.jpg/220px-Sao_Paulo_ethanol_pump_04_2008_74_zoom.jpg",
+                "caption": "Neat ethanol on the left (A), gasoline on the right (G) at a filling station in Brazil in 2008"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biofuel",
+        "title": "Biofuel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Biogas and biomethane",
+        "text": "Biogas is a mixture composed primarily of methane and carbon dioxide produced by the process of anaerobic digestion of organic material by micro-organisms . Other trace components of this mixture includes water vapor, hydrogen sulfide, siloxanes, hydrocarbons, ammonia, oxygen, carbon monoxide, and nitrogen. [66] [67] It can be produced either from biodegradable waste materials or by the use of energy crops fed into anaerobic digesters to supplement gas yields. The solid byproduct, digestate , can be used as a biofuel or a fertilizer. When CO 2 and other impurities are removed from biogas, it is called biomethane . The CO 2 can also be combined with hydrogen in methanation to form more methane. Biogas can be recovered from mechanical biological treatment waste processing systems. Landfill gas , a less clean form of biogas, is produced in landfills through naturally occurring anaerobic digestion. If it escapes into the atmosphere, it acts as a greenhouse gas . In Sweden \"waste-to-energy\" power plants capture methane biogas from garbage and use it power transport systems. [68] Farmers can produce biogas from cattle manure via anaerobic digesters. [69]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Biogas.jpg/220px-Biogas.jpg",
+                "caption": "Biogas plant in 2007"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biofuel",
+        "title": "Biofuel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Extent of production and use",
+        "text": "Global biofuel production was 81 Mtoe in 2017 which represented an annual increase of about 3% compared to 2010. [4] : 12 In 2017 the US was the largest biofuel producer in the world producing 37 Mtoe, followed by Brazil and South America at 23 Mtoe and Europe (mainly Germany) at 12 Mtoe. [4] : 12 An assessment from 2017 found that: \"Biofuels will never be a major transport fuel as there is just not enough land in the world to grow plants to make biofuel for all vehicles. It can however, be part of an energy mix to take us into a future of renewable energy .\" [4] : 11 In 2021 worldwide biofuel production provided 4.3% of the world's fuels for transport, including a very small amount of aviation biofuel . [10] By 2027 worldwide biofuel production is expected to supply 5.4% of the world's fuels for transport including 1% of aviation fuel. [10] The US, Europe, Brazil and Indonesia are driving the majority of biofuel consumption growth. This demand for biodiesel, renewable diesel and biojet fuel is projected to increase by 44% (21 billion litres) over 2022-2027. [90]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biofuel-energy-production.svg/330px-Biofuel-energy-production.svg.png",
+                "caption": "Biofuel energy production, 2022 [89]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Biofuel_production_by_region%2C_OWID.svg/330px-Biofuel_production_by_region%2C_OWID.svg.png",
+                "caption": "Biofuel production by region"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biofuel",
+        "title": "Biofuel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Environmental impacts",
+        "text": "Estimates about the climate impact from biofuels vary widely based on the methodology and exact situation examined. [6] In general, biofuels emit fewer greenhouse gas emissions when burned in an engine and are generally considered carbon-neutral fuels as the carbon they emit has been captured from the atmosphere by the crops used in biofuel production. [5] They can have greenhouse gas emissions ranging from as low as -127.1 gCO2eq per MJ when carbon capture is incorporated into their production to those exceeding 95 gCO2eq per MJ when land-use change is significant. [40] [41] Several factors are responsible for the variation in emission numbers of biofuel such as feedstock and its origin, fuel production technique, system boundary definitions, and energy sources. [41] However, many government policies such as those by European Union and the UK require that biofuels have at least 65% greenhouse gas emissions savings (or 70% if it is renewable fuels of non-biological origins) relative to fossil fuels. [93] [94] Life-cycle assessments of first generation biofuels have shown large emissions associated with the potential land-use change required to produce additional biofuel feedstocks. [6] [7] If no land-use change is involved, first-generation biofuels can—on average—have lower emissions than fossil fuels. [6] However, biofuel production can compete with foodcrop production. Up to 40% of corn produced in the United States is used to make ethanol [95] and worldwide 10% of all grain is turned into biofuel. [96] A 50% reduction in grain used for biofuels in the US and Europe would replace all of Ukraine 's grain exports. [97] Several studies have shown that reductions in emissions from biofuels are achieved at the expense of other impacts, such as acidification , eutrophication , water footprint and biodiversity loss . [6] The use of second generation biofuels is thought to increase environmental sustainability, since the non-food part of plants is being used to produce second-generation biofuels, instead of being disposed. [98] But the use of second-generation biofuels increases the competition for lignocellulosic biomass, increasing the cost of these biofuels. [99] Third generation biofuels, produced from Algae, in theory shouldn't have as negative an impact on the environment than first or second generation biofuels, due to lower changes in land use and not requiring pesticide use for production. [100] When looking at the data however, it has been shown that the environmental cost to produce the infrastructure and energy required for third generation biofuel production, is higher than the benefits provided from the biofuels use. [101] The European Commission has officially approved a measure to phase out palm oil -based biofuels by 2030. [102] [103] Unsustainable palm oil agriculture has caused significant environmental and social problems, including deforestation and pollution. The production of biofuels can be very energy intensive, which if generated from non-renewable sources can heavily mitigate the benefits gained through biofuel use. A solution proposed to solve this issue is to supply biofuel production facilities with excess nuclear energy, which can supplement the energy provided by fossil fuels. [104] This can provide a carbon inexpensive solution, to help reduce the environmental impacts of biofuel production.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Deforestation_near_Bukit_Tiga_Puluh_NP.jpg/180px-Deforestation_near_Bukit_Tiga_Puluh_NP.jpg",
+                "caption": "Deforestation in Indonesia , to make way for an oil palm plantation. [92]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biofuel",
+        "title": "Biofuel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Negative emission",
+        "text": "The main appeal of BECCS is in its ability to result in negative emissions of CO 2 . The capture of carbon dioxide from bioenergy sources effectively removes CO 2 from the atmosphere. [8] [9] Bioenergy is derived from biomass which is a renewable energy source and serves as a carbon sink during its growth. During industrial processes, the biomass combusted or processed re-releases the CO 2 into the atmosphere. Carbon capture and storage (CCS) technology serves to intercept the release of CO 2 into the atmosphere and redirect it into geological storage locations, [10] [11] or concrete. [12] [13] The process thus results in a net zero emission of CO 2 , though this may be positively or negatively altered depending on the carbon emissions associated with biomass growth, transport and processing, see below under environmental considerations. [14] CO 2 with a biomass origin is not only released from biomass fuelled power plants, but also during the production of pulp used to make paper and in the production of biofuels such as biogas and bioethanol . The BECCS technology can also be employed on industrial processes such as these [15] and making cement. [16] BECCS technologies trap carbon dioxide in geologic formations in a semi-permanent way, whereas a tree stores its carbon only during its lifetime. In 2005 it was estimated that more than 99% of carbon dioxide stored through geologic sequestration is likely to stay in place for more than 1000 years. [17] In 2005, the IPCC estimated that BECCS technology would provide a \"better permanence\" by storing CO 2 in geological formations underground, relative to other types of carbon sinks. Carbon sinks such as the ocean, trees, and soil involve a risk of adverse climate change feedback at increased temperatures. [18] [17] Industrial processes have released too much CO 2 to be absorbed by conventional sinks such as trees and soil to reach low emission targets. [19] In addition to the presently accumulated emissions, there will be significant additional emissions during this century, even in the most ambitious low-emission scenarios. BECCS has therefore been suggested as a technology to reverse the emission trend and create a global system of net negative emissions. [1] [20] [19] [21] [22] This implies that the emissions would not only be zero, but negative, so that not only the emissions, but the absolute amount of CO 2 in the atmosphere would be reduced.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Carbon_flow.jpg/400px-Carbon_flow.jpg",
+                "caption": "Carbon flow schematic for different energy systems."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Bioenergy_with_carbon_capture_and_storage",
+        "title": "Bioenergy with carbon capture and storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Oxy-combustion",
+        "text": "Oxy‐fuel combustion has been a common process in the glass, cement and steel industries. It is also a promising technological approach for CCS. In oxy‐fuel combustion, the main difference from conventional air firing is that the fuel is burned in a mixture of O 2 and recycled flue gas. The O 2 is produced by an air separation unit (ASU), which removes the atmospheric N 2 from the oxidizer stream. By removing the N 2 upstream of the process, a flue gas with a high concentration of CO 2 and water vapor is produced, which eliminates the need for a post‐combustion capture plant. The water vapor can be removed by condensation, leaving a product stream of relatively high‐purity CO 2 which, after subsequent purification and dehydration, can be pumped to a geological storage site. [27] Key challenges of BECCS implementation using oxy-combustion are associated with the combustion process. For the high volatile content biomass, the mill temperature has to be kept at a low temperature to reduce the risk of fire and explosion. In addition, the flame temperature is lower. Therefore, the concentration of oxygen needs to be increased up to 27-30%. [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Oxy-combust_BECCS.jpg/395px-Oxy-combust_BECCS.jpg",
+                "caption": "Overview of oxy‐fuel combustion for carbon capture from biomass, showing the key processes and stages; some purification is also likely to be required at the dehydration stage. [27]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Bioenergy_with_carbon_capture_and_storage",
+        "title": "Bioenergy with carbon capture and storage",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Wind power",
+        "text": "Wind power accounted for 10% of the electricity generated in Sweden in 2015, up from 5% in 2012 and 2.4% in 2010. [23] [24] [25] [26] Sweden has wind power potential of 510 TWh/a at land and 46 TWh/a at sea. [27] Consumption was 140 TWh of power in 2010. In 2013 Sweden was second top country for wind power capacity per inhabitant in the world: 488 W per person, only surpassed by Denmark (863 W per person). [28] In correlation one must note that Swedish use of energy per inhabitant is much higher than average in Europe.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Electricity_production_in_Sweden.svg/420px-Electricity_production_in_Sweden.svg.png",
+                "caption": "Historical electricity production by source"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_in_Sweden",
+        "title": "Energy in Sweden",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Policies to curb carbon emissions",
+        "text": "According to Energy Information Administration the CO 2 emissions from energy consumption of Sweden were in 2009 54.77 Mt, slightly below Finland 54.86 Mt, despite the difference in population. [43] The emissions per capita were in Sweden 5.58 and in Finland 9.93 tonnes per capita in 2009. [44]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CO2_emissions_Sweden.svg/220px-CO2_emissions_Sweden.svg.png",
+                "caption": "Development of carbon dioxide emissions"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Energy_in_Sweden",
+        "title": "Energy in Sweden",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Development",
+        "text": "In 2019, the contribution of renewable energy sources to electricity generation was significant, comprising 101.1 Terawatt-hours (TWh) or 37.3% of the overall electricity production. The distribution of this contribution across different types of renewable energy was as follows: wind power led with 55.7 TWh, followed by hydroelectric power at 24.7 TWh, solar energy at 15.1 TWh, and bioenergy at 5.6 TWh.  This is comparable to the International Energy Agency (IEA) median for 2019, which stood at 38% of electricity generation from renewables. [5] In the early 2000s, the growth of wind power contributed to an increase in Spain's renewable electricity production. By 2019, wind and solar energy made up 21% and 6% of total electricity generation, respectively. The installation of photovoltaic (PV) plants beginning in 2007 played a key role in this increase, doubling the renewables' share in Spain's electricity mix from 20% in 2008 to 40% in 2013. After this period of growth, the share of renewables in Spain's electricity generation leveled off, reaching 37% by 2019. [5] Spain's renewable energy sector has undergone significant shifts, initially driven by the 1997 Special Regime and Royal Decree 661/2007, which promoted considerable growth in wind and solar PV installations through favorable conditions and feed-in tariffs . However, the dynamics of the sector shifted following legislative reforms in 2012, marked by the enactment of Law 24/2013 and Royal Decree 413/2014. These reforms introduced a new financial framework for the electricity market, modifying compensation mechanisms for renewable sources, which led to a deceleration in new developments. Consequently, the rapid increase in renewable capacity, notably in wind energy, from 2.2 GW in 2000 to 23.0 GW in 2013, slowed, with only a slight rise to 23.4 GW by 2018. Solar PV installations experienced a similar trend. [5] In 2015 solar power suddenly demonstrated a possible way through the impasse. The continued fall in prices for solar systems and Spain's abundant sunshine led to prices for solar power reaching grid price parity.  Suddenly there was the potential for sustained and spontaneous growth in solar installations in Spain as households and producers could produce power more economically. However, the Spanish government introduced what has been dubbed the world's first \"sun tax\" on solar installations making them economically less viable as well as draconian fines (up to 60 million Euros ) for anyone not complying with the tax. [ citation needed ] The tax has proved highly controversial. On the one hand, the government has argued that those generating their own power still rely on the national grid for power backup and so should be liable for contributing to the cost. On the other hand, the solar industry has argued that the government is simply trying to protect the centralised established power producers whose revenues would be threatened by this competitive solar threat. Environmentalists have criticised the tax for artificially blocking Spain from continuing its long standing movement to renewable energy production. [ citation needed ] Whatever the merits of both arguments, the controversy can only become more heightened as the price of solar energy continues to fall and if PV solar power installed capacity in Spain were to continue sliding down the EU league from 12th position in 2014 ( 102.9 kW per 1000 inhabitants ). In the same year in terms of wind energy production Spain was much stronger in 3rd position ( 495 kW per 1000 inhabitants ). [ citation needed ] In November 2018 the Government of Pedro Sánchez took the first step repealing the so-called 'sun tax', approved by the previous Government of Mariano Rajoy in 2015. With the new regulation, Spain leaves behind the era of punishment for self-consumption energy production which froze solar power and renewable energy development for many years in the face of EU and national controversy. [14] A new chapter of opportunity is finally returning to the renewable energy sector in Spain. Spain is advancing Europe's energy autonomy with Iberdrola's renewable energy projects, supported by a €1 billion loan from the European Investment Bank in a deal signed in June 2023. Iberdrola plans to build 19 solar photovoltaic power plants and three onshore wind farms in Spain, Portugal, and Germany, with a total capacity of nearly 2.2 gigawatts. These projects aim to generate 4 terawatt-hours of electricity, equal to the annual consumption of over 1 million households. Importantly, 70% of these installations will be in rural areas affected by the transition to net-zero emissions , fostering regional development. To ensure a stable power supply, Iberdrola will integrate hybrid battery systems into its photovoltaic projects. These plants are expected to be operational by the end of 2028, aligning with the European Commission's REPowerEU plan to reduce fossil fuel imports and accelerate the green transition . [15]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Andasol_Solar_Power_Station_2.jpg/220px-Andasol_Solar_Power_Station_2.jpg",
+                "caption": "Andasol is the first parabolic trough power plant in Europe, and Andasol 1 went online in March 2009. Because of the high altitude (1,100 m) and the semi-arid climate, the site has exceptionally high annual direct insolation of 2,200 kWh/m 2 per year."
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/PS10_solar_power_tower.jpg/220px-PS10_solar_power_tower.jpg",
+                "caption": "PS10 solar power plant"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy_in_Spain",
+        "title": "Renewable energy in Spain",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Electricity Sector",
+        "text": "In 2015, wind power provided the largest share at 19.1% followed by hydroelectric power at 11.1%. Solar power provided 5.2% and renewable thermal a further 2%. The total electricity supplied (demand coverage) from renewables was 37.4% of Spain's requirements in 2015. The current generational mix of electricity production can be checked in real time on the Red Electrica de Espana website. [21] Sharp variation from one year to the next is largely due to the substantial differences in hydroelectric production from one year to the next. Excluding hydroelectric production electricity generation from renewable energy sources grew from around 10 percent [22] in 2006 to 26.3 percent of demand coverage in 2015. Most of the growth occurred in the years leading up to 2012 with little change in baseline capacity between 2012 and 2015. Renewable energy generated electricity had a record year in 2014 when it supplied 42.8% of Spain's national demand. Total annual net generation from renewable sources has grown from around 60 TWh in 2007 to close to 100-110 TWh in the years 2013–2015. Wind power overtook hydroelectric power as the largest source of renewable electricity from around 2008 onwards to produce around 50 TWh from 2013 onwards. Hydroelectric power remains to second largest source typically generating between 25 and 45 TWh per year depending on whether the year is a wet or dry one. Solar PV power grew from just 484 GWh in 2007 to 8,202 GWh by 2012 and has remained at a similar level through to 2015. Solar thermal power grew from almost no presence at 8 GWh in 2007 to 5,085 GWh by 2015. Renewable thermal and other sources have grown from around 2,589 GWh in 2007 to 4,625 GWh in 2015. Total electricity generation from all sources has fallen in Spain from 288 TWh in 2007 to 267 TWh by 2015, a fall of around 7%.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Donut_chart_spain.png/290px-Donut_chart_spain.png",
+                "caption": "Components of renewable electricity coverage in Spain 2015. [20]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy_in_Spain",
+        "title": "Renewable energy in Spain",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Blends",
+        "text": "Blends of biodiesel and conventional hydrocarbon-based diesel are most commonly distributed for use in the retail diesel fuel marketplace. Much of the world uses a system known as the \"B\" factor to state the amount of biodiesel in any fuel mix: [7] Blends of 20% biodiesel and lower can be used in diesel equipment with no, or only minor modifications, [8] although certain manufacturers do not extend warranty coverage if equipment is damaged by these blends. The B6 to B20 blends are covered by the ASTM D7467 specification. [9] Biodiesel can also be used in its pure form (B100), but may require certain engine modifications to avoid maintenance and performance problems. [10] Blending B100 with petroleum diesel may be accomplished by:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Biodiesel.JPG/170px-Biodiesel.JPG",
+                "caption": "Biodiesel sample"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Historical background",
+        "text": "Transesterification of a vegetable oil was conducted as early as 1853 by Patrick  Duffy, four decades before the first diesel engine became functional. [11] [12] Earlier processes for making lamp oil, were patented (1810, Prague) but not published in peer-reviewed publications. Rudolf Diesel 's prime model, a single 10 ft (3.05 m) iron cylinder with a flywheel at its base, ran on its own power for the first time in Augsburg , Germany, on 10 August 1893 running on nothing but peanut oil . In remembrance of this event, 10 August has been declared \" International Biodiesel Day \". [13] It is often reported that Diesel designed his engine to run on peanut oil, but this is not the case. Diesel stated in his published papers, \"at the Paris Exhibition in 1900 ( Exposition Universelle ) there was shown by the Otto Company a small Diesel engine, which, at the request of the French government ran on arachide (earth-nut or pea-nut) oil (see biodiesel), and worked so smoothly that only a few people were aware of it. The engine was constructed for using mineral oil, and was then worked on vegetable oil without any alterations being made. The French Government at the time thought of testing the applicability to power production of the Arachide, or earth-nut, which grows in considerable quantities in their African colonies, and can easily be cultivated there.\" Diesel himself later conducted related tests and appeared supportive of the idea. [14] In a 1912 speech Diesel said, \"the use of vegetable oils for engine fuels may seem insignificant today but such oils may become, in the course of time, as important as petroleum and the coal-tar products of the present time.\" Despite the widespread use of petroleum-derived diesel fuels, interest in vegetable oils as fuels for internal combustion engines was reported in several countries during the 1920s and 30s and later during World War II. Belgium , France, Italy, the United Kingdom, Portugal , Germany, Brazil , Argentina , Japan and China were reported to have tested and used vegetable oils as diesel fuels during this time. Some operational problems were reported due to the high viscosity of vegetable oils compared to petroleum diesel fuel, which results in poor atomization of the fuel in the fuel spray and often leads to deposits and coking of the injectors, combustion chamber and valves. Attempts to overcome these problems included heating of the vegetable oil, blending it with petroleum-derived diesel fuel or ethanol, pyrolysis and cracking of the oils. On 31 August 1937, Georges Chavanne of the University of Brussels (Belgium) was granted a patent for a \"Procedure for the transformation of vegetable oils for their uses as fuels\" (fr. \" Procédé de Transformation d’Huiles Végétales en Vue de Leur Utilisation comme Carburants \") Belgian Patent 422,877. This patent described the alcoholysis (often referred to as transesterification) of vegetable oils using ethanol (and mentions methanol) in order to separate the fatty acids from the glycerol by replacing the glycerol with short linear alcohols. This appears to be the first account of the production of what is known as \"biodiesel\" today. [15] This is similar (copy) to the patented methods used in the 18th century to make lamp-oil, and may be inspired by some old historical oil lamps, in some places. More recently, in 1977, Brazilian scientist Expedito Parente invented and submitted for patent, the first industrial process for the production of biodiesel. [16] This process is classified as biodiesel by international norms, conferring a \"standardized identity and quality. No other proposed biofuel has been validated by the motor industry.\" [17] As of 2010, Parente's company Tecbio is working with Boeing and NASA to certify bioquerosene (bio-kerosene), another product produced and patented by the Brazilian scientist. [18] Research into the use of transesterified sunflower oil , and refining it to diesel fuel standards, was initiated in South Africa in 1979. By 1983, the process for producing fuel-quality, engine-tested biodiesel was completed and published internationally. [19] An Austrian company, Gaskoks, obtained the technology from the South African Agricultural Engineers; the company erected the first biodiesel pilot plant in November 1987, and the first industrial-scale plant in April 1989 (with a capacity of 30,000 tons of rapeseed per annum). Throughout the 1990s, plants were opened in many European countries, including the Czech Republic , Germany and Sweden . France launched local production of biodiesel fuel (referred to as diester ) from rapeseed oil, which is mixed into regular diesel fuel at a level of 5%, and into the diesel fuel used by some captive fleets (e.g. public transportation ) at a level of 30%. Renault , Peugeot and other manufacturers have certified truck engines for use with up to that level of partial biodiesel; experiments with 50% biodiesel are underway. During the same period, nations in other parts of the world also saw local production of biodiesel starting up: by 1998, the Austrian Biofuels Institute had identified 21 countries with commercial biodiesel projects. 100% biodiesel is now available at many normal service stations across Europe.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Rudolf_Diesel.jpg/170px-Rudolf_Diesel.jpg",
+                "caption": "Rudolf Diesel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Properties",
+        "text": "The color of biodiesel ranges from clear to golden to dark brown, depending on the production method and the feedstock used to make the fuel. This also changes the resulting fuel properties. [20] In general, biodiesel is slightly miscible with water, has a high boiling point and low vapor pressure . The flash point of biodiesel can exceed 130 °C (266 °F), [21] significantly higher than that of petroleum diesel which may be as low as 52 °C (126 °F). [22] [23] Biodiesel has a density around ~0.88 g/cm 3 , higher than petrodiesel (~0.85 g/cm 3 ). [22] [23] The calorific value of biodiesel is about 37.27 MJ/kg. [24] This is 9% lower than regular Number 2 petrodiesel. Variations in biodiesel energy density is more dependent on the feedstock used than the production process. Still, these variations are less than for petrodiesel. [25] It has been claimed biodiesel gives better lubricity and more complete combustion thus increasing the engine energy output and partially compensating for the higher energy density of petrodiesel. [26] Biodiesel also contains virtually no sulfur [27] and although lacking sulfur compounds that in petrodiesel provide much of the lubricity, it has promising lubricating properties and cetane ratings compared to low sulfur diesel fuels and often serves as an additive to ultra-low-sulfur diesel (ULSD) fuel to aid with lubrication. [28] Biodiesel Fuels with higher lubricity may increase the usable life of high-pressure fuel injection equipment that relies on the fuel for its lubrication. Depending on the engine, this might include high pressure injection pumps, pump injectors (also called unit injectors ) and fuel injectors .",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Biodiesel_3.jpg/220px-Biodiesel_3.jpg",
+                "caption": "Older diesel Mercedes are popular for running on biodiesel."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Applications",
+        "text": "Biodiesel can be used in pure form (B100) or may be blended with petroleum diesel at any concentration in most injection pump diesel engines. New extreme high-pressure (29,000 psi) common rail engines have strict factory limits of B5 or B20, depending on manufacturer. [29] Biodiesel has different solvent properties from petrodiesel, and will degrade natural rubber gaskets and hoses in vehicles (mostly vehicles manufactured before 1992), although these tend to wear out naturally and most likely will have already been replaced with FKM , which is nonreactive to biodiesel. Biodiesel has been known to break down deposits of residue in the fuel lines where petrodiesel has been used. [30] As a result, fuel filters may become clogged with particulates if a quick transition to pure biodiesel is made. Therefore, it is recommended to change the fuel filters on engines and heaters shortly after first switching to a biodiesel blend. [31]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Targray_Biodiesel_Railcar.png/220px-Targray_Biodiesel_Railcar.png",
+                "caption": "Targray Biofuels railcar transporting Biodiesel."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Railway usage",
+        "text": "British train operating company Virgin Trains West Coast claimed to have run the UK's first \"biodiesel train\", when a Class 220 was converted to run on 80% petrodiesel and 20% biodiesel. [42] [43] The British Royal Train on 15 September 2007 completed its first ever journey run on 100% biodiesel fuel supplied by Green Fuels Ltd. Prince Charles and Green Fuels managing director James Hygate were the first passengers on a train fueled entirely by biodiesel fuel. Since 2007, the Royal Train has operated successfully on B100 (100% biodiesel). [44] A government white paper also proposed converting large portions of the UK railways to biodiesel but the proposal was subsequently dropped in favour of further electrification. [45] Similarly, a state-owned short-line railroad in Eastern Washington ran a test of a 25% biodiesel / 75% petrodiesel blend during the summer of 2008, purchasing fuel from a biodiesel producer sited along the railroad tracks. [46] The train will be powered by biodiesel made in part from canola grown in agricultural regions through which the short line runs. Also in 2007, Disneyland began running the park trains on B98 (98% biodiesel). The program was discontinued in 2008 due to storage issues, but in January 2009, it was announced that the park would then be running all trains on biodiesel manufactured from its own used cooking oils. This is a change from running the trains on soy-based biodiesel. [47] In 2007, the historic Mt. Washington Cog Railway added the first biodiesel locomotive to its all-steam locomotive fleet. The fleet has climbed up the western slopes of Mount Washington in New Hampshire since 1868 with a peak vertical climb of 37.4 degrees. [48] In 2009, the Grand Canyon Railway started running engine 4960 on used cooking oil. On 8 July 2014, [49] the then Indian Railway Minister D.V. Sadananda Gowda announced in Railway Budget that 5% bio-diesel will be used in Indian Railways' Diesel Engines. [50]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Biodiesel_locomotive_at_Mount_Washington_Cog_Railway.JPG/220px-Biodiesel_locomotive_at_Mount_Washington_Cog_Railway.JPG",
+                "caption": "Biodiesel locomotive and its external fuel tank at Mount Washington Cog Railway"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Biodiesel in generators",
+        "text": "In 2001, UC Riverside installed a 6-megawatt backup power system that is entirely fueled by biodiesel. Backup diesel-fueled generators allow companies to avoid damaging blackouts of critical operations at the expense of high pollution and emission rates. By using B100, these generators were able to essentially eliminate the byproducts that result in smog, ozone, and sulfur emissions. [56] The use of these generators in residential areas around schools, hospitals, and the general public result in substantial reductions in poisonous carbon monoxide and particulate matter. [57]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Biodiesel_rental_generator.jpg/170px-Biodiesel_rental_generator.jpg",
+                "caption": "Biodiesel is also used in rental generators"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Production",
+        "text": "Biodiesel is commonly produced by the transesterification of the vegetable oil or animal fat feedstock, and other non-edible raw materials such as frying oil, etc. There are several methods for carrying out this transesterification reaction including the common batch process, heterogeneous catalysts, [73] supercritical processes, ultrasonic methods, and even microwave methods. Chemically, transesterified biodiesel comprises a mix of mono- alkyl esters of long chain fatty acids . The most common form uses methanol (converted to sodium methoxide) to produce methyl esters (commonly referred to as Fatty Acid Methyl Ester – FAME) as it is the cheapest alcohol available, though ethanol can be used to produce an ethyl ester (commonly referred to as Fatty Acid Ethyl Ester – FAEE) biodiesel and higher alcohols such as isopropanol and butanol have also been used. Using alcohols of higher molecular weights improves the cold flow properties of the resulting ester, at the cost of a less efficient transesterification reaction. A lipid transesterification production process is used to convert the base oil to the desired esters. Any free fatty acids (FFAs) in the base oil are either converted to soap and removed from the process, or they are esterified (yielding more biodiesel) using an acidic catalyst. After this processing, unlike straight vegetable oil , biodiesel has combustion properties very similar to those of petroleum diesel, and can replace it in most current uses. The methanol used in most biodiesel production processes is made using fossil fuel inputs. However, there are sources of renewable methanol made using carbon dioxide or biomass as feedstock, making their production processes free of fossil fuels. [74] A by-product of the transesterification process is the production of glycerol . For every 1 tonne of biodiesel that is manufactured, 100 kg of glycerol are produced. Originally, there was a valuable market for the glycerol, which assisted the economics of the process as a whole. However, with the increase in global biodiesel production, the market price for this crude glycerol (containing 20% water and catalyst residues) has crashed. Research is being conducted globally to use this glycerol as a chemical building block (see chemical intermediate under Wikipedia article \" Glycerol \"). One initiative in the UK is The Glycerol Challenge. [75] Usually this crude glycerol has to be purified, typically by performing vacuum distillation. This is rather energy intensive. The refined glycerol (98%+ purity) can then be utilised directly, or converted into other products. The following announcements were made in 2007: A joint venture of Ashland Inc. and Cargill announced plans to make propylene glycol in Europe from glycerol [76] and Dow Chemical announced similar plans for North America. [77] Dow also plans to build a plant in China to make epichlorhydrin from glycerol. [78] Epichlorhydrin is a raw material for epoxy resins . Global biodiesel production reached 3.8 million tons in 2005. Approximately 85% of biodiesel production came from the European Union. [ citation needed ] [79]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bequer-B100-SOJA-SOYBEAM.jpg/170px-Bequer-B100-SOJA-SOYBEAM.jpg",
+                "caption": "Pure biodiesel (B-100) made from soybeans"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Efficiency and economic arguments",
+        "text": "Transitioning fully to biofuels could require immense tracts of land if traditional food crops are used (although non food crops can be utilized). The problem would be especially severe for nations with large economies, since energy consumption scales with economic output. [108] For third world countries, biodiesel sources that use marginal land could make more sense; e.g., pongam oiltree nuts grown along roads or jatropha grown along rail lines. [109] In tropical regions, such as Malaysia and Indonesia, plants that produce palm oil are being planted at a rapid pace to supply growing biodiesel demand in Europe and other markets. Scientists have shown that the removal of rainforest for palm plantations is not ecologically sound since the expansion of oil palm plantations poses a threat to natural rainforest and biodiversity. [110] It has been estimated in Germany that palm oil diesel has less than one third of the production costs of rapeseed biodiesel. [111] In the US, the production of biodiesel was reported in 2018 to support more than 64,000 jobs. [89] The growth in biodiesel also helps significantly increase GDP. In 2011, biodiesel created more than $3 billion in GDP. [112]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Diesel_prices.jpg/130px-Diesel_prices.jpg",
+                "caption": "In some countries biodiesel is less expensive than conventional diesel"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Environmental impact of biodiesel",
+        "text": "The surge of interest in biodiesels has highlighted a number of environmental effects associated with its use. These potentially include reductions in greenhouse gas emissions , [129] deforestation , pollution and the rate of biodegradation . According to the Renewable Fuel Standards Program Regulatory Impact Analysis , released by the Environmental Protection Agency (EPA) of the United States in February 2010, biodiesel from soy oil results, on average, in a 57% reduction in greenhouse gases compared to petroleum diesel, and biodiesel produced from waste grease results in an 86% reduction. See chapter 2.6 of the EPA report for more detailed information. However, environmental organizations, for example, Rainforest Rescue [130] and Greenpeace , [131] criticize the cultivation of plants used for biodiesel production, e.g., oil palms, soybeans and sugar cane. The deforestation of rainforests exacerbates climate change and sensitive ecosystems are destroyed to clear land for oil palm, soybean and sugar cane plantations. Moreover, that biofuels contribute to world hunger, since arable land is no longer used for growing foods. The Environmental Protection Agency published data in January 2012, showing that biofuels made from palm oil will not count towards the renewable fuels mandate of the United States as they are not climate-friendly. [132] Environmentalists welcome the conclusion because the growth of oil palm plantations has driven tropical deforestation, for example, in Indonesia and Malaysia. [132] [133] Indonesia produces biodiesel primarily from palm oil . Since agricultural land is limited, in order to plant monocultures of oil palms , land used for other cultivations or the tropical forest need to be cleared. A major environmental threat is then the destruction of rainforests in Indonesia. [134] The environmental impact of biodiesel is diverse and not clearcut. An often mentioned incentive for using biodiesel is its capacity to lower greenhouse gas emissions compared to those of fossil fuels . Whether this is true or not depends on many factors.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Riau_palm_oil_2007.jpg/220px-Riau_palm_oil_2007.jpg",
+                "caption": "Deforestation in Indonesia , to make way for an oil palm plantation."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Greenhouse gas emissions",
+        "text": "A general critique against biodiesel is the land use change, which have potential to cause even more emissions than what would be caused by using fossil fuels alone. [137] Yet this problem would be fixed with algal biofuel which can use land unsuitable for agriculture. Carbon dioxide is one of the major greenhouse gases . Although the burning of biodiesel produces carbon dioxide emissions similar to those from ordinary fossil fuels, the plant feedstock used in the production absorbs carbon dioxide from the atmosphere when it grows. Plants absorb carbon dioxide through a process known as photosynthesis which allows it to store energy from sunlight in the form of sugars and starches. After the biomass is converted into biodiesel and burned as fuel the energy and carbon is released again. Some of that energy can be used to power an engine while the carbon dioxide is released back into the atmosphere. When considering the total amount of greenhouse gas emissions it is therefore important to consider the whole production process and what indirect effects such production might cause. The effect on carbon dioxide emissions is highly dependent on production methods and the type of feedstock used. Calculating the carbon intensity of biofuels is a complex and inexact process, and is highly dependent on the assumptions made in the calculation. A calculation usually includes: Other factors can be very significant but are sometimes not considered. These include: If land use change is not considered and assuming today's production methods, biodiesel from rapeseed and sunflower oil produce 45%-65% lower greenhouse gas emissions than petrodiesel. [138] [139] [140] [141] However, there is ongoing research to improve the efficiency of the production process. [138] [140] Biodiesel produced from used cooking oil or other waste fat could reduce CO 2 emissions by as much as 85%. [135] As long as the feedstock is grown on existing cropland, land use change has little or no effect on greenhouse gas emissions. However, there is concern that increased feedstock production directly affects the rate of deforestation. Such clearcutting cause carbon stored in the forest, soil and peat layers to be released. The amount of greenhouse gas emissions from deforestation is so large that the benefits from lower emissions (caused by biodiesel use alone) would be negligible for hundreds of years. [135] [137] Biofuel produced from feedstock such as palm oil could therefore cause much higher carbon dioxide emissions than some types of fossil fuels. [142]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BioDieselFootprint.jpg/350px-BioDieselFootprint.jpg",
+                "caption": "Calculation of Carbon Intensity of Soy biodiesel grown in the US and burnt in the UK, using figures calculated by the UK government for the purposes of the Renewable transport fuel obligation . [135]"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/BiodieselsCountryOfOrigin.jpg/350px-BiodieselsCountryOfOrigin.jpg",
+                "caption": "Graph of UK figures for the Carbon Intensity of Biodiesels and fossil fuels . This graph assumes that all biodiesel is used in its country of origin. It also assumes that the diesel is produced from pre-existing croplands rather than by changing land use [136]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Jatropha",
+        "text": "Several groups in various sectors are conducting research on Jatropha curcas , a poisonous shrub-like tree that produces seeds considered by many to be a viable source of biodiesel feedstock oil. [172] Much of this research focuses on improving the overall per acre oil yield of Jatropha through advancements in genetics, soil science, and horticultural practices. SG Biofuels , a San Diego-based Jatropha developer, has used molecular breeding and biotechnology to produce elite hybrid seeds of Jatropha that show significant yield improvements over first generation varieties. [173] SG Biofuels also claims that additional benefits have arisen from such strains, including improved flowering synchronicity, higher resistance to pests and disease, and increased cold weather tolerance. [174] Plant Research International, a department of the Wageningen University and Research Centre in the Netherlands, maintains an ongoing Jatropha Evaluation Project (JEP) that examines the feasibility of large scale Jatropha cultivation through field and laboratory experiments. [175] The Center for Sustainable Energy Farming (CfSEF) is a Los Angeles-based non-profit research organization dedicated to Jatropha research in the areas of plant science, agronomy, and horticulture. Successful exploration of these disciplines is projected to increase Jatropha farm production yields by 200–300% in the next ten years. [176]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jatropha_Biodiesel_-_DRDO_-_Pride_of_India_-_Exhibition_-_100th_Indian_Science_Congress_-_Kolkata_2013-01-03_2579.JPG/150px-Jatropha_Biodiesel_-_DRDO_-_Pride_of_India_-_Exhibition_-_100th_Indian_Science_Congress_-_Kolkata_2013-01-03_2579.JPG",
+                "caption": "Jatropha Biodiesel from DRDO , India."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Biodiesel",
+        "title": "Biodiesel",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Overview",
+        "text": "In 2018, gross electricity production in Italy reached 289.7 TWh, down 2.1% compared to 2017; [9] thermal power stations ensured 66.5% of production and renewable energies 33.5%: hydraulic 17.4%, solar 7.8%, wind 6.1% and geothermal 2.1% (note: this statistic includes biomass and waste in the thermal). [9] Net production was 279.8 TWh, including 2.3 TWh for pumping. [9] The Great Recession at the end of 2008 reduced demand for electricity by 5.7% in 2009. [12] The strong growth of renewable energies (+47% since 2010) has made it possible to reduce fossil fuel-based production by 27% between 2010 and 2020; the drop in demand caused by the Covid-19 pandemic in 2020 is however partly responsible for this decline in fossil fuels . [12] Generating capacity in 2019 and production in 2020 was: In 2008 Italy consumed electricity in 6,054 kWh per capita, while the EU15 average was slightly higher 7,409 kWh per capita. In 2009 consumption was divided by power source: 13.5% import, 65.8% fossil electricity and 20.7% renewable electricity. [16]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Italy_electricity_production.svg/260px-Italy_electricity_production.svg.png",
+                "caption": "Italy electricity production by source"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Italy_renewable_electricity_production.svg/260px-Italy_renewable_electricity_production.svg.png",
+                "caption": "Italy renewable electricity production by source"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_in_Italy",
+        "title": "Electricity sector in Italy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Fossil fuels",
+        "text": "Fossil fuel thermal power plants provide the majority of electricity production in Italy, with a total of 192.1 TWh in 2018, or 66.3% of the electricity produced in the country. [17] During the decade 1997-2007, natural gas power plants experienced strong growth, rising from 24 to 55% of total electricity production; since 2009 they have fallen sharply, falling to 33.5% in 2014, but still representing 53.4% of thermal generation; from 2015 to 2017, they resumed their progression: +35% in two years, rising to 48.4% of total electricity production and 67.2% of thermal production in 2017 (66.9% in 2018); [17] the rest of this production is provided by coal (14.8%; down 42% from its peak in 2012 after experiencing a 24% rebound in 2011-12, as in the whole of Europe due to the drop in coal prices caused by the shale gas boom in the United States), gases derived from processes (1.3%), petroleum products (1.7%), other fuels (mainly biomass, as well as tar, refinery gas, recovered heat, etc.) representing 15.3%. [17] Combined cycle (gas) units numbered 174 and totaled a power of 40,242 MW (including 58 purely electric units: 22,300 MW and 116 cogeneration units: 17,942 MW), and gas turbines 130 units ( 3,073MW); steam (coal) condensing units were 104 (12,637 MW). [18] The fuels consumed for the production of electricity in 2018 were: [19] Enel launched a call for projects for 23 old power plants being closed, representing 13,000 MW, out of a total of 54 power plants; the Tor del Sale combined cycle power plant in Piombino , near Livorno in Tuscany , will serve as a pilot site. [20] In 2017, Enel plans to achieve its goal of zero CO 2 emissions, initially set for 2050, 10 years in advance. [21] Enel Green Power installed 2,500 MW of renewable energy plants in 2017. [22] Enel had already closed 13,000 MW of old fossil thermal power plants in 2015. [23]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/FossilFuelProductioninItaly.png/220px-FossilFuelProductioninItaly.png",
+                "caption": "Pie chart of Italy's fossil fuel electricity production by fuel type"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Centrale_termoelettrica_di_Turbigo-1960_-_panoramio.jpg/220px-Centrale_termoelettrica_di_Turbigo-1960_-_panoramio.jpg",
+                "caption": "Thermoelectric plant in Turbigo , Lombardy"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_in_Italy",
+        "title": "Electricity sector in Italy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Hydroelectricity",
+        "text": "Italy is the world's 16th largest producer of hydroelectric power , with a total of 44,257 GWh produced in 2016. [24] Energy from hydro accounted for about 18% of the national production in 2010, with hydroelectric plants located mainly in the Alps and the Apennines . [25] In 1883, the engineer Lorenzo Vanossi designed and installed in Chiavenna the first electric generator in Italy powered by hydraulic power. [26] From the beginning of the 20th century to the 1950s, hydroelectric power accounted for the majority of generated power, but as energy needs increased approaching the 21st century that percentage dropped significantly. [27] Production by type of development evolved as follows: The number and power of plants by size is:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Entracque_diga_Chiotas1.jpg/220px-Entracque_diga_Chiotas1.jpg",
+                "caption": "Entracque Power Plant in Entracque , Piedmont"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_in_Italy",
+        "title": "Electricity sector in Italy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Geothermal",
+        "text": "Italy was the first country in the world to exploit geothermal energy to produce electricity . [31] The high geothermal gradient that forms part of the peninsula makes it potentially exploitable also in other regions; research carried out in the 1960s and 1970s identified potential geothermal fields in Lazio and Tuscany , as well as in most volcanic islands. [31] Prince Piero Ginori Conti tested the first geothermal power generator on 4 July 1904 in Larderello , in the province of Pisa. It successfully lit four light bulbs. [32] In 2019, Italy held 6th place in the world for geothermal electricity production with 6.07 TWh, or 6.7% of global geothermal production. [11] Italy has, in 2017, 34 geothermal power plants, all located in Tuscany , with a total installed capacity of 813 MW, of which 407 MW in the province of Pisa , 204 MW in the province of Siena and 202 MW in the province of Grosseto ; [33] 27 plants have less than 20 MW and 4 more than 40 MW; [33] from 2003 to 2017, the number of power plants has changed only slightly (34 in 2003, 31 from 2004 to 2008, 32 in 2009, 33 from 2010 to 2012, 34 since 2013), their power has increased by 707 MW at 813 MW (+15%) with a peak at 821 MW in 2014-2015, and their production from 5,341 GWh to 6,201 GWh (+16%) (6,289 GWh in 2016); [33] the availability of the geothermal source is constant, so that the capacity factor is high (record duration of use of 7,626 hours in 2017, or 87.1%; 7,720 MW hours in 2016, or 88.1%). [33]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Larderello_005.JPG/220px-Larderello_005.JPG",
+                "caption": "Geothermal power plant in Larderello , Tuscany"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_in_Italy",
+        "title": "Electricity sector in Italy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Wind power",
+        "text": "Italy produced 18,702 GWh of wind electricity in 2020 (down 7.4%), i.e. 6.6% of the country's electricity production, and globally, it ranks 14th in 2020 with 1.2% of the world total. [34] In 2018, Italy was the 5th largest producer of wind electricity in Europe. [35] In 2017, wind power provided 17% of renewable electricity, 6.0% of the country's electricity production and 5.3% of its electricity consumption. [36] Wind farms are mainly located in the six southern regions : 90% of the number of sites, 90.5% of the installed capacity and 90.6% of the production in 2017: [36]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Centrale_Eolica_Frigento.jpg/220px-Centrale_Eolica_Frigento.jpg",
+                "caption": "Wind turbines in Frigento , Campania"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_in_Italy",
+        "title": "Electricity sector in Italy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Solar power",
+        "text": "Italy is a fairly large producer of solar thermal energy : at the end of 2017, Italy had 4.1 Mm 2 (millions of m 2 ) of collectors, whose heat production amounted in 2017 to 8,745 TJ ( around 209 ktoe), up 4.3% compared to 2016 and 34.4% since 2012; [37] the residential sector represents 74% of the total, and the tertiary sector 20%; [37] the most producing provinces are Lombardy (17.3%), Veneto (13.6%) and Piedmont (10.1%). [37] The International Energy Agency estimates Italian photovoltaic solar electricity production at 23,689 GWh in 2019, or 8.1% of total electricity production, ranking 6th in the world with 3.3% of world production, and 2nd in Europe. [7] Photovoltaic installations are installed both in the north and in the south, although the yield is better in the south; [38] there is a maximum settlement density on the Adriatic coast , from the Marche to Apulia : [38] Photovoltaic installations are divided between the four main sectors of activity:",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Mazzarr%C3%A0_Sant%27Andrea_photovoltaic_power_station.jpg/220px-Mazzarr%C3%A0_Sant%27Andrea_photovoltaic_power_station.jpg",
+                "caption": "Photovoltaic power station in Mazzarrà Sant'Andrea , Sicily"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Italy_GHI_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png/220px-Italy_GHI_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png",
+                "caption": "Map of solar radiation in Italy."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_in_Italy",
+        "title": "Electricity sector in Italy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Biomass",
+        "text": "In 2019, Italy ranked 8th in the world for electricity production from biomass with 17.2 TWh, or 3.2% of world production. [11] From 2003 to 2017, the power of bioenergy units increased at the rate of 10% per year, but this growth slowed down from 2013 (+2.5% only in five years); [43] the average size of units fell sharply: 1.4 MW in 2017 compared to 4.3 MW in 2005 and 4.8 MW in 2009. [43]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Biogas_plant_%28Costa_di_Rovigo%29.jpg/220px-Biogas_plant_%28Costa_di_Rovigo%29.jpg",
+                "caption": "Biomass power plant in Costa di Rovigo , Veneto"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Biogas_plant_%28Guarda_Veneta%29.jpg/220px-Biogas_plant_%28Guarda_Veneta%29.jpg",
+                "caption": "Biomass power plant in Guarda Veneta , Veneto"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_in_Italy",
+        "title": "Electricity sector in Italy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Imported electricity",
+        "text": "Italian international grid connections comprise several lines connecting the national grid with Europe: 4  with France , 12 with Switzerland , 1 with Austria , 2 with Slovenia , 1 with Greece , 1 with Corsica . [45] In addition, a new subsea HCDC power line was installed in 2015 between Sicily and Malta. Electricity imports amounted to about 40 TWh in 2008. This was the second highest import in the world, after Brazil . [46] Most electricity imports into Italy come from Switzerland and France. Import accounts for around 10% of total consumption. [47]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ragusa%27s_%28Sicily%29_substation.jpg/220px-Ragusa%27s_%28Sicily%29_substation.jpg",
+                "caption": "Ragusa 's substation of Malta–Sicily interconnector"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_in_Italy",
+        "title": "Electricity sector in Italy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Nuclear power",
+        "text": "Nuclear power in Italy is a controversial topic. Italy started to produce nuclear energy in the early 1960s, but all plants were closed by 1990 following the Italian nuclear power referendum . Much concern has arisen because Italy is in a seismically active area, placing it at greater risk for a nuclear accident. [49] Four nuclear power plants have been active in Italy: [48] An attempt to change the decision was made in 2008 by the government (see also nuclear power debate ), which called the nuclear power phase-out a \"terrible mistake, the cost of which totalled over €50 billion\". [50] Minister of Economic Development Claudio Scajola proposed to build as many as 10 new reactors, with the goal of increasing the nuclear share of Italy's electricity supply to about 25% by 2030. [51] Former Prime Minister of Italy Silvio Berlusconi and President of France Nicolas Sarkozy made an agreement to construct four nuclear power plants in Italy in February 2009. [52] The actual construction of nuclear power is unlikely due to the lack of public support and environmental and construction concerns. [53] However, following the 2011 Japanese nuclear accidents , the Italian government put a one-year moratorium on plans to revive nuclear power. [54] On 11–12 June 2011, Italian voters passed a referendum to cancel plans for new reactors. Over 94% of the electorate voted in favor of the construction ban, with 55% of the eligible voters participating, making the vote binding. [55]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/CentraleNucleareEnricoFermi.jpg/220px-CentraleNucleareEnricoFermi.jpg",
+                "caption": "Enrico Fermi Nuclear Power Plant in Trino , Piedmont , which shut in 1990. [48]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_in_Italy",
+        "title": "Electricity sector in Italy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Renewable energy targets",
+        "text": "Italy had a 17 percent target in its total energy use set by the European Union for 2020 and was close to meeting its goal having reached 16.2% of renewable energy consumption in 2014. [56] Italy's target for the total renewable electricity was 100 TWh in 2020, including 20 TWh wind, 42 TWh hydro, 19 TWh biomass, 12 TWh solar, and 7 TWh geothermal power. [57] The share of renewable electricity was 38.2% of national energy consumption in 2014 (in 2005 this value was 15.4%), covering 16.2% of the total energy consumption of the country (5.3% in 2005). [56] All of the 8,047 Italian municipalities ( comune ) have deployed some source of renewable energy, with hydroelectric power being the leading renewable energy source in terms of production. The wind energy target, 5.3% of the total electricity use, is the 6th lowest in the European Union, [note 4] whose average target in wind is 14% in 2020. EWEA 's analysis of the Italy's plans reflect disappointment since the action plan suggests an annual slow-down of the wind power generation capacity rate and the rates of authorization for new plants. [57] Since 2001, all the producers and importers of electricity in Italy are forced to produce a quota of electricity from renewable sources or to buy green certificates from a different company with a surplus in renewable energy production. [58]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pannelli_solari_Unicoop_Tirreno.JPG/220px-Pannelli_solari_Unicoop_Tirreno.JPG",
+                "caption": "Solar panels in Piombino , Tuscany . Italy is one of the world's largest producers of renewable energy. [56]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_in_Italy",
+        "title": "Electricity sector in Italy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Transmission and distribution",
+        "text": "The transmission of high voltage electricity in Italy is provided by Terna . The transmission network has 63,500 km of HV lines, 22 interconnection lines with foreign countries, 445 transformer stations. [62]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Power_Lines_-_Sant%27Agata_Bolognese%2C_Bologna%2C_Italy_-_December_3%2C_2018_01.jpg/220px-Power_Lines_-_Sant%27Agata_Bolognese%2C_Bologna%2C_Italy_-_December_3%2C_2018_01.jpg",
+                "caption": "Electricity pylons in Sant'Agata Bolognese , Emilia-Romagna"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Electricity_sector_in_Italy",
+        "title": "Electricity sector in Italy",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Fossil fuel reduction",
+        "text": "Renewable energy generation in Denmark increased from 10.4 TWh to 17.6 TWh between 2007 and 2014. [20] [21] [22] [23] [24] Fossil fuel generation fell from 26.3 TWh in 2007 to 12.4 TWh in 2014. [20] [21] [22] [23] [24] Electricity generated from renewables first exceeded electricity from fossil fuels in 2012 and again in 2014. Coal power, for example, has fallen from 90% of Danish electricity generation in 1990 to 42% in 2005 and 10% in 2020. [26] Current (2023) plans anticipate a complete phase out of coal from the electricity and heat sectors by 2030. [27]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Net_electricity_generation_from_renewable_and_fossil_fuel_sources_in_Denmark.png/459px-Net_electricity_generation_from_renewable_and_fossil_fuel_sources_in_Denmark.png",
+                "caption": "Net electricity generation from renewable and fossil fuel sources in Denmark"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy_in_Denmark",
+        "title": "Renewable energy in Denmark",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    },
+    {
+        "section": "Wind",
+        "text": "Electricity generated by wind power in Denmark rose from 7.2 TWh in 2007 to 13.1 GwH in 2014. Offshore wind power has been growing in importance, rising from 19.1% of total wind production in 2007 to 34.5% of production by 2014. Denmark was the world's leading windpower country in 2014 by percentage of demand coverage at 39% of Danish electricity consumption. [35] Ambitious plans for future development include increasing production from the 13.1 TWh produced in 2014 to 23.3 TWh by 2024, which would raise demand coverage from 39% to 61% over the period. [35] Offshore and nearshore windpower is expected to grow quicker than land based wind power to reach almost parity with land based production by 2024 (49%). [35] Denmark often produces more electricity from windpower than the entire country requires and will export it for sale or for storage in hydroelectric dams in Norway and Sweden. Occasionally electricity prices turn negative for producers when there is a glut of electricity production and lack of demand abroad as well. One result of this has been the growth of electric boilers being installed in district heating plants. [36] When there is an excess of electricity the plants can use cheap electricity to heat the hot water instead of finite bio or fossil fuels. As wind production rises the problem of too much electricity being generated will also give rise to new challenges and solutions. Electric heating and cooling can also be used in the form of more efficient heat pumps to mop up excess electricity supply. The electricity sector will in effect expand into the heating and cooling sector to displace current energy sources. By 2022, Denmark had achieved an installed offshore wind energy capacity of 2.3 GW and plans to raise this to a minimum of 9 GW, with a possibility of reaching up to 14 GW by 2030. A 2023 IEA report identifies Denmark as the global leader in installing offshore wind parks and energy islands . [28] [5]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Windmills_4890293313.jpg/400px-Windmills_4890293313.jpg",
+                "caption": ""
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Renewable_energy_in_Denmark",
+        "title": "Renewable energy in Denmark",
+        "field": "Renewable_Energy_and_Sustainability",
+        "subfield": "Biomass Energy",
+        "topic": "Bioliquids in energy production"
+    }
+]

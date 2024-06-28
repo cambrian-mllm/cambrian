@@ -1,0 +1,137 @@
+[
+    {
+        "section": "Intuition",
+        "text": "PCA can be thought of as fitting a p -dimensional ellipsoid to the data, where each axis of the ellipsoid represents a principal component. If some axis of the ellipsoid is small, then the variance along that axis is also small. To find the axes of the ellipsoid, we must first center the values of each variable in the dataset on 0 by subtracting the mean of the variable's observed values from each of those values. These transformed values are used instead of the original observed values for each of the variables. Then, we compute the covariance matrix of the data and calculate the eigenvalues and corresponding eigenvectors of this covariance matrix. Then we must normalize each of the orthogonal eigenvectors to turn them into unit vectors. Once this is done, each of the mutually-orthogonal unit eigenvectors can be interpreted as an axis of the ellipsoid fitted to the data. This choice of basis will transform the covariance matrix into a diagonalized form, in which the diagonal elements represent the variance of each axis. The proportion of the variance that each eigenvector represents can be calculated by dividing the eigenvalue corresponding to that eigenvector by the sum of all eigenvalues. Biplots and scree plots (degree of explained variance ) are used to interpret findings of the PCA.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SCREE_plot.jpg/220px-SCREE_plot.jpg",
+                "caption": "The above picture is of a scree plot that is meant to help interpret the PCA and decide how many components to retain. The start of the bend in the line (point of inflexion or \"knee\") should indicate how many components are retained, hence in this example, three factors should be retained."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+        "title": "Principal component analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Trace Element Analysis"
+    },
+    {
+        "section": "Dimensionality reduction",
+        "text": "The transformation T = X W maps a data vector x ( i ) from an original space of p variables to a new space of p variables which are uncorrelated over the dataset. However, not all the principal components need to be kept. Keeping only the first L principal components, produced by using only the first L eigenvectors, gives the truncated transformation where the matrix T L now has n rows but only L columns. In other words, PCA learns a linear transformation t = W L T x , x ∈ R p , t ∈ R L , {\\displaystyle t=W_{L}^{\\mathsf {T}}x,x\\in \\mathbb {R} ^{p},t\\in \\mathbb {R} ^{L},} where the columns of p × L matrix W L {\\displaystyle W_{L}} form an orthogonal basis for the L features (the components of representation t ) that are decorrelated. [13] By construction, of all the transformed data matrices with only L columns, this score matrix maximises the variance in the original data that has been preserved, while minimising the total squared reconstruction error ‖ T W T − T L W L T ‖ 2 2 {\\displaystyle \\|\\mathbf {T} \\mathbf {W} ^{T}-\\mathbf {T} _{L}\\mathbf {W} _{L}^{T}\\|_{2}^{2}} or ‖ X − X L ‖ 2 2 {\\displaystyle \\|\\mathbf {X} -\\mathbf {X} _{L}\\|_{2}^{2}} . Such dimensionality reduction can be a very useful step for visualising and processing high-dimensional datasets, while still retaining as much of the variance in the dataset as possible. For example, selecting L = 2 and keeping only the first two principal components finds the two-dimensional plane through the high-dimensional dataset in which the data is most spread out, so if the data contains clusters these too may be most spread out, and therefore most visible to be plotted out in a two-dimensional diagram; whereas if two directions through the data (or two of the original variables) are chosen at random, the clusters may be much less spread apart from each other, and may in fact be much more likely to substantially overlay each other, making them indistinguishable. Similarly, in regression analysis , the larger the number of explanatory variables allowed, the greater is the chance of overfitting the model, producing conclusions that fail to generalise to other datasets. One approach, especially when there are strong correlations between different possible explanatory variables, is to reduce them to a few principal components and then run the regression against them, a method called principal component regression . Dimensionality reduction may also be appropriate when the variables in a dataset are noisy. If each column of the dataset contains independent identically distributed Gaussian noise, then the columns of T will also contain similarly identically distributed Gaussian noise (such a distribution is invariant under the effects of the matrix W , which can be thought of as a high-dimensional rotation of the co-ordinate axes). However, with more of the total variance concentrated in the first few principal components compared to the same noise variance, the proportionate effect of the noise is less—the first few components achieve a higher signal-to-noise ratio . PCA thus can have the effect of concentrating much of the signal into the first few principal components, which can usefully be captured by dimensionality reduction; while the later principal components may be dominated by noise, and so disposed of without great loss. If the dataset is not too large, the significance of the principal components can be tested using parametric bootstrap , as an aid in determining how many principal components to retain. [14]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/PCA_of_Haplogroup_J_using_37_STRs.png/220px-PCA_of_Haplogroup_J_using_37_STRs.png",
+                "caption": "A principal components analysis scatterplot of Y-STR haplotypes calculated from repeat-count values for 37 Y-chromosomal STR markers from 354 individuals. PCA has successfully found linear combinations of the markers that separate out different clusters corresponding to different lines of individuals' Y-chromosomal genetic descent."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+        "title": "Principal component analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Trace Element Analysis"
+    },
+    {
+        "section": "Factor analysis",
+        "text": "Principal component analysis creates variables that are linear combinations of the original variables. The new variables have the property that the variables are all orthogonal. The PCA transformation can be helpful as a pre-processing step before clustering. PCA is a variance-focused approach seeking to reproduce the total variable variance, in which components reflect both common and unique variance of the variable. PCA is generally preferred for purposes of data reduction (that is, translating variable space into optimal factor space) but not when the goal is to detect the latent construct or factors. Factor analysis is similar to principal component analysis, in that factor analysis also involves linear combinations of variables. Different from PCA, factor analysis is a correlation-focused approach seeking to reproduce the inter-correlations among variables, in which the factors \"represent the common variance of variables, excluding unique variance\". [69] In terms of the correlation matrix, this corresponds with focusing on explaining the off-diagonal terms (that is, shared co-variance), while PCA focuses on explaining the terms that sit on the diagonal. However, as a side result, when trying to reproduce the on-diagonal terms, PCA also tends to fit relatively well the off-diagonal correlations. [12] : 158 Results given by PCA and factor analysis are very similar in most situations, but this is not always the case, and there are some problems where the results are significantly different. Factor analysis is generally used when the research purpose is detecting data structure (that is, latent constructs or factors) or causal modeling . If the factor model is incorrectly formulated or the assumptions are not met, then factor analysis will give erroneous results. [70]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PCA_versus_Factor_Analysis.jpg/220px-PCA_versus_Factor_Analysis.jpg",
+                "caption": "The above picture is an example of the difference between PCA and Factor Analysis. In the top diagram the \"factor\" (e.g., career path) represents the three observed variables (e.g., doctor, lawyer, teacher) whereas in the bottom diagram the observed variables (e.g., pre-school teacher, middle school teacher, high school teacher) are reduced into the component of interest (e.g., teacher)."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+        "title": "Principal component analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Trace Element Analysis"
+    },
+    {
+        "section": "Non-negative matrix factorization",
+        "text": "Non-negative matrix factorization (NMF) is a dimension reduction method where only non-negative elements in the matrices are used, which is therefore a promising method in astronomy, [23] [24] [25] in the sense that astrophysical signals are non-negative. The PCA components are orthogonal to each other, while the NMF components are all non-negative and therefore constructs a non-orthogonal basis. In PCA, the contribution of each component is ranked based on the magnitude of its corresponding eigenvalue, which is equivalent to the fractional residual variance (FRV) in analyzing empirical data. [21] For NMF, its components are ranked based only on the empirical FRV curves. [25] The residual fractional eigenvalue plots, that is, 1 − ∑ i = 1 k λ i / ∑ j = 1 n λ j {\\displaystyle 1-\\sum _{i=1}^{k}\\lambda _{i}{\\Big /}\\sum _{j=1}^{n}\\lambda _{j}} as a function of component number k {\\displaystyle k} given a total of n {\\displaystyle n} components, for PCA have a flat plateau, where no data is captured to remove the quasi-static noise, then the curves drop quickly as an indication of over-fitting (random noise). [21] The FRV curves for NMF is decreasing continuously [25] when the NMF components are constructed sequentially , [24] indicating the continuous capturing of quasi-static noise; then converge to higher levels than PCA, [25] indicating the less over-fitting property of NMF.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fractional_Residual_Variances_comparison%2C_PCA_and_NMF.pdf/page1-500px-Fractional_Residual_Variances_comparison%2C_PCA_and_NMF.pdf.jpg",
+                "caption": "Fractional residual variance (FRV) plots for PCA and NMF; [25] for PCA, the theoretical values are the contribution from the residual eigenvalues. In comparison, the FRV curves for PCA reaches a flat plateau where no signal are captured effectively; while the NMF FRV curves decline continuously, indicating a better ability to capture signal. The FRV curves for NMF also converges to higher levels than PCA, indicating the less-overfitting property of NMF."
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+        "title": "Principal component analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Trace Element Analysis"
+    },
+    {
+        "section": "Iconography of correlations",
+        "text": "It is often difficult to interpret the principal components when the data include many variables of various origins, or when some variables are qualitative. This leads the PCA user to a delicate elimination of several variables. If observations or variables have an excessive impact on the direction of the axes, they should be removed and then projected as supplementary elements. In addition, it is necessary to avoid interpreting the proximities between the points close to the center of the factorial plane. The iconography of correlations , on the contrary, which is not a projection on a system of axes, does not have these drawbacks. We can therefore keep all the variables. The principle of the diagram is to underline the \"remarkable\" correlations of the correlation matrix, by a solid line (positive correlation) or dotted line (negative correlation). A strong correlation is not \"remarkable\" if it is not direct, but caused by the effect of a third variable. Conversely, weak correlations can be \"remarkable\". For example, if a variable Y depends on several independent variables, the correlations of Y with each of them are weak and yet \"remarkable\".",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/AirMerIconographyCorrelation.jpg/220px-AirMerIconographyCorrelation.jpg",
+                "caption": "Iconography of correlations – Geochemistry of marine aerosols"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+        "title": "Principal component analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Trace Element Analysis"
+    },
+    {
+        "section": "Nonlinear PCA",
+        "text": "Most of the modern methods for nonlinear dimensionality reduction find their theoretical and algorithmic roots in PCA or K-means. Pearson's original idea was to take a straight line (or plane) which will be \"the best fit\" to a set of data points. Trevor Hastie expanded on this concept by proposing Principal curves [85] as the natural extension for the geometric interpretation of PCA, which explicitly constructs a manifold for data approximation followed by projecting the points onto it. See also the elastic map algorithm and principal geodesic analysis . [86] Another popular generalization is kernel PCA , which corresponds to PCA performed in a reproducing kernel Hilbert space associated with a positive definite kernel. In multilinear subspace learning , [87] [88] [89] PCA is generalized to multilinear PCA (MPCA) that extracts features directly from tensor representations. MPCA is solved by performing PCA in each mode of the tensor iteratively. MPCA has been applied to face recognition, gait recognition, etc. MPCA is further extended to uncorrelated MPCA, non-negative MPCA and robust MPCA. N -way principal component analysis may be performed with models such as Tucker decomposition , PARAFAC , multiple factor analysis, co-inertia analysis, STATIS, and DISTATIS.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Elmap_breastcancer_wiki.png/300px-Elmap_breastcancer_wiki.png",
+                "caption": "Linear PCA versus nonlinear Principal Manifolds [82] for visualization of breast cancer microarray data: a) Configuration of nodes and 2D Principal Surface in the 3D PCA linear manifold. The dataset is curved and cannot be mapped adequately on a 2D principal plane; b) The distribution in the internal 2D non-linear principal surface coordinates (ELMap2D) together with an estimation of the density of points; c) The same as b), but for the linear 2D PCA manifold (PCA2D). The \"basal\" breast cancer subtype is visualized more adequately with ELMap2D and some features of the distribution become better resolved in comparison to PCA2D. Principal manifolds are produced by the elastic maps algorithm. Data are available for public competition. [83] Software is available for free non-commercial use. [84]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+        "title": "Principal component analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Trace Element Analysis"
+    },
+    {
+        "section": "CHNX analysis",
+        "text": "For organic chemists, elemental analysis or \"EA\" almost always refers to CHNX analysis—the determination of the mass fractions of carbon , hydrogen , nitrogen , and heteroatoms (X) (halogens, sulfur) of a sample. [ citation needed ] This information is important to help determine the structure of an unknown compound, as well as to help ascertain the structure and purity of a synthesized compound.  In present-day organic chemistry, spectroscopic techniques ( NMR , both 1 H and 13 C), mass spectrometry and chromatographic procedures have replaced EA as the primary technique for structural determination. However, it still gives very useful complementary information. The most common form of elemental analysis, CHNS analysis, is accomplished by combustion analysis . Modern elemental analyzers are also capable of simultaneous determination of sulfur along with CHN in the same measurement run. [3] [4] [5] [6]",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Elemental_Analyzer_System.jpg/220px-Elemental_Analyzer_System.jpg",
+                "caption": "Elemental Analyzer System"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Elemental_analysis",
+        "title": "Elemental analysis",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Trace Element Analysis"
+    },
+    {
+        "section": "Plants",
+        "text": "The list of minerals required for plants is similar to that for animals.  Both use very similar enzymes, although differences exist.  For example, legumes host molybdenum-containing nitrogenase , but animals do not.  Many animals rely on hemoglobin (Fe) for oxygen transport, but plants do not.  Fertilizers are often tailored to address mineral deficiencies in particular soils.  Examples include molybdenum deficiency , manganese deficiency , zinc deficiency , and so on.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Oxygen_Evolving_Complex_Crystal_structure_to_1.9_Angstrom_Resolution.png/220px-Oxygen_Evolving_Complex_Crystal_structure_to_1.9_Angstrom_Resolution.png",
+                "caption": "Structure of the Mn 4 O 5 Ca core of the oxygen-evolving site in plants, illustrating one of many roles of the trace mineral manganese. [35]"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Mineral_(nutrient)",
+        "title": "Mineral (nutrient)",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Trace Element Analysis"
+    },
+    {
+        "section": "Elements",
+        "text": "About 99% of the mass of the human body is made up of six elements: oxygen , carbon , hydrogen , nitrogen , calcium , and phosphorus . Only about 0.85% is composed of another five elements: potassium , sulfur , sodium , chlorine , and magnesium . All 11 are necessary for life. The remaining elements are trace elements , of which more than a dozen are thought on the basis of good evidence to be necessary for life. [1] All of the mass of the trace elements put together (less than 10 grams for a human body) do not add up to the body mass of magnesium, the least common of the 11 non-trace elements.",
+        "images": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Element_abundance_human_body_ppm_chart.svg/300px-Element_abundance_human_body_ppm_chart.svg.png",
+                "caption": "Parts-per-million cube of relative abundance by mass of elements in an average adult human body down to 1 ppm"
+            }
+        ],
+        "link": "https://en.wikipedia.org/wiki/Composition_of_the_human_body",
+        "title": "Composition of the human body",
+        "field": "Geology_and_Earth_Sciences",
+        "subfield": "Petrology",
+        "topic": "Trace Element Analysis"
+    }
+]
