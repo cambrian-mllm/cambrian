@@ -6,7 +6,7 @@
 
 ## Explanation
 
-### 1. Input Specification
+### Input Specification
 Provide inputs in `input_fields_subfields.txt` in the format `{Field}: {Subfields list}`. These can be generated using GPT-4 or manually specified.
 
 ### Topics Generation
