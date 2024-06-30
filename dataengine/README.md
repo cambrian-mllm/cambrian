@@ -70,38 +70,41 @@ Provide inputs in `input_fields_subfields.txt` in the format `{Field}: {Subfield
 8. Start by running `generate_qa.py` with your own user agent and OpenAI key. This script is designed for multiprocessing and can handle a large number of processes. Initially, 30 examples per field were run for demonstration, but it can be scaled up.
 9. Post-processing is done with `generate_vqa.py` to ensure that `image_id` and JSON data are correctly matched. This data is stored in the `vqa` folder, with associated images in the `images` folder.
 
-Below is the folder structure you will see after running the scripts:
+Below is the folder structure you will see after running the scripts using the example input file:
 
 - **dataengine/**
-  - **images/**
-    - **Geology_and_Earth_Sciences_images/**
-      - `1.png`
-      - `2.png`
-      - `...`
-    - **Renewable_Energy_and_Sustainability_images/**
-      - `1.png`
-      - `2.png`
-      - `...`
-  - **qadata/**
-    - `Geology_and_Earth_Sciences.json`
-    - `Renewable_Energy_and_Sustainability.json`
-  - **topics/**
-    - `Geology_and_Earth_Sciences.json`
-    - `Renewable_Energy_and_Sustainability.json`
-  - **wikidata/**
-    - **data/**
-      - `Biomass Energy/`
-        - `Advancements in biofuel production.json`
-        - `Bioliquids in energy production.json`
-        - `...`
-      - `Energy Storage/`
-      - `Hydropower/`
-      - `...`
-    - **wikilinks/**
-      - `Biomass Energy.json`
-      - `Energy Storage.json`
-      - `Hydropower.json`
-      - `...`
+  - **data/**
+    - **images/**
+        - **Geology_and_Earth_Sciences_images/**
+            - `1.png`
+            - `2.png`
+            - `...`
+        - **Renewable_Energy_and_Sustainability_images/**
+            - `1.png`
+            - `2.png`
+            - `...`
+    - **qadata/**
+        - `Geology_and_Earth_Sciences.json`
+        - `Renewable_Energy_and_Sustainability.json`
+    - **topics/**
+        - `Geology_and_Earth_Sciences.json`
+        - `Renewable_Energy_and_Sustainability.json`
+    - **wikidata/**
+        - **data/**
+            - `Biomass Energy/`
+                - `Advancements in biofuel production.json`
+                - `Bioliquids in energy production.json`
+                - `...`
+            - `Energy Storage/`
+                - `...`
+            - `Hydropower/`
+                - `...`
+            - `...`
+        - **wikilinks/**
+            - `Biomass Energy.json`
+            - `Energy Storage.json`
+            - `Hydropower.json`
+            - `...`
   - `generate_qa.py`
   - `generate_topics.py`
   - `generate_vqa.py`
