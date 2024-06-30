@@ -13,8 +13,8 @@ USER_AGENT="your_user_agent"
 WIKIPEDIA_USER_AGENT="<client name>/<version> (<contact information>)"  # https://foundation.wikimedia.org/wiki/Policy:User-Agent_policy
 
 python generate_topics.py &&
-python topics_postprocess1.py &&
-python topics_postprocess2.py &&
+python process_json_files.py &&
+python clean_and_rename_files.py &&
 python wikiflow.py &&
 python generate_qa.py &&
 python generate_vqa.py
@@ -27,8 +27,8 @@ Provide inputs in `input_fields_subfields.txt` in the format `{Field}: {Subfield
 
 ### Topics Generation
 2. Execute `generate_topics.py` to generate topics. Remember to replace the OpenAI key with your own.
-3. GPT output sometimes requires postprocessing. In such cases, use `topics_postprocess1.py` to clean the data and store it in `post_x` files. Multiple formats can be handled.
-4. Optionally, run `topics_postprocess2.py` to save the cleaned data back to the original file if the modifications are satisfactory.
+3. GPT output sometimes requires postprocessing. In such cases, use `process_json_files.py ` to clean the data and store it in `post_x` files. Multiple formats can be handled.
+4. Optionally, run `clean_and_rename_files.py` to save the cleaned data back to the original file if the modifications are satisfactory.
 5. After processing, the topics will be saved in a folder with two JSON files, each for one field. The format is `{field}.json` containing a dictionary of `{subfield}:{topics list}`.
 
 ### Wikidata Generation
@@ -75,8 +75,8 @@ Below is the folder structure you will see after running the scripts:
   - `generate_topics.py`
   - `generate_vqa.py`
   - `input_fields_subfields.txt`
-  - `topics_postprocess1.py`
-  - `topics_postprocess2.py`
+  - `process_json_files.py `
+  - `clean_and_rename_files.py`
   - `wikiflow.py`
   - `README.md`
   - `requirements.txt`
