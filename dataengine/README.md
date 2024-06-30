@@ -1,31 +1,48 @@
 # Overall Workflow
 
-The workflow consists of a series of Python scripts that should be executed in the following order in the appropriate environment (see requirements.txt):
+## Environment Setup
+Please install the necesary packages using the [`requirements.txt`](requirements.txt) file.
 
+
+## Prepare input
+See [Input Specification](#input-specification) for details on how to prepare the input file, and [data/example_input_fields_subfields.txt](data/example_input_fields_subfields.txt) for an example. The example below expects the input file to be named `input_fields_subfields.txt` and placed in the `data` directory, but this can be changed via the enivronment variables.
+
+
+## Example Workflow
+
+The workflow consists of a series of Python scripts that should be executed in the following order:
+
+
+### 1. set your environment / keys
 ```bash
-#!/bin/bash
-
-# set your environment / keys
 OPENAI_API_KEY="your_openai_key"
 GOOGLE_API_KEY="your_google_api_key"
 GOOGLE_SE_ID="your_google_search_engine_id"
 USER_AGENT="your_user_agent"
 # https://foundation.wikimedia.org/wiki/Policy:User-Agent_policy
 WIKIPEDIA_USER_AGENT="<client name>/<version> (<contact information>)"
+```
 
-# set args for the scripts
+### 1. set args for the scripts
+```bash
+# input
 DATA_DIR="./data/"
 IN_FILE="${DATA_DIR}/input_fields_subfields.txt"
-TOPICS_DIR="${DATA_DIR}/topics/"
 
+# intermediate output
+TOPICS_DIR="${DATA_DIR}/topics/"
 WIKI_DIR="${DATA_DIR}/wikidata/"
 WIKI_LINKS_DIR="${WIKI_DIR}/wikilinks/"
 WIKI_DATA_DIR="${WIKI_DIR}/data/"
 
+# final output
 IMAGE_DIR="${DATA_DIR}/images/"
 QA_DIR="${DATA_DIR}/qadata/"
 VQA_DIR="${DATA_DIR}/vqa/"
+```
 
+### 3. run the scripts
+```bash
 python generate_topics.py --data_file_path $IN_FILE --output_dir $TOPICS_DIR
 python process_json_files.py --topics_dir $TOPICS_DIR
 python clean_and_rename_files.py --topics_dir $TOPICS_DIR
