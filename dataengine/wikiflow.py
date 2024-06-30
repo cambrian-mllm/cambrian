@@ -169,20 +169,15 @@ def read_links_from_json_file(file_path, topic):
     return links
 
 
-def read_topics_from_file(filename):
-    with open(filename, 'r') as file:
-        return json.load(file)
-
-
-def main(topics_directory, links_path, data_path):
+def main(topics_dir, links_dir, data_dir):
     # Modify the directory as needed
     # topics_directory = 'topics'
     # links_path = 'wikidata/wikilinks/'
     # data_path = 'wikidata/data/'
-    json_files = [os.path.join(topics_directory, f) for f in os.listdir(
-        topics_directory) if f.endswith('.json')]
-    os.makedirs(links_path, exist_ok=True)
-    os.makedirs(data_path, exist_ok=True)
+    json_files = [os.path.join(topics_dir, f) for f in os.listdir(
+        topics_dir) if f.endswith('.json')]
+    os.makedirs(links_dir, exist_ok=True)
+    os.makedirs(data_dir, exist_ok=True)
     skip = False
     print(json_files)
     for json_file in json_files:
@@ -193,7 +188,7 @@ def main(topics_directory, links_path, data_path):
             for topic, subtopics in topics.items():
                 for subtopic in subtopics:
                     # Define the path to check if the file exists
-                    directory_path = f'{data_path}{topic}'
+                    directory_path = f'{data_dir}{topic}'
                     os.makedirs(directory_path, exist_ok=True)
                     file_path = f'{directory_path}/{subtopic}.json'
                     # Check if the file exists; if not, proceed with the following operations
@@ -220,14 +215,14 @@ def main(topics_directory, links_path, data_path):
                             title, file_base_name, topic, subtopic, links[i])
                         if dataset is not None:
                             totaldataset.extend(dataset)
-                    write_datalinks_to_file(topic, subtopic, links, links_path)
+                    write_datalinks_to_file(topic, subtopic, links, links_dir)
                     append_data_to_file(
                         topic, subtopic, totaldataset, file_path)
         else:
             for topic, subtopics in topics.items():
                 for subtopic in subtopics:
                     links = read_links_from_json_file(
-                        f'{links_path}{file_base_name}.json', subtopic)
+                        f'{links_dir}{file_base_name}.json', subtopic)
                     titles = [title for title in titles]
                     # print(links)
                     totaldataset = []
@@ -235,7 +230,7 @@ def main(topics_directory, links_path, data_path):
                         dataset = scrape_wikipedia(
                             title, file_base_name, topic, subtopic)
                         totaldataset.extend(dataset)
-                    write_datalinks_to_file(topic, subtopic, links, links_path)
+                    write_datalinks_to_file(topic, subtopic, links, links_dir)
                     append_data_to_file(
                         topic, subtopic, totaldataset, file_path)
 
@@ -243,12 +238,12 @@ def main(topics_directory, links_path, data_path):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         description='Process Wikipedia data for various topics.')
-    parser.add_argument('--topics_directory', type=str, default='topics',
+    parser.add_argument('--topics_directory', type=str, default='./data/topics',
                         help='Directory containing topics JSON files')
-    parser.add_argument('--links_path', type=str,
-                        default='wikidata/wikilinks/', help='Directory to store links data')
-    parser.add_argument('--data_path', type=str, default='wikidata/data/',
+    parser.add_argument('--links_dir', type=str,
+                        default='./data/wikidata/wikilinks/', help='Directory to store links data')
+    parser.add_argument('--data_dir', type=str, default='./data/wikidata/data/',
                         help='Directory to store processed data')
     args = parser.parse_args()
 
-    main(args.topics_directory, args.links_path, args.data_path)
+    main(args.topics_directory, args.links_dir, args.data_dir)

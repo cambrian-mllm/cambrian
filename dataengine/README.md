@@ -10,14 +10,28 @@ OPENAI_API_KEY="your_openai_key"
 GOOGLE_API_KEY="your_google_api_key"
 GOOGLE_SE_ID="your_google_search_engine_id"
 USER_AGENT="your_user_agent"
-WIKIPEDIA_USER_AGENT="<client name>/<version> (<contact information>)"  # https://foundation.wikimedia.org/wiki/Policy:User-Agent_policy
+# https://foundation.wikimedia.org/wiki/Policy:User-Agent_policy
+WIKIPEDIA_USER_AGENT="<client name>/<version> (<contact information>)"
 
-python generate_topics.py &&
-python process_json_files.py &&
-python clean_and_rename_files.py &&
-python wikiflow.py &&
-python generate_qa.py &&
-python generate_vqa.py
+# set args for the scripts
+DATA_DIR="./data/"
+IN_FILE="${DATA_DIR}/input_fields_subfields.txt"
+TOPICS_DIR="${DATA_DIR}/topics/"
+
+WIKI_DIR="${DATA_DIR}/wikidata/"
+WIKI_LINKS_DIR="${WIKI_DIR}/wikilinks/"
+WIKI_DATA_DIR="${WIKI_DIR}/data/"
+
+IMAGE_DIR="${DATA_DIR}/images/"
+QA_DIR="${DATA_DIR}/qadata/"
+VQA_DIR="${DATA_DIR}/vqa/"
+
+python generate_topics.py --data_file_path $IN_FILE --output_dir $TOPICS_DIR
+python process_json_files.py --topics_dir $TOPICS_DIR
+python clean_and_rename_files.py --topics_dir $TOPICS_DIR
+python wikiflow.py --topics_dir $TOPICS_DIR --links_dir $WIKI_LINKS_DIR --data_dir $WIKI_DATA_DIR
+python generate_qa.py --topics_dir $TOPICS_DIR --data_dir $WIKI_DATA_DIR --output_dir $QA_DIR --image_dir $IMAGE_DIR
+python generate_vqa.py --image_dir $IMAGE_DIR --qa_dir $QA_DIR --vqa_dir $VQA_DIR
 ```
 
 ## Explanation

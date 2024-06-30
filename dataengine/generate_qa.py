@@ -184,7 +184,7 @@ def worker(data_chunk, proc_index, result_list, image_directory):
             result_list.append(result)
 
 
-def main(fields, topics_directory, data_path, image_directory, output_directory):
+def main(fields, topics_directory, data_dir, image_directory, output_directory):
     os.makedirs(image_directory, exist_ok=True)
     os.makedirs(output_directory, exist_ok=True)
     for field in fields:
@@ -192,7 +192,7 @@ def main(fields, topics_directory, data_path, image_directory, output_directory)
         os.makedirs(image_directory, exist_ok=True)
         id = len(glob.glob(os.path.join(image_directory, '*')))
         print(f'starting images with id {id}')
-        topic_files = get_topic_files(data_path, field, topics_directory)
+        topic_files = get_topic_files(data_dir, field, topics_directory)
         filtered_data = get_data(topic_files)
         processed_data_file_path = f'{output_directory}/{field}.json'
         print(processed_data_file_path)
@@ -226,15 +226,15 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Process some topics.')
     parser.add_argument('--fields', nargs='+', default=[
                         'Renewable_Energy_and_Sustainability', 'Geology_and_Earth_Sciences'], help='List of fields files')
-    parser.add_argument('--topics_directory', type=str,
-                        default='topics', help='Directory of topics')
-    parser.add_argument('--data_path', type=str,
-                        default='wikidata/data/', help='Data path')
-    parser.add_argument('--image_directory', type=str,
-                        default='images', help='Directory to store images')
-    parser.add_argument('--output_directory', type=str,
-                        default='qadata', help='Directory to store q&a processed')
+    parser.add_argument('--topics_dir', type=str,
+                        default='./data/topics', help='Directory of topics')
+    parser.add_argument('--data_dir', type=str,
+                        default='./data/wikidata/data/', help='Data path')
+    parser.add_argument('--image_dir', type=str,
+                        default='./data/images', help='Directory to store images')
+    parser.add_argument('--output_dir', type=str,
+                        default='./data/qadata', help='Directory to store q&a processed')
     args = parser.parse_args()
 
-    main(args.fields, args.topics_directory, args.data_path,
-         args.image_directory, args.output_directory)
+    main(args.fields, args.topics_dir, args.data_dir,
+         args.image_dir, args.output_dir)

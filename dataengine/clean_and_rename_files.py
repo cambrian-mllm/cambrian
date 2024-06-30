@@ -21,6 +21,12 @@ def rename_files(directory):
 
 
 if __name__ == '__main__':
-    directory_path = 'topics'
-    remove_non_post_files(directory_path)
-    rename_files(directory_path)
+    import argparse
+    parser = argparse.ArgumentParser(
+        description='Clean and rename topics JSON files in a directory')
+    parser.add_argument('--topics_dir', type=str, default='./data/topics/',
+                        help='Directory of topics JSON files to process')
+    args = parser.parse_args()
+
+    remove_non_post_files(args.topics_dir)
+    rename_files(args.topics_dir)

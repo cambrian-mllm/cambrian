@@ -50,5 +50,11 @@ def process_json_files(directory):
 
 
 if __name__ == '__main__':
-    directory = 'topics'
-    process_json_files(directory)
+    import argparse
+    parser = argparse.ArgumentParser(
+        description='Process topics JSON files in a directory')
+    parser.add_argument('--topics_dir', type=str, default='./data/topics/',
+                        help='Directory of topics JSON files to process')
+    args = parser.parse_args()
+
+    process_json_files(args.topics_dir)

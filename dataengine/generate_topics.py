@@ -45,9 +45,9 @@ def main(data_file_path, output_dir):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         description='Generate detailed lists of topics from subfields')
-    parser.add_argument('--data_file_path', type=str, default='input_fields_subfields.txt',
+    parser.add_argument('--data_file_path', type=str, default='./data/input_fields_subfields.txt',
                         help='Path to the data file containing topics and subfields')
-    parser.add_argument('--output_dir', type=str, default='topics/',
+    parser.add_argument('--output_dir', type=str, default='./data/topics/',
                         help='Directory to output the resulting JSON files')
     args = parser.parse_args()
 

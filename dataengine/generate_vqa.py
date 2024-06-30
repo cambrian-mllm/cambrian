@@ -3,14 +3,14 @@ import json
 import os
 
 
-def main(topicname, path_to_images, qa_path, vqa_path):
+def main(topicname, image_dir, qa_dir, vqa_dir):
     # Read existing files to determine the next starting number
-    os.makedirs(vqa_path, exist_ok=True)
-    path_to_images = f'{path_to_images}/{topicname}_images'
-    json_file_path = f'{qa_path}/{topicname}.json'
-    output_json_file_path = f'{vqa_path}/{topicname}.json'
+    os.makedirs(vqa_dir, exist_ok=True)
+    image_dir = f'{image_dir}/{topicname}_images'
+    json_file_path = f'{qa_dir}/{topicname}.json'
+    output_json_file_path = f'{vqa_dir}/{topicname}.json'
 
-    existing_files = os.listdir(path_to_images)
+    existing_files = os.listdir(image_dir)
     max_number = max((int(f.split('.')[0]) for f in existing_files if f.split('.')[
                      0].isdigit() and f.endswith('.png')), default=0)
     print(f'Max number is {max_number}')
@@ -45,8 +45,8 @@ def main(topicname, path_to_images, qa_path, vqa_path):
 
     # Optionally, rename the files in the directory (uncomment to use)
     for original_filename, new_filename in renamed_files.items():
-        os.rename(os.path.join(path_to_images, original_filename),
-                  os.path.join(path_to_images, new_filename))
+        os.rename(os.path.join(image_dir, original_filename),
+                  os.path.join(image_dir, new_filename))
 
 
 if __name__ == "__main__":
@@ -54,12 +54,12 @@ if __name__ == "__main__":
         description='Process and rename images and update JSON data accordingly.')
     parser.add_argument('--topicname', type=str,
                         default='Geology_and_Earth_Sciences', help='Name of the topic to process')
-    parser.add_argument('--path_to_images', type=str,
-                        default='images', help='Path to the images directory')
-    parser.add_argument('--qa_path', type=str, default='qadata',
-                        help='Path to the input qa JSON file')
-    parser.add_argument('--vqa_path', type=str, default='vqadata',
-                        help='Path to the output vqa JSON file')
+    parser.add_argument('--image_dir', type=str,
+                        default='./data/images', help='Path to the images directory')
+    parser.add_argument('--qa_dir', type=str, default='./data/qadata/',
+                        help='Path to the input qa JSON file dir')
+    parser.add_argument('--vqa_dir', type=str, default='./data/vqadata',
+                        help='Path to the output vqa JSON file dir')
     args = parser.parse_args()
 
-    main(args.topicname, args.path_to_images, args.qa_path, args.vqa_path)
+    main(args.topicname, args.image_dir, args.qa_dir, args.vqa_dir)
