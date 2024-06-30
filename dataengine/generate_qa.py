@@ -18,9 +18,9 @@ import argparse
 
 RATE_LIMIT = 7500  # as per your resources
 RATE_LIMIT_INTERVAL = 60  # Time interval of 1 minute
-OPENAI_API_KEY = ""  #your openapi key
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 client = OpenAI(api_key=OPENAI_API_KEY)
-user_agent = '' #your user agent
+user_agent = os.getenv('USER_AGENT')
 session = requests.Session()
 session.headers.update({'User-Agent': user_agent})
 num_processes = 4 #can go for 32 or 64 based on no. of cpus

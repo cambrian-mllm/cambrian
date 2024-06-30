@@ -4,6 +4,14 @@ The workflow consists of a series of Python scripts that should be executed in t
 
 ```bash
 #!/bin/bash
+
+# set your environment / keys
+OPENAI_API_KEY="your_openai_key"
+GOOGLE_API_KEY="your_google_api_key"
+GOOGLE_SE_ID="your_google_search_engine_id"
+USER_AGENT="your_user_agent"
+WIKIPEDIA_USER_AGENT="<client name>/<version> (<contact information>)"  # https://foundation.wikimedia.org/wiki/Policy:User-Agent_policy
+
 python generate_topics.py &&
 python topics_postprocess1.py &&
 python topics_postprocess2.py &&

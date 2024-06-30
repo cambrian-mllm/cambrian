@@ -11,7 +11,12 @@ import argparse
 
 S = requests.Session()
 URL = "https://en.wikipedia.org/w/api.php"
-wiki_wiki = wikipediaapi.Wikipedia('Wiki Title Seeker (charithaakula1996@gmail.com)', 'en')
+WIKIPEDIA_USER_AGENT = os.getenv('WIKIPEDIA_USER_AGENT')
+wiki_wiki = wikipediaapi.Wikipedia(WIKIPEDIA_USER_AGENT, 'en')
+
+GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
+GOOGLE_SE_ID = os.getenv('GOOGLE_SE_ID')
+
 
 def preprocess_google(google_output):
     preprocessed = []
@@ -31,8 +36,7 @@ def get_google_search_results(search_query):
             return res['items']
         else:
             return []  # Return an empty list if no items are found
-    GOOGLE_API_KEY = '' #yours
-    GOOGLE_SE_ID = '' #yours
+
     results = google_search(search_query, GOOGLE_API_KEY, GOOGLE_SE_ID, num=10)
     return results
 

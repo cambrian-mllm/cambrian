@@ -11,12 +11,16 @@ from xml.etree import ElementTree
 import sys
 import argparse
 
+
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+
+
 def read_data_from_file(file_path):
     with open(file_path, 'r') as file:
         return file.read().strip().split("\n")
-    
+
+
 def main(data_file_path, output_dir):
-    OPENAI_API_KEY = "" #your openai api key
     client = OpenAI(api_key=OPENAI_API_KEY)
     lines = read_data_from_file(data_file_path)    
     os.makedirs(output_dir, exist_ok=True)
