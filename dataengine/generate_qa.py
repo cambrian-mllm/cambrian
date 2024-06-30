@@ -1,13 +1,3 @@
-
-
-#get all the topics, subtopics list, get links, get the corresponding data.json file,
-# for each data.json file, give script to 
-# 1. have some basic filtering rules, like less than 50 words to begin with
-# 2. post that get better list
-# 3. now, in that list, for each caption, text, generate a q and a using openai 3.5 turbo 
-# 4.store a data point like (image_id, text, capton everuthing) - download the data using the link and store in image folder with an image id
-
-# any preprocessing required?
 import re
 import time
 import glob
@@ -109,7 +99,6 @@ def get_topic_files(parent_directory, field, topics_directory):
     return topic_files
 
 def get_data(topic_files):
-    # First, gather all data
     all_data = []
     for file_path in topic_files:
         if os.path.exists(file_path):
