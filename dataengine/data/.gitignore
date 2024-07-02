@@ -1,0 +1,6 @@
+# ignore everythin
+*
+
+# except the following files
+!.gitignore
+!example_input_fields_subfields.txt
