@@ -460,7 +460,7 @@ def preprocess_llama_3(
                 # Don't predict system prompt
                 target[cur_len : cur_len + round_len] = IGNORE_INDEX
                 cur_len += round_len
-            # Model Reponse
+            # Model Response
             elif i % 2 == 0:
                 round_len = len(tokenizer(rou).input_ids)
                 # Don't predict system prompt
