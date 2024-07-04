@@ -10,12 +10,8 @@ from googleapiclient.discovery import build
 
 S = requests.Session()
 URL = "https://en.wikipedia.org/w/api.php"
-WIKIPEDIA_USER_AGENT = os.getenv('WIKIPEDIA_USER_AGENT')
-wiki_wiki = wikipediaapi.Wikipedia(WIKIPEDIA_USER_AGENT, 'en')
-
 GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
 GOOGLE_SE_ID = os.getenv('GOOGLE_SE_ID')
-
 
 def preprocess_google(google_output):
     preprocessed = []

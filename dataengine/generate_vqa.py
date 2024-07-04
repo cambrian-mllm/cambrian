@@ -2,8 +2,7 @@ import argparse
 import json
 import os
 
-
-def main(topicname, image_dir, qa_dir, vqa_dir):
+def process_topic(topicname, image_dir, qa_dir, vqa_dir):
     # Read existing files to determine the next starting number
     os.makedirs(vqa_dir, exist_ok=True)
     image_dir = f'{image_dir}/{topicname}_images'
@@ -48,12 +47,17 @@ def main(topicname, image_dir, qa_dir, vqa_dir):
         os.rename(os.path.join(image_dir, original_filename),
                   os.path.join(image_dir, new_filename))
 
+def main(topics_dir, image_dir, qa_dir, vqa_dir):
+    topic_files = [f for f in os.listdir(topics_dir) if f.endswith('.json')]
+    topicnames = [os.path.splitext(f)[0] for f in topic_files]
+    for topicname in topicnames:
+        process_topic(topicname, image_dir, qa_dir, vqa_dir)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description='Process and rename images and update JSON data accordingly.')
-    parser.add_argument('--topicname', type=str,
-                        default='Geology_and_Earth_Sciences', help='Name of the topic to process')
+    parser.add_argument('--topics_dir', type=str, required=True,
+                            help='Path to the directory containing topic JSON files')
     parser.add_argument('--image_dir', type=str,
                         default='./data/images', help='Path to the images directory')
     parser.add_argument('--qa_dir', type=str, default='./data/qadata/',
@@ -62,4 +66,4 @@ if __name__ == "__main__":
                         help='Path to the output vqa JSON file dir')
     args = parser.parse_args()
 
-    main(args.topicname, args.image_dir, args.qa_dir, args.vqa_dir)
+    main(args.topics_dir, args.image_dir, args.qa_dir, args.vqa_dir)

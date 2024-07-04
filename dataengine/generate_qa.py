@@ -121,9 +121,8 @@ def get_data(topic_files):
             print(f'Skipping {file_path} as the file does not exist.')
     print(len(all_data))
     return all_data
-    # return all_data[:30]
-
-
+    #return all_data[:50]
+    
 @sleep_and_retry
 @limits(calls=RATE_LIMIT, period=RATE_LIMIT_INTERVAL)
 def process_data_point(data_point, client, proc_index, data_point_index, image_directory):
@@ -184,17 +183,18 @@ def worker(data_chunk, proc_index, result_list, image_directory):
             result_list.append(result)
 
 
-def main(fields, topics_directory, data_dir, image_directory, output_directory):
+def main(topics_dir, data_dir, image_directory, qa_directory):
     os.makedirs(image_directory, exist_ok=True)
-    os.makedirs(output_directory, exist_ok=True)
+    os.makedirs(qa_directory, exist_ok=True)
+    fields = [os.path.splitext(f)[0] for f in os.listdir(topics_dir) if f.endswith('.json')]
     for field in fields:
-        image_directory = f'{args.image_directory}/{field}_images'
-        os.makedirs(image_directory, exist_ok=True)
-        id = len(glob.glob(os.path.join(image_directory, '*')))
+        field_image_directory = f'{image_directory}/{field}_images'
+        os.makedirs(field_image_directory, exist_ok=True)
+        id = len(glob.glob(os.path.join(field_image_directory, '*')))
         print(f'starting images with id {id}')
-        topic_files = get_topic_files(data_dir, field, topics_directory)
+        topic_files = get_topic_files(data_dir, field, topics_dir)
         filtered_data = get_data(topic_files)
-        processed_data_file_path = f'{output_directory}/{field}.json'
+        processed_data_file_path = f'{qa_directory}/{field}.json'
         print(processed_data_file_path)
         if os.path.exists(processed_data_file_path):
             with open(processed_data_file_path, 'r') as file:
@@ -211,7 +211,7 @@ def main(fields, topics_directory, data_dir, image_directory, output_directory):
         processes = []
         for index, chunk in enumerate(data_chunks):
             p = multiprocessing.Process(target=worker, args=(
-                chunk, index, results, image_directory))
+                chunk, index, results, field_image_directory))
             processes.append(p)
             p.start()
         for p in processes:
@@ -224,17 +224,15 @@ def main(fields, topics_directory, data_dir, image_directory, output_directory):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Process some topics.')
-    parser.add_argument('--fields', nargs='+', default=[
-                        'Renewable_Energy_and_Sustainability', 'Geology_and_Earth_Sciences'], help='List of fields files')
     parser.add_argument('--topics_dir', type=str,
                         default='./data/topics', help='Directory of topics')
     parser.add_argument('--data_dir', type=str,
                         default='./data/wikidata/data/', help='Data path')
     parser.add_argument('--image_dir', type=str,
                         default='./data/images', help='Directory to store images')
-    parser.add_argument('--output_dir', type=str,
+    parser.add_argument('--qa_dir', type=str,
                         default='./data/qadata', help='Directory to store q&a processed')
     args = parser.parse_args()
 
-    main(args.fields, args.topics_dir, args.data_dir,
-         args.image_dir, args.output_dir)
+    main(args.topics_dir, args.data_dir,
+         args.image_dir, args.qa_dir)
