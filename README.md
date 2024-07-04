@@ -54,8 +54,9 @@
 > *Fun fact: vision emerged in animals during the Cambrian period! This was the inspiration for the name of our project, Cambrian.*
 
 ## Release
+- [07/03/24] 🚂 We have released our targeted data engine! See the subfolder [`dataengine/`](dataengine/) for more details.
 - [07/02/24] 🤗 CV-Bench is live on Huggingface! Please see here for more: https://huggingface.co/datasets/nyu-visionx/CV-Bench
-- [06/24/24] 🔥 We released Cambrian-1! A family of multimodal LLMs (MLLMs) designed with a vision-centric approach. We are gradually releasing three sizes of model (8B, 13B and 34B), training data, TPU training scripts. We will release GPU training script and evaluation code very soon. 
+- [06/24/24] 🔥 We released Cambrian-1! We also release three sizes of model (8B, 13B and 34B), training data, TPU training scripts. We will release GPU training script and evaluation code very soon. 
 
 
 ## Contents
