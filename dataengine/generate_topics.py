@@ -1,16 +1,7 @@
 import argparse
-import io
-import json
 import os
-import re
-import sys
-from xml.etree import ElementTree
 
-import cairosvg
-import requests
-from bs4 import BeautifulSoup
 from openai import OpenAI
-from PIL import Image
 
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 

@@ -2,6 +2,7 @@ import argparse
 import json
 import os
 
+
 def process_topic(topicname, image_dir, qa_dir, vqa_dir):
     # Read existing files to determine the next starting number
     os.makedirs(vqa_dir, exist_ok=True)
@@ -47,17 +48,19 @@ def process_topic(topicname, image_dir, qa_dir, vqa_dir):
         os.rename(os.path.join(image_dir, original_filename),
                   os.path.join(image_dir, new_filename))
 
+
 def main(topics_dir, image_dir, qa_dir, vqa_dir):
     topic_files = [f for f in os.listdir(topics_dir) if f.endswith('.json')]
     topicnames = [os.path.splitext(f)[0] for f in topic_files]
     for topicname in topicnames:
         process_topic(topicname, image_dir, qa_dir, vqa_dir)
 
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description='Process and rename images and update JSON data accordingly.')
     parser.add_argument('--topics_dir', type=str, required=True,
-                            help='Path to the directory containing topic JSON files')
+                        help='Path to the directory containing topic JSON files')
     parser.add_argument('--image_dir', type=str,
                         default='./data/images', help='Path to the images directory')
     parser.add_argument('--qa_dir', type=str, default='./data/qadata/',

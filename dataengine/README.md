@@ -18,11 +18,11 @@ The workflow consists of a series of Python scripts that should be executed in t
 OPENAI_API_KEY="your_openai_key"
 GOOGLE_API_KEY="your_google_api_key"
 GOOGLE_SE_ID="your_google_search_engine_id"
-USER_AGENT="your_user_agent" #Example: "Image downloader/1.0 (your email)"
 # https://foundation.wikimedia.org/wiki/Policy:User-Agent_policy
+USER_AGENT="your_user_agent"  # Example: "Image downloader/1.0 (your email)"
 ```
 
-### 1. set args for the scripts
+### 2. set args for the scripts
 ```bash
 # input
 DATA_DIR="./data"
@@ -42,10 +42,15 @@ VQA_DIR="${DATA_DIR}/vqa/"
 
 ### 3. run the scripts
 ```bash
+# generate topics and process
 python generate_topics.py --data_file_path $IN_FILE --output_dir $TOPICS_DIR
 python process_json_files.py --topics_dir $TOPICS_DIR
 python clean_and_rename_files.py --topics_dir $TOPICS_DIR
+
+# download from wikipedia / google
 python wikiflow.py --topics_dir $TOPICS_DIR --links_dir $WIKI_LINKS_DIR --data_dir $WIKI_DATA_DIR
+
+# generate vqa data
 python generate_qa.py --topics_dir $TOPICS_DIR --data_dir $WIKI_DATA_DIR --qa_dir $QA_DIR --image_dir $IMAGE_DIR
 python generate_vqa.py --topics_dir $TOPICS_DIR --qa_dir $QA_DIR --vqa_dir $VQA_DIR --image_dir $IMAGE_DIR
 ```

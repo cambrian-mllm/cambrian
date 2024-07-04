@@ -4,13 +4,11 @@ import io
 import json
 import multiprocessing
 import os
-import re
 import time
 from xml.etree import ElementTree
 
 import cairosvg
 import requests
-from bs4 import BeautifulSoup
 from openai import OpenAI
 from PIL import Image
 from ratelimit import limits, sleep_and_retry
@@ -121,8 +119,9 @@ def get_data(topic_files):
             print(f'Skipping {file_path} as the file does not exist.')
     print(len(all_data))
     return all_data
-    #return all_data[:50]
-    
+    # return all_data[:50]
+
+
 @sleep_and_retry
 @limits(calls=RATE_LIMIT, period=RATE_LIMIT_INTERVAL)
 def process_data_point(data_point, client, proc_index, data_point_index, image_directory):
@@ -148,7 +147,11 @@ def process_data_point(data_point, client, proc_index, data_point_index, image_d
                     },
                     {
                         "role": "user",
-                        "content": json.dumps(dict(data_point, image_url=image_url, caption=image_caption))
+                        "content": json.dumps(dict(
+                            data_point,
+                            image_url=image_url,
+                            caption=image_caption
+                        ))
                     }
                 ]
             )
@@ -186,7 +189,11 @@ def worker(data_chunk, proc_index, result_list, image_directory):
 def main(topics_dir, data_dir, image_directory, qa_directory):
     os.makedirs(image_directory, exist_ok=True)
     os.makedirs(qa_directory, exist_ok=True)
-    fields = [os.path.splitext(f)[0] for f in os.listdir(topics_dir) if f.endswith('.json')]
+    fields = [
+        os.path.splitext(f)[0]
+        for f in os.listdir(topics_dir)
+        if f.endswith('.json')
+    ]
     for field in fields:
         field_image_directory = f'{image_directory}/{field}_images'
         os.makedirs(field_image_directory, exist_ok=True)

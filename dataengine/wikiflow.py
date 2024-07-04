@@ -1,17 +1,17 @@
 import argparse
 import json
 import os
-import sys
 
 import requests
-import wikipediaapi
 from bs4 import BeautifulSoup
 from googleapiclient.discovery import build
 
+
 S = requests.Session()
-URL = "https://en.wikipedia.org/w/api.php"
+WIKI_API_URL = "https://en.wikipedia.org/w/api.php"
 GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
 GOOGLE_SE_ID = os.getenv('GOOGLE_SE_ID')
+
 
 def preprocess_google(google_output):
     preprocessed = []
@@ -66,7 +66,7 @@ def scrape_wikipedia(pagename, field, subfield, topic, url):
         "page": pagename,
         "format": "json",
     }
-    R = S.get(url=URL, params=PARAMS)
+    R = S.get(url=WIKI_API_URL, params=PARAMS)
     DATA = R.json()
     if 'error' in DATA:
         return
@@ -199,8 +199,8 @@ def main(topics_dir, links_dir, data_dir):
                             f'skiping {file_path} because of no results from google')
                         continue
                     preprocessed_google = preprocess_google(google_output)
-                    formatted_google_results = format_results_for_query(
-                        preprocessed_google)
+                    # formatted_google_results = format_results_for_query(
+                    #     preprocessed_google)
                     links = just_links(preprocessed_google)
                     titles = just_titles(preprocessed_google)
                     links = [link for link in links]
