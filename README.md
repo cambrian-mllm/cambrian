@@ -120,6 +120,8 @@ Here are our Cambrian checkpoints along with instructions on how to use the weig
 | Grok-1.5                | UNK         | -    | -     | 52.8       | 76.1    | -     |
 | MM-1-8B                 | 144         | 72.3 | 72.6  | 35.9       | -       | -     |
 | MM-1-30B                | 144         | 75.1 | 81.0  | 39.4       | -       | -     |
+| **Base LLM: Phi-3-3.8B** |     |      |       |            |         |       |
+| [Cambrian-1-8B](https://huggingface.co/nyu-visionx/cambrian-phi3-3b) | 576 | 74.6| 79.2  | 48.4       | 66.8    | 40.0  |
 | **Base LLM: LLaMA3-8B-Instruct** |     |      |       |            |         |       |
 | Mini-Gemini-HD-8B       | 2880        | 72.7 | 75.1  | 37.0       | 59.1    | 18.7  |
 | LLaVA-NeXT-8B           | 2880        | 72.1 | 72.8  | 36.3       | 69.5    | 38.7  |
