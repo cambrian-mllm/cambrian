@@ -3,11 +3,11 @@ import logging
 import logging.handlers
 import os
 import sys
-
 import requests
-
+from contextlib import contextmanager
+import torch
 from cambrian.constants import LOGDIR
-
+import pdb
 server_error_msg = "**NETWORK ERROR DUE TO HIGH TRAFFIC. PLEASE REGENERATE OR REFRESH THIS PAGE.**"
 moderation_msg = "YOUR INPUT VIOLATES OUR CONTENT MODERATION GUIDELINES. PLEASE TRY AGAIN."
 
@@ -133,3 +133,44 @@ def pretty_print_semaphore(semaphore):
     if semaphore is None:
         return "None"
     return f"Semaphore(value={semaphore._value}, locked={semaphore.locked()})"
+ 
+ 
+@contextmanager
+def debug_rank0():
+    """
+    Decorator to make all processes in distributed training wait for each local_master to do something.
+    """
+    local_rank = torch.distributed.get_rank()
+    if local_rank not in [-1, 0]:
+        torch.distributed.barrier()
+    else:
+        pdb.set_trace()
+    yield
+    if local_rank == 0:
+        torch.distributed.barrier()
+
+class Debugger:
+    def __init__(self):
+        self.rank = torch.distributed.get_rank()
+        self.acquired = False
+    def acquire(self):
+        self.acquired = True
+        if self.rank not in [-1, 0]:
+            torch.distributed.barrier()
+        else:
+            pdb.set_trace()
+
+    def release(self):
+        if not self.acquired:
+            return
+        if self.rank == 0:
+            torch.distributed.barrier()
+        self.acquired = False
+    
+    def __enter__(self):
+        self.acquire()
+        return self
+    
+    def __exit__(self, exc_type, exc_value, traceback):
+        self.release()
+        return False

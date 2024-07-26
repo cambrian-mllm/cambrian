@@ -18,7 +18,7 @@ from .supervised_vit_encoder import SupervisedViT_VisionTower
 from .sam_encoder import SAMVisionTower
 from .diffusion_encoder import DiffusionVisionTower
 from .maws_encoder import MawsVisionTower
-
+from concurrent.futures import ThreadPoolExecutor
 
 def build_vision_tower(vision_tower_cfg, **kwargs):
     vision_tower = getattr(vision_tower_cfg, 'mm_vision_tower', getattr(vision_tower_cfg, 'vision_tower', None))
@@ -86,63 +86,66 @@ def build_vision_tower(vision_tower_cfg, **kwargs):
 def build_vision_tower_aux_list(vision_tower_cfg, **kwargs):
     vision_tower_aux_name_list = getattr(vision_tower_cfg, 'mm_vision_tower_aux_list', getattr(vision_tower_cfg, 'vision_tower_aux_list', None))
     vision_tower_aux_token_len_list = getattr(vision_tower_cfg, 'mm_vision_tower_aux_token_len_list', getattr(vision_tower_cfg, 'vision_tower_aux_token_len_list', None))
-    vision_tower_aux_list = []
-    for vision_tower_aux_name, vision_tower_aux_token_len in zip(vision_tower_aux_name_list, vision_tower_aux_token_len_list):
+    def worker(vision_tower_aux_name,vision_tower_aux_token_len):
         config = copy.deepcopy(vision_tower_cfg)
+        vision_tower = None
         vision_tower_aux_name += "-interp{}".format(vision_tower_aux_token_len)
         if "maws" in vision_tower_aux_name.lower():
             logger.info(f"Loading **MAWS** Vision Tower: {vision_tower_aux_name}")
-            vision_tower_aux_list.append(MawsVisionTower(vision_tower_aux_name, args=config, **kwargs))
+            vision_tower=MawsVisionTower(vision_tower_aux_name, args=config, **kwargs)
 
         # CLIP-based Vision Towers
         elif "openai/clip" in vision_tower_aux_name.lower():
             logger.info(f"Loading **OpenAI CLIP** Vision Tower: {vision_tower_aux_name}")
-            vision_tower_aux_list.append(ClipVisionTower(vision_tower_aux_name, args=config, **kwargs))
+            vision_tower=ClipVisionTower(vision_tower_aux_name, args=config, **kwargs)
         elif "apple/dfn" in vision_tower_aux_name.lower():
             logger.info(f"Loading **Apple DFN CLIP** Vision Tower: {vision_tower_aux_name}")
-            vision_tower_aux_list.append(DfnClipVisionTower(vision_tower_aux_name, args=config, **kwargs))
+            vision_tower=DfnClipVisionTower(vision_tower_aux_name, args=config, **kwargs)
         elif "siglip" in vision_tower_aux_name.lower():
             logger.info(f"Loading **SigLIP CLIP** Vision Tower: {vision_tower_aux_name}")
-            vision_tower_aux_list.append(SiglipVisionTower(vision_tower_aux_name, args=config, **kwargs))
+            vision_tower=SiglipVisionTower(vision_tower_aux_name, args=config, **kwargs)
         elif "eva/clip" in vision_tower_aux_name.lower():
             logger.info(f"Loading **EVA CLIP** Vision Tower: {vision_tower_aux_name}")
-            vision_tower_aux_list.append(EvaClipVisionTower(vision_tower_aux_name, args=config, **kwargs))
+            vision_tower=EvaClipVisionTower(vision_tower_aux_name, args=config, **kwargs)
         elif "clip-convnext" in vision_tower_aux_name.lower():
             logger.info(f"Loading **ConvNeXt CLIP** Vision Tower: {vision_tower_aux_name}")
-            vision_tower_aux_list.append(CLIPConvNextTower(vision_tower_aux_name, args=config, **kwargs))
+            vision_tower=CLIPConvNextTower(vision_tower_aux_name, args=config, **kwargs)
 
         # SSL-based Vision Towers
         elif "dinov2" in vision_tower_aux_name.lower():
             logger.info(f"Loading **DINO Vision Tower: {vision_tower_aux_name}")
-            vision_tower_aux_list.append(DinoVisionTower(vision_tower_aux_name, args=config, **kwargs))
+            vision_tower=DinoVisionTower(vision_tower_aux_name, args=config, **kwargs)
         elif "mae" in vision_tower_aux_name.lower():
             logger.info(f"Loading **MAE** Vision Tower: {vision_tower_aux_name}")
-            vision_tower_aux_list.append(MAEVisionTower(vision_tower_aux_name, args=config, **kwargs))
+            vision_tower=MAEVisionTower(vision_tower_aux_name, args=config, **kwargs)
         elif "moco" in vision_tower_aux_name.lower():
             logger.info(f"Loading **MoCo** Vision Tower: {vision_tower_aux_name}")
-            vision_tower_aux_list.append(MoCoVisionTower(vision_tower_aux_name, args=config, **kwargs))
+            vision_tower=MoCoVisionTower(vision_tower_aux_name, args=config, **kwargs)
         elif "ijepa" in vision_tower_aux_name.lower():
             logger.info(f"Loading **IJepa** Vision Tower: {vision_tower_aux_name}")
-            vision_tower_aux_list.append(IJepaVisionTower(vision_tower_aux_name, args=config, **kwargs))
+            vision_tower=IJepaVisionTower(vision_tower_aux_name, args=config, **kwargs)
 
         # Supervised Vision Towers
         elif "supervised-vit" in vision_tower_aux_name.lower():
             logger.info(f"Loading **Supervised** Vision Tower: {vision_tower_aux_name}")
-            vision_tower_aux_list.append(SupervisedViT_VisionTower(vision_tower_aux_name, args=config, **kwargs))
+            vision_tower=SupervisedViT_VisionTower(vision_tower_aux_name, args=config, **kwargs)
 
         # Other Vision Towers
         elif "hybridmodel" in vision_tower_aux_name.lower():
             logger.info(f"Loading **Hybrid** Vision Tower: {vision_tower_aux_name}")
-            vision_tower_aux_list.append(HybridVisionTower(vision_tower_aux_name, args=config, **kwargs))
+            vision_tower=HybridVisionTower(vision_tower_aux_name, args=config, **kwargs)
         elif "diffusion" in vision_tower_aux_name.lower():
             logger.info(f"Loading **Diffusion CLIP** Vision Tower: {vision_tower_aux_name}")
-            vision_tower_aux_list.append(DiffusionVisionTower(vision_tower_aux_name, args=config, **kwargs))
+            vision_tower=DiffusionVisionTower(vision_tower_aux_name, args=config, **kwargs)
         elif "midas" in vision_tower_aux_name.lower():
             logger.info(f"Loading **MiDaS** Vision Tower: {vision_tower_aux_name}")
-            vision_tower_aux_list.append(MiDaSVisionTower(vision_tower_aux_name, args=config, **kwargs))
+            vision_tower=MiDaSVisionTower(vision_tower_aux_name, args=config, **kwargs)
         elif "sam" in vision_tower_aux_name.lower():
             logger.info(f"Loading **SAM Vision Tower: {vision_tower_aux_name}")
-            vision_tower_aux_list.append(SAMVisionTower(vision_tower_aux_name, args=config, **kwargs))
+            vision_tower=SAMVisionTower(vision_tower_aux_name, args=config, **kwargs)
         else:
             raise ValueError(f'Unknown vision tower: {vision_tower_aux_name}')
-    return vision_tower_aux_list
+        return vision_tower
+    with ThreadPoolExecutor() as executor:
+        vision_tower_aux_list = executor.map(worker, vision_tower_aux_name_list,vision_tower_aux_token_len_list)
+    return list(vision_tower_aux_list)
