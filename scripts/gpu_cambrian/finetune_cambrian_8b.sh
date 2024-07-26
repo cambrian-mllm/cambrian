@@ -115,7 +115,7 @@ deepspeed \
     --run_name $CKPT_NAME \
     --report_to wandb
 
-#CKPT_PATH=checkpoints/$CKPT_NAME
+#CKPT_PATH=checkpoints/$CKPT_NAME 
 CKPT_PATH=$CKPT_DIR
 # check if the checkpoint path exists
 if [ ! -d "$CKPT_PATH" ]; then
