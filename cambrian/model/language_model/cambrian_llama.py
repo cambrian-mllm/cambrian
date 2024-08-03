@@ -11,8 +11,7 @@
 #    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 #    See the License for the specific language governing permissions and
 #    limitations under the License.
-
-
+import os
 from typing import List, Optional, Tuple, Union
 
 import torch
@@ -349,7 +348,7 @@ class CambrianLlamaForCausalLM(LlamaForCausalLM, CambrianMetaForCausalLM):
         return_dict = return_dict if return_dict is not None else self.config.use_return_dict
 
         # training
-        if IS_XLA_AVAILABLE:
+        if IS_XLA_AVAILABLE or os.getenv('IF_TRAIN', False):
             # decoder outputs consists of (dec_features, layer_state, dec_hidden, dec_attn)
             outputs = self.model(
             input_ids=input_ids,

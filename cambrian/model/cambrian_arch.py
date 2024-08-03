@@ -30,6 +30,34 @@ from cambrian.constants import IGNORE_INDEX, IMAGE_TOKEN_INDEX, DEFAULT_IMAGE_PA
 from cambrian.utils import IS_XLA_AVAILABLE
 
 
+# Original version: train only when IS_XLA_AVAILABLE == True
+# Now we need to set IF_TRAIN=True in pretrain.sh and finetune.sh
+import os
+IF_TRAIN = os.getenv('IF_TRAIN', False)
+print(f"IF_TRAIN: {IF_TRAIN}")
+
+
+def print_weights(model_or_weights):
+    if isinstance(model_or_weights, nn.Sequential):
+        for name, weight in model_or_weights.named_parameters():
+            print(name, weight.shape, weight.dtype)
+    elif isinstance(model_or_weights, dict):
+        for name, weight in model_or_weights.items():
+            print(name, weight.shape, weight.dtype)
+    else:
+        print(type(model_or_weights))
+
+
+"""
+def set_trace_rank0():
+    import torch.distributed as dist
+    if dist.get_rank() == 0:
+        import ipdb
+        ipdb.set_trace()
+    dist.barrier()
+"""
+
+
 class CambrianMetaModel:
 
     def __init__(self, config):
@@ -80,7 +108,7 @@ class CambrianMetaModel:
 
             else:
                 self.vision_tower_aux_list = build_vision_tower_aux_list(config, delay_load=True)
-                config.mm_hidden_size = sum([vision_tower_aux.hidden_size for vision_tower_aux in self.vision_tower_aux_list]) 
+                config.mm_hidden_size = sum([vision_tower_aux.hidden_size for vision_tower_aux in self.vision_tower_aux_list])
                 self.mm_projector = build_vision_projector(config)
                 self.image_newline = nn.Parameter(
                         torch.empty(config.hidden_size, dtype=self.dtype)
@@ -162,14 +190,13 @@ class CambrianMetaModel:
                 self.vision_query = nn.Parameter(
                     torch.randn((num_query_group, vision_hidden_size), dtype=self.dtype) * vision_embed_std
                 )
-                
                 embed_std = 1 / torch.sqrt(torch.tensor(self.config.hidden_size, dtype=self.dtype))
                 self.image_newline = nn.Parameter(
                     torch.randn(self.config.hidden_size, dtype=self.dtype) * embed_std
                 )
 
             else:
-                self.config.mm_hidden_size = sum([vision_tower_aux.hidden_size for vision_tower_aux in vision_tower_aux_list]) 
+                self.config.mm_hidden_size = sum([vision_tower_aux.hidden_size for vision_tower_aux in vision_tower_aux_list])
                 self.mm_projector = build_vision_projector(self.config)
                 embed_std = 1 / torch.sqrt(torch.tensor(self.config.hidden_size, dtype=self.dtype))
                 self.image_newline = nn.Parameter(
@@ -383,7 +410,7 @@ class CambrianMetaForCausalLM(ABC):
                 query_features_i = self.get_model().vision_query[query_group_i, :].view(1, 1, 1, -1).expand(bs, query_num, -1, -1)
                 global_context_feature_i = global_context_feature.expand(-1, query_num, 1, -1).flatten(0,1)
                 query_side_len = int(query_num**0.5)
-                if IS_XLA_AVAILABLE:
+                if IS_XLA_AVAILABLE or IF_TRAIN:
                     vision_tower_aux_feature_list_i, vision_tower_aux_attention_masks_list_i = self.rearrange_vision_tower_features_train(vision_tower_aux_feature_list, image_aux_attention_masks_list, query_side_len)
                 else:
                     vision_tower_aux_feature_list_i, vision_tower_aux_attention_masks_list_i = self.rearrange_vision_tower_features_inference(vision_tower_aux_feature_list, query_side_len,
@@ -394,14 +421,14 @@ class CambrianMetaForCausalLM(ABC):
                 # interpolate to the final target size
                 if query_side_len != final_height:
                     query_features_i = query_features_i.permute(0, 2, 1).contiguous().view(bs, -1, query_side_len, query_side_len)
-                    query_features_i = F.interpolate(query_features_i.float(), 
-                                                    size=(final_height, final_width), 
-                                                    mode='bilinear', 
+                    query_features_i = F.interpolate(query_features_i.float(),
+                                                    size=(final_height, final_width),
+                                                    mode='bilinear',
                                                     align_corners=False).to(dtype=query_features_i.dtype)
                     query_features_i = query_features_i.permute(0, 2, 3, 1).contiguous().flatten(1, 2)
                 final_image_features_list.append(query_features_i)
 
-            if IS_XLA_AVAILABLE:
+            if IS_XLA_AVAILABLE or IF_TRAIN:
                 vision_tower_aux_feature_list_final, vision_tower_aux_attention_masks_list_final = self.rearrange_vision_tower_features_train(vision_tower_aux_feature_list, image_aux_attention_masks_list, final_height)
                 global_context_feature_final = global_context_feature.expand(-1, final_height*final_width, 1, -1).flatten(0,1)
         else:
@@ -410,7 +437,7 @@ class CambrianMetaForCausalLM(ABC):
         image_features = torch.cat(final_image_features_list, -1)
         image_features = self.get_model().mm_projector(image_features).to(dtype)
 
-        if IS_XLA_AVAILABLE:
+        if IS_XLA_AVAILABLE or IF_TRAIN:
             image_features = image_features.view(image_features.shape[0], final_height, final_width, -1)
             image_features = torch.cat((
                 image_features,
@@ -454,7 +481,7 @@ class CambrianMetaForCausalLM(ABC):
         if getattr(self.config, 'tune_mm_mlp_adapter', False) and getattr(self.config, 'mm_use_im_start_end', False):
             raise NotImplementedError
 
-        if IS_XLA_AVAILABLE:
+        if IS_XLA_AVAILABLE or IF_TRAIN:
 
             # embed the input_ids
             new_input_ids_padded_for_emb = torch.where(input_ids==IMAGE_TOKEN_INDEX, 0, input_ids)

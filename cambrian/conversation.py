@@ -98,9 +98,9 @@ class Conversation:
                     ret += ""
             ret = ret.lstrip(self.sep)
         elif self.sep_style == SeparatorStyle.LLAMA_3:
-            wrap_sys = lambda msg: f"<|begin_of_text|><|start_header_id|>system<|end_header_id|>{msg}<|eot_id|>" if len(msg) > 0 else msg
-            wrap_inst_user = lambda msg: f"<|start_header_id|>user<|end_header_id|>{msg}<|eot_id|>"
-            wrap_inst_assistant = lambda msg: f"<|start_header_id|>assistant<|end_header_id|>{msg}<|eot_id|>"
+            wrap_sys = lambda msg: f"<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\n{msg}<|eot_id|>" if len(msg) > 0 else msg
+            wrap_inst_user = lambda msg: f"<|start_header_id|>user<|end_header_id|>\n\n{msg}<|eot_id|>"
+            wrap_inst_assistant = lambda msg: f"<|start_header_id|>assistant<|end_header_id|>\n\n{msg}<|eot_id|>"
             ret = ""
 
             for i, (role, message) in enumerate(messages):
@@ -120,7 +120,7 @@ class Conversation:
                         ret += message
                 else:
                     ret += ""
-            ret += "<|start_header_id|>assistant<|end_header_id|>"
+            ret += "<|start_header_id|>assistant<|end_header_id|>\n\n"
         elif self.sep_style == SeparatorStyle.MISTRAL:
             wrap_sys = lambda msg: f"<<SYS>>\n{msg}\n<</SYS>>\n\n" if len(msg) > 0 else msg
             wrap_inst = lambda msg: f"[INST] {msg} [/INST]"
