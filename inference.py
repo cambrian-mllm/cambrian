@@ -60,7 +60,7 @@ random.seed(seed)
 torch.backends.cudnn.deterministic = True
 torch.backends.cudnn.benchmark = False
 
-model_path = os.path.expanduser("./checkpoints/cambrian-8b-finetune")
+model_path = os.path.expanduser("nyu-visionx/cambrian-8b")
 model_name = get_model_name_from_path(model_path)
 tokenizer, model, image_processor, context_len = load_pretrained_model(model_path, None, model_name,device_map='cuda')
 
