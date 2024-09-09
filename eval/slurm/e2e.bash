@@ -6,7 +6,8 @@ echo "> e2e.bash $@"
 ################# Parse Arguments #################
 
 # Default values
-conv_mode="vicuna_v1"
+# conv_mode="vicuna_v1"
+conv_mode="llama_3"
 # gpus=2
 # cpus=24
 # mem="80GB"
@@ -21,7 +22,7 @@ time="10:00:00"
 helpmsg=$(cat <<-EOF
 Usage: bash slurm/e2e.bash --ckpt <ckpt> [OPTIONS]
 
-Submit a job to evaluate a model checkpoint on a benchmark.
+End-to-end script to consolidate a GCP checkpoint and submit eval jobs.
 
 Required Arguments:
   --ckpt <ckpt>                 The path to the model checkpoint.
@@ -141,9 +142,9 @@ echo "Job id: $consolidate_job_id"
 
 # extract the fs checkpoint dir
 ckpt_name=$(basename $ckpt)
-# prepend with "llava-" if not already
-if [[ $ckpt_name != llava-* ]]; then
-    ckpt_name="llava-$ckpt_name"
+# prepend with "cambrian-" if not already
+if [[ $ckpt_name != cambrian-* ]]; then
+    ckpt_name="cambrian-$ckpt_name"
 fi
 CKPT_DIR=${CHECKPOINT_DIR:-$SCRATCH/checkpoints}
 ckpt_path=$CKPT_DIR/$ckpt_name

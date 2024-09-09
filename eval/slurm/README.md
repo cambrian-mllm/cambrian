@@ -2,7 +2,8 @@
 
 ## HPC Setup
 
-**Note:** This was developed on the <a href="https://sites.google.com/nyu.edu/nyu-hpc/hpc-systems/greene" target="_blank">NYU Greene HPC cluster</a>, and may require modifications to run on other setups.
+> [!NOTE]
+> **Note:** This was developed on the <a href="https://sites.google.com/nyu.edu/nyu-hpc/hpc-systems/greene" target="_blank">NYU Greene HPC cluster</a>, and may require modifications to run on other setups.
 
 <details open>
 <summary><b>Setup gcloud cli</b> <span style="padding-left: 1em;"\> <i>(only needed if working with GCP Cloud Storage)</i></summary>
@@ -141,8 +142,8 @@ sbatch slurm/consolidate.slurm <path_to_checkpoint>
 sbatch slurm/consolidate.slurm gs://us-central2-storage/cambrian/checkpoints/TPU-llava-v1.5-7b-finetune-6993k
 ```
 
-This will save the consolidated checkpoint to `$SCRATCH/llava-TPU-llava-v1.5-7b-finetune-6993k`
-> Note: an extra "llava-" prefix is added to the checkpoint name if it is not already present to ensure the checkpoint can be loaded properly with the `llava_base` code
+This will save the consolidated checkpoint to `$SCRATCH/cambrian-TPU-llava-v1.5-7b-finetune-6993k`
+> Note: an extra "cambrian-" prefix is added to the checkpoint name if it is not already present to ensure the checkpoint can be loaded properly with the `cambrian` code
 </details>
 
 ### Run single benchmark for single checkpoint via SBATCH
@@ -238,3 +239,63 @@ bash slurm/submit_all_benchmarks_parallel.bash --ckpt $SCRATCH/checkpoints/llava
 ```
 </details>
 
+### E2E: Download, Consolidate, Convert, and Evaluate
+The [`e2e.bash`](slurm/e2e.bash) script chains together the downloading, consolidation, conversion, and evaluation steps for a given checkpoint stored on GCP.
+
+```bash
+Usage: bash slurm/e2e.bash --ckpt <ckpt> [OPTIONS]
+
+End-to-end script to consolidate a GCP checkpoint and submit eval jobs.
+
+Required Arguments:
+  --ckpt <ckpt>                 The path to the model checkpoint.
+
+Optional Arguments:
+  --conv_mode <conv_mode>       The conversation mode to use.
+                                    (Default: vicuna_v1)
+  --gpus <gpus>                 The number of GPUs to request.
+                                    (Default: 1)
+  --constraint <constraint>     The gres constraint to use.
+                                    (Default: a100|h100|rtx8000)
+  --cpus <cpus>                 The number of CPUs per task.
+                                    (Default: 18)
+  --mem <mem>                   The amount of memory to use.
+                                    (Default: 32GB)
+  --time <time>                 The time limit for the job.
+                                    (Default: 10:00:00)
+  --help                        Show this message.
+```
+
+<details>
+<summary>example</summary>
+
+```bash
+bash slurm/e2e.bash --ckpt gs://us-central2-storage/cambrian/checkpoints/TPU-llava-v1.5-7b-finetune-6993k
+```
+</details>
+
+<details>
+<summary>Under the hood</summary>
+
+The [`e2e.bash`](slurm/e2e.bash) script performs the following steps:
+
+1. **Consolidation Job Submission**:
+   - Submits a Slurm job using `slurm/consolidate.slurm` to:
+        1. Download the checkpoint from GCP Cloud Storage.
+        2. Consolidate the checkpoint using `scripts/consolidate.py`.
+        3. Convert the checkpoint to HuggingFace format using `scripts/convert_hf_model.py`.
+   - Captures the job ID of the consolidation job.
+
+2. **Checkpoint Path Processing**:
+   - Extracts the checkpoint name from the GCP path.
+   - Prepends "cambrian-" to the checkpoint name if not already present.
+   - Constructs the full local path where the consolidated checkpoint will be saved.
+
+3. **Evaluation Jobs Submission**:
+   - Calls `slurm/submit_all_benchmarks_parallel.bash` to submit evaluation jobs for all implemented benchmarks.
+   - Passes along all relevant parameters (checkpoint path, conversation mode, Slurm job settings).
+   - Sets up a dependency on the consolidation job, ensuring evaluations only start after consolidation is complete.
+
+This end-to-end process automates the entire workflow from downloading a checkpoint from GCP to running all benchmark evaluations, making it easy to evaluate new checkpoints with a single command.
+
+</details>

@@ -21,7 +21,8 @@ benchmark="mmmu"
 
 # take command line args
 # Default values
-conv_mode="vicuna_v1"
+# conv_mode="vicuna_v1"
+conv_mode="llama_3"
 
 # Parse command line arguments
 while [[ $# -gt 0 ]]; do

@@ -26,10 +26,10 @@ fi
 # extract the filename from the last /
 filename=$(echo $gcp_link | rev | cut -d'/' -f1 | rev)
 
-# ensure prepended with "llava-" filename to work with evals
-if [[ $filename != llava* ]]; then
-    echo "Prepending llava- to $filename"
-    filename="llava-$filename"
+# ensure prepended with "cambrian-" filename to work with evals
+if [[ $filename != cambrian* ]]; then
+    echo "Prepending cambrian- to $filename"
+    filename="cambrian-$filename"
 fi
 
 
