@@ -237,6 +237,13 @@ Optional Arguments:
 ```bash
 bash slurm/submit_all_benchmarks_parallel.bash --ckpt $SCRATCH/checkpoints/llava-TPU-llava-v1.5-7b-finetune-6993k
 ```
+
+or using the [`nyu-visionx/cambrian-8b`](https://huggingface.co/nyu-visionx/cambrian-8b) HF model:
+
+```bash
+bash slurm/submit_all_benchmarks_parallel.bash --ckpt nyu-visionx/cambrian-8b
+```
+
 </details>
 
 ### E2E: Download, Consolidate, Convert, and Evaluate

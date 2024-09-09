@@ -60,15 +60,22 @@ bash scripts/run_benchmark.sh --benchmark <benchmark_name> --ckpt <path_to_check
 For example:
 
 ```bash
-bash scripts/run_benchmark.sh --benchmark mmmu --ckpt /path/to/cambrian/checkpoint --conv_mode vicuna_v1
+bash scripts/run_benchmark.sh --benchmark mmmu --ckpt /path/to/cambrian/checkpoint --conv_mode llama_3
 ```
+
+or using the [`nyu-visionx/cambrian-8b`](https://huggingface.co/nyu-visionx/cambrian-8b) HF model:
+
+```bash
+bash scripts/run_benchmark.sh --benchmark mmmu --ckpt nyu-visionx/cambrian-8b --conv_mode llama_3
+```
+
 
 ### Running All Benchmarks
 
 To ***sequentially*** run all benchmarks for a single checkpoint, use the [`run_all_benchmarks.sh`](scripts/run_all_benchmarks.sh) script:
 
 ```bash
-bash scripts/run_all_benchmarks.sh /path/to/cambrian/checkpoint llama3
+bash scripts/run_all_benchmarks.sh /path/to/cambrian/checkpoint llama_3
 ```
 
 This script will run all implemented benchmarks and save progress in a checkpoint file.

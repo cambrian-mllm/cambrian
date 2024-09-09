@@ -1,13 +1,14 @@
 serve_images/
 
 eval/logs
-eval/*.out
-eval/*.err
-eval/*.jsonl
-eval/*.json
-eval/*.xlsx
-eval/*.txt
-eval/*.jsonl.bak.*
+eval/**/*.out
+eval/**/*.err
+eval/**/*.jsonl
+eval/**/*.json
+eval/**/*.xlsx
+eval/**/*.txt
+eval/**/*.jsonl.bak.*
+eval/**/answers/
 
 *.code-workspace
 
