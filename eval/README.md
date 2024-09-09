@@ -1,7 +1,8 @@
 # MLLM Eval
 
 > [!TIP]
-> ***See the [slurm/](slurm/) dir for instructions on running evaluations on HPC clusters using Slurm.***
+> ***See the [slurm/](slurm/) dir for instructions on running evaluations in parallel on HPC clusters using Slurm.***
+
 
 ## Overview
 

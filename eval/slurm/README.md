@@ -3,7 +3,7 @@
 ## HPC Setup
 
 > [!NOTE]
-> **Note:** This was developed on the <a href="https://sites.google.com/nyu.edu/nyu-hpc/hpc-systems/greene" target="_blank">NYU Greene HPC cluster</a>, and may require modifications to run on other setups.
+> This was developed on the <a href="https://sites.google.com/nyu.edu/nyu-hpc/hpc-systems/greene" target="_blank">NYU Greene HPC cluster</a>, and may require modifications to run on other setups.
 
 <details open>
 <summary><b>Setup gcloud cli</b> <span style="padding-left: 1em;"\> <i>(only needed if working with GCP Cloud Storage)</i></summary>
