@@ -19,7 +19,7 @@ time="10:00:00"
 
 # add a help message with no args or -h or --help
 helpmsg=$(cat <<-EOF
-Usage: bash scripts/e2e.bash --ckpt <ckpt> [OPTIONS]
+Usage: bash slurm/e2e.bash --ckpt <ckpt> [OPTIONS]
 
 Submit a job to evaluate a model checkpoint on a benchmark.
 
@@ -132,10 +132,10 @@ fi
  # submit consolidate job and retrieve the slurm job id
 echo "Submitting consolidate job with GCP path: $ckpt"
 slurm_args="-J consolidate"_"$(basename $ckpt)  --output=./logs/consolidate/%x-%j.out --error=./logs/consolidate/%x-%j.err"
-sbcmd="sbatch $slurm_args --parsable scripts/slurm/consolidate.slurm $ckpt"
+sbcmd="sbatch $slurm_args --parsable slurm/consolidate.slurm $ckpt"
 echo "> $sbcmd"
 
-# consolidate_job_id=$(sbatch --parsable scripts/slurm/consolidate.slurm $ckpt)
+# consolidate_job_id=$(sbatch --parsable slurm/consolidate.slurm $ckpt)
 consolidate_job_id=$($sbcmd)
 echo "Job id: $consolidate_job_id"
 
@@ -150,7 +150,7 @@ ckpt_path=$CKPT_DIR/$ckpt_name
 
 # now queue up the eval jobs with this job id as the dependency
 echo "Submitting eval jobs using checkpoint $ckpt_path with dependency $consolidate_job_id"
-bash scripts/submit_all_benchmarks.bash \
+bash slurm/submit_all_benchmarks_parallel.bash \
     --ckpt $ckpt_path \
     --conv_mode $conv_mode \
     --gpus $gpus \

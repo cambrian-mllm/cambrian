@@ -16,7 +16,7 @@ dependency=""
 
 # add a help message with no args or -h or --help
 helpmsg=$(cat <<-EOF
-Usage: bash scripts/submit_all_benchmarks.bash --ckpt <ckpt> [OPTIONS]
+Usage: bash slurm/submit_all_benchmarks_single.bash --ckpt <ckpt> [OPTIONS]
 
 Submit a job to evaluate a model checkpoint on a benchmark.
 

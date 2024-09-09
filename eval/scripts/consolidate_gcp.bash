@@ -46,8 +46,8 @@ echo "Downloaded to $ckpt_path."
 
 # 2. now run the consolidate script
 echo "Consolidating $ckpt_path"
-# python consolidate.py --ckpt_path $ckpt_path --skip_existing
-cmd="python consolidate.py --ckpt_path $ckpt_path --skip_existing"
+# python scripts/scripts/consolidate.py --ckpt_path $ckpt_path --skip_existing
+cmd="python scripts/consolidate.py --ckpt_path $ckpt_path --skip_existing"
 echo "Running: $cmd"
 $cmd
 echo "Consolidated $ckpt_path"
@@ -58,8 +58,8 @@ llm_model_name=${LLM_MODEL_NAME:-"lmsys/vicuna-7b-v1.5"}
 
 # 3. convert_hf_model
 echo "Converting $ckpt_path to HF model"
-# python convert_hf_model.py --ckpt_path $ckpt_path --llm_model_name $llm_model_name
-cmd="python convert_hf_model.py --ckpt_path $ckpt_path --llm_model_name $llm_model_name"
+# python scripts/convert_hf_model.py --ckpt_path $ckpt_path --llm_model_name $llm_model_name
+cmd="python scripts/convert_hf_model.py --ckpt_path $ckpt_path --llm_model_name $llm_model_name"
 echo "Running: $cmd"
 $cmd
 echo "Converted $ckpt_path to HF model"

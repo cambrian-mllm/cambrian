@@ -128,17 +128,17 @@ pip install -r requirements.txt
 
 from the root of this project directory, run the following command to launch a job to 
 1. download a checkpoint from GCP using the `gcloud` CLI
-2. consolidate the checkpoint using [`consolidate.py`](consolidate.py)
-3. convert the checkpoint to HF format using [`convert_hf_model.py`](convert_hf_model.py)
+2. consolidate the checkpoint using [`consolidate.py`](scripts/consolidate.py)
+3. convert the checkpoint to HF format using [`convert_hf_model.py`](scripts/convert_hf_model.py)
 ```bash
-sbatch scripts/slurm/consolidate.slurm <path_to_checkpoint>
+sbatch slurm/consolidate.slurm <path_to_checkpoint>
 ```
 
 <details>
 <summary>example</summary>
 
 ```bash
-sbatch scripts/slurm/consolidate.slurm gs://us-central2-storage/cambrian/checkpoints/TPU-llava-v1.5-7b-finetune-6993k
+sbatch slurm/consolidate.slurm gs://us-central2-storage/cambrian/checkpoints/TPU-llava-v1.5-7b-finetune-6993k
 ```
 
 This will save the consolidated checkpoint to `$SCRATCH/llava-TPU-llava-v1.5-7b-finetune-6993k`
@@ -146,9 +146,9 @@ This will save the consolidated checkpoint to `$SCRATCH/llava-TPU-llava-v1.5-7b-
 </details>
 
 ### Run single benchmark for single checkpoint via SBATCH
-You can launch a sbatch job to evaluate a model checkpoint on a benchmark using [`submit_eval.bash`](scripts/submit_eval.bash)
+You can launch a sbatch job to evaluate a model checkpoint on a benchmark using [`submit_eval.bash`](slurm/submit_eval.bash)
 ```bash
-Usage: bash scripts/submit_eval.bash --benchmark <benchmark> --ckpt <ckpt> [OPTIONS]
+Usage: bash slurm/submit_eval.bash --benchmark <benchmark> --ckpt <ckpt> [OPTIONS]
 
 Submit a job to evaluate a model checkpoint on a benchmark.
 
@@ -176,7 +176,7 @@ Optional Arguments:
 <summary>example</summary>
 
 ```bash
-bash scripts/submit_eval.bash --ckpt $SCRATCH/checkpoints/llava-yi-finetune-6993k/ --conv_mode chatml_direct --constraint "a100|h100" --gpus 2 --benchmark mmmu
+bash slurm/submit_eval.bash --ckpt $SCRATCH/checkpoints/llava-yi-finetune-6993k/ --conv_mode chatml_direct --constraint "a100|h100" --gpus 2 --benchmark mmmu
 ```
 </details>
 
@@ -184,14 +184,14 @@ bash scripts/submit_eval.bash --ckpt $SCRATCH/checkpoints/llava-yi-finetune-6993
 <details>
 <summary>Under the hood</summary>
 
-The [`submit_eval.bash`](scripts/submit_eval.bash) script does the following:
+The [`submit_eval.bash`](slurm/submit_eval.bash) script does the following:
 
 1. Parses the command-line arguments and validates them.
 2. Determines the appropriate Slurm script to use for the evaluation.
 3. Constructs the Slurm command to submit the evaluation job.
 4. Submits the evaluation job to the Slurm job scheduler.
 
-The Slurm script sets up the environment, loads the necessary modules, and runs the [`run_benchmark.sh`](scripts/run_benchmark.sh) script with the provided arguments. See [`eval_benchmark.slurm`](scripts/slurm/eval_benchmark.slurm) for more details.
+The Slurm script sets up the environment, loads the necessary modules, and runs the [`run_benchmark.sh`](scripts/run_benchmark.sh) script with the provided arguments. See [`eval_benchmark.slurm`](slurm/eval_benchmark.slurm) for more details.
 
 The [`run_benchmark.sh`](scripts/run_benchmark.sh) script does the following:
 
@@ -205,9 +205,9 @@ The [`run_benchmark.sh`](scripts/run_benchmark.sh) script does the following:
 </details>
 
 ### Run all benchmarks for single checkpoint in parallel via SBATCH
-The [`submit_all_benchmarks.bash`](scripts/submit_all_benchmarks.bash) script will call the `submit_eval.bash` script for each benchmark that has been implemented for a given checkpoint.
+The [`submit_all_benchmarks_parallel.bash`](slurm/submit_all_benchmarks_parallel.bash) script will call the `submit_eval.bash` script for each benchmark that has been implemented for a given checkpoint.
 ```bash
-Usage: bash scripts/submit_all_benchmarks.bash --ckpt <ckpt> [OPTIONS]
+Usage: bash slurm/submit_all_benchmarks_parallel.bash --ckpt <ckpt> [OPTIONS]
 
 Submits jobs to evaluate a model checkpoint on each benchmark.
 
@@ -234,7 +234,7 @@ Optional Arguments:
 <summary>example</summary>
 
 ```bash
-bash scripts/submit_all_benchmarks.bash --ckpt $SCRATCH/checkpoints/llava-TPU-llava-v1.5-7b-finetune-6993k
+bash slurm/submit_all_benchmarks_parallel.bash --ckpt $SCRATCH/checkpoints/llava-TPU-llava-v1.5-7b-finetune-6993k
 ```
 </details>
 

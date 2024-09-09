@@ -4,7 +4,7 @@ import pandas as pd
 import argparse
 
 
-def tabulate_results(eval_dir, experiment_csv_fname, pivot_fname, all_results_csv_fname):
+def tabulate_results(eval_dir, experiment_csv_fname, out_pivot_fname, out_all_results_fname):
     exists = os.path.exists(eval_dir)
     if not exists:
         raise ValueError(f"eval_dir {eval_dir} does not exist")
@@ -95,28 +95,28 @@ def tabulate_results(eval_dir, experiment_csv_fname, pivot_fname, all_results_cs
         dfs.append(df)
 
     all_results = pd.concat(dfs)
-    all_results.sort_values("time").to_csv(all_results_csv_fname, index=False)
-    print(f"Saved all results to {all_results_csv_fname}")
+    all_results.sort_values("time").to_csv(out_all_results_fname, index=False)
+    print(f"Saved all results to {out_all_results_fname}")
 
     pivot = all_results.pivot(index="model", columns="eval_name", values="accuracy")
     pivot = pivot[evals_order]
 
     # if .xlsx, to_excel, else to_csv
-    if pivot_fname.endswith(".xlsx"):
-        pivot.to_excel(pivot_fname)
-        print(f"Saved excel file pivot to {pivot_fname}")
+    if out_pivot_fname.endswith(".xlsx"):
+        pivot.to_excel(out_pivot_fname)
+        print(f"Saved excel file pivot to {out_pivot_fname}")
     else:
-        pivot.to_csv(pivot_fname)
-        print(f"Saved csv file pivot to {pivot_fname}")
+        pivot.to_csv(out_pivot_fname)
+        print(f"Saved csv file pivot to {out_pivot_fname}")
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Tabulate experiment results")
     parser.add_argument("--eval_dir", type=str, default="eval", help="Directory containing evaluation results")
     parser.add_argument("--experiment_csv", type=str, default="experiments.csv", help="Name of the CSV file containing experiment results")
-    parser.add_argument("--pivot_name", type=str, default="pivot.xlsx", help="Name of the output file (Excel or CSV)")
-    parser.add_argument("--all_results_csv", type=str, default="all_results.csv", help="Name of the CSV file to save all results")
+    parser.add_argument("--out_pivot", type=str, default="pivot.xlsx", help="Name of the output file (Excel or CSV)")
+    parser.add_argument("--out_all_results", type=str, default="all_results.csv", help="Name of the CSV file to save all results")
 
     args = parser.parse_args()
 
-    tabulate_results(args.eval_dir, args.experiment_csv, args.pivot_name, args.all_results_csv)
+    tabulate_results(args.eval_dir, args.experiment_csv, args.out_pivot, args.out_all_results)

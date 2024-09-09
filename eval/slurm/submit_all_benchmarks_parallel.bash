@@ -1,12 +1,13 @@
 #!/bin/bash
 set -e
 
-echo "> submit_eval.bash $@"
+echo "> submit_all_benchmarks_parallel.bash $@"
 
 ################# Parse Arguments #################
 
 # Default values
-conv_mode="vicuna_v1"
+# conv_mode="vicuna_v1"
+conv_mode="llama_3"
 # gpus=2
 # cpus=24
 # mem="80GB"
@@ -18,16 +19,13 @@ constraint="a100|h100|rtx8000"
 time="10:00:00"
 dependency=""
 
-## TODO: should set slurm values to none so they take the eval_benchmark.slurm defaults?
-
 # add a help message with no args or -h or --help
 helpmsg=$(cat <<-EOF
-Usage: bash scripts/submit_eval.bash --benchmark <benchmark> --ckpt <ckpt> [OPTIONS]
+Usage: bash slurm/submit_all_benchmarks_parallel.bash --ckpt <ckpt> [OPTIONS]
 
-Submit a job to evaluate a model checkpoint on a benchmark.
+Submits jobs to evaluate a model checkpoint on each benchmark.
 
 Required Arguments:
-  --benchmark <benchmark>       The benchmark to evaluate on.
   --ckpt <ckpt>                 The path to the model checkpoint.
 
 Optional Arguments:
@@ -56,10 +54,6 @@ fi
 # Parse command line arguments
 while [[ $# -gt 0 ]]; do
   case "$1" in
-    --benchmark)
-        benchmark="$2"
-        shift 2
-        ;;
     --ckpt)
         ckpt="$2"
         shift 2
@@ -103,16 +97,8 @@ while [[ $# -gt 0 ]]; do
   esac
 done
 
-# Check if the required arguments benchmark and ckpt are provided
-if [[  -z "$benchmark" || -z "$ckpt" ]]; then
-  echo "Error: --benchmark and --ckpt arguments are required."
-  exit 1
-fi
-
-
 # print required and optional arguments with default values
 echo "Required Arguments:"
-echo "  benchmark: $benchmark"
 echo "  ckpt: $ckpt"
 echo "Optional Arguments:"
 echo "  conv_mode: $conv_mode (Default: vicuna_v1)"
@@ -123,6 +109,7 @@ echo "  cpus: $cpus (Default: 18)"
 echo "  mem: $mem (Default: 32GB)"
 echo "  time: $time (Default: 10:00:00)"
 echo "  dependency: $dependency"
+
 
 ################# Process Arguments #################
 
@@ -155,33 +142,49 @@ if [[ -n "$dependency" ]]; then
     fi
 fi
 
-# check that the eval/$benchmark directory exists
-if [ ! -d "eval/$benchmark" ]; then
-    echo "Error: eval/$benchmark directory does not exist. Benchmark $benchmark may not be supported."
-    exit 1
-fi
+################# Submit Jobs #################
 
-echo "Running $benchmark evaluation on model at $ckpt_path"
+benchmarks=(
+    # vqav2
+    gqa
+    vizwiz
+    scienceqa
+    textvqa
+    pope
+    mme
+    mmbench_en
+    mmbench_cn
+    seed
+    # llava_w
+    mmvet
+    mmmu
+    mathvista
+    ai2d
+    chartqa
+    docvqa
+    infovqa
+    stvqa
+    ocrbench
+    mmstar
+    realworldqa
+    mmvp
+    vstar
+    synthdog
+    # vision
+    qbench
+    blink
+    # CV-Bench
+    omni
+    ade
+    coco
+)
 
-script="scripts/slurm/eval_$benchmark.slurm"
-# default to eval_benchmark.slurm if the benchmark specific script does not exist
-if [ ! -f $script ]; then
-    echo "Warning: Slurm script $script does not exist. Defaulting to eval_benchmark.slurm"
-    script="scripts/slurm/eval_benchmark.slurm --benchmark $benchmark"
-fi
 
-echo "Using slurm script $script"
-
-################# Submit Job #################
-slurm_args="-J $benchmark"_"$(basename $ckpt)  --output=./logs/$benchmark/eval-%x-%j.out --error=./logs/$benchmark/eval-%x-%j.err --gres "gpu:$gpus" --constraint $constraint --mem $mem --cpus-per-task $cpus --time $time"
-
-# add dependency if nonempty
-if [[ -n "$dependency" ]]; then
-    slurm_args="$slurm_args --dependency=afterok:$dependency"
-fi
-
-sbcmd="sbatch $slurm_args $script --ckpt $ckpt --conv_mode $conv_mode"
-
-echo "> $sbcmd"
-
-$sbcmd
+for benchmark in "${benchmarks[@]}"; do
+    # check if $dependency is empty. If it is, don't pass it to the script to avoid errors caused by "shift 2"
+    if [[ -z "$dependency" ]]; then
+        bash slurm/submit_eval.bash --ckpt $ckpt --benchmark $benchmark --conv_mode $conv_mode --gpus $gpus --constraint $constraint --cpus $cpus --mem $mem --time $time
+    else
+        bash slurm/submit_eval.bash --ckpt $ckpt --benchmark $benchmark --conv_mode $conv_mode --gpus $gpus --constraint $constraint --cpus $cpus --mem $mem --time $time --dependency $dependency
+    fi
+done

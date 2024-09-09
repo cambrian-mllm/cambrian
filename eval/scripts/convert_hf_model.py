@@ -2,7 +2,7 @@ import os
 
 import torch
 
-from llava.model import LlavaLlamaForCausalLM
+from cambrian.model import CambrianLlamaForCausalLM
 
 
 def main(
@@ -21,11 +21,11 @@ def main(
     tpu_state_dict = torch.load(state_dict_path)
 
     print(f"Loading model from {llm_model_name}")
-    from llava.model.language_model.llava_llama import LlavaConfig
-    # from llava.model.language_model.llava_mistral import LlavaMistralConfig as LlavaConfig
-    # from llava.model.language_model.llava_cohere import LlavaCohereConfig as LlavaConfig
-    config = LlavaConfig.from_pretrained(ckpt_path)
-    model = LlavaLlamaForCausalLM.from_pretrained(
+    from cambrian.model.language_model.cambrian_llama import CambrianConfig
+    # from cambrian.model.language_model.cambrian_mistral import CambrianMistralConfig as CambrianConfig
+    # from cambrian.model.language_model.cambrian_cohere import CambrianCohereConfig as CambrianConfig
+    config = CambrianConfig.from_pretrained(ckpt_path)
+    model = CambrianLlamaForCausalLM.from_pretrained(
         llm_model_name,
         config=config,
         cache_dir=None,
