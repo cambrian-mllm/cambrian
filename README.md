@@ -54,8 +54,10 @@
 > *Fun fact: vision emerged in animals during the Cambrian period! This was the inspiration for the name of our project, Cambrian.*
 
 ## Release
-- [6/24] 🔥 We released Cambrian-1! A family of multimodal LLMs (MLLMs) designed with a vision-centric approach. We are gradually releasing three sizes of model (8B, 13B and 34B), training data, TPU training scripts. We will release GPU training script and evaluation code very soon. 
-
+- [09/09/24] 🧪 We've released our MLLM evaluation suite with 26 benchmarks, supporting manual usage and parallelization using Slurm for HPC clusters. See the [`eval/`](eval/) subfolder for more details.
+- [07/03/24] 🚂 We have released our targeted data engine! See the [`dataengine/`](dataengine/) subfolder for more details.
+- [07/02/24] 🤗 CV-Bench is live on Huggingface! Please see here for more: https://huggingface.co/datasets/nyu-visionx/CV-Bench
+- [06/24/24] 🔥 We released Cambrian-1! We also release three sizes of model (8B, 13B and 34B), training data, TPU training scripts. We will release GPU training script and evaluation code very soon.
 
 ## Contents
 - [Installation](#installation)
@@ -118,6 +120,8 @@ Here are our Cambrian checkpoints along with instructions on how to use the weig
 | Grok-1.5                | UNK         | -    | -     | 52.8       | 76.1    | -     |
 | MM-1-8B                 | 144         | 72.3 | 72.6  | 35.9       | -       | -     |
 | MM-1-30B                | 144         | 75.1 | 81.0  | 39.4       | -       | -     |
+| **Base LLM: Phi-3-3.8B** |     |      |       |            |         |       |
+| [Cambrian-1-8B](https://huggingface.co/nyu-visionx/cambrian-phi3-3b) | 576 | 74.6| 79.2  | 48.4       | 66.8    | 40.0  |
 | **Base LLM: LLaMA3-8B-Instruct** |     |      |       |            |         |       |
 | Mini-Gemini-HD-8B       | 2880        | 72.7 | 75.1  | 37.0       | 59.1    | 18.7  |
 | LLaVA-NeXT-8B           | 2880        | 72.1 | 72.8  | 36.3       | 69.5    | 38.7  |

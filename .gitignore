@@ -1,5 +1,17 @@
 serve_images/
 
+eval/logs
+eval/**/*.out
+eval/**/*.err
+eval/**/*.jsonl
+eval/**/*.json
+eval/**/*.xlsx
+eval/**/*.txt
+eval/**/*.jsonl.bak.*
+eval/**/answers/
+
+*.code-workspace
+
 
 # Created by https://www.toptal.com/developers/gitignore/api/web,linux,macos,python,windows,data,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=web,linux,macos,python,windows,data,jupyternotebooks
