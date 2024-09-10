@@ -1,6 +1,8 @@
 """
 A model worker executes the model.
 """
+import spaces
+
 import argparse
 import asyncio
 import json
@@ -25,7 +27,6 @@ from transformers import TextIteratorStreamer
 from threading import Thread
 
 from ezcolorlog import root_logger as logger
-import spaces
 
 
 GB = 1 << 30
