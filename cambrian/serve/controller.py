@@ -2,6 +2,7 @@
 A controller manages distributed workers.
 It sends worker addresses to clients.
 """
+print("controller.py")
 import spaces
 
 import argparse
@@ -301,4 +302,5 @@ if __name__ == "__main__":
     logger.info(f"args: {args}")
 
     controller = Controller(args.dispatch_method)
+    logger.info(f"controller started: {args.host}:{args.port}")
     uvicorn.run(app, host=args.host, port=args.port, log_level="info")

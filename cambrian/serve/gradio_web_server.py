@@ -1,3 +1,4 @@
+print("gradio_web_server.py")
 import spaces
 
 import argparse
@@ -310,6 +311,7 @@ block_css = """
 
 """
 
+
 def build_demo(embed_mode, cur_dir=None, concurrency_count=10):
     textbox = gr.Textbox(show_label=False, placeholder="Enter text and press ENTER", container=False)
     with gr.Blocks(title="Cambrian-1", theme=gr.themes.Default(), css=block_css) as demo:
@@ -467,8 +469,9 @@ if __name__ == "__main__":
 
     models = get_model_list()
 
-    logger.info(args)
+    logger.info(f"Starting Gradio server on {args.host}:{args.port}")
     demo = build_demo(args.embed, concurrency_count=args.concurrency_count)
+    logger.info("demo built")
     demo.queue(
         api_open=False
     ).launch(
