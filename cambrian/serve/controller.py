@@ -2,6 +2,8 @@
 A controller manages distributed workers.
 It sends worker addresses to clients.
 """
+import spaces
+
 import argparse
 import asyncio
 import dataclasses
