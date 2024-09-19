@@ -145,39 +145,3 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     eval_model(args)
-
-
-
-""""
-python eval/mmbench_en/mmbench_en_eval.py \
-    --model_path $CKPT_DIR/llava-TPU-llava-v1.5-7b-finetune-6993k \
-    --answers_file ./test_1.jsonl \
-    --question_extension "Please answer the question, provide your final answer as the last word of the response"
-
-    
-python eval/mmbench_en/mmbench_en_eval.py \
-    --model_path $CKPT_DIR/llava-TPU-llava-v1.5-7b-finetune-6993k \
-    --answers_file ./test_2.jsonl \
-    --question_extension "Please answer the question, provide your final answer in the end of your response with Answer: {your answer}."
-
-python eval/mmbench_en/mmbench_en_eval.py \
-    --model_path $CKPT_DIR/llava-TPU-llava-v1.5-7b-finetune-6993k \
-    --answers_file ./test_3.jsonl \
-    --question_extension "Please answer the question, provide your final answer at the very end. You must respond in the following format: '{explaination} Answer: {your answer}'"
-
-
-python eval/mmbench_en/mmbench_en_eval.py \
-    --model_path $CKPT_DIR/llava-TPU-llava-v1.5-7b-finetune-6993k \
-    --answers_file ./test_5.jsonl \
-    --question_extension "\n"
-
-python eval/mmbench_en/mmbench_en_eval.py \
-    --model_path $CKPT_DIR/llava-TPU-llava-v1.5-7b-finetune-6993k \
-    --answers_file ./test_6.jsonl \
-    --question_extension "Respond in following JSON format: {\"reasoning\": \"your reasoning\", \"answer\": \"your answer\"}"
-
-python eval/mmbench_en/mmbench_en_eval.py \
-    --model_path $CKPT_DIR/llava-TPU-llava-v1.5-7b-finetune-6993k \
-    --answers_file ./test_8.jsonl \
-    --question_extension "Respond in following JSON format: {\"reasoning\": \"your reasoning\", \"answer\": \"your answer\"}"
-"""
