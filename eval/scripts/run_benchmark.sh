@@ -126,4 +126,4 @@ done
 python $test_file --answers_file "$answers_file"
 
 echo "Done evaluation and testing for $benchmark on model at $ckpt with conversation mode $conv_mode"
-echo "Answers file: $answers_file"
+echo "Answers file: ${(realpath $answers_file)}"
