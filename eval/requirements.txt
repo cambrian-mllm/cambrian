@@ -1,0 +1,13 @@
+datasets
+shortuuid
+openpyxl
+pyarrow
+pandas
+scipy
+pillow
+tqdm
+protobuf
+mmh3
+nltk
+python-Levenshtein
+openai==0.28.0

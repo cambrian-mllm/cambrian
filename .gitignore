@@ -9,6 +9,7 @@ eval/**/*.xlsx
 eval/**/*.txt
 eval/**/*.jsonl.bak.*
 eval/**/answers/
+!requirements.txt
 
 *.code-workspace
 
