@@ -91,7 +91,7 @@ pip install -e ".[tpu]"
 pip install torch~=2.2.0 torch_xla[tpu]~=2.2.0 -f https://storage.googleapis.com/libtpu-releases/index.html
 ```
 
-### GPU Inference
+### GPU Training & Inference
 1. Clone this repository and navigate to into the codebase
 ```bash
 git clone https://github.com/cambrian-mllm/cambrian
@@ -268,12 +268,15 @@ To begin, please visit our [Hugging Face alignment data page](https://huggingfac
 - [Alignment Data (JSONL file)](https://huggingface.co/datasets/nyu-visionx/Cambrian-Alignment/blob/main/jsons/alignment_2.5m.jsonl)
 - [Corresponding Images](https://huggingface.co/datasets/nyu-visionx/Cambrian-Alignment/tree/main)
 
-We provide sample training scripts in:
+We provide sample training scripts for TPU in:
 
 - [scripts/cambrian/pretrain_cambrian_8b.sh](scripts/cambrian/pretrain_cambrian_8b.sh)
 - [scripts/cambrian/pretrain_cambrian_13b.sh](scripts/cambrian/pretrain_cambrian_13b.sh)
 - [scripts/cambrian/pretrain_cambrian_34b.sh](scripts/cambrian/pretrain_cambrian_34b.sh)
 
+For GPU:
+
+- [scripts/gpu_cambrian/pretrain_cambrian_8b.sh](scripts/gpu_cambrian/pretrain_cambrian_8b.sh)
 #### Using Custom Data
 
 If you wish to train with other data sources or custom data, we support the commonly used LLaVA data format. For handling very large files, we use JSONL format instead of JSON format for lazy data loading to optimize memory usage.
@@ -288,11 +291,14 @@ Similar to Training SVA, please visit our [Cambrian-10M data](https://huggingfac
 - [Cambrian7M Data (JSONL file)](https://huggingface.co/datasets/nyu-visionx/Cambrian-10M/blob/main/jsons/Cambrian7M_withsystemprompt.jsonl)
 - [Corresponding Images](https://huggingface.co/datasets/nyu-visionx/Cambrian-10M)
 
-We provide sample training scripts in:
+We provide sample training scripts for TPU in:
 
 - [scripts/cambrian/finetune_cambrian_8b.sh](scripts/cambrian/finetune_cambrian_8b.sh)
 - [scripts/cambrian/finetune_cambrian_13b.sh](scripts/cambrian/finetune_cambrian_13b.sh)
 - [scripts/cambrian/finetune_cambrian_34b.sh](scripts/cambrian/finetune_cambrian_34b.sh)
+
+For GPU:
+- [scripts/gpu_cambrian/finetune_cambrian_8b.sh](scripts/gpu_cambrian/finetune_cambrian_8b.sh)
 
 ### Options to note:
 

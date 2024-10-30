@@ -62,7 +62,7 @@ torch.backends.cudnn.benchmark = False
 
 model_path = os.path.expanduser("nyu-visionx/cambrian-8b")
 model_name = get_model_name_from_path(model_path)
-tokenizer, model, image_processor, context_len = load_pretrained_model(model_path, None, model_name)
+tokenizer, model, image_processor, context_len = load_pretrained_model(model_path, None, model_name,device_map='cuda')
 
 temperature = 0
 
