@@ -311,7 +311,7 @@ The arguments below are only meaningful for SVA projector
 - `--stride_of_vision_sampler_layers`: The stride of the SVA module insertion inside the LLM.
 
 ## Evaluation
-We will release this part of code very soon.
+We have released our evaluation code in the [`eval/`](eval/) subfolder. Please see the README there for more details.
 
 ## Demo
 The following instructions will guide you through launching a local Gradio demo with Cambrian. We provide a simple web interface for you to interact with the model. You can also use the CLI for inference. This setup is heavily inspired by [LLaVA](https://github.com/haotian-liu/LLaVA).
