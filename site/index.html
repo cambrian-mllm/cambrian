@@ -1,0 +1,1241 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs</title>
+        <link rel="icon" type="image/x-icon" href="/static/img/icons/jellyfish.ico">
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Open Graph -->
+        <meta property="og:url" content="https://cambrian-mllm.github.io/" />
+        <meta property="og:image" content="https://cambrian-mllm.github.io/static/img/preview.png" />
+        <meta property="og:title" content="Cambrian-1: A Fully Open Vision-Centric Exploration of MLLMs" />
+        <meta property="og:description" content="Cambrian-1 is a family of multimodal LLMs with a vision-centric design. We also release CV-Bench, a new vision-centric benchmark, and Cambrian-10M, a multimodal instruction-tuning dataset." />
+
+        <!-- Twitter -->
+        <meta name="twitter:url" content="https://cambrian-mllm.github.io/" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:image" content="https://cambrian-mllm.github.io/static/img/preview.png" />
+        <meta name="twitter:title" content="Cambrian-1: A Fully Open Vision-Centric Exploration of MLLMs" />
+        <meta name="twitter:description" content="Cambrian-1 is a family of multimodal LLMs with a vision-centric design. We also release CV-Bench, a new vision-centric benchmark, and Cambrian-10M, a multimodal instruction-tuning dataset." />
+
+        <script src="./static/js/distill_template.v2.js"></script>
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script src="https://d3js.org/d3-collection.v1.min.js"></script>
+        <script src="https://rawgit.com/nstrayer/slid3r/master/dist/slid3r.js"></script>
+
+        <script defer="" src="./static/js/hider.js"></script>
+        <script src="./static/js/image_interact.js"></script>
+        <script src="./static/js/switch_videos.js"></script>
+
+        <link rel="stylesheet" href="./static/css/style.css">
+        <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+        <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
+        <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous"
+            onload="renderMathInElement(document.body);"></script>
+        <script defer src="./static/js/fontawesome.all.min.js"></script>
+
+
+        <!-- medium zoom https://github.com/francoischalifour/medium-zoom -->
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>  <!-- jquery -->
+        <script defer src="./static/js/medium-zoom.min.js"></script>
+        <script defer src="./static/js/zoom.js"></script>
+    </head>
+    <body>
+        <div class="header-wrapper">
+            <div class="header-container" id="header-container">
+                <div class="header-content">
+                    <h1 style="margin-top: 0px"><i>Cambrian-1</i></h1>
+                    <h2>A Fully Open, <i>Vision-Centric</i><br>
+                        Exploration of Multimodal LLMs</h2>
+                        <p>
+                            Introducing Cambrian-1, a family of
+                            <em><strong>vision-centric</strong></em>
+                            multimodal LLMs (MLLMs). Cambrian-1 is structured around five key pillars:
+                        </p>
+
+                        <div class="icon-container">
+                            <div class="icon-item">
+                                <img src="./static/img/icons/visual.svg" alt="Visual Representation Icon">
+                                <div><strong>Visual Representations</strong>: We explore various vision encoders and their combinations.</div>
+                            </div>
+                            <div class="icon-item">
+                                <img src="./static/img/icons/connector.svg" alt="Connector Design Icon">
+                                <div><strong>Connector Design</strong>: We design a new dynamic and <i>spatially-aware</i> connector that integrates visual features from several models with LLMs while reducing the number of tokens.</div>
+                            </div>
+                            <div class="icon-item">
+                                <img src="./static/img/icons/data.svg" alt="Instruction Tuning Data Icon">
+                                <div><strong>Instruction Tuning Data</strong>: We curate high-quality visual instruction-tuning data from public sources, emphasizing the importance of distribution balancing.</div>
+                            </div>
+                            <div class="icon-item">
+                                <img src="./static/img/icons/recipe.svg" alt="Instruction Tuning Recipes Icon">
+                                <div><strong>Instruction Tuning Recipes</strong>: We discuss instruction tuning strategies and practices.</div>
+                            </div>
+                            <div class="icon-item">
+                                <img src="./static/img/icons/eval.svg" alt="Benchmarking Icon">
+                                <div><strong>Benchmarking</strong>: We examine existing MLLM benchmarks and introduce a new vision-centric benchmark, "CV-Bench".</div>
+                            </div>
+                        </div>
+
+                    <div class="button-container">
+                        <!-- replace arxiv -->
+                        <a href="https://arxiv.org/abs/2406.16860" class="button paper-link" target="_blank">
+                            <span class="icon is-small">
+                                <i class="ai ai-arxiv"></i>
+                            </span>
+                            arXiv
+                        </a>
+                        <!-- replace pdf -->
+                        <a href="https://arxiv.org/pdf/2406.16860" class="button paper-link" target="_blank">
+                            <span class="icon is-small">
+                                <i class="fas fa-file-pdf"></i>
+                            </span>
+                            <span>pdf</span>
+                        </a>
+                        <!-- replace image -->
+                        <a href="https://github.com/cambrian-mllm/cambrian" class="button" target="_blank">
+                            <span class="icon is-small">
+                                <i class="fab fa-github"></i>
+                            </span>
+                            <span>Code</span>
+                        </a>
+                        <!-- <br> -->
+                        <a href="https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c" class="button" target="_blank">
+                            <span class="icon is-small">
+                                <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face logo" style="height: 1em;">
+                            </span>
+                            <span>Checkpoints</span>
+                        </a>
+                        <a href="https://huggingface.co/collections/nyu-visionx/cambrian-data-6667ce801e179b4fbe774e11" class="button" target="_blank">
+                            <span class="icon is-small">
+                                <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face logo" style="height: 1em;">
+                            </span>
+                            <span>Data</span>
+                        </a>
+                        <a href="https://huggingface.co/datasets/nyu-visionx/CV-Bench" class="button" target="_blank">
+                            <span class="icon is-small">
+                                <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face logo" style="height: 1em;">
+                            </span>
+                            <span>CV-Bench</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="header-image">
+                    <img draggable="false" src="static/img/cambrian.png" alt="Teaser Image" class="teaser-image">
+                </div>
+            </div>
+        </div>
+    <d-article>
+        <div class="byline">
+            <div class="byline-container">
+                <p>
+                    <a href="https://tsb0601.github.io/petertongsb/" class="author-link" target="_blank">Shengbang Tong<sup>*</sup></a> &emsp;
+                    <a href="https://ellisbrown.github.io/" class="author-link" target="_blank">Ellis Brown<sup>*</sup></a> &emsp;
+                    <a href="https://penghao-wu.github.io/" class="author-link" target="_blank">Penghao Wu<sup>*</sup></a> &emsp;
+                    <br>
+                    <a href="https://sites.google.com/view/sanghyunwoo/" class="author-link" target="_blank">Sanghyun Woo</a> &emsp;
+                    <a href="https://www.linkedin.com/in/manoj-middepogu/" class="author-link" target="_blank">Manoj Middepogu</a> &emsp;
+                    <a href="https://www.linkedin.com/in/sai-charitha-akula-32574887" class="author-link" target="_blank">Sai Charitha Akula</a> &emsp;
+                    <a href="https://jihanyang.github.io/" class="author-link" target="_blank">Jihan Yang</a> &emsp;
+                    <a href="https://github.com/vealocia" class="author-link" target="_blank">Shusheng Yang</a> &emsp;
+                    <a href="https://github.com/adithyaiyer1999" class="author-link" target="_blank">Adithya Jairam Iyer</a> &emsp;
+                    <a href="https://xichenpan.com/" class="author-link" target="_blank">Xichen Pan</a> &emsp;
+                    <a href="https://www.linkedin.com/in/ziteng-wang-694b8b227/" class="author-link" target="_blank">Ziteng Wang</a> &emsp;
+                    <br>
+                    <a href="https://cs.nyu.edu/~fergus/" class="author-link" target="_blank">Rob Fergus</a> &emsp;
+                    <a href="https://yann.lecun.com/" class="author-link" target="_blank">Yann LeCun</a> &emsp;
+                    <a href="https://www.sainingxie.com/" class="author-link" target="_blank">Saining Xie<sup>&dagger;</sup></a>
+                    <p></p>
+                </p>
+                <a style="text-align: center;" href="https://cs.nyu.edu/home/index.html" class="affiliation-link" id="affiliation" target="_blank">New York University</a>
+                <p style="text-align: center; font-size: 1.35em; color: red; font-weight: bold;">
+                    <a href="https://neurips.cc/virtual/2024/oral/97972" target="_blank">NeurIPS 2024 (Oral)</a>
+                </p>
+                <p style="text-align: center; margin-bottom: 0;">
+                    <span class="author-note"><sup>*</sup>Project lead</span>&emsp;
+                    <span class="author-note"><sup>&dagger;</sup>Corresponding author</span>
+                </p>
+            </div>
+        </div>
+
+
+        <p class="text abstract">
+
+            We introduce Cambrian-1, a family of multimodal LLMs (MLLMs) designed with a <strong>vision-<i>centric</i></strong> approach.
+            While stronger language models can enhance multimodal capabilities,
+            the design choices for vision components are often insufficiently explored and disconnected from visual representation learning research.
+
+            <br><br>
+            Cambrian-1 is structured around five key pillars, each offering important insights into the design space of MLLMs:
+            <ol class="text">
+                <li><strong><a href="#visual_representations">&sect;Visual Representations</a></strong>: We explore various vision encoders and their combinations.</li>
+                <li><strong><a href="#connector_design">&sect;Connector Design</a></strong>: We design a new dynamic and <i>spatially-aware</i> connector that integrates visual features from several models with LLMs while reducing the number of tokens.</li>
+                <li><strong><a href="#instruction_data">&sect;Instruction Tuning Data</a></strong>: We curate high-quality visual instruction-tuning data from public sources, emphasizing the importance of distribution balancing.</li>
+                <li><strong><a href="#sec:inst_tuning">&sect;Instruction Tuning Recipes</a></strong>: We discuss instruction tuning strategies and practices.</li>
+                <li><strong><a href="#sec:benchmarking">&sect;Benchmarking</a></strong>: We examine existing MLLM benchmarks and introduce a new vision-centric benchmark "CV-Bench".</li>
+            </ol>
+        </p>
+
+        <div class="icon-row">
+            <a href="#visual-representation" class="icon-link">
+                <img src="static/img/icons/visual.svg" alt="Visual Representation Logo" class="icon">
+                Visual<br>Representations
+            </a>
+            <a href="#connector_design" class="icon-link">
+                <img src="static/img/icons/connector.svg" alt="Connector Logo" class="icon">
+                Connector<br>Design
+            </a>
+            <a href="#instruction_data" class="icon-link">
+                <img src="static/img/icons/data.svg" alt="Data Logo" class="icon">
+                Instruction<br>Data
+            </a>
+            <a href="#sec:inst_tuning" class="icon-link">
+                <img src="static/img/icons/recipe.svg" alt="Recipe Logo" class="icon">
+                Instruction<br>Recipes
+            </a>
+            <a href="#sec:benchmarking" class="icon-link">
+                <img src="static/img/icons/eval.svg" alt="Eval Logo" class="icon">
+                Evaluation<br>Protocol
+            </a>
+        </div>
+
+        <p class="click-hint" style="width: 85%;">
+            <img src="static/img/icons/click.gif" style="width: 1.5rem">
+            <strong>Click to jump to each section.</strong>
+        </p>
+
+
+        <p class="text abstract">
+            To this end, Cambrian-1 not only achieves state-of-the-art performance, but also serves as a comprehensive, open cookbook for instruction-tuned MLLMs. See <a href="#State-of-the-art-MLLM-performance">§State-of-the-art MLLM performance</a>.
+            We provide <a href="https://huggingface.co/nyu-visionx" target="_blank">model weights</a>,
+            <a href="https://github.com/cambrian-mllm/cambrian" target="_blank">code</a>,
+            <a href="https://huggingface.co/nyu-visionx" target="_blank">datasets</a>,
+            and detailed instruction-tuning and evaluation recipes. We hope our release will inspire and accelerate advancements in multimodal systems and visual representation learning.
+        </p>
+
+
+
+        <hr>
+
+        <div id='visual_representations' class="vision-block">
+
+            <div id="sec:benchmarking" class="sub-section">
+                <h1 class="text">Analyzing the Benchmarks</h1>
+
+                    <p class="text">
+                        <p class="text">
+                        <strong>Who's answering: LLM or MLLM?:</strong> We compare performance between vision-disabled and vision-enabled settings across MLLMs trained with 23 different vision backbones. Our findings reveal that some benchmarks such as MMMU and AI2D are less reliant on visual inputs, whereas others such as MMVP and MME experience significant performance declines, indicating their effective evaluation of multimodality</li>
+                        </p>
+                        <p class="text">
+                            <strong>Benchmark Clustering and Analysis:</strong> Through correlation analysis and principal component analysis of MLLM performances across various benchmarks, distinct clusters emerge categorized as "General," "Knowledge," "Chart & OCR," and "Vision-Centric."
+                            We also find that vision-centric benchmarks are underrepresented in the current evaluation landscape.
+                        </p>
+                    <d-figure id="fig-comparison" >
+                        <figure>
+                            <img data-zoomable="" draggable="false" src="static/img/bench_cat.png" alt="benchmark category">
+                            <figcaption>
+                                <strong>Figure 1:</strong> Analyzing the benchmarks.
+                                <strong>Left:</strong> Performance comparison of MLLMs with visual input enabled and disabled across various benchmarks. <strong>Right:</strong> Principal component analysis displaying clusters of benchmarks based on performance metrics, with bubble size corresponding to benchmark size.
+                            </figcaption>
+                        </figure>
+                    </d-figure>
+            </div>
+            <div id="cv-bench" class="sub-section">
+
+                    <p class="text"><strong>Cambrian Vision-Centric Benchmark (CV-Bench) </strong>
+                        To address the scarcity of vision-centric benchmarks, we introduce CV-Bench&mdash;repurposing standard vision tasks for multimodal evaluation. CV-Bench contains approximately 2600 vision-centric VQA questions, addressing the issues with existing vision-centric bechmark size.
+                    </p>
+
+                    <d-figure id="fig-cvcb" >
+                        <figure>
+                            <img data-zoomable="" draggable="false" src="static/img/cvcb.jpg" alt="benchmark category">
+                            <figcaption>
+                                <strong>Figure 2:</strong> Example questions in CV-Bench that focuses on 2D and 3D visual understanding.
+                            </figcaption>
+                        </figure>
+                    </d-figure>
+
+            </div>
+            <div id="sec:inst_tuning" class="sub-section">
+
+            <h1 class="text">Instruction Tuning Recipes </h1>
+                <p class="text">
+                    MLLMs connect pre-trained LLM and vision backbones using a connector such as an MLP projector. Various studies have suggested different optimal training methodologies for MLLMs.
+                </p>
+                <p class="text">
+                    <strong>One Stage vs Two Stage Training</strong> Recent work suggests skipping connector pre-training to reduce compute costs without harming performance.
+                    We experiment with 0, 0.5M, and 1.2M adapter data. Following LLaVA's method<d-cite key="liu2023visual"></d-cite>, we initially tune only the connector, then unfreeze both the LLM and connector for instruction tuning with a 737K data mix. <a href="#fig-studyadapter">Figure 3</a> indicates that pre-training the connector boosts performance, and using more adapter data enhances it further, leading us to standardize on a 2-stage training approach with 1.2M adapter data.
+                </p>
+
+                <p class="text">
+                    <strong>Freeze vs Unfreeze Vision Encoder</strong>
+                    There are also mixed practices in freezing or unfreezing vision backbones during fine-tuning.
+                    Some argue that unfreezing the vision backbone significantly degrades performance.
+                    Our experiments demonstrate that, with a reasonable vision model learning rate,
+                    unfreezing benefits performance across all benchmarks except for a marginal change in Knowledge benchmarks.
+                </p>
+                <d-figure id="fig-studyadapter" >
+                    <figure>
+                        <img data-zoomable="" draggable="false" src="static/img/performance_plot.png" alt="Instruction Tuning Recipes">
+                        <figcaption>
+                            <strong>Figure 3:</strong> MLLMs benefit from pre-training the adapter with more data, and finetuning with unfrozen visual encoder.
+                        </figcaption>
+                    </figure>
+                </d-figure>
+            </div>
+            <div id='visual-representation' class="viusal-representation-block">
+            <h1 class="text">MLLMs as a Vision Model Evaluator </h1>
+
+                <p class="text">
+                    MLLMs provide a more real-world evaluation of visual representations than traditional benchmarks like ImageNet-1k. We use 2-stage instruction tuning with 1.2M adapter data and 737K fine-tuning data to compare a variety of vision models on downstream MLLM performance.
+                    Our evaluations show language-supervised models exhibit strong advantages across all benchmark categories, especially in OCR & chart tasks. However, despite the smaller dataset size of SSL models like DINOv2, they perform competitively in vision-centric benchmarks.
+                </p>
+
+
+                <d-figure id="fig-mllm_as_interface">
+                    <figure class="responsive-content">
+                        <iframe src="static/img/tuning_recipes_plot.html"></iframe>
+                        <img data-zoomable="" draggable="false" src="static/img/mllm_interface_shared.png" alt="MLLMs as an interface to evaluate visual representations">
+                        <figcaption>
+                            <strong>Figure 4:</strong> MLLMs as an interface to evaluate visual representations.
+                        </figcaption>
+                    </figure>
+                    <p class="click-hint" style="width: 85%; margin-top: -2em;" id="mllm_interface_click_hint">
+                        <img src="static/img/icons/click.gif" style="width: 1.5rem">
+                        <strong>Hover & click to interact.</strong>
+                    </p>
+                </d-figure>
+                <p class="text">
+                    <strong>Narrowing the gap between CLIP and SSL models</strong>
+                    Above, we observe that DINOv2 stands midway between SSL models and CLIP models on general VQA and knowledge VQA tasks,
+                    even outperforming some CLIP models on vision-centric benchmarks with higher resolution.
+                    We investigate unfreezing the vision backbones and increasing the amount of visual fine-tuning data to narrow this gap.
+                    In <a href="#fig-narrowgap">Figure 5</a>, we observe that by unfreezing the vision backbone,
+                    the DINOv2-based MLLM fine-tuned with 5M data surpasses the MLLM trained with a CLIP model on 0.7M data.
+                    Additionally, the gap between DINOv2 and the CLIP models is reduced under the 5M data experiment setting.
+                </p>
+                <d-figure id="fig-narrowgap">
+                    <figure>
+                        <img data-zoomable="" draggable="false" src="static/img/narrow_gap.png" alt="Narrowing the gap between CLIP and SSL models">
+                        <figcaption>
+                            <strong>Figure 5:</strong> By unfreezing the visual backbone and fine-tuning on 5M examples, the gap between CLIP and DINOv2 can be narrowed.
+                        </figcaption>
+                    </figure>
+                </d-figure>
+
+                <p class="text">
+                    <strong>Combining Multiple Vision Encoders </strong>
+                    As observed in <a href="#fig-mllm_as_interface">Figure 4</a>, different vision models excel in different aspects of MLLM performance.
+                    We explore the potential of combining multiple vision encoders to leverage their distinctive representations.
+                    Given that different vision encoders use varying architectures and image resolutions, we interpolate the output visual tokens to a fixed number, 576.
+                    The results are tabulated in <a href="#tab:model_ensemble">Table 2</a>, where we observe consistent performance improvements with the addition of more models.
+                </p>
+
+                <div id="tab:model_ensemble" style="display: flex; flex-direction: column; align-items: center;">
+                    <div class="table-container">
+                        <table class="data-table">
+                            <thead>
+                            <tr>
+                                <th colspan="1" class="tb-hdr">Vision Backbone</th>
+                                <th colspan="1" class="tb-hdr"></th>
+                                <th colspan="4" class="tb-hdr">General</th>
+                                <th colspan="4" class="tb-hdr">Knowledge</th>
+                                <th colspan="4" class="tb-hdr">OCR & Chart</th>
+                                <th colspan="4" class="tb-hdr">Vision-Centric</th>
+                            </tr>
+                            <tr>
+                                <th class="section-border">Encoders</th>
+                                <th class="section-border"><b>Average</b></th>
+                                <th>MME<sup>P</sup></th>
+                                <th>MMB</th>
+                                <th>SEED<sup>I</sup></th>
+                                <th class="section-border">GQA</th>
+                                <th>SQA<sup>I</sup></th>
+                                <th>MMMU<sup>V</sup></th>
+                                <th>MathVista<sup>M</sup></th>
+                                <th class="section-border">AI2D</th>
+                                <th>ChartQA</th>
+                                <th>OCRBench</th>
+                                <th>TextVQA</th>
+                                <th class="section-border">DocVQA</th>
+                                <th>MMVP</th>
+                                <th>RealWorldQA</th>
+                                <th>CV-Bench<sup>2D</sup></th>
+                                <th>CV-Bench<sup>3D</sup></th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td class="section-border">SigLIP+DINOv2</td>
+                                <td class="section-border">51.61</td>
+                                <td>1,432.02</td>
+                                <td>61.28</td>
+                                <td>65.99</td>
+                                <td class="section-border">63.30</td>
+                                <td>68.82</td>
+                                <td>35.69</td>
+                                <td>29.40</td>
+                                <td class="section-border">60.01</td>
+                                <td>43.00</td>
+                                <td>35.70</td>
+                                <td>60.40</td>
+                                <td class="section-border">37.54</td>
+                                <td>30.00</td>
+                                <td>53.99</td>
+                                <td>55.52</td>
+                                <td>53.58</td>
+                            </tr>
+                            <tr>
+                                <td class="section-border">SigLIP+DINOv2+ConvNext</td>
+                                <td class="section-border">54.52</td>
+                                <td>1,503.51</td>
+                                <td>63.83</td>
+                                <td>67.97</td>
+                                <td class="section-border">63.95</td>
+                                <td>70.40</td>
+                                <td class="highlight">35.99</td>
+                                <td>29.30</td>
+                                <td class="section-border">60.69</td>
+                                <td>48.20</td>
+                                <td>36.90</td>
+                                <td>64.97</td>
+                                <td class="section-border">45.53</td>
+                                <td class="highlight">34.67</td>
+                                <td>58.69</td>
+                                <td>55.74</td>
+                                <td>60.33</td>
+                            </tr>
+                            <tr>
+                                <td class="section-border">SigLIP+DINOv2+ConvNext+CLIP</td>
+                                <td class="section-border highlight">54.74</td>
+                                <td>1,479.46</td>
+                                <td>63.32</td>
+                                <td>67.63</td>
+                                <td class="section-border highlight">64.04</td>
+                                <td class="highlight">71.39</td>
+                                <td>35.49</td>
+                                <td>29.10</td>
+                                <td class="section-border">59.88</td>
+                                <td>50.24</td>
+                                <td class="highlight">39.60</td>
+                                <td>64.55</td>
+                                <td class="section-border">46.12</td>
+                                <td>32.67</td>
+                                <td class="highlight">58.95</td>
+                                <td>58.54</td>
+                                <td class="highlight">60.42</td>
+                            </tr>
+                            <tr>
+                                <td class="section-border">SigLIP+ConvNext</td>
+                                <td class="section-border">54.53</td>
+                                <td>1,494.97</td>
+                                <td class="highlight">64.60</td>
+                                <td>67.98</td>
+                                <td class="section-border">63.58</td>
+                                <td>71.05</td>
+                                <td>34.90</td>
+                                <td>29.80</td>
+                                <td class="section-border">60.85</td>
+                                <td>50.64</td>
+                                <td>38.00</td>
+                                <td>64.53</td>
+                                <td class="section-border">46.52</td>
+                                <td>32.00</td>
+                                <td>57.91</td>
+                                <td class="highlight">58.83</td>
+                                <td>56.58</td>
+                            </tr>
+                            <tr>
+                                <td class="section-border">CLIP+ConvNext</td>
+                                <td class="section-border">54.45</td>
+                                <td class="highlight">1,511.08</td>
+                                <td>63.83</td>
+                                <td>67.41</td>
+                                <td class="section-border">63.63</td>
+                                <td>70.80</td>
+                                <td>35.09</td>
+                                <td>30.40</td>
+                                <td class="section-border">59.91</td>
+                                <td>51.32</td>
+                                <td>35.00</td>
+                                <td>64.45</td>
+                                <td class="section-border">47.88</td>
+                                <td>33.33</td>
+                                <td>57.25</td>
+                                <td>56.32</td>
+                                <td>59.08</td>
+                            </tr>
+                            <tr>
+                                <td class="section-border">SigLIP+DINOv2+ConvNext</td>
+                                <td class="section-border">53.78</td>
+                                <td>1,450.64</td>
+                                <td>63.57</td>
+                                <td>67.79</td>
+                                <td class="section-border">63.63</td>
+                                <td>71.34</td>
+                                <td>34.80</td>
+                                <td>30.20</td>
+                                <td class="section-border highlight">61.04</td>
+                                <td>49.32</td>
+                                <td>37.70</td>
+                                <td>64.05</td>
+                                <td class="section-border">45.83</td>
+                                <td>30.00</td>
+                                <td>56.21</td>
+                                <td>58.08</td>
+                                <td>54.33</td>
+                            </tr>
+                            <tr>
+                                <td class="section-border">SigLIP+CLIP+ConvNext</td>
+                                <td class="section-border">54.53</td>
+                                <td>1,507.28</td>
+                                <td>63.23</td>
+                                <td class="highlight">68.64</td>
+                                <td class="section-border">63.63</td>
+                                <td>71.10</td>
+                                <td>35.89</td>
+                                <td class="highlight">30.90</td>
+                                <td class="section-border">59.97</td>
+                                <td class="highlight">52.36</td>
+                                <td>38.50</td>
+                                <td class="highlight">65.40</td>
+                                <td class="section-border highlight">47.92</td>
+                                <td>28.67</td>
+                                <td>57.25</td>
+                                <td>57.66</td>
+                                <td>55.92</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <figcaption style="text-align: center; width: 140%;">
+                        Table 2: All Benchmark Results for Model Ensemble with 1.2M Adapter Data + 737K
+                        Instruction Tuning Data
+                    </figcaption>
+                </div>
+
+                <p class="text">
+                    However, this strategy has two limitations:
+                    1) it employs interpolation, which can potentially lead to information loss, especially on vision encoders with high-resolution feature maps, and
+                    2) it treats each model equally by simple concatenation.
+                    Therefore, we seek a more effective strategy that fully leverages model combinations with less information loss and more flexibility.
+                </p>
+
+        </div>
+        </div>
+
+        <div id='connector_design' class="connector-block">
+
+            <h1 class="text">Spatial Vision Aggregator (SVA): A New Connector Design</h1>
+            <p class="text">
+                To effectively aggregate features from multiple vision encoders and reduce information loss during interpolation, we use a set of learnable latent queries that interact with multiple vision features through cross-attention layers<d-cite key="dai2024instructblip"></d-cite>.
+                In particular, our approach incorporates two new vision-centric design principles:
+                <ol class="text">
+                    <li>We encode spatial inductive bias by explicitly localizing the aggregation space for each token in the query.</li>
+                    <li>We perform vision feature aggregation multiple times across the LLM layers, allowing the model to repeatedly reference necessary visual information.</li>
+                </ol>
+            </p>
+            <d-figure id="fig-vision_connector">
+                <figure>
+                    <img data-zoomable="" draggable="false" src="static/img/sva.png" alt="Spatial Vision Aggregator (SVA)">
+                    <figcaption>
+                        <strong>Figure 6:</strong> Spatial Vision Aggregator (SVA).
+                    </figcaption>
+                </figure>
+            </d-figure>
+        </div>
+
+        <div id="instruction_data" class="data-block">
+            <h1 class="text">Instruction Tuning Data for Training MLLMs</h1>
+            <p class="text">
+                Previous work highlights the importance of data in training MLLMs, but explicit investigations are limited.
+                In this study, we gather all available instruction tuning data and examine data curation by enhancing diversity, balancing sources, and improving mixtures.
+
+            </p>
+
+            <div class="subsection">
+                <h3 class="text">Data Collection</h3>
+                <p class="text" id="data_collection">
+                    <strong>Collecting Instruction Tuning Data from existing data sources</strong>
+                    We first use existing multimodal benchmarks and datasets involving visual interaction data,
+                    such as Visual Question Answering (VQA) and OCR data.
+                    We also collect a small volume of high-quality language-only instruction-following data to maintain its language ability.
+                </p>
+                <d-figure id="fig-cambrian7m">
+                    <figure>
+                        <img data-zoomable="" draggable="false" src="static/img/cambrian_7m.png" alt="Cambrian-7M: A Large-Scale Curated Instruction Tuning Dataset for Training MLLM">
+                        <figcaption>
+                            <strong>Figure 7:</strong> Cambrian-7M: A Large-Scale Curated Instruction Tuning Dataset for Training MLLM.
+                        </figcaption>
+                    </figure>
+                </d-figure>
+                <p class="text">
+                    <strong>Targeted Internet Data Collection Engine</strong>
+                    We also introduce a data engine designed to create large-scale, reliable,
+                    high-quality knowledge-based multimodal instruction tuning data.
+                </p>
+                <d-figure id="fig-dataengine">
+                    <figure>
+                        <img data-zoomable="" draggable="false" src="static/img/dataenginefigurepdf_crop.png" alt="Targeted Internet Data Collection Engine">
+                        <figcaption>
+                            <strong>Figure 8:</strong> Targeted Internet Data Collection Engine.
+                        </figcaption>
+                    </figure>
+                </d-figure>
+
+                <p class="text">
+                    <strong>Cambrian-10M</strong>
+                    To this end, we create a large pool of instruction tuning data, which we refer to as Cambrian-10M.
+                    This pool contains approximately 9784k data points, offering a diverse range of data for our work and future research.
+                    We visualize its composition in <a href="#fig-cambrian7m">Figure 7</a>.
+                </p>
+            </div>
+
+            <div id="sec:data_curation" class="subsection">
+                <h3 class="text">Data Curation</h3>
+                <p class="text">
+                    Cambrian-10M is a large pool of instruction tuning data sourced from a variety of data sources,
+                    with an unbalanced data ratio between categories.
+                    Here, we take a preliminary step to study data curation by improving data balancing and adjusting data ratios.
+                </p>
+
+                <p class="text" id="data_curation">
+                    <strong>Data Balancing</strong>
+                    We follow previous work to set thresholds t
+                    for the number of data points from a single data source.
+                    We choose t = 150k, 250k, 350k, and 450k in this section and observe an
+                    elbow effect in <a href="#tab:data_balance_result">Table 3</a>&mdash;finding that a threshold between 250k and 350k work the best for Cambrian-10M.
+                </p>
+                <d-figure id="fig-filter_k">
+                    <figure>
+                        <img data-zoomable="" draggable="false" src="static/img/Cumulative_Sum_of_Counts.png" alt="Data Balancing via Applying Thresholds on Data Sources">
+                        <figcaption>
+                            <strong>Figure 9:</strong> Data Balancing via Applying Thresholds on Data Sources.
+                        </figcaption>
+                    </figure>
+                </d-figure>
+                <br>
+                <div id="tab:data_balance_result" style="display: flex; flex-direction: column; align-items: center;">
+                    <div class="table-container">
+                        <table class="data-table">
+                          <thead>
+                            <tr>
+                              <th></th>
+                              <th>Average</th>
+                              <th>General</th>
+                              <th>Knowledge</th>
+                              <th>OCR & Chart</th>
+                              <th>Vision-Centric</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td>150k</td>
+                              <td>53.7</td>
+                              <td>68.0</td>
+                              <td>51.3</td>
+                              <td>45.2</td>
+                              <td>50.5</td>
+                            </tr>
+                            <tr>
+                              <td>250k</td>
+                              <td class="highlight">54.3</td>
+                              <td class="highlight">68.1</td>
+                              <td>51.5</td>
+                              <td>45.3</td>
+                              <td>52.2</td>
+                            </tr>
+                            <tr>
+                              <td>350k</td>
+                              <td class="highlight">54.3</td>
+                              <td>67.4</td>
+                              <td>51.4</td>
+                              <td class="highlight">46.0</td>
+                              <td class="highlight">52.3</td>
+                            </tr>
+                            <tr>
+                              <td>450k</td>
+                              <td>54.2</td>
+                              <td>68.0</td>
+                              <td class="highlight">52.2</td>
+                              <td>45.5</td>
+                              <td>50.7</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+
+                    <figcaption style="text-align: center; width: 100%;">
+                        <strong>Table 3:</strong> Threshold 𝑡 value between 250k and 350k obtains better performance.
+                    </figcaption>
+                </div>
+
+                <p class="text">
+                    <strong>Data Ratio</strong>
+                    Given the various capabilities of different types of visual instruction tuning data, it is essential to balance the ratio of these data types.
+                    We conduct pilot experiments with a fixed dataset size of 1350k,
+                    examining the impact of different data ratios on downstream performance.
+                    We visualize the results in <a href="#fig-data_ratio">Figure 10</a> and summarize our findings as follows:
+                    (i) Balancing General, OCR, and Language data is crucial.
+                    (ii) Performance on knowledge-intensive tasks is influenced by multiple factors,
+                    often requiring a mix of OCR, chart, reasoning, and general perception.
+                </p>
+                <d-figure id="fig-data_ratio">
+                    <figure>
+                        <img data-zoomable="" draggable="false" src="static/img/data_mixture_ratio_w_avg_score.png" alt="Exploring instruction tuning data mixture ratios">
+                        <figcaption>
+                            <strong>Figrue 10:</strong> Exploring instruction tuning data mixture ratios.
+                        </figcaption>
+                    </figure>
+                </d-figure>
+
+                <p class="text">
+                    <strong>Cambrian-7M</strong>
+                    By applying data filtering to Cambrian-10M with our identified data ratio, we create a smaller but higher-quality dataset called Cambrian-7M.
+                    <a href="#tab:data_ratio_result">Table 4</a> showcases the benefits of a well-balanced and carefully curated dataset. Despite having fewer samples, Cambrian-7M demonstrates improved performance.
+                </p>
+                <div id="tab:data_ratio_result" style="display: flex; flex-direction: column; align-items: center;">
+                    <div class="table-container">
+                        <table class="data-table">
+                          <thead>
+                            <tr>
+                              <th></th>
+                              <th>Average</th>
+                              <th>General</th>
+                              <th>Knowledge</th>
+                              <th>OCR & Chart</th>
+                              <th>Vision-Centric</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td>LLaVA-665K</td>
+                              <td>40.7</td>
+                              <td>64.7</td>
+                              <td>45.2</td>
+                              <td>20.8</td>
+                              <td>32.0</td>
+                            </tr>
+                            <tr>
+                              <td>Cambrian-10M</td>
+                              <td>54.8</td>
+                              <td>68.7</td>
+                              <td>51.6</td>
+                              <td class="highlight">47.3</td>
+                              <td>51.4</td>
+                            </tr>
+                            <tr>
+                              <td>Cambrian-7M</td>
+                              <td class="highlight">55.9</td>
+                              <td class="highlight">69.6</td>
+                              <td class="highlight">52.6</td>
+                              <td class="highlight">47.3</td>
+                              <td class="highlight">54.1</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    <figcaption style="text-align: center; width: 100%;">
+                        Table 4: Performance improves with better instruction tuning data curation.
+                    </figcaption>
+                </div>
+
+
+            </div>
+
+            <div class="subsection">
+                <h3 class="text">Alleviating the "Answer Machine Phenomenon" via System Prompts</h3>
+                <p class="text">
+                    Here, we investigate a phenomenon we term the "answer machine phenomenon."
+                    We observe that a well-trained MLLM may excel at VQA benchmarks, but lack basic conversational abilities and default to outputting short, curt responses (see examples in <a href="#fig-sysprompt">Figure 5</a>).
+                </p>
+
+                <p class="text">
+                    To address this, we find that incorporating additional system prompts during training mitigates this phenomenon.
+                    We append prompts such as "<em>Answer the question using a single word or phrase.</em>"
+                    before questions that generate a single word or phrase in the response.
+                    We observe that after integrating these system prompts, the model's benchmark performance remains unchanged,
+                    while its conversational ability significantly improves.
+                </p>
+                <d-figure id="fig-sysprompt">
+                    <figure>
+                        <img data-zoomable="" draggable="false" src="static/img/sysprompt.jpg" alt="Incorporating System Prompt in Instruction Tuning Data alleviates “Answer Machine Phenomenon”">
+                        <figcaption>
+                            <strong>Figure 11:</strong> Incorporating System Prompt in Instruction Tuning Data alleviates the “Answer Machine Phenomenon”.
+                        </figcaption>
+                    </figure>
+                </d-figure>
+            </div>
+        </div>
+
+        <div id='sota' class="sota-block">
+            <h1 class="text">State of the Art MLLM Performance</h1>
+            <p class="text">
+                Finally, we leverage the insights from all of our previous studies to train a high-performance Cambrian model.
+                We train with three different sizes of LLM backbones: LLaMA-3-Instruct-8B, Vicuna-1.5-13B, and Hermes-2-Yi-34B.
+                Our visual tower uses a combination of four models&mdash;SigLIP, CLIP, DINOv2, and OpenCLIP ConvNeXt
+                (see <a href="#sec:model_ensemble">Combining Multiple Vision Encoders</a>) with the <a href="#connector_design">Spatial Vision Aggregator</a>.
+                We use 2.5M adapter data and Cambrian-7M instruction tuning data (see <a href="#sec:data_curation">Data Curation</a>).
+                We evaluate our models on the <a href="#sec:benchmarking">categorized benchmarks</a>, and tabulate the results in <a href="#tab:final_table">Table 5</a>. Cambrian-1 exceeds other open-source models such as LLaVA-NeXT and Mini-Gemini, and achieves comparable performance on a number of benchmarks with the best proprietary models such as GPT-4V, Gemini-Pro, and MM-1.
+            </p>
+            <div id="tab:final_table" style="display: flex; flex-direction: column; align-items: center;" class="figure">
+                <div class="table-container">
+                    <table class="data-table">
+                        <thead>
+                        <tr>
+                            <th colspan="2" class="tb-hdr">Model</th>
+                            <th colspan="5" class="tb-hdr">General</th>
+                            <th colspan="5" class="tb-hdr">Knowledge</th>
+                            <th colspan="5" class="tb-hdr">OCR & Chart</th>
+                            <th colspan="5" class="tb-hdr">Vision-Centric</th>
+                        </tr>
+                        <tr>
+                            <th>Method</th>
+                            <th class="rotate"># Vis Tok.</th>
+                            <th class="rotate">Avg</th>
+                            <th class="rotate">MME<sup>P</sup></th>
+                            <th class="rotate">MMB</th>
+                            <th class="rotate">SEED<sup>I</sup></th>
+                            <th class="rotate">GQA</th>
+                            <th class="rotate">Avg</th>
+                            <th class="rotate">SQA<sup>I</sup></th>
+                            <th class="rotate">MMMU<sup>V</sup></th>
+                            <th class="rotate">MathVista<sup>M</sup></th>
+                            <th class="rotate">AI2D</th>
+                            <th class="rotate">Avg</th>
+                            <th class="rotate">ChartQA</th>
+                            <th class="rotate">OCRBench</th>
+                            <th class="rotate">TextVQA</th>
+                            <th class="rotate">DocVQA</th>
+                            <th class="rotate">Avg</th>
+                            <th class="rotate">MMVP</th>
+                            <th class="rotate">RealworldQA</th>
+                            <th class="rotate">CV-Bench<sup>2D</sup></th>
+                            <th class="rotate">CV-Bench<sup>3D</sup></th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td>GPT-4V</td>
+                            <td>UNK.</td>
+                            <td>63.0</td>
+                            <td>1409.4</td>
+                            <td>75.8</td>
+                            <td>69.1</td>
+                            <td>36.8</td>
+                            <td>65.2</td>
+                            <td>75.7</td>
+                            <td>56.8</td>
+                            <td>49.9</td>
+                            <td>78.2</td>
+                            <td>77.4</td>
+                            <td>78.5</td>
+                            <td>64.5</td>
+                            <td>78.0</td>
+                            <td>88.4</td>
+                            <td>62.4</td>
+                            <td>50.0</td>
+                            <td>61.4</td>
+                            <td>64.3</td>
+                            <td>73.8</td>
+                        </tr>
+                        <tr>
+                            <td>Gemini-1.0 Pro</td>
+                            <td>UNK.</td>
+                            <td>-</td>
+                            <td>1496.6</td>
+                            <td>73.6</td>
+                            <td>70.7</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>79.5</td>
+                            <td>47.9</td>
+                            <td>45.2</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>65.9</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>Gemini-1.5 Pro</td>
+                            <td>UNK.</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>58.5</td>
+                            <td>52.1</td>
+                            <td>80.3</td>
+                            <td>-</td>
+                            <td>81.3</td>
+                            <td>-</td>
+                            <td>73.5</td>
+                            <td>86.5</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>67.5</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>Grok-1.5</td>
+                            <td>UNK.</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>53.6</td>
+                            <td>52.8</td>
+                            <td>88.3</td>
+                            <td>-</td>
+                            <td>76.1</td>
+                            <td>-</td>
+                            <td>78.1</td>
+                            <td>85.6</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>68.7</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>MM-1-8B</td>
+                            <td>144</td>
+                            <td>-</td>
+                            <td>1529.3</td>
+                            <td>72.3</td>
+                            <td>69.9</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>72.6</td>
+                            <td>37.0</td>
+                            <td>35.9</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>MM-1-30B</td>
+                            <td>144</td>
+                            <td>-</td>
+                            <td>1637.6</td>
+                            <td>75.1</td>
+                            <td>72.1</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>81.0</td>
+                            <td>44.7</td>
+                            <td>39.4</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                        </tr>
+                        <tr class="highlight-gray">
+                            <td colspan="22"><i>Base LLM: Llama-3-Ins-8B</i></td>
+                        </tr>
+                        <tr>
+                            <td>Mini-Gemini-HD-8B</td>
+                            <td>2880</td>
+                            <td>72.7</td>
+                            <td><b>1606.0</b></td>
+                            <td>72.7</td>
+                            <td>73.2</td>
+                            <td>64.5</td>
+                            <td>55.7</td>
+                            <td>75.1</td>
+                            <td>37.3</td>
+                            <td>37.0</td>
+                            <td><b>73.5</b></td>
+                            <td>62.9</td>
+                            <td>59.1</td>
+                            <td>47.7</td>
+                            <td>70.2</td>
+                            <td>74.6</td>
+                            <td>51.5</td>
+                            <td>18.7</td>
+                            <td>62.1</td>
+                            <td>62.2</td>
+                            <td>63.0</td>
+                        </tr>
+                        <tr>
+                            <td>LLaVA-NeXT-8B</td>
+                            <td>2880</td>
+                            <td>72.5</td>
+                            <td>1603.7</td>
+                            <td>72.1</td>
+                            <td>72.7</td>
+                            <td><b>65.2</b></td>
+                            <td>55.6</td>
+                            <td>72.8</td>
+                            <td>41.7</td>
+                            <td>36.3</td>
+                            <td>71.6</td>
+                            <td>63.9</td>
+                            <td>69.5</td>
+                            <td>49.0</td>
+                            <td>64.6</td>
+                            <td>72.6</td>
+                            <td>56.6</td>
+                            <td>38.7</td>
+                            <td>60.1</td>
+                            <td>62.2</td>
+                            <td>65.3</td>
+                        </tr>
+                        <tr class="highlight-orange">
+                            <td>Cambrian-1-8B</td>
+                            <td class="highlight-blue">576</td>
+                            <td><b>73.1</b></td>
+                            <td>1,547.1</td>
+                            <td><b>75.9</b></td>
+                            <td><b>74.7</b></td>
+                            <td>64.6</td>
+                            <td><b>61.3</b></td>
+                            <td><b>80.4</b></td>
+                            <td><b>42.7</b></td>
+                            <td><b>49.0</b></td>
+                            <td>73.0</td>
+                            <td><b>71.3</b></td>
+                            <td><b>73.3</b></td>
+                            <td><b>62.4</b></td>
+                            <td><b>71.7</b></td>
+                            <td><b>77.8</b></td>
+                            <td><b>65.0</b></td>
+                            <td><b>51.3</b></td>
+                            <td><b>64.2</b></td>
+                            <td><b>72.3</b></td>
+                            <td><b>72.0</b></td>
+                        </tr>
+                        <tr class="highlight-gray">
+                            <td colspan="22"><i>Base LLM: Vicuna-1.5-13B</i></td>
+                        </tr>
+                        <tr>
+                            <td>Mini-Gemini-HD-13B</td>
+                            <td>2880</td>
+                            <td>70.7</td>
+                            <td>1597.0</td>
+                            <td>68.6</td>
+                            <td>70.6</td>
+                            <td>63.7</td>
+                            <td>54.1</td>
+                            <td>71.9</td>
+                            <td>37.3</td>
+                            <td>37.0</td>
+                            <td>70.1</td>
+                            <td>60.8</td>
+                            <td>56.6</td>
+                            <td>46.6</td>
+                            <td>70.2</td>
+                            <td>69.8</td>
+                            <td>49.4</td>
+                            <td>19.3</td>
+                            <td>57.5</td>
+                            <td>53.6</td>
+                            <td>67.3</td>
+                        </tr>
+                        <tr>
+                            <td>LLaVA-NeXT-13B</td>
+                            <td>2880</td>
+                            <td>69.9</td>
+                            <td>1575.0</td>
+                            <td>70.0</td>
+                            <td>65.6</td>
+                            <td><b>65.4</b></td>
+                            <td>53.7</td>
+                            <td>73.5</td>
+                            <td>36.2</td>
+                            <td>35.1</td>
+                            <td>70.0</td>
+                            <td>62.9</td>
+                            <td>62.2</td>
+                            <td>51.4</td>
+                            <td>67.1</td>
+                            <td>70.9</td>
+                            <td>55.9</td>
+                            <td>36.0</td>
+                            <td>59.1</td>
+                            <td>62.7</td>
+                            <td>65.7</td>
+                        </tr>
+                        <tr class="highlight-orange">
+                            <td>Cambrian-1-13B</td>
+                            <td class="highlight-blue">576</td>
+                            <td><b>73.7</b></td>
+                            <td><b>1,610.4</b></td>
+                            <td><b>75.7</b></td>
+                            <td><b>74.4</b></td>
+                            <td>64.3</td>
+                            <td><b>60.2</b></td>
+                            <td><b>79.3</b></td>
+                            <td><b>40.0</b></td>
+                            <td><b>48.0</b></td>
+                            <td><b>73.6</b></td>
+                            <td><b>71.3</b></td>
+                            <td><b>73.8</b></td>
+                            <td><b>61.9</b></td>
+                            <td><b>72.8</b></td>
+                            <td><b>76.8</b></td>
+                            <td><b>62.2</b></td>
+                            <td><b>41.3</b></td>
+                            <td><b>63.0</b></td>
+                            <td><b>72.5</b></td>
+                            <td><b>71.8</b></td>
+                        </tr>
+                        <tr class="highlight-gray">
+                            <td colspan="22"><i>Base LLM: Hermes2-Yi-34B</i></td>
+                        </tr>
+                        <tr>
+                            <td>Mini-Gemini-HD-34B</td>
+                            <td>2880</td>
+                            <td>76.2</td>
+                            <td>1659.0</td>
+                            <td>80.6</td>
+                            <td>75.3</td>
+                            <td>65.8</td>
+                            <td>62.4</td>
+                            <td>77.7</td>
+                            <td>48.0</td>
+                            <td>43.4</td>
+                            <td><b>80.5</b></td>
+                            <td>68.1</td>
+                            <td>67.6</td>
+                            <td>51.8</td>
+                            <td>74.1</td>
+                            <td><b>78.9</b></td>
+                            <td>63.8</td>
+                            <td>37.3</td>
+                            <td>67.2</td>
+                            <td>71.5</td>
+                            <td>79.2</td>
+                        </tr>
+                        <tr>
+                            <td>LLaVA-NeXT-34B</td>
+                            <td>2880</td>
+                            <td>76.0</td>
+                            <td>1633.2</td>
+                            <td>79.3</td>
+                            <td><b>75.9</b></td>
+                            <td><b>67.1</b></td>
+                            <td>62.5</td>
+                            <td>81.8</td>
+                            <td>46.7</td>
+                            <td>46.5</td>
+                            <td>74.9</td>
+                            <td>67.7</td>
+                            <td>68.7</td>
+                            <td>54.5</td>
+                            <td>69.5</td>
+                            <td>78.1</td>
+                            <td>64.0</td>
+                            <td>47.3</td>
+                            <td>61.0</td>
+                            <td>73.0</td>
+                            <td>74.8</td>
+                        </tr>
+                        <tr class="highlight-orange">
+                            <td>Cambrian-1-34B</td>
+                            <td class="highlight-blue">576</td>
+                            <td><b>76.8</b></td>
+                            <td><b>1689.3</b></td>
+                            <td><b>81.4</b></td>
+                            <td>75.3</td>
+                            <td>65.8</td>
+                            <td><b>67.0</b></td>
+                            <td><b>85.6</b></td>
+                            <td><b>49.7</b></td>
+                            <td><b>53.2</b></td>
+                            <td>79.7</td>
+                            <td><b>71.9</b></td>
+                            <td><b>75.6</b></td>
+                            <td><b>60.0</b></td>
+                            <td><b>76.7</b></td>
+                            <td>75.5</td>
+                            <td><b>68.5</b></td>
+                            <td><b>52.7</b></td>
+                            <td><b>67.8</b></td>
+                            <td><b>74.0</b></td>
+                            <td><b>79.7</b></td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <figcaption style="text-align: center; width: 140%;">
+                    Table 5: Cambrian-1 outperforms other open-source models and achieves comparable performance with proprietary models, while using only 576 visual tokens.
+                </figcaption>
+            </div>
+            <p style="padding: 1em"></p>
+            <d-figure id="fig-comparison">
+                <figure>
+                    <img data-zoomable="" draggable="false" src="static/img/comparison.PNG" alt="Cambrian-1 outperforms other open-source models and achieves comparable performance with proprietary models">
+                    <figcaption>
+                        <strong>Figure 12:</strong> Cambrian-1 outperforms other open-source models and achieves comparable performance with proprietary models.
+                    </figcaption>
+                </figure>
+            </d-figure>
+
+        </div>
+
+        <div id="conclusion" style="position: relative; margin-top: 40px; margin-bottom: 0px;">
+            <h2 class="text" style="margin-top:0px; margin-bottom:10px">Conclusion</h2>
+            <p class="text">
+                To conclude, Cambrian-1 is a family of state-of-the-art MLLMs that achieve top performance across diverse benchmarks
+                and excel in visual-centric tasks. We provide model weights, open-source code, datasets, and detailed recipes for model training and evaluation.
+                We hope our work will strengthen the open research community and accelerate research in both visual representation learning and multimodal systems.
+            </p>
+        </div>
+
+        </d-article>
+        <d-appendix>
+            <h3>BibTeX</h3>
+            <p class="bibtex">
+                @article{tong2024cambrian,<br>
+                &nbsp;&nbsp;title={{Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs}},<br>
+                &nbsp;&nbsp;author={Tong, Shengbang and Brown, Ellis and Wu, Penghao and Woo, Sanghyun and Middepogu, Manoj and Akula, Sai Charitha and Yang, Jihan and Yang, Shusheng, and Iyer, Adithya and Pan, Xichen and Wang, Austin and Fergus, Rob and LeCun, Yann and Xie, Saining},<br>
+                &nbsp;&nbsp;journal={arXiv preprint arXiv:2406.16860},<br>
+                &nbsp;&nbsp;year={2024}<br>
+                }
+            </p>
+
+            <d-footnote-list></d-footnote-list>
+            <d-citation-list></d-citation-list>
+        </d-appendix>
+        <!-- bibliography will be inlined during Distill pipeline's pre-rendering -->
+        <d-bibliography src="bibliography.bib"></d-bibliography>
+        <script src="./static/js/nav-bar.js"></script>
+    </body>
+</html>
